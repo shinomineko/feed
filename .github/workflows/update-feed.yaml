@@ -1,9 +1,10 @@
-name: Build site on scheulde or main branch update
+name: build site
 
 on:
   push:
     branches:
       - main
+
   schedule:
     - cron: "0 */6 * * *"
 
@@ -17,10 +18,13 @@ jobs:
         uses: actions/setup-node@v2.1.4
         with:
           node-version: "14"
+
       - name: Install dependencies
         run: npm i
+
       - name: Build the feed
         run: npm run build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
