@@ -1,234 +1,215 @@
 {
   "sources": [
     {
-      "href": "https://xkcd.com/atom.xml",
+      "title": "xkcd.com",
+      "feedUrl": "https://xkcd.com/atom.xml",
+      "siteUrl": "https://xkcd.com/",
       "articles": [
         {
           "id": "https://xkcd.com/2460/",
-          "author": "xkcd.com",
+          "author": null,
           "description": "",
           "link": "https://xkcd.com/2460/",
           "publishedOn": "2021-05-07T00:00:00.000Z",
           "wordCount": 183,
-          "sourceHref": "https://xkcd.com/atom.xml",
-          "sourceTitle": "xkcd.com",
           "title": "Vaccinated"
         },
         {
           "id": "https://xkcd.com/2459/",
-          "author": "xkcd.com",
+          "author": null,
           "description": "",
           "link": "https://xkcd.com/2459/",
           "publishedOn": "2021-05-05T00:00:00.000Z",
           "wordCount": 185,
-          "sourceHref": "https://xkcd.com/atom.xml",
-          "sourceTitle": "xkcd.com",
           "title": "March 2020"
         },
         {
           "id": "https://xkcd.com/2458/",
-          "author": "xkcd.com",
+          "author": null,
           "description": "",
           "link": "https://xkcd.com/2458/",
           "publishedOn": "2021-05-03T00:00:00.000Z",
           "wordCount": 185,
-          "sourceHref": "https://xkcd.com/atom.xml",
-          "sourceTitle": "xkcd.com",
           "title": "Bubble Wrap"
         },
         {
           "id": "https://xkcd.com/2457/",
-          "author": "xkcd.com",
+          "author": null,
           "description": "",
           "link": "https://xkcd.com/2457/",
           "publishedOn": "2021-04-30T00:00:00.000Z",
           "wordCount": 187,
-          "sourceHref": "https://xkcd.com/atom.xml",
-          "sourceTitle": "xkcd.com",
           "title": "After the Pandemic"
         }
       ]
     },
     {
-      "href": "https://www.monkeyuser.com/feed.xml",
+      "title": "MonkeyUser",
+      "feedUrl": "https://www.monkeyuser.com/feed.xml",
+      "siteUrl": "https://www.monkeyuser.com",
       "articles": [
         {
           "id": "https://www.monkeyuser.com/2021/confidence/",
-          "author": "MonkeyUser",
+          "author": null,
           "description": "",
           "link": "https://www.monkeyuser.com/2021/confidence/",
           "publishedOn": "2021-04-28T00:00:00.000Z",
           "wordCount": 50,
-          "sourceHref": "https://www.monkeyuser.com/feed.xml",
-          "sourceTitle": "MonkeyUser",
           "title": "Confidence"
         },
         {
           "id": "https://www.monkeyuser.com/2021/perfect-fit/",
-          "author": "MonkeyUser",
+          "author": null,
           "description": "",
           "link": "https://www.monkeyuser.com/2021/perfect-fit/",
           "publishedOn": "2021-04-23T00:00:00.000Z",
           "wordCount": 50,
-          "sourceHref": "https://www.monkeyuser.com/feed.xml",
-          "sourceTitle": "MonkeyUser",
           "title": "Perfect Fit"
         },
         {
           "id": "https://www.monkeyuser.com/2021/meeting/",
-          "author": "MonkeyUser",
+          "author": null,
           "description": "Software development satire",
           "link": "https://www.monkeyuser.com/2021/meeting/",
           "publishedOn": "2021-04-15T00:00:00.000Z",
           "wordCount": 48,
-          "sourceHref": "https://www.monkeyuser.com/feed.xml",
-          "sourceTitle": "MonkeyUser",
           "title": "Meeting"
         },
         {
           "id": "https://www.monkeyuser.com/2021/introduction/",
-          "author": "MonkeyUser",
+          "author": null,
           "description": "",
           "link": "https://www.monkeyuser.com/2021/introduction/",
           "publishedOn": "2021-04-13T00:00:00.000Z",
           "wordCount": 47,
-          "sourceHref": "https://www.monkeyuser.com/feed.xml",
-          "sourceTitle": "MonkeyUser",
           "title": "Introduction"
         }
       ]
     },
     {
-      "href": "https://turnoff.us/feed.xml",
+      "title": "turnoff.us - geek comic site",
+      "feedUrl": "https://turnoff.us/feed.xml",
+      "siteUrl": "http://turnoff.us/",
       "articles": []
     },
     {
-      "href": "https://www.schneier.com/feed/atom/",
+      "title": "Schneier on Security",
+      "feedUrl": "https://www.schneier.com/feed/atom/",
+      "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html",
+          "author": null,
+          "description": "This is a newly unclassified NSA history of its reaction to academic cryptography in the 1970s: &#8220;New Comes Out of the Closet: The Debate over Public Cryptography in the Inman Era,&#8221; Cryptographic Quarterly, Spring 1996, author still classified.",
+          "link": "https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html",
+          "publishedOn": "2021-05-10T11:21:09.000Z",
+          "wordCount": 352,
+          "title": "Newly Unclassified NSA Document on Cryptography in the 1970s"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/05/friday-squid-blogging-covid-relief-funds.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "A town in Japan built a giant squid statue with its COVID relief grant.\nOne local told the Chunichi Shimbun newspaper that while the statue may be effective in the long run, the money could have been used for &#8220;urgent support,&#8221; such as for medical staff and long-term care facilities.\nBut a spokesperson for the town told Fuji News Network that the statue would be a tourist attraction and part of a long term strategy to help promote Noto&#8217;s famous flying squid.\n\nI am impressed by the town&#821…",
           "link": "https://www.schneier.com/blog/archives/2021/05/friday-squid-blogging-covid-relief-funds.html",
           "publishedOn": "2021-05-07T21:13:12.000Z",
-          "wordCount": 6556,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 12975,
           "title": "Friday Squid Blogging: COVID Relief Funds"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/05/teaching-cybersecurity-to-children.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "A new draft of an Australian educational curriculum proposes teaching children as young as five cybersecurity:\nThe proposed curriculum aims to teach five-year-old children &#8212; an age at which Australian kids first attend school &#8212; not to share information such as date of birth or full names with strangers, and that they should consult parents or guardians before entering personal information online.\nSix-and-seven-year-olds will be taught how to use usernames and passwords, and the pitfalls of click…",
           "link": "https://www.schneier.com/blog/archives/2021/05/teaching-cybersecurity-to-children.html",
           "publishedOn": "2021-05-07T13:36:16.000Z",
-          "wordCount": 3740,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 3741,
           "title": "Teaching Cybersecurity to Children"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/05/the-story-of-colossus.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "Nice video of a talk by Chris Shore on the history of Colossus.",
           "link": "https://www.schneier.com/blog/archives/2021/05/the-story-of-colossus.html",
           "publishedOn": "2021-05-06T11:11:45.000Z",
-          "wordCount": 3647,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 3658,
           "title": "The Story of Colossus"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/05/new-spectre-like-attacks.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "There&#8217;s new research that demonstrates security vulnerabilities in all of the AMD and Intel chips with micro-op caches, including the ones that were specifically engineered to be resistant to the Spectre/Meltdown attacks of three years ago.\nDetails:\nThe new line of attacks exploits the micro-op cache: an on-chip structure that speeds up computing by storing simple commands and allowing the processor to fetch them quickly and early in the speculative execution process, as the team explains in a writeup…",
           "link": "https://www.schneier.com/blog/archives/2021/05/new-spectre-like-attacks.html",
           "publishedOn": "2021-05-05T15:35:45.000Z",
-          "wordCount": 4527,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 4538,
           "title": "New Spectre-Like Attacks"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/05/tesla-remotely-hacked-from-a-drone.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "This is an impressive hack:\nSecurity researchers Ralf-Philipp Weinmann of Kunnamon, Inc. and Benedikt Schmotzle of Comsecuris GmbH have found remote zero-click security vulnerabilities in an open-source software component (ConnMan) used in Tesla automobiles that allowed them to compromise parked cars and control their infotainment systems over WiFi. It would be possible for an attacker to unlock the doors and trunk, change seat positions, both steering and acceleration modes &#8212; in short, pretty much wh…",
           "link": "https://www.schneier.com/blog/archives/2021/05/tesla-remotely-hacked-from-a-drone.html",
           "publishedOn": "2021-05-04T14:41:45.000Z",
-          "wordCount": 3380,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 3384,
           "title": "Tesla Remotely Hacked from a Drone"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/05/identifying-the-person-behind-bitcoin-fog.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "The person behind the Bitcoin Fog was identified and arrested. Bitcoin Fog was an anonymization service: for a fee, it mixed a bunch of people&#8217;s bitcoins up so that it was hard to figure out where any individual coins came from. It ran for ten years.\nIdentifying the person behind Bitcoin Fog serves as an illustrative example of how hard it is to be anonymous online in the face of a competent police investigation:\nMost remarkable, however, is the IRS&#8217;s account of tracking down Sterlingov using th…",
           "link": "https://www.schneier.com/blog/archives/2021/05/identifying-the-person-behind-bitcoin-fog.html",
           "publishedOn": "2021-05-03T14:36:33.000Z",
-          "wordCount": 2809,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 2853,
           "title": "Identifying the Person Behind Bitcoin Fog"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/04/friday-squid-blogging-on-squid-coloration.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "Nice excerpt from Martin Wallin&#8217;s book Squid.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.\nRead my blog posting guidelines here.",
           "link": "https://www.schneier.com/blog/archives/2021/04/friday-squid-blogging-on-squid-coloration.html",
           "publishedOn": "2021-04-30T21:14:21.000Z",
-          "wordCount": 40784,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 40795,
           "title": "Friday Squid Blogging: On Squid Coloration"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/04/serous-macos-vulnerability-patched.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "Apple just patched a MacOS vulnerability that bypassed malware checks.\nThe flaw is akin to a front entrance that&#8217;s barred and bolted effectively, but with a cat door at the bottom that you can easily toss a bomb through. Apple mistakenly assumed that applications will always have certain specific attributes. Owens discovered that if he made an application that was really just a script—code that tells another program what do rather than doing it itself—and didn&#8217;t include a standard application me…",
           "link": "https://www.schneier.com/blog/archives/2021/04/serous-macos-vulnerability-patched.html",
           "publishedOn": "2021-04-30T12:38:22.000Z",
-          "wordCount": 1466,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 1477,
           "title": "Serious MacOS Vulnerability Patched"
         },
         {
           "id": "https://www.schneier.com/blog/archives/2021/04/identifying-people-through-lack-of-cell-phone-use.html",
-          "author": "Schneier on Security",
+          "author": null,
           "description": "In this entertaining story of French serial criminal Rédoine Faïd and his jailbreaking ways, there&#8217;s this bit about cell phone surveillance:\nAfter Faïd&#8217;s helicopter breakout, 3,000 police officers took part in the manhunt. According to the 2019 documentary La Traque de Rédoine Faïd, detective units scoured records of cell phones used during his escape, isolating a handful of numbers active at the time that went silent shortly thereafter.",
           "link": "https://www.schneier.com/blog/archives/2021/04/identifying-people-through-lack-of-cell-phone-use.html",
           "publishedOn": "2021-04-29T11:07:53.000Z",
-          "wordCount": 3122,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
+          "wordCount": 3131,
           "title": "Identifying People Through Lack of Cell Phone Use"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/04/second-click-here-to-kill-everybody-sale.html",
-          "author": "Schneier on Security",
-          "description": "For a limited time, I am selling signed copies of Click Here to Kill Everybody in hardcover for just $6, plus shipping.\nI have 600 copies of the book available. When they&#8217;re gone, the sale is over and the price will revert to normal.\nOrder here.\nPlease be patient on delivery. It&#8217;s a lot of work to sign and mail hundreds of books. I try to do some each day, but sometimes I can&#8217;t. And the pandemic can cause mail slowdowns all over the world.",
-          "link": "https://www.schneier.com/blog/archives/2021/04/second-click-here-to-kill-everybody-sale.html",
-          "publishedOn": "2021-04-28T01:22:14.000Z",
-          "wordCount": 2007,
-          "sourceHref": "https://www.schneier.com/feed/atom/",
-          "sourceTitle": "Schneier on Security",
-          "title": "Second Click Here to Kill Everybody Sale"
         }
       ]
     },
     {
-      "href": "https://feeds.arstechnica.com/arstechnica/index",
+      "title": "Ars Technica",
+      "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+      "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1751715",
+          "author": "Ron Amadeo",
+          "description": "AAOS nails the car platform fundamentals, but it needs more apps and features.",
+          "link": "https://arstechnica.com/?p=1751715",
+          "publishedOn": "2021-05-10T11:15:37.000Z",
+          "wordCount": 2793,
+          "title": "Android Automotive OS review: Under the hood with Google’s car OS"
+        },
         {
           "id": "https://arstechnica.com/?p=1763446",
           "author": "Sam Machkovech",
           "description": "Beloved game-industry journo aims his lens at the little people making big video games.",
           "link": "https://arstechnica.com/?p=1763446",
           "publishedOn": "2021-05-09T12:30:26.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
+          "wordCount": 1034,
           "title": "New book Press Reset investigates the high human cost of game development"
         },
         {
@@ -238,8 +219,6 @@
           "link": "https://arstechnica.com/?p=1763506",
           "publishedOn": "2021-05-09T10:45:43.000Z",
           "wordCount": 1384,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Why Amy Klobuchar just wrote 600 pages on antitrust"
         },
         {
@@ -249,8 +228,6 @@
           "link": "https://arstechnica.com/?p=1759895",
           "publishedOn": "2021-05-08T18:25:55.000Z",
           "wordCount": 1293,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Review: The role-playing game’s afoot in charming dark comedy Murder Bury Win"
         },
         {
@@ -259,9 +236,7 @@
           "description": "It's got storage compartments galore, plus an extending truck bed.",
           "link": "https://arstechnica.com/?p=1763611",
           "publishedOn": "2021-05-08T17:49:12.000Z",
-          "wordCount": 896,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
+          "wordCount": 895,
           "title": "Rivian’s electric truck features include air compressor and AC outlets"
         },
         {
@@ -271,8 +246,6 @@
           "link": "https://arstechnica.com/?p=1763592",
           "publishedOn": "2021-05-08T16:10:41.000Z",
           "wordCount": 1502,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Apple brass discussed disclosing 128-million iPhone hack, then decided not to"
         },
         {
@@ -282,8 +255,6 @@
           "link": "https://arstechnica.com/?p=1763513",
           "publishedOn": "2021-05-08T10:50:17.000Z",
           "wordCount": 1777,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "It began as an AI-fueled dungeon game. Then it got much darker"
         },
         {
@@ -293,8 +264,6 @@
           "link": "https://arstechnica.com/?p=1763533",
           "publishedOn": "2021-05-07T21:15:58.000Z",
           "wordCount": 859,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Windows 10 “Sun Valley” will do away with Windows 95 era icons"
         },
         {
@@ -304,8 +273,6 @@
           "link": "https://arstechnica.com/?p=1763530",
           "publishedOn": "2021-05-07T20:19:33.000Z",
           "wordCount": 1365,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Sony faces lawsuit over alleged “monopoly pricing” of PlayStation downloads"
         },
         {
@@ -315,8 +282,6 @@
           "link": "https://arstechnica.com/?p=1763464",
           "publishedOn": "2021-05-07T18:59:47.000Z",
           "wordCount": 855,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "96% of US users opt out of app tracking in iOS 14.5, analytics find"
         },
         {
@@ -326,8 +291,6 @@
           "link": "https://arstechnica.com/?p=1763472",
           "publishedOn": "2021-05-07T18:50:31.000Z",
           "wordCount": 1676,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Ajit Pai promised cheaper Internet—real prices rose 19 percent instead"
         },
         {
@@ -337,8 +300,6 @@
           "link": "https://arstechnica.com/?p=1763422",
           "publishedOn": "2021-05-07T18:38:22.000Z",
           "wordCount": 1202,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Tesla Autopilot director contradicts Musk’s self-driving timeline"
         },
         {
@@ -348,8 +309,6 @@
           "link": "https://arstechnica.com/?p=1763423",
           "publishedOn": "2021-05-07T16:35:46.000Z",
           "wordCount": 717,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Google wants people to use 2FA, so it’s just going to turn it on for them"
         },
         {
@@ -359,8 +318,6 @@
           "link": "https://arstechnica.com/?p=1763427",
           "publishedOn": "2021-05-07T16:13:52.000Z",
           "wordCount": 980,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Facebook and Big Pharma exploited disease “awareness” for personalized marketing"
         },
         {
@@ -370,8 +327,6 @@
           "link": "https://arstechnica.com/?p=1763424",
           "publishedOn": "2021-05-07T15:59:09.000Z",
           "wordCount": 1269,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Did our ancestors kill all the island megafauna?"
         },
         {
@@ -381,8 +336,6 @@
           "link": "https://arstechnica.com/?p=1763407",
           "publishedOn": "2021-05-07T11:42:38.000Z",
           "wordCount": 927,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "IBM creates the world’s first 2 nm chip"
         },
         {
@@ -392,8 +345,6 @@
           "link": "https://arstechnica.com/?p=1762186",
           "publishedOn": "2021-05-07T11:30:18.000Z",
           "wordCount": 811,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Unsolved mysteries of the Warhammer 40k universe with loremaster Dan Abnett"
         },
         {
@@ -403,8 +354,6 @@
           "link": "https://arstechnica.com/?p=1762459",
           "publishedOn": "2021-05-07T10:45:29.000Z",
           "wordCount": 1605,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "Why hasn’t Waymo expanded its driverless service? Here’s my theory"
         },
         {
@@ -414,8 +363,6 @@
           "link": "https://arstechnica.com/?p=1762974",
           "publishedOn": "2021-05-06T21:45:10.000Z",
           "wordCount": 1511,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "What cats’ love of boxes and squares can tell us about their visual perception"
         },
         {
@@ -425,155 +372,126 @@
           "link": "https://arstechnica.com/?p=1763266",
           "publishedOn": "2021-05-06T20:10:01.000Z",
           "wordCount": 1110,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
           "title": "9,000 fliers may have had reused swabs jammed up their noses in Indonesia"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1763196",
-          "author": "Samuel Axon",
-          "description": "Streaming service commits to one original movie every week.",
-          "link": "https://arstechnica.com/?p=1763196",
-          "publishedOn": "2021-05-06T19:50:22.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://feeds.arstechnica.com/arstechnica/index",
-          "sourceTitle": "Ars Technica",
-          "title": "Paramount+ lifts ViacomCBS to 36 million subs, will stream sci-fi movie Infinite"
         }
       ]
     },
     {
-      "href": "https://blog.cryptographyengineering.com/feed/",
+      "title": "A Few Thoughts on Cryptographic Engineering",
+      "feedUrl": "https://blog.cryptographyengineering.com/feed/",
+      "siteUrl": "https://blog.cryptographyengineering.com",
       "articles": []
     },
     {
-      "href": "https://kubernetes.io/feed.xml",
+      "title": "Kubernetes – Production-Grade Container Orchestration",
+      "feedUrl": "https://kubernetes.io/feed.xml",
+      "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
           "id": "https://kubernetes.io/blog/2021/04/23/kubernetes-release-1.21-metrics-stability-ga/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: Han Kang (Google), Elana Hashman (Red Hat)\nKubernetes 1.21 marks the graduation of the metrics stability framework and along with it, the first officially supported stable metrics. Not only do stable metrics come with supportability guarantees, the metrics stability framework brings escape hatches that you can use if you encounter problematic metrics.\nSee the list of stable Kubernetes metrics here\nWhat are stable metrics and why do we need them?\nA stable metric is one which, from a consumption poin…",
           "link": "https://kubernetes.io/blog/2021/04/23/kubernetes-release-1.21-metrics-stability-ga/",
           "publishedOn": "2021-04-23T00:00:00.000Z",
           "wordCount": 3202,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Kubernetes 1.21: Metrics Stability hits GA"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: Mark Church (Google), Harry Bagdi (Kong), Daneyon Hanson (Red Hat), Nick Young (VMware), Manuel Zapf (Traefik Labs)\nThe Ingress resource is one of the many Kubernetes success stories. It created a diverse ecosystem of Ingress controllers which were used across hundreds of thousands of clusters in a standardized and consistent way. This standardization helped users adopt Kubernetes. However, five years after the creation of Ingress, there are signs of fragmentation into different but strikingly simi…",
           "link": "https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/",
           "publishedOn": "2021-04-22T00:00:00.000Z",
           "wordCount": 3626,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Evolving Kubernetes networking with the Gateway API"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/21/graceful-node-shutdown-beta/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: David Porter (Google), Mrunal Patel (Red Hat), and Tim Bannister (The Scale Factory)\nGraceful node shutdown, beta in 1.21, enables kubelet to gracefully evict pods during a node shutdown.\nKubernetes is a distributed system and as such we need to be prepared for inevitable failures — nodes will fail, containers might crash or be restarted, and - ideally - your workloads will be able to withstand these catastrophic events.\nOne of the common classes of issues are workload failures on node shutdown or …",
           "link": "https://kubernetes.io/blog/2021/04/21/graceful-node-shutdown-beta/",
           "publishedOn": "2021-04-21T00:00:00.000Z",
           "wordCount": 3455,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Graceful Node Shutdown Goes Beta"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/20/annotating-k8s-for-humans/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Author: Richard Li, Ambassador Labs\nHave you ever been asked to troubleshoot a failing Kubernetes service and struggled to find basic information about the service such as the source repository and owner?\nOne of the problems as Kubernetes applications grow is the proliferation of services. As the number of services grows, developers start to specialize working with specific services. When it comes to troubleshooting, however, developers need to be able to find the source, understand the service and dependen…",
           "link": "https://kubernetes.io/blog/2021/04/20/annotating-k8s-for-humans/",
           "publishedOn": "2021-04-20T00:00:00.000Z",
           "wordCount": 3157,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Annotating Kubernetes Services for Humans"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/20/defining-networkpolicy-conformance-cni-providers/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: Matt Fenwick (Synopsys), Jay Vyas (VMWare), Ricardo Katz, Amim Knabben (Loadsmart), Douglas Schilling Landgraf (Red Hat), Christopher Tomkins (Tigera)\nSpecial thanks to Tim Hockin and Bowie Du (Google), Dan Winship and Antonio Ojea (Red Hat),\nCasey Davenport and Shaun Crampton (Tigera), and Abhishek Raut and Antonin Bas (VMware) for\nbeing supportive of this work, and working with us to resolve issues in different Container Network Interfaces (CNIs) over time.\nA brief conversation around &quot;node …",
           "link": "https://kubernetes.io/blog/2021/04/20/defining-networkpolicy-conformance-cni-providers/",
           "publishedOn": "2021-04-20T00:00:00.000Z",
           "wordCount": 6308,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Defining Network Policy Conformance for Container Network Interface (CNI) providers"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/19/introducing-indexed-jobs/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Author: Aldo Culquicondor (Google)\nOnce you have containerized a non-parallel Job,\nit is quite easy to get it up and running on Kubernetes without modifications to\nthe binary. In most cases, when running parallel distributed Jobs, you had\nto set a separate system to partition the work among the workers. For\nexample, you could set up a task queue to assign one work item to each\nPod or multiple items\nto each Pod until the queue is emptied.\nThe Kubernetes 1.21 release introduces a new field to control Job comp…",
           "link": "https://kubernetes.io/blog/2021/04/19/introducing-indexed-jobs/",
           "publishedOn": "2021-04-19T00:00:00.000Z",
           "wordCount": 2947,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Introducing Indexed Jobs"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/16/volume-health-monitoring-alpha-update/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Author: Xing Yang (VMware)\nThe CSI Volume Health Monitoring feature, originally introduced in 1.19 has undergone a large update for the 1.21 release.\nWhy add Volume Health Monitoring to Kubernetes?\nWithout Volume Health Monitoring, Kubernetes has no knowledge of the state of the underlying volumes of a storage system after a PVC is provisioned and used by a Pod. Many things could happen to the underlying storage system after a volume is provisioned in Kubernetes. For example, the volume could be deleted by …",
           "link": "https://kubernetes.io/blog/2021/04/16/volume-health-monitoring-alpha-update/",
           "publishedOn": "2021-04-16T00:00:00.000Z",
           "wordCount": 3598,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Volume Health Monitoring Alpha Update"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/15/three-tenancy-models-for-kubernetes/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: Ryan Bezdicek (Medtronic), Jim Bugwadia (Nirmata), Tasha Drew (VMware), Fei Guo (Alibaba), Adrian Ludwin (Google)\nKubernetes clusters are typically used by several teams in an organization. In other cases, Kubernetes may be used to deliver applications to end users requiring segmentation and isolation of resources across users from different organizations. Secure sharing of Kubernetes control plane and worker node resources allows maximizing productivity and saving costs in both cases.\nThe Kubernet…",
           "link": "https://kubernetes.io/blog/2021/04/15/three-tenancy-models-for-kubernetes/",
           "publishedOn": "2021-04-15T00:00:00.000Z",
           "wordCount": 3596,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Three Tenancy Models For Kubernetes"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/14/local-storage-features-go-beta/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: Patrick Ohly (Intel)\nThe &quot;generic ephemeral\nvolumes&quot;\nand &quot;storage capacity\ntracking&quot;\nfeatures in Kubernetes are getting promoted to beta in Kubernetes\n1.21. Together with the distributed provisioning\nsupport\nin the CSI external-provisioner, development and deployment of\nContainer Storage Interface (CSI) drivers which manage storage locally\non a node become a lot easier.\nThis blog post explains how such drivers worked before and how these\nfeatures can be used to make drivers simp…",
           "link": "https://kubernetes.io/blog/2021/04/14/local-storage-features-go-beta/",
           "publishedOn": "2021-04-14T00:00:00.000Z",
           "wordCount": 3794,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Local Storage: Storage Capacity Tracking, Distributed Provisioning and Generic Ephemeral Volumes hit Beta"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/13/kube-state-metrics-v-2-0/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Authors: Lili Cosic (Red Hat), Frederic Branczyk (Polar Signals), Manuel Rüger (Sony Interactive Entertainment), Tariq Ibrahim (Salesforce)\nWhat?\nkube-state-metrics, a project under the Kubernetes organization, generates Prometheus format metrics based on the current state of the Kubernetes native resources. It does this by listening to the Kubernetes API and gathering information about resources and objects, e.g. Deployments, Pods, Services, and StatefulSets. A full list of resources is available in the do…",
           "link": "https://kubernetes.io/blog/2021/04/13/kube-state-metrics-v-2-0/",
           "publishedOn": "2021-04-13T00:00:00.000Z",
           "wordCount": 2986,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: kube-state-metrics goes v2.0"
         },
         {
           "id": "https://kubernetes.io/blog/2021/04/12/introducing-suspended-jobs/",
-          "author": "Kubernetes – Production-Grade Container Orchestration",
+          "author": null,
           "description": "Author: Adhityaa Chandrasekar (Google)\nJobs are a crucial part of\nKubernetes' API. While other kinds of workloads such as Deployments,\nReplicaSets,\nStatefulSets, and\nDaemonSets\nsolve use-cases that require Pods to run forever, Jobs are useful when Pods need\nto run to completion. Commonly used in parallel batch processing, Jobs can be\nused in a variety of applications ranging from video rendering and database\nmaintenance to sending bulk emails and scientific computing.\nWhile the amount of parallelism and the…",
           "link": "https://kubernetes.io/blog/2021/04/12/introducing-suspended-jobs/",
           "publishedOn": "2021-04-12T00:00:00.000Z",
           "wordCount": 3149,
-          "sourceHref": "https://kubernetes.io/feed.xml",
-          "sourceTitle": "Kubernetes – Production-Grade Container Orchestration",
           "title": "Blog: Introducing Suspended Jobs"
         }
       ]
     },
     {
-      "href": "https://www.lastweekinaws.com/feed/",
+      "title": "Last Week in AWS",
+      "feedUrl": "https://www.lastweekinaws.com/feed/",
+      "siteUrl": "https://www.lastweekinaws.com",
       "articles": [
         {
           "id": "https://www.lastweekinaws.com/?p=8740",
@@ -582,8 +500,6 @@
           "link": "https://www.lastweekinaws.com/blog/what-is-an-edge-location-in-aws-a-simple-explanation/",
           "publishedOn": "2021-05-07T14:30:00.000Z",
           "wordCount": 1987,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
           "title": "What is an Edge Location in AWS? A Simple Explanation"
         },
         {
@@ -593,8 +509,6 @@
           "link": "https://www.lastweekinaws.com/blog/developer-portals-are-an-anti-pattern/",
           "publishedOn": "2021-05-05T14:30:00.000Z",
           "wordCount": 1363,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
           "title": "Developer Portals Are an Anti-Pattern"
         },
         {
@@ -604,8 +518,6 @@
           "link": "https://www.lastweekinaws.com/blog/dynamodb-vs-mongodb-a-comparison/",
           "publishedOn": "2021-04-30T14:30:43.000Z",
           "wordCount": 2045,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
           "title": "DynamoDB vs. MongoDB: A Comparison and How to Choose"
         },
         {
@@ -614,9 +526,7 @@
           "description": "When you let the tech you’re skilled in become the cornerstone of your identity, you limit future career possibilities. Here’s what to do instead\nThe post The Sun Also Crashes: Keeping Current appeared first on Last Week in AWS.",
           "link": "https://www.lastweekinaws.com/blog/the-sun-also-crashes-keeping-current/",
           "publishedOn": "2021-04-28T14:30:00.000Z",
-          "wordCount": 1383,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
+          "wordCount": 1391,
           "title": "The Sun Also Crashes: Keeping Current"
         },
         {
@@ -626,8 +536,6 @@
           "link": "https://www.lastweekinaws.com/blog/what-is-amazon-athena-an-introduction-and-walkthrough/",
           "publishedOn": "2021-04-23T14:30:00.000Z",
           "wordCount": 2095,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
           "title": "What is Amazon Athena? An Introduction and Walkthrough"
         },
         {
@@ -637,8 +545,6 @@
           "link": "https://www.lastweekinaws.com/blog/s3s-durability-guarantees-arent-what-you-think/",
           "publishedOn": "2021-04-21T14:30:00.000Z",
           "wordCount": 1350,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
           "title": "S3’s Durability Guarantees Aren’t What You Think"
         },
         {
@@ -648,319 +554,267 @@
           "link": "https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/",
           "publishedOn": "2021-04-14T14:30:00.000Z",
           "wordCount": 1457,
-          "sourceHref": "https://www.lastweekinaws.com/feed/",
-          "sourceTitle": "Last Week in AWS",
           "title": "Machine Learning is a Marvelously Executed Scam"
         }
       ]
     },
     {
-      "href": "https://alpinelinux.org/atom.xml",
+      "title": "Alpine Linux News",
+      "feedUrl": "https://alpinelinux.org/atom.xml",
+      "siteUrl": "https://alpinelinux.org/atom.xml",
       "articles": [
         {
           "id": "https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html",
-          "author": "Alpine Linux News",
+          "author": null,
           "description": "Alpine Linux",
           "link": "https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html",
           "publishedOn": "2021-04-14T00:00:00.000Z",
           "wordCount": 88,
-          "sourceHref": "https://alpinelinux.org/atom.xml",
-          "sourceTitle": "Alpine Linux News",
           "title": "Alpine 3.10.9, 3.11.11 and 3.12.7 released"
         },
         {
           "id": "https://alpinelinux.org/posts/Alpine-3.13.5-released.html",
-          "author": "Alpine Linux News",
+          "author": null,
           "description": "Alpine Linux",
           "link": "https://alpinelinux.org/posts/Alpine-3.13.5-released.html",
           "publishedOn": "2021-04-14T00:00:00.000Z",
           "wordCount": 484,
-          "sourceHref": "https://alpinelinux.org/atom.xml",
-          "sourceTitle": "Alpine Linux News",
           "title": "Alpine 3.13.5 released"
         }
       ]
     },
     {
-      "href": "https://www.eurogamer.net/?format=rss&type=news",
+      "title": "Eurogamer.net | News",
+      "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
+      "siteUrl": "https://www.eurogamer.net/",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149025",
+          "author": null,
+          "description": "Have you ever felt like going on a big cruise ship around the mythical world of Valheim? Thanks to the power of modding, now you can, so get ready for some very large vessels.\nValheimRAFT is a mod by Sarcen that allows players to construct their own ships rather than simply use the pre-made ones available in vanilla Valheim. (If the name didn't give it away, it's inspired by the game Raft, a survival game in which you construct a boat from bits of debris.) I had a quick tinker with it and made a basic ghost…",
+          "link": "https://www.eurogamer.net/articles/2021-05-10-this-valheim-mod-lets-you-build-your-own-boat",
+          "publishedOn": "2021-05-10T11:29:00.000Z",
+          "wordCount": 973,
+          "title": "This Valheim mod lets you build some really big boats"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149009",
+          "author": null,
+          "description": "Assassin's Creed and Far Cry publisher Ubisoft will now brand all of its games made by internal studios as \"Ubisoft Originals\". \nThe name first cropped up last week, when Ubisoft announced Tom Clancy's The Division: Heartland, a new free-to-play spin-off due later this year or early next.\nWhen asked whether this label meant anything more than fancy new branding, a Ubisoft spokesperson told Eurogamer today that, \"Moving forward 'The Ubisoft Original' mention is attached to all of Ubisoft's games created in-h…",
+          "link": "https://www.eurogamer.net/articles/2021-05-10-ubisoft-will-now-brand-all-its-own-games-as-ubisoft-originals",
+          "publishedOn": "2021-05-10T10:32:00.000Z",
+          "wordCount": 685,
+          "title": "Ubisoft will now brand all its own games as \"Ubisoft Originals\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149006",
+          "author": null,
+          "description": "The constrained supply of the PlayStation 5 will continue into 2022, Sony has warned.\nThe company's CFO, Hiroki Totoki, said Sony will struggle to meet demand even with a supply boost, Bloomberg reported (paywall).\nAs most know, the PS5 is incredibly hard to buy at the moment, with stock snapped up as soon as it goes on sale. The console has also been the focus of scalpers, who sell on for an inflated price. Retailers have struggled to prevent new consoles from getting into the hands of scalper groups, some…",
+          "link": "https://www.eurogamer.net/articles/2021-05-10-sony-expects-it-will-continue-to-struggle-to-meet-ps5-demand-into-2022",
+          "publishedOn": "2021-05-10T10:17:00.000Z",
+          "wordCount": 831,
+          "title": "Sony expects it will continue to struggle to meet PS5 demand into 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2148978",
+          "author": null,
+          "description": "Capcom has seen record profits for the fourth year in a row.\nRevenue for the financial year ending 31st March 2021 was 95.3bn yen (£622m), up 16.8 percent from the previous year, with profit of 34.6bn yen (£226m), up 51.6 percent from the previous fiscal year)\nCapcom pointed to the success of Monster Hunter Rise and the Resident Evil 3 remake, as well as sales growth for high margin back catalogue titles including Monster Hunter World: Iceborne and the Resident Evil 2 remake. Capcom said the PlayStation 5 a…",
+          "link": "https://www.eurogamer.net/articles/2021-05-10-monster-hunter-rise-and-resident-evil-3-fuel-another-record-year-for-capcom",
+          "publishedOn": "2021-05-10T09:44:00.000Z",
+          "wordCount": 858,
+          "title": "Monster Hunter Rise and Resident Evil 3 fuel another record year for Capcom"
+        },
+        {
           "id": "https://www.eurogamer.net/article.php?article_id=2148951",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Registration to participate in the closed beta for Square Enix's upcoming battle royale, Final Fantasy 7 The First Soldier, is now open.\nProspective players have from now until 27th May 2021 to register their interest, although right now, the beta is restricted to players with 64-bit, 7.1+ Android phones with at least 3GB of memory available.\nAs is usually the case with these things, registering does not guarantee you a spot in the closed beta, but the sign-up page hints that it wants \"tons of players\" to g…",
           "link": "https://www.eurogamer.net/articles/2021-05-09-registration-for-final-fantasy-7-battle-royale-the-first-soldier-is-now-open",
           "publishedOn": "2021-05-09T13:59:00.000Z",
           "wordCount": 846,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Registration for Final Fantasy 7 battle royale, The First Soldier, is now open"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148950",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "A new rumour purports two new DualSense controllers could be coming to market \"very soon\".\nAccording to AreaJugones - a Spanish-language site that has previously correctly leaked a PlayStation Plus freebie lineup ahead of confirmation from PlayStation - the new colour schemes deviate from the current white and black scheme to include shades of red and grey. \nWithout photographic evidence, it's not possible to know precisely how the colours will be used, or what parts of the controller will be more colourful…",
           "link": "https://www.eurogamer.net/articles/2021-05-09-rumour-suggests-two-new-colourful-dualsense-controllers-could-go-on-sale-very-soon",
           "publishedOn": "2021-05-09T13:43:00.000Z",
           "wordCount": 751,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Rumour suggests two new colourful DualSense controllers could go on sale \"very soon\""
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148945",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Respawn has seemingly nerfed Wattson's electrified fence in Apex Legends.\nAs spotted and shared by Twitterer LilakeyLK, it looks as though the latest season has not only introduced a new Legend and competitive mode Arenas, but it's also made a tweak to one of Wattson's key defences... with an emphasis on \"fence\".\nPreviously, running into Wattson's fence would slow down an opposing player, but now it looks as though the slowdown and corresponding stun has been removed, essentially making the fence useless (t…",
           "link": "https://www.eurogamer.net/articles/2021-05-09-careful-wattson-fans-her-fence-in-apex-legends-is-useless-right-now",
           "publishedOn": "2021-05-09T12:55:00.000Z",
           "wordCount": 937,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Careful, Wattson fans - her fence in Apex Legends is useless right now"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148944",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Remnant: From the Ashes will shortly receive a free next-gen update to \"enhance both frame rate and resolution\".\nAccording to developer Gunfire Games, on 13th May players will \"receive a free major upgrade patch that will add the option to run the game at 4K resolution at 30fps the PlayStation 5 and Xbox Series X, or 1080p resolution at 60fps on both the PlayStation 5 and Xbox Series X/S\".\nThat's not all, either. On the same day, the game will also be added to the PC version of Xbox Game Pass - up until now…",
           "link": "https://www.eurogamer.net/articles/2021-05-09-remnant-from-the-ashes-gets-a-free-next-gen-upgrade-later-this-week",
           "publishedOn": "2021-05-09T12:00:00.000Z",
           "wordCount": 964,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Remnant: From the Ashes gets a free next-gen upgrade later this week"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148943",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Activision has cut ties with Call of Duty: Modern Warfare's Ghost voice actor Jeff Leach following the dissemination of a video that compiles his misogynist comments.\nThe montage - which was shared online by streamers hitting back at Leach's derogatory statements - is described as containing \"serious personalised intrusive sexism\" and shows Leach using sexually explicit and aggressive language as well as personal insults. \n\"In 2021, misogyny has no place,\" states a caption on the video. \"Yet female gamers r…",
           "link": "https://www.eurogamer.net/articles/2021-05-09-activision-severs-links-with-call-of-duty-ghost-voice-actor-following-misogynistic-comments",
           "publishedOn": "2021-05-09T11:29:00.000Z",
           "wordCount": 911,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Activision severs links with Call of Duty Ghost voice actor following misogynistic comments"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148912",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "The 1980s action movie heroes are coming en masse to Warzone. After this week's tease that Rambo will be added to the battle royale, Activision has indicated Die Hard's John McClane is on his way, too.\nActivision even created a website for a fictional air conditioning repair company called Nakatomi Duct Cleaning, offering its services in Verdansk.\nThe website says \"A NAKATOMI CORP DIVISION MASTERING A/C DUCT CLEANING SINCE 1988\", but the current Warzone map is set in 1984. Nah... I'm applying too much logic…",
           "link": "https://www.eurogamer.net/articles/2021-05-08-die-hards-john-mcclane-teased-for-call-of-duty-warzone",
           "publishedOn": "2021-05-08T20:06:00.000Z",
           "wordCount": 775,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Die Hard's John McClane teased for Call of Duty: Warzone"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148911",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "This week, if you pottered along to the Mendip Hill near Cheddar, Somerset, you'd probably have caught a glimpse of something a bit off: a huge chalk artwork of a lycan.\nLocal press reported the strange image on Monday, 3rd May after it popped up overnight - and seemingly had no idea what it was about or who made it.\nIts true nature was revealed when Resident Evil Village came out on Friday - it was a Capcom PR stunt. And a pretty cool one, I'll admit.\nRead more",
           "link": "https://www.eurogamer.net/articles/2021-05-08-capcom-made-a-huge-chalk-artwork-of-a-lycan-on-a-hill-in-somerset-to-promote-resident-evil-village",
           "publishedOn": "2021-05-08T19:26:00.000Z",
           "wordCount": 859,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Capcom made a huge chalk lycan on a hill in Somerset to promote Resident Evil Village"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148910",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "A modder has released their final Nier: Automata HD texture pack after four years of development.\nGPUnity's texture pack mod began life soon after Nier: Automata launched on PC in March 2017. They've continued to work on the mod since then, and now, four years later, released the final version.\nNier: Automata's PC version is infamous for a raft of technical issues that were fixed by modders, including a constant stutter tick due to the game running at around 59 frames per second (this is something explored …",
           "link": "https://www.eurogamer.net/articles/2021-05-08-modders-nier-automata-hd-texture-pack-finally-complete-after-four-years-of-development",
           "publishedOn": "2021-05-08T18:43:00.000Z",
           "wordCount": 783,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Modder's Nier: Automata HD texture pack finally complete after four years of development"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148909",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "This week, Sega announced Lost Judgment for PlayStation 5, PlayStation 4, Xbox Series X and S, and Xbox One - but there was no word of a PC version.\nIt seemed an odd omission - Tojo Dojo noticed the Yakuza spin-off sequel was briefly listed as coming to PC on the official countdown website that was home to the Lost Judgment announcement. Even after mention of PC was removed from the website, fans spotted mention of the Steam logo in the Lost Judgment website source code.\nUnfortunately, it appears Lost Judgm…",
           "link": "https://www.eurogamer.net/articles/2021-05-08-sega-no-plans-for-lost-judgment-on-pc-at-this-time",
           "publishedOn": "2021-05-08T18:05:00.000Z",
           "wordCount": 734,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Sega: No plans for Lost Judgment on PC \"at this time\""
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148906",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Baldur's Gate: Dark Alliance's re-release on Nintendo Switch was delayed at the last minute.\nThe re-release of the much-loved 20 year-old action RPG went ahead as planned yesterday on Xbox One, where it costs a pricey £29.99, and PlayStation 4, where for some reason it costs a fiver cheaper at £24.99.\nBut even though the official Black Isle Studios Twitter page said yesterday that the Switch version would arrive in a couple of hours, the game failed to materialise on the Nintendo eShop.\nRead more",
           "link": "https://www.eurogamer.net/articles/2021-05-08-baldurs-gate-dark-alliance-re-release-on-nintendo-switch-delayed-at-the-last-minute",
           "publishedOn": "2021-05-08T15:54:00.000Z",
           "wordCount": 707,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Baldur's Gate: Dark Alliance re-release on Nintendo Switch delayed at the last minute"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148905",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "With Titanfall 2 enjoying an Apex Legends-powered resurgence, so is its superb Gauntlet.\nRespawn's wall-hopping assault course tasks players with completing one lap as quickly as possible - and nearly five years after Titanfall 2 came out, speedrunners are breaking world records again.\nIn October 2019, speedrunner Cash Mayo set an incredible time of 11.7 seconds, shaving a fraction off Mayo's previous world record of 11.9 seconds:\nRead more",
           "link": "https://www.eurogamer.net/articles/2021-05-08-titanfall-2-gauntlet-world-record-broken-twice-in-a-week",
           "publishedOn": "2021-05-08T15:32:00.000Z",
           "wordCount": 857,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Titanfall 2 Gauntlet world record broken twice in two weeks"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148879",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Speaking to IGN, Yakuza creator Toshihiro Nagoshi and producer Kazuki Hosokawa confirmed the plan for the two series:\n\"The Yakuza series has been transformed into a turn-based RPG. On the other hand, over the years, Ryu ga Gotoku Studio has accumulated resources and know-how of making flashy and exhilarating action games that are effortless to enjoy. We decided that we should let our signature action gameplay live on through Lost Judgment.\"\nRead more",
           "link": "https://www.eurogamer.net/articles/2021-05-08-the-yakuza-series-has-been-transformed-into-a-turn-based-rpg-says-dev",
           "publishedOn": "2021-05-08T11:58:00.000Z",
           "wordCount": 775,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "\"The Yakuza series has been transformed into a turn-based RPG,\" says dev"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148875",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Resident Evil Village is off to a flyer on Steam.\nIt saw 101,726 peak concurrents on launch day, 7th May.\nThat makes Capcom's latest comfortably the biggest PC launch for any Resident Evil game. According to SteamCharts, Resident Evil 7 managed an all-time peak of 18,211 concurrents, Resident Evil 6 peaked with 11,836, and the most recent release, the Resident Evil 3 remake, hit 32,635. Only the Resident Evil 2 remake, which saw a concurrents peak of 74,024, comes close.\nRead more",
           "link": "https://www.eurogamer.net/articles/2021-05-08-resident-evil-village-is-off-to-a-flyer-on-steam",
           "publishedOn": "2021-05-08T11:11:00.000Z",
           "wordCount": 724,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Resident Evil Village is off to a flyer on Steam"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148870",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Call of Duty: Warzone developer Raven has said it is close to a \"balance homeostasis\", where most weapon options are \"at the very least viable\" - leaving it to focus on raising the skill ceiling of the game.\nThe developer shared its balance change philosophy as part of the patch notes for a Warzone update that went live this week.\nRaven spoke openly about the difficulty it faces making sweeping changes to the Warzone meta, as popular guns are inevitably affected.\nRead more",
           "link": "https://www.eurogamer.net/articles/2021-05-08-call-of-duty-warzone-developer-says-its-battle-royale-is-close-to-a-balance-homeostasis",
           "publishedOn": "2021-05-08T10:51:00.000Z",
           "wordCount": 1590,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Raven is trying to raise Call of Duty: Warzone's skill ceiling"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148855",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "CI Games has announced a delay for the PlayStation 5 version of its upcoming long-distance shooter Sniper Ghost Warrior Contracts 2, resulting from \"unforeseen technical issues\".\nSniper Ghost Warrior Contracts 2 - which features a \"dramatic single-player campaign set in modern day Middle East\" - was originally due on PlayStation 5 on 4th June, arriving alongside versions for PS4, Xbox One, Xbox X/S and PC. However, despite the PS5 edition's delay to a currently unspecified future point, other platforms will…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-sniper-ghost-warrior-contracts-2-gets-ps5-delay-due-to-unforeseen-technical-issues",
           "publishedOn": "2021-05-07T21:40:00.000Z",
           "wordCount": 749,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Sniper Ghost Warrior Contracts 2 gets PS5 delay due to \"unforeseen technical issues\""
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148850",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Developer Housemarque is releasing a new patch for PlayStation 5-exclusive roguelite Returnal tomorrow, 8th May, which will, among other things, reinstate all pre-rollback fixes that briefly went live earlier this week.\nOn Wednesday, Housemarque was forced to pull Returnal's 1.3.3 patch after players began reporting it was corrupting save games. The developer later released version 1.3.4, which rolled back to Returnal's most recent stable build - a move that enabled some affected players to resume their pro…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-returnal-reinstating-pre-rollback-fixes-in-new-patch-tomorrow",
           "publishedOn": "2021-05-07T20:02:00.000Z",
           "wordCount": 765,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Returnal reinstating pre-rollback fixes in new patch tomorrow"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148849",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Developer Hidden Variable has unveiled the latest DLC character to join the roster of acclaimed fighters Skullgirls 2nd Encore and the free-to-play Skullgirls Mobile: the sou'westered, be-wellied Umbrella and her sentient brolly chum, Hungern.\nUmbrella, the second DLC character to arrive as part of Skullgirls 2nd Encore's season pass (following on from March's Annie), is described as a small, slow character with limited movement that's able to take some \"big swings\" thanks Hungern.\nIndeed, while the perpetu…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-skullgirls-2nd-encores-next-dlc-fighter-umbrella-has-a-ravenous-sentient-brolly",
           "publishedOn": "2021-05-07T18:45:00.000Z",
           "wordCount": 960,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Skullgirls 2nd Encore's next DLC fighter Umbrella has a ravenous sentient brolly"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148841",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "Developer 11 Bit Studios' superb post-apocalyptic city builder Frostpunk is coming to iOS and Android devices \"later this year\".\nFrostpunk initially launched on PC in 2018 before making its way to Xbox and PlayStation the following year. It's a fascinating, frequently gruelling, and wonderfully atmospheric experience, delivering a captivating blend of brutal survival sim, city builder, and rich narrative as players attempt to survive - through the slow expansion their settlement, and with plenty of tough mo…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-acclaimed-post-apocalyptic-city-builder-frostpunk-is-heading-to-mobile",
           "publishedOn": "2021-05-07T16:44:00.000Z",
           "wordCount": 766,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Acclaimed post-apocalyptic city builder Frostpunk is heading to mobile"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148822",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "ray-tracing, faster load times and more. But rather unexpectedly, it seems some of these improvements are coming from the community, as CDPR has confirmed that it is in talks with those who made mods for the 2015 game. \nKotaku spotted that mod creator Halk Hogan, responsible for The Witcher 3 HD Reworked project, had announced he'd received an \"official message from CDPR about cooperation\", and that \"it's very likely HDRP will be included in the official next generation update\". CDPR then confirmed to Kotak…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-the-witcher-3s-next-gen-version-might-use-fan-made-mods",
           "publishedOn": "2021-05-07T14:59:00.000Z",
           "wordCount": 872,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "CDPR in talks to use The Witcher 3 mods in official next-gen version"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148717",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "UPDATE: Sega has officially announced Lost Judgment, the Judgment sequel due out globally 24th September 2021 on PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S.\nDeveloper Ryu Ga Gotoku Studio said in addition to Kamurocho, fans will be able to adventure to the scenic port city of Yokohama. One of the most important new locations is a high school, with a \"highly detailed\" interior. The trailer is below:\nThe developers have leaned heavily on the fast-paced action portion of the original game. The…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-lost-judgment-leaks-on-playstation-store-ahead-of-official-reveal",
           "publishedOn": "2021-05-07T14:25:00.000Z",
           "wordCount": 906,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Lost Judgment leaks on PlayStation Store ahead of official reveal"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2148799",
-          "author": "Eurogamer.net | News",
+          "author": null,
           "description": "So you've finished all the biomes and bosses currently available in Valheim - what now? Well, you could wait for the next official update from Iron Gate: but the next biome is quite a few updates away, so you may be waiting a while to explore the Mistlands in all their glory. \nAlternatively, you can just install a bunch of mods. Here's a video of me exploring a rejuvenated Ashlands, and running away performing a tactical retreat when I realised that the enemies are actually quite difficult. Thank goodness I…",
           "link": "https://www.eurogamer.net/articles/2021-05-07-valheim-modders-are-fleshing-out-the-games-unused-biomes",
           "publishedOn": "2021-05-07T14:01:00.000Z",
           "wordCount": 1118,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
           "title": "Valheim modders are fleshing out the game's unused biomes"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2148792",
-          "author": "Eurogamer.net | News",
-          "description": "Gible, one of Pokémon Go's most popular and sought-after creatures, will flood the game for six hours on 6th June's Community Day. \nThe much-requested event is a big announcement for the game, and by far the best Community Day candidate offered to players for several years. \nPokémon Go players have recently criticised the calibre of creatures spotlighted in the game's Community Days. The monthly event, which began in January 2018, started by offering powerful or rare creatures such as Dratini, Larvitar and …",
-          "link": "https://www.eurogamer.net/articles/2021-05-07-pokemon-go-is-finally-holding-a-gible-community-day",
-          "publishedOn": "2021-05-07T13:53:00.000Z",
-          "wordCount": 891,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
-          "title": "Pokémon Go is finally holding a Gible Community Day"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2148796",
-          "author": "Eurogamer.net | News",
-          "description": "Final Fantasy 7 Remake Intergrade is exclusive to PlayStation 5 for at least six months, a new trailer for the game has confirmed.\nThe trailer, below, includes over three minutes of footage of Intergrade, the visually enhanced edition of the original featuring a brand new Yuffie episode.\nFinal Fantasy 7 Remake Intergrade comes out on 10th June, so the earliest we'd see this version of the game on other platforms - PC and Xbox, for example - would be 10th December. Or perhaps Intergrade is also coming to Pla…",
-          "link": "https://www.eurogamer.net/articles/2021-05-07-final-fantasy-7-remake-intergrade-exclusive-to-ps5-for-at-least-six-months",
-          "publishedOn": "2021-05-07T13:34:00.000Z",
-          "wordCount": 739,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
-          "title": "Final Fantasy 7 Remake Intergrade exclusive to PS5 for at least six months"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2148756",
-          "author": "Eurogamer.net | News",
-          "description": "Resident Evil Village was once planned to feature a fan-favourite character from the series, before the story changed direction. \nThis character would have popped up in disguise as a plague doctor - as you'll see in the concept art, below - before finally revealing their true identity.\n(There are no spoilers for Village here, but if you'd like to play through without knowing this character doesn't appear, look away now.)\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-07-resident-evil-village-concept-art-reveals-early-plan-to-include-fan-favourite-character",
-          "publishedOn": "2021-05-07T11:00:00.000Z",
-          "wordCount": 819,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
-          "title": "Resident Evil Village concept art reveals early plan to include fan-favourite character"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2148753",
-          "author": "Eurogamer.net | News",
-          "description": "Conan Exiles is coming soon to Xbox Game Pass, developer Funcom has announced.\nThe exact date will be announced shortly, but we do know the survival game will be available to Xbox Game Pass subscribers on PC and Xbox.\nConan Exiles celebrates its three-year anniversary tomorrow, 8th May. The Isle of Siptah expansion launches proper on PC, Xbox and PlayStation on 27th May. This expansion was first released on PC in early access form in September.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-07-conan-exiles-confirmed-for-xbox-game-pass",
-          "publishedOn": "2021-05-07T10:39:00.000Z",
-          "wordCount": 633,
-          "sourceHref": "https://www.eurogamer.net/?format=rss&type=news",
-          "sourceTitle": "Eurogamer.net | News",
-          "title": "Conan Exiles confirmed for Xbox Game Pass"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
