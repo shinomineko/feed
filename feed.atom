@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T00:48:08.890Z</updated>
+    <updated>2021-05-14T06:17:46.443Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Using Finalizers to Control Deletion]]></title>
+        <id>https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/</id>
+        <link href="https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/"/>
+        <updated>2021-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Aaron Alpar (Kasten)
+Deleting objects in Kubernetes can be challenging. You may think you’ve deleted something, only to find it still persists. While issuing a kubectl delete command and hoping for the best might work for day-to-day operations, understanding how Kubernetes delete commands operate will help you understand why some objects linger after deletion.
+In this post, I’ll look at:
+What properties of a resource govern deletion
+How finalizers and owner references impact object deletion
+How the…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo’s new “Go” brand of travel gear kicks off with a wireless-charging mouse]]></title>
         <id>https://arstechnica.com/?p=1764990</id>
@@ -1924,17 +1939,6 @@ Kubernetes clusters are typically used by several teams in an organization. In o
 The Kubernet…]]></summary>
         <author>
             <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning is a Marvelously Executed Scam]]></title>
-        <id>https://www.lastweekinaws.com/?p=8634</id>
-        <link href="https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/"/>
-        <updated>2021-04-14T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Machine Learning is a Marvelously Executed Scam I&#8217;ve joked periodically that machine learning (or &#8220;ML&#8221;) adherents claim to be able to sort through vast quantities of data and find absolutely anything except a viable business model. I&#8217;d like to revisit that with a clarification: They also apparently can&#8217;t tell a story around what they do [&#8230;]
-The post Machine Learning is a Marvelously Executed Scam appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
         </author>
     </entry>
 </feed>

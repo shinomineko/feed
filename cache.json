@@ -946,6 +946,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/",
+          "author": null,
+          "description": "Authors: Aaron Alpar (Kasten)\nDeleting objects in Kubernetes can be challenging. You may think you’ve deleted something, only to find it still persists. While issuing a kubectl delete command and hoping for the best might work for day-to-day operations, understanding how Kubernetes delete commands operate will help you understand why some objects linger after deletion.\nIn this post, I’ll look at:\nWhat properties of a resource govern deletion\nHow finalizers and owner references impact object deletion\nHow the…",
+          "link": "https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/",
+          "publishedOn": "2021-05-14T00:00:00.000Z",
+          "wordCount": 4115,
+          "title": "Blog: Using Finalizers to Control Deletion"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/04/23/kubernetes-release-1.21-metrics-stability-ga/",
           "author": null,
           "description": "Authors: Han Kang (Google), Elana Hashman (Red Hat)\nKubernetes 1.21 marks the graduation of the metrics stability framework and along with it, the first officially supported stable metrics. Not only do stable metrics come with supportability guarantees, the metrics stability framework brings escape hatches that you can use if you encounter problematic metrics.\nSee the list of stable Kubernetes metrics here\nWhat are stable metrics and why do we need them?\nA stable metric is one which, from a consumption poin…",
@@ -1086,15 +1095,6 @@
           "publishedOn": "2021-04-21T14:30:00.000Z",
           "wordCount": 1350,
           "title": "S3’s Durability Guarantees Aren’t What You Think"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=8634",
-          "author": "Corey Quinn",
-          "description": "Machine Learning is a Marvelously Executed Scam I&#8217;ve joked periodically that machine learning (or &#8220;ML&#8221;) adherents claim to be able to sort through vast quantities of data and find absolutely anything except a viable business model. I&#8217;d like to revisit that with a clarification: They also apparently can&#8217;t tell a story around what they do [&#8230;]\nThe post Machine Learning is a Marvelously Executed Scam appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/",
-          "publishedOn": "2021-04-14T14:30:00.000Z",
-          "wordCount": 1457,
-          "title": "Machine Learning is a Marvelously Executed Scam"
         }
       ]
     },
