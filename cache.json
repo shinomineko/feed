@@ -83,15 +83,6 @@
           "publishedOn": "2021-04-23T00:00:00.000Z",
           "wordCount": 50,
           "title": "Perfect Fit"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/meeting/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/meeting/",
-          "publishedOn": "2021-04-15T00:00:00.000Z",
-          "wordCount": 48,
-          "title": "Meeting"
         }
       ]
     },
@@ -106,6 +97,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/05/ransomware-is-getting-ugly.html",
+          "author": null,
+          "description": "Modern ransomware has two dimensions: pay to get your data back, and pay not to have your data dumped on the Internet. The DC police are the victims of this ransomware, and the criminals have just posted personnel records &#8212; &#8220;including the results of psychological assessments and polygraph tests; driver&#8217;s license images; fingerprints; social security numbers; dates of birth; and residential, financial, and marriage histories&#8221; &#8212; for two dozen police officers.\nThe negotiations don…",
+          "link": "https://www.schneier.com/blog/archives/2021/05/ransomware-is-getting-ugly.html",
+          "publishedOn": "2021-05-14T11:30:27.000Z",
+          "wordCount": 608,
+          "title": "Ransomware Is Getting Ugly"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/05/new-us-executive-order-on-cybersecurity.html",
           "author": null,
@@ -239,6 +239,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1765014",
+          "author": "Eric Berger",
+          "description": "Also, Boeing's Starliner spacecraft gets a new launch date.",
+          "link": "https://arstechnica.com/?p=1765014",
+          "publishedOn": "2021-05-14T11:00:08.000Z",
+          "wordCount": 1876,
+          "title": "Rocket Report: Starship orbital flight details, Ariane 5 may delay Webb launch"
+        },
         {
           "id": "https://arstechnica.com/?p=1764990",
           "author": "Samuel Axon",
@@ -1016,15 +1025,6 @@
           "publishedOn": "2021-04-16T00:00:00.000Z",
           "wordCount": 3598,
           "title": "Blog: Volume Health Monitoring Alpha Update"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/04/15/three-tenancy-models-for-kubernetes/",
-          "author": null,
-          "description": "Authors: Ryan Bezdicek (Medtronic), Jim Bugwadia (Nirmata), Tasha Drew (VMware), Fei Guo (Alibaba), Adrian Ludwin (Google)\nKubernetes clusters are typically used by several teams in an organization. In other cases, Kubernetes may be used to deliver applications to end users requiring segmentation and isolation of resources across users from different organizations. Secure sharing of Kubernetes control plane and worker node resources allows maximizing productivity and saving costs in both cases.\nThe Kubernet…",
-          "link": "https://kubernetes.io/blog/2021/04/15/three-tenancy-models-for-kubernetes/",
-          "publishedOn": "2021-04-15T00:00:00.000Z",
-          "wordCount": 3596,
-          "title": "Blog: Three Tenancy Models For Kubernetes"
         }
       ]
     },
@@ -1119,6 +1119,69 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149738",
+          "author": null,
+          "description": "The Australian Classification Board has garnered a reputation for being pretty tight about the games it approves: its refusal to give DayZ the green light over weed resulted in the game being changed worldwide, and Disco Elysium similarly found itself in the firing line earlier this year. Back in March, the board announced that Disco Elysium: The Final Cut was too offensive to go on sale, citing its depiction of drug use, crime and violence as just some of the reasons for the ban. \nWell, the board has now r…",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-disco-elysium-no-longer-in-australian-classification-board-sin-bin",
+          "publishedOn": "2021-05-14T11:18:00.000Z",
+          "wordCount": 914,
+          "title": "Disco Elysium no longer in Australian Classification Board sin bin"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149729",
+          "author": null,
+          "description": "A modder is working on getting a third-person perspective up and running within the normally first-person Resident Evil Village.\nModder FluffyQuack is working on a third-person mod for Capcom's horror game, and has published footage of it working.\nTHERE MAY BE RESIDENT EVIL VILLAGE SPOILERS AHEAD.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-very-experimental-resident-evil-village-third-person-mod-features-a-headless-ethan",
+          "publishedOn": "2021-05-14T10:28:00.000Z",
+          "wordCount": 783,
+          "title": "\"Very experimental\" Resident Evil Village third-person mod features a headless Ethan"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149724",
+          "author": null,
+          "description": "Mass Effect Legendary Edition features BioWare's full trilogy in its most accessible form yet - but it also lets you pick and choose to play individual games. \nPerhaps you just want to play Mass Effect 3? Or maybe you want to start with ME2, as the series fleshes out its roster of characters, and skip ME1's Mako?\nWell, all of this - as it always did - plays into the trilogy's big finale. Avoiding spoilers, it's worth remembering that whatever Shepard's own individual choices might be, these choices are also…",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-in-mass-effect-legendary-edition-the-trilogys-best-ending-is-still-available-if-you-only-play-me3",
+          "publishedOn": "2021-05-14T10:27:00.000Z",
+          "wordCount": 949,
+          "title": "In Mass Effect Legendary Edition, the trilogy's best ending is still available if you only play ME3"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149721",
+          "author": null,
+          "description": "Blizzard has lowered the price of a cloned World of Warcraft Classic character following a backlash from players.\nThe company was set to charge $35 per character for an optional cloning service, which would let players keep playing the original World of Warcraft Classic content and The Burning Crusade content with the same character.\nThe $35 (around £25) price was roundly criticised by the World of Warcraft community as being too expensive - and Blizzard came under fire accordingly.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-blizzard-lowers-the-price-of-a-cloned-world-of-warcraft-classic-character-following-backlash",
+          "publishedOn": "2021-05-14T10:04:00.000Z",
+          "wordCount": 918,
+          "title": "Blizzard lowers price of a cloned World of Warcraft Classic character following backlash"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149720",
+          "author": null,
+          "description": "Are you ready for some more cyberpunk? No, not that one, I'm talking about cyberpunk action-parkour game Ghostrunner, which is now getting a sequel. \nPublisher 505 Games and lead developer One More Level have announced that Ghostrunner 2 is currently in development, and will release on PC, PlayStation 5 and Xbox Series X/S. As of yet there's no release date for the sequel, so we may be waiting a while to slide around its neon-lit streets. \nIn the short term there's still plenty to come for the original game…",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-cyberpunk-parkour-game-ghostrunner-is-getting-a-sequel",
+          "publishedOn": "2021-05-14T09:55:00.000Z",
+          "wordCount": 752,
+          "title": "Cyberpunk parkour game Ghostrunner is getting a sequel"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149713",
+          "author": null,
+          "description": "Pokémon continues its 25th anniversary celebrations today with the release of Katy Perry's new single Electric.\nIn the video, Katy Perry and her Pikachu reminisce about growing up - and we see flashbacks to when she was younger and Pikachu was just a Pichu. Pokémon evolve, and so do people too! I think that's the message here. \nIt's no Pokérap, but you can watch it anyway below:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-katy-perry-has-released-her-pokemon-pop-song",
+          "publishedOn": "2021-05-14T09:40:00.000Z",
+          "wordCount": 771,
+          "title": "Katy Perry debuts Pokémon pop song Electric"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149698",
+          "author": null,
+          "description": "Dungeons &amp; Dragons Dark Alliance launches straight into Xbox Game Pass.\nDark Alliance will be available on Xbox One, Xbox Series X and S, Windows 10 PC, and phones and tablets via Xbox Cloud Gaming with Xbox Game Pass on 22nd June, developer Tuque Games announced.\nThe game is also available then on PlayStation 4 and PlayStation 5, and supports PC and console crossplay at launch.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-14-dungeons-and-dragons-dark-alliance-launches-straight-into-xbox-game-pass",
+          "publishedOn": "2021-05-14T09:02:00.000Z",
+          "wordCount": 638,
+          "title": "Dungeons & Dragons Dark Alliance launches straight into Xbox Game Pass"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2149649",
           "author": null,
