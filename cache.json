@@ -267,6 +267,24 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1765280",
+          "author": "Eric Bangeman",
+          "description": "Some high-end televisions already cost 30% more than they did last summer.",
+          "link": "https://arstechnica.com/?p=1765280",
+          "publishedOn": "2021-05-15T11:15:34.000Z",
+          "wordCount": 1263,
+          "title": "The chip shortage is driving up tech prices–starting with TVs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1765276",
+          "author": "WIRED",
+          "description": "Stopping payments would go a long way to stopping ransomware.",
+          "link": "https://arstechnica.com/?p=1765276",
+          "publishedOn": "2021-05-15T10:00:05.000Z",
+          "wordCount": 1309,
+          "title": "Colonial Pipeline paid a $5 million ransom—and kept a vicious cycle turning"
+        },
+        {
           "id": "https://arstechnica.com/?p=1765287",
           "author": "Dan Goodin",
           "description": "The closure may mean the group is ceasing or altering ops—or pulling an exit scam.",
@@ -1151,15 +1169,6 @@
           "publishedOn": "2021-04-19T00:00:00.000Z",
           "wordCount": 2947,
           "title": "Blog: Introducing Indexed Jobs"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/04/16/volume-health-monitoring-alpha-update/",
-          "author": null,
-          "description": "Author: Xing Yang (VMware)\nThe CSI Volume Health Monitoring feature, originally introduced in 1.19 has undergone a large update for the 1.21 release.\nWhy add Volume Health Monitoring to Kubernetes?\nWithout Volume Health Monitoring, Kubernetes has no knowledge of the state of the underlying volumes of a storage system after a PVC is provisioned and used by a Pod. Many things could happen to the underlying storage system after a volume is provisioned in Kubernetes. For example, the volume could be deleted by …",
-          "link": "https://kubernetes.io/blog/2021/04/16/volume-health-monitoring-alpha-update/",
-          "publishedOn": "2021-04-16T00:00:00.000Z",
-          "wordCount": 3598,
-          "title": "Blog: Volume Health Monitoring Alpha Update"
         }
       ]
     },
@@ -1263,6 +1272,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149851",
+          "author": null,
+          "description": "Mass Effect Legendary Edition changes one of the longest-standing issues with the franchise: Tali's face.\nTHERE MAY BE MASS EFFECT SPOILERS AHEAD.\nOriginal party member Tali'Zorah is a quarian whose face has been one of the most popular online discussion topics about Mass Effect. Throughout the series, her face is concealed due to her having to wear a suit that protects her from disease.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-15-mass-effect-legendary-edition-changes-talis-controversial-cabin-photo",
+          "publishedOn": "2021-05-15T10:49:00.000Z",
+          "wordCount": 929,
+          "title": "Mass Effect Legendary Edition changes Tali's controversial cabin photo"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149846",
+          "author": null,
+          "description": "Treyarch has detailed what's coming to Zombies mode in Call of Duty: Black Ops Cold War.\nOutbreak gets its first main quest with the launch of the mid-season three refresh, at 6pm UK time on Thursday 20th May - the same time Rambo and Die Hard's Die Hard's John McClane hit Black Ops Cold War and Warzone.\nIn a blog post, Treyarch said that from there, the studio plans to release a \"record amount\" of quest-driven Zombies content ahead of the next chapters of the Dark Aether story.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-15-treyarch-reveals-whats-next-for-call-of-duty-black-ops-cold-war-zombies",
+          "publishedOn": "2021-05-15T09:57:00.000Z",
+          "wordCount": 1136,
+          "title": "Treyarch reveals what's next for Call of Duty: Black Ops Cold War Zombies"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149842",
+          "author": null,
+          "description": "THQ Nordic has released just over three minutes of unedited Biomutant gameplay on five different platforms.\nIn each video we see a slight variation on the same objective, with the player character sprinting across the lush open world towards a fight with a guerilla miniboss and its minions. The martial arts style combat system looks like a lot of fun, and I particularly liked how the guerilla can grab the player, launch them into the air then bat them away - nice, smooth animations.\nThe PC gameplay is in th…",
+          "link": "https://www.eurogamer.net/articles/2021-05-15-heres-three-minutes-of-unedited-biomutant-gameplay-on-five-platforms",
+          "publishedOn": "2021-05-15T09:11:00.000Z",
+          "wordCount": 812,
+          "title": "Here's three minutes of unedited Biomutant gameplay on five platforms"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2149839",
+          "author": null,
+          "description": "Final Fantasy 14 expansion Endwalker launches 23rd November 2021, Square Enix has announced.\nSquare Enix also announced a new job to be introduced with Endwalker: the reaper. This is a scythe-wielding melee DPS job who summons avatars while fighting in close-quarter combat.\nA first look at the reaper in action is in the video below:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-15-final-fantasy-14-expansion-endwalker-out-in-november",
+          "publishedOn": "2021-05-15T08:32:00.000Z",
+          "wordCount": 632,
+          "title": "Final Fantasy 14 expansion Endwalker out in November"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2149832",
           "author": null,
@@ -1923,5 +1968,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
