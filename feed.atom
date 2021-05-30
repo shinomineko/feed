@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T19:14:13.578Z</updated>
+    <updated>2021-05-30T01:33:18.407Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
+        <id>https://arstechnica.com/?p=1768704</id>
+        <link href="https://arstechnica.com/?p=1768704"/>
+        <updated>2021-05-29T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon's experiment wireless mesh networking turns users into guinea pigs.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Upcoming Biomutant patch to make "changes based on community feedback"]]></title>
         <id>https://www.eurogamer.net/article.php?article_id=2151885</id>
@@ -5927,17 +5937,6 @@ Read my blog posting guidelines here.]]></summary>
 The post DynamoDB vs. MongoDB: A Comparison and How to Choose appeared first on Last Week in AWS.]]></summary>
         <author>
             <name>Brian Scanlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serious MacOS Vulnerability Patched]]></title>
-        <id>https://www.schneier.com/blog/archives/2021/04/serous-macos-vulnerability-patched.html</id>
-        <link href="https://www.schneier.com/blog/archives/2021/04/serous-macos-vulnerability-patched.html"/>
-        <updated>2021-04-30T12:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Apple just patched a MacOS vulnerability that bypassed malware checks.
-The flaw is akin to a front entrance that&#8217;s barred and bolted effectively, but with a cat door at the bottom that you can easily toss a bomb through. Apple mistakenly assumed that applications will always have certain specific attributes. Owens discovered that if he made an application that was really just a script—code that tells another program what do rather than doing it itself—and didn&#8217;t include a standard application me…]]></summary>
-        <author>
-            <name>Schneier on Security</name>
         </author>
     </entry>
 </feed>
