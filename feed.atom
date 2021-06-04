@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:31:53.320Z</updated>
+    <updated>2021-06-04T07:43:53.172Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Loading Weekend]]></title>
+        <id>https://www.monkeyuser.com/2021/loading-weekend/</id>
+        <link href="https://www.monkeyuser.com/2021/loading-weekend/"/>
+        <updated>2021-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development satire]]></summary>
+        <author>
+            <name>MonkeyUser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to expect from WWDC 2021: iOS 15, M2, and more]]></title>
         <id>https://arstechnica.com/?p=1769720</id>
@@ -6946,29 +6956,6 @@ Six-and-seven-year-olds will be taught how to use usernames and passwords, and t
         <summary type="html"><![CDATA[Nice video of a talk by Chris Shore on the history of Colossus.]]></summary>
         <author>
             <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Spectre-Like Attacks]]></title>
-        <id>https://www.schneier.com/blog/archives/2021/05/new-spectre-like-attacks.html</id>
-        <link href="https://www.schneier.com/blog/archives/2021/05/new-spectre-like-attacks.html"/>
-        <updated>2021-05-05T15:35:45.000Z</updated>
-        <summary type="html"><![CDATA[There&#8217;s new research that demonstrates security vulnerabilities in all of the AMD and Intel chips with micro-op caches, including the ones that were specifically engineered to be resistant to the Spectre/Meltdown attacks of three years ago.
-Details:
-The new line of attacks exploits the micro-op cache: an on-chip structure that speeds up computing by storing simple commands and allowing the processor to fetch them quickly and early in the speculative execution process, as the team explains in a writeup…]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Portals Are an Anti-Pattern]]></title>
-        <id>https://www.lastweekinaws.com/?p=8725</id>
-        <link href="https://www.lastweekinaws.com/blog/developer-portals-are-an-anti-pattern/"/>
-        <updated>2021-05-05T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Developer portals can be used to enforce standardization and to enable multi-cloud use cases. But they also have some serious issues and should be avoided in most cases. 
-The post Developer Portals Are an Anti-Pattern appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
         </author>
     </entry>
 </feed>
