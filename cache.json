@@ -112,15 +112,6 @@
           "publishedOn": "2021-05-14T00:00:00.000Z",
           "wordCount": 183,
           "title": "Astrophotography"
-        },
-        {
-          "id": "https://xkcd.com/2462/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2462/",
-          "publishedOn": "2021-05-12T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "NASA Award"
         }
       ]
     },
@@ -178,6 +169,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/06/detecting-deepfake-picture-editing.html",
+          "author": null,
+          "description": "<p>&#8220;Markpainting&#8221; is a <a href=\"https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/\">clever technique</a> to watermark photos in such a way that makes it easier to detect ML-based manipulation:</p>\n<blockquote><p>An image owner can modify their image in subtle ways which are not themselves very visible, but will sabotage any attempt to inpaint it by adding visible information determined in advance by the markpainter.</p>\n<p>One application is tamper-resistant marks. For example, a photo agency that makes stock photos available on its website with copyright watermarks can markpaint them in such a way that anyone using common editing software to remove a watermark will fail; the copyright mark will be markpainted right back. So watermarks can be made a lot more robust...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/06/detecting-deepfake-picture-editing.html",
+          "publishedOn": "2021-06-10T11:19:19.000Z",
+          "wordCount": 613,
+          "title": "Detecting Deepfake Picture Editing"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/06/information-flows-and-democracy.html",
           "author": null,
@@ -392,6 +392,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1771437",
+          "author": "Jennifer Ouellette",
+          "description": "A resonant transfer of energy accelerates atmospheric electrons to sufficient energies.",
+          "link": "https://arstechnica.com/?p=1771437",
+          "publishedOn": "2021-06-10T11:52:07.000Z",
+          "wordCount": 1582,
+          "title": "Electrons in ionosphere catch a plasma wave to produce brightest auroras"
+        },
         {
           "id": "https://arstechnica.com/?p=1771941",
           "author": "Samuel Axon",
@@ -3208,87 +3217,6 @@
           "publishedOn": "2021-05-12T10:45:29.000Z",
           "wordCount": 899,
           "title": "Volvo and Daimler bet on hydrogen truck boom this decade"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764324",
-          "author": "Jonathan M. Gitlin",
-          "description": "Former AMG CEO Tobias Moers is now in charge of the British carmaker.",
-          "link": "https://arstechnica.com/?p=1764324",
-          "publishedOn": "2021-05-11T23:01:22.000Z",
-          "wordCount": 2099,
-          "title": "Aston Martin’s new boss tells us about the future of the company"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764204",
-          "author": "Jennifer Ouellette",
-          "description": "\"Honor. That is why a knight does what he does.\"",
-          "link": "https://arstechnica.com/?p=1764204",
-          "publishedOn": "2021-05-11T22:09:07.000Z",
-          "wordCount": 1442,
-          "title": "Famed Arthurian tale comes to silver screen in The Green Knight trailer"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764334",
-          "author": "Beth Mole",
-          "description": "People with diabetes are particularly vulnerable to the aggressive fungus.",
-          "link": "https://arstechnica.com/?p=1764334",
-          "publishedOn": "2021-05-11T21:40:13.000Z",
-          "wordCount": 1140,
-          "title": "Rare fungal infections that destroy eyeballs and kill are on the rise in India"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764296",
-          "author": "Dan Goodin",
-          "description": "Babuk demands $4 million, Metropolitan Police Department offers $100,000.",
-          "link": "https://arstechnica.com/?p=1764296",
-          "publishedOn": "2021-05-11T21:07:28.000Z",
-          "wordCount": 858,
-          "title": "Ransomware crooks post cops’ psych evaluations after talks with DC police stall"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764225",
-          "author": "Ron Amadeo",
-          "description": "Performance-boosting DLSS on entry-level laptops could be a big deal.",
-          "link": "https://arstechnica.com/?p=1764225",
-          "publishedOn": "2021-05-11T20:56:04.000Z",
-          "wordCount": 660,
-          "title": "Nvidia’s RTX 3050 brings ray tracing and DLSS to $800 laptops"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764252",
-          "author": "Kyle Orland",
-          "description": "Identical fork is restored after DMCA counterclaim.",
-          "link": "https://arstechnica.com/?p=1764252",
-          "publishedOn": "2021-05-11T19:55:40.000Z",
-          "wordCount": 931,
-          "title": "Github reverses takedown of reverse-engineered GTA source code"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764054",
-          "author": "Samuel Axon",
-          "description": "Flagship Core i9-11980HK allegedly beats Ryzen 9 5900HX by 11 to 26 percent.",
-          "link": "https://arstechnica.com/?p=1764054",
-          "publishedOn": "2021-05-11T19:39:38.000Z",
-          "wordCount": 760,
-          "title": "Intel claims its new Tiger Lake-H CPUs for laptops beat AMD’s Ryzen 5000"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764063",
-          "author": "Jennifer Ouellette",
-          "description": "Viewers frustrated by part 1's maddening cliffhanger won't have much longer to wait.",
-          "link": "https://arstechnica.com/?p=1764063",
-          "publishedOn": "2021-05-11T18:55:46.000Z",
-          "wordCount": 1585,
-          "title": "Our fave gentleman thief is back for revenge in trailer for Lupin part 2"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764100",
-          "author": "Jon Brodkin",
-          "description": "First Amendment prevents FCC from punishing news station for its \"tone.\"",
-          "link": "https://arstechnica.com/?p=1764100",
-          "publishedOn": "2021-05-11T18:25:46.000Z",
-          "wordCount": 1874,
-          "title": "Baltimore chief prosecutor asks FCC to stop negative news coverage about her"
         }
       ]
     },
@@ -3423,6 +3351,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153511",
+          "author": null,
+          "description": "PUBG's bots have never been particularly popular with the community ever since they were introduced to public matchmaking, but a recent update transformed the bumbling bots into something far worse: horrifyingly accurate aimbots. \nPatch 12.1 brought with it some changes to bot AI, which were - in theory - supposed to improve their behaviour, but it seems PUBG Corp made them a little too good. Players took to Reddit to document these machines of terror, pointing out that they were behaving like cheaters. Those who spectated the bots or replayed death cams discovered they effectively had wall hacks and aimbot enabled, with the bots spinning around to obliterate players with unnerving speed and accuracy. \n\"They're 'aim bots' now and that's no joke,\" said appropriately-named Reddit user Morbidly Tortured. \"I got taken out by a bot from 200 meters out. It auto locked on to me and hit every shot. I almost reported it until I spectated for about three minutes and noticed it was a bot with how it was running, stopping, going prone.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-10-pubgs-cheater-bots-have-finally-been-told-to-calm-down",
+          "publishedOn": "2021-06-10T11:08:00.000Z",
+          "wordCount": 1018,
+          "title": "PUBG's \"cheater bots\" have finally been told to calm down"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153489",
+          "author": null,
+          "description": "Yesterday's big Battlefield 2042 reveal gave us our first glimpse at the game's near-future setting and confirmed its multiplayer focus. There will be no campaign mode (or battle royale).\nIt also brought us details on the three different editions of Battlefield 2042 available, with different prices for its cheapest edition depending on where you'll play. \nFor this basic edition, Battlefield 2042 costs £10/$10 less on PC, PlayStation 4 and Xbox One than you'll pay on PS5 and Xbox Series X/S. For fancier editions, it's £10/$10 less on PC only.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-10-battlefield-2042s-standard-edition-is-gbp10-cheaper-on-pc-and-last-gen-consoles",
+          "publishedOn": "2021-06-10T10:25:00.000Z",
+          "wordCount": 854,
+          "title": "Battlefield 2042's standard edition is £10 cheaper on PC and last-gen consoles"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153485",
+          "author": null,
+          "description": "The Ninja Gaiden Master Collection is out now - and its PC port has been found wanting.\nThe PC version of this action game collection is bare bones, with severely limited customisation and graphics options.\nIt does not support mouse and keyboard, forcing PC users to play with a controller. A controller is perhaps preferable for Ninja Gaiden, but to not provide the option of mouse and keyboard is shocking.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-10-the-ninja-gaiden-master-collection-pc-port-isnt-going-down-well",
+          "publishedOn": "2021-06-10T09:34:00.000Z",
+          "wordCount": 827,
+          "title": "The Ninja Gaiden Master Collection PC port isn't going down well"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2153428",
           "author": null,
@@ -5834,24 +5789,6 @@
           "publishedOn": "2021-05-12T09:50:00.000Z",
           "wordCount": 939,
           "title": "Battlefield 6 is designed for PS5 and Xbox Series X, but will also run on last-gen"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2149315",
-          "author": null,
-          "description": "LucasArts' fondly remembered 16-bit classic Zombies At My Neighbours is getting a long-awaited re-release on Xbox, PlayStation, Switch, and PC on 29th June.\nZombies Ate My Neighbors, which originally launched on SNES and Sega Mega Drive back in 1993, follows the adventures of Zeke and Julie (who can be played solo or co-operatively) as they attempt to save their neighbours from a host of B-movie monsters - zombies, werewolves, vampires, giant ants, aliens, and so on - on a journey that stretches from suburb…",
-          "link": "https://www.eurogamer.net/articles/2021-05-11-lucasarts-16-bit-classic-zombies-ate-my-neighbors-heading-to-pc-and-consoles-in-june",
-          "publishedOn": "2021-05-11T20:06:00.000Z",
-          "wordCount": 849,
-          "title": "LucasArts' 16-bit classic Zombies Ate My Neighbors heading to PC and consoles in June"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2149310",
-          "author": null,
-          "description": "HTC has unveiled the latest addition to its PC VR headset line-up in the form of the Vive Pro 2, which arrives on 4th June with pre-orders open now.\nAs its name implies, HTC's Vive Pro 2 is the direct successor to the high-end PC VR headset it released in 2018. It'll up the ante with a 5K resolution display (2448x2448 pixels per eye), a 120-degree field of view, and a 120Hz panel. By way of contrast, the original Vive Pro featured a 2880x1600 resolution, a 110-degree field of view, and a 90Hz refresh rate.\n…",
-          "link": "https://www.eurogamer.net/articles/2021-05-11-htc-expanding-pc-vr-headset-line-up-with-vive-pro-2-this-june",
-          "publishedOn": "2021-05-11T18:53:00.000Z",
-          "wordCount": 814,
-          "title": "HTC expanding PC VR headset line-up with Vive Pro 2 this June"
         }
       ]
     }
