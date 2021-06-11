@@ -170,6 +170,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/06/fbi-afp-run-encrypted-phone.html",
+          "author": null,
+          "description": "<p>For three years, the Federal Bureau of Investigation and the Australian Federal Police owned and operated a commercial encrypted phone app, called AN0M, that was used by organized crime around the world. Of course, the police were able to read everything &#8212; I don&#8217;t even know if this qualifies as a backdoor. This week, the <a href=\"https://www.nytimes.com/2021/06/08/world/australia/operation-trojan-horse-anom.html\">world&#8217;s</a> <a href=\"https://www.abc.net.au/news/2021-06-08/fbi-afp-underworld-crime-bust-an0m-cash-drugs-murder/100197246\">police</a> <a href=\"https://www.theguardian.com/australia-news/2021/jun/08/anom-encrypted-app-fbi-afp-australia-federal-police-sting-operation-ironside-an0m\">organizations</a> <a href=\"https://www.smh.com.au/national/mass-raids-arrests-across-australia-after-police-sting-dismantles-encrypted-app-used-by-criminals-20210607-p57yya.html\">announced</a> <a href=\"https://www.reuters.com/world/asia-pacific/australian-police-arrest-over-200-after-cracking-underworld-messaging-app-2021-06-08/\">800</a> <a href=\"https://www.washingtonpost.com/world/2021/06/08/fbi-app-arrests-australia-crime/\">arrests</a> based on text messages sent over the app. We&#8217;ve seen law enforcement take over encrypted apps before: for example, <a href=\"https://www.nytimes.com/2020/07/02/world/europe/encrypted-network-arrests-europe.html\">EncroChat</a>. This operation, code-named Trojan Shield, is the first time law enforcement managed an app from the beginning...</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/06/fbi-afp-run-encrypted-phone.html",
+          "publishedOn": "2021-06-11T11:32:38.000Z",
+          "wordCount": 497,
+          "title": "FBI/AFP-Run Encrypted Phone"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/06/detecting-deepfake-picture-editing.html",
           "author": null,
           "description": "<p>&#8220;Markpainting&#8221; is a <a href=\"https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/\">clever technique</a> to watermark photos in such a way that makes it easier to detect ML-based manipulation:</p>\n<blockquote><p>An image owner can modify their image in subtle ways which are not themselves very visible, but will sabotage any attempt to inpaint it by adding visible information determined in advance by the markpainter.</p>\n<p>One application is tamper-resistant marks. For example, a photo agency that makes stock photos available on its website with copyright watermarks can markpaint them in such a way that anyone using common editing software to remove a watermark will fail; the copyright mark will be markpainted right back. So watermarks can be made a lot more robust...</p></blockquote>",
@@ -383,6 +392,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1767257",
+          "author": "Ars Contributors",
+          "description": "“One animal could have made thousands of traces during its lifetime, but only left one skeleton.\"",
+          "link": "https://arstechnica.com/?p=1767257",
+          "publishedOn": "2021-06-11T11:30:59.000Z",
+          "wordCount": 2226,
+          "title": "Trace fossils, the most inconspicuous bite-sized window into ancient worlds"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772183",
+          "author": "Eric Berger",
+          "description": "\"This idea has been around since the dawn of spaceflight.\"",
+          "link": "https://arstechnica.com/?p=1772183",
+          "publishedOn": "2021-06-11T11:00:29.000Z",
+          "wordCount": 2494,
+          "title": "Rocket Report: Vandals spray paint Buran, China to launch first crew in 4 years"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771930",
+          "author": "Ron Amadeo",
+          "description": "Android 12's \"Material You\" UI debuts in Beta 2, and we go hands-on.",
+          "link": "https://arstechnica.com/?p=1771930",
+          "publishedOn": "2021-06-11T10:15:14.000Z",
+          "wordCount": 1502,
+          "title": "Android 12’s beautiful color-changing UI already lives up to the hype"
+        },
         {
           "id": "https://arstechnica.com/?p=1772253",
           "author": "Jon Brodkin",
@@ -3226,42 +3262,6 @@
           "publishedOn": "2021-05-13T00:21:55.000Z",
           "wordCount": 714,
           "title": "Colonial Pipeline resumes operations after ransomware prompted closure"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764690",
-          "author": "Samuel Axon",
-          "description": "Vizio's ads, streaming, and data business grew 133 percent year-over-year.",
-          "link": "https://arstechnica.com/?p=1764690",
-          "publishedOn": "2021-05-12T22:01:29.000Z",
-          "wordCount": 836,
-          "title": "Vizio TV buyers are becoming the product Vizio sells, not just its customers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764646",
-          "author": "John Timmer",
-          "description": "Formal approval of the Pfizer/BioNTech by the CDC expected within 24 hours.",
-          "link": "https://arstechnica.com/?p=1764646",
-          "publishedOn": "2021-05-12T20:40:04.000Z",
-          "wordCount": 793,
-          "title": "CDC advisory committee recommends COVID vaccine for 12- to 15-year-olds"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764517",
-          "author": "Jim Salter",
-          "description": "Echo Show 8 features a 13mp wide-angle camera, 8-core CPU, and digital pan/zoom.",
-          "link": "https://arstechnica.com/?p=1764517",
-          "publishedOn": "2021-05-12T20:12:47.000Z",
-          "wordCount": 1185,
-          "title": "Amazon’s 2nd-gen Echo Show offers better cameras, CPUs, and speakers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1763689",
-          "author": "Jennifer Ouellette",
-          "description": "Unlike holograms, the optical trap display produces images viewable from all angles.",
-          "link": "https://arstechnica.com/?p=1763689",
-          "publishedOn": "2021-05-12T19:45:12.000Z",
-          "wordCount": 1703,
-          "title": "Better than holograms: 3D-animated starships can be viewed from any angle"
         }
       ]
     },
@@ -3370,15 +3370,6 @@
           "publishedOn": "2021-05-19T00:00:00.000Z",
           "wordCount": 129,
           "title": "Switching to OFTC"
-        },
-        {
-          "id": "https://alpinelinux.org/posts/AlpineConf-2021.html",
-          "author": null,
-          "description": "Alpine Linux",
-          "link": "https://alpinelinux.org/posts/AlpineConf-2021.html",
-          "publishedOn": "2021-05-13T00:00:00.000Z",
-          "wordCount": 75,
-          "title": "AlpineConf 2021"
         }
       ]
     },
@@ -3387,6 +3378,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153802",
+          "author": null,
+          "description": "Fallout 76 will bin its battle royale mode in a few months, Bethesda has announced.\nIn a blog post, Bethesda said the Nuclear Winter mode will come to an end in September.\nExplaining the decision, Bethesda said Nuclear Winter had suffered from a lack of players, which meant it had become difficult to create full lobbies in a reasonable matchmaking time.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-11-bethesda-bins-fallout-76s-battle-royale-mode-this-september",
+          "publishedOn": "2021-06-11T11:01:00.000Z",
+          "wordCount": 991,
+          "title": "Bethesda bins Fallout 76's battle royale mode this September"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153789",
+          "author": null,
+          "description": "Hackers have reportedly stolen the source code to FIFA 21 and game engine Frostbite.\nVice reported the hackers claimed to have obtained 780GB of data and had put it up for sale.\nEA confirmed the breach in a statement that also insisted no player data had been stolen.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-11-hackers-reportedly-steal-fifa-21-and-frostbite-source-code",
+          "publishedOn": "2021-06-11T10:24:00.000Z",
+          "wordCount": 741,
+          "title": "Hackers reportedly steal FIFA 21 and Frostbite source code"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153785",
+          "author": null,
+          "description": "Everyone's doing a Nintendo Direct these days, and now top indie publisher Annapurna Interactive is no different. \nThe first ever Annapurna Interactive Showcase will be broadcast on 29th July at 8pm UK time (midday Pacific) in all of the usual streaming places. \nExpect updates on upcoming Annapurna games (there are a lot!) such as The Artful Escape, Skin Deep, Solar Ash, Neon White and Stray. New game announcements will also feature, as Annapurna adds to its bulging top-tier indie roster. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-11-annapurna-interactive-will-hold-its-first-ever-showcase-next-month",
+          "publishedOn": "2021-06-11T10:20:00.000Z",
+          "wordCount": 664,
+          "title": "Annapurna Interactive will hold its first ever showcase next month"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2153761",
+          "author": null,
+          "description": "Last night's flurry of Summer Game Fest announcements included a 22nd October release date for House of Ashes, the third game in Until Dawn developer Supermassive Games' The Dark Pictures Anthology.\nA fresh trailer also includes a blink-and-you'll-miss-it reveal of the game's monster big bad (it's right at the very end, if you want to avoid spoilers).\nLast month I sat down with House of Ashes director Will Doyle to discuss the game's Iraq War setting, horror influences and historical horror. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-11-the-dark-pictures-anthology-house-of-ashes-arrives-just-in-time-for-halloween",
+          "publishedOn": "2021-06-11T08:41:00.000Z",
+          "wordCount": 644,
+          "title": "The Dark Pictures Anthology: House of Ashes arrives just in time for Halloween"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2153725",
           "author": null,
