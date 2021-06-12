@@ -112,15 +112,6 @@
           "publishedOn": "2021-05-17T00:00:00.000Z",
           "wordCount": 185,
           "title": "Muller's Ratchet"
-        },
-        {
-          "id": "https://xkcd.com/2463/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2463/",
-          "publishedOn": "2021-05-14T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Astrophotography"
         }
       ]
     },
@@ -401,6 +392,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1772553",
+          "author": "WIRED",
+          "description": "A major new report suggests tackling biodiversity, climate crises simultaneously.",
+          "link": "https://arstechnica.com/?p=1772553",
+          "publishedOn": "2021-06-12T11:45:44.000Z",
+          "wordCount": 1763,
+          "title": "How to protect species and save the planet—at the same time"
+        },
         {
           "id": "https://arstechnica.com/?p=1772629",
           "author": "Beth Mole",
@@ -3235,51 +3235,6 @@
           "publishedOn": "2021-05-14T11:00:08.000Z",
           "wordCount": 1876,
           "title": "Rocket Report: Starship orbital flight details, Ariane 5 may delay Webb launch"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764990",
-          "author": "Samuel Axon",
-          "description": "Also announced: a 20,000 mAh portable charger for users' various devices.",
-          "link": "https://arstechnica.com/?p=1764990",
-          "publishedOn": "2021-05-13T22:18:45.000Z",
-          "wordCount": 745,
-          "title": "Lenovo’s new “Go” brand of travel gear kicks off with a wireless-charging mouse"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764814",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has deals on iPhone cases, Garmin watches, and robot vacuums.",
-          "link": "https://arstechnica.com/?p=1764814",
-          "publishedOn": "2021-05-13T19:33:44.000Z",
-          "wordCount": 2182,
-          "title": "New users can get 3 months of Xbox Game Pass Ultimate for $1 today"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1763383",
-          "author": "Jennifer Ouellette",
-          "description": "Ongoing collaboration between physicists and amateur stargazers yields new insights.",
-          "link": "https://arstechnica.com/?p=1763383",
-          "publishedOn": "2021-05-13T19:24:55.000Z",
-          "wordCount": 1336,
-          "title": "New analysis confirms hypothesis for source of mysterious auroral “dunes”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764902",
-          "author": "Jon Brodkin",
-          "description": "Man jailed for leaving driver seat empty says he feels safer in back seat.",
-          "link": "https://arstechnica.com/?p=1764902",
-          "publishedOn": "2021-05-13T18:57:42.000Z",
-          "wordCount": 1206,
-          "title": "Tesla owner who “drives” from back seat got arrested, then did it again"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1764922",
-          "author": "John Timmer",
-          "description": "With vaccines generally available and highly effective, the US shifts its advice.",
-          "link": "https://arstechnica.com/?p=1764922",
-          "publishedOn": "2021-05-13T18:32:50.000Z",
-          "wordCount": 1075,
-          "title": "Vaccinated people can now go maskless in most indoor locations [Updated]"
         }
       ]
     },
@@ -3293,17 +3248,7 @@
       "title": "Kubernetes – Production-Grade Container Orchestration",
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
-      "articles": [
-        {
-          "id": "https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/",
-          "author": null,
-          "description": "Authors: Aaron Alpar (Kasten)\nDeleting objects in Kubernetes can be challenging. You may think you’ve deleted something, only to find it still persists. While issuing a kubectl delete command and hoping for the best might work for day-to-day operations, understanding how Kubernetes delete commands operate will help you understand why some objects linger after deletion.\nIn this post, I’ll look at:\nWhat properties of a resource govern deletion\nHow finalizers and owner references impact object deletion\nHow the…",
-          "link": "https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/",
-          "publishedOn": "2021-05-14T00:00:00.000Z",
-          "wordCount": 4115,
-          "title": "Blog: Using Finalizers to Control Deletion"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Last Week in AWS",
@@ -3396,6 +3341,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2154003",
+          "author": null,
+          "description": "Nintendo's official website has revealed a brand new Switch game: Mario + Rabbids Sparks of Hope.\nNintendo.com lists the game alongside three screenshots and an official blurb:\n\"Team up with Mario, Luigi, Princess Peach, Rabbid Peach, Rabbid Luigi, and their friends on a galactic journey to defeat a malevolent entity and save your Spark companions. Explore planets throughout the galaxy as you uncover mysterious secrets and compelling quests!\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-12-nintendos-official-website-reveals-mario-rabbids-sparks-of-hope-for-switch",
+          "publishedOn": "2021-06-12T11:46:00.000Z",
+          "wordCount": 748,
+          "title": "Nintendo's official website reveals Mario + Rabbids Sparks of Hope for Switch"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2154001",
+          "author": null,
+          "description": "PlayStation boss Jim Ryan has insisted he doesn't hate old games while responding to controversial comments he made in 2017, and explained the PS5's lack of support for PlayStation's entire back catalogue of games.\nSpeaking in the latest Axios Gaming newsletter, Ryan was asked about a 2017 interview with Time in which he recalled seeing different versions of Gran Turismo running side-by-side on PSone, PS2, PS3 and PS4.\n\"The PS1 and the PS2 games, they looked ancient, like why would anybody play this?\" he said at the time.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-12-jim-ryan-cites-important-trade-offs-in-explaining-ps5s-lack-of-support-for-playstations-back-catalogue",
+          "publishedOn": "2021-06-12T11:17:00.000Z",
+          "wordCount": 1003,
+          "title": "Jim Ryan cites \"important trade-offs\" in explaining PS5's lack of support for old PlayStation games"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2153964",
           "author": null,
@@ -6059,24 +6022,6 @@
           "publishedOn": "2021-05-14T09:02:00.000Z",
           "wordCount": 638,
           "title": "Dungeons & Dragons Dark Alliance launches straight into Xbox Game Pass"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2149649",
-          "author": null,
-          "description": "Fall Guys' 80s-themed fourth season has reached its mid-point, meaning, as is now tradition, the arrival of a brand-new content update designed to freshen up the second half of the season with a variety of new gameplay twists and additions.\nAs detailed over on the Fall Guys subreddit, Season 4.5, which is out now on PC and PlayStation 4, introduces two brand-new rounds - Slimescraper and Button Bashers - as well as a total of 55 variations across 12 rounds. Slimescraper is described as spiritual successor t…",
-          "link": "https://www.eurogamer.net/articles/2021-05-13-fall-guys-latest-mid-season-update-out-now-adds-two-new-stages",
-          "publishedOn": "2021-05-13T20:18:00.000Z",
-          "wordCount": 897,
-          "title": "Fall Guys' latest mid-season update out now bringing two new stages and more"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2149642",
-          "author": null,
-          "description": "Although last month's generous PlayStation Play at Home game giveaway has run its course (with the exception of Horizon Zero Dawn, which remains free until tomorrow, 14th May), Sony isn't quite done yet. Players will soon be able to claim free in-game currency and virtual items for a selection of popular titles, including Call of Duty: Warzone and Rocket League.\nStarting next Monday, 17th May, at 4am BST/8pm PDT, nine titles (both free-to-play and full-price) will be offering special currency and item bundl…",
-          "link": "https://www.eurogamer.net/articles/2021-05-13-playstation-play-at-home-continues-next-week-with-free-in-game-currency-and-virtual-items",
-          "publishedOn": "2021-05-13T18:38:00.000Z",
-          "wordCount": 957,
-          "title": "PlayStation Play at Home continues next week with free in-game currency and virtual items"
         }
       ]
     }
