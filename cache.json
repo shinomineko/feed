@@ -170,6 +170,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/06/intentional-flaw-in-gprs-encryption-algorithm-gea-1.html",
+          "author": null,
+          "description": "<p>General Packet Radio Service (GPRS) is a mobile data standard that was widely used in the early 2000s. The first encryption algorithm for that standard was GEA-1, a stream cipher built on three linear-feedback shift registers and a non-linear combining function. Although the algorithm has a 64-bit key, the effective key length is only 40 bits, due to &#8220;an exceptional interaction of the deployed LFSRs and the key initialization, which is highly unlikely to occur by chance.&#8221;</p>\n<p>GEA-1 was designed by the European Telecommunications Standards Institute in 1998. ETSI was &#8212; and maybe still is &#8212; under the auspices of ...</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/06/intentional-flaw-in-gprs-encryption-algorithm-gea-1.html",
+          "publishedOn": "2021-06-17T18:51:41.000Z",
+          "wordCount": 644,
+          "title": "Intentional Flaw in GPRS Encryption Algorithm GEA-1"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/06/paul-van-oorschots-computer-security-and-the-internet.html",
           "author": null,
           "description": "<p>Paul van Oorschot&#8217;s webpage contains a complete copy of his book: <a href=\"https://people.scs.carleton.ca/~paulv/toolsjewels.html\"><i>Computer Security and the Internet: Tools and Jewels</i></a>. It&#8217;s worth reading.</p>",
@@ -375,15 +384,6 @@
           "publishedOn": "2021-05-20T14:13:26.000Z",
           "wordCount": 461,
           "title": "Bizarro Banking Trojan"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/05/apple-censorship-and-surveillance-in-china.html",
-          "author": null,
-          "description": "Good investigative reporting on how Apple is participating in and assisting with Chinese censorship and surveillance.",
-          "link": "https://www.schneier.com/blog/archives/2021/05/apple-censorship-and-surveillance-in-china.html",
-          "publishedOn": "2021-05-19T11:31:33.000Z",
-          "wordCount": 333,
-          "title": "Apple Censorship and Surveillance in China"
         }
       ]
     },
@@ -392,6 +392,69 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1774517",
+          "author": "Kyle Orland",
+          "description": "No link-cable needed for this emulated single-machine, single-display solution.",
+          "link": "https://arstechnica.com/?p=1774517",
+          "publishedOn": "2021-06-17T21:45:18.000Z",
+          "wordCount": 914,
+          "title": "Game Boy Advance game gets split-screen multiplayer through new FPGA core"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774437",
+          "author": "Dan Goodin",
+          "description": "Most malware tries to steal stuff. Vigilante, by contrast, takes aim at piracy.",
+          "link": "https://arstechnica.com/?p=1774437",
+          "publishedOn": "2021-06-17T21:01:09.000Z",
+          "wordCount": 1012,
+          "title": "Newly discovered Vigilante malware outs software pirates and blocks them"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774382",
+          "author": "Samuel Axon",
+          "description": "Developers with revenues under $1 million are getting a new deal.",
+          "link": "https://arstechnica.com/?p=1774382",
+          "publishedOn": "2021-06-17T20:43:12.000Z",
+          "wordCount": 839,
+          "title": "Amazon joins Apple, Google by reducing its app store cut"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774246",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has early Prime Day discounts, Philips Hue deals, and more.",
+          "link": "https://arstechnica.com/?p=1774246",
+          "publishedOn": "2021-06-17T20:05:02.000Z",
+          "wordCount": 3248,
+          "title": "A number of recommended Nintendo Switch games are on sale today"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774337",
+          "author": "Jim Salter",
+          "description": "The outage prevented Linux installation or upgrade of any Microsoft software.",
+          "link": "https://arstechnica.com/?p=1774337",
+          "publishedOn": "2021-06-17T19:22:33.000Z",
+          "wordCount": 736,
+          "title": "Microsoft’s Linux repositories were down for 18+ hours"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774338",
+          "author": "Beth Mole",
+          "description": "Three experts resigned in protest. Watchdog says it's FDA brass that should leave.",
+          "link": "https://arstechnica.com/?p=1774338",
+          "publishedOn": "2021-06-17T18:33:55.000Z",
+          "wordCount": 1136,
+          "title": "FDA officials asked to step down after contentious Alzheimer’s drug approval"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774340",
+          "author": "John Timmer",
+          "description": "Mirrors of the LIGO gravitational-wave detector get cool—extremely cool.",
+          "link": "https://arstechnica.com/?p=1774340",
+          "publishedOn": "2021-06-17T18:19:12.000Z",
+          "wordCount": 992,
+          "title": "Researchers cool a 40 kg object to near its quantum ground state"
+        },
         {
           "id": "https://arstechnica.com/?p=1774248",
           "author": "Ron Amadeo",
@@ -3458,6 +3521,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155290",
+          "author": null,
+          "description": "Flight Simulator is primed to make its highly anticipated Xbox Series X/S debut in just over a month, but, before that, there's another huge World Update for PC players, arriving today and giving makeovers to the sim's rendition of Denmark, Finland, Iceland, Norway, and Sweden.\nDeveloper Asobo is promising pilots the chance to explore \"vast fjords, riveting urban vistas, domineering peaks, and centuries-old iconic castles\" in its new Nordic countries update, which also brings landscape enhancements, improved regional architecture, five new airports, improved data for 100 airports, and over 78 new points of interest.\nOnce the World Update is downloaded (first update the sim, then grab the World Update from the in-game Marketplace) players will also have the opportunity to tackle five new bush trips - one for each of the new Nordic countries - plus five new landing challenges, focussed on Denmark's Bornholm, Iceland's Ísafjörður, Sweden's Stockholm Arlanda, Norway's Svalbard, and Finland's Vaasa Airports.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-17-flight-simulator-gives-denmark-finland-iceland-norway-and-sweden-makeovers-in-latest-world-update",
+          "publishedOn": "2021-06-17T19:18:00.000Z",
+          "wordCount": 973,
+          "title": "Flight Simulator gives Denmark, Finland, Iceland, Norway, and Sweden makeovers"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155285",
+          "author": null,
+          "description": "Xbox Design Lab was temporarily suspended last October while Microsoft worked on transitioning between console generations, but the custom controller service is back - allowing you to design your own Series X/S controller. \nThe relaunch was announced during Xbox's E3 follow-up showcase this evening, and the Xbox Design Lab website is now up and running. The customisation program allows you to pick colours for most external parts of the controller, including the \"body, back case, D-pad, bumpers, triggers, thumbsticks, ABXY, View, Menu and Share buttons.\" The Xbox Wire blog post says there are 18 colours to choose from, including the colours of existing Xbox Series X/S controllers like Shock Blue and Pulse Red.   \nIf you want to make it extra personal, you can also get your controller engraved with a Gamertag or custom message of up to 16 characters. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-17-xbox-design-lab-is-back-with-custom-series-x-s-controllers",
+          "publishedOn": "2021-06-17T18:42:00.000Z",
+          "wordCount": 777,
+          "title": "Xbox Design Lab is back with custom Series X/S controllers"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155284",
+          "author": null,
+          "description": "Sea of Thieves' next major free update is packing in one hell of a crossover, bringing the world of Disney's Pirates of the Caribbean into Rare's swashbuckling multiplayer adventure. And if the arrival of Captain Jack Sparrow wasn't enough to be excited about, it's also finally giving the formidable kraken a face - which makes an appearance in a brand-new trailer.\nThe centrepiece of Sea of Thieves' Pirates of the Caribbean crossover - officially known as A Pirate's Life - takes the form of a brand-new cinematic story campaign. It features five new Tall Tales episodes (the first since March 2020's Heart of Flame), charting Jack Sparrow's arrival in the Sea of Thieves and the events that ensue.\nThere are tantalising snatches of those adventures in Rare's second crossover trailer below, including the appearance of Davy Jones and his formidable vessel the Flying Dutchman, battles against gargantuan mermaid statues, and even a portable talking skull that should stir fond memories for Monkey Island aficionados.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-17-sea-of-thieves-kraken-finally-gets-its-face-in-new-pirates-of-the-caribbean-crossover-trailer",
+          "publishedOn": "2021-06-17T18:16:00.000Z",
+          "wordCount": 916,
+          "title": "Sea of Thieves' kraken finally gets its face in new Pirates of the Caribbean crossover trailer"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2155281",
           "author": null,
@@ -6697,60 +6787,6 @@
           "publishedOn": "2021-05-19T13:00:00.000Z",
           "wordCount": 726,
           "title": "The Falconeer lands on PlayStation, Switch in August"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2150409",
-          "author": null,
-          "description": "Die Hard's John McClane hits Call of Duty: Warzone and Black Ops Cold War tomorrow, but we can see his in-game model now.\nOnce you've downloaded Black Ops Cold War's latest update, which prepares the game for the mid-season three refresh, you can see McClane as a \"coming soon\" operator.\nI'm not sure what I was expecting! Call of Duty's McClane looks a lot like McClane from the first Die Hard film, which is what you want, really.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-19-first-look-at-die-hards-john-mcclane-in-call-of-duty-warzone-and-black-ops-cold-war",
-          "publishedOn": "2021-05-19T12:36:00.000Z",
-          "wordCount": 811,
-          "title": "First look at Die Hard's John McClane in Call of Duty: Warzone and Black Ops Cold War"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2150381",
-          "author": null,
-          "description": "Nintendo has announced five more retro games for its Switch Online catalogue, bringing the service's overall total of NES and SNES classics to 104. \nBut while Nintendo noted it had passed the 100 game milestone, Nintendo fans are less impressed with the games on offer. \nMay's list of additions includes SNES games Caveman Ninja (also known as Joe & Mac), Magical Drop 2, Super Baseball Simulator 1.000 and Spanky's Quest, plus Ninja JaJaMaru-kun for NES. Here's a look at all of those in action:\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-19-nintendo-switch-online-limps-past-100-game-milestone",
-          "publishedOn": "2021-05-19T11:06:00.000Z",
-          "wordCount": 716,
-          "title": "Nintendo Switch Online limps past 100 game milestone"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2150363",
-          "author": null,
-          "description": "Watching speedrunners strut their stuff in Summer Games Done Quick always makes for entertaining viewing, and this year's event looks like another banger. There's GeoGuessr runs, blindfolded Super Mario 64, and even a Destiny 2 Deep Stone Crypt raid. And as usual, it's all for a good cause. \nSummer Games Done Quick 2021 is scheduled to take place between 4th-11th July, with a packed-out timetable and a real mix of games. There's Dragon Age: Inquisition, Pikmin 3 Deluxe, Nintendogs, Outer Wilds, Dishonored, …",
-          "link": "https://www.eurogamer.net/articles/2021-05-19-summer-games-done-quick-2021-reveals-full-schedule",
-          "publishedOn": "2021-05-19T10:37:00.000Z",
-          "wordCount": 791,
-          "title": "Summer Games Done Quick 2021 reveals full schedule"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2150353",
-          "author": null,
-          "description": "Resident Evil: Infinite Darkness, the new CGI series from Netflix, has today received a new trailer and an 8th July release date. \nOur best look yet at the Leon S. Kennedy-starring show, this two-minute montage has vomiting zombies, zombie rats and a hulking big thing which may be the series' big bad. \nLet's take a look:\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-19-netflixs-new-resident-evil-infinite-darkness-trailer-has-vomiting-zombies",
-          "publishedOn": "2021-05-19T09:54:00.000Z",
-          "wordCount": 766,
-          "title": "Netflix's new Resident Evil: Infinite Darkness trailer has vomiting zombies"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2150356",
-          "author": null,
-          "description": "Treyarch has added sniper flinch to Call of Duty: Black Ops Cold War as part of the game's latest big update.\nBlack Ops Cold War Multiplayer fans have called for some form of sniper flinch ever since the game came out last year.\nFlinch is the disruption caused to your aim when you're hit by enemy fire. Sniper rifles are seen by some as overpowered in Black Ops Cold War because of their distinct lack of flinch.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-19-big-call-of-duty-black-ops-cold-war-update-adds-sniper-flinch",
-          "publishedOn": "2021-05-19T09:34:00.000Z",
-          "wordCount": 951,
-          "title": "Big Call of Duty: Black Ops Cold War update adds sniper flinch"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2150347",
-          "author": null,
-          "description": "Nintendo has revealed a Zelda and Loftwing amiibo figurine which launches alongside its Skyward Sword HD remaster on 16th July.\nTapping the amiibo to your Switch lets you zip between the game's airborne overworld and Hyrule's surface, wherever you are - a handy feature not available in the original game. See this in action in the trailer below:\nThe fact Nintendo has added this ability will undoubtedly save time when playing Skyward Sword HD. You no longer have to visit specific points to swap between the sk…",
-          "link": "https://www.eurogamer.net/articles/2021-05-19-zelda-skyward-swords-loftwing-amiibo-lets-you-skip-a-frustrating-piece-of-game-design",
-          "publishedOn": "2021-05-19T09:26:00.000Z",
-          "wordCount": 748,
-          "title": "Zelda: Skyward Sword's Loftwing amiibo lets you skip a frustrating piece of game design"
         }
       ]
     }
