@@ -170,6 +170,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/06/peloton-vulnerability-found-and-fixed.html",
+          "author": null,
+          "description": "<p>Researchers have discovered a <a href=\"https://www.mcafee.com/blogs/other-blogs/mcafee-labs/a-new-program-for-your-peloton-whether-you-like-it-or-not/\">vulnerability</a> in Peloton stationary bicycles, one that would give the attacker complete control over the device.</p>\n<p>The attack requires physical access to the Peloton, so it&#8217;s not really a practical attack. President Biden&#8217;s Peloton was <a href=\"https://www.washingtonpost.com/outlook/2021/02/02/biden-peloton-internet-security/\">not in danger</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/06/peloton-vulnerability-found-and-fixed.html",
+          "publishedOn": "2021-06-18T11:18:28.000Z",
+          "wordCount": 344,
+          "title": "Peloton Vulnerability Found and Fixed"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/06/intentional-flaw-in-gprs-encryption-algorithm-gea-1.html",
           "author": null,
           "description": "<p>General Packet Radio Service (GPRS) is a mobile data standard that was widely used in the early 2000s. The first encryption algorithm for that standard was GEA-1, a stream cipher built on three linear-feedback shift registers and a non-linear combining function. Although the algorithm has a 64-bit key, the effective key length is only 40 bits, due to &#8220;an exceptional interaction of the deployed LFSRs and the key initialization, which is highly unlikely to occur by chance.&#8221;</p>\n<p>GEA-1 was designed by the European Telecommunications Standards Institute in 1998. ETSI was &#8212; and maybe still is &#8212; under the auspices of ...</p>",
@@ -392,6 +401,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1774415",
+          "author": "WIRED",
+          "description": "Upgraded data protection and less reliance on the cloud could lock users in.",
+          "link": "https://arstechnica.com/?p=1774415",
+          "publishedOn": "2021-06-18T11:13:50.000Z",
+          "wordCount": 1420,
+          "title": "Apple and Google’s AI wizardry promises privacy—at a cost"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774379",
+          "author": "Eric Berger",
+          "description": "\"The Space Safari team intends to push the envelope.\"",
+          "link": "https://arstechnica.com/?p=1774379",
+          "publishedOn": "2021-06-18T11:00:54.000Z",
+          "wordCount": 2554,
+          "title": "Rocket Report: China launches crew mission, SpaceX runs into road troubles"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774423",
+          "author": "Financial Times",
+          "description": "Arrests of Cl0p hacker group members adds to pressure on other countries to follow suit.",
+          "link": "https://arstechnica.com/?p=1774423",
+          "publishedOn": "2021-06-18T09:57:11.000Z",
+          "wordCount": 853,
+          "title": "Ukraine arrests ransomware gang in global cybercriminal crackdown"
+        },
         {
           "id": "https://arstechnica.com/?p=1774517",
           "author": "Kyle Orland",
@@ -3307,69 +3343,6 @@
           "publishedOn": "2021-05-20T00:53:06.000Z",
           "wordCount": 1457,
           "title": "Android 12 at Google I/O: Hints of the redesign in the beta, lots of news"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766272",
-          "author": "Beth Mole",
-          "description": "Tens of millions of J&J and AstraZeneca doses are still in limbo.",
-          "link": "https://arstechnica.com/?p=1766272",
-          "publishedOn": "2021-05-19T22:39:13.000Z",
-          "wordCount": 1256,
-          "title": "Before ruining millions of vaccines, Emergent failed inspections, raked in cash"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1765374",
-          "author": "Jennifer Ouellette",
-          "description": "We briefly wondered if HBO Max was accidentally airing an entirely different series",
-          "link": "https://arstechnica.com/?p=1765374",
-          "publishedOn": "2021-05-19T22:15:25.000Z",
-          "wordCount": 1762,
-          "title": "Review: The Nevers makes abrupt turn in disorienting midseason finale"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766111",
-          "author": "Samuel Axon",
-          "description": "New services include sign-language tech support and more.",
-          "link": "https://arstechnica.com/?p=1766111",
-          "publishedOn": "2021-05-19T21:40:29.000Z",
-          "wordCount": 959,
-          "title": "Apple rolls out a slew of new accessibility features to iPhone, Watch, and more"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766173",
-          "author": "Dan Goodin",
-          "description": "Google updates a 2-week-old security bulletin to say some vulnerabilities were 0-days.",
-          "link": "https://arstechnica.com/?p=1766173",
-          "publishedOn": "2021-05-19T20:45:58.000Z",
-          "wordCount": 969,
-          "title": "4 vulnerabilities under attack give hackers full control of Android devices"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766153",
-          "author": "Jim Salter",
-          "description": "Automakers are expecting $110 billion in lost sales this year due to shortages.",
-          "link": "https://arstechnica.com/?p=1766153",
-          "publishedOn": "2021-05-19T20:21:19.000Z",
-          "wordCount": 806,
-          "title": "Semiconductor shortages continue to worsen, causing record order delays"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766102",
-          "author": "Jon Brodkin",
-          "description": "DC announces $1.5M settlement after alleging AT&T \"knowingly\" violated contract.",
-          "link": "https://arstechnica.com/?p=1766102",
-          "publishedOn": "2021-05-19T18:50:36.000Z",
-          "wordCount": 1448,
-          "title": "AT&T overcharged Washington, DC, for 5 years, must pay $1.5 million, AG says"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1766096",
-          "author": "Sam Machkovech",
-          "description": "Similar to Hulu's price options; other stream-with-ads options are much less.",
-          "link": "https://arstechnica.com/?p=1766096",
-          "publishedOn": "2021-05-19T18:41:40.000Z",
-          "wordCount": 1082,
-          "title": "HBO Max with ads: $10/mo starting in June, and guess what it won’t include"
         }
       ]
     },
@@ -3467,6 +3440,51 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155349",
+          "author": null,
+          "description": "Elden Ring finally stepped out of the shadows with a proper trailer and several chunky interviews during E3 week, but one person we hadn't heard from on the subject was, of course, George R.R. Martin. The Game of Thrones author has been involved in some of the writing for Elden Ring, and now we've finally heard a little more about his contributions from the man himself. \nMartin recently visited Northwestern University's Medill School of Journalism (where he studied in the '70s) to receive an honorary doctorate, and during the visit spoke to local news station WWTW about his career... including Elden Ring. He didn't exactly provide any shocking revelations, but confirmed he'd mainly been involved in the early stages of development and creating the game's fantasy world. \n\"The game is called the Elden Ring and it's a sequel to a video game that came out a few years ago called Dark Souls,\" Martin said. \"My work on it was actually done years ago. These games, they're like movies, they take a long time to develop. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-18-george-r-r-martin-talks-about-his-work-on-elden-ring",
+          "publishedOn": "2021-06-18T11:10:00.000Z",
+          "wordCount": 1344,
+          "title": "George R.R. Martin's work on Elden Ring was \"actually done years ago\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155342",
+          "author": null,
+          "description": "Some Nintendo Switch owners are still reporting problems when trying to download games and game updates from the eShop, more than a week after the problem first came to light. \nNintendo customer support is aware of the problem, and there is a page of troubleshooting tips to follow if you encounter the issue's error code: 2123-1502.\nFans I've spoken to say customer support is helping as best it can, but that repeating the above \"possible solutions\" per-download is meant as a temporary solution at present. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-18-a-week-on-some-nintendo-switch-users-say-theyre-still-unable-to-download-games-and-updates",
+          "publishedOn": "2021-06-18T10:10:00.000Z",
+          "wordCount": 790,
+          "title": "A week on, some Nintendo Switch fans say they're still unable to download games and updates"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155339",
+          "author": null,
+          "description": "World of Warcraft Shadowlands' Chains of Domination update comes out on 29th June, Blizzard has announced.\nThe update, which brings with it the next chapter in the Shadowlands story, adds a new zone called Korthia. This area, which the Jailer has pulled into the Maw, includes a number of new quests.\nThere's a new mega-dungeon called Tazavesh, The Veiled Market. \"Explore the exotic wares, merchants, and creatures of this Broker bazaar, which culminates in a high-stakes heist involving powerful artifacts from Azeroth,\" Blizzard said.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-18-world-of-warcraft-shadowlands-chains-of-domination-update-out-end-of-june",
+          "publishedOn": "2021-06-18T10:00:00.000Z",
+          "wordCount": 813,
+          "title": "World of Warcraft Shadowlands' Chains of Domination update out end of June"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155335",
+          "author": null,
+          "description": "TheBrickFan).\nBowser's Airship is one of the largest Super Mario sets we've seen so far. Clocking in at over 14 inches, this 1152-piece addition provides one of the best-looking builds of the entire range.\nThere's no official launch date yet, and Amazon's product listing page has now been deleted. Still, we'd expect it to arrive in August alongside the upcoming Super Luigi Starter Kit and the third wave of blind bag add-ons announced officially earlier this week.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-18-lego-leak-reveals-massive-super-mario-airship",
+          "publishedOn": "2021-06-18T09:30:00.000Z",
+          "wordCount": 672,
+          "title": "Lego leak reveals Super Mario airship"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2155315",
+          "author": null,
+          "description": "Call of Duty: Warzone Season 4 launched yesterday, and with it brought a new vehicle - and the return of an old exploit.\nSeason 4 added a new armored cargo truck to the game - itself a controversial addition due to how strong the vehicle is, particularly in solo battle royale. But it got a lot worse when it soon emerged the truck could be used to turn invisible.\nTo be fair to developer Raven, it moved quickly to pull the truck from the game, thus eradicating the invisibility glitch.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-06-18-call-of-duty-warzone-dev-pulls-controversial-new-armoured-big-bertha-just-hours-after-adding-it-to-the-game",
+          "publishedOn": "2021-06-18T09:14:00.000Z",
+          "wordCount": 996,
+          "title": "Raven pulls Call of Duty: Warzone's controversial armoured Big Bertha from the game and players hope it never comes back"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2155290",
           "author": null,
