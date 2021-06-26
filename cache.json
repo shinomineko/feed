@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2481/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/1991_and_2021.png\" title=\"\" alt=\"\" />",
+          "link": "https://xkcd.com/2481/",
+          "publishedOn": "2021-06-25T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "1991 and 2021"
+        },
+        {
           "id": "https://xkcd.com/2480/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/no_the_other_one.png\" title=\"Key West, Virginia is not to be confused with Key, West Virginia.\" alt=\"Key West, Virginia is not to be confused with Key, West Virginia.\" />",
@@ -160,6 +169,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/06/friday-squid-blogging-colossal-squid-photographed-off-the-coast-of-antarctica.html",
+          "author": null,
+          "description": "<p><a href=\"https://izismile.com/2021/05/31/daily_picdump_80_pics-45.html\">Wow</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/06/friday-squid-blogging-colossal-squid-photographed-off-the-coast-of-antarctica.html",
+          "publishedOn": "2021-06-25T21:20:00.000Z",
+          "wordCount": 494,
+          "title": "Friday Squid Blogging: Colossal Squid Photographed off the Coast of Antarctica"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/06/ai-piloted-fighter-jets.html",
           "author": null,
@@ -384,15 +402,6 @@
           "publishedOn": "2021-05-28T11:20:29.000Z",
           "wordCount": 1682,
           "title": "The Misaligned Incentives for Cloud Security"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/05/the-story-of-the-2011-rsa-hack.html",
-          "author": null,
-          "description": "<p>Really good <a href=\"https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/\">long article</a> about the Chinese hacking of RSA, Inc. They were able to get copies of the seed values to the SecurID authentication token, a harbinger of supply-chain attacks to come.</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/05/the-story-of-the-2011-rsa-hack.html",
-          "publishedOn": "2021-05-27T11:41:26.000Z",
-          "wordCount": 349,
-          "title": "The Story of the 2011 RSA Hack"
         }
       ]
     },
@@ -401,6 +410,69 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1776542",
+          "author": "Beth Mole",
+          "description": "Common symptoms among young adults included fatigue and cognitive problems.",
+          "link": "https://arstechnica.com/?p=1776542",
+          "publishedOn": "2021-06-25T22:02:51.000Z",
+          "wordCount": 859,
+          "title": "Even mild COVID in young people often leads to long-term symptoms, study finds"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776441",
+          "author": "Jennifer Ouellette",
+          "description": "\"Throughout my life, the Ten Rings gave my family power.\"",
+          "link": "https://arstechnica.com/?p=1776441",
+          "publishedOn": "2021-06-25T21:18:22.000Z",
+          "wordCount": 1249,
+          "title": "We have our best look yet at supervillain Mandarin in new Shang-Chi trailer"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776088",
+          "author": "Ron Amadeo",
+          "description": "Microsoft is building an Android framework on top of the Windows Subsystem for Linux.",
+          "link": "https://arstechnica.com/?p=1776088",
+          "publishedOn": "2021-06-25T21:07:26.000Z",
+          "wordCount": 1624,
+          "title": "Here’s how Android apps on Windows 11 are going to work"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776429",
+          "author": "Jon Brodkin",
+          "description": "No word yet, but GOP likely wouldn't agree to deal if it favored public networks.",
+          "link": "https://arstechnica.com/?p=1776429",
+          "publishedOn": "2021-06-25T20:48:39.000Z",
+          "wordCount": 1461,
+          "title": "Biden silent on municipal broadband as he makes $65B deal with Republicans"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776394",
+          "author": "Jim Salter",
+          "description": "The TPM requirement has many Windows 10 users worried—often unnecessarily.",
+          "link": "https://arstechnica.com/?p=1776394",
+          "publishedOn": "2021-06-25T20:05:16.000Z",
+          "wordCount": 1637,
+          "title": "Here’s what you’ll need to upgrade to Windows 11"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776333",
+          "author": "WIRED",
+          "description": "Flaws in card-reader technology can wreak havoc with point-of-sale systems and more.",
+          "link": "https://arstechnica.com/?p=1776333",
+          "publishedOn": "2021-06-25T19:52:13.000Z",
+          "wordCount": 1588,
+          "title": "NFC flaws let researchers hack an ATM by waving a phone"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776215",
+          "author": "Jennifer Ouellette",
+          "description": "Young adult male lost an arm and a leg before dying of shock and blood loss.",
+          "link": "https://arstechnica.com/?p=1776215",
+          "publishedOn": "2021-06-25T19:15:22.000Z",
+          "wordCount": 1425,
+          "title": "Cold-case files: Archaeologists discover 3,000-year-old victim of shark attack"
+        },
         {
           "id": "https://arstechnica.com/?p=1776256",
           "author": "Financial Times",
@@ -3181,15 +3253,6 @@
           "publishedOn": "2021-05-27T15:47:03.000Z",
           "wordCount": 1310,
           "title": "Wolves create a “landscape of fear,” slowing deer-car collisions"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768044",
-          "author": "Jonathan M. Gitlin",
-          "description": "The stylish and spacious electric sedan goes into production later this year.",
-          "link": "https://arstechnica.com/?p=1768044",
-          "publishedOn": "2021-05-27T12:10:07.000Z",
-          "wordCount": 1464,
-          "title": "We got our first ride in the electric Lucid Air sedan"
         }
       ]
     },
@@ -6491,51 +6554,6 @@
           "publishedOn": "2021-05-27T13:35:00.000Z",
           "wordCount": 986,
           "title": "Pokémon Go Fest 2021 tickets cost just £5, a third of last year's entry fee"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2151549",
-          "author": null,
-          "description": "A Battlefield 6 video meant for internal use at EA has leaked online.\nThe video, currently available to watch on the Battlefield subreddit (with an epilepsy warning), confirms a near future setting for the upcoming DICE-developed game.\nWe also hear soldiers shout, a rocket attempt to launch into space before collapsing onto the ground, and, at the end, a reveal of the title \"Battlefield\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-27-battlefield-6-video-meant-for-internal-use-at-ea-leaks-online",
-          "publishedOn": "2021-05-27T12:27:00.000Z",
-          "wordCount": 815,
-          "title": "Battlefield 6 video meant for internal use at EA leaks online"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2151521",
-          "author": null,
-          "description": "We know EA makes millions of dollars from Ultimate Team, but now we have a figure: $1.62bn.\nThat's the eye-watering amount EA made during its 2021 financial year from Ultimate Team modes across its sports games.\nBut - and this won't come as a surprise to anyone - FIFA Ultimate Team made the bulk of that money. Or, as EA recently put it in a regulatory financial document, \"a substantial portion\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-27-ea-made-usd1-62bn-from-ultimate-team-in-its-last-financial-year",
-          "publishedOn": "2021-05-27T10:43:00.000Z",
-          "wordCount": 1235,
-          "title": "EA made $1.62bn from Ultimate Team in its last financial year"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2151495",
-          "author": null,
-          "description": "Sony has seemingly revealed Uncharted 4 is coming to PC.\nIn a document published as part of Sony's Investor Relations day, Sony mentions Uncharted 4 under \"more PC releases planned\" (it's on page 26).\nSony is putting more of its PlayStation 4 games on PC. It's already released Guerrilla's Horizon: Zero Dawn on PC and, most recently, Sony Bend's Days Gone. It makes sense that Naughty Dog's five-year-old adventure game would be part of Sony's PC push.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-27-sony-seemingly-reveals-uncharted-4-is-coming-to-pc-in-an-investor-relations-document",
-          "publishedOn": "2021-05-27T09:13:00.000Z",
-          "wordCount": 683,
-          "title": "Sony seemingly reveals Uncharted 4 is coming to PC in an investor relations document"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2151485",
-          "author": null,
-          "description": "Nintendo's long-awaited Switch upgrade is expected to be shown ahead of E3 2021, according to a report published by Bloomberg [paywall] today and Eurogamer's own sources.\nI understand this is to ensure third-parties working on games which support the upgraded Switch are free to announce these projects at E3, and before Nintendo's own digital showcase later in that week. \n(Nintendo's event has yet to be formally dated but is currently set to slot in after other publishers towards the end of E3, though of course dates can still shift.)\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-27-nintendo-switch-pro-to-be-unveiled-before-e3",
-          "publishedOn": "2021-05-27T08:48:00.000Z",
-          "wordCount": 833,
-          "title": "Nintendo Switch Pro reveal expected before E3"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2151467",
-          "author": null,
-          "description": "Dragon Quest celebrated its 35th anniversary in some style in the early hours of this morning, with a livestream from Japan heralding the announcement of a string of new entries and spin-offs for the much-loved RPG series.\nHeading the lot was Dragon Quest 12, which will be the first mainline entry since 2017. Not much was shown beyond a brief trailer revealing a logo - though that logo did reveal a turn towards dark fantasy, and what series' creator dubbed a Dragon Quest 'for adults'. It's being primed for a simultaneous worldwide release - in what would be a first for a mainline entry - though the timing has yet to be revealed, while no platforms have been announced just yet. \nElsewhere, a remake of Dragon Quest 3 was announced, taking on the 2D/3D stylings of the likes of Octopath Traveler - and being ushered into existence by Octopath Traveler producer Masaaki Hayasaka. Dragon Quest 3 HD-2D, as it's somewhat clumsily called at present, again has no release date or confirmed platforms, though it is also slated for a worldwide simultaneous release and we were afforded a look at it in action. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-05-27-dragon-quest-12-takes-the-long-running-rpg-series-down-a-darker-path",
-          "publishedOn": "2021-05-27T07:28:00.000Z",
-          "wordCount": 777,
-          "title": "Dragon Quest 12 takes the long-running RPG series down a darker path"
         }
       ]
     }
