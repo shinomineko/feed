@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/more-russian-hacking.html",
+          "author": null,
+          "description": "<p>Two reports this week. The first is from Microsoft, which <a href=\"https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/\">wrote</a>:</p>\n<blockquote><p>As part of our investigation into this ongoing activity, we also detected information-stealing malware on a machine belonging to one of our customer support agents with access to basic account information for a small number of our customers. The actor used this information in some cases to launch highly-targeted attacks as part of their broader campaign.</p></blockquote>\n<p>The second is from the NSA, CISA, FBI, and the UK&#8217;s NCSC, which <a href=\"https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF\">wrote</a> that the GRU is continuing to conduct brute-force password guessing attacks around the world, and is in some cases successful. From the ...</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/more-russian-hacking.html",
+          "publishedOn": "2021-07-02T11:26:06.000Z",
+          "wordCount": 450,
+          "title": "More Russian Hacking"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/insurance-and-ransomware.html",
           "author": null,
           "description": "<p>As ransomware becomes more common, I&#8217;m seeing more discussions about the ethics of paying the ransom. Here&#8217;s one more contribution to that issue: a <a href=\"https://static.rusi.org/247-op-cyber-insurance-v2.pdf\">research paper</a> that the insurance industry is hurting more than it&#8217;s helping.</p>\n<blockquote><p>However, the most pressing challenge currently facing the industry is ransomware. Although it is a societal problem, cyber insurers have received considerable criticism for facilitating ransom payments to cybercriminals. These add fuel to the fire by incentivising cybercriminals&#8217; engagement in ransomware operations and enabling existing operators to invest in and expand their capabilities. Growing losses from ransomware attacks have also emphasised that the current reality is not sustainable for insurers either...</p></blockquote>",
@@ -392,6 +401,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1777573",
+          "author": "Jonathan M. Gitlin",
+          "description": "The US automaker is investing in closed-loop extraction from the Salton Sea.",
+          "link": "https://arstechnica.com/?p=1777573",
+          "publishedOn": "2021-07-02T12:00:22.000Z",
+          "wordCount": 677,
+          "title": "General Motors looks to California for its next lithium supply"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776268",
+          "author": "Jeff Dunn",
+          "description": "If you want something different to play, allow us to highlight some deeper cuts.",
+          "link": "https://arstechnica.com/?p=1776268",
+          "publishedOn": "2021-07-02T11:30:05.000Z",
+          "wordCount": 4827,
+          "title": "30 under $25: A collection of good hidden gem games from Steam’s Summer Sale"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777764",
+          "author": "Eric Berger",
+          "description": "\"I am not allowed to talk about that.\"",
+          "link": "https://arstechnica.com/?p=1777764",
+          "publishedOn": "2021-07-02T11:00:36.000Z",
+          "wordCount": 2244,
+          "title": "Rocket Report: Super Heavy rolls to launch site, Funk will get to fly"
+        },
         {
           "id": "https://arstechnica.com/?p=1777776",
           "author": "Eric Berger",
@@ -3181,78 +3217,6 @@
           "publishedOn": "2021-06-03T10:00:37.000Z",
           "wordCount": 1439,
           "title": "Physicists unlock multispectral secrets of earliest color photographs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769277",
-          "author": "Eric Berger",
-          "description": "\"The Venus community is absolutely elated.\"",
-          "link": "https://arstechnica.com/?p=1769277",
-          "publishedOn": "2021-06-02T22:41:12.000Z",
-          "wordCount": 1097,
-          "title": "Venus is so very nice, NASA is going there twice"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769115",
-          "author": "Ron Amadeo",
-          "description": "Thanks to nearly identical code bases, Huawei can update \"Android\" to \"HarmonyOS.\"",
-          "link": "https://arstechnica.com/?p=1769115",
-          "publishedOn": "2021-06-02T22:05:51.000Z",
-          "wordCount": 1953,
-          "title": "Huawei officially replaces Android with HarmonyOS, which is also Android"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769275",
-          "author": "Jon Brodkin",
-          "description": "Verizon says it'll reverse subsidy restriction after \"complex\" billing-system update.",
-          "link": "https://arstechnica.com/?p=1769275",
-          "publishedOn": "2021-06-02T20:45:43.000Z",
-          "wordCount": 1405,
-          "title": "Verizon says forcing people off old plans to get FCC subsidy isn’t “upselling”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769282",
-          "author": "Tim De Chant",
-          "description": "Regulator concerned that Tesla's lawyers were not reviewing CEO's tweets.",
-          "link": "https://arstechnica.com/?p=1769282",
-          "publishedOn": "2021-06-02T20:05:22.000Z",
-          "wordCount": 1329,
-          "title": "SEC struggling to rein in Elon Musk’s tweets, letters reveal"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769175",
-          "author": "John Timmer",
-          "description": "People who overrate their media saviness share more misleading material.",
-          "link": "https://arstechnica.com/?p=1769175",
-          "publishedOn": "2021-06-02T19:45:18.000Z",
-          "wordCount": 1282,
-          "title": "Dunning-Kruger meets fake news"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769137",
-          "author": "Samuel Axon",
-          "description": "This is the first we've heard of an operating system called homeOS.",
-          "link": "https://arstechnica.com/?p=1769137",
-          "publishedOn": "2021-06-02T19:18:52.000Z",
-          "wordCount": 806,
-          "title": "Apple’s “homeOS” slip fits with prior rumors about new smart home products"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768873",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has early Prime Day deals, free video games, and Instant Pots.",
-          "link": "https://arstechnica.com/?p=1768873",
-          "publishedOn": "2021-06-02T18:57:15.000Z",
-          "wordCount": 2935,
-          "title": "You can grab another 12 months of PlayStation Plus for $45 today"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769155",
-          "author": "Corey Gaskin",
-          "description": "Garmin's LTE-connected watch is about safety while running. It's not for talking.",
-          "link": "https://arstechnica.com/?p=1769155",
-          "publishedOn": "2021-06-02T18:45:59.000Z",
-          "wordCount": 1900,
-          "title": "Garmin just announced an LTE capable Forerunner watch. We spent a week with it"
         }
       ]
     },
@@ -3360,6 +3324,51 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157089",
+          "author": null,
+          "description": "Star Wars: The Old Republic has been around for some time now - nearly 10 years, in fact - and to mark the occasion the game is getting another expansion. \nThe new expansion, titled Legacy of the Sith, was announced in a livestream last night. It's due to add a mixture of additional story content, player rewards and new gameplay features.  \n\"The war between the Galactic Republic and the Sith Empire spreads to new worlds,\" the announcement post explains. \"Dangerous fringe groups rise in the dark corners of the galaxy ​and Darth Malgus pursues an unknown plan... Unravel these mysteries and more as your choices continue to shape the galaxy.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-02-star-wars-the-old-republic-is-getting-another-expansion",
+          "publishedOn": "2021-07-02T10:35:00.000Z",
+          "wordCount": 995,
+          "title": "Star Wars: The Old Republic is getting another expansion"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157084",
+          "author": null,
+          "description": "Digital PSP games will continue to be sold via the PlayStation 3 and Vita even after today's PSP store shutdown.\nPlayStation confirmed the situation in an update to its support page for discontinued apps and services this week, first noticed by ResetEra, and then confirmed by Kotaku.\nSo, while the PSP will still lose its purchasing functionality as planned, PSP games will still be available to play - a key concern among fans worried over Sony's perceived lack of care for game preservation. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-02-digital-psp-games-will-live-on-via-ps3-and-vita-sony-clarifies",
+          "publishedOn": "2021-07-02T10:11:00.000Z",
+          "wordCount": 781,
+          "title": "Digital PSP games will live on via PS3 and Vita, Sony clarifies"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157077",
+          "author": null,
+          "description": "One of the many highlights of Satoru Iwata's reign at Nintendo was his series of Iwata Asks interviews - intimate, insightful and always entertaining chats between the president and the developers that started in the Wii era and carried on until Iwata's untimely death in 2015, they're some of the finest pieces of games journalism online. \nAfter an understandable hiatus, Nintendo has introduced a new similarly-themed series simply called 'Ask the Developer', with the first installment focussing on the recently released Game Builder Garage. It's a gentle, informative and enlightening read, even if it's short on any major revelations (although it's opened my eyes to the stylish lab coats all Nintendo developers seem to wear at the moment). \nThe interview comes as Game Builder Garage gets a free demo on Nintendo Switch, with the first of its seven lessons now available to download from the eShop. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-02-nintendos-developer-interview-series-returns",
+          "publishedOn": "2021-07-02T09:51:00.000Z",
+          "wordCount": 717,
+          "title": "Nintendo's developer interview series returns"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157068",
+          "author": null,
+          "description": "Instead, the 40-minute event will focus on Battlefield 2042, Apex Legends and Lost in Random (the next game from Fe developer Zoink), among others. \nAn earlier report suggested EA will announce its upcoming, under-wraps Dead Space revival there too.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-02-dragon-age-and-mass-effect-will-skip-this-months-ea-play-live",
+          "publishedOn": "2021-07-02T09:20:00.000Z",
+          "wordCount": 681,
+          "title": "Dragon Age and Mass Effect will skip this month's EA Play Live"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157069",
+          "author": null,
+          "description": "Mario Kart Live Home Circuit, the curious and enjoyable AR-offshoot for Nintendo's much-loved racing series that first released in October last year, has just got a substantial new update that introduces a whole new cup and various other elements. \nThe 1.1.0 update, which went live yesterday, introduces the all-new Mario Cup, and upon its completion you're given access to new environments and gates to use in your course creations. There's also new kart elements, with 'Super Yoshi' and 'Yoshi Horn' up for grabs. \nMario Kart Live Home Circuit was the work of Velan Studios, who've gone on to find further success with this year's Knockout City. Home Circuit wasn't without its limitations, but it was still a fascinating and frequently charming thing.  \"A neatly crafted gizmo, and a fresh reminder that Nintendo remains a toymaker at heart,\" we wrote in our Mario Kart Live Home Circuit review. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-02-mario-kart-live-home-circuit-gets-a-surprise-new-update",
+          "publishedOn": "2021-07-02T09:18:00.000Z",
+          "wordCount": 663,
+          "title": "Mario Kart Live Home Circuit gets a surprise new update"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2157034",
           "author": null,
@@ -6500,15 +6509,6 @@
           "publishedOn": "2021-06-03T08:28:00.000Z",
           "wordCount": 1035,
           "title": "Sony growing Astro's PlayRoom developer Team Asobi"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2152393",
-          "author": null,
-          "description": "Bend Studio, perhaps best known as the developer behind 2019's post-apocalyptic bikes-and-zombies adventure Days Gone, has revealed it's working on a new IP.\nDays Gone - which initially launched on PS4 before making it way to PC earlier this year - was the studio's first crack at a new IP since its acquisition by Sony in 2000; prior to that game, the developer was largely known for adapting the likes of Uncharted and Resistance for Sony's handheld consoles, the PSP and Vita.\nAnnouncing its next project in a statement on Twitter,  Bend wrote, \"We are beyond grateful for your support with Days Gone and are truly honoured by the amount of passion our community has shared with us for our world and characters. Your enthusiasm motivates us to continue to improve and create experiences that will last a lifetime.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-02-days-gone-developer-bend-studio-says-its-working-on-a-new-ip",
-          "publishedOn": "2021-06-02T22:57:00.000Z",
-          "wordCount": 867,
-          "title": "Days Gone developer Bend Studio says it's working on a new IP"
         }
       ]
     }
