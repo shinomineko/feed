@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/vulnerability-in-the-kaspersky-password-manager.html",
+          "author": null,
+          "description": "<p>A vulnerability (just patched) in the random number generator used in the Kaspersky Password Manager resulted in <a href=\"https://donjon.ledger.com/kaspersky-password-manager/\">easily guessable</a> passwords:</p>\n<blockquote><p>The password generator included in Kaspersky Password Manager had several problems. The most critical one is that it used a PRNG not suited for cryptographic purposes. Its single source of entropy was the current time. All the passwords it created could be bruteforced in seconds. This article explains how to securely generate passwords, why Kaspersky Password Manager failed, and how to exploit this flaw. It also provides a proof of concept to test if your version is vulnerable...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/vulnerability-in-the-kaspersky-password-manager.html",
+          "publishedOn": "2021-07-06T14:27:47.000Z",
+          "wordCount": 819,
+          "title": "Vulnerability in the Kaspersky Password Manager"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/stealing-xbox-codes.html",
           "author": null,
           "description": "<p>Detailed <a href=\"https://www.bloomberg.com/features/2021-microsoft-xbox-gift-card-fraud/\">story</a> of Volodymyr Kvashuk, a Microsoft insider who noticed a bug in the company&#8217;s internal systems that allowed him to create unlimited Xbox gift cards, and stole $10.1 million before he was caught.</p>",
@@ -392,6 +401,69 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1778350",
+          "author": "Jim Salter",
+          "description": "The community's telemetry concerns were received and addressed two months ago.",
+          "link": "https://arstechnica.com/?p=1778350",
+          "publishedOn": "2021-07-06T17:50:03.000Z",
+          "wordCount": 1618,
+          "title": "No, open source Audacity audio editor is not “spyware”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778369",
+          "author": "Tim De Chant",
+          "description": "Private equity's cryptocurrency experiment pushes more costs on the public.",
+          "link": "https://arstechnica.com/?p=1778369",
+          "publishedOn": "2021-07-06T17:38:49.000Z",
+          "wordCount": 1437,
+          "title": "Bitcoin power plant is turning a 12,000-year-old glacial lake into a hot tub"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778306",
+          "author": "Ron Amadeo",
+          "description": "71 percent off is a sad ending for Microsoft's first self-branded Android phone.",
+          "link": "https://arstechnica.com/?p=1778306",
+          "publishedOn": "2021-07-06T17:24:38.000Z",
+          "wordCount": 1229,
+          "title": "Microsoft’s Surface Duo falls even lower, now almost $1000 off"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778344",
+          "author": "Jonathan M. Gitlin",
+          "description": "First battery Bentley due in 2025; no more combustion engines after 2030.",
+          "link": "https://arstechnica.com/?p=1778344",
+          "publishedOn": "2021-07-06T16:00:42.000Z",
+          "wordCount": 706,
+          "title": "Bentley has a new plug-in hybrid Flying Spur sedan on the way"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777922",
+          "author": "Jennifer Ouellette",
+          "description": "Some species of spider can conquer snakes that are 10 to 30 times their size.",
+          "link": "https://arstechnica.com/?p=1777922",
+          "publishedOn": "2021-07-06T15:50:03.000Z",
+          "wordCount": 1480,
+          "title": "Spiders eating snakes, oh my! Here are the photographs to prove it"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778311",
+          "author": "Jonathan M. Gitlin",
+          "description": "The French Lion last tasted victory at La Sarthe in 2009.",
+          "link": "https://arstechnica.com/?p=1778311",
+          "publishedOn": "2021-07-06T15:27:14.000Z",
+          "wordCount": 1202,
+          "title": "Peugeot plans to win Le Mans in 2022 with this 9X8 hybrid prototype"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778301",
+          "author": "Kyle Orland",
+          "description": "Bigger, brighter screen and a new kickstand, but no processing power improvements?",
+          "link": "https://arstechnica.com/?p=1778301",
+          "publishedOn": "2021-07-06T14:37:46.000Z",
+          "wordCount": 1020,
+          "title": "Meet the Switch Pro: $350 “OLED Model” launches on October 8"
+        },
         {
           "id": "https://arstechnica.com/?p=1778248",
           "author": "Ars Contributors",
@@ -3243,6 +3315,69 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157514",
+          "author": null,
+          "description": "We've known for a while that Kylotonn Racing is working on an all-new Test Drive Unlimited, and now we finally know where it'll be set, with Hong Kong set to be the backdrop for the open world racer. \nThe location was revealed in today's Nacon Connect with another CGI trailer which teased some further details including a doubling down on the bling-obsessed lifestyle elements. We also got to see what the backdrop of Hong Kong will offer, from its muddy shores to its hyper-colourful streets through to its glorious hills. \nHong Kong has been a popular destination for previous video games, of course, from Shenmue 2 to the beloved Sleeping Dogs. It follows on from Test Drive Unlimited's Oahu setting, while its sequel headed to Ibiza (and missed out on the opportunity for a Wayne Lineker cameo - for shame). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-06-test-drive-unlimited-solar-crowns-location-is-finally-revealed",
+          "publishedOn": "2021-07-06T17:50:00.000Z",
+          "wordCount": 683,
+          "title": "Test Drive Unlimited Solar Crown's location is finally revealed"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157529",
+          "author": null,
+          "description": "Netflix's upcoming live-action Witcher prequel, Blood Origin, has confirmed another new cast member, with Star Trek: Discovery's Michelle Yeoh now set to appear as sword-elf Scian.\nThe Witcher: Blood Origin is a new six-part series set 1,200 years before Netflix's Henry-Cavill-starring main Witcher show and will chart the creation of the prototype Witcher, as well as the events leading to the \"pivotal\" Conjunction of the Spheres - in which a collision of different realms brought monsters into the world. \nLauren S. Hissrich, showrunner on Netflix's mainline Witcher series, will executive produce Blood Origin, and Declan de Barra - who penned The Witcher Season 1's \"Of Banquets, Bastards and Burials\" episode - will serve as writer and showrunner on the prequel.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-06-star-trek-discoverys-michelle-yeoh-cast-in-netflixs-upcoming-live-action-witcher-prequel",
+          "publishedOn": "2021-07-06T17:22:00.000Z",
+          "wordCount": 871,
+          "title": "Star Trek: Discovery's Michelle Yeoh cast in Netflix's upcoming live-action Witcher prequel"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157510",
+          "author": null,
+          "description": "King of Fighters 15 is now also coming to Xbox Series X and S.\nIn a tweet, SNK confirmed the launch platforms for the upcoming fighting game, which was recently delayed to Q1 2022 due to production issues associated with rising cases of COVID-19 in Japan.\nKing of Fighters 15 is due out on PC via Windows 10, Steam and the Epic Games Store, PlayStation 5, PlayStation 4, and Xbox Series X and S. Xbox One and Nintendo Switch are not on the list.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-06-king-of-fighters-15-now-also-coming-to-xbox-series-x-and-s",
+          "publishedOn": "2021-07-06T15:41:00.000Z",
+          "wordCount": 641,
+          "title": "King of Fighters 15 now also coming to Xbox Series X and S"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157494",
+          "author": null,
+          "description": "Sony will hold its next PlayStation State of Play on Thursday, at 10pm UK time. \nThis time around, Arkane's Deathloop will be in the spotlight. The 30-minute show will also contain updates on indie and third-party games coming to PlayStation. \nDo not expect any updates on Horizon: Forbidden West, the next God of War or anything on PlayStation VR, Sony has cautioned. So, do expect Knack 3?\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-06-playstation-state-of-play-coming-thursday",
+          "publishedOn": "2021-07-06T14:12:00.000Z",
+          "wordCount": 673,
+          "title": "PlayStation State of Play coming Thursday"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157468",
+          "author": null,
+          "description": "England star Marcus Rashford has thanked a young fan for his fundraising work in a letter accompanied by a PlayStation 5 and copy of FIFA 2021. \nNine-year-old Jacob Worthington, from St Helens, was originally inspired by the England and Manchester United forward to raise money for FareShare, a charity Rashford supports.\nSetting a 20km target over four runs, Manchester United fan Jacob and his father created an Instagram account to help gain sponsorships and document the process.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-06-young-fan-sent-ps5-by-marcus-rashford-for-fundraising-work",
+          "publishedOn": "2021-07-06T14:03:00.000Z",
+          "wordCount": 842,
+          "title": "Young fan sent PS5 by Marcus Rashford for fundraising work"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157483",
+          "author": null,
+          "description": "Microsoft has announced a string of games coming soon to Xbox Game Pass.\n8th July sees Dragon Quest Builders 2 (cloud) hit the subscription service, as well as Tropico 6 (cloud, console and PC), and UFC 4 (console) via EA Play.\n15th July adds Bloodroots (cloud, console and PC), Farming Simulator 19 (cloud, console and PC), and The Medium (cloud).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-06-microsoft-announces-games-coming-soon-to-xbox-game-pass",
+          "publishedOn": "2021-07-06T13:39:00.000Z",
+          "wordCount": 730,
+          "title": "Microsoft announces games coming soon to Xbox Game Pass"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2151621",
+          "author": null,
+          "description": "Surprise! Or not. Nintendo has at last unveiled its upgraded Switch model, which is due to launch on 8th October alongside Metroid Dread. It has a 7-inch OLED screen, 64GB of internal storage, a wide adjustable stand plus improved speakers.\nThere's a new dock, too, with a wired LAN port.  White and neon red/blue colours will be available. Officially, it's called the Nintendo Switch (OLED model) console. In the US it costs $350. In the UK, we're yet to see local pricing.\nWe and others had expected Nintendo to push the button (flip the Switch?) and reveal its new model before E3. Nintendo really doesn't like leaks! Anyway, on time or not, here we are:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-05-27-nintendo-reveals-upgraded-switch",
+          "publishedOn": "2021-07-06T13:03:00.000Z",
+          "wordCount": 879,
+          "title": "Nintendo reveals upgraded OLED Switch, due October"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2157425",
           "author": null,
