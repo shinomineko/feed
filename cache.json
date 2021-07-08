@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/details-of-the-revil-ransomware-attack.html",
+          "author": null,
+          "description": "<p>ArsTechnica has a <a href=\"https://arstechnica.com/gadgets/2021/07/up-to-1500-businesses-infected-in-one-of-the-worst-ransomware-attacks-ever/\">good story</a> on the REvil ransomware attack of last weekend, with technical details:</p>\n<blockquote><p>This weekend&#8217;s attack was carried out with almost surgical precision. According to Cybereason, the REvil affiliates first gained access to targeted environments and then used the zero-day in the Kaseya Agent Monitor to gain administrative control over the target&#8217;s network. After writing a base-64-encoded payload to a file named agent.crt the dropper executed it.</p>\n<p>[&#8230;]</p>\n<p>The ransomware dropper Agent.exe is signed with a Windows-trusted certificate that uses the registrant name &#8220;PB03 TRANSPORT LTD.&#8221; By digitally signing their malware, attackers are able to suppress many security warnings that would otherwise appear when it&#8217;s being installed. Cybereason said that the certificate appears to have been used exclusively by REvil malware that was deployed during this attack...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/details-of-the-revil-ransomware-attack.html",
+          "publishedOn": "2021-07-08T15:06:31.000Z",
+          "wordCount": 1373,
+          "title": "Details of the REvil Ransomware Attack"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/vulnerability-in-the-kaspersky-password-manager.html",
           "author": null,
           "description": "<p>A vulnerability (just patched) in the random number generator used in the Kaspersky Password Manager resulted in <a href=\"https://donjon.ledger.com/kaspersky-password-manager/\">easily guessable</a> passwords:</p>\n<blockquote><p>The password generator included in Kaspersky Password Manager had several problems. The most critical one is that it used a PRNG not suited for cryptographic purposes. Its single source of entropy was the current time. All the passwords it created could be bruteforced in seconds. This article explains how to securely generate passwords, why Kaspersky Password Manager failed, and how to exploit this flaw. It also provides a proof of concept to test if your version is vulnerable...</p></blockquote>",
@@ -383,6 +392,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1778801",
+          "author": "Ron Amadeo",
+          "description": "A virtual debit card lets you skip transferring money to a bank account.",
+          "link": "https://arstechnica.com/?p=1778801",
+          "publishedOn": "2021-07-08T17:53:01.000Z",
+          "wordCount": 856,
+          "title": "New Google Pay debit card lets you actually spend the money people send you"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778821",
+          "author": "Tim De Chant",
+          "description": "\"Google has taken steps to close the ecosystem from competition.\"",
+          "link": "https://arstechnica.com/?p=1778821",
+          "publishedOn": "2021-07-08T16:28:36.000Z",
+          "wordCount": 1268,
+          "title": "Google “bought off Samsung” to limit app store competition, 36 states allege"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778802",
+          "author": "Jonathan M. Gitlin",
+          "description": "The world's fourth-largest OEM just laid out its electrification strategy.",
+          "link": "https://arstechnica.com/?p=1778802",
+          "publishedOn": "2021-07-08T15:09:16.000Z",
+          "wordCount": 1101,
+          "title": "Four new electric platforms, five gigafactories: Stellantis’ EV plan"
+        },
         {
           "id": "https://arstechnica.com/?p=1778671",
           "author": "Ars Contributors",
@@ -3252,6 +3288,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157867",
+          "author": null,
+          "description": "Developer Megagon Industries' wonderfully serene (and deliciously infuriating) mountain bike adventure Lonely Mountains: Downhill is a brilliant thing, but given that it's also a year and a half old now, fans may be hoping for a bit of a shake-up. And what do you know? Megagon's newest update is here to do just that, wafting away the threat of encroaching staleness with a range of new Daily Ride challenge modifiers.\nDaily Rides, if you've not yet checked them out, are daily cross-platform leaderboards that challenge players to do their best in a randomly selected trial, with participants able to unlock various cosmetic rewards, refreshed each season, along the way. Today's update marks the start of Lonely Mountains' seventh season, Summer Strolls, and introduces those aforementioned modifiers to freshen things up for players.\nToday's Daily Ride, for instance, rolls out the new Changed Checkpoints modifier - which, as its name suggests, changes and adds new checkpoints to the trail - but future modifiers for the season have also been revealed (and you can see a few of them in the trailer below).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-08-lonely-mountain-downhills-new-daily-ride-modifiers-add-mirrored-mode-and-more",
+          "publishedOn": "2021-07-08T17:49:00.000Z",
+          "wordCount": 820,
+          "title": "Lonely Mountain: Downhill's new Daily Ride modifiers add Mirrored Mode and more"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157844",
+          "author": null,
+          "description": "Rockstar has started removing GTA Online jobs.\nRockstar warned jobs such as races, missions, adversary modes and survivals will be cycled in and out over time as they add more to the game.\nWe've verified the Bombushka Run Adversary Mode is currently not in GTA Online. Bombushka Run was added to GTA Online as part of the continuation of the Smuggler's Run update in September 2017.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-08-rockstar-warns-it-will-start-removing-gta-online-jobs-soon",
+          "publishedOn": "2021-07-08T16:20:00.000Z",
+          "wordCount": 722,
+          "title": "Rockstar has started removing GTA Online jobs"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157848",
+          "author": null,
+          "description": "Sam & Max: This Time It's Virtual, the wise-cracking anthropomorphic crime-fighting duo's (presumably very silly) plunge into the world of VR, is - after a short delay from its originally announced June launch window - out today on Oculus Quest.\nThis Time It's Virtual (Sam & Max's first entirely new video game outing since Telltale Games' The Devil's Playhouse in 2010) is the work of developer HappyGiant, which promisingly includes Sam & Max creator Steve Purcell and a number of ex-LucasArts alumni who all worked on the studio's seminal 1993 point-and-click adventure Sam & Max: Hit the Road - writer/designer Mike Stemmle, creative director Mike Levine, and concept artist Peter Chan.\nAdditionally, David Nowlin and Dave Boat, who've voiced Sam and Max previously in a number of Telltale titles, are reprising their roles as the dubious dog and bunny duo.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-08-sam-and-maxs-vr-adventure-this-time-its-virtual-arrives-on-oculus-quest-today",
+          "publishedOn": "2021-07-08T16:11:00.000Z",
+          "wordCount": 815,
+          "title": "Sam & Max's VR adventure This Time It's Virtual arrives on Oculus Quest today"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2157820",
+          "author": null,
+          "description": "Comedy operation sequel Surgeon Simulator 2 launches for Steam, Windows Store and Xbox on 2nd September.\nIt arrives in an update-filled Access All Areas edition, which includes the various additions brought into the game since its original launch a year ago as an Epic Games Store timed exclusive.\nThere's a four-player story campaign and the usual competitive multiplayer mode, too.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-08-surgeon-simulator-2-launches-for-steam-xbox-in-september",
+          "publishedOn": "2021-07-08T13:45:00.000Z",
+          "wordCount": 655,
+          "title": "Surgeon Simulator 2 launches for Steam, Xbox in September"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2157785",
           "author": null,
