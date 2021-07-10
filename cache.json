@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/friday-squid-blogging-squid-related-game.html",
+          "author": null,
+          "description": "<p>It&#8217;s called &#8220;<a href=\"https://aethercorp.itch.io/squid-fishering\">Squid Fishering</a>.&#8221;</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/friday-squid-blogging-squid-related-game.html",
+          "publishedOn": "2021-07-09T21:03:11.000Z",
+          "wordCount": 519,
+          "title": "Friday Squid Blogging: Squid-Related Game"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/details-of-the-revil-ransomware-attack.html",
           "author": null,
           "description": "<p>ArsTechnica has a <a href=\"https://arstechnica.com/gadgets/2021/07/up-to-1500-businesses-infected-in-one-of-the-worst-ransomware-attacks-ever/\">good story</a> on the REvil ransomware attack of last weekend, with technical details:</p>\n<blockquote><p>This weekend&#8217;s attack was carried out with almost surgical precision. According to Cybereason, the REvil affiliates first gained access to targeted environments and then used the zero-day in the Kaseya Agent Monitor to gain administrative control over the target&#8217;s network. After writing a base-64-encoded payload to a file named agent.crt the dropper executed it.</p>\n<p>[&#8230;]</p>\n<p>The ransomware dropper Agent.exe is signed with a Windows-trusted certificate that uses the registrant name &#8220;PB03 TRANSPORT LTD.&#8221; By digitally signing their malware, attackers are able to suppress many security warnings that would otherwise appear when it&#8217;s being installed. Cybereason said that the certificate appears to have been used exclusively by REvil malware that was deployed during this attack...</p></blockquote>",
@@ -366,15 +375,6 @@
           "publishedOn": "2021-06-11T11:32:38.000Z",
           "wordCount": 497,
           "title": "FBI/AFP-Run Encrypted Phone"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/06/detecting-deepfake-picture-editing.html",
-          "author": null,
-          "description": "<p>&#8220;Markpainting&#8221; is a <a href=\"https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/\">clever technique</a> to watermark photos in such a way that makes it easier to detect ML-based manipulation:</p>\n<blockquote><p>An image owner can modify their image in subtle ways which are not themselves very visible, but will sabotage any attempt to inpaint it by adding visible information determined in advance by the markpainter.</p>\n<p>One application is tamper-resistant marks. For example, a photo agency that makes stock photos available on its website with copyright watermarks can markpaint them in such a way that anyone using common editing software to remove a watermark will fail; the copyright mark will be markpainted right back. So watermarks can be made a lot more robust...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/06/detecting-deepfake-picture-editing.html",
-          "publishedOn": "2021-06-10T11:19:19.000Z",
-          "wordCount": 613,
-          "title": "Detecting Deepfake Picture Editing"
         }
       ]
     },
@@ -383,6 +383,78 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1779281",
+          "author": "Dan Goodin",
+          "description": "Data allegedly sold individually or through weekly or monthly subscriptions.",
+          "link": "https://arstechnica.com/?p=1779281",
+          "publishedOn": "2021-07-09T22:30:14.000Z",
+          "wordCount": 950,
+          "title": "Feds indict “The Bull” for allegedly selling insider stock info on the dark web"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779166",
+          "author": "Kyle Orland",
+          "description": "Capture cards, input hardware, and machine learning get around system-level lockdowns.",
+          "link": "https://arstechnica.com/?p=1779166",
+          "publishedOn": "2021-07-09T22:00:31.000Z",
+          "wordCount": 1879,
+          "title": "Cheat-maker brags of computer-vision auto-aim that works on “any game”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779162",
+          "author": "Jim Salter",
+          "description": "The shuttered news aggregator offered stories mainly from right-leaning sources.",
+          "link": "https://arstechnica.com/?p=1779162",
+          "publishedOn": "2021-07-09T21:35:08.000Z",
+          "wordCount": 914,
+          "title": "Rupert Murdoch’s answer to Google News is dead after only 18 months"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779192",
+          "author": "Jonathan M. Gitlin",
+          "description": "We check in with one of our favorite series ahead of this weekend's races.",
+          "link": "https://arstechnica.com/?p=1779192",
+          "publishedOn": "2021-07-09T21:15:05.000Z",
+          "wordCount": 1920,
+          "title": "NYC ePrix: It’s time for Formula E’s annual visit to America"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779078",
+          "author": "Ron Amadeo",
+          "description": "FBI honeypot phones are now public—and showing up on the secondary market.",
+          "link": "https://arstechnica.com/?p=1779078",
+          "publishedOn": "2021-07-09T20:53:40.000Z",
+          "wordCount": 1499,
+          "title": "The FBI’s honeypot Pixel 4a gets detailed in new report"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779127",
+          "author": "Eric Berger",
+          "description": "\"New Shepard was designed to fly above the Kármán line.\"",
+          "link": "https://arstechnica.com/?p=1779127",
+          "publishedOn": "2021-07-09T19:04:44.000Z",
+          "wordCount": 1036,
+          "title": "How to watch Branson’s flight, which Jeff Bezos is still hopping mad about"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779126",
+          "author": "Sam Machkovech",
+          "description": "Leapfrogs past April 2021's previous world record auction for boxed SMB1 by 24 percent.",
+          "link": "https://arstechnica.com/?p=1779126",
+          "publishedOn": "2021-07-09T18:58:32.000Z",
+          "wordCount": 934,
+          "title": "World record for most expensive video game auction is now $870,000"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779046",
+          "author": "Doug Johnson",
+          "description": "Researchers discuss the methods NIST can use to find the cause of a tragedy.",
+          "link": "https://arstechnica.com/?p=1779046",
+          "publishedOn": "2021-07-09T18:34:05.000Z",
+          "wordCount": 1862,
+          "title": "With little remaining of Champlain Towers, how will we find answers?"
+        },
         {
           "id": "https://arstechnica.com/?p=1779085",
           "author": "Jon Brodkin",
@@ -3145,15 +3217,6 @@
           "publishedOn": "2021-06-10T13:00:45.000Z",
           "wordCount": 1917,
           "title": "Xbox unveils cloud-centric strategy: New hardware, servers, regional plans"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1771437",
-          "author": "Jennifer Ouellette",
-          "description": "A resonant transfer of energy accelerates atmospheric electrons to sufficient energies.",
-          "link": "https://arstechnica.com/?p=1771437",
-          "publishedOn": "2021-06-10T11:52:07.000Z",
-          "wordCount": 1582,
-          "title": "Electrons in ionosphere catch a plasma wave to produce brightest auroras"
         }
       ]
     },
@@ -3270,6 +3333,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2158018",
+          "author": null,
+          "description": "Following its entirely underwhelming first footage reveal of The Witcher TV show's second season earlier this year (all 12 seconds of it), Netflix has finally shared a first proper trailer for Season 2 as its newly confirmed 17th December release draws nearer. And here it is now!\nAs part of tonight's WitcherCon, a livestream collaboration between CD Projekt and Netflix, the streaming service has announced that the long-awaited second season of its live-action Witcher TV series will arrive on 17th December this year.\nThat means fans will have been waiting almost exactly two years by the time Season 2 arrives (its predecessor debuted in December 2019), with the long gap between seasons largely the result of coronavirus-related filming delays. With filming wrapped and post-production now well underway, though, Netflix is finally ready to talk specifics and has confirmed Season 2 will once again consist of eight episodes, all of which have now had their official names revealed.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-09-season-2-of-netflixs-the-witcher-series-arrives-this-december",
+          "publishedOn": "2021-07-09T21:07:00.000Z",
+          "wordCount": 1085,
+          "title": "Season 2 of Netflix's The Witcher series arrives this December"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2158032",
+          "author": null,
+          "description": "Netflix's animated Witcher movie, Nightmare of the Wolf, will officially arrive on 23rd August, and there's a first look at its action in a new teaser trailer to celebrate the news.\nAnnounced back at the start of last year, Nightmare of the Wolf focusses on Geralt of Rivia's friend and mentor Vesemir, and is set \"long before\" the two meet. In fact, previous word from Netflix suggests it'll wind the action all the way back to the start of Vesemir's journey as a Witcher, \"after the mysterious Deglan claims him through the Law of Surprise\".\nAnd if that's left you sufficiently intrigued, you can see Netflix's first teaser trailer for Nightmare of the Wolf below. Animation is being handled by Studio Mir - the team behind Legend of Korra - while Lauren S. Hissrich and Beau DeMayo, respectively showrunner and writer on the main live-action Witcher series, are both involved.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-09-heres-the-first-teaser-trailer-for-netflixs-animated-witcher-movie-nightmare-of-the-wolf",
+          "publishedOn": "2021-07-09T20:06:00.000Z",
+          "wordCount": 883,
+          "title": "Here's the first teaser trailer for Netflix's animated Witcher movie, Nightmare of the Wolf"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2157847",
           "author": null,
@@ -6590,33 +6671,6 @@
           "publishedOn": "2021-06-10T12:50:00.000Z",
           "wordCount": 814,
           "title": "Activision announces Spyro's return"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2153511",
-          "author": null,
-          "description": "PUBG's bots have never been particularly popular with the community ever since they were introduced to public matchmaking, but a recent update transformed the bumbling bots into something far worse: horrifyingly accurate aimbots. \nPatch 12.1 brought with it some changes to bot AI, which were - in theory - supposed to improve their behaviour, but it seems PUBG Corp made them a little too good. Players took to Reddit to document these machines of terror, pointing out that they were behaving like cheaters. Those who spectated the bots or replayed death cams discovered they effectively had wall hacks and aimbot enabled, with the bots spinning around to obliterate players with unnerving speed and accuracy. \n\"They're 'aim bots' now and that's no joke,\" said appropriately-named Reddit user Morbidly Tortured. \"I got taken out by a bot from 200 meters out. It auto locked on to me and hit every shot. I almost reported it until I spectated for about three minutes and noticed it was a bot with how it was running, stopping, going prone.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-10-pubgs-cheater-bots-have-finally-been-told-to-calm-down",
-          "publishedOn": "2021-06-10T11:08:00.000Z",
-          "wordCount": 1018,
-          "title": "PUBG's \"cheater bots\" have finally been told to calm down"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2153489",
-          "author": null,
-          "description": "Yesterday's big Battlefield 2042 reveal gave us our first glimpse at the game's near-future setting and confirmed its multiplayer focus. There will be no campaign mode (or battle royale).\nIt also brought us details on the three different editions of Battlefield 2042 available, with different prices for its cheapest edition depending on where you'll play. \nFor this basic edition, Battlefield 2042 costs £10/$10 less on PC, PlayStation 4 and Xbox One than you'll pay on PS5 and Xbox Series X/S. For fancier editions, it's £10/$10 less on PC only.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-10-battlefield-2042s-standard-edition-is-gbp10-cheaper-on-pc-and-last-gen-consoles",
-          "publishedOn": "2021-06-10T10:25:00.000Z",
-          "wordCount": 854,
-          "title": "Battlefield 2042's standard edition is £10 cheaper on PC and last-gen consoles"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2153485",
-          "author": null,
-          "description": "The Ninja Gaiden Master Collection is out now - and its PC port has been found wanting.\nThe PC version of this action game collection is bare bones, with severely limited customisation and graphics options.\nIt does not support mouse and keyboard, forcing PC users to play with a controller. A controller is perhaps preferable for Ninja Gaiden, but to not provide the option of mouse and keyboard is shocking.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-10-the-ninja-gaiden-master-collection-pc-port-isnt-going-down-well",
-          "publishedOn": "2021-06-10T09:34:00.000Z",
-          "wordCount": 827,
-          "title": "The Ninja Gaiden Master Collection PC port isn't going down well"
         }
       ]
     }
