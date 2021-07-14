@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T18:14:34.581Z</updated>
+    <updated>2021-07-14T00:36:36.599Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes API and Feature Removals In 1.22: Here’s What You Need To Know]]></title>
+        <id>https://kubernetes.io/blog/2021/07/14/upcoming-changes-in-kubernetes-1-22/</id>
+        <link href="https://kubernetes.io/blog/2021/07/14/upcoming-changes-in-kubernetes-1-22/"/>
+        <updated>2021-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Krishna Kilari (Amazon Web Services), Tim Bannister (The Scale Factory)
+As the Kubernetes API evolves, APIs are periodically reorganized or upgraded.
+When APIs evolve, the old APIs they replace are deprecated, and eventually removed.
+See Kubernetes API removals to read more about Kubernetes'
+policy on removing APIs.
+We want to make sure you're aware of some upcoming removals. These are
+beta APIs that you can use in current, supported Kubernetes versions,
+and they are already deprecated. The reason for all of these removals
+is that they have been superseded by a newer, stable (“GA”) API.
+Kubernetes 1.22, due for release in August 2021, will remove a number of deprecated
+APIs.
+Kubernetes 1.22 Release Information
+has details on the schedule for the v1.22 release.
+API removals for Kub…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Museum obtains rare demo of id Software’s Super Mario Bros. 3 PC port]]></title>
+        <id>https://arstechnica.com/?p=1780015</id>
+        <link href="https://arstechnica.com/?p=1780015"/>
+        <updated>2021-07-13T22:00:46.000Z</updated>
+        <summary type="html"><![CDATA[1990 demo was rejected by Nintendo but led to id's own Commander Keen.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tennessee has gone “anti-vaccine,” state vaccine chief says after being fired]]></title>
+        <id>https://arstechnica.com/?p=1779998</id>
+        <link href="https://arstechnica.com/?p=1779998"/>
+        <updated>2021-07-13T21:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Vaccine chief says she was fired for noting state's 34-year-old policy for vaccinating teens.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much do you pay your ISP? Consumer Reports wants to see your bill]]></title>
+        <id>https://arstechnica.com/?p=1779990</id>
+        <link href="https://arstechnica.com/?p=1779990"/>
+        <updated>2021-07-13T21:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Your bill and a speed test can help Consumer Reports analyze Internet prices.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Neanderthal carved a geometric design in bone 51,000 years ago]]></title>
+        <id>https://arstechnica.com/?p=1779916</id>
+        <link href="https://arstechnica.com/?p=1779916"/>
+        <updated>2021-07-13T20:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Here's more evidence that Neanderthals were as creative and cultured as us.]]></summary>
+        <author>
+            <name>Kiona N. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple introduces MagSafe Battery Pack to charge the iPhone 12 on the go]]></title>
+        <id>https://arstechnica.com/?p=1779880</id>
+        <link href="https://arstechnica.com/?p=1779880"/>
+        <updated>2021-07-13T20:02:37.000Z</updated>
+        <summary type="html"><![CDATA[It costs $99 and ships this month.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If we want to look for life on Europa, we’d better bring a drill]]></title>
+        <id>https://arstechnica.com/?p=1779895</id>
+        <link href="https://arstechnica.com/?p=1779895"/>
+        <updated>2021-07-13T19:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Impacts and radiation ensure any interesting chemicals won't last at the surface.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 89 delivered more speed—today’s Firefox 90 adds SmartBlock 2.0]]></title>
+        <id>https://arstechnica.com/?p=1779865</id>
+        <link href="https://arstechnica.com/?p=1779865"/>
+        <updated>2021-07-13T18:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla's browser continues ramping up its speed and blocking efforts.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMW abandons the i3, the car that could have birthed a bright electric future]]></title>
         <id>https://arstechnica.com/?p=1778799</id>
@@ -7548,119 +7641,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[By now, you will likely have seen Bethesda's first in-game footage of Starfield, its long-awaited sci-fi role-playing game coming to PC and Xbox Series X/S as a console exclusive on 11th November 2022. 
 But how will it play? What will you actually do? And will we ever get to finish that half-eaten space sandwich?
 Bethesda has given a couple of interviews which mostly avoid answering specifics, but do touch a bit on some of the above.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Go maker Niantic working on Transformers game]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154543</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-pokemon-go-maker-niantic-working-on-transformers-game"/>
-        <updated>2021-06-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This real-world robot-battling phone game is being developed by another studio, the Seattle-based Very Very Spaceship, though will use Niantic's Lightship platform and well-oiled augmented reality toolset. 
-Images of the game show Pokémon Go raid-style battles between autobots, as well as a familiar-looking world map. 
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony has been working with Deviation Games on its new PlayStation-exclusive IP for over a year already]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154539</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-sony-has-been-working-with-deviation-games-on-its-new-playstation-exclusive-ip-for-over-a-year-already"/>
-        <updated>2021-06-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week, Sony announced it had signed a deal with Deviation Games to make a brand new PlayStation IP - the second such deal Sony has announced in recent months.
-Deviation Games was set up in November 2019 by former Treyarch Studios developers Dave Anthony and Jason Blundell, both of whom played a key role in the success of the Call of Duty: Black Ops series.
-Blundell, one of the chief creators of Call of Duty's popular zombies mode, left Treyarch after 13 years at the developer.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ars Technica Father’s Day 2021 gift guide]]></title>
-        <id>https://arstechnica.com/?p=1772085</id>
-        <link href="https://arstechnica.com/?p=1772085"/>
-        <updated>2021-06-14T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We give a few gifting prompts for the guy who won't say what he actually wants.]]></summary>
-        <author>
-            <name>Jeff Dunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sci-fi apocalypse adventure Somerville gets a new trailer]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154528</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-former-limbo-devs-next-project-somerville-gets-a-new-trailer"/>
-        <updated>2021-06-14T11:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Somerville has been teased with a number of trailers over the past few years, but during yesterday's Xbox-Bethesda showcase we got another look at the game - and now have some idea of what the main characters will look like.  
-The sci-fi adventure is being made by Jumpship, an independent studio founded by animator Chris Olsen in collaboration with Playdead co-founder and former CEO Dino Patti. (Playdead created Limbo and its spiritual successor Inside, two very unsettling puzzle-platformers.) 
-As you can see from the trailer, Somerville set in a sci-fi world and focuses on the struggles of a family trying to survive a major disaster. "In the wake of catastrophe you must find the means to make your family whole again," says the official description. "Somerville is a sci-fi adventure grounded in the intimate repercussions of large-scale conflict.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Series X mini fridge launches later this year]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154521</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-xbox-series-x-mini-fridge-launches-later-this-year"/>
-        <updated>2021-06-14T10:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, we saw a meme turned reality. No, not Final Fantasy Origins, but the Xbox Series X mini fridge. 
-Microsoft is really going to release this dinky desk-sized refrigerator later this year. Like Halo Infinite, it has a vague "holiday 2021" launch date. 
-If you stuck around after Microsoft's big Xbox and Bethesda Showcase event yesterday, you'll have seen the following trailer pop up, showing off how it'll look:
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telling Lies director Sam Barlow announces new game Immortality]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154510</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-telling-lies-director-sam-barlow-announces-new-game-immortality"/>
-        <updated>2021-06-14T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Her Story and Telling Lies director Sam Barlow has announced a new game, and this one is all about a mysterious disappearing film star. 
-Titled Immortality, the game follows the story of Marissa Marcel, an actress who "made three movies" that were never actually released. Oh, and she vanished without a trace, of course. 
-Here's a look at the teaser trailer that was shown during the Future Games showcase last night: 
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinykin is an eye-catching indie Pikmin]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154508</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-tinykin-is-an-eye-catching-indie-pikmin"/>
-        <updated>2021-06-14T09:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Tinykin may be the closest thing we get to a Pikmin 4 at this year's E3, but that's no bad thing. 
-This dinky puzzle platformer has you controlling a miniature alien astronaut as he explores our world. He's aided in his travels by a swarm of mini creatures, named tinykin. 
-Sound familiar? While clearly inspired by Nintendo's Pikmin, what impressed me here was how snappy and fluid the movement and exploration looks, with tinykin used to create ladders or skate around.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft has a follow-up Xbox Games Showcase event on Thursday]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154503</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-microsoft-has-a-follow-up-xbox-games-showcase-event-on-thursday"/>
-        <updated>2021-06-14T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[If yesterday's big Xbox and Bethesda Games Showcase wasn't enough for you, Microsoft has a little more to come. 
-Xbox Games Showcase: Extended will be broadcast at 6pm UK time this Thursday, 17th June and feature conversations with some of Microsoft's internal studios. 
-Psychonauts 2 team Double Fine, The Outer Worlds 2 studio Obsidian, Hellblade 2 maker Ninja Theory and Sea of Thieves outfit Rare will all be included, alongside others.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Stranger of Paradise: Final Fantasy Origins demo is broken]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2154501</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-14-the-stranger-of-paradise-final-fantasy-origins-demo-is-broken"/>
-        <updated>2021-06-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's fair to say Stranger of Paradise: Final Fantasy Origins got a rough reception upon its reveal during the Square Enix E3 show last night. 
-But perhaps it plays better? It's impossible to say right now, as the game's instantly-dropped PlayStation 5 demo remains broken, and unable to play.
-Curious Final Fantasy fans first reported an inability to load the demo after downloading it last night. This morning, our Aoife told me it's still not working. 
 Read more]]></summary>
         <author>
             <name>Eurogamer.net | News</name>
