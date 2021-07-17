@@ -152,6 +152,24 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/friday-squid-blogging-giant-squid-model.html",
+          "author": null,
+          "description": "<p>Pretty <a href=\"https://shop.pem.org/products/giant-squid-model-architeuthis\">wooden model</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/friday-squid-blogging-giant-squid-model.html",
+          "publishedOn": "2021-07-16T21:12:12.000Z",
+          "wordCount": 701,
+          "title": "Friday Squid Blogging: Giant Squid Model"
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/07/revil-is-off-line.html",
+          "author": null,
+          "description": "<p>This is an <a href=\"https://www.nytimes.com/2021/07/13/us/politics/russia-hacking-ransomware-revil.html\">interesting development</a>:</p>\n<blockquote><p>Just days after President Biden demanded that President Vladimir V. Putin of Russia shut down ransomware groups attacking American targets, the most aggressive of the groups suddenly went off-line early Tuesday.</p>\n<p>[&#8230;]</p>\n<p>Gone was the publicly available &#8220;happy blog&#8221; the group maintained, listing some of its victims and the group’s earnings from its digital extortion schemes. Internet security groups said the custom-made sites ­- think of them as virtual conference rooms &#8212; where victims negotiated with REvil over how much ransom they would pay to get their data unlocked also disappeared. So did the infrastructure for making payments...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/revil-is-off-line.html",
+          "publishedOn": "2021-07-16T20:03:13.000Z",
+          "wordCount": 1480,
+          "title": "REvil is Off-Line"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/colorado-passes-consumer-privacy-law.html",
           "author": null,
           "description": "<p>First California. Then Virginia. Now <a href=\"https://leg.colorado.gov/bills/sb21-190\">Colorado</a>.</p>\n<p><a href=\"https://www.adlawaccess.com/2021/07/articles/privacy-law-update-colorado-privacy-bill-becomes-law-how-does-it-stack-up-against-california-and-virginia/\">Here&#8217;s</a> a good comparison of the three states&#8217; laws.</p>",
@@ -357,15 +375,6 @@
           "publishedOn": "2021-06-17T18:51:41.000Z",
           "wordCount": 644,
           "title": "Intentional Flaw in GPRS Encryption Algorithm GEA-1"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/06/paul-van-oorschots-computer-security-and-the-internet.html",
-          "author": null,
-          "description": "<p>Paul van Oorschot&#8217;s webpage contains a complete copy of his book: <a href=\"https://people.scs.carleton.ca/~paulv/toolsjewels.html\"><i>Computer Security and the Internet: Tools and Jewels</i></a>. It&#8217;s worth reading.</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/06/paul-van-oorschots-computer-security-and-the-internet.html",
-          "publishedOn": "2021-06-17T11:25:54.000Z",
-          "wordCount": 329,
-          "title": "Paul van Oorschot’s Computer Security and the Internet"
         }
       ]
     },
@@ -374,6 +383,87 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1780902",
+          "author": "Jennifer Ouellette",
+          "description": "This thin, flexible strip generates small amounts of electricity from finger sweat.",
+          "link": "https://arstechnica.com/?p=1780902",
+          "publishedOn": "2021-07-16T21:41:45.000Z",
+          "wordCount": 1631,
+          "title": "Finger wrap could one day let you power up wearables while you sleep"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780951",
+          "author": "Samuel Axon",
+          "description": "Evan Doll will take over some responsibilities leading health product strategy.",
+          "link": "https://arstechnica.com/?p=1780951",
+          "publishedOn": "2021-07-16T20:46:58.000Z",
+          "wordCount": 855,
+          "title": "Apple Watch lead Kevin Lynch shifts focus to car development"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781007",
+          "author": "Dan Goodin",
+          "description": "The third serious Windows print flaw in 5 weeks prompts new Microsoft warning.",
+          "link": "https://arstechnica.com/?p=1781007",
+          "publishedOn": "2021-07-16T20:38:56.000Z",
+          "wordCount": 1038,
+          "title": "Disable the Windows print spooler to prevent hacks, Microsoft tells customers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780719",
+          "author": "Eric Berger",
+          "description": "\"The mission for which is to be determined by the NASA Administrator.\"",
+          "link": "https://arstechnica.com/?p=1780719",
+          "publishedOn": "2021-07-16T20:29:01.000Z",
+          "wordCount": 1338,
+          "title": "An Alabama lawmaker just wants NASA to fly SLS, doesn’t care about payloads"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781019",
+          "author": "Beth Mole",
+          "description": "A Biogen rep said assessing its drug requires \"innovative thinking.\"",
+          "link": "https://arstechnica.com/?p=1781019",
+          "publishedOn": "2021-07-16T20:18:49.000Z",
+          "wordCount": 916,
+          "title": "Expert panel says new $56K Alzheimer’s drug is unproven—and worth $8,400 max"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780975",
+          "author": "Sam Machkovech",
+          "description": "Valve patches hole after a frantic morning of Steam error messages.",
+          "link": "https://arstechnica.com/?p=1780975",
+          "publishedOn": "2021-07-16T19:45:58.000Z",
+          "wordCount": 1244,
+          "title": "HTML holes provide a glimpse of Steam Deck’s initial preorder numbers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780945",
+          "author": "Jon Brodkin",
+          "description": "CA to build middle-mile network open to all ISPs and give $2B in last-mile grants.",
+          "link": "https://arstechnica.com/?p=1780945",
+          "publishedOn": "2021-07-16T19:12:40.000Z",
+          "wordCount": 1269,
+          "title": "California’s ambitious fiber-Internet plan approved unanimously by legislature"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780852",
+          "author": "Jonathan M. Gitlin",
+          "description": "F1's lead engineer Rob Smedley explains how and why the cars are changing.",
+          "link": "https://arstechnica.com/?p=1780852",
+          "publishedOn": "2021-07-16T19:00:58.000Z",
+          "wordCount": 1677,
+          "title": "Here’s the new car Formula 1 hopes will improve racing in 2022"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780883",
+          "author": "Jim Salter",
+          "description": "Counterfeit earbud seizures at the border are up 63% so far this year.",
+          "link": "https://arstechnica.com/?p=1780883",
+          "publishedOn": "2021-07-16T18:04:24.000Z",
+          "wordCount": 856,
+          "title": "Counterfeiters are hungry for a piece of Apple’s $16B AirPod market"
+        },
         {
           "id": "https://arstechnica.com/?p=1780885",
           "author": "Tim De Chant",
@@ -3091,15 +3181,6 @@
           "publishedOn": "2021-06-17T12:49:55.000Z",
           "wordCount": 844,
           "title": "SpaceX to break the final frontier in reuse with national defense launch"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774198",
-          "author": "Jon Brodkin",
-          "description": "Bill's 10Mbps standard could make 98% of Ohio ineligible for municipal networks.",
-          "link": "https://arstechnica.com/?p=1774198",
-          "publishedOn": "2021-06-17T11:52:27.000Z",
-          "wordCount": 1980,
-          "title": "Ohio Republicans close to imposing near-total ban on municipal broadband"
         }
       ]
     },
@@ -5905,33 +5986,6 @@
           "publishedOn": "2021-06-17T12:58:00.000Z",
           "wordCount": 744,
           "title": "Tetris Effect: Connected multiplayer expansion adds spectator mode this summer"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155163",
-          "author": null,
-          "description": "The Legend of Zelda: Breath of the Wild 2 may still be some way off - it's now \"aiming\" for a 2022 launch - but Nintendo has given fans plenty to pick over in its E3 Direct trailer. \nNow the dust has settled, some excellent fan theories have emerged about what's going on - especially regarding Link's seemingly-corrupted arm. \n\nIn a thread on Twitter about Link's appendage, freelance writer and Eurogamer contributor \nJordan Oloman highlighted how Link appears to lose his arm at the beginning of the trailer, before it appears to be restored with Sheikah technology.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-17-nintendos-zelda-breath-of-the-wild-2-trailer-has-sparked-some-brilliant-fan-theories",
-          "publishedOn": "2021-06-17T10:56:00.000Z",
-          "wordCount": 1416,
-          "title": "Nintendo's Zelda: Breath of the Wild 2 trailer has sparked some brilliant fan theories"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155157",
-          "author": null,
-          "description": "Call of Duty: Warzone has become the first PlayStation 4 backwards compatible game to support 120hz on PlayStation 5.\nSeason 4 launched this morning, and buried within the patch notes is word Warzone now has 120hz support for PS5. This requires HDMI 2.1.\nIt's a surprise but welcome addition, and hopefully heralds similar updates from other PS4 games running in back compat form on PS5.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-17-call-of-duty-warzone-ps4-becomes-first-back-compat-game-to-support-120hz-on-ps5",
-          "publishedOn": "2021-06-17T10:22:00.000Z",
-          "wordCount": 860,
-          "title": "Call of Duty: Warzone PS4 becomes first back compat game to support 120hz on PS5"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155145",
-          "author": null,
-          "description": "Nintendo's upcoming Metroid Dread will be accompanied by a pair of amiibo figurines you can buy in a pack for $30 (here in the UK, retailers are yet to set a price).\nNow, we know what these figurines will do when you first scan them into the game.\nThe pack's Samus amiibo will add an extra energy tank to your health, increasing its overall capacity by 100 HP. These permanent power-ups are often hard to find in Metroid games, but you'll get one easily here. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-17-metroid-dreads-usd30-amiibo-boost-your-health-and-ammo-reserves",
-          "publishedOn": "2021-06-17T09:29:00.000Z",
-          "wordCount": 683,
-          "title": "Metroid Dread's $30 amiibo boost your health and ammo reserves"
         }
       ]
     }
