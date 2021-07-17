@@ -112,15 +112,6 @@
           "publishedOn": "2021-06-21T00:00:00.000Z",
           "wordCount": 183,
           "title": "Houseguests"
-        },
-        {
-          "id": "https://xkcd.com/2478/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/alien_visitors_2.png\" title=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" alt=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" />",
-          "link": "https://xkcd.com/2478/",
-          "publishedOn": "2021-06-18T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Alien Visitors 2"
         }
       ]
     },
@@ -366,15 +357,6 @@
           "publishedOn": "2021-06-18T11:18:28.000Z",
           "wordCount": 344,
           "title": "Peloton Vulnerability Found and Fixed"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/06/intentional-flaw-in-gprs-encryption-algorithm-gea-1.html",
-          "author": null,
-          "description": "<p>General Packet Radio Service (GPRS) is a mobile data standard that was widely used in the early 2000s. The first encryption algorithm for that standard was GEA-1, a stream cipher built on three linear-feedback shift registers and a non-linear combining function. Although the algorithm has a 64-bit key, the effective key length is only 40 bits, due to &#8220;an exceptional interaction of the deployed LFSRs and the key initialization, which is highly unlikely to occur by chance.&#8221;</p>\n<p>GEA-1 was designed by the European Telecommunications Standards Institute in 1998. ETSI was &#8212; and maybe still is &#8212; under the auspices of ...</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/06/intentional-flaw-in-gprs-encryption-algorithm-gea-1.html",
-          "publishedOn": "2021-06-17T18:51:41.000Z",
-          "wordCount": 644,
-          "title": "Intentional Flaw in GPRS Encryption Algorithm GEA-1"
         }
       ]
     },
@@ -383,6 +365,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1780509",
+          "author": "Jonathan M. Gitlin",
+          "description": "Some of the proposed new emoji are for climate change, some are gender-inclusive.",
+          "link": "https://arstechnica.com/?p=1780509",
+          "publishedOn": "2021-07-17T11:30:25.000Z",
+          "wordCount": 791,
+          "title": "A troll, a pregnant man, and a low battery make the list of proposed new emoji"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780872",
+          "author": "WIRED",
+          "description": "Hackers posed as recruiters, journalists, and hospitality workers to lure their victims.",
+          "link": "https://arstechnica.com/?p=1780872",
+          "publishedOn": "2021-07-17T10:45:50.000Z",
+          "wordCount": 1247,
+          "title": "Facebook catches Iranian spies catfishing US military targets"
+        },
         {
           "id": "https://arstechnica.com/?p=1780902",
           "author": "Jennifer Ouellette",
@@ -3064,69 +3064,6 @@
           "publishedOn": "2021-06-18T09:57:11.000Z",
           "wordCount": 853,
           "title": "Ukraine arrests ransomware gang in global cybercriminal crackdown"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774517",
-          "author": "Kyle Orland",
-          "description": "No link-cable needed for this emulated single-machine, single-display solution.",
-          "link": "https://arstechnica.com/?p=1774517",
-          "publishedOn": "2021-06-17T21:45:18.000Z",
-          "wordCount": 914,
-          "title": "Game Boy Advance game gets split-screen multiplayer through new FPGA core"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774437",
-          "author": "Dan Goodin",
-          "description": "Most malware tries to steal stuff. Vigilante, by contrast, takes aim at piracy.",
-          "link": "https://arstechnica.com/?p=1774437",
-          "publishedOn": "2021-06-17T21:01:09.000Z",
-          "wordCount": 1012,
-          "title": "Newly discovered Vigilante malware outs software pirates and blocks them"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774382",
-          "author": "Samuel Axon",
-          "description": "Developers with revenues under $1 million are getting a new deal.",
-          "link": "https://arstechnica.com/?p=1774382",
-          "publishedOn": "2021-06-17T20:43:12.000Z",
-          "wordCount": 839,
-          "title": "Amazon joins Apple, Google by reducing its app store cut"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774246",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has early Prime Day discounts, Philips Hue deals, and more.",
-          "link": "https://arstechnica.com/?p=1774246",
-          "publishedOn": "2021-06-17T20:05:02.000Z",
-          "wordCount": 3248,
-          "title": "A number of recommended Nintendo Switch games are on sale today"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774337",
-          "author": "Jim Salter",
-          "description": "The outage prevented Linux installation or upgrade of any Microsoft software.",
-          "link": "https://arstechnica.com/?p=1774337",
-          "publishedOn": "2021-06-17T19:22:33.000Z",
-          "wordCount": 736,
-          "title": "Microsoft’s Linux repositories were down for 18+ hours"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774338",
-          "author": "Beth Mole",
-          "description": "Three experts resigned in protest. Watchdog says it's FDA brass that should leave.",
-          "link": "https://arstechnica.com/?p=1774338",
-          "publishedOn": "2021-06-17T18:33:55.000Z",
-          "wordCount": 1136,
-          "title": "FDA officials asked to step down after contentious Alzheimer’s drug approval"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774340",
-          "author": "John Timmer",
-          "description": "Mirrors of the LIGO gravitational-wave detector get cool—extremely cool.",
-          "link": "https://arstechnica.com/?p=1774340",
-          "publishedOn": "2021-06-17T18:19:12.000Z",
-          "wordCount": 992,
-          "title": "Researchers cool a 40 kg object to near its quantum ground state"
         }
       ]
     },
@@ -3260,6 +3197,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159041",
+          "author": "Wesley Yin-Poole",
+          "description": "A giant cryptocurrency farm in Ukraine that contained thousands of PlayStation 4 consoles was actually a FIFA bot farm.\nLast week the Security Service of Ukraine (SBU) announced it had shut down what was reported as a cryptocurrency mining farm that contained an incredible 3800 game consoles. Images showed racks of PS4 Slims (some claimed the photos showed PS4 Pros) - either way not the ideal hardware for a cryptocurrency farm.\nIt turns out the PS4s were being used to grind FIFA Ultimate Team.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-17-ukraine-warehouse-packed-with-thousands-of-ps4s-was-actually-a-fifa-ultimate-team-bot-farm",
+          "publishedOn": "2021-07-17T10:40:00.000Z",
+          "wordCount": 955,
+          "title": "Ukraine warehouse packed with thousands of PS4s was actually a FIFA Ultimate Team bot farm"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159036",
+          "author": "Wesley Yin-Poole",
+          "description": "Valve has adjusted the availability of its Steam Deck handheld following significant demand yesterday.\nSteam Deck reservations opened in select regions last night, with shipments scheduled to start in December 2021.\nBut significant demand - which caused some early technical problems - has now seen Valve adjust the availability of Steam Deck for new pre-orders.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-17-steam-deck-expected-order-availability-now-q1-2022-64gb-or-q2-2022-256gb-512gb",
+          "publishedOn": "2021-07-17T09:51:00.000Z",
+          "wordCount": 1005,
+          "title": "Steam Deck expected order availability now Q1 2022 (64GB) and Q2 2022 (256GB/512GB)"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159028",
+          "author": "Wesley Yin-Poole",
+          "description": "Call of Duty: Warzone developer Raven Software has issued its first anti-cheat update in over two months following increasing pressure from the game's community over hacking.\nComplaints about cheating and hacking in Warzone have ramped up this year, with some high-profile players calling for action from Activision.\nEarlier this month, popular Call of Duty content creator ZLaner made an impassioned plea to Raven to do something to combat cheating.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-17-as-call-of-duty-warzone-cheating-complaints-ramp-up-raven-issues-its-first-anti-cheat-update-in-over-two-months",
+          "publishedOn": "2021-07-17T09:08:00.000Z",
+          "wordCount": 1279,
+          "title": "As Call of Duty: Warzone cheating complaints ramp up, Raven issues first anti-cheat update in over two months"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159024",
+          "author": "Wesley Yin-Poole",
+          "description": "Ubisoft has delayed Rainbow Six Extraction by four months and Riders Republic by just under two months.\nRainbow Six Extraction is now due out at some point in January 2022. It had been due out 16th September.\nRiders Republic, meanwhile, is now due out 28th October 2021. It had been due out 2nd September.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-17-ubisoft-delays-rainbow-six-extraction-and-riders-republic",
+          "publishedOn": "2021-07-17T08:18:00.000Z",
+          "wordCount": 949,
+          "title": "Ubisoft delays Rainbow Six Extraction and Riders Republic"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2158966",
           "author": "Emma Kent",
@@ -5806,33 +5779,6 @@
           "publishedOn": "2021-06-18T09:14:00.000Z",
           "wordCount": 996,
           "title": "Raven pulls Call of Duty: Warzone's controversial armoured Big Bertha from the game and players hope it never comes back"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155290",
-          "author": null,
-          "description": "Flight Simulator is primed to make its highly anticipated Xbox Series X/S debut in just over a month, but, before that, there's another huge World Update for PC players, arriving today and giving makeovers to the sim's rendition of Denmark, Finland, Iceland, Norway, and Sweden.\nDeveloper Asobo is promising pilots the chance to explore \"vast fjords, riveting urban vistas, domineering peaks, and centuries-old iconic castles\" in its new Nordic countries update, which also brings landscape enhancements, improved regional architecture, five new airports, improved data for 100 airports, and over 78 new points of interest.\nOnce the World Update is downloaded (first update the sim, then grab the World Update from the in-game Marketplace) players will also have the opportunity to tackle five new bush trips - one for each of the new Nordic countries - plus five new landing challenges, focussed on Denmark's Bornholm, Iceland's Ísafjörður, Sweden's Stockholm Arlanda, Norway's Svalbard, and Finland's Vaasa Airports.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-17-flight-simulator-gives-denmark-finland-iceland-norway-and-sweden-makeovers-in-latest-world-update",
-          "publishedOn": "2021-06-17T19:18:00.000Z",
-          "wordCount": 973,
-          "title": "Flight Simulator gives Denmark, Finland, Iceland, Norway, and Sweden makeovers"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155285",
-          "author": null,
-          "description": "Xbox Design Lab was temporarily suspended last October while Microsoft worked on transitioning between console generations, but the custom controller service is back - allowing you to design your own Series X/S controller. \nThe relaunch was announced during Xbox's E3 follow-up showcase this evening, and the Xbox Design Lab website is now up and running. The customisation program allows you to pick colours for most external parts of the controller, including the \"body, back case, D-pad, bumpers, triggers, thumbsticks, ABXY, View, Menu and Share buttons.\" The Xbox Wire blog post says there are 18 colours to choose from, including the colours of existing Xbox Series X/S controllers like Shock Blue and Pulse Red.   \nIf you want to make it extra personal, you can also get your controller engraved with a Gamertag or custom message of up to 16 characters. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-17-xbox-design-lab-is-back-with-custom-series-x-s-controllers",
-          "publishedOn": "2021-06-17T18:42:00.000Z",
-          "wordCount": 777,
-          "title": "Xbox Design Lab is back with custom Series X/S controllers"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155284",
-          "author": null,
-          "description": "Sea of Thieves' next major free update is packing in one hell of a crossover, bringing the world of Disney's Pirates of the Caribbean into Rare's swashbuckling multiplayer adventure. And if the arrival of Captain Jack Sparrow wasn't enough to be excited about, it's also finally giving the formidable kraken a face - which makes an appearance in a brand-new trailer.\nThe centrepiece of Sea of Thieves' Pirates of the Caribbean crossover - officially known as A Pirate's Life - takes the form of a brand-new cinematic story campaign. It features five new Tall Tales episodes (the first since March 2020's Heart of Flame), charting Jack Sparrow's arrival in the Sea of Thieves and the events that ensue.\nThere are tantalising snatches of those adventures in Rare's second crossover trailer below, including the appearance of Davy Jones and his formidable vessel the Flying Dutchman, battles against gargantuan mermaid statues, and even a portable talking skull that should stir fond memories for Monkey Island aficionados.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-17-sea-of-thieves-kraken-finally-gets-its-face-in-new-pirates-of-the-caribbean-crossover-trailer",
-          "publishedOn": "2021-06-17T18:16:00.000Z",
-          "wordCount": 916,
-          "title": "Sea of Thieves' kraken finally gets its face in new Pirates of the Caribbean crossover trailer"
         }
       ]
     }
