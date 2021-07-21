@@ -143,6 +143,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html",
+          "author": null,
+          "description": "<p>NSO Group, the Israeli cyberweapons arms manufacturer behind the Pegasus spyware &#8212; used by authoritarian regimes around the world to spy on dissidents, journalists, human rights workers, and others &#8212; was hacked. Or, at least, an enormous trove of documents was leaked to journalists.</p>\n<p>There&#8217;s a lot to read out there. Amnesty International has a <a href=\"https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/\">report</a>. Citizen Lab conducted an <a href=\"https://citizenlab.ca/2021/07/amnesty-peer-review/\">independent analysis</a>. The <i>Guardian</i> has <a href=\"https://www.theguardian.com/news/series/pegasus-project\">extensive coverage</a>. <a href=\"https://www.nytimes.com/2021/07/18/world/middleeast/israel-nso-pegasus-spyware.html\">More</a> <a href=\"https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/?itid=lk_inline_manual_10\">coverage</a>.</p>\n<p>Most interesting is a list of over 50,000 phone numbers that were being spied on by NSO Group&#8217;s software. Why does NSO Group have that list? The obvious answer is that NSO Group provides spyware-as-a-service, and centralizes operations somehow. Nicholas Weaver ...</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html",
+          "publishedOn": "2021-07-20T18:50:56.000Z",
+          "wordCount": 1280,
+          "title": "NSO Group Hacked"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/candiru-another-cyberweapons-arms-manufacturer.html",
           "author": null,
           "description": "<p>Citizen Lab has identified yet another Israeli company that sells spyware to governments around the world: Candiru.</p>\n<p>From <a href=\"https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/\">the report</a>:</p>\n<blockquote><p>Summary:</p>\n<ul>\n<li>Candiru is a secretive Israel-based company that sells spyware exclusively to governments. Reportedly, their spyware can infect and monitor iPhones, Androids, Macs, PCs, and cloud accounts.\n<li>Using Internet scanning we identified more than 750 websites linked to Candiru&#8217;s spyware infrastructure. We found many domains masquerading as advocacy organizations such as Amnesty International, the Black Lives Matter movement, as well as media companies, and other civil-society themed entities.\n...</li></li></ul></blockquote>",
@@ -339,15 +348,6 @@
           "publishedOn": "2021-06-22T11:54:09.000Z",
           "wordCount": 595,
           "title": "Apple Will Offer Onion Routing for iCloud/Safari Users"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/06/the-future-of-machine-learning-and-cybersecurity.html",
-          "author": null,
-          "description": "<p>The Center for Security and Emerging Technology has a new report: &#8220;<a href=\"https://cset.georgetown.edu/publication/machine-learning-and-cybersecurity/\">Machine Learning and Cybersecurity: Hype and Reality</a>.&#8221; Here&#8217;s the bottom line:</p>\n<blockquote><p>The report offers four conclusions:</p>\n<ul>\n<li>Machine learning can help defenders more accurately detect and triage potential attacks. However, in many cases these technologies are elaborations on long-standing methods &#8212; not fundamentally new approaches &#8212; that bring new attack surfaces of their own.\n<li>A wide range of specific tasks could be fully or partially automated with the use of machine learning, including some forms of vulnerability discovery, deception, and attack disruption. But many of the most transformative of these possibilities still require significant machine learning breakthroughs.\n...</li></li></ul></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/06/the-future-of-machine-learning-and-cybersecurity.html",
-          "publishedOn": "2021-06-21T11:31:24.000Z",
-          "wordCount": 494,
-          "title": "The Future of Machine Learning and Cybersecurity"
         }
       ]
     },
@@ -356,6 +356,105 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1781717",
+          "author": "Jim Salter",
+          "description": "Muse Group's intentions appear to be good—but they're paving an unpleasant road.",
+          "link": "https://arstechnica.com/?p=1781717",
+          "publishedOn": "2021-07-21T00:30:06.000Z",
+          "wordCount": 2316,
+          "title": "Audacity’s new owner is in another fight with the open source community"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781824",
+          "author": "Beth Mole",
+          "description": "\"This delta variant is no joke.”",
+          "link": "https://arstechnica.com/?p=1781824",
+          "publishedOn": "2021-07-20T21:57:33.000Z",
+          "wordCount": 963,
+          "title": "Delta goes to Washington, infects vaccinated Capitol staffers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781750",
+          "author": "Dan Goodin",
+          "description": "Both OSes have flaws that allow attackers with a toehold to elevate access.",
+          "link": "https://arstechnica.com/?p=1781750",
+          "publishedOn": "2021-07-20T21:17:41.000Z",
+          "wordCount": 1540,
+          "title": "Two-for-Tuesday vulnerabilities send Windows and Linux users scrambling"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781759",
+          "author": "Jon Brodkin",
+          "description": "Biden nominee Jonathan Kanter criticized US for not breaking up monopolies.",
+          "link": "https://arstechnica.com/?p=1781759",
+          "publishedOn": "2021-07-20T20:47:55.000Z",
+          "wordCount": 1316,
+          "title": "Biden picks Google foe to lead DOJ antitrust as it mulls plan to break up Big Tech"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781737",
+          "author": "John Timmer",
+          "description": "A look at 60 countries shows that renewable growth rarely reaches the rates we need.",
+          "link": "https://arstechnica.com/?p=1781737",
+          "publishedOn": "2021-07-20T20:38:48.000Z",
+          "wordCount": 1352,
+          "title": "Is any country installing renewables fast enough to reach climate goals?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781710",
+          "author": "Samuel Axon",
+          "description": "It works with iPhone 12, iPhone 12 mini, iPhone 12 Pro, and iPhone 12 Pro Max.",
+          "link": "https://arstechnica.com/?p=1781710",
+          "publishedOn": "2021-07-20T20:16:15.000Z",
+          "wordCount": 834,
+          "title": "Apple’s MagSafe Battery Pack is available in stores now for $99"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781553",
+          "author": "Ron Amadeo",
+          "description": "Analysis: No specs listed, \"uncensored\" app store looks like Google Play.",
+          "link": "https://arstechnica.com/?p=1781553",
+          "publishedOn": "2021-07-20T19:51:04.000Z",
+          "wordCount": 1778,
+          "title": "The MAGA-targeted “Freedom Phone” has a breathtaking amount of red flags"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781638",
+          "author": "Samuel Axon",
+          "description": "The publication's sources claim the iPad mini will get the iPad Air treatment.",
+          "link": "https://arstechnica.com/?p=1781638",
+          "publishedOn": "2021-07-20T19:15:23.000Z",
+          "wordCount": 914,
+          "title": "Report claims Apple will finally give the iPad mini some love"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781662",
+          "author": "Jon Brodkin",
+          "description": "Common Cause report says industry lobbying of Congress worsens the digital divide.",
+          "link": "https://arstechnica.com/?p=1781662",
+          "publishedOn": "2021-07-20T18:50:35.000Z",
+          "wordCount": 1821,
+          "title": "ISPs spent $235 million on lobbying and donations, “more than $320,000 a day”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781634",
+          "author": "Sam Machkovech",
+          "description": "Humankind's Denuvo woes were \"not something we can fix before release,\" dev says.",
+          "link": "https://arstechnica.com/?p=1781634",
+          "publishedOn": "2021-07-20T18:26:20.000Z",
+          "wordCount": 1062,
+          "title": "Fans ask a PC game to drop Denuvo—and dev agrees, blames “performance impact”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781512",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has the newest Zelda game, Amazon's Kindle Paperwhite, and more.",
+          "link": "https://arstechnica.com/?p=1781512",
+          "publishedOn": "2021-07-20T18:10:56.000Z",
+          "wordCount": 2923,
+          "title": "Good deal: The iPad Air is down to a new low of $500 today"
+        },
         {
           "id": "https://arstechnica.com/?p=1781642",
           "author": "Beth Mole",
@@ -3136,33 +3235,6 @@
           "publishedOn": "2021-06-21T13:58:01.000Z",
           "wordCount": 1905,
           "title": "The best Prime Day 2021 tech deals from everywhere besides Amazon"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774397",
-          "author": "Ars Staff",
-          "description": "We've cut through the noise to find Prime Day's best buys for bargain hunters.",
-          "link": "https://arstechnica.com/?p=1774397",
-          "publishedOn": "2021-06-21T11:05:08.000Z",
-          "wordCount": 2070,
-          "title": "The best Amazon Prime Day 2021 deals under $50 we can find"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774704",
-          "author": "Jeff Dunn",
-          "description": "One of our favorite sets of true wireless earbuds is deeply discounted as well.",
-          "link": "https://arstechnica.com/?p=1774704",
-          "publishedOn": "2021-06-21T10:00:57.000Z",
-          "wordCount": 1741,
-          "title": "Sony’s excellent WH-1000XM4 headphones are down to a new low for Prime Day"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774658",
-          "author": "Ars Staff",
-          "description": "We picked through piles of Prime Day garbage to find the actual good stuff.",
-          "link": "https://arstechnica.com/?p=1774658",
-          "publishedOn": "2021-06-21T08:50:03.000Z",
-          "wordCount": 3971,
-          "title": "Amazon Prime Day 2021: All the deals that are actually worth your time"
         }
       ]
     },
@@ -3170,7 +3242,17 @@
       "title": "A Few Thoughts on Cryptographic Engineering",
       "feedUrl": "https://blog.cryptographyengineering.com/feed/",
       "siteUrl": "https://blog.cryptographyengineering.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://blog.cryptographyengineering.com/?p=5678",
+          "author": "Matthew Green",
+          "description": "This week a group of global newspapers is running a series of articles detailing abuses of NSO Group’s Pegasus spyware. If you haven’t seen any of these articles, they’re worth reading — and likely will continue to be so as more revelations leak out. The impetus for the stories is a leak comprising more than … Continue reading A case against security nihilism →",
+          "link": "https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/",
+          "publishedOn": "2021-07-20T19:05:16.000Z",
+          "wordCount": 2098,
+          "title": "A case against security nihilism"
+        }
+      ]
     },
     {
       "title": "Kubernetes – Production-Grade Container Orchestration",
@@ -3287,6 +3369,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159506",
+          "author": "Matt Wales",
+          "description": "If your thirst for animated video game adaptations is somehow yet to be sated despite the best efforts of Netflix and its ilk, here's another in-development adaptation to toss onto the ever-growing list: Player Unknown's Battlegrounds.\nPUBG developer Krafton Inc. has announced it's working on an animated \"project\" based on the popular battle royale title in conjunction with Adi Shankar, who served as producer and showrunner on Netflix's acclaimed Castlevania adaptation and is the creator of the streaming service's upcoming Captain Laserhawk: A Blood Dragon Remix animated series.\n\"As a player, I've been crushing the competition in the Battlegrounds since PUBG released in 2017,\" Shankar wrote in a statement accompanying the announcement. \"To me, this animated project represents another step in the evolution of mending the torched bridge between the games industry and Hollywood. I look forward to revealing to everybody what winning a chicken dinner looks like.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-20-theres-a-player-unknowns-battlegrounds-animated-adaptation-in-the-works",
+          "publishedOn": "2021-07-20T21:08:00.000Z",
+          "wordCount": 845,
+          "title": "There's a Player Unknown's Battlegrounds animated adaptation in the works"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159502",
+          "author": "Matt Wales",
+          "description": "Road 96, the intriguing procedural road trip adventure from 11-11: Memories Retold developer Digixart, will be making its way to Switch and PC next month, on 16th August.\nUnfolding during a long, hot summer in the mid-90s, Road 96 takes players on an ever-changing hitchhiking adventure across the authoritarian nation of Petria as they attempt to reach the border and start a new life.\nAlong the way, as Digixart explains, players will \"meet incredible characters, and discover their intertwined stories and secrets... But every mile opens up a choice to make. Your decisions will change your adventure, change the people you meet, maybe even change the world.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-20-procedural-road-trip-adventure-road-96-gets-august-release-date",
+          "publishedOn": "2021-07-20T19:27:00.000Z",
+          "wordCount": 734,
+          "title": "Procedural road trip adventure Road 96 gets August release date"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2159501",
+          "author": "Matt Wales",
+          "description": "Lone Echo 2, the sequel to developer Ready at Dawn's acclaimed 2017 zero-gravity VR adventure, finally - after a series of coronavirus-related delays - has a release date, and will be heading to Oculus devices on 24th August.\nLone Echo 2, which was initially announced back in 2018 for a release the following year, picks up after the events of the first game, catapulting protagonists Captain Olivia Rhodes and player-controlled android Echo One (nicknamed \"Jack\") 400 years into the future, where an abandoned space station holds the key to returning home.\nOnce again, Ready at Dawn has crafted a moody sci-fi adventure built around zero-gravity traversal and puzzling, with the developer promising \"sharp visuals\", \"complex challenges\", and \"startling discoveries\" as its \"emotional\" far-future story unfolds.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-20-ready-at-dawns-oculus-exclusive-zero-grav-sci-fi-sequel-lone-echo-2-out-in-august",
+          "publishedOn": "2021-07-20T18:27:00.000Z",
+          "wordCount": 766,
+          "title": "Ready at Dawn's Oculus-exclusive zero-gravity sci-fi sequel Lone Echo 2 out in August"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2159500",
           "author": "Matt Wales",
@@ -5878,60 +5987,6 @@
           "publishedOn": "2021-06-21T13:22:00.000Z",
           "wordCount": 848,
           "title": "Bungie steps in to shut down sales of Destiny 2's Spicy Ramen Coupon emblem"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155636",
-          "author": null,
-          "description": "Tekken X Street Fighter was \"about 30 percent done\" when it was cancelled.\nSpeaking on his YouTube series Harada's Bar, Tekken development chief Katsuhiro Harada discussed the ill-fated project, which was announced 11 years ago in July 2010 for the Xbox 360 and PlayStation 3.\nTekken X Street Fighter was a much-hyped crossover fighting game in development at Bandai Namco in collaboration with Street Fighter maker Capcom. It was meant to follow 2D fighting game Street Fighter X Tekken by mashing together characters from both series, this time in the 3D Tekken style.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-21-harada-laments-the-cancellation-of-tekken-x-street-fighter",
-          "publishedOn": "2021-06-21T12:33:00.000Z",
-          "wordCount": 983,
-          "title": "Tekken boss Katsuhiro Harada laments the cancellation of Tekken X Street Fighter"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155626",
-          "author": null,
-          "description": "Call of Duty: Warzone has a deadly door, one player recently discovered.\nRedditor Rxelik discovered a plain-looking door found in a warehouse in Salt Mines instantly downs with just a touch, and uploaded the footage to r/warzone.\nIt's not an issue isolated to Rxelik, either. This door has downed a few players since Season 4 went live last week.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-21-dont-touch-call-of-duty-warzones-deadly-door",
-          "publishedOn": "2021-06-21T12:14:00.000Z",
-          "wordCount": 841,
-          "title": "Don't touch Call of Duty: Warzone's deadly door"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155613",
-          "author": null,
-          "description": "After being interrupted during mining in the Black Forest for the thousandth time, you could be forgiven for wanting to beat up a Greydwarf with your bare hands - and thanks to the work of Valheim's modding community, you now can. Well, while holding VR controllers, I guess. \nVHVR is a community-made VR mod for Valheim that was first released back in April, and did a pretty good job of translating Valehim's Viking world into VR (even if players could only move using a standard gamepad or mouse and keyboard). Here's our own Ian Higton trying it out at the time:\nWork on the mod continued post-launch, and now VHVR has been given a game-changing update that adds motion control support. Thanks to the work of modder Maddy25 (who apparently almost single-handedly implemented many of the motion control systems), you can now interact with items in Valheim more directly. There's upper-body and finger tracking using VRIK, melee combat, bow and arrow controls, fishing, point and click building, and you can use your hands to interact with the environment. There are also custom VR controls for interacting with menus, along with switching and equipping items.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-21-valheims-community-made-vr-mod-now-has-motion-control-support",
-          "publishedOn": "2021-06-21T11:22:00.000Z",
-          "wordCount": 901,
-          "title": "Valheim's community-made VR mod now has motion controls"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155614",
-          "author": null,
-          "description": "In a message posted to PlayStation's Twitter this morning, Sony said that work on the version of the game would continue \"throughout the year\", and that \"playing on PS4 Pro or PS5 consoles is recommended\". \nEurogamer has verified the game is back on sale via the PlayStation Store on consoles and via the web.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-21-cyberpunk-2077-finally-returns-to-playstation-store-still-with-warning-not-to-buy-for-base-ps4",
-          "publishedOn": "2021-06-21T11:13:00.000Z",
-          "wordCount": 862,
-          "title": "Cyberpunk 2077 finally returns to PlayStation Store, still with warning not to buy for base PS4"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155602",
-          "author": null,
-          "description": "Pokémon Go will introduce a new costumed Pikachu variant only available in the Okinawa islands of Japan.\nIt's the first time the game has reserved a costumed Pokémon specifically for a certain region - and a small one, at that. \nImmediately, the announcement raised eyebrows among fans wanting to catch 'em all - but unable to do so due to ongoing international travel restrictions. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-21-pokemon-go-adding-new-costumed-pikachu-just-for-okinawa-islands-of-japan",
-          "publishedOn": "2021-06-21T10:48:00.000Z",
-          "wordCount": 778,
-          "title": "Pokémon Go adding new costumed Pikachu just for Okinawa islands of Japan"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2155591",
-          "author": null,
-          "description": "Star Wars Squadrons developer EA Motive is working on the revival of an established, fan-favourite IP.\nThat's according to a comment made by GamesBeat's ever-chatty Jeff Grubb, which was picked up by VGC, and which tallies with information we've also heard.\nAccording to Grubb, EA plans to announce the project at its upcoming EA Play event in just a few weeks' time. So, act surprised.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-21-report-of-ea-motive-revival-project-sets-tongues-wagging",
-          "publishedOn": "2021-06-21T10:03:00.000Z",
-          "wordCount": 762,
-          "title": "Report of EA Motive \"revival\" project sets tongues wagging"
         }
       ]
     }
