@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T18:14:01.944Z</updated>
+    <updated>2021-07-26T00:40:46.878Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Updating NGINX-Ingress to use the stable Ingress API]]></title>
+        <id>https://kubernetes.io/blog/2021/07/26/update-with-ingress-nginx/</id>
+        <link href="https://kubernetes.io/blog/2021/07/26/update-with-ingress-nginx/"/>
+        <updated>2021-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: James Strong, Ricardo Katz
+With all Kubernetes APIs, there is a process to creating, maintaining, and
+ultimately deprecating them once they become GA. The networking.k8s.io API group is no
+different. The upcoming Kubernetes 1.22 release will remove several deprecated APIs
+that are relevant to networking:
+the networking.k8s.io/v1beta1 API version of IngressClass
+all beta versions of Ingress: extensions/v1beta1 and networking.k8s.io/v1beta1
+On a v1.22 Kubernetes cluster, you'll be able to access Ingress and IngressClass
+objects through the stable (v1) APIs, but access via their beta APIs won't be possible.
+This change has been in
+in discussion since
+2017,
+2019 with
+1.16 Kubernetes API deprecations, and most recently in
+KEP-1453:
+Graduate Ingress API to GA.
+During community meetings,…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zombies rise, terrorize a town in trailer for SyFy’s Day of the Dead series]]></title>
+        <id>https://arstechnica.com/?p=1782914</id>
+        <link href="https://arstechnica.com/?p=1782914"/>
+        <updated>2021-07-25T22:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Nothing brings a town together like zombies tearing them apart]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bungie is tweaking Destiny 2's transmog system]]></title>
         <id>https://www.eurogamer.net/article.php?article_id=2160154</id>
@@ -7484,91 +7520,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The Halo TV show will reportedly lose its showrunner after season one is over.
 Variety reports lead showrunner Steven Kane will not return, should the show get picked up for a second season. Variety suggests a second season "seems likely... given the high-profile nature of the underlying IP and the high level of investment on ViacomCBS' part".
 Kane has been in Budapest, where production of the Halo TV show is ongoing, for the past two years and wants to return to the states for "personal reasons".
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Friday the 13th game was set for an Among Us-style mode before lawsuit blocked development]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2156384</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-26-friday-the-13th-game-was-set-for-an-among-us-style-mode-before-lawsuit-blocked-development"/>
-        <updated>2021-06-26T12:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Friday the 13th: The Game was set for an Among Us-style mode before a lawsuit blocked development.
-That's according to Wes Keltner, CEO of Gun Media and one of the developers of Friday the 13th.
-In a TwitLonger post, Keltner revealed a raft of content planned for the game before development was shut down in 2018 because of a messy Hollywood battle over ownership of the franchise.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circling—or cycling—the track at F1’s famous Circuit of the Americas]]></title>
-        <id>https://arstechnica.com/?p=1775718</id>
-        <link href="https://arstechnica.com/?p=1775718"/>
-        <updated>2021-06-26T11:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Be warned: Calves needed to climb all 133 feet of Turn 1 if you're using a road bike.]]></summary>
-        <author>
-            <name>Nathan Mattise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First ever WitcherCon set for July - but don't expect to see a new Witcher game]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2156377</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-26-first-ever-witchercon-set-for-july-but-dont-expect-to-see-a-new-witcher-game"/>
-        <updated>2021-06-26T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt and Netflix are set to hold the first ever WitcherCon next month - but don't expect the announcement of a brand new Witcher game.
-The "digital convention" will be streamed at 6pm UK time on 9th July, and includes "deep dives" into the making of the Witcher games, the live action series and anime film. The WitcherCon teaser is below:
-But, the official website warns, no new Witcher game will be announced.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A well-meaning feature leaves millions of Dell PCs vulnerable]]></title>
-        <id>https://arstechnica.com/?p=1776495</id>
-        <link href="https://arstechnica.com/?p=1776495"/>
-        <updated>2021-06-26T10:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Firmware security tool flaws affect as many as 30m desktops, laptops, and tablets.]]></summary>
-        <author>
-            <name>Eric Bangeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BioWare explains why the Mass Effect movie fell by the wayside]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2156373</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-26-bioware-explains-why-the-mass-effect-movie-fell-by-the-wayside"/>
-        <updated>2021-06-26T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[There was once a Mass Effect movie in the works. In 2010 EA sold off the film rights to Legendary Pictures, with then BioWare bosses Ray Muzyka and Greg Zeschuk set to work as executive producers alongside former Mass Effect chief Casey Hudson. But it failed to materialise. Why?
-In a recent interview with Business Insider, BioWare lead writer Mac Walters explained what happened.
-"It felt like we were always fighting the IP," he said. "What story are we going to tell in 90 to 120 minutes? Are we going to do it justice?"
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Demon Slayer game heads west in October]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2156369</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-26-the-demon-slayer-game-heads-west-in-october"/>
-        <updated>2021-06-26T09:28:00.000Z</updated>
-        <summary type="html"><![CDATA[The Demon Slayer game launches in this west this October, courtesy of publisher Sega.
-Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles, the official video game of the Demon Slayer: Kimetsu no Yaiba anime, launches in Europe and North America on 15th October. The new trailer in English is below:
-The game launches on PlayStation 5, PlayStation 4, Xbox Series X and S, Xbox One and PC via Steam.
-Read more]]></summary>
-        <author>
-            <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Activision defeats WWE wrestler Booker T in Call of Duty: Black Ops 4 likeness lawsuit]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2156367</id>
-        <link href="https://www.eurogamer.net/articles/2021-06-26-activision-defeats-wwe-wrestler-booker-t-in-call-of-duty-black-ops-4-likeness-lawsuit"/>
-        <updated>2021-06-26T09:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Activision has defeated WWE wrestler Booker T in a Call of Duty: Black Ops 4 likeness lawsuit.
-Booker T. Huffman claimed unlicensed use of his character 'G.I. Bro' with the character 'Prophet' from Treyarch's Call of Duty: Black Ops 4 in a lawsuit filed in February 2019.
-The lawsuit revolved around a poster Booker T commissioned and used to promote his 2015 comic, G.I. Bro and the Dragon of Death. The comic stars a "special operations hero called G.I. Bro". Prophet, from 2018's Black Ops 4, is a "cybernetically enhanced soldier". The image below compares the two characters:
 Read more]]></summary>
         <author>
             <name>Eurogamer.net | News</name>

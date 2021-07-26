@@ -339,6 +339,15 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1782914",
+          "author": "Jennifer Ouellette",
+          "description": "Nothing brings a town together like zombies tearing them apart",
+          "link": "https://arstechnica.com/?p=1782914",
+          "publishedOn": "2021-07-25T22:43:18.000Z",
+          "wordCount": 1330,
+          "title": "Zombies rise, terrorize a town in trailer for SyFy’s Day of the Dead series"
+        },
+        {
           "id": "https://arstechnica.com/?p=1782724",
           "author": "John Timmer",
           "description": "Seismograph on NASA's InSight lander is slowly imaging the Martian interior.",
@@ -3073,24 +3082,6 @@
           "publishedOn": "2021-06-26T13:00:20.000Z",
           "wordCount": 1747,
           "title": "All the major players spent time in the Denisovan cave"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775718",
-          "author": "Nathan Mattise",
-          "description": "Be warned: Calves needed to climb all 133 feet of Turn 1 if you're using a road bike.",
-          "link": "https://arstechnica.com/?p=1775718",
-          "publishedOn": "2021-06-26T11:30:47.000Z",
-          "wordCount": 1388,
-          "title": "Circling—or cycling—the track at F1’s famous Circuit of the Americas"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776495",
-          "author": "Eric Bangeman",
-          "description": "Firmware security tool flaws affect as many as 30m desktops, laptops, and tablets.",
-          "link": "https://arstechnica.com/?p=1776495",
-          "publishedOn": "2021-06-26T10:15:39.000Z",
-          "wordCount": 1071,
-          "title": "A well-meaning feature leaves millions of Dell PCs vulnerable"
         }
       ]
     },
@@ -3115,6 +3106,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/07/26/update-with-ingress-nginx/",
+          "author": null,
+          "description": "Authors: James Strong, Ricardo Katz\nWith all Kubernetes APIs, there is a process to creating, maintaining, and\nultimately deprecating them once they become GA. The networking.k8s.io API group is no\ndifferent. The upcoming Kubernetes 1.22 release will remove several deprecated APIs\nthat are relevant to networking:\nthe networking.k8s.io/v1beta1 API version of IngressClass\nall beta versions of Ingress: extensions/v1beta1 and networking.k8s.io/v1beta1\nOn a v1.22 Kubernetes cluster, you'll be able to access Ingress and IngressClass\nobjects through the stable (v1) APIs, but access via their beta APIs won't be possible.\nThis change has been in\nin discussion since\n2017,\n2019 with\n1.16 Kubernetes API deprecations, and most recently in\nKEP-1453:\nGraduate Ingress API to GA.\nDuring community meetings,…",
+          "link": "https://kubernetes.io/blog/2021/07/26/update-with-ingress-nginx/",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 3339,
+          "title": "Blog: Updating NGINX-Ingress to use the stable Ingress API"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/07/20/new-kubernetes-release-cadence/",
           "author": null,
@@ -5942,51 +5942,6 @@
           "publishedOn": "2021-06-26T12:41:00.000Z",
           "wordCount": 792,
           "title": "Halo TV show will reportedly lose its showrunner after season one is over"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156384",
-          "author": null,
-          "description": "Friday the 13th: The Game was set for an Among Us-style mode before a lawsuit blocked development.\nThat's according to Wes Keltner, CEO of Gun Media and one of the developers of Friday the 13th.\nIn a TwitLonger post, Keltner revealed a raft of content planned for the game before development was shut down in 2018 because of a messy Hollywood battle over ownership of the franchise.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-26-friday-the-13th-game-was-set-for-an-among-us-style-mode-before-lawsuit-blocked-development",
-          "publishedOn": "2021-06-26T12:11:00.000Z",
-          "wordCount": 1225,
-          "title": "The Friday the 13th game was set for an Among Us-style mode before lawsuit blocked development"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156377",
-          "author": null,
-          "description": "CD Projekt and Netflix are set to hold the first ever WitcherCon next month - but don't expect the announcement of a brand new Witcher game.\nThe \"digital convention\" will be streamed at 6pm UK time on 9th July, and includes \"deep dives\" into the making of the Witcher games, the live action series and anime film. The WitcherCon teaser is below:\nBut, the official website warns, no new Witcher game will be announced.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-26-first-ever-witchercon-set-for-july-but-dont-expect-to-see-a-new-witcher-game",
-          "publishedOn": "2021-06-26T10:33:00.000Z",
-          "wordCount": 840,
-          "title": "First ever WitcherCon set for July - but don't expect to see a new Witcher game"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156373",
-          "author": null,
-          "description": "There was once a Mass Effect movie in the works. In 2010 EA sold off the film rights to Legendary Pictures, with then BioWare bosses Ray Muzyka and Greg Zeschuk set to work as executive producers alongside former Mass Effect chief Casey Hudson. But it failed to materialise. Why?\nIn a recent interview with Business Insider, BioWare lead writer Mac Walters explained what happened.\n\"It felt like we were always fighting the IP,\" he said. \"What story are we going to tell in 90 to 120 minutes? Are we going to do it justice?\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-26-bioware-explains-why-the-mass-effect-movie-fell-by-the-wayside",
-          "publishedOn": "2021-06-26T09:55:00.000Z",
-          "wordCount": 734,
-          "title": "BioWare explains why the Mass Effect movie fell by the wayside"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156369",
-          "author": null,
-          "description": "The Demon Slayer game launches in this west this October, courtesy of publisher Sega.\nDemon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles, the official video game of the Demon Slayer: Kimetsu no Yaiba anime, launches in Europe and North America on 15th October. The new trailer in English is below:\nThe game launches on PlayStation 5, PlayStation 4, Xbox Series X and S, Xbox One and PC via Steam.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-26-the-demon-slayer-game-heads-west-in-october",
-          "publishedOn": "2021-06-26T09:28:00.000Z",
-          "wordCount": 676,
-          "title": "The Demon Slayer game heads west in October"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156367",
-          "author": null,
-          "description": "Activision has defeated WWE wrestler Booker T in a Call of Duty: Black Ops 4 likeness lawsuit.\nBooker T. Huffman claimed unlicensed use of his character 'G.I. Bro' with the character 'Prophet' from Treyarch's Call of Duty: Black Ops 4 in a lawsuit filed in February 2019.\nThe lawsuit revolved around a poster Booker T commissioned and used to promote his 2015 comic, G.I. Bro and the Dragon of Death. The comic stars a \"special operations hero called G.I. Bro\". Prophet, from 2018's Black Ops 4, is a \"cybernetically enhanced soldier\". The image below compares the two characters:\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-26-activision-defeats-wwe-wrestler-booker-t-in-call-of-duty-black-ops-4-likeness-lawsuit",
-          "publishedOn": "2021-06-26T09:06:00.000Z",
-          "wordCount": 944,
-          "title": "Activision defeats WWE wrestler Booker T in Call of Duty: Black Ops 4 likeness lawsuit"
         }
       ]
     }
