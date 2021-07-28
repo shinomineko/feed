@@ -112,15 +112,6 @@
           "publishedOn": "2021-06-30T00:00:00.000Z",
           "wordCount": 189,
           "title": "Linked List Interview Problem"
-        },
-        {
-          "id": "https://xkcd.com/2482/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/indoor_socializing.png\" title=\"The problem with learning about biology is that everyone you meet is it.\" alt=\"The problem with learning about biology is that everyone you meet is it.\" />",
-          "link": "https://xkcd.com/2482/",
-          "publishedOn": "2021-06-28T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Indoor Socializing"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/07/hiding-malware-in-ml-models.html",
+          "author": null,
+          "description": "<p>Interesting research: <a href=\"https://arxiv.org/abs/2107.08590\">&#8220;EvilModel: Hiding Malware Inside of Neural Network Models&#8221;</a>.</p>\n<blockquote><p><b>Abstract:</b> Delivering malware covertly and detection-evadingly is critical to advanced malware campaigns. In this paper, we present a method that delivers malware covertly and detection-evadingly through neural network models. Neural network models are poorly explainable and have a good generalization ability. By embedding malware into the neurons, malware can be delivered covertly with minor or even no impact on the performance of neural networks. Meanwhile, since the structure of the neural network models remains unchanged, they can pass the security scan of antivirus engines. Experiments show that 36.9MB of malware can be embedded into a 178MB-AlexNet model within 1% accuracy loss, and no suspicious are raised by antivirus engines in VirusTotal, which verifies the feasibility of this method. With the widespread application of artificial intelligence, utilizing neural networks becomes a forwarding trend of malware. We hope this work could provide a referenceable scenario for the defense on neural network-assisted attacks...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/hiding-malware-in-ml-models.html",
+          "publishedOn": "2021-07-27T11:25:59.000Z",
+          "wordCount": 2204,
+          "title": "Hiding Malware in ML Models"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/07/disrupting-ransomware-by-disrupting-bitcoin.html",
           "author": null,
@@ -348,15 +348,6 @@
           "publishedOn": "2021-06-29T14:12:45.000Z",
           "wordCount": 4295,
           "title": "Risks of Evidentiary Software"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/06/nfc-flaws-in-pos-devices-and-atms.html",
-          "author": null,
-          "description": "<p>It&#8217;s a <a href=\"https://www.wired.com/story/atm-hack-nfc-bugs-point-of-sale/\">series of vulnerabilities</a>:</p>\n<blockquote><p>Josep Rodriguez, a researcher and consultant at security firm IOActive, has spent the last year digging up and reporting vulnerabilities in the so-called near-field communications reader chips used in millions of ATMs and point-of-sale systems worldwide. NFC systems are what let you wave a credit card over a reader &#8212; rather than swipe or insert it &#8212; to make a payment or extract money from a cash machine. You can find them on countless retail store and restaurant counters, vending machines, taxis, and parking meters around the globe...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/06/nfc-flaws-in-pos-devices-and-atms.html",
-          "publishedOn": "2021-06-28T11:53:45.000Z",
-          "wordCount": 526,
-          "title": "NFC Flaws in POS Devices and ATMs"
         }
       ]
     },
@@ -365,6 +356,105 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1783549",
+          "author": "John Timmer",
+          "description": "Most honeycombs are perfect hexagons—but bees manage complex exceptions.",
+          "link": "https://arstechnica.com/?p=1783549",
+          "publishedOn": "2021-07-27T23:12:58.000Z",
+          "wordCount": 1197,
+          "title": "Mergers, twists, and pentagons: The architecture of honeycombs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783524",
+          "author": "Samuel Axon",
+          "description": "But the company warned of coming iPhone and iPad supply constraints.",
+          "link": "https://arstechnica.com/?p=1783524",
+          "publishedOn": "2021-07-27T22:10:27.000Z",
+          "wordCount": 801,
+          "title": "Apple reports a 50% year-over-year jump in iPhone sales"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783521",
+          "author": "Beth Mole",
+          "description": "Fully vaccinated people should mask up in high-transmission areas, schools.",
+          "link": "https://arstechnica.com/?p=1783521",
+          "publishedOn": "2021-07-27T20:56:57.000Z",
+          "wordCount": 1256,
+          "title": "CDC mask reversal: Vaccinated should wear masks in many settings amid surge"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783333",
+          "author": "Jennifer Ouellette",
+          "description": "A gang of mini Stay-Puft marshmallow men in a Walmart steals the show.",
+          "link": "https://arstechnica.com/?p=1783333",
+          "publishedOn": "2021-07-27T20:09:00.000Z",
+          "wordCount": 1358,
+          "title": "New Ghostbusters: Afterlife trailer teases return of lots of familiar faces"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783404",
+          "author": "Kyle Orland",
+          "description": "Organizers seek movement on diversity, pay transparency, arbitration clauses.",
+          "link": "https://arstechnica.com/?p=1783404",
+          "publishedOn": "2021-07-27T19:36:15.000Z",
+          "wordCount": 1391,
+          "title": "Activision Blizzard “Walkout for Equality” to protest management inaction"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783431",
+          "author": "Jon Brodkin",
+          "description": "Starlink and other ISPs may have to give up money that Pai shouldn't have awarded.",
+          "link": "https://arstechnica.com/?p=1783431",
+          "publishedOn": "2021-07-27T19:17:00.000Z",
+          "wordCount": 1963,
+          "title": "Ajit Pai apparently mismanaged $9 billion fund—new FCC boss starts “cleanup”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783100",
+          "author": "Ron Amadeo",
+          "description": "GCP offers a stability promise that the rest of the company could learn from.",
+          "link": "https://arstechnica.com/?p=1783100",
+          "publishedOn": "2021-07-27T19:01:12.000Z",
+          "wordCount": 1244,
+          "title": "Google Cloud offers a model for fixing Google’s product-killing reputation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783379",
+          "author": "Tim De Chant",
+          "description": "Toyota has stepped up lobbying to preserve its investments in hybrids, hydrogen.",
+          "link": "https://arstechnica.com/?p=1783379",
+          "publishedOn": "2021-07-27T18:30:49.000Z",
+          "wordCount": 1445,
+          "title": "Toyota bet wrong on EVs, so now it’s lobbying to slow the transition"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783373",
+          "author": "Sam Machkovech",
+          "description": "All Quest 2 systems pulled from shelves ahead of August price, storage refresh.",
+          "link": "https://arstechnica.com/?p=1783373",
+          "publishedOn": "2021-07-27T18:24:40.000Z",
+          "wordCount": 1124,
+          "title": "Facebook recalls 4 million Quest 2 VR face liners over “rashes and hives”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783255",
+          "author": "Jim Salter",
+          "description": "Framework's laptop isn't just repairable—it's a solid laptop in its own right.",
+          "link": "https://arstechnica.com/?p=1783255",
+          "publishedOn": "2021-07-27T16:45:53.000Z",
+          "wordCount": 2299,
+          "title": "Review: Framework’s lightweight modular laptop is a winner"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782777",
+          "author": "Eric Berger",
+          "description": "“This is the difference between taking a profit and a loss on New Glenn launches.\"",
+          "link": "https://arstechnica.com/?p=1782777",
+          "publishedOn": "2021-07-27T13:00:52.000Z",
+          "wordCount": 1398,
+          "title": "Blue Origin has a secret project named “Jarvis” to compete with SpaceX"
+        },
         {
           "id": "https://arstechnica.com/?p=1783201",
           "author": "Ron Amadeo",
@@ -3163,60 +3253,6 @@
           "publishedOn": "2021-06-28T18:05:26.000Z",
           "wordCount": 1339,
           "title": "We finally have a release date and new teaser for Apple TV+ series Foundation"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776745",
-          "author": "Tim De Chant",
-          "description": "Retailer lets bots manage many HR decisions for its Flex delivery program.",
-          "link": "https://arstechnica.com/?p=1776745",
-          "publishedOn": "2021-06-28T16:40:03.000Z",
-          "wordCount": 1432,
-          "title": "Amazon is using algorithms with little human intervention to fire Flex workers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776683",
-          "author": "Eric Berger",
-          "description": "Nauka will be the largest module the Russians have sent to the ISS.",
-          "link": "https://arstechnica.com/?p=1776683",
-          "publishedOn": "2021-06-28T16:10:00.000Z",
-          "wordCount": 986,
-          "title": "Why is Russia launching a new module to the space station if it’s pulling out?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776701",
-          "author": "Ron Amadeo",
-          "description": "Five percent faster peak CPU clock and ambiguous AI improvements launch a new SKU.",
-          "link": "https://arstechnica.com/?p=1776701",
-          "publishedOn": "2021-06-28T15:19:45.000Z",
-          "wordCount": 663,
-          "title": "Qualcomm does the bare minimum for the new Snapdragon 888 Plus SoC"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1662472",
-          "author": "Ars Staff",
-          "description": "From the archives: Revisit the work of a classic gaming emulation titan who died this week.",
-          "link": "https://arstechnica.com/?p=1662472",
-          "publishedOn": "2021-06-28T15:06:47.000Z",
-          "wordCount": 2686,
-          "title": "How SNES emulators got a few pixels from complete perfection"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776584",
-          "author": "Jennifer Ouellette",
-          "description": "SN 2018zd meets all the criteria for an \"electron-capture\" supernova.",
-          "link": "https://arstechnica.com/?p=1776584",
-          "publishedOn": "2021-06-28T15:00:16.000Z",
-          "wordCount": 1433,
-          "title": "Newly discovered supernova may be same type as the one observed in 1054"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776585",
-          "author": "Jonathan M. Gitlin",
-          "description": "There's a dizzying combination of configurations, but they all feel unstoppable.",
-          "link": "https://arstechnica.com/?p=1776585",
-          "publishedOn": "2021-06-28T10:00:54.000Z",
-          "wordCount": 1147,
-          "title": "On-road and off-road in the all-new Ford Bronco"
         }
       ]
     },
@@ -3276,15 +3312,6 @@
           "publishedOn": "2021-07-14T00:00:00.000Z",
           "wordCount": 4547,
           "title": "Blog: Kubernetes API and Feature Removals In 1.22: Here’s What You Need To Know"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/06/28/announcing-kubernetes-community-group-annual-reports/",
-          "author": null,
-          "description": "Authors: Divya Mohan\n\n     \n\n\nGiven the growth and scale of the Kubernetes project, the existing reporting mechanisms were proving to be inadequate and challenging.\nKubernetes is a large open source project. With over 100000 commits just to the main k/kubernetes repository, hundreds of other code\nrepositories in the project, and thousands of contributors, there's a lot going on. In fact, there are 37 contributor groups at the time of\nwriting. We also value all forms of contribution and not just code changes.\nWith that context in mind, the challenge of reporting on all this activity was a call to action for exploring better options. Therefore\ninspired by the Apache Software Foundation’s open guide to PMC Reporting and the\nCNCF project Annual Reporting, the Kubernetes project is proud to ann…",
-          "link": "https://kubernetes.io/blog/2021/06/28/announcing-kubernetes-community-group-annual-reports/",
-          "publishedOn": "2021-06-28T18:00:00.000Z",
-          "wordCount": 3469,
-          "title": "Blog: Announcing Kubernetes Community Group Annual Reports"
         }
       ]
     },
@@ -3369,6 +3396,159 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160518",
+          "author": "Matt Wales",
+          "description": "Activision Blizzard employees are planning a walkout tomorrow, 28th July, in protest against the company's response to a recent lawsuit from California's Department of Fair Employment and Housing alleging a \"frat boy\" work culture that created \"a breeding ground for harassment and discrimination against women\".\nActivision was quick to slam the lawsuit, strongly denying its claims and dismissing it as \"irresponsible behaviour from unaccountable State bureaucrats that are driving many of the State's best businesses out of California\".\nThat was a stance repeated in an email reportedly disseminated by Activision Blizzard executive Fran Townsend, who insisted the lawsuit \"presented a distorted and untrue picture of our company, including factually incorrect, old, and out of context stories\". Townshead continued, \"Rest assured that leadership is committed to continuing to maintain a safe, fair, and inclusive workplace. We cannot let egregious actions of others, and a truly meritless and irresponsible lawsuit, damage our culture of respect and equal opportunity for all employees.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-activision-blizzard-employees-planning-walkout-following-companys-abhorrent-response-to-discrimination-lawsuit",
+          "publishedOn": "2021-07-27T22:58:00.000Z",
+          "wordCount": 1127,
+          "title": "Activision Blizzard employees planning walkout following company's \"abhorrent\" response to discrimination lawsuit"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160516",
+          "author": "Matt Wales",
+          "description": "Facebook has temporarily halted sales of its Oculus Quest 2 headset as it takes steps to recall and replace the device's foam insert following reports it has caused facial rashes and skin irritation in some customers.\n\"As more people started using Quest 2,\" Facebook explained in its recall notice on the Oculus website, \"we received reports that a very small percentage of Quest 2 customers were experiencing skin irritation after using the Quest 2 removable foam facial interface. We've been working hard to address the issue, working with experts and making adjustments to our manufacturing process, and communicating proactively with regulators.\"\nFacebook initially announced it was investigating reports of skin irritation from Quest 2 last December, and provided an update on its findings back in April.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-facebook-temporarily-halts-oculus-quest-2-sales-recalls-foam-inserts-following-reports-of-skin-irritation",
+          "publishedOn": "2021-07-27T21:31:00.000Z",
+          "wordCount": 1039,
+          "title": "Facebook temporarily halts Oculus Quest 2 sales, recalls foam inserts following reports of skin irritation"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160505",
+          "author": "Matt Wales",
+          "description": "Monster Hunter Rise continues its schedule of crossover updates on Switch this Friday, 30th July, as Amaterasu, star of Capcom's beloved action-adventure classic Okami, joins the game.\nMore specifically, Monster Hunter Rise players will be able to acquire Amaterasu in the form of a unlockable layered armour set for their Palamute, and there's a little more to the outfit than a mere skin swap. With the Amaterasu armour equipped, Palamutes won't just resemble the beloved Okami character, they'll bound across the landscape leaving a trail of blooming flowers and leaves in their wake, as is befitting of a Sun Goddess.\nAs yet, Capcom hasn't specified what, exactly, players will need to go up against to obtain the new layered armour set, but expect a similar format to June's collaboration (which added a Palico skin themed around Monster Hunter Stories 2's Felyne Tsukino), meaning players will need to farm materials from a new event quest included as part of the update.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-okamis-amaterasu-heading-to-monster-hunter-rise-this-week",
+          "publishedOn": "2021-07-27T18:14:00.000Z",
+          "wordCount": 752,
+          "title": "Okami's Amaterasu heading to Monster Hunter Rise this week"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160460",
+          "author": "Wesley Yin-Poole",
+          "description": "Guild Wars 2's End of Dragons expansion comes out out February 2022, developer ArenaNet has announced.\nEnd of Dragons is the third expansion for the long-running fantasy MMORPG. The new trailer is below:\nEnd of Dragons is set on the lost land of Cantha, a \"multi-ethnic land of magic that is home to the oldest nation of humans in all of Tyria\", ArenaNet said. This area was first seen in 2006's Guild Wars Factions, but has been closed off in Guild Wars 2.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-guild-wars-2-end-of-dragons-expansion-out-february-2022",
+          "publishedOn": "2021-07-27T18:00:00.000Z",
+          "wordCount": 692,
+          "title": "Guild Wars 2: End of Dragons expansion out February 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160494",
+          "author": "Matt Wales",
+          "description": "Developer Draknek & Friends' acclaimed puzzler A Monster's Expedition is heading to Switch next Thursday, 5th August, and a \"major\" free expansion comes to all platforms the same day.\nA Monster's Expedition initially launched for Steam and Apple Arcade at the tail-end of last year, sending players on a wonderfully relaxing open-world puzzle adventure - in the role of the titular monster - that predominantly involves rolling logs around small, awkwardly shaped landmasses, Sokoban-style, to form bridges and access new islands.\nA few more wrinkles are added along the way, of course, often leading to some ingenious head scratchers, but A Monster's Expedition has such a natural charm, it never frustrates. \"There's no tension, no forced direction,\" wrote Chris Tapsell in his Essential review last year, \"just curiosity and momentum and a reward that feels, at times, like a welcome embrace.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-acclaimed-puzzler-a-monsters-expedition-heading-to-switch-getting-major-free-expansion-next-week",
+          "publishedOn": "2021-07-27T16:39:00.000Z",
+          "wordCount": 820,
+          "title": "Acclaimed puzzler A Monster's Expedition heading to Switch, getting \"major\" free expansion next week"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160479",
+          "author": "Ishraq Subhan",
+          "description": "A Bloodborne modder has finally restored the shortcut door behind the Cleric Beast, which connects Central Yharnam to the Cathedral Ward. \nFor some context, one of the biggest mysteries of Bloodborne is a locked door hidden behind the Cleric Beast, the first boss you are likely to encounter. But the door is inaccessible in the final version of the game: it's just a static door asset.\nHowever, in the alpha demo build, it's possible to interact with the door from the inside. The infamous Bloodborne modder Lance McDonald showed that the door was meant to lead to a pathway which served as a shortcut between Central Yharnam and the Cathedral Ward. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-bloodborne-modder-restores-shortcut-door-cut-from-final-game",
+          "publishedOn": "2021-07-27T15:29:00.000Z",
+          "wordCount": 876,
+          "title": "Bloodborne modder restores shortcut door cut from final game"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160468",
+          "author": "Wesley Yin-Poole",
+          "description": "Creative Assembly has announced the Mythos expansion for A Total War Saga: Troy as the game nears its Steam launch.\nThe strategy game came out last year as an Epic Games Store exclusive for 12 months. It was free at launch - a move that saw 7.5 million players claim a download in just 24 hours.\nBack in June 2020, Creative Assembly said this exclusivity and the free giveaway was a one-off deal for Troy, and there were no plans for future games to be Epic exclusives. The deal was about reaching a new audience, which clearly worked out.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-a-total-war-saga-troy-launches-on-steam-in-september-alongside-new-mythos-expansion-and-free-historical-mode",
+          "publishedOn": "2021-07-27T14:30:00.000Z",
+          "wordCount": 980,
+          "title": "A Total War Saga: Troy launches on Steam in September alongside new Mythos expansion and free Historical mode"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160462",
+          "author": "Emma Kent",
+          "description": "We've already heard a little about new Apex Legend Seer's abilities, but some existing characters are also getting a rejig in upcoming season Emergence, with both Caustic and Fuse due to get some buffs. \nAs explained by Gamespot, Caustic's gas will no longer deal a flat five ticks of damage per second. Instead, it will increase in damage every other second: for instance, causing 5,5,6,6,7,7 points of damage, with no limit on how much it can increase. Balancing this out, however, the gas cloud created by Caustic's Nox Gas Grenade will disappear five seconds faster. \nFuse is getting some even more significant (and much-needed) improvements, with his Knuckle Cluster lasting twice as long, and his Motherlode ability now highlighting enemies. Any enemy caught in the blast will be highlighted, even if they are hidden behind a building or wall. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-apex-legends-caustic-and-fuse-are-getting-buffs-in-emergence-patch",
+          "publishedOn": "2021-07-27T14:22:00.000Z",
+          "wordCount": 864,
+          "title": "Apex Legends' Caustic and Fuse getting buffs in Emergence patch"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160461",
+          "author": "Tom Phillips",
+          "description": "Animal Crossing: New Horizons will receive further free content later this year, Nintendo has said, thanking fans for their patience during a particularly dry spell for updates.\nThere are no details on how big these updates may be or what features they may contain. There is no word of Brewster. But, I suppose, it is something. \nA small update arrives this Thursday, 29th July, meanwhile. This adds another smattering of seasonal items and brings back the game's previous August fireworks.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-nintendo-says-it-hasnt-forgotten-animal-crossing-new-horizons",
+          "publishedOn": "2021-07-27T14:02:00.000Z",
+          "wordCount": 992,
+          "title": "Nintendo says it hasn't forgotten Animal Crossing: New Horizons"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160446",
+          "author": "Wesley Yin-Poole",
+          "description": "More than 2000 current and former Activision Blizzard employees have signed a petition calling the company's response to the recent discrimination lawsuit \"abhorrent and insulting\".\nThe open letter, first reported by Bloomberg (paywall), hits out at the company's response to the lawsuit filed last week by California's Department of Fair Employment and Housing, which alleges multiple female employees were subjected to gender discrimination, sexual harassment and unequal pay.\nAccording to CNN, this letter now has over 2000 signatories - a number that is expected to grow in the coming days.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-over-2000-current-and-former-activision-blizzard-employees-sign-petition-calling-company-response-to-discrimination-lawsuit-abhorrent-and-insulting",
+          "publishedOn": "2021-07-27T13:30:00.000Z",
+          "wordCount": 1013,
+          "title": "Over 2000 current and former Activision Blizzard employees sign petition calling company response to discrimination lawsuit \"abhorrent and insulting\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160414",
+          "author": "Wesley Yin-Poole",
+          "description": "Warhammer: Vermintide 2 has received a PlayStation 5 performance and visual update.\nThe upgrade for Fatshark's melee co-op game includes a boosted framerate of 60fps at 1440p resolution, improved shadow quality and casting, higher density scattering, and screen space reflections.\nA similar update to the game was released on Xbox Series X and S earlier this year.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-warhammer-vermintide-2-the-latest-game-to-get-a-ps5-update",
+          "publishedOn": "2021-07-27T11:01:00.000Z",
+          "wordCount": 638,
+          "title": "Warhammer: Vermintide 2 the latest game to get a PS5 update"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160409",
+          "author": "Tom Phillips",
+          "description": "This will be Fortnite's first big live event in quite some time - since last December's big Marvel season finale - and, unusually, it is coming in the middle of the game's current UFO-themed season. \nWhat do we expect to happen? Well, leaks and Epic's own legal documentation have pegged an Ariana Grande concert as coming soon - though the current state of the island suggests this will somehow be wrapped into its current alien theme. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-fortnite-countdown-sets-stage-for-live-event-next-friday",
+          "publishedOn": "2021-07-27T10:51:00.000Z",
+          "wordCount": 867,
+          "title": "Fortnite countdown sets stage for live event next Friday"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160400",
+          "author": "Emma Kent",
+          "description": "Last month we got our first look at Forza Horizon 5's beautiful Mexico setting, and if that video left you hungry for more, just take a look at these brand new screenshots. \nShared in a blog post on Xbox Wire, the screenshots (and brief video clips) provide a nice look at Forza Horizon 5's 11 \"distinct and unique biomes\". Seasons will return with Forza Horizon 5, and each of these 11 biomes will transition through the seasons differently: spring will bring the rainy season to the farmland and jungles, for instance, while summer might bring tropical storms to the coast. All on a map that's about one-and-a-half times the size of Forza Horizon 4. \n\"We knew from the beginning that we wanted this to be the biggest Forza Horizon yet. However, if we wanted to be the biggest, then we felt we also needed to offer the most diversity and contrast as well,\" said creative director Mike Brown. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-forza-horizon-5s-biomes-shown-off-in-gorgeous-new-screenshots",
+          "publishedOn": "2021-07-27T10:43:00.000Z",
+          "wordCount": 924,
+          "title": "Forza Horizon 5's biomes shown off in gorgeous new screenshots"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160397",
+          "author": "Wesley Yin-Poole",
+          "description": "The makers of a 14-year-old Grand Theft Auto: San Andreas mod have pulled it offline themselves over a fear of a takedown from Take-Two.\nGTA United is a mod based on San Andreas for PC. It unites the maps of Grand Theft Auto 3 and Grand Theft Auto Vice City in one game area within San Andreas, effectively replacing San Andreas' map.\nWork on the free, non-commercial mod began in 2006. The first beta of what was then known as \"Vice City 2 San Andreas\" came out in early 2007. The beta for \"Liberty City 2 San Andreas\" came out soon after. Then, in late 2007, the beta for a combined effort called GTA United was released. Five years later, in December 2012, GTA United 1.2 was released. It remained available ever since - until now.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-makers-of-15-year-old-gta-san-andreas-mod-were-so-worried-about-a-take-two-takedown-they-pulled-it-offline-themselves",
+          "publishedOn": "2021-07-27T10:28:00.000Z",
+          "wordCount": 1269,
+          "title": "Makers of 14-year-old GTA San Andreas mod were so worried about a takedown, they pulled it offline themselves"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160391",
+          "author": "Tom Phillips",
+          "description": "Pokémon Go developer Niantic is battling to overturn a wave of false account bans.\nThe game's anti-cheat system appears to have incorrectly flagged numerous player accounts for using \"third-party applications\" - AKA cheating software.\nLast night, after Eurogamer flagged the bans to Niantic, the developer acknowledged the problem and said it would now work to restore any affected player accounts.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-pokemon-go-battling-to-overturn-false-ban-wave",
+          "publishedOn": "2021-07-27T10:12:00.000Z",
+          "wordCount": 954,
+          "title": "Pokémon Go developer battling to overturn false ban wave"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160393",
+          "author": "Ishraq Subhan",
+          "description": "A live-action Pokémon series is in the works for Netflix.\nThat's according to Variety, which reports Joe Henderson, executive producer and co-showrunner for Lucifer, is writing and producing the show.\nThe show will apparently be similar to the Detective Pikachu movie that was released in 2019, with a mix of live-action performances and CGI creatures. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-it-looks-like-netflix-has-commissioned-a-live-action-pokemon-series",
+          "publishedOn": "2021-07-27T10:03:00.000Z",
+          "wordCount": 630,
+          "title": "It looks like Netflix has commissioned a live-action Pokémon series"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160384",
+          "author": "Wesley Yin-Poole",
+          "description": "The open beta for Splitgate was so popular the developers have delayed the game's launch to August.\n1047 said two million people had downloaded Splitgate's crossplay open beta in just two weeks, which caused server issues.\n1047's four engineers - out of a total team of 30 - took the game from 400 concurrent players to more than 75,000 concurrents in a matter of days, the developer said.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-27-splitgates-open-beta-was-so-popular-the-dev-has-delayed-launch-to-august",
+          "publishedOn": "2021-07-27T09:22:00.000Z",
+          "wordCount": 862,
+          "title": "Splitgate's open beta was so popular the dev has delayed launch to August"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2160287",
           "author": "Ishraq Subhan",
@@ -6023,51 +6203,6 @@
           "publishedOn": "2021-06-29T09:41:00.000Z",
           "wordCount": 787,
           "title": "Xbox Cloud Gaming now available to all Xbox Game Pass Ultimate subs on PC and iPhones"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156562",
-          "author": null,
-          "description": "Super Smash Bros. Ultimate will see its final DLC character released later this year, series director Masahiro Sakurai has confirmed.\nIn a video showing off DLC character Kazuya Mishima, out tomorrow, 29th June, Sakurai said the final character to be released as part of Fighters Pass Vol. 2 will be Ultimate's last.\n\"Up until now, we've created all sorts of fighters and stages,\" Sakurai said.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-28-no-more-dlc-characters-for-super-smash-bros-ultimate-after-second-fighters-pass-sakurai-confirms",
-          "publishedOn": "2021-06-28T15:20:00.000Z",
-          "wordCount": 942,
-          "title": "No more DLC characters for Super Smash Bros. Ultimate after second Fighters Pass, Sakurai confirms"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156540",
-          "author": null,
-          "description": "Last week, Valheim developer Iron Gate rolled out a patch that was intended to provide players with an extra level of challenge: enemies were tweaked to be more aggressive towards structures, meaning players would have to be more proactive about defending their homes. But some players feel Iron Gate went overboard with these changes, highlighting that the patch has resulted in some strange enemy behaviour - along with the wanton destruction of property. \nOver on the Valheim subreddit, players have argued that Valheim's monsters are now too eager to attack buildings, sometimes opting to destroy structures even when standing directly next to the player. This has led to some \"immersion-shattering\" enemy behaviour, with monsters looking uncertain about who they should be attacking. Some players, meanwhile, are simply exasperated at the amount of damage now being caused in monster raids. \n\"Earlier today I had a troll invasion and I had three trolls attacking my base non-stop,\" said Reddit user Squatch11. \"I literally couldn't get them to attack me. Half of my base was destroyed before I managed to kill them.\" \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-28-valheims-new-enemy-ai-is-absolute-anarchy-players-say",
-          "publishedOn": "2021-06-28T14:19:00.000Z",
-          "wordCount": 1340,
-          "title": "Valheim's new enemy AI is \"absolute anarchy\", players say"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156500",
-          "author": null,
-          "description": "A Grand Theft Auto 3 and Vice City reverse-engineering fan project is back online after Take-Two issued a takedown earlier this year.\nAs Eurogamer reported in February, the GTA 3 and Vice City reverse-engineering fan projects known as re3 and reVC were hit by a DMCA filed by Rockstar parent company Take-Two that claimed copyright infringement.\nThe fan-created source code for both games was made available on GitHub, offering a raft of eye-catching improvements over the original games officially available to play today on PC. (For more, check out our feature on how re3 came to be.)\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-28-gta-3-and-vice-city-reverse-engineering-fan-project-back-online-after-take-two-takedown",
-          "publishedOn": "2021-06-28T11:24:00.000Z",
-          "wordCount": 971,
-          "title": "GTA 3 and Vice City reverse-engineering fan project back online after Take-Two takedown"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156485",
-          "author": null,
-          "description": "A new Mana game is in development for console.\nThat's according to franchise producer Masaru Oyamada, who was speaking during the Mana series' 30th anniversary live stream, below (thanks, Gematsu):\n\"We wanted to announce it by running a cool trailer, but we're only at the start of the 30th anniversary,\" Oyamada said.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-28-new-mana-game-in-development-for-console",
-          "publishedOn": "2021-06-28T10:23:00.000Z",
-          "wordCount": 706,
-          "title": "New Mana game in development for console"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2156476",
-          "author": null,
-          "description": "River, the real-life dog who inspired Dogmeat from Fallout 4, has passed away.\nJoel Burgess, studio director at Capybara Games and former developer on Fallout 3, 4 and 76 at Bethesda, took to Twitter to look back at her impact on Fallout 4.\nDogmeat is a recurring dog non-player character in the Fallout series who acts as a possible companion to the player. Dogmeat is one of the most popular companions in the series, and was even a part of trailers made to promote Fallout 4.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-06-28-river-the-real-life-dog-who-inspired-dogmeat-from-fallout-4-has-passed-away",
-          "publishedOn": "2021-06-28T09:45:00.000Z",
-          "wordCount": 1315,
-          "title": "River, the real-life dog who inspired Dogmeat from Fallout 4, has passed away"
         }
       ]
     }
