@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/de-anonymization-story.html",
+          "author": null,
+          "description": "<p>This is <a href=\"https://arstechnica.com/tech-policy/2021/07/catholic-priest-quits-after-anonymized-data-revealed-alleged-use-of-grindr/\">important</a>:</p>\n<blockquote><p>Monsignor Jeffrey Burrill was general secretary of the US Conference of Catholic Bishops (USCCB), effectively the highest-ranking priest in the US who is not a bishop, before records of Grindr usage obtained from data brokers was correlated with his apartment, place of work, vacation home, family members&#8217; addresses, and more.</p>\n<p>[&#8230;]</p>\n<p>The data that resulted in Burrill’s ouster was <a href=\"https://www.pillarcatholic.com/p/pillar-investigates-usccb-gen-sec\">reportedly obtained</a> through legal means. Mobile carriers sold­ &#8212; and still sell &#8212; ­location data to brokers who aggregate it and sell it to a range of buyers, including advertisers, ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/de-anonymization-story.html",
+          "publishedOn": "2021-07-28T11:03:57.000Z",
+          "wordCount": 664,
+          "title": "De-anonymization Story"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/hiding-malware-in-ml-models.html",
           "author": null,
           "description": "<p>Interesting research: <a href=\"https://arxiv.org/abs/2107.08590\">&#8220;EvilModel: Hiding Malware Inside of Neural Network Models&#8221;</a>.</p>\n<blockquote><p><b>Abstract:</b> Delivering malware covertly and detection-evadingly is critical to advanced malware campaigns. In this paper, we present a method that delivers malware covertly and detection-evadingly through neural network models. Neural network models are poorly explainable and have a good generalization ability. By embedding malware into the neurons, malware can be delivered covertly with minor or even no impact on the performance of neural networks. Meanwhile, since the structure of the neural network models remains unchanged, they can pass the security scan of antivirus engines. Experiments show that 36.9MB of malware can be embedded into a 178MB-AlexNet model within 1% accuracy loss, and no suspicious are raised by antivirus engines in VirusTotal, which verifies the feasibility of this method. With the widespread application of artificial intelligence, utilizing neural networks becomes a forwarding trend of malware. We hope this work could provide a referenceable scenario for the defense on neural network-assisted attacks...</p></blockquote>",
@@ -3199,60 +3208,6 @@
           "publishedOn": "2021-06-29T12:00:50.000Z",
           "wordCount": 1713,
           "title": "Physicists confirm two cases of “elusive” black hole/neutron star mergers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776882",
-          "author": "Beth Mole",
-          "description": "Despite unproven efficacy, Biogen set the drug’s list price at $56,000 per year.",
-          "link": "https://arstechnica.com/?p=1776882",
-          "publishedOn": "2021-06-28T23:07:12.000Z",
-          "wordCount": 1041,
-          "title": "Controversial Alzheimer’s drug could cost US $334B—nearly half of DoD budget"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776858",
-          "author": "Jon Brodkin",
-          "description": "AT&T to investors: Fiber is the best! AT&T to gov't: Don't give rural people fiber!",
-          "link": "https://arstechnica.com/?p=1776858",
-          "publishedOn": "2021-06-28T21:31:28.000Z",
-          "wordCount": 1906,
-          "title": "AT&T gives investors and gov’t wildly different takes on need for fiber Internet"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776840",
-          "author": "Sam Machkovech",
-          "description": "Requires $15/mo Game Pass Ultimate sub; follows last week's Series X server upgrade.",
-          "link": "https://arstechnica.com/?p=1776840",
-          "publishedOn": "2021-06-28T19:55:08.000Z",
-          "wordCount": 1209,
-          "title": "Xbox Game Streaming exits beta, now works on all iOS devices, web browsers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776833",
-          "author": "John Timmer",
-          "description": "A new analysis checks the water available in different planets' atmospheres.",
-          "link": "https://arstechnica.com/?p=1776833",
-          "publishedOn": "2021-06-28T19:42:24.000Z",
-          "wordCount": 1508,
-          "title": "Venus’ clouds too dry, acidic for life"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776791",
-          "author": "Jim Salter",
-          "description": "Want voice recognition but don't trust Alexa? The Linux Foundation has your back.",
-          "link": "https://arstechnica.com/?p=1776791",
-          "publishedOn": "2021-06-28T18:31:15.000Z",
-          "wordCount": 1027,
-          "title": "The Linux Foundation is working to improve voice recognition ethics"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776719",
-          "author": "Jennifer Ouellette",
-          "description": "First three episodes will debut on September 24, with weekly episodes after that.",
-          "link": "https://arstechnica.com/?p=1776719",
-          "publishedOn": "2021-06-28T18:05:26.000Z",
-          "wordCount": 1339,
-          "title": "We finally have a release date and new teaser for Apple TV+ series Foundation"
         }
       ]
     },
@@ -3396,6 +3351,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160582",
+          "author": "Wesley Yin-Poole",
+          "description": "Halo Infinite's first multiplayer technical preview is confirmed for this weekend.\nIn emails sent out to those invited to take part, developer 343 said the preview runs from tomorrow, 29th July to 1st August.\nInstructions on how to download the pre-release build will be sent in the next few days via email and Waypoint message, the invitation reads.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-28-halo-infinite-multiplayer-technical-preview-confirmed-for-this-weekend",
+          "publishedOn": "2021-07-28T10:37:00.000Z",
+          "wordCount": 776,
+          "title": "Halo Infinite multiplayer technical preview confirmed for this weekend"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160578",
+          "author": "Wesley Yin-Poole",
+          "description": "Activision Blizzard boss Bobby Kotick has told staff that the company's initial response to the recently-filed discrimination lawsuit was \"tone deaf\".\n\"Our initial responses to the issues we face together, and to your concerns, were, quite frankly, tone deaf,\" Kotick said in an open letter to company staff that was made public last night.\n\"It is imperative that we acknowledge all perspectives and experiences and respect the feelings of those who have been mistreated in any way. I am sorry that we did not provide the right empathy and understanding.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-28-activision-blizzard-boss-bobby-kotick-tells-staff-companys-initial-response-to-discrimination-lawsuit-was-tone-deaf",
+          "publishedOn": "2021-07-28T10:32:00.000Z",
+          "wordCount": 1138,
+          "title": "Activision Blizzard boss Bobby Kotick tells staff company's initial response to discrimination lawsuit was \"tone deaf\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160575",
+          "author": "Ishraq Subhan",
+          "description": "Krispy Kreme UK has partnered up with Xbox to create a limited edition doughnut.  \nCalled \"The Nexus Level,\", it's made with \"irresistible light and fluffy dough with a rich and gooey brownie batter, dipped in icing and decorated with the iconic Xbox Nexus design.\". \nTo accompany this, the most significant of all game product launches, Krispy Kreme released a video that parodies Microsoft's Xbox One X reveal trailer.  \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-28-you-can-get-yourself-an-xbox-doughnut-this-august",
+          "publishedOn": "2021-07-28T10:27:00.000Z",
+          "wordCount": 748,
+          "title": "You can get yourself an Xbox doughnut this August"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2160518",
           "author": "Matt Wales",
