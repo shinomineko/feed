@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-02T00:00:00.000Z",
           "wordCount": 183,
           "title": "H-alpha"
-        },
-        {
-          "id": "https://xkcd.com/2483/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/linked_list_interview_problem.png\" title=\"I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.\" alt=\"I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.\" />",
-          "link": "https://xkcd.com/2483/",
-          "publishedOn": "2021-06-30T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Linked List Interview Problem"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/07/airdropped-gun-photo-causes-terrorist-scare.html",
+          "author": null,
+          "description": "<p>A teenager on an airplane <a href=\"https://www.forbes.com/sites/suzannerowankelleher/2021/07/25/apple-airdrop-threat-united-airlines-flight/?sh=6b38ad6ffe39\">sent a photo</a> of a replica gun via AirDrop to everyone who had their settings configured to receive unsolicited photos from strangers. This caused a three-hour delay as the plane &#8212; still at the gate &#8212; was evacuated and searched.</p>\n<p>The teen was not allowed to reboard. I can&#8217;t find any information about whether he was charged with any of those vague &#8220;terrorist threat&#8221; crimes.</p>\n<p>It&#8217;s been a long time since we&#8217;ve had one of <a href=\"https://www.schneier.com/essays/archives/2007/11/how_we_won_the_war_o.html\">these sorts of overreactions</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/airdropped-gun-photo-causes-terrorist-scare.html",
+          "publishedOn": "2021-07-29T11:52:48.000Z",
+          "wordCount": 381,
+          "title": "AirDropped Gun Photo Causes Terrorist Scare"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/07/de-anonymization-story.html",
           "author": null,
@@ -365,6 +365,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1780284",
+          "author": "Ars Staff",
+          "description": "From activists to families, FFVII's cautionary, planetary tale still resonates.",
+          "link": "https://arstechnica.com/?p=1780284",
+          "publishedOn": "2021-07-29T11:15:34.000Z",
+          "wordCount": 1507,
+          "title": "How Final Fantasy VII radicalized a generation of climate warriors"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783815",
+          "author": "Dan Goodin",
+          "description": "Hackers continue to exploit publicly known—and often dated—software vulnerabilities.",
+          "link": "https://arstechnica.com/?p=1783815",
+          "publishedOn": "2021-07-29T11:00:27.000Z",
+          "wordCount": 1006,
+          "title": "Feds list the top 30 most exploited vulnerabilities. Many are years old"
+        },
         {
           "id": "https://arstechnica.com/?p=1783803",
           "author": "Beth Mole",
@@ -3199,60 +3217,6 @@
           "publishedOn": "2021-06-30T13:00:24.000Z",
           "wordCount": 998,
           "title": "Relativity to open a huge factory that measures up to its grand ambitions"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777136",
-          "author": "John Timmer",
-          "description": "Rigetti will build its machines from smaller parts instead of a monolithic chip.",
-          "link": "https://arstechnica.com/?p=1777136",
-          "publishedOn": "2021-06-29T21:33:06.000Z",
-          "wordCount": 1098,
-          "title": "Quantum-computing startup Rigetti to offer modular processors"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777110",
-          "author": "Jonathan M. Gitlin",
-          "description": "Lexus shook up the luxury car world in 1989, but how does it stack up in 2021?",
-          "link": "https://arstechnica.com/?p=1777110",
-          "publishedOn": "2021-06-29T20:49:41.000Z",
-          "wordCount": 1694,
-          "title": "The Lexus LS500 is beautifully crafted, but some tech shows its age"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777051",
-          "author": "Samuel Axon",
-          "description": "It's not the first time Netflix changes hit Android first, iOS later.",
-          "link": "https://arstechnica.com/?p=1777051",
-          "publishedOn": "2021-06-29T19:56:10.000Z",
-          "wordCount": 777,
-          "title": "Netflix once again introduces new features for Android, but not iOS (yet)"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777105",
-          "author": "Dan Goodin",
-          "description": "Company still hasn't revealed the cause of this serious security lapse.",
-          "link": "https://arstechnica.com/?p=1777105",
-          "publishedOn": "2021-06-29T19:50:06.000Z",
-          "wordCount": 1045,
-          "title": "Microsoft digitally signs malicious rootkit driver"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777092",
-          "author": "Beth Mole",
-          "description": "The settlement follows years of allegations that Juul egregiously targeted youth.",
-          "link": "https://arstechnica.com/?p=1777092",
-          "publishedOn": "2021-06-29T19:17:29.000Z",
-          "wordCount": 961,
-          "title": "Juul to pay N.C. $40M and stop targeting kids after igniting vaping “epidemic“"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776570",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has deals on indoor security cams and Steam Summer Sale picks.",
-          "link": "https://arstechnica.com/?p=1776570",
-          "publishedOn": "2021-06-29T18:46:08.000Z",
-          "wordCount": 1770,
-          "title": "Today’s best tech deals: Apple AirPods Max, Xbox Game Pass Ultimate, and more"
         }
       ]
     },
@@ -3405,6 +3369,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160784",
+          "author": "Tom Phillips",
+          "description": "Sony has deployed its first PlayStation 5 system software update for beta testers - including the ability to test M.2 SSD storage expansions, even if it sounds a little fiddly. \nThe update also adds a number of useful software features, and try a version of 3D Audio for any built-in TV speaker. According to Sony, players can measure the acoustics of their room using the DualSense microphone and choose a setting best suited to their surroundings. \nMeanwhile, changes to the PS5 software itself mean beta testers will now be able to see the PS4 and PS5 versions of the same game separately on the Home screen and Game Library, with a game's tile labelled as the appropriate platform.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-29-playstation-5-system-beta-now-shows-ps4-and-ps5-versions-of-same-game-separately",
+          "publishedOn": "2021-07-29T11:15:00.000Z",
+          "wordCount": 809,
+          "title": "PlayStation 5 system beta now shows PS4 and PS5 versions of same game separately"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160775",
+          "author": "Emma Kent",
+          "description": "It's not every day a mod wins a national writing award, but the quality of the story in Skyrim mod The Forgotten City was enough to see it pick up an Australian Writers' Guild Award back in 2016. The mod was downloaded over 3m times, and it's now taken on a new form, as the mod has been transformed into a standalone game. \nThe Forgotten City released yesterday on PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S. It's been updated with professional voice acting, new gameplay mechanics, a new orchestral score and a significant overhaul of the original script. \"If you liked the mod, you're going to love the standalone game,\" says the Steam description. \"We've taken the best elements of the mod, re-written the script, which is now more than twice the length of the original at 80k+ words, and added plenty of exciting new twists, endings, and surprises.\"\nIn terms of gameplay, The Forgotten City is a murder mystery game set in a cursed Roman city where \"if one person sins, everyone dies\". Players must explore, question characters and exploit a time loop in order to solve the mystery. Combat is an option, but apparently this will only get you so far. There are moral dilemmas, multiple endings and opportunities to roleplay - all in a city filled with historically authentic Roman \"art, architecture, costumes and customs\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-29-award-winning-skyrim-mod-the-forgotten-city-launches-as-fully-fledged-standalone-game",
+          "publishedOn": "2021-07-29T11:00:00.000Z",
+          "wordCount": 885,
+          "title": "Award-winning Skyrim mod The Forgotten City launches as standalone game"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160767",
+          "author": "Tom Phillips",
+          "description": "Former World of Warcraft senior creative director Alex Afrasiabi was fired last summer following an internal investigation, Activision Blizzard has now said. \nAfrasiabi's departure had been known, though the details surrounding it - including new and disturbing details of a 2013 BlizzCon hotel room nicknamed the \"Cosby suite\" - have only now been publicly confirmed following a Kotaku report. \nIn a statement issued to Kotaku last night, an Activision Blizzard spokesperson revealed an internal investigation into the \"Cosby Suite\" had taken place in June 2020, following a separate investigation of Afrasiabi. As a result, Afrasiabi was \"terminated... for his misconduct in his treatment of other employees\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-29-blizzard-confirms-former-warcraft-boss-fired-for-misconduct-in-his-treatment-of-other-employees",
+          "publishedOn": "2021-07-29T10:33:00.000Z",
+          "wordCount": 1053,
+          "title": "Blizzard confirms former Warcraft boss fired for \"misconduct in his treatment of other employees\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160763",
+          "author": "Ishraq Subhan",
+          "description": "It looks like support for the PlayStation 5's SSD expansion slot is finally coming. \nSony has published a new support page on how to add an M.2 SSD to a PS5. \nFirmware which supports M.2 SSDs is only available to beta users right now, but will be enabled for everyone in an upcoming system update. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-29-sony-recommends-well-lit-room-screwdriver-and-probably-a-flashlight-to-add-ps5-ssd",
+          "publishedOn": "2021-07-29T10:20:00.000Z",
+          "wordCount": 808,
+          "title": "Sony recommends well-lit room, screwdriver and probably a flashlight to add PS5 SSD"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160756",
+          "author": "Emma Kent",
+          "description": "Ember Lab's action-adventure title Kena: Bridge of Spirits has been delayed once again, with the game now due to release on 21st September. \nThe developer cited the need to \"polish the game across all platforms\" as the reason for the delay. \n\"The team has been working extremely hard and we feel the extra time is critical to ensure the best experience possible,\" Ember Lab said in a statement on Twitter. \"We know many of you are eager to play and we appreciate your patience as the team continues to work on delivering the best version of Kena. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-29-kena-bridge-of-spirits-delayed-until-september",
+          "publishedOn": "2021-07-29T09:23:00.000Z",
+          "wordCount": 712,
+          "title": "Kena: Bridge of Spirits delayed until September"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160751",
+          "author": "Ishraq Subhan",
+          "description": "James Bond's iconic 1963 Aston Martin DB5 is now in Rocket League. \nThe car will come with the authentic engine audio and a unique set of wheels and decal that can only be equipped with this car. \nYou can get your hands on it for 1100 credits in the Item Shop for a limited time. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-29-james-bonds-aston-martin-is-now-in-rocket-league",
+          "publishedOn": "2021-07-29T09:23:00.000Z",
+          "wordCount": 646,
+          "title": "James Bond's Aston Martin is now in Rocket League"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2160707",
           "author": "Matt Wales",
