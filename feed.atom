@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T06:12:28.332Z</updated>
+    <updated>2021-07-30T12:12:26.035Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Storing Encrypted Photos in Google’s Cloud]]></title>
+        <id>https://www.schneier.com/blog/archives/2021/07/storing-encrypted-photos-in-googles-cloud.html</id>
+        <link href="https://www.schneier.com/blog/archives/2021/07/storing-encrypted-photos-in-googles-cloud.html"/>
+        <updated>2021-07-30T11:34:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>New paper: &#8220;<a href="https://www.cs.columbia.edu/~nieh/pubs/mobisys2021_esp.pdf">Encrypted Cloud Photo Storage Using Google Photos</a>&#8220;:</p>
+<blockquote><p><b>Abstract:</b> Cloud photo services are widely used for persistent, convenient, and often free photo storage, which is especially useful for mobile devices. As users store more and more photos in the cloud, significant privacy concerns arise because even a single compromise of a user&#8217;s credentials give attackers unfettered access to all of the user&#8217;s photos. We have created Easy Secure Photos (ESP) to enable users to protect their photos on cloud photo services such as Google Photos. ESP introduces a new client-side encryption architecture that includes a novel format-preserving image encryption algorithm, an encrypted thumbnail display mechanism, and a usable key management system. ESP encrypts image data such that the result is still a standard format image like JPEG that is compatible with cloud photo services. ESP efficiently generates and displays encrypted thumbnails for fast and easy browsing of photo galleries from trusted user devices. ESP&#8217;s key management makes it simple to authorize multiple user devices to view encrypted image content via a process similar to device pairing, but using the cloud photo service as a QR code communication channel. We have implemented ESP in a popular Android photos app for use with Google Photos and demonstrate that it is easy to use and provides encryption functionality transparently to users, maintains good interactive performance and image quality while providing strong privacy guarantees, and retains the sharing and storage benefits of Google Photos without any changes to the cloud service...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New bank-fraud malware called Vultur infects thousands of devices]]></title>
+        <id>https://arstechnica.com/?p=1784095</id>
+        <link href="https://arstechnica.com/?p=1784095"/>
+        <updated>2021-07-30T11:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Screen sharing courtesy of VNC mirrors device screens to attacker-controlled servers.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: Ariane V returns after long layoff, Rocket Lab’s tough culture]]></title>
+        <id>https://arstechnica.com/?p=1783940</id>
+        <link href="https://arstechnica.com/?p=1783940"/>
+        <updated>2021-07-30T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA["Pete told us that key contributors would be driving Ferraris to work in a year."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft staff say company "continues to protect and promote known offenders and their allies"]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2160966</id>
+        <link href="https://www.eurogamer.net/articles/2021-07-30-ubisoft-staff-say-company-continues-to-protect-and-promote-known-offenders-and-their-allies"/>
+        <updated>2021-07-30T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA["It's exhausting, frustrating and it's counter to the messaging they give us." That was the reaction of one Ubisoft developer to CEO Yves Guillemot's email to staff last night.
+On Wednesday, nearly 500 current and former Ubisoft employees (we understand this figure is now over 1000) across 32 studios, signed an open letter in solidarity with Activision Blizzard staff following a recent lawsuit that called the World of Warcraft and Overwatch studio "a breeding ground for harassment and discrimination against women".
+The letter slammed Ubisoft leadership's "empty promises" in response to allegations of "systemic discrimination, harassment and bullying" within the company, and proposed an industry wide collaboration to agree a set of "rules and processes for handling reports of these offences".
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New FIFA 22 trailer gives us a first taste of gameplay]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2160974</id>
+        <link href="https://www.eurogamer.net/articles/2021-07-30-new-fifa-22-trailer-gives-us-a-first-taste-of-gameplay"/>
+        <updated>2021-07-30T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[EA Sports has released a new trailer for FIFA 22.
+It's mostly just marketing points, but it does provide the first brief snippets of gameplay throughout that give us an idea of how the game will look on PlayStation 5 and the Xbox Series consoles. 
+The focal point of FIFA 22 is what EA calls HyperMotion Technology, which combines full-team mocap data and machine learning. The idea is to make player movement feel more fluid and natural. This has led to 4000 new animations in the game.
+Read more]]></summary>
+        <author>
+            <name>Ishraq Subhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forza Motorsport 7 will be delisted after just four years]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2160960</id>
+        <link href="https://www.eurogamer.net/articles/2021-07-30-forza-motorsport-7-will-be-delisted-after-just-four-years"/>
+        <updated>2021-07-30T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Forza Motorsport 7 will reach "End of Life status" on 15th September, developer Turn 10 Studios has announced. 
+That means you will no longer be able to purchase the game or its DLC from the Microsoft Store after that date, nor will it be available on Xbox Game Pass.
+Existing owners will still be able to download and play the game after the date, and online services will continue to run. 
+Read more]]></summary>
+        <author>
+            <name>Ishraq Subhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian module suddenly fires thrusters after docking with space station]]></title>
         <id>https://arstechnica.com/?p=1784020</id>
@@ -8085,86 +8155,6 @@ Due for launch on 29th July, Arcsmith tasks you with learning to build sci-fi ga
 Read more]]></summary>
         <author>
             <name>Eurogamer.net | News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delta variant’s wild spread raises fears, fresh scrutiny of CDC mask guidance]]></title>
-        <id>https://arstechnica.com/?p=1777452</id>
-        <link href="https://arstechnica.com/?p=1777452"/>
-        <updated>2021-06-30T22:48:31.000Z</updated>
-        <summary type="html"><![CDATA[States with low vaccination rates are already seeing a delta surge.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon doesn’t like FTC chair Lina Khan’s views, wants her off investigations]]></title>
-        <id>https://arstechnica.com/?p=1777406</id>
-        <link href="https://arstechnica.com/?p=1777406"/>
-        <updated>2021-06-30T20:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Sensing a changing antitrust landscape, Amazon fires a warning shot.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not just OLED: LG is about to release its first Mini LED TVs]]></title>
-        <id>https://arstechnica.com/?p=1777286</id>
-        <link href="https://arstechnica.com/?p=1777286"/>
-        <updated>2021-06-30T20:27:46.000Z</updated>
-        <summary type="html"><![CDATA[New TV models hit the US in July, the rest of the world a few weeks later.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood ordered to pay $70m penalty to US regulator]]></title>
-        <id>https://arstechnica.com/?p=1777375</id>
-        <link href="https://arstechnica.com/?p=1777375"/>
-        <updated>2021-06-30T19:37:03.000Z</updated>
-        <summary type="html"><![CDATA[It's the largest penalty the Financial Industry Regulatory Authority has ever ordered.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More vaccine progress: This time, it’s malaria]]></title>
-        <id>https://arstechnica.com/?p=1777363</id>
-        <link href="https://arstechnica.com/?p=1777363"/>
-        <updated>2021-06-30T19:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Two recent papers describe strong protection against a difficult parasite.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink’s “next-generation” user terminal will cost a lot less, Musk says]]></title>
-        <id>https://arstechnica.com/?p=1777328</id>
-        <link href="https://arstechnica.com/?p=1777328"/>
-        <updated>2021-06-30T19:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Musk expects near-global coverage in August and up to 500,000 users in one year.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A weird take on frame rate: How PS5’s first “40 fps” game works, runs]]></title>
-        <id>https://arstechnica.com/?p=1777279</id>
-        <link href="https://arstechnica.com/?p=1777279"/>
-        <updated>2021-06-30T18:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Not the same as Ratchet & Clank: Rift Apart's 60 fps mode. We dive into the difference.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone]]></title>
-        <id>https://arstechnica.com/?p=1777299</id>
-        <link href="https://arstechnica.com/?p=1777299"/>
-        <updated>2021-06-30T18:30:44.000Z</updated>
-        <summary type="html"><![CDATA[This high-tech webcam also offers an IR sensor for Windows Hello compatibility.]]></summary>
-        <author>
-            <name>Jim Salter</name>
         </author>
     </entry>
 </feed>

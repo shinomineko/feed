@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/07/storing-encrypted-photos-in-googles-cloud.html",
+          "author": null,
+          "description": "<p>New paper: &#8220;<a href=\"https://www.cs.columbia.edu/~nieh/pubs/mobisys2021_esp.pdf\">Encrypted Cloud Photo Storage Using Google Photos</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Cloud photo services are widely used for persistent, convenient, and often free photo storage, which is especially useful for mobile devices. As users store more and more photos in the cloud, significant privacy concerns arise because even a single compromise of a user&#8217;s credentials give attackers unfettered access to all of the user&#8217;s photos. We have created Easy Secure Photos (ESP) to enable users to protect their photos on cloud photo services such as Google Photos. ESP introduces a new client-side encryption architecture that includes a novel format-preserving image encryption algorithm, an encrypted thumbnail display mechanism, and a usable key management system. ESP encrypts image data such that the result is still a standard format image like JPEG that is compatible with cloud photo services. ESP efficiently generates and displays encrypted thumbnails for fast and easy browsing of photo galleries from trusted user devices. ESP&#8217;s key management makes it simple to authorize multiple user devices to view encrypted image content via a process similar to device pairing, but using the cloud photo service as a QR code communication channel. We have implemented ESP in a popular Android photos app for use with Google Photos and demonstrate that it is easy to use and provides encryption functionality transparently to users, maintains good interactive performance and image quality while providing strong privacy guarantees, and retains the sharing and storage benefits of Google Photos without any changes to the cloud service...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/07/storing-encrypted-photos-in-googles-cloud.html",
+          "publishedOn": "2021-07-30T11:34:12.000Z",
+          "wordCount": 561,
+          "title": "Storing Encrypted Photos in Google’s Cloud"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/07/airdropped-gun-photo-causes-terrorist-scare.html",
           "author": null,
           "description": "<p>A teenager on an airplane <a href=\"https://www.forbes.com/sites/suzannerowankelleher/2021/07/25/apple-airdrop-threat-united-airlines-flight/?sh=6b38ad6ffe39\">sent a photo</a> of a replica gun via AirDrop to everyone who had their settings configured to receive unsolicited photos from strangers. This caused a three-hour delay as the plane &#8212; still at the gate &#8212; was evacuated and searched.</p>\n<p>The teen was not allowed to reboard. I can&#8217;t find any information about whether he was charged with any of those vague &#8220;terrorist threat&#8221; crimes.</p>\n<p>It&#8217;s been a long time since we&#8217;ve had one of <a href=\"https://www.schneier.com/essays/archives/2007/11/how_we_won_the_war_o.html\">these sorts of overreactions</a>.</p>",
@@ -365,6 +374,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1784095",
+          "author": "Dan Goodin",
+          "description": "Screen sharing courtesy of VNC mirrors device screens to attacker-controlled servers.",
+          "link": "https://arstechnica.com/?p=1784095",
+          "publishedOn": "2021-07-30T11:30:30.000Z",
+          "wordCount": 1200,
+          "title": "New bank-fraud malware called Vultur infects thousands of devices"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783940",
+          "author": "Eric Berger",
+          "description": "\"Pete told us that key contributors would be driving Ferraris to work in a year.\"",
+          "link": "https://arstechnica.com/?p=1783940",
+          "publishedOn": "2021-07-30T11:00:03.000Z",
+          "wordCount": 1758,
+          "title": "Rocket Report: Ariane V returns after long layoff, Rocket Lab’s tough culture"
+        },
         {
           "id": "https://arstechnica.com/?p=1784020",
           "author": "Eric Berger",
@@ -3217,78 +3244,6 @@
           "publishedOn": "2021-07-01T11:50:37.000Z",
           "wordCount": 1229,
           "title": "If this is the electric Volvo of 2026, the future might not be all bad"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777452",
-          "author": "Beth Mole",
-          "description": "States with low vaccination rates are already seeing a delta surge.",
-          "link": "https://arstechnica.com/?p=1777452",
-          "publishedOn": "2021-06-30T22:48:31.000Z",
-          "wordCount": 1463,
-          "title": "Delta variant’s wild spread raises fears, fresh scrutiny of CDC mask guidance"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777406",
-          "author": "Tim De Chant",
-          "description": "Sensing a changing antitrust landscape, Amazon fires a warning shot.",
-          "link": "https://arstechnica.com/?p=1777406",
-          "publishedOn": "2021-06-30T20:43:23.000Z",
-          "wordCount": 1273,
-          "title": "Amazon doesn’t like FTC chair Lina Khan’s views, wants her off investigations"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777286",
-          "author": "Samuel Axon",
-          "description": "New TV models hit the US in July, the rest of the world a few weeks later.",
-          "link": "https://arstechnica.com/?p=1777286",
-          "publishedOn": "2021-06-30T20:27:46.000Z",
-          "wordCount": 901,
-          "title": "Not just OLED: LG is about to release its first Mini LED TVs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777375",
-          "author": "Financial Times",
-          "description": "It's the largest penalty the Financial Industry Regulatory Authority has ever ordered.",
-          "link": "https://arstechnica.com/?p=1777375",
-          "publishedOn": "2021-06-30T19:37:03.000Z",
-          "wordCount": 871,
-          "title": "Robinhood ordered to pay $70m penalty to US regulator"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777363",
-          "author": "John Timmer",
-          "description": "Two recent papers describe strong protection against a difficult parasite.",
-          "link": "https://arstechnica.com/?p=1777363",
-          "publishedOn": "2021-06-30T19:36:47.000Z",
-          "wordCount": 1551,
-          "title": "More vaccine progress: This time, it’s malaria"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777328",
-          "author": "Jon Brodkin",
-          "description": "Musk expects near-global coverage in August and up to 500,000 users in one year.",
-          "link": "https://arstechnica.com/?p=1777328",
-          "publishedOn": "2021-06-30T19:09:53.000Z",
-          "wordCount": 1353,
-          "title": "Starlink’s “next-generation” user terminal will cost a lot less, Musk says"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777279",
-          "author": "Sam Machkovech",
-          "description": "Not the same as Ratchet & Clank: Rift Apart's 60 fps mode. We dive into the difference.",
-          "link": "https://arstechnica.com/?p=1777279",
-          "publishedOn": "2021-06-30T18:50:46.000Z",
-          "wordCount": 1746,
-          "title": "A weird take on frame rate: How PS5’s first “40 fps” game works, runs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1777299",
-          "author": "Jim Salter",
-          "description": "This high-tech webcam also offers an IR sensor for Windows Hello compatibility.",
-          "link": "https://arstechnica.com/?p=1777299",
-          "publishedOn": "2021-06-30T18:30:44.000Z",
-          "wordCount": 1141,
-          "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone"
         }
       ]
     },
@@ -3441,6 +3396,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160966",
+          "author": "Wesley Yin-Poole",
+          "description": "\"It's exhausting, frustrating and it's counter to the messaging they give us.\" That was the reaction of one Ubisoft developer to CEO Yves Guillemot's email to staff last night.\nOn Wednesday, nearly 500 current and former Ubisoft employees (we understand this figure is now over 1000) across 32 studios, signed an open letter in solidarity with Activision Blizzard staff following a recent lawsuit that called the World of Warcraft and Overwatch studio \"a breeding ground for harassment and discrimination against women\".\nThe letter slammed Ubisoft leadership's \"empty promises\" in response to allegations of \"systemic discrimination, harassment and bullying\" within the company, and proposed an industry wide collaboration to agree a set of \"rules and processes for handling reports of these offences\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-30-ubisoft-staff-say-company-continues-to-protect-and-promote-known-offenders-and-their-allies",
+          "publishedOn": "2021-07-30T10:47:00.000Z",
+          "wordCount": 1329,
+          "title": "Ubisoft staff say company \"continues to protect and promote known offenders and their allies\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160974",
+          "author": "Ishraq Subhan",
+          "description": "EA Sports has released a new trailer for FIFA 22.\nIt's mostly just marketing points, but it does provide the first brief snippets of gameplay throughout that give us an idea of how the game will look on PlayStation 5 and the Xbox Series consoles. \nThe focal point of FIFA 22 is what EA calls HyperMotion Technology, which combines full-team mocap data and machine learning. The idea is to make player movement feel more fluid and natural. This has led to 4000 new animations in the game.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-30-new-fifa-22-trailer-gives-us-a-first-taste-of-gameplay",
+          "publishedOn": "2021-07-30T10:46:00.000Z",
+          "wordCount": 700,
+          "title": "New FIFA 22 trailer gives us a first taste of gameplay"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2160960",
+          "author": "Ishraq Subhan",
+          "description": "Forza Motorsport 7 will reach \"End of Life status\" on 15th September, developer Turn 10 Studios has announced. \nThat means you will no longer be able to purchase the game or its DLC from the Microsoft Store after that date, nor will it be available on Xbox Game Pass.\nExisting owners will still be able to download and play the game after the date, and online services will continue to run. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-07-30-forza-motorsport-7-will-be-delisted-after-just-four-years",
+          "publishedOn": "2021-07-30T09:43:00.000Z",
+          "wordCount": 784,
+          "title": "Forza Motorsport 7 will be delisted after just four years"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2160913",
           "author": "Matt Wales",
