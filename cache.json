@@ -375,6 +375,15 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1785379",
+          "author": "Sam Machkovech",
+          "description": "As a beta, Turtle Rock's co-op return already feels like a full-fledged L4D sequel.",
+          "link": "https://arstechnica.com/?p=1785379",
+          "publishedOn": "2021-08-06T01:39:18.000Z",
+          "wordCount": 1918,
+          "title": "Back 4 Blood beta impressions: A template for potential co-op greatness"
+        },
+        {
           "id": "https://arstechnica.com/?p=1785443",
           "author": "Jon Brodkin",
           "description": "Apple offers technical details, claims 1-in-1 trillion chance of false positives.",
@@ -3235,51 +3244,6 @@
           "publishedOn": "2021-07-07T18:59:45.000Z",
           "wordCount": 1257,
           "title": "The Chime banking app has been closing accounts, not returning money"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778652",
-          "author": "WIRED",
-          "description": "Everyone hates the old ways of authentication. But change comes with its own drawbacks.",
-          "link": "https://arstechnica.com/?p=1778652",
-          "publishedOn": "2021-07-07T17:10:20.000Z",
-          "wordCount": 1563,
-          "title": "Why the password isn’t dead quite yet"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778296",
-          "author": "Eric Berger",
-          "description": "\"It does no good to throw Blue Origin under the bus.\"",
-          "link": "https://arstechnica.com/?p=1778296",
-          "publishedOn": "2021-07-07T16:17:41.000Z",
-          "wordCount": 1958,
-          "title": "Increasingly, the ULA-Blue Origin marriage is an unhappy one"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778628",
-          "author": "Tim De Chant",
-          "description": "Executive order comes amid growing state, federal push to open repair process.",
-          "link": "https://arstechnica.com/?p=1778628",
-          "publishedOn": "2021-07-07T16:00:13.000Z",
-          "wordCount": 1284,
-          "title": "Biden’s right-to-repair order could stop companies from blocking DIY fixes"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778619",
-          "author": "John Timmer",
-          "description": "If the researchers are right, globular clusters may end up full of black holes.",
-          "link": "https://arstechnica.com/?p=1778619",
-          "publishedOn": "2021-07-07T15:35:59.000Z",
-          "wordCount": 1182,
-          "title": "Cluster full of black holes may be spitting out stars"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778606",
-          "author": "Ars Staff",
-          "description": "Ars meets the college engineers who hope to revolutionize racing.",
-          "link": "https://arstechnica.com/?p=1778606",
-          "publishedOn": "2021-07-07T15:16:03.000Z",
-          "wordCount": 1981,
-          "title": "No driver? No problem—this is the Indy Autonomous Challenge"
         }
       ]
     },
@@ -3313,6 +3277,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/08/06/server-side-apply-ga/",
+          "author": null,
+          "description": "Authors: Jeffrey Ying, Google & Joe Betz, Google\nServer-side Apply (SSA) has been promoted to GA in the Kubernetes v1.22 release. The GA milestone means you can depend on the feature and its API, without fear of future backwards-incompatible changes. GA features are protected by the Kubernetes deprecation policy.\nWhat is Server-side Apply?\nServer-side Apply helps users and controllers manage their resources through declarative configurations. Server-side Apply replaces the client side apply feature implemented by “kubectl apply” with a server-side implementation, permitting use by tools/clients other than kubectl. Server-side Apply is a new merging algorithm, as well as tracking of field ownership, running on the Kubernetes api-server. Server-side Apply enables new features like conflict d…",
+          "link": "https://kubernetes.io/blog/2021/08/06/server-side-apply-ga/",
+          "publishedOn": "2021-08-06T00:00:00.000Z",
+          "wordCount": 4321,
+          "title": "Blog: Kubernetes 1.22: Server Side Apply moves to GA"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/08/04/kubernetes-1-22-release-announcement/",
           "author": null,
@@ -3427,15 +3400,6 @@
           "publishedOn": "2021-07-14T14:30:00.000Z",
           "wordCount": 1135,
           "title": "Corey Writes Open-Source Code for Lambda and Tailscale"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=10601",
-          "author": "Corey Quinn",
-          "description": "I once said that AWS has launched so many services that I could talk about a service that didn't really exist and not get called out for it–by AWS employees. Sure enough, last week saw the rise of AWS Infinidash, an imaginary AWS service that doesn't (at the time of this writing) really exist.\nThe post The Lessons of AWS Infinidash appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/the-lessons-of-aws-infinidash/",
-          "publishedOn": "2021-07-07T14:30:00.000Z",
-          "wordCount": 1159,
-          "title": "The Lessons of AWS Infinidash"
         }
       ]
     },
@@ -6402,60 +6366,6 @@
           "publishedOn": "2021-07-07T19:53:00.000Z",
           "wordCount": 1013,
           "title": "Frostpunk's three expansions finally coming to PlayStation and Xbox at the end of July"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157713",
-          "author": null,
-          "description": "Switch owners with a taste for cracking yarns, urban fantasy, and a smattering of demonic possession have a bit of a treat in store; developer Wadjet Eye's superb point-and-click adventure Unavowed is available on Nintendo's platform from today.\nUnavowed - which is the work of Dave Gilbert, the designer behind Wadjet Eye's renowned Blackwell series - was enormously well-received when it released on PC back in 2018, receiving much acclaim for its ambitious structure and wonderfully compelling storyline.\nIt sees players taking on the role of a (somewhat definable) character who's spent the last year terrorising New York City in a demonically possessed frenzy - and who now, after intervention from a crack team of supernatural specialists, finds themselves in the employ of an ancient, evil-battling secret society and ready to put their recent mistakes right.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-07-wadjet-eyes-acclaimed-urban-fantasy-adventure-unavowed-is-now-available-on-switch",
-          "publishedOn": "2021-07-07T17:53:00.000Z",
-          "wordCount": 883,
-          "title": "Wadjet Eye's acclaimed urban fantasy adventure Unavowed is now on Switch"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157692",
-          "author": null,
-          "description": "Rockstar has given Red Dead Online players a glimpse of what is to come in next week's Blood Money update.\nIn a new trailer, below, fans are introduced to Guido Martelli in Saint Denis, and can expect to receive new clothing, passes, and robberies when the Blood Money update launches on 13th July.\nBlood Money offers a new type of work known as Crimes. This ranges from cloak and dagger coach holdups to multi-stage robberies including kidnapping and brutal debt collections. You can play Crimes either by yourself or with a full team alongside you.  \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-07-rockstar-details-red-dead-onlines-blood-money-update-with-new-trailer",
-          "publishedOn": "2021-07-07T16:25:00.000Z",
-          "wordCount": 843,
-          "title": "Rockstar details Red Dead Online's Blood Money update with new trailer"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157685",
-          "author": null,
-          "description": "Konami has cancelled its contract with Antoine Griezmann after a video in which the France and Barcelona star appears to ridicule Asian hotel staff resurfaced this week.\nThe Snapchat video, which appears to show Griezmann as well as teammate Ousmane Dembele mocking Asian technicians during Barcelona's tour of Japan in 2019, has sparked a vociferous backlash amid racism allegations.\nAccording to ESPN, in the video Dembele says to Griezmann: \"All these ugly faces, just so you can play PES, aren't you ashamed?\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-07-konami-dumps-france-and-barcelona-star-antoine-griezmann-after-racism-allegations",
-          "publishedOn": "2021-07-07T15:18:00.000Z",
-          "wordCount": 933,
-          "title": "Konami dumps France and Barcelona star Antoine Griezmann after racism allegations"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157667",
-          "author": null,
-          "description": "A popular third-party Call of Duty: Warzone stats tracker app is back online after its creators held successful talks with Activision.\nWarzone Tracker was one of a number of overlay apps on the Overwolf network that were disabled earlier this year following an update to the battle royale.\nThis update, issued in response to an Activision API terms of service breach by a separate app on the Overwolf framework, had the knock-on effect of blocking Overwolf entirely, preventing its use while the PC version of Warzone was in use.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-07-popular-third-party-call-of-duty-warzone-stats-tracker-app-back-online-after-successful-talks-with-activision",
-          "publishedOn": "2021-07-07T13:51:00.000Z",
-          "wordCount": 1131,
-          "title": "Call of Duty: Warzone stats tracker app back online after successful talks with Activision"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157649",
-          "author": null,
-          "description": "UPDATE 2.25PM UK:  Ubisoft has now formally acknowledged Assassin's Creed Infinity and detailed more of how it will be run, and who will work on it. \nThe lengthy blog post contains mention of two teams led by two creative directors. Clint Hocking, formerly of Splinter Cell and Watch Dogs Legion, will lead a team at Ubisoft Montreal. Jonathan Dumont, a veteran of Assassin's Creed Syndicate and Odyssey, will lead a team at Ubisoft Quebec.\nThe Infinity project that will include the games made by both these teams will be led by Marc-Alexis Côté, who will now serve as executive producer of the entire Assassin's Creed franchise. Côté worked on Brotherhood before becoming creative director on Syndicate, and is one of the most senior staff at Ubisoft Quebec.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-07-assassins-creed-infinity-is-a-live-service-platform-connecting-future-games",
-          "publishedOn": "2021-07-07T13:35:00.000Z",
-          "wordCount": 1285,
-          "title": "Assassin's Creed Infinity is a live service platform connecting future games"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157645",
-          "author": null,
-          "description": "Red Dead Online players can now enter some of the banks.\nIn a recent post on reddit, one player shared a video of them walking into Rhodes Bank claiming the bank was unlocked.\nThe banks have been closed since Red Dead Online launched in May 2019.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-07-red-dead-online-pc-players-can-now-enter-some-of-the-banks",
-          "publishedOn": "2021-07-07T13:03:00.000Z",
-          "wordCount": 744,
-          "title": "Red Dead Online PC players can now enter some of the banks"
         }
       ]
     }
