@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/08/squid-dog-toy.html",
+          "author": null,
+          "description": "<p>It&#8217;s <a href=\"https://kibblebakery.com/products/p-l-a-y-giant-squid-dog-toy\">sold out</a>, but the pictures are cute.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/squid-dog-toy.html",
+          "publishedOn": "2021-08-06T21:05:38.000Z",
+          "wordCount": 549,
+          "title": "Squid Dog Toy"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/08/using-master-faces-to-bypass-face-recognition-authenticating-systems.html",
           "author": null,
           "description": "<p>Fascinating research: &#8220;<a href=\"https://arxiv.org/pdf/2108.01077.pdf\">Generating Master Faces for Dictionary Attacks with a Network-Assisted Latent Space Evolution</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> A master face is a face image that passes face-based identity-authentication for a large portion of the population. These faces can be used to impersonate, with a high probability of success, any user, without having access to any user-information. We optimize these faces, by using an evolutionary algorithm in the latent embedding space of the StyleGAN face generator. Multiple evolutionary strategies are compared, and we propose a novel approach that employs a neural network in order to direct the search in the direction of promising samples, without adding fitness evaluations. The results we present demonstrate that it is possible to obtain a high coverage of the population (over 40%) with less than 10 master faces, for three leading deep face recognition systems...</p></blockquote>",
@@ -383,6 +392,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1785573",
+          "author": "Samuel Axon",
+          "description": "It's not a surprise to iOS users, but it's still a disappointment.",
+          "link": "https://arstechnica.com/?p=1785573",
+          "publishedOn": "2021-08-06T22:14:58.000Z",
+          "wordCount": 828,
+          "title": "Spotify calls off plans to support AirPlay 2, frustrating iPhone users"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785528",
+          "author": "Jon Brodkin",
+          "description": "FTC says Facebook privacy settlement doesn't require blocking researchers.",
+          "link": "https://arstechnica.com/?p=1785528",
+          "publishedOn": "2021-08-06T19:00:41.000Z",
+          "wordCount": 1678,
+          "title": "Facebook blocks research into political ads, falsely blames FTC privacy order"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785526",
+          "author": "Sam Machkovech",
+          "description": "Promo is back for every \"first Friday\" of 2021—one of many reasons to use the service.",
+          "link": "https://arstechnica.com/?p=1785526",
+          "publishedOn": "2021-08-06T18:44:13.000Z",
+          "wordCount": 1188,
+          "title": "Why I love Bandcamp: Waived-fee Fridays, solid app, no DRM, more"
+        },
         {
           "id": "https://arstechnica.com/?p=1785499",
           "author": "Ron Amadeo",
@@ -3217,15 +3253,6 @@
           "publishedOn": "2021-07-08T15:09:16.000Z",
           "wordCount": 1101,
           "title": "Four new electric platforms, five gigafactories: Stellantis’ EV plan"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1778671",
-          "author": "Ars Contributors",
-          "description": "How a special design increased the efficiency of an ancient watermill.",
-          "link": "https://arstechnica.com/?p=1778671",
-          "publishedOn": "2021-07-08T10:45:53.000Z",
-          "wordCount": 1596,
-          "title": "Reconstructing Roman industrial engineering"
         }
       ]
     },
@@ -3415,6 +3442,15 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162028",
+          "author": "Matt Wales",
+          "description": "Kerbal Space Program studio Squad has finally brought development of its acclaimed space flight sim to a close, over a decade after the game's first public release.\nKerbal Space Program - which initially launched into early access via Squad's website in 2011 - gives players the opportunity to build and pilot their own fully-functional spaceships, rockets, and vehicles (while managing all aspects their alien race's quest for the stars if they choose), using actual proper science-y systems, from realistic aerodynamic to orbital physics.\nSince leaving early access back in 2015, Kerbal Space Program has remained in active development, receiving numerous updates and expansions along the way - there's even a free \"next-gen\" update for PS5 and Xbox Series X/S due this autumn. However, Squad has now confirmed - after warning players the space flight sim's 1.12 update would be its last major release back in June - that its decade-plus-long journey is officially at an end.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-06-after-more-than-a-decade-development-of-kerbal-space-program-has-come-to-an-end",
+          "publishedOn": "2021-08-06T19:06:00.000Z",
+          "wordCount": 926,
+          "title": "After more than a decade, development of Kerbal Space Program has come to an end"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2162017",
           "author": "Matt Wales",
@@ -6384,51 +6420,6 @@
           "publishedOn": "2021-07-08T13:45:00.000Z",
           "wordCount": 655,
           "title": "Surgeon Simulator 2 launches for Steam, Xbox in September"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157785",
-          "author": null,
-          "description": "A modder has restored Guilty Gear Strive's original China-related lore entry following a backlash to developer Arc System Works' decision to stealth remove it.\nAs Eurogamer reported last week, a recent Guilty Gear Strive patch stealth removed reference to Uyghur, Tibet and Taiwan in a China-related lore entry.\nNeither Guilty Gear Strive publisher Bandai Namco nor developer Arc System Works have commented, despite repeated requests from Eurogamer.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-08-decensor-mod-restores-guilty-gear-strives-original-china-related-lore-entry",
-          "publishedOn": "2021-07-08T10:54:00.000Z",
-          "wordCount": 985,
-          "title": "\"Decensor\" mod restores Guilty Gear Strive's original China-related lore entry"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157774",
-          "author": null,
-          "description": "A new cheat that uses machine learning has sparked concern it could ruin competitive play on console.\nThe in-development cheat, brought to light by the Anti-Cheat Police Department Twitter account this week, claims to use machine learning to analyse gameplay footage in real-time before sending inputs to your controller.\nEurogamer will not disclose the name of the cheat or publish the original video.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-08-new-machine-learning-cheat-threatens-competitive-console-play",
-          "publishedOn": "2021-07-08T10:28:00.000Z",
-          "wordCount": 1032,
-          "title": "New machine learning cheat threatens competitive console play"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157762",
-          "author": null,
-          "description": "DICE LA has been rebranded as Ripple Effect Studios. \nThe Los Angeles-based studio has previously assisted DICE on its Battlefield series, and is doing so again with the upcoming Battlefield 2042 - more on that below.\nBut Ripple Effect Studios is also now creating its own new project, after Vince Zampella, boss of Apex Legends and Star Wars Jedi: Fallen Order developer Respawn Entertainment, took on an expanded role in January as \"head coach\" of the now-renamed team.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-08-battlefield-developer-dice-la-renamed-to-ripple-effect-studios",
-          "publishedOn": "2021-07-08T10:00:00.000Z",
-          "wordCount": 862,
-          "title": "Battlefield developer DICE LA renamed to Ripple Effect Studios"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157758",
-          "author": null,
-          "description": "Capcom has now sold 4.5m copies of Resident Evil Village. \nThat's a steady uptick from the last couple of sales milestones announced by the publisher - 3m at launch in May, then up to 4m after 20 days. \nVillage's predecessor Resident Evil 7 has shifted 9m copies since its launch in 2017, though only sold 3.5m after nine weeks. Village is selling faster, then, and looks on track to potentially overtake 7 as the biggest-selling entry in the series.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-08-resident-evil-village-sales-pass-4-5m",
-          "publishedOn": "2021-07-08T09:30:00.000Z",
-          "wordCount": 699,
-          "title": "Resident Evil Village sales pass 4.5m"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2157755",
-          "author": null,
-          "description": "Among Us' new Irish localisation has been described as \"a cultural win for a thriving minority language\" by one of the people who worked on it.\nThe monster hit game received a new update yesterday, and with it brought Irish localisation. Among Us is perhaps the biggest game ever to receive an Irish localisation, although it is not the first.\n\"It's a MASSIVE win for a minority language and one of many I hope!\" Úna-Minh Kavanagh, who spearheaded the project, said in a post on Twitter.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-08-among-us-irish-localisation-a-cultural-win-for-a-thriving-minority-language",
-          "publishedOn": "2021-07-08T09:10:00.000Z",
-          "wordCount": 859,
-          "title": "Among Us Irish localisation \"a cultural win for a thriving minority language\""
         }
       ]
     }
