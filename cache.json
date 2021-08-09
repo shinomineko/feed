@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2500/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png\" title=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" alt=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" />",
+          "link": "https://xkcd.com/2500/",
+          "publishedOn": "2021-08-09T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Global Temperature Over My Lifetime"
+        },
+        {
           "id": "https://xkcd.com/2499/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/abandonment_function.png\" title=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" alt=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" />",
@@ -383,6 +392,60 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1785736",
+          "author": "Ron Amadeo",
+          "description": "Epic details Google's alleged attempts to stop it from skipping the Play Store.",
+          "link": "https://arstechnica.com/?p=1785736",
+          "publishedOn": "2021-08-09T17:36:00.000Z",
+          "wordCount": 1182,
+          "title": "Google allegedly considered buying Epic Games to silence antitrust complaints"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785645",
+          "author": "Eric Berger",
+          "description": "Holding back Starship means holding back this progress, Musk was saying.",
+          "link": "https://arstechnica.com/?p=1785645",
+          "publishedOn": "2021-08-09T17:29:38.000Z",
+          "wordCount": 1225,
+          "title": "With a single photo, SpaceX sent a not-so-subtle message to FAA regulators"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1784919",
+          "author": "Jennifer Ouellette",
+          "description": "The new particle has two charmed quarks, one up antiquark, and one down antiquark.",
+          "link": "https://arstechnica.com/?p=1784919",
+          "publishedOn": "2021-08-09T17:11:26.000Z",
+          "wordCount": 1239,
+          "title": "Physicists discover new kind of tetraquark—the longest-lived yet found"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785740",
+          "author": "Jon Brodkin",
+          "description": "Apple defends scanning after memo called privacy advocates \"screeching voices.\"",
+          "link": "https://arstechnica.com/?p=1785740",
+          "publishedOn": "2021-08-09T15:20:07.000Z",
+          "wordCount": 1437,
+          "title": "Apple says it will refuse gov’t demands to expand photo-scanning beyond CSAM"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785708",
+          "author": "Scott K. Johnson",
+          "description": "We now know some new things, and we still know some old things.",
+          "link": "https://arstechnica.com/?p=1785708",
+          "publishedOn": "2021-08-09T14:25:40.000Z",
+          "wordCount": 1813,
+          "title": "New IPCC climate report is the clearest guidebook for selecting a future"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785672",
+          "author": "Jim Salter",
+          "description": "A new class of passive TEMPEST attack converts LED output into intelligible audio.",
+          "link": "https://arstechnica.com/?p=1785672",
+          "publishedOn": "2021-08-09T13:00:41.000Z",
+          "wordCount": 1422,
+          "title": "New “Glowworm attack” recovers audio from devices’ power LEDs"
+        },
         {
           "id": "https://arstechnica.com/?p=1785587",
           "author": "Jim Salter",
@@ -3080,6 +3143,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/08/09/run-nodes-with-swap-alpha/",
+          "author": null,
+          "description": "Author: Elana Hashman (Red Hat)\nThe 1.22 release introduced alpha support for configuring swap memory usage for\nKubernetes workloads on a per-node basis.\nIn prior releases, Kubernetes did not support the use of swap memory on Linux,\nas it is difficult to provide guarantees and account for pod memory utilization\nwhen swap is involved. As part of Kubernetes' earlier design, swap support was\nconsidered out of scope, and a kubelet would by default fail to start if swap\nwas detected on a node.\nHowever, there are a number of use cases\nthat would benefit from Kubernetes nodes supporting swap, including improved\nnode stability, better support for applications with high memory overhead but\nsmaller working sets, the use of memory-constrained devices, and memory\nflexibility.\nHence, over the past two …",
+          "link": "https://kubernetes.io/blog/2021/08/09/run-nodes-with-swap-alpha/",
+          "publishedOn": "2021-08-09T00:00:00.000Z",
+          "wordCount": 3887,
+          "title": "Blog: New in Kubernetes v1.22: alpha support for using swap memory"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/08/06/server-side-apply-ga/",
           "author": null,
           "description": "Authors: Jeffrey Ying, Google & Joe Betz, Google\nServer-side Apply (SSA) has been promoted to GA in the Kubernetes v1.22 release. The GA milestone means you can depend on the feature and its API, without fear of future backwards-incompatible changes. GA features are protected by the Kubernetes deprecation policy.\nWhat is Server-side Apply?\nServer-side Apply helps users and controllers manage their resources through declarative configurations. Server-side Apply replaces the client side apply feature implemented by “kubectl apply” with a server-side implementation, permitting use by tools/clients other than kubectl. Server-side Apply is a new merging algorithm, as well as tracking of field ownership, running on the Kubernetes api-server. Server-side Apply enables new features like conflict d…",
@@ -3235,6 +3307,114 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162316",
+          "author": "Matt Wales",
+          "description": "No Man's Sky isn't the only video game with its party hat on today; developer Ghost Town's chaotic culinary party game Overcooked: All You Can Eat is celebrating the Overcooked series' recent 5th birthday with a free update, bringing new levels, a new chef, and more.\nOvercooked, which tasks players with working together to frantically assemble meals and fulfil customer orders within a time limit (while also trying to navigate the peculiarities of some wildly impractical kitchens at the same time), initially launched on 3rd August 2016 - and has been causing heated arguments with loved-ones ever since.\nOn the game's actual fifth birthday last Monday, Ghost Town announced it would be releasing some free anniversary treats for owners of Overcooked: All You Can Eat (the recently released remaster bundle of Overcooked 1, 2, and its DLC) and the update has now arrived on PlayStation, Xbox, Switch, and PC.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-overcooked-all-you-can-eat-celebrates-series-fifth-anniversary-with-free-new-levels-and-more",
+          "publishedOn": "2021-08-09T16:52:00.000Z",
+          "wordCount": 834,
+          "title": "Overcooked: All You Can Eat celebrates series' fifth anniversary with free new levels and more"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162301",
+          "author": "Wesley Yin-Poole",
+          "description": "Microsoft has launched Xbox Cloud Gaming in beta form on PC for Xbox Game Pass Ultimate subscribers who are also part of the Insider program.\nXbox Cloud Gaming arrives on Windows 10 PCs via the Xbox App. You can pick up from a saved game you started on your Xbox, or perhaps try a game out on PC before deciding if you want to download it to your console.\nTo use Xbox Cloud Gaming you need to connect a compatible controller via Bluetooth or USB. Launch the Xbox app, click the 'cloud games' button, then select your game to start playing.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-xbox-cloud-gaming-launches-in-beta-form-on-pc-for-game-pass-ultimate-members",
+          "publishedOn": "2021-08-09T15:49:00.000Z",
+          "wordCount": 777,
+          "title": "Xbox Cloud Gaming launches in beta form on PC for Game Pass Ultimate members"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162287",
+          "author": "Tom Phillips",
+          "description": "Cookie Clicker, the ultimate time-wasting browser game, gets a release for Steam on 1st September.\nEight years after its first launch, Cookie Clicker will be yours to buy for $4.99 in a version which supports Steam Achievements and cloud saving - so you'll never accidentally delete your browser cookies ever again.\nThere's also a soundtrack by C418, the composer of Minecraft, as well as multi-language support. Otherwise, it's the same bizarre baking program you remember.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-infamous-idle-game-cookie-clicker-is-getting-a-steam-release",
+          "publishedOn": "2021-08-09T15:18:00.000Z",
+          "wordCount": 710,
+          "title": "Infamous idle game Cookie Clicker is getting a Steam release"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162270",
+          "author": "Ishraq Subhan",
+          "description": "Ninja Theory's 2017 action-adventure, Hellblade: Senua's Sacrifice, is now optimised for the Xbox Series X/S. \nThe news was announced in a trailer full of gameplay but light on the exact details of the optimisations. \nA more detailed look at the changes are detailed here. Both consoles have three graphics modes: \"Performance\", \"Resolution\", and \"Enriched\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-hellblade-senuas-sacrifice-is-now-optimised-for-xbox-series-x-s",
+          "publishedOn": "2021-08-09T14:31:00.000Z",
+          "wordCount": 832,
+          "title": "Hellblade: Senua's Sacrifice is now optimised for Xbox Series X/S"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162268",
+          "author": "Wesley Yin-Poole",
+          "description": "Darksiders 3 launches on Nintendo Switch on 30th September, publisher THQ Nordic\nHas announced.\nThe Nintendo Switch version comes with both DLCs, Keepers of the Void and The Crucible, and costs £34.99.\nDarksiders 3 is Gunfire Games' post-apocalyptic action adventure game in which you play Fury, one of the Four Horsemen of the Apocalypse who hunts down the Seven Deadly Sins. It launched first on PC, PlayStation 4 and Xbox One in November 2018. Check out Eurogamer's Darksiders 3 review for more.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-darksiders-3-hits-nintendo-switch-at-the-end-of-september",
+          "publishedOn": "2021-08-09T14:28:00.000Z",
+          "wordCount": 592,
+          "title": "Darksiders 3 hits Nintendo Switch end of September"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162258",
+          "author": "Emma Kent",
+          "description": "It seems we'll be waiting a little longer for cross-progression to finally be implemented in Apex Legends, as Respawn has confirmed the feature will not arrive until next year. \nDirector of communications Ryan K. Rigney explained in a Reddit AMA that the feature was \"gnarly as hell in terms of being a problem to solve,\" citing technical and logistical difficulties as being two reasons for the long wait. \n\"It's not only that you have to solve the technical challenge of merging existing accounts, but there are also legal and contractual issues to navigate with purchasing on other platforms,\" he explained. \"Different regions have different laws. It's a mess. But we're working on it, and we're committed to delivering it.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-dont-expect-apex-legends-cross-progression-until-next-year",
+          "publishedOn": "2021-08-09T14:13:00.000Z",
+          "wordCount": 834,
+          "title": "Don't expect Apex Legends cross-progression until next year"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162256",
+          "author": "Tom Phillips",
+          "description": "Netflix has given us our best look yet at The Witcher: Nightmare of the Wolf, the upcoming animated prequel to its live-action series.\nToday's new, two-minute trailer gives us a glimpse at its star Vesemir as a young boy undergoing Witcher training, before the action moves on to some of the monster slaying and questing we've gotten glimpses of already.\nAs you'd expect, there are bathtubs and coins and beasts aplenty. Let's watch:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-our-best-look-yet-at-the-witchers-animated-prequel",
+          "publishedOn": "2021-08-09T13:58:00.000Z",
+          "wordCount": 726,
+          "title": "Our best look yet at The Witcher's animated prequel"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162247",
+          "author": "Ishraq Subhan",
+          "description": "F1 2021 has had quite a volatile release on PlayStation 5. \nBack in July, Codemasters released a patch that temporarily disabled ray-tracing to aid the game's stability. Since patch 1.05, this has been fixed and ray-tracing has been reinstated. \nBut now with its latest patch, 1.06, another PS5-specific feature has been removed: 3D Audio. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-codemasters-pulls-out-3d-audio-and-puts-back-ray-tracing-in-f1-2021-on-ps5",
+          "publishedOn": "2021-08-09T13:37:00.000Z",
+          "wordCount": 720,
+          "title": "Codemasters pulls out 3D Audio and puts back ray-tracing in F1 2021 on PS5"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162243",
+          "author": "Tom Phillips",
+          "description": "The 4X strategy game will finally roll out next Tuesday, 17th August, after several delays. It had originally been due in 2020.\nAll of that extra work appears to be paying off, though. We've played a fair bit of Humankind now, and Eurogamer's strategy buff Chris Tapsell reckons it has \"that special something\" in both its mechanics and ambition.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-humankind-will-launch-straight-into-xbox-game-pass-on-pc",
+          "publishedOn": "2021-08-09T13:28:00.000Z",
+          "wordCount": 724,
+          "title": "Humankind will launch straight into Xbox Game Pass on PC"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162236",
+          "author": "Tom Phillips",
+          "description": "This year's controversial and disrupted Olympic Games have now concluded - and as the BBC finishes its coverage, the broadcaster has given viewers a tour behind the scenes of its virtual studio. \nFortnite gets a namecheck in the explainer video below, hosted by the BBC's Dan Walker and Sam Quek, as it's revealed how everything except the presenters' chairs and table was a creation of Unreal Engine. \nUnreal Engine is commonly used in film and TV production either to create virtual studios or surroundings, or to mock up in real-time how an effects-based shot might look with live-action actors in frame. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-as-the-olympics-concludes-bbc-tours-its-unreal-engine-powered-studio",
+          "publishedOn": "2021-08-09T13:04:00.000Z",
+          "wordCount": 678,
+          "title": "As the Olympics concludes, BBC tours its Unreal Engine-powered studio"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162031",
+          "author": "Matt Wales",
+          "description": "No Man's Sky is celebrating five (extremely eventful) years since launch today, and developer Hello Games has served up a tiny tease for the exploratory space sim's next big update, Frontiers, as part of the festivities.\nWhile No Man's Sky soothing exploratory rhythm certainly found its fans at launch on 9th August 2016, its arrival was infamously marked by immediate and sustained controversy when players discovered some of the features discussed prior to its release were absent from the final game. Hello Games has embarked on a truly staggering post-launch development journey since then, and has now put out a total of 16 named - and in some cases utterly transformative - updates for the ever-expanding space sim.\nWe've seen the introduction of base building, bobbleheads, farming, cross-platform multiplayer, VR support, giant customisable space freighters, land and water vehicles, pilotable mechs, living ships, alien-infested space derelicts, new flora and fauna, pets, live-service-style community expeditions, music tools, major overhauls to the game's planetary generation tech, spicy visual enhancements for new-gen consoles, sand worms (finally!), and more.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-no-mans-sky-celebrates-fifth-birthday-with-tiny-tease-for-new-frontiers-update",
+          "publishedOn": "2021-08-09T13:00:00.000Z",
+          "wordCount": 873,
+          "title": "No Man's Sky celebrates fifth birthday with tiny tease for new Frontiers update"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162233",
+          "author": "Ishraq Subhan",
+          "description": "The developer of Back 4 Blood, Turtle Rock Studios, has confirmed the game will not have a campaign versus mode. \nIn an FAQ thread in the studio's official Discord server, it stated: \"We do not have plans to have a campaign versus mode at this time\".  \nBack 4 Blood does have a versus mode, allowing two teams to take it in turns to fight each other as the Cleaners and the Ridden. But there is no campaign level akin to Left 4 Dead, where players would have to fight through player-controlled zombies to get to the safe house. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-back-4-blood-will-not-have-campaign-versus-mode",
+          "publishedOn": "2021-08-09T12:31:00.000Z",
+          "wordCount": 819,
+          "title": "Back 4 Blood will not have campaign versus mode"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2162214",
           "author": "Wesley Yin-Poole",
