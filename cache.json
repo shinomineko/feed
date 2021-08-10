@@ -393,6 +393,60 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1785938",
+          "author": "Beth Mole",
+          "description": "Cases have been identified in Kansas, Texas, Minnesota, and Georgia.",
+          "link": "https://arstechnica.com/?p=1785938",
+          "publishedOn": "2021-08-09T22:03:34.000Z",
+          "wordCount": 1124,
+          "title": "4th person in US mysteriously stricken with deadly bacteria from South Asia"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785916",
+          "author": "Jon Brodkin",
+          "description": "Rick Bright warned US wasn't ready for COVID. He was demoted and Trump called him a \"creep.\"",
+          "link": "https://arstechnica.com/?p=1785916",
+          "publishedOn": "2021-08-09T21:44:40.000Z",
+          "wordCount": 1270,
+          "title": "US settles with Trump admin whistleblower who exposed botched COVID response"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785838",
+          "author": "Jennifer Ouellette",
+          "description": "\"Why does this crap keep happening to us?\"",
+          "link": "https://arstechnica.com/?p=1785838",
+          "publishedOn": "2021-08-09T21:37:47.000Z",
+          "wordCount": 1446,
+          "title": "Buckle up as Doom Patrol S3 teaser promises another wild and crazy ride"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785725",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has Kindles, Switch and PS5 games, video doorbells, and more.",
+          "link": "https://arstechnica.com/?p=1785725",
+          "publishedOn": "2021-08-09T20:39:15.000Z",
+          "wordCount": 2748,
+          "title": "A number of Apple devices are on sale today, including new iPads and AirPods"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785847",
+          "author": "Tim De Chant",
+          "description": "Employee contract lets company install video cameras in personal spaces.",
+          "link": "https://arstechnica.com/?p=1785847",
+          "publishedOn": "2021-08-09T19:50:49.000Z",
+          "wordCount": 1200,
+          "title": "Uber asked contractor to allow video surveillance in employee homes, bedrooms"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1785844",
+          "author": "John Timmer",
+          "description": "Ruling finds Florida's law unconstitutional twice over.",
+          "link": "https://arstechnica.com/?p=1785844",
+          "publishedOn": "2021-08-09T19:30:21.000Z",
+          "wordCount": 1466,
+          "title": "Court says Florida can’t block cruise line from requiring vaccines"
+        },
+        {
           "id": "https://arstechnica.com/?p=1785736",
           "author": "Ron Amadeo",
           "description": "Epic details Google's alleged attempts to stop it from skipping the Play Store.",
@@ -3143,6 +3197,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/08/09/csi-windows-support-with-csi-proxy-reaches-ga/",
+          "author": null,
+          "description": "Authors: Mauricio Poppe (Google), Jing Xu (Google), and Deep Debroy (Apple)\nThe stable version of CSI Proxy for Windows has been released alongside Kubernetes 1.22.  CSI Proxy enables CSI Drivers running on Windows nodes to perform privileged storage operations.\nBackground\nContainer Storage Interface (CSI) for Kubernetes went GA in the Kubernetes 1.13 release. CSI has become the standard for exposing block and file storage to containerized workloads on Container Orchestration systems (COs) like Kubernetes. It enables third-party storage providers to write and deploy plugins without the need to alter the core Kubernetes codebase. Legacy in-tree drivers are deprecated and new storage features are introduced in CSI, therefore it is important to get CSI Drivers to work on Windows.\nA CSI Driver…",
+          "link": "https://kubernetes.io/blog/2021/08/09/csi-windows-support-with-csi-proxy-reaches-ga/",
+          "publishedOn": "2021-08-09T00:00:00.000Z",
+          "wordCount": 3976,
+          "title": "Blog: Kubernetes 1.22: CSI Windows Support (with CSI Proxy) reaches GA"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/08/09/run-nodes-with-swap-alpha/",
           "author": null,
           "description": "Author: Elana Hashman (Red Hat)\nThe 1.22 release introduced alpha support for configuring swap memory usage for\nKubernetes workloads on a per-node basis.\nIn prior releases, Kubernetes did not support the use of swap memory on Linux,\nas it is difficult to provide guarantees and account for pod memory utilization\nwhen swap is involved. As part of Kubernetes' earlier design, swap support was\nconsidered out of scope, and a kubelet would by default fail to start if swap\nwas detected on a node.\nHowever, there are a number of use cases\nthat would benefit from Kubernetes nodes supporting swap, including improved\nnode stability, better support for applications with high memory overhead but\nsmaller working sets, the use of memory-constrained devices, and memory\nflexibility.\nHence, over the past two …",
@@ -3307,6 +3370,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162339",
+          "author": "Matt Wales",
+          "description": "Psyonix's four-wheeled footie game Rocket League kicks off its fourth season this Wednesday, 11th August, and the developer has outlined its key new additions - including the striking Deadeye Canyon arena - ahead of release.\nThere's admittedly not a whole lot to report on the new arena yet - although you can get a long-distance glimpse below - but there're a few more details to share ahead of Season 4. Come Wednesday's launch, for instance, Rocket League players will be able to enjoy expanded competitive tournaments including Extra and 2v2, with the latter appearing in the first of Season 4's limited-time modes: 2v2 Heatseeker.\nThis gets underway on 12th August and will be followed by Speed Demon - a \"super-fast LTM [combining] mutators, the speed of Boomer Ball without the wild bounces, demos on contact, and a fast respawn timer\" - and then Spring Loaded due later this month.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-rocket-leagues-season-4-brings-dusty-new-deadeye-canyon-arena-and-more-this-week",
+          "publishedOn": "2021-08-09T21:57:00.000Z",
+          "wordCount": 824,
+          "title": "Rocket League's Season 4 brings dusty new Deadeye Canyon arena and more this week"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162333",
+          "author": "Matt Wales",
+          "description": "Forza Horizon 5, the latest instalment in Playground Games' sublime open-world racing series is a few short months away from release, and with the hype handle now beginning to crank in earnest, the developer has offered a first look at the game's sprawling Mexico-themed map.\nYou can see the map, with its tantalising tangle of roadways and landmarks below, but Playground has also given a bit of a guided tour in its latest video (start at the 27-minute mark).\nAs creative director Mike Brown reiterates, Forza Horizon 5's map will be 50% bigger than that of its UK-set predecessor, providing ample room for its previously announced 11 biomes, which include tropical and rocky coastlines, living and sandy deserts, winding canyons, arid hills, lush farmland, river-strewn jungles, swampland, and the vibrant city streets of Guanajuato - all beneath the gargantuan volcano that lies at the centre of the map.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-heres-your-first-look-at-forza-5s-full-map",
+          "publishedOn": "2021-08-09T20:22:00.000Z",
+          "wordCount": 838,
+          "title": "Here's your first look at Forza Horizon 5's full Mexico-inspired map"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162324",
+          "author": "Matt Wales",
+          "description": "Following its launch on PC and Switch last year, I Am Dead, the acclaimed afterlife puzzler from developers Hollow Ponds and Richard Hogg (who've previously worked on the likes of Hohokum and Wilmot's Warehouse) is now available for Xbox and PlayStation.\nI Am Dead, which is published by Annapurna Interactive, casts players as recently deceased museum curator Morris Lupton, who, with a little help from his equally non-corporeal dog Sparky, must save his tiny island home of Shelmerston from volcanic destruction.\nIt's a thoroughly endearing adventure that plays out a little like a supernatural find-the-object game as players investigate the islanders' memories and use Morris' ghostly vision to twirl, slice, and probe the beautiful diorama-style innards of objects around him.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-09-annapurnas-acclaimed-afterlife-puzzler-i-am-dead-now-available-on-playstation-and-xbox",
+          "publishedOn": "2021-08-09T18:36:00.000Z",
+          "wordCount": 732,
+          "title": "Annapurna's acclaimed afterlife puzzler I Am Dead now available on PlayStation and Xbox"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2162316",
           "author": "Matt Wales",
@@ -6312,24 +6402,6 @@
           "publishedOn": "2021-07-11T13:10:00.000Z",
           "wordCount": 843,
           "title": "This Warzone glitch lets players parachute into other people's Gulag matches"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2158114",
-          "author": null,
-          "description": "Unhappy Resident Evil Village players are blaming DRM for the game's poor performance on PC. \n\"All in-game shutters like the one from when you kill a zombie are fixed because Capcom DRM's entry points are patched out so most of their functions are never executed anymore,\" explained hacker Empress, who claims playing a pirated version of the game without Capcom's anti-tamper V3 and Denuvo V11 \"results in [a] much smoother game experience\".\nDSO Gaming tested the theory for themselves and played a two-hour snippet of a cracked version. Despite killing numerous enemies, they said they \"did not get a single stutter during these two hours\". \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-11-capcoms-anti-tamper-measures-might-be-causing-resident-evil-villages-poor-pc-performance",
-          "publishedOn": "2021-07-11T10:15:00.000Z",
-          "wordCount": 879,
-          "title": "Capcom's anti-tamper measures might be causing Resident Evil Village's poor PC performance"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2158112",
-          "author": null,
-          "description": "Washington D.C. and 36 states have filed a lawsuit against Google for alleged antitrust practices.\nAs reported by Politico (thanks, TheGamer), the lawsuit - which was filed on Wednesday, 7th July 2021 in California and led by Arizona, Colorado, Iowa, Nebraska, New York, North Carolina, Tennessee, and Utah - reportedly challenges the megacorp's control of the Android app store.\nThe filing takes umbrage with Google's plans to take a 30 per cent cut of all digital goods and services sold via its Play Store from September and is just one of several ongoing litigation battles taken out against the company over Google's perceived search engine and advertising monopolies. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-11-36-us-states-sue-google-over-its-alleged-play-store-monopoly-and-antitrust-practices",
-          "publishedOn": "2021-07-11T09:43:00.000Z",
-          "wordCount": 792,
-          "title": "36 US states sue Google over its alleged Play Store monopoly and antitrust practices"
         }
       ]
     }
