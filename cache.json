@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-14T00:00:00.000Z",
           "wordCount": 193,
           "title": "Bad Map Projection: The Greenland Special"
-        },
-        {
-          "id": "https://xkcd.com/2488/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/board_game_argument_legacy.png\" title=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" alt=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" />",
-          "link": "https://xkcd.com/2488/",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Board Game Argument: Legacy"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/08/apple-adds-a-backdoor-to-imesssage-and-icloud-storage.html",
+          "author": null,
+          "description": "<p>Apple&#8217;s <a href=\"https://www.apple.com/child-safety/\">announcement</a> that it&#8217;s going to start scanning photos for child abuse material is a big deal. I have been following the details, and discussing it in several different email lists. I don&#8217;t have time right now to delve into the details, but wanted to post something.</p>\n<p>EFF <a href=\"https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life\">writes</a>:</p>\n<blockquote><p>There are two main features that the company is planning to install in every Apple device. One is a scanning feature that will scan all photos as they get uploaded into iCloud Photos to see if they match a photo in the database of known child sexual abuse material (CSAM) maintained by the National Center for Missing &#038; Exploited Children (NCMEC). The other feature scans all iMessage images sent or received by child accounts &#8212; that is, accounts designated as owned by a minor &#8212; for sexually explicit material, and if the child is young enough, notifies the parent when these images are sent or received. This feature can be turned on or off by parents...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/apple-adds-a-backdoor-to-imesssage-and-icloud-storage.html",
+          "publishedOn": "2021-08-10T11:37:30.000Z",
+          "wordCount": 744,
+          "title": "Apple Adds a Backdoor to iMesssage and iCloud Storage"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/08/defeating-microsofts-trusted-platform-module.html",
           "author": null,
@@ -3352,6 +3352,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162414",
+          "author": "Emma Kent",
+          "description": "Iron Gate has served up a few more morsels of information about upcoming Valheim update Hearth and Home, and this time, it's all about changes to the game's food system. The way snacking works is being given an overhaul - and it looks like some food items are getting a nerf in the process. Ah crumbs. \nIn the game's current form, simply shoving some food in your mouth will result in (somewhat) even amounts of health and stamina, but the system arriving in Hearth and Home will change that. Food will soon be divided into three categories: items that provide more health, items that provide more stamina, and items that provide an even split. As explained in the video below, that means you can bulk up on meat and HP before a big battle - or slurp down a stew to increase your stamina for an afternoon of building. \nThe different categories will be marked by a coloured fork icon, with red indicating a focus on health, yellow for stamina, and white for a balanced meal. The food bar is also being replaced by a timer system to indicate how long the foods will last. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-10-heres-how-valheims-food-mechanics-are-being-overhauled-in-hearth-and-home",
+          "publishedOn": "2021-08-10T11:39:00.000Z",
+          "wordCount": 1213,
+          "title": "Here's how Valheim's food mechanics are being overhauled in Hearth and Home"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162411",
+          "author": "Ishraq Subhan",
+          "description": "Take-Two Interactive is attempting to shut down Ozark, a popular mod menu for Grand Theft Auto Online. \nAs you would expect from a mod menu, Ozark lets modders manipulate the game, both in the campaign and online, to their liking, allowing them to teleport, instakill, spawn vehicles, drop money, and more. \nWhile modding single player games has some legal ambiguity (Take-Two also seems determined to make all forms of modding illegal), modding multiplayer sessions is detrimental to the experience of other players.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-10-take-two-trying-to-shutdown-popular-gta-online-mod-menu",
+          "publishedOn": "2021-08-10T11:07:00.000Z",
+          "wordCount": 810,
+          "title": "Take-Two trying to shutdown popular GTA Online mod menu"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162395",
+          "author": "Tom Phillips",
+          "description": "Sony's acquisition of anime-streaming service Crunchyroll is now complete, with the final price set at $1.175bn.\nWe first heard word of Sony's intent to gobble up Crunchyroll late last year, when it bid $957m. \nToday, Sony announced it had finally secured the service, its 5 million paying subscribers and more than 120 million registered users.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-10-sony-completes-usd1bn-crunchyroll-buyout",
+          "publishedOn": "2021-08-10T10:16:00.000Z",
+          "wordCount": 707,
+          "title": "Sony completes $1bn Crunchyroll buyout"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162391",
+          "author": "Matthew Reynolds",
+          "description": "A few years after the mini console boom comes the turn of another classic system - the Amiga.\nSimilar to the C64 Mini - which Retro Games Ltd also produced - this is a reimagining of the 16-bit Commodore personal computer, touting emulation of the original A500 chipset and the Advanced Graphics Architecture (AGA) of later Amiga model the A1200.\nThe A500 Mini comes with both a mouse and gamepad, as well as support for a plugging in a standard keyboard over USB, since we imagine the keys on the mini system itself are too dinky to use.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-10-an-amiga-500-mini-is-on-the-way",
+          "publishedOn": "2021-08-10T10:06:00.000Z",
+          "wordCount": 748,
+          "title": "An Amiga 500 Mini is on the way"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162386",
+          "author": "Ishraq Subhan",
+          "description": "Grand Theft Auto 5's next-gen update: Expanded And Enhanced Edition, will run at 4K60 FPS on the PlayStation 5. \nThat's according to details revealed by Sony on PlayStation Germany's official blog.\nDespite years of using Duolingo, my German isn't so great, so here's the rather hilarious direct translation from Google Translate: \"You have never seen the criminal metropolis Los Santos so beautiful when the skyline shines thanks to a bold graphic update in crisp 4K resolution and you make the city extremely smooth and unsafe thanks to a smooth 60 FPS.\" \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-10-it-looks-like-gta-5-on-ps5-will-run-at-4k60-fps",
+          "publishedOn": "2021-08-10T09:45:00.000Z",
+          "wordCount": 729,
+          "title": "It looks like GTA 5 on PS5 will run at 4K60 FPS"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162388",
+          "author": "Tom Phillips",
+          "description": "Nintendo has been typically tight-lipped about the plot of the movie, which marks Mario's big-screen return after an understandably long hiatus. \nBut, speaking of long absences, how about this? Maniscalco revealed he would voice Spike, Mario's boss - a character likely based on Foreman Spike from NES game Wrecking Crew in 1985.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-10-super-mario-bros-animated-movie-actor-lets-slip-his-obscure-role",
+          "publishedOn": "2021-08-10T09:40:00.000Z",
+          "wordCount": 798,
+          "title": "Super Mario Bros. animated movie actor lets slip his obscure role"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2162339",
           "author": "Matt Wales",
