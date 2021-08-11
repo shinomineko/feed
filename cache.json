@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/08/cobolt-strike-vulnerability-affects-botnet-servers.html",
+          "author": null,
+          "description": "<p>Cobolt Strike is a security tool, used by penetration testers to simulate network attackers. But it&#8217;s also used by attackers &#8212; from criminals to governments &#8212; to automate their own attacks. Researchers have <a href=\"https://arstechnica.com/gadgets/2021/08/critical-cobalt-strike-bug-leaves-botnet-servers-vulnerable-to-takedown/\">found a vulnerability</a> in the product.</p>\n<blockquote><p>The main components of the security tool are the Cobalt Strike client &#8212; also known as a Beacon &#8212; and the Cobalt Strike team server, which sends commands to infected computers and receives the data they exfiltrate. An attacker starts by spinning up a machine running Team Server that has been configured to use specific &#8220;malleability&#8221; customizations, such as how often the client is to report to the server or specific data to periodically send...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/cobolt-strike-vulnerability-affects-botnet-servers.html",
+          "publishedOn": "2021-08-11T11:42:27.000Z",
+          "wordCount": 648,
+          "title": "Cobolt Strike Vulnerability Affects Botnet Servers"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/08/apple-adds-a-backdoor-to-imesssage-and-icloud-storage.html",
           "author": null,
           "description": "<p>Apple&#8217;s <a href=\"https://www.apple.com/child-safety/\">announcement</a> that it&#8217;s going to start scanning photos for child abuse material is a big deal. I have been following the details, and discussing it in several different email lists. I don&#8217;t have time right now to delve into the details, but wanted to post something.</p>\n<p>EFF <a href=\"https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life\">writes</a>:</p>\n<blockquote><p>There are two main features that the company is planning to install in every Apple device. One is a scanning feature that will scan all photos as they get uploaded into iCloud Photos to see if they match a photo in the database of known child sexual abuse material (CSAM) maintained by the National Center for Missing &#038; Exploited Children (NCMEC). The other feature scans all iMessage images sent or received by child accounts &#8212; that is, accounts designated as owned by a minor &#8212; for sexually explicit material, and if the child is young enough, notifies the parent when these images are sent or received. This feature can be turned on or off by parents...</p></blockquote>",
@@ -383,6 +392,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1786231",
+          "author": "Jim Salter",
+          "description": "The best Linux gaming happens on the bleeding edge—just where Arch Linux shines.",
+          "link": "https://arstechnica.com/?p=1786231",
+          "publishedOn": "2021-08-11T10:45:22.000Z",
+          "wordCount": 1347,
+          "title": "Valve’s upcoming Steam Deck will be based on Arch Linux—not Debian"
+        },
         {
           "id": "https://arstechnica.com/?p=1786288",
           "author": "Beth Mole",
@@ -3136,96 +3154,6 @@
           "publishedOn": "2021-07-13T11:30:26.000Z",
           "wordCount": 1750,
           "title": "Our brains “read” expressions of illusory faces in things just like real faces"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779719",
-          "author": "Sam Machkovech",
-          "description": "This time, Denuvo doesn't appear to be the culprit... entirely.",
-          "link": "https://arstechnica.com/?p=1779719",
-          "publishedOn": "2021-07-12T23:57:50.000Z",
-          "wordCount": 1335,
-          "title": "Better performance for pirates: Crack removes stutters from Capcom PC game"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779557",
-          "author": "Jonathan M. Gitlin",
-          "description": "Get ready for the return of Devon Butler, the most hated man in racing.",
-          "link": "https://arstechnica.com/?p=1779557",
-          "publishedOn": "2021-07-12T21:50:08.000Z",
-          "wordCount": 1955,
-          "title": "F1 2021 reviewed: Codemasters adds story, keeps the racing sim feeling fresh"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779515",
-          "author": "John Timmer",
-          "description": "Quantum processors are mostly used via cloud services; QuantWare will ship you one.",
-          "link": "https://arstechnica.com/?p=1779515",
-          "publishedOn": "2021-07-12T21:22:32.000Z",
-          "wordCount": 1199,
-          "title": "Startup hopes the world is ready to buy quantum processors"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779598",
-          "author": "Jim Salter",
-          "description": "The new Drive desktop app is available for Windows and Mac only.",
-          "link": "https://arstechnica.com/?p=1779598",
-          "publishedOn": "2021-07-12T20:57:31.000Z",
-          "wordCount": 859,
-          "title": "Google’s new Drive app replaces Backup and Sync with Drive File Stream"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779560",
-          "author": "Beth Mole",
-          "description": "\"What part of 'this is a global crisis' are we not getting?\"",
-          "link": "https://arstechnica.com/?p=1779560",
-          "publishedOn": "2021-07-12T20:35:36.000Z",
-          "wordCount": 1385,
-          "title": "Health officials rail against Pfizer’s push for COVID boosters—for many reasons"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779590",
-          "author": "Kyle Orland",
-          "description": "PC and last-gen consoles lack machine-learning-powered \"HyperMotion\" animations.",
-          "link": "https://arstechnica.com/?p=1779590",
-          "publishedOn": "2021-07-12T20:16:03.000Z",
-          "wordCount": 886,
-          "title": "The best version of FIFA 22 won’t be on PC"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779508",
-          "author": "Diana Gitig",
-          "description": "Even though viruses attack harmful bacteria, the immune system attacks viruses.",
-          "link": "https://arstechnica.com/?p=1779508",
-          "publishedOn": "2021-07-12T20:06:22.000Z",
-          "wordCount": 918,
-          "title": "Maybe not so fast with the phage therapy?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779504",
-          "author": "Jon Brodkin",
-          "description": "FCC raised its standard to 25/3Mbps in 2015 and hasn't changed it since.",
-          "link": "https://arstechnica.com/?p=1779504",
-          "publishedOn": "2021-07-12T19:41:06.000Z",
-          "wordCount": 1609,
-          "title": "FCC speed standard that Ajit Pai never updated is too slow, GAO report says"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779520",
-          "author": "Dan Goodin",
-          "description": "Flaws allow attackers to run malicious code on machines hosting Serv-U products.",
-          "link": "https://arstechnica.com/?p=1779520",
-          "publishedOn": "2021-07-12T19:25:45.000Z",
-          "wordCount": 862,
-          "title": "Microsoft discovers critical SolarWinds zero-day under active attack"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1779444",
-          "author": "Jim Salter",
-          "description": "After four months of testing, we love these for podcasts—not so much for music.",
-          "link": "https://arstechnica.com/?p=1779444",
-          "publishedOn": "2021-07-12T19:16:13.000Z",
-          "wordCount": 2040,
-          "title": "Bone-conduction headphones: Long-term test and review of AfterShokz"
         }
       ]
     },
@@ -3433,6 +3361,51 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162595",
+          "author": "Tom Phillips",
+          "description": "You can now leap around Assassin's Creed Valhalla dressed up as the series' legendary Ezio Auditore da Firenze.\nSpecifically, this is the eye-catching Renaissance clobber Ezio wore back in Brotherhood - his fan favourite look. \nYou can acquire the free costume by logging into your Ubisoft Connect account on console or PC - but there's a twist. For now, Ezio's clothes are only available if Ubisoft detects you have played two previous games in the series. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-11-assassins-creed-valhalla-adds-ezios-iconic-clobber",
+          "publishedOn": "2021-08-11T11:26:00.000Z",
+          "wordCount": 718,
+          "title": "Assassin's Creed Valhalla adds Ezio's iconic clobber"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162594",
+          "author": "Wesley Yin-Poole",
+          "description": "An Activision Blizzard shareholder has hit out at the company's response to the recent discrimination lawsuit.\nAs reported by Axios, SOC Investment Group's executive director Dieter Waizeneggar issued a letter to Activision Blizzard's lead independant director Robert J. Morgado, criticising the steps the company has said it is taking to address the ongoing culture crisis.\nLast week, Activision Blizzard executives such as boss Bobby Kotick insisted \"we will be the company that sets the example for this in our industry\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-11-activision-blizzard-shareholder-hits-out-at-inadequate-response-to-discrimination-lawsuit",
+          "publishedOn": "2021-08-11T11:22:00.000Z",
+          "wordCount": 1015,
+          "title": "Activision Blizzard shareholder hits out at \"inadequate\" response to discrimination lawsuit"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162588",
+          "author": "Wesley Yin-Poole",
+          "description": "The recently-released The Ascent is a gorgeous, incredibly-detailed cyberpunk action role-playing game that plays from a fixed, top-down, isometric perspective. But what happens when you unlock the camera?\nIn the video below spotted by Kotaku, Gaming with Griff Griffin shows us that Neon Giant's The Ascent looks just as good in first-person, with an impressive level of detail on display when you're viewing the world up close. We see detailed character models, environments and even objects in shops (The Ascent's shops are great!). I love the Neuromancer nod, too.\nGriff Griffin used a tool called the Universal Unreal Engine 4 Unlocker to move the camera about (details are in the video description). It's a great thing, too because we see The Ascent's compelling cyberpunk world holds up under close scrutiny. That developer Neon Giant is a studio of just 12 people makes this all the more impressive.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-11-the-ascent-looks-just-as-good-in-first-person",
+          "publishedOn": "2021-08-11T10:37:00.000Z",
+          "wordCount": 728,
+          "title": "The Ascent looks just as good in first-person"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162582",
+          "author": "Ishraq Subhan",
+          "description": "In the run-up to its two-year anniversary, Pokémon Masters EX will add the ability to Dynamax particular Pokémon.\nDeveloper DeNA also announced that Hop and Zamazenta plus Sygna Suit Leon and  Eternatus will debut in the game from today. \nDynamaxing was introduced to the Pokémon series in Sword and Shield. This game mechanic allows a Pokémon to grow in size, turning their attacks into powerful Max Moves. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-11-pokemon-masters-ex-gets-dynamaxing",
+          "publishedOn": "2021-08-11T10:25:00.000Z",
+          "wordCount": 783,
+          "title": "Pokémon Masters EX gets Dynamaxing"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162573",
+          "author": "Wesley Yin-Poole",
+          "description": "The Diablo 2: Resurrected beta kicks off this weekend, Blizzard has announced.\nEarly access to the beta begins at 6pm UK time on Friday 13th August across PC, Xbox Series X and S, Xbox One, PlayStation 5 and PlayStation 4. The beta is not available on Nintendo Switch.\nTo get the early access you have to pre-purchase the game or the Diablo Prime Evil Collection. For the early access beta, you need to have separately pre-ordered Diablo 2: Resurrected or Diablo Prime Evil Collection on each platform you want to play on, Blizzard added.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-11-diablo-2-resurrected-beta-kicks-off-this-weekend",
+          "publishedOn": "2021-08-11T09:40:00.000Z",
+          "wordCount": 881,
+          "title": "Diablo 2: Resurrected beta kicks off this weekend"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2162527",
           "author": "Matt Wales",
