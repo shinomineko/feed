@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/08/using-ai-to-scale-spear-phishing.html",
+          "author": null,
+          "description": "<p>The problem with spear phishing it that it takes time and creativity to create individualized enticing phishing emails. Researchers are <a href=\"https://www.wired.com/story/ai-phishing-emails/\">using GPT-3</a> to attempt to solve that problem:</p>\n<blockquote><p>The researchers used OpenAI&#8217;s GPT-3 platform in conjunction with other AI-as-a-service products focused on personality analysis to generate phishing emails tailored to their colleagues&#8217; backgrounds and traits. Machine learning focused on personality analysis aims to be predict a person&#8217;s proclivities and mentality based on behavioral inputs. By running the outputs through multiple services, the researchers were able to develop a pipeline that groomed and refined the emails before sending them out. They say that the results sounded &#8220;weirdly human&#8221; and that the platforms automatically supplied surprising specifics, like mentioning a Singaporean law when instructed to generate content for people living in Singapore...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/using-ai-to-scale-spear-phishing.html",
+          "publishedOn": "2021-08-13T11:16:00.000Z",
+          "wordCount": 586,
+          "title": "Using AI to Scale Spear Phishing"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/08/cobolt-strike-vulnerability-affects-botnet-servers.html",
           "author": null,
           "description": "<p>Cobolt Strike is a security tool, used by penetration testers to simulate network attackers. But it&#8217;s also used by attackers &#8212; from criminals to governments &#8212; to automate their own attacks. Researchers have <a href=\"https://arstechnica.com/gadgets/2021/08/critical-cobalt-strike-bug-leaves-botnet-servers-vulnerable-to-takedown/\">found a vulnerability</a> in the product.</p>\n<blockquote><p>The main components of the security tool are the Cobalt Strike client &#8212; also known as a Beacon &#8212; and the Cobalt Strike team server, which sends commands to infected computers and receives the data they exfiltrate. An attacker starts by spinning up a machine running Team Server that has been configured to use specific &#8220;malleability&#8221; customizations, such as how often the client is to report to the server or specific data to periodically send...</p></blockquote>",
@@ -365,6 +374,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1786046",
+          "author": "Ars Contributors",
+          "description": "Enjoy a sneak peek from Androids: The team that built the Android operating system.",
+          "link": "https://arstechnica.com/?p=1786046",
+          "publishedOn": "2021-08-13T11:15:55.000Z",
+          "wordCount": 1699,
+          "title": "Excerpt: How Google bought Android—according to folks in the room"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1786935",
+          "author": "Eric Berger",
+          "description": "\"I was really expecting to see a slowdown in the number of new launch vehicles.\"",
+          "link": "https://arstechnica.com/?p=1786935",
+          "publishedOn": "2021-08-13T11:00:28.000Z",
+          "wordCount": 2294,
+          "title": "Rocket Report: NASA installs SLS software, India’s GSLV fails to reach orbit"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1786924",
+          "author": "Sam Machkovech",
+          "description": "The film's gaming focus has a few issues, but Reynolds, Comer captivate as leads.",
+          "link": "https://arstechnica.com/?p=1786924",
+          "publishedOn": "2021-08-13T09:30:09.000Z",
+          "wordCount": 2330,
+          "title": "Free Guy review: Finally, an authentic gaming film—and it’s fun, not perfect"
+        },
         {
           "id": "https://arstechnica.com/?p=1786777",
           "author": "Eric Berger",
@@ -3091,96 +3127,6 @@
           "publishedOn": "2021-07-15T11:30:30.000Z",
           "wordCount": 1125,
           "title": "James Bond’s new car is a plug-in hybrid—the Aston Martin Valhalla"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780447",
-          "author": "Sam Machkovech",
-          "description": "Follows years-long tiptoe into interactive specials, game-based TV series.",
-          "link": "https://arstechnica.com/?p=1780447",
-          "publishedOn": "2021-07-14T23:57:13.000Z",
-          "wordCount": 905,
-          "title": "Netflix will start publishing video games, has hired former EA exec"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780441",
-          "author": "Beth Mole",
-          "description": "Health organizations call for mandatory COVID-19 vaccination for health care workers.",
-          "link": "https://arstechnica.com/?p=1780441",
-          "publishedOn": "2021-07-14T23:40:26.000Z",
-          "wordCount": 1257,
-          "title": "Unvaccinated health workers are “unethical and appalling”—experts want mandates"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780081",
-          "author": "Kiona N. Smith",
-          "description": "The site offers rare evidence of interactions between de Soto and Indigenous people.",
-          "link": "https://arstechnica.com/?p=1780081",
-          "publishedOn": "2021-07-14T22:33:11.000Z",
-          "wordCount": 1920,
-          "title": "After defeating Hernando de Soto, the Chickasaw took his stuff and remade it"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780202",
-          "author": "Samuel Axon",
-          "description": "Apple plans to offer iPhone users another way to borrow money.",
-          "link": "https://arstechnica.com/?p=1780202",
-          "publishedOn": "2021-07-14T21:17:11.000Z",
-          "wordCount": 761,
-          "title": "With Apple Pay Later, Apple may take another stab at the PayPal model"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780364",
-          "author": "Jon Brodkin",
-          "description": "Amazon's Project Kuiper got some new employees as Facebook ended satellite project.",
-          "link": "https://arstechnica.com/?p=1780364",
-          "publishedOn": "2021-07-14T21:09:25.000Z",
-          "wordCount": 957,
-          "title": "Amazon bought Facebook’s satellite team to help build Starlink competitor"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780311",
-          "author": "John Timmer",
-          "description": "Two options for error correction both work, but current hardware limits them.",
-          "link": "https://arstechnica.com/?p=1780311",
-          "publishedOn": "2021-07-14T20:55:37.000Z",
-          "wordCount": 1506,
-          "title": "Google tries out error correction on its quantum processor"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780318",
-          "author": "Dan Goodin",
-          "description": "Flaw was exploited when government officials clicked on links in LinkedIn messages.",
-          "link": "https://arstechnica.com/?p=1780318",
-          "publishedOn": "2021-07-14T20:04:09.000Z",
-          "wordCount": 1200,
-          "title": "iOS zero-day let SolarWinds hackers compromise fully updated iPhones"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780313",
-          "author": "Jim Salter",
-          "description": "Microsoft's Windows 10 VMs for devs expired on July 10. They're still missing.",
-          "link": "https://arstechnica.com/?p=1780313",
-          "publishedOn": "2021-07-14T19:50:50.000Z",
-          "wordCount": 957,
-          "title": "Microsoft fails to provide Windows 10 VM images for developers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780276",
-          "author": "Jon Brodkin",
-          "description": "Facebook petitions for Khan's recusal as FTC decides whether to continue lawsuit.",
-          "link": "https://arstechnica.com/?p=1780276",
-          "publishedOn": "2021-07-14T19:09:14.000Z",
-          "wordCount": 2021,
-          "title": "Facebook tries to beat FTC lawsuit by pushing Chair Lina Khan off the case"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1780157",
-          "author": "Ron Amadeo",
-          "description": "Under the Mario theme, this is a dog-slow Wear OS device that will be obsolete soon.",
-          "link": "https://arstechnica.com/?p=1780157",
-          "publishedOn": "2021-07-14T18:09:10.000Z",
-          "wordCount": 1134,
-          "title": "The $2,000 Super Mario smartwatch you’ve always wanted is here"
         }
       ]
     },
@@ -3285,15 +3231,6 @@
           "publishedOn": "2021-07-20T00:00:00.000Z",
           "wordCount": 3786,
           "title": "Blog: Kubernetes Release Cadence Change: Here’s What You Need To Know"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/07/15/sig-usability-spotlight-2021/",
-          "author": null,
-          "description": "Author: Kunal Kushwaha, Civo\nIntroduction\nAre you interested in learning about what SIG Usability does and how you can get involved? Well, you're at the right place. SIG Usability is all about making Kubernetes more accessible to new folks, and its main activity is conducting user research for the community. In this blog, we have summarized our conversation with Gaby Moreno, who walks us through the various aspects of being a part of the SIG and shares some insights about how others can get involved.\nGaby is a co-lead for SIG Usability. She works as a Product Designer at IBM and enjoys working on the user experience of open, hybrid cloud technologies like Kubernetes, OpenShift, Terraform, and Cloud Foundry.\nA summary of our conversation\nQ. Could you tell us a little about what SIG Usabilit…",
-          "link": "https://kubernetes.io/blog/2021/07/15/sig-usability-spotlight-2021/",
-          "publishedOn": "2021-07-15T00:00:00.000Z",
-          "wordCount": 3672,
-          "title": "Blog: Spotlight on SIG Usability"
         }
       ]
     },
@@ -3388,6 +3325,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162976",
+          "author": "Wesley Yin-Poole",
+          "description": "Namco Funscape in London has closed down after 25 years.\nThe arcade centre inside London's County Hall off Westminster Bridge shut its doors at 6.30pm last night, 12th August.\n\"We're heartbroken to have closed our landmark site that has been entertaining families, friends, and corporate groups from all over the world for 25 years,\" reads a post on the venue's Facebook page.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-13-namco-funscape-london-closes-down-after-25-years",
+          "publishedOn": "2021-08-13T10:39:00.000Z",
+          "wordCount": 1059,
+          "title": "Namco Funscape London closes down after 25 years"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162969",
+          "author": "Ishraq Subhan",
+          "description": "As the Battlefield 2042 technical preview goes ahead, EA is scrambling to take down leaked gameplay footage all over the internet.\nLast week, Battlefield fans were invited to sign up to test a technical preview of the game, which they were not allowed to discuss even receiving.  \nOf course, despite EA's perhaps unrealistic wishes, word of the preview inevitably leaked, foreshadowing what was to come.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-13-ea-scrambles-to-take-down-leaked-battlefield-2042-gameplay",
+          "publishedOn": "2021-08-13T10:01:00.000Z",
+          "wordCount": 763,
+          "title": "EA scrambles to take down leaked Battlefield 2042 gameplay"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2162956",
+          "author": "Wesley Yin-Poole",
+          "description": "Publisher No More Robots has announced Not Tonight 2, the sequel to 2018's unapologetically political post-Brexit document-checking game.\nDeveloper PanicBarn's Not Tonight 2 travels across the pond to an \"alternative\" USA, where capitalism and political greed have taken center stage. It's described as \"basically America: The Video Game\", with three branching stories written by a team of POC authors and artists.\nThe trailer is below:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-13-not-tonight-2-is-a-road-trip-through-an-alternative-broken-america",
+          "publishedOn": "2021-08-13T09:40:00.000Z",
+          "wordCount": 747,
+          "title": "Not Tonight 2 is a road trip through an alternative, broken America"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2162910",
           "author": "Matt Wales",
