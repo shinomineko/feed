@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-23T00:00:00.000Z",
           "wordCount": 185,
           "title": "Dual USB-C"
-        },
-        {
-          "id": "https://xkcd.com/2492/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png\" title=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" alt=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" />",
-          "link": "https://xkcd.com/2492/",
-          "publishedOn": "2021-07-21T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Commonly Mispronounced Equations"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/08/t-mobile-data-breach.html",
+          "author": null,
+          "description": "<p>It&#8217;s a <a href=\"https://www.wired.com/story/t-mobile-hack-data-phishing/\">big one</a>:</p>\n<blockquote><p>As first reported <a href=\"https://www.vice.com/en/article/akg8wg/tmobile-investigating-customer-data-breach-100-million\">by Motherboard</a> on Sunday, someone on the dark web claims to have obtained the data of 100 million from T-Mobile&#8217;s servers and is selling a portion of it on an underground forum for 6 bitcoin, about $280,000. The trove includes not only names, phone numbers, and physical addresses but <a href=\"https://www.wired.com/story/t-mobile-breach-much-worse-than-it-had-to-be/\">also more sensitive data like social security numbers</a>, driver&#8217;s license information, and <a href=\"https://www.wired.com/story/phone-numbers-indentification-authentication/\">IMEI numbers</a>, unique identifiers tied to each mobile device. <a href=\"https://www.vice.com/en/article/akg8wg/tmobile-investigating-customer-data-breach-100-million\">Motherboard confirmed</a> that samples of the data &#8220;contained accurate information on T-Mobile customers.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/t-mobile-data-breach.html",
+          "publishedOn": "2021-08-19T11:17:56.000Z",
+          "wordCount": 388,
+          "title": "T-Mobile Data Breach"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html",
           "author": null,
@@ -366,15 +366,6 @@
           "publishedOn": "2021-07-22T15:41:58.000Z",
           "wordCount": 744,
           "title": "Nasty Printer Driver Vulnerability"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html",
-          "author": null,
-          "description": "<p>NSO Group, the Israeli cyberweapons arms manufacturer behind the Pegasus spyware &#8212; used by authoritarian regimes around the world to spy on dissidents, journalists, human rights workers, and others &#8212; was hacked. Or, at least, an enormous trove of documents was leaked to journalists.</p>\n<p>There&#8217;s a lot to read out there. Amnesty International has a <a href=\"https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/\">report</a>. Citizen Lab conducted an <a href=\"https://citizenlab.ca/2021/07/amnesty-peer-review/\">independent analysis</a>. The <i>Guardian</i> has <a href=\"https://www.theguardian.com/news/series/pegasus-project\">extensive coverage</a>. <a href=\"https://www.nytimes.com/2021/07/18/world/middleeast/israel-nso-pegasus-spyware.html\">More</a> <a href=\"https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/?itid=lk_inline_manual_10\">coverage</a>.</p>\n<p>Most interesting is a list of over 50,000 phone numbers that were being spied on by NSO Group&#8217;s software. Why does NSO Group have that list? The obvious answer is that NSO Group provides spyware-as-a-service, and centralizes operations somehow. Nicholas Weaver ...</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html",
-          "publishedOn": "2021-07-20T18:50:56.000Z",
-          "wordCount": 1280,
-          "title": "NSO Group Hacked"
         }
       ]
     },
@@ -383,6 +374,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1788196",
+          "author": "Doug Johnson",
+          "description": "It might be tricky and some might not like it, but a PCA could lower emissions.",
+          "link": "https://arstechnica.com/?p=1788196",
+          "publishedOn": "2021-08-19T10:45:30.000Z",
+          "wordCount": 1743,
+          "title": "It’s time to rethink personal carbon allowances, research suggests"
+        },
         {
           "id": "https://arstechnica.com/?p=1788240",
           "author": "Jennifer Ouellette",
@@ -3091,96 +3091,6 @@
           "publishedOn": "2021-07-21T00:30:06.000Z",
           "wordCount": 2316,
           "title": "Audacity’s new owner is in another fight with the open source community"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781824",
-          "author": "Beth Mole",
-          "description": "\"This delta variant is no joke.”",
-          "link": "https://arstechnica.com/?p=1781824",
-          "publishedOn": "2021-07-20T21:57:33.000Z",
-          "wordCount": 963,
-          "title": "Delta goes to Washington, infects vaccinated Capitol staffers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781750",
-          "author": "Dan Goodin",
-          "description": "Both OSes have flaws that allow attackers with a toehold to elevate access.",
-          "link": "https://arstechnica.com/?p=1781750",
-          "publishedOn": "2021-07-20T21:17:41.000Z",
-          "wordCount": 1540,
-          "title": "Two-for-Tuesday vulnerabilities send Windows and Linux users scrambling"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781759",
-          "author": "Jon Brodkin",
-          "description": "Biden nominee Jonathan Kanter criticized US for not breaking up monopolies.",
-          "link": "https://arstechnica.com/?p=1781759",
-          "publishedOn": "2021-07-20T20:47:55.000Z",
-          "wordCount": 1316,
-          "title": "Biden picks Google foe to lead DOJ antitrust as it mulls plan to break up Big Tech"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781737",
-          "author": "John Timmer",
-          "description": "A look at 60 countries shows that renewable growth rarely reaches the rates we need.",
-          "link": "https://arstechnica.com/?p=1781737",
-          "publishedOn": "2021-07-20T20:38:48.000Z",
-          "wordCount": 1352,
-          "title": "Is any country installing renewables fast enough to reach climate goals?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781710",
-          "author": "Samuel Axon",
-          "description": "It works with iPhone 12, iPhone 12 mini, iPhone 12 Pro, and iPhone 12 Pro Max.",
-          "link": "https://arstechnica.com/?p=1781710",
-          "publishedOn": "2021-07-20T20:16:15.000Z",
-          "wordCount": 834,
-          "title": "Apple’s MagSafe Battery Pack is available in stores now for $99"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781553",
-          "author": "Ron Amadeo",
-          "description": "Analysis: No specs listed, \"uncensored\" app store looks like Google Play.",
-          "link": "https://arstechnica.com/?p=1781553",
-          "publishedOn": "2021-07-20T19:51:04.000Z",
-          "wordCount": 1778,
-          "title": "The MAGA-targeted “Freedom Phone” has a breathtaking amount of red flags"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781638",
-          "author": "Samuel Axon",
-          "description": "The publication's sources claim the iPad mini will get the iPad Air treatment.",
-          "link": "https://arstechnica.com/?p=1781638",
-          "publishedOn": "2021-07-20T19:15:23.000Z",
-          "wordCount": 914,
-          "title": "Report claims Apple will finally give the iPad mini some love"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781662",
-          "author": "Jon Brodkin",
-          "description": "Common Cause report says industry lobbying of Congress worsens the digital divide.",
-          "link": "https://arstechnica.com/?p=1781662",
-          "publishedOn": "2021-07-20T18:50:35.000Z",
-          "wordCount": 1821,
-          "title": "ISPs spent $235 million on lobbying and donations, “more than $320,000 a day”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781634",
-          "author": "Sam Machkovech",
-          "description": "Humankind's Denuvo woes were \"not something we can fix before release,\" dev says.",
-          "link": "https://arstechnica.com/?p=1781634",
-          "publishedOn": "2021-07-20T18:26:20.000Z",
-          "wordCount": 1062,
-          "title": "Fans ask a PC game to drop Denuvo—and dev agrees, blames “performance impact”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1781512",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has the newest Zelda game, Amazon's Kindle Paperwhite, and more.",
-          "link": "https://arstechnica.com/?p=1781512",
-          "publishedOn": "2021-07-20T18:10:56.000Z",
-          "wordCount": 2923,
-          "title": "Good deal: The iPad Air is down to a new low of $500 today"
         }
       ]
     },
@@ -3197,15 +3107,6 @@
           "publishedOn": "2021-08-01T18:40:00.000Z",
           "wordCount": 4084,
           "title": "Thinking about “traceability”"
-        },
-        {
-          "id": "http://blog.cryptographyengineering.com/?p=5678",
-          "author": "Matthew Green",
-          "description": "This week a group of global newspapers is running a series of articles detailing abuses of NSO Group’s Pegasus spyware. If you haven’t seen any of these articles, they’re worth reading — and likely will continue to be so as more revelations leak out. The impetus for the stories is a leak comprising more than … Continue reading A case against security nihilism →",
-          "link": "https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/",
-          "publishedOn": "2021-07-20T19:05:16.000Z",
-          "wordCount": 2098,
-          "title": "A case against security nihilism"
         }
       ]
     },
@@ -3388,6 +3289,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163691",
+          "author": "Wesley Yin-Poole",
+          "description": "One of the most enduring myths about Skyrim is it contains treasure foxes.\nEver since Bethesda's open-world fantasy game came out in 2011, players have wondered whether the foxes lead players to treasure.\nThe myth of the treasure fox pops up online every now and then, with players debating whether it's true or false.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-19-skyrims-myth-of-the-treasure-fox-finally-explained",
+          "publishedOn": "2021-08-19T10:15:00.000Z",
+          "wordCount": 1472,
+          "title": "Skyrim's myth of the treasure fox finally explained"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163672",
+          "author": "Wesley Yin-Poole",
+          "description": "A new Ace Combat game is in development.\nThe joint production between publisher Bandai Namco and ILCA was announced during the Ace Combat 25th anniversary retrospective panel (thanks, Gematsu).\nILCA is the Japanese studio working on Pokemon Brilliant Diamond and Pokemon Shining Pearl. It helped out with 2019's well-received Ace Combat 7, too.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-19-new-ace-combat-game-in-development",
+          "publishedOn": "2021-08-19T09:01:00.000Z",
+          "wordCount": 758,
+          "title": "New Ace Combat game in development"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163664",
+          "author": "Wesley Yin-Poole",
+          "description": "Hit free-to-play first-person shooter Splitgate is to remain in open beta for the foreseeable future.\nDeveloper 1047 Games extended the game's open beta as it works to increase server capacity.\nSplitgate, a sci-fi competitive first-person shooter that's like a cross between Halo and Portal, was set to launch proper in July on PC, Xbox One, Xbox Series X and S, PlayStation 4 and PlayStation 5.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-19-splitgate-to-remain-in-open-beta-for-the-foreseeable-future-after-10m-downloads-in-under-30-days",
+          "publishedOn": "2021-08-19T08:37:00.000Z",
+          "wordCount": 941,
+          "title": "Splitgate to remain in open beta indefinitely after 10m downloads in under 30 days"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2163635",
           "author": "Matt Wales",
@@ -6348,33 +6276,6 @@
           "publishedOn": "2021-07-21T08:33:00.000Z",
           "wordCount": 929,
           "title": "PES renamed eFootball, goes free-to-play, digital-only"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2159506",
-          "author": "Matt Wales",
-          "description": "If your thirst for animated video game adaptations is somehow yet to be sated despite the best efforts of Netflix and its ilk, here's another in-development adaptation to toss onto the ever-growing list: Player Unknown's Battlegrounds.\nPUBG developer Krafton Inc. has announced it's working on an animated \"project\" based on the popular battle royale title in conjunction with Adi Shankar, who served as producer and showrunner on Netflix's acclaimed Castlevania adaptation and is the creator of the streaming service's upcoming Captain Laserhawk: A Blood Dragon Remix animated series.\n\"As a player, I've been crushing the competition in the Battlegrounds since PUBG released in 2017,\" Shankar wrote in a statement accompanying the announcement. \"To me, this animated project represents another step in the evolution of mending the torched bridge between the games industry and Hollywood. I look forward to revealing to everybody what winning a chicken dinner looks like.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-20-theres-a-player-unknowns-battlegrounds-animated-adaptation-in-the-works",
-          "publishedOn": "2021-07-20T21:08:00.000Z",
-          "wordCount": 845,
-          "title": "There's a Player Unknown's Battlegrounds animated adaptation in the works"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2159502",
-          "author": "Matt Wales",
-          "description": "Road 96, the intriguing procedural road trip adventure from 11-11: Memories Retold developer Digixart, will be making its way to Switch and PC next month, on 16th August.\nUnfolding during a long, hot summer in the mid-90s, Road 96 takes players on an ever-changing hitchhiking adventure across the authoritarian nation of Petria as they attempt to reach the border and start a new life.\nAlong the way, as Digixart explains, players will \"meet incredible characters, and discover their intertwined stories and secrets... But every mile opens up a choice to make. Your decisions will change your adventure, change the people you meet, maybe even change the world.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-20-procedural-road-trip-adventure-road-96-gets-august-release-date",
-          "publishedOn": "2021-07-20T19:27:00.000Z",
-          "wordCount": 734,
-          "title": "Procedural road trip adventure Road 96 gets August release date"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2159501",
-          "author": "Matt Wales",
-          "description": "Lone Echo 2, the sequel to developer Ready at Dawn's acclaimed 2017 zero-gravity VR adventure, finally - after a series of coronavirus-related delays - has a release date, and will be heading to Oculus devices on 24th August.\nLone Echo 2, which was initially announced back in 2018 for a release the following year, picks up after the events of the first game, catapulting protagonists Captain Olivia Rhodes and player-controlled android Echo One (nicknamed \"Jack\") 400 years into the future, where an abandoned space station holds the key to returning home.\nOnce again, Ready at Dawn has crafted a moody sci-fi adventure built around zero-gravity traversal and puzzling, with the developer promising \"sharp visuals\", \"complex challenges\", and \"startling discoveries\" as its \"emotional\" far-future story unfolds.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-20-ready-at-dawns-oculus-exclusive-zero-grav-sci-fi-sequel-lone-echo-2-out-in-august",
-          "publishedOn": "2021-07-20T18:27:00.000Z",
-          "wordCount": 766,
-          "title": "Ready at Dawn's Oculus-exclusive zero-gravity sci-fi sequel Lone Echo 2 out in August"
         }
       ]
     }
