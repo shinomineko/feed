@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/08/more-on-apples-iphone-backdoor.html",
+          "author": null,
+          "description": "<p>In this post, I&#8217;ll collect links on Apple&#8217;s iPhone backdoor for scanning CSAM images. Previous links are <a href=\"https://www.schneier.com/blog/archives/2021/08/apple-adds-a-backdoor-to-imesssage-and-icloud-storage.html\">here</a> and <a href=\"https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html\">here</a>.</p>\n<p>Apple <a href=\"https://www.theverge.com/2021/8/18/22630439/apple-csam-neuralhash-collision-vulnerability-flaw-cryptography\">says</a> that hash collisions in its CSAM detection system were expected, and not a concern. I&#8217;m not convinced that this secondary system was originally part of the design, since it wasn&#8217;t discussed in the original specification.</p>\n<p>Good <a href=\"https://www.washingtonpost.com/opinions/2021/08/19/apple-csam-abuse-encryption-security-privacy-dangerous/\">op-ed</a> from a group of Princeton researchers who developed a similar system:</p>\n<blockquote><p>Our system could be easily repurposed for surveillance and censorship. The design wasn&#8217;t restricted to a specific category of content; a service could simply swap in any content-matching database, and the person using that service would be none the wiser...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/more-on-apples-iphone-backdoor.html",
+          "publishedOn": "2021-08-20T13:54:51.000Z",
+          "wordCount": 545,
+          "title": "More on Apple’s iPhone Backdoor"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/08/t-mobile-data-breach.html",
           "author": null,
           "description": "<p>It&#8217;s a <a href=\"https://www.wired.com/story/t-mobile-hack-data-phishing/\">big one</a>:</p>\n<blockquote><p>As first reported <a href=\"https://www.vice.com/en/article/akg8wg/tmobile-investigating-customer-data-breach-100-million\">by Motherboard</a> on Sunday, someone on the dark web claims to have obtained the data of 100 million from T-Mobile&#8217;s servers and is selling a portion of it on an underground forum for 6 bitcoin, about $280,000. The trove includes not only names, phone numbers, and physical addresses but <a href=\"https://www.wired.com/story/t-mobile-breach-much-worse-than-it-had-to-be/\">also more sensitive data like social security numbers</a>, driver&#8217;s license information, and <a href=\"https://www.wired.com/story/phone-numbers-indentification-authentication/\">IMEI numbers</a>, unique identifiers tied to each mobile device. <a href=\"https://www.vice.com/en/article/akg8wg/tmobile-investigating-customer-data-breach-100-million\">Motherboard confirmed</a> that samples of the data &#8220;contained accurate information on T-Mobile customers.&#8221;...</p></blockquote>",
@@ -383,6 +392,51 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1788827",
+          "author": "Jennifer Ouellette",
+          "description": "Richards' controversial selection sparked a backlash among fans and former contestants.",
+          "link": "https://arstechnica.com/?p=1788827",
+          "publishedOn": "2021-08-20T17:18:24.000Z",
+          "wordCount": 1450,
+          "title": "New Jeopardy! host Mike Richards resigns on first day of production"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788840",
+          "author": "Tim De Chant",
+          "description": "CEO Elon Musk says prototype should be ready \"sometime next year.\"",
+          "link": "https://arstechnica.com/?p=1788840",
+          "publishedOn": "2021-08-20T17:08:39.000Z",
+          "wordCount": 1224,
+          "title": "Tesla Bot is the company’s troubled Autopilot system in humanoid form"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788797",
+          "author": "Ron Amadeo",
+          "description": "This app had an Android Auto-like interface, but for people without compatible cars.",
+          "link": "https://arstechnica.com/?p=1788797",
+          "publishedOn": "2021-08-20T16:46:52.000Z",
+          "wordCount": 1358,
+          "title": "Google is killing Android Auto for phones (if you even know what that is)"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788793",
+          "author": "Eric Berger",
+          "description": "Inland flooding is likely from Henri.",
+          "link": "https://arstechnica.com/?p=1788793",
+          "publishedOn": "2021-08-20T16:16:07.000Z",
+          "wordCount": 966,
+          "title": "Tropical Storm Henri will make landfall in the northeastern United States"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788798",
+          "author": "Jonathan M. Gitlin",
+          "description": "Contenders include the Audi Q4 e-tron, BMW i4, Hyundai Ioniq 5, and Kia EV6.",
+          "link": "https://arstechnica.com/?p=1788798",
+          "publishedOn": "2021-08-20T14:46:11.000Z",
+          "wordCount": 833,
+          "title": "Electric vehicles feature in 2022 World Car Awards contenders"
+        },
         {
           "id": "https://arstechnica.com/?p=1787619",
           "author": "Jim Salter",
@@ -3334,6 +3388,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163984",
+          "author": "Matt Wales",
+          "description": "It's been a little over two years since publisher THQ Nordic announced a new Saints Row title was \"deep in development\" at series studio Volition, and finally it seems the silence around the game is about to be broken, if a tantalising new tease is anything to go by.\nThe tease in question comes courtesy of noted presenter and producer Geoff Keighley, who shared some intriguing art on Twitter earlier today - featuring a heavily graffitied wall adorned with the word 'Rebooting' and, crucially, the Saints' beloved fleur-de-lis emblem.\nThe same image has now appeared on the official Saints Row Twitter feed and website - just in case their were any lingering doubts about its connection to the series - meaning the only real question left to ask at this juncture regarding what would be the first numbered Saints Row title to release since 2015 is, 'When will we learn more?'.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-20-looks-like-the-new-saints-row-is-set-for-a-gamescom-reveal",
+          "publishedOn": "2021-08-20T17:04:00.000Z",
+          "wordCount": 774,
+          "title": "Looks like the new Saints Row is set for a Gamescom reveal"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163940",
+          "author": "Wesley Yin-Poole",
+          "description": "We're used to football clubs announcing new signings with a nod to video games - but this latest effort may be the best yet.\nSpanish La Liga club Real Betis announced the signing of Argentinian defender Germán Pezzella with a video called GTA 4: Real Betis Edition.\nIn the video, striker Aitor Rubial walks to the club's stadium, the Estadio Benito Villamarín, with the camera aping the GTA perspective, and with a walk befitting Niko Bellic himself. The music is a good fit, and there's even a GTA-style user interface, complete with mini-map.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-20-spanish-club-real-betis-announce-new-signing-with-quality-grand-theft-auto-4-parody",
+          "publishedOn": "2021-08-20T13:23:00.000Z",
+          "wordCount": 752,
+          "title": "Spanish club Real Betis announce new signing with quality Grand Theft Auto 4 parody"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2163917",
           "author": "Wesley Yin-Poole",
