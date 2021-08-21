@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/08/friday-squid-blogging-on-squid-brains.html",
+          "author": null,
+          "description": "<p>Interesting <i>National Geographic</i> <a href=\"https://www.nationalgeographic.com/science/article/untangling-mysteries-of-the-brain-with-the-remarkable-biology-of-squid\">article</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/friday-squid-blogging-on-squid-brains.html",
+          "publishedOn": "2021-08-20T21:18:14.000Z",
+          "wordCount": 1202,
+          "title": "Friday Squid Blogging: On Squid Brains"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/08/more-on-apples-iphone-backdoor.html",
           "author": null,
           "description": "<p>In this post, I&#8217;ll collect links on Apple&#8217;s iPhone backdoor for scanning CSAM images. Previous links are <a href=\"https://www.schneier.com/blog/archives/2021/08/apple-adds-a-backdoor-to-imesssage-and-icloud-storage.html\">here</a> and <a href=\"https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html\">here</a>.</p>\n<p>Apple <a href=\"https://www.theverge.com/2021/8/18/22630439/apple-csam-neuralhash-collision-vulnerability-flaw-cryptography\">says</a> that hash collisions in its CSAM detection system were expected, and not a concern. I&#8217;m not convinced that this secondary system was originally part of the design, since it wasn&#8217;t discussed in the original specification.</p>\n<p>Good <a href=\"https://www.washingtonpost.com/opinions/2021/08/19/apple-csam-abuse-encryption-security-privacy-dangerous/\">op-ed</a> from a group of Princeton researchers who developed a similar system:</p>\n<blockquote><p>Our system could be easily repurposed for surveillance and censorship. The design wasn&#8217;t restricted to a specific category of content; a service could simply swap in any content-matching database, and the person using that service would be none the wiser...</p></blockquote>",
@@ -392,6 +401,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1788948",
+          "author": "Beth Mole",
+          "description": "Regulators are reportedly working to finish approval Friday, but timeline could slip.",
+          "link": "https://arstechnica.com/?p=1788948",
+          "publishedOn": "2021-08-20T22:38:28.000Z",
+          "wordCount": 754,
+          "title": "Report: Pfizer’s COVID-19 vaccine may get full FDA approval Monday"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1788941",
+          "author": "Beth Mole",
+          "description": "US just hit 200M people with at least one vaccine dose.",
+          "link": "https://arstechnica.com/?p=1788941",
+          "publishedOn": "2021-08-20T22:03:53.000Z",
+          "wordCount": 814,
+          "title": "US sees jump in vaccinations amid devastating delta surge"
+        },
         {
           "id": "https://arstechnica.com/?p=1788827",
           "author": "Jennifer Ouellette",
@@ -3190,15 +3217,6 @@
           "publishedOn": "2021-07-22T15:00:52.000Z",
           "wordCount": 1463,
           "title": "Google turns AlphaFold loose on the entire human genome"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782211",
-          "author": "Sam Machkovech",
-          "description": "\"Frat boy culture\" cited as serious factor for pay disparity, sexual harassment.",
-          "link": "https://arstechnica.com/?p=1782211",
-          "publishedOn": "2021-07-22T06:02:57.000Z",
-          "wordCount": 1002,
-          "title": "Activision Blizzard sued by state agency over alleged widespread discrimination"
         }
       ]
     },
@@ -3388,6 +3406,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163998",
+          "author": "Matt Wales",
+          "description": "Wild, the promising PlayStation-exclusive open-world survival adventure from Wild Sheep Studio, is reportedly no longer in development.\nAnnounced back in 2014 for release on PS4, Wild was due to be published by Sony Interactive Entertainment with Rayman and Beyond Good & Evil creator Michel Ancel at the helm - until the famed designer announced his retirement from the games industry in 2020.\nWild only properly surfaced one more time following its announcement - at Paris Games Week in 2015 - and gameplay details remain limited to his day. We do know, however, that players, in the role of a shaman, could possess and play as a variety of wild animals - including a bear, eagle, and snake - and call on the help of deities as they explored the vast, prehistoric world.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-20-playstation-exclusive-prehistoric-open-world-adventure-wild-has-reportedly-been-cancelled",
+          "publishedOn": "2021-08-20T21:52:00.000Z",
+          "wordCount": 856,
+          "title": "PlayStation-exclusive prehistoric adventure Wild has reportedly been cancelled"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163995",
+          "author": "Matt Wales",
+          "description": "Fans of cult classic adventure series Syberia can soon reunite with protagonist Kate Walker on a brand-new adventure - this one \"across continents and through time periods\" - when a fourth instalment, The World Before, comes to PC on 10th September.\nThe original Syberia, if you're unfamiliar, released all the way back in 2002, quickly charming adventure game fans with its gently surreal story of a New York lawyer dispatched to deal with the sale of a former automaton factory hidden in the French Alps.\nAn equally well-regarded sequel followed two years later, but it took a further 15 years for Walker's adventures to continue. Unfortunately, 2017's Syberia 3 was generally considered to be a bit of a dud - plagued by technical problems and flawed design - leaving many to assume its poor reception would mark the end of the series.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-20-cult-classic-adventure-series-syberia-returns-this-december-with-the-world-before",
+          "publishedOn": "2021-08-20T20:24:00.000Z",
+          "wordCount": 835,
+          "title": "Cult classic adventure series Syberia returns this December with The World Before"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2163989",
+          "author": "Matt Wales",
+          "description": "Microsoft Flight Simulator's next big geographical makeover - this time for Germany, Austria, and Switzerland - has been delayed from its original 24th August release date and is now expected to arrive a little later on 7th September.\nOriginally announced in June, Flight Simulator's sixth World Update - which follows similar enhancements for Belgium, Denmark, Finland, France, Iceland, Ireland, Japan, Luxembourg, the Netherlands, Norway, Sweden, the UK, and the United States - introduces new aerials and elevation maps for Germany, Austria, and Germany, alongside new photogrammetry cities, four hand-crafted airports, and nearly 100 points of interest.\nPrevious reveals from developer Asobo have confirmed three of those airports - Klagenfurt Airport (LOWK)\nLübeck Airport (EDHL), and St. Gallen-Altenrhein Airport (LSZR) - plus a number of new landmarks, including Castle Marienburg in Hanover, Holstentor in Lübeck, Deutches Eck in Koblenz, Castle Katz in St. Goarshausen, Munich's Allianz Arena, and the Riesenrad in Vienna.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-20-flight-simulators-germany-austria-and-switzerland-makeover-delayed-to-september",
+          "publishedOn": "2021-08-20T18:33:00.000Z",
+          "wordCount": 846,
+          "title": "Flight Simulator's Germany, Austria, and Switzerland makeover delayed to September"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2163984",
           "author": "Matt Wales",
@@ -6330,24 +6375,6 @@
           "publishedOn": "2021-07-22T13:00:00.000Z",
           "wordCount": 1059,
           "title": "Amazon Prime Gaming signs shirt sponsorship deal with… Stevenage FC"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2159774",
-          "author": "Wesley Yin-Poole",
-          "description": "Long-time Assassin's Creed art director Raphael Lacoste has left Ubisoft to join Haven Studios.\nLacoste leaves Ubisoft after 16 years at the company, having worked on eight Assassin's Creed titles.\nLacoste played a key role in the creation of the Assassin's Creed series alongside Jade Raymond, who he now joins up with again at Haven Studios. Sony is financing Haven's first game, which is a new IP for PlayStation.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-22-long-time-assassins-creed-art-director-raphael-lacoste-exits-ubisoft-to-join-haven-studios",
-          "publishedOn": "2021-07-22T11:15:00.000Z",
-          "wordCount": 1098,
-          "title": "Long-time Assassin's Creed art director Raphael Lacoste exits Ubisoft to join Haven Studios"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2159738",
-          "author": "Wesley Yin-Poole",
-          "description": "The State of California has sued Activision Blizzard over what it alleges to be a \"frat boy\" culture that created \"a breeding ground for harassment and discrimination against women\".\nThe lawsuit, filed by the State's Department of Fair Employment and Housing (DFEH) on Tuesday includes a number of disturbing allegations and alleges a culture of \"constant sexual harassment\" mainly at Blizzard Entertainment, the maker of World of Warcraft, Diablo and Overwatch (via Bloomberg).\n\n    CONTENT WARNING:\n  \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-22-state-of-california-sues-activision-blizzard-over-frat-boy-culture",
-          "publishedOn": "2021-07-22T09:16:00.000Z",
-          "wordCount": 1644,
-          "title": "State of California sues Activision Blizzard over \"frat boy\" culture"
         }
       ]
     }
