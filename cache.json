@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-28T00:00:00.000Z",
           "wordCount": 187,
           "title": "Universal Seat Belt"
-        },
-        {
-          "id": "https://xkcd.com/2494/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/flawed_data.png\" title=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" alt=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" />",
-          "link": "https://xkcd.com/2494/",
-          "publishedOn": "2021-07-26T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Flawed Data"
         }
       ]
     },
@@ -374,6 +365,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1789309",
+          "author": "John Timmer",
+          "description": "It's creating an evolutionary pressure to grow fast.",
+          "link": "https://arstechnica.com/?p=1789309",
+          "publishedOn": "2021-08-24T10:45:56.000Z",
+          "wordCount": 1191,
+          "title": "With nothing able to eat them, cane toads are eating each other"
+        },
         {
           "id": "https://arstechnica.com/?p=1789318",
           "author": "Jennifer Ouellette",
@@ -3064,15 +3064,6 @@
           "publishedOn": "2021-07-26T07:01:40.000Z",
           "wordCount": 1167,
           "title": "MS Flight Simulator on consoles: Finally, a next-gen game for Xbox Series X/S"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1782914",
-          "author": "Jennifer Ouellette",
-          "description": "Nothing brings a town together like zombies tearing them apart",
-          "link": "https://arstechnica.com/?p=1782914",
-          "publishedOn": "2021-07-25T22:43:18.000Z",
-          "wordCount": 1330,
-          "title": "Zombies rise, terrorize a town in trailer for SyFy’s Day of the Dead series"
         }
       ]
     },
@@ -3159,15 +3150,6 @@
           "publishedOn": "2021-07-29T00:00:00.000Z",
           "wordCount": 8688,
           "title": "Blog: Roorkee robots, releases and racing: the Kubernetes 1.21 release interview"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/07/26/update-with-ingress-nginx/",
-          "author": null,
-          "description": "Authors: James Strong, Ricardo Katz\nWith all Kubernetes APIs, there is a process to creating, maintaining, and\nultimately deprecating them once they become GA. The networking.k8s.io API group is no\ndifferent. The upcoming Kubernetes 1.22 release will remove several deprecated APIs\nthat are relevant to networking:\nthe networking.k8s.io/v1beta1 API version of IngressClass\nall beta versions of Ingress: extensions/v1beta1 and networking.k8s.io/v1beta1\nOn a v1.22 Kubernetes cluster, you'll be able to access Ingress and IngressClass\nobjects through the stable (v1) APIs, but access via their beta APIs won't be possible.\nThis change has been in\nin discussion since\n2017,\n2019 with\n1.16 Kubernetes API deprecations, and most recently in\nKEP-1453:\nGraduate Ingress API to GA.\nDuring community meetings,…",
-          "link": "https://kubernetes.io/blog/2021/07/26/update-with-ingress-nginx/",
-          "publishedOn": "2021-07-26T00:00:00.000Z",
-          "wordCount": 3339,
-          "title": "Blog: Updating NGINX-Ingress to use the stable Ingress API"
         }
       ]
     },
@@ -3253,6 +3235,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164318",
+          "author": "Tom Phillips",
+          "description": "Details of the expansion are set to be fully announced by Bungie tonight in its big Destiny livestream at 5pm UK time. Or, you can find them now via details scooped up from the PlayStation Store (thanks, True Trophies). \nThis store listing details the new destination coming to Destiny 2 alongside the expansion, as well as an all-new weapon type. If you'd prefer to watch Bungie dole out this information later, here's your last chance to look away. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-24-destiny-2s-big-witch-queen-expansion-launches-february-2022",
+          "publishedOn": "2021-08-24T11:16:00.000Z",
+          "wordCount": 819,
+          "title": "Destiny 2's big Witch Queen expansion launches February 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164296",
+          "author": "Tom Phillips",
+          "description": "Sega has announced an indefinite delay to the physical release of Sonic Colours: Ultimate in Europe.\nThe holdup applies to both standard and keyring editions of the game - the latter of which includes a Baby Sonic keychain. Digital versions of the game are unaffected and arrive as planned on 7th September.\nSega blamed the delay on \"unforeseen logistical issues\", and said it would affect all EMEA markets excluding Australia and New Zealand. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-24-sonic-colours-ultimate-boxed-editions-delayed-indefinitely-in-europe",
+          "publishedOn": "2021-08-24T09:57:00.000Z",
+          "wordCount": 800,
+          "title": "Sonic Colours: Ultimate boxed editions delayed indefinitely in Europe"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2164250",
           "author": "Matt Wales",
