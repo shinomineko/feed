@@ -3109,42 +3109,6 @@
           "publishedOn": "2021-07-26T18:55:40.000Z",
           "wordCount": 867,
           "title": "Report: The iPhone 14 will be a major upgrade, and it will be made of titanium"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783050",
-          "author": "Eric Berger",
-          "description": "\"I think they realized it's why they lost.\"",
-          "link": "https://arstechnica.com/?p=1783050",
-          "publishedOn": "2021-07-26T17:51:22.000Z",
-          "wordCount": 1447,
-          "title": "Bezos says he is now willing to invest in a Moon Lander—here’s why"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783060",
-          "author": "Tim De Chant",
-          "description": "Tech giant might be preparing a big move—or simply keeping an eye on the space.",
-          "link": "https://arstechnica.com/?p=1783060",
-          "publishedOn": "2021-07-26T16:57:42.000Z",
-          "wordCount": 1415,
-          "title": "Bitcoin surges as Amazon job posting suggests retailer may accept cryptocurrencies"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783033",
-          "author": "Ron Amadeo",
-          "description": "Undeterred by the failure of the Duo 1, Microsoft doesn't seem to be changing much.",
-          "link": "https://arstechnica.com/?p=1783033",
-          "publishedOn": "2021-07-26T16:38:48.000Z",
-          "wordCount": 1304,
-          "title": "Here’s the first credible Microsoft Surface Duo 2 leak"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783029",
-          "author": "Lee Hutchinson",
-          "description": "Join our headline experiment post-mortem on Wednesday, July 28, at 1 pm Eastern time!",
-          "link": "https://arstechnica.com/?p=1783029",
-          "publishedOn": "2021-07-26T14:48:20.000Z",
-          "wordCount": 815,
-          "title": "Sean Gallagher and an AI expert break down our crazy machine-learning adventure"
         }
       ]
     },
@@ -3169,6 +3133,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/08/25/seccomp-default/",
+          "author": null,
+          "description": "Author: Sascha Grunert, Red Hat\nThis blog post is about a new Kubernetes feature introduced in v1.22, which adds\nan additional security layer on top of the existing seccomp support. Seccomp is\na security mechanism for Linux processes to filter system calls (syscalls) based\non a set of defined rules. Applying seccomp profiles to containerized workloads\nis one of the key tasks when it comes to enhancing the security of the\napplication deployment. Developers, site reliability engineers and\ninfrastructure administrators have to work hand in hand to create, distribute\nand maintain the profiles over the applications life-cycle.\nYou can use the securityContext field of Pods and their\ncontainers can be used to adjust security related configurations of the\nworkload. Kubernetes introduced dedicated …",
+          "link": "https://kubernetes.io/blog/2021/08/25/seccomp-default/",
+          "publishedOn": "2021-08-25T00:00:00.000Z",
+          "wordCount": 4375,
+          "title": "Blog: Enable seccomp for all workloads with a new v1.22 alpha feature"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/08/16/windows-hostprocess-containers/",
           "author": null,
@@ -6132,33 +6105,6 @@
           "publishedOn": "2021-07-27T09:22:00.000Z",
           "wordCount": 862,
           "title": "Splitgate's open beta was so popular the dev has delayed launch to August"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160287",
-          "author": "Ishraq Subhan",
-          "description": "A Last of Us Part 2 fan has pieced together unused dialogue between Ellie and Joel where they discuss her tattoo. \nReddit user taegukie theorises that this conversation was meant to happen in the \"Finding Strings\" flashback, where Joel talks about the Savage Starlight comic he's been reading. \nHere's the full transcript: Joel: \"So I noticed that her, uh, hologram... Map thing... It's a moth. Was that where your tattoo came from?\" Ellie: \"Ugh... Maybe?... Judgy.\" Joel: \"I ain't judging. Just Curious.\" Ellie: \"Liar!\" Joel: \"Well, like I said, I ain't judging... I think the moth is pretty.\" \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-26-the-last-of-us-part-2-fan-discovers-unused-dialogue-on-ellies-tattoo",
-          "publishedOn": "2021-07-26T14:45:00.000Z",
-          "wordCount": 749,
-          "title": "The Last of Us Part 2 fan discovers unused dialogue on Ellie's tattoo"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160283",
-          "author": "Emma Kent",
-          "description": "It looks like former Stadia exclusive Submerged: Hidden Depths is coming to PC, according to a Steam page that has now popped up for the game. \nSubmerged: Hidden Depths, a \"relaxploration adventure\" by Uppercut Games, was originally released on Stadia in December last year. It's now set to make the leap over to PC, although there's currently no release date listed on Steam. \nAs you can see in the trailer above, Submerged: Hidden Depths is a \"non-combat third-person\" game set in the ruins of a sunken world. Players can sail across the ocean between ruined buildings, and climb these structures to uncover hidden relics. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-26-stadia-exclusive-submerged-hidden-depths-set-to-launch-on-pc",
-          "publishedOn": "2021-07-26T13:59:00.000Z",
-          "wordCount": 698,
-          "title": "Stadia exclusive Submerged: Hidden Depths set to launch on PC"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160280",
-          "author": "Wesley Yin-Poole",
-          "description": "Mortal Kombat 11 has sold more than 12m copies, Warner Bros. Games has announced.\nThe gory fighting game hit 8m copies sold in October.\nTo put the 12m sales figure into context, Mortal Kombat X, which came out in April 2015, was in April 2019 NetherRealm's best-selling game with almost 11m copies sold.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-26-mortal-kombat-11-sells-more-than-12m-copies",
-          "publishedOn": "2021-07-26T13:53:00.000Z",
-          "wordCount": 762,
-          "title": "Mortal Kombat 11 sells more than 12m copies"
         }
       ]
     }
