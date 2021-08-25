@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2507/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/usv_c.png\" title=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" alt=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" />",
+          "link": "https://xkcd.com/2507/",
+          "publishedOn": "2021-08-25T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "USV-C"
+        },
+        {
           "id": "https://xkcd.com/2506/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/projecting.png\" title=\"This is something we all need to work on, but especially you all.\" alt=\"This is something we all need to work on, but especially you all.\" />",
@@ -151,6 +160,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html",
+          "author": null,
+          "description": "<p>Vice has an <a href=\"https://www.vice.com/en/article/jg84yy/data-brokers-netflow-data-team-cymru\">article</a> about how data brokers sell access to the Internet backbone. This is netflow data. It&#8217;s useful for cybersecurity forensics, but can also be used for things like tracing VPN activity.</p>\n<blockquote><p>At a high level, netflow data creates a picture of traffic flow and volume across a network. It can show which server communicated with another, information that may ordinarily only be available to the server owner or the ISP carrying the traffic. Crucially, this data can be used for, among other things, tracking traffic through virtual private networks, which are used to mask where someone is connecting to a server from, and by extension, their approximate physical location...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html",
+          "publishedOn": "2021-08-25T15:13:48.000Z",
+          "wordCount": 751,
+          "title": "Surveillance of the Internet Backbone"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/08/friday-squid-blogging-on-squid-brains.html",
           "author": null,
@@ -356,6 +374,60 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1789644",
+          "author": "Sam Machkovech",
+          "description": "Space Pirate Trainer's free Sept. update adds mode for 2 players, 100 square meters.",
+          "link": "https://arstechnica.com/?p=1789644",
+          "publishedOn": "2021-08-25T17:15:27.000Z",
+          "wordCount": 1296,
+          "title": "Upcoming game turns Quest VR headsets into real-life laser tag machines"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789599",
+          "author": "Ron Amadeo",
+          "description": "Confidential testing starts in SF, featuring Waymo's 5th-gen Jaguar I-Pace cars.",
+          "link": "https://arstechnica.com/?p=1789599",
+          "publishedOn": "2021-08-25T16:55:25.000Z",
+          "wordCount": 1051,
+          "title": "Waymo expands to San Francisco with public self-driving test"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789646",
+          "author": "Tim De Chant",
+          "description": "“What we’re looking at is a perfect storm.”",
+          "link": "https://arstechnica.com/?p=1789646",
+          "publishedOn": "2021-08-25T16:25:28.000Z",
+          "wordCount": 1194,
+          "title": "Misaligned factory robot may have sparked Chevy Bolt battery fires"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789622",
+          "author": "Jon Brodkin",
+          "description": "But the OnlyFans fight is not over, as pressure on payment providers continues.",
+          "link": "https://arstechnica.com/?p=1789622",
+          "publishedOn": "2021-08-25T15:45:50.000Z",
+          "wordCount": 1151,
+          "title": "OnlyFans suspends plan to prohibit porn after backlash from sex workers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789579",
+          "author": "Eric Berger",
+          "description": "\"Let me know if there’s anything else you need—we are here to serve!\"",
+          "link": "https://arstechnica.com/?p=1789579",
+          "publishedOn": "2021-08-25T15:20:23.000Z",
+          "wordCount": 1649,
+          "title": "In leaked email, ULA official calls NASA leadership “incompetent”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789554",
+          "author": "Corey Gaskin",
+          "description": "Fitbit's most popular tracker is hardly just a tracker anymore.",
+          "link": "https://arstechnica.com/?p=1789554",
+          "publishedOn": "2021-08-25T13:00:58.000Z",
+          "wordCount": 1253,
+          "title": "Fitbit announces Charge 5, teases future Google collaboration"
+        },
         {
           "id": "https://arstechnica.com/?p=1789537",
           "author": "John Timmer",
@@ -3037,15 +3109,6 @@
           "publishedOn": "2021-07-27T13:00:52.000Z",
           "wordCount": 1398,
           "title": "Blue Origin has a secret project named “Jarvis” to compete with SpaceX"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783201",
-          "author": "Ron Amadeo",
-          "description": "Could the \"Intel 20A\" process node (that's 20 Angstroms) rival TSMC and Samsung?",
-          "link": "https://arstechnica.com/?p=1783201",
-          "publishedOn": "2021-07-27T01:15:23.000Z",
-          "wordCount": 1093,
-          "title": "Intel’s foundry roadmap lays out the post-nanometer “Angstrom” era"
         }
       ]
     },
@@ -3226,6 +3289,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164633",
+          "author": "Wesley Yin-Poole",
+          "description": "King of Fighters 15 comes out 17th February 2022.\nThe announcement was made in a new video shown off during the Gamescom Opening Night Live pre-show. The video confirmed 39 playable characters and the return of the series' classic 3v3 battle system.\nSNK fighting game King of Fighters 15 is due out on PC via the Epic Games Store and Steam, PlayStation 5, PlayStation 4, Xbox Series X and S and Xbox One.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-king-of-fighters-15-out-february-2022",
+          "publishedOn": "2021-08-25T17:53:00.000Z",
+          "wordCount": 603,
+          "title": "King of Fighters 15 out February 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164605",
+          "author": "Matt Wales",
+          "description": "Tarsier Studio's deliciously sinister platform horror Little Nightmares 2 is getting a little spookier today on Xbox Series X/S, PS5, and PC, courtesy of a free Enhanced Edition update.\nLittle Nightmares 2's Enhanced Edition aims to give the already richly atmospheric experience - which follows the adventures of new protagonist Mono and returning character Six through the grim streets of Pale City - an even moodier boost with a range of primarily visual enhancements.\nThere's ray-traced reflections, for starters, bringing live reflections to Little Nightmare's various shiny surfaces, as well as improved volumetric shadows - which, as publisher Bandai Namco explains in its announcement post, \"add even more depth and detail to every object and enhance how rays of light are interrupted by moving objects\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-little-nightmares-2s-free-enhanced-edition-update-out-now-for-pc-ps5-and-xbox-series-x-s",
+          "publishedOn": "2021-08-25T15:22:00.000Z",
+          "wordCount": 910,
+          "title": "Little Nightmares 2's free Enhanced Edition update out today on PC, PS5, and Xbox Series X/S"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164539",
+          "author": "Tom Phillips",
+          "description": "A year late and without a number of key features, Halo Infinite will finally arrive for PC and Xbox on 8th December. \nMicrosoft is due to make the news official tonight, as part of Gamescom's Opening Night Live Show, but it slipped out a little early thanks to a scrubbed Microsoft Store listing which The Verge has subsequently verified. \n(Apologies to all those waiting until the end of last night's Xbox Gamescom livestream.)\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-halo-infinite-finally-has-a-release-date",
+          "publishedOn": "2021-08-25T13:16:00.000Z",
+          "wordCount": 809,
+          "title": "Halo Infinite finally has a release date"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164551",
+          "author": "Wesley Yin-Poole",
+          "description": "The Lord of the Rings: Rise to War launches 23rd September for all of Europe, America, Oceania and Southeast Asia.\nThis mobile game is the work of NetEase Games, the Chinese company working with Blizzard on mobile game Diablo Immortal, and Warner Bros. Interactive Entertainment. It's an officially-licensed mobile strategy game based on J.R.R. Tolkien's books and Peter Jackson's movies.\nIn the game you build armies and expand territories as you search for the One Ring. It's set in the Third Age of Middle-earth (the one in which the Lord of the Rings trilogy is set), and includes famous franchise characters such as Aragorn and Elrond.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-the-lord-of-the-rings-mobile-game-rise-to-war-out-in-september",
+          "publishedOn": "2021-08-25T13:07:00.000Z",
+          "wordCount": 790,
+          "title": "The Lord of the Rings mobile game Rise to War out in September"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2164514",
           "author": "Tom Phillips",
