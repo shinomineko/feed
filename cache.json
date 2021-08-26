@@ -357,15 +357,6 @@
           "publishedOn": "2021-07-28T11:03:57.000Z",
           "wordCount": 664,
           "title": "De-anonymization Story"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/07/hiding-malware-in-ml-models.html",
-          "author": null,
-          "description": "<p>Interesting research: <a href=\"https://arxiv.org/abs/2107.08590\">&#8220;EvilModel: Hiding Malware Inside of Neural Network Models&#8221;</a>.</p>\n<blockquote><p><b>Abstract:</b> Delivering malware covertly and detection-evadingly is critical to advanced malware campaigns. In this paper, we present a method that delivers malware covertly and detection-evadingly through neural network models. Neural network models are poorly explainable and have a good generalization ability. By embedding malware into the neurons, malware can be delivered covertly with minor or even no impact on the performance of neural networks. Meanwhile, since the structure of the neural network models remains unchanged, they can pass the security scan of antivirus engines. Experiments show that 36.9MB of malware can be embedded into a 178MB-AlexNet model within 1% accuracy loss, and no suspicious are raised by antivirus engines in VirusTotal, which verifies the feasibility of this method. With the widespread application of artificial intelligence, utilizing neural networks becomes a forwarding trend of malware. We hope this work could provide a referenceable scenario for the defense on neural network-assisted attacks...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/07/hiding-malware-in-ml-models.html",
-          "publishedOn": "2021-07-27T11:25:59.000Z",
-          "wordCount": 2204,
-          "title": "Hiding Malware in ML Models"
         }
       ]
     },
@@ -374,6 +365,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1789874",
+          "author": "Jon Brodkin",
+          "description": "Robocalls claimed mail-in voting is used to track down warrants, collect unpaid debt.",
+          "link": "https://arstechnica.com/?p=1789874",
+          "publishedOn": "2021-08-25T22:46:14.000Z",
+          "wordCount": 1475,
+          "title": "FCC seeks $5M fine for robocalls telling Black people that voting helps “the man”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789890",
+          "author": "Beth Mole",
+          "description": "Delta surcharge is \"necessary to address the financial risk\" of not getting vaccinated.",
+          "link": "https://arstechnica.com/?p=1789890",
+          "publishedOn": "2021-08-25T22:36:09.000Z",
+          "wordCount": 1088,
+          "title": "COVID hospitalization averages $20K—and insurers want unvaccinated to pay up"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789025",
+          "author": "Jennifer Ouellette",
+          "description": "Graphene sticks to any clean surface but can easily be removed without causing damage.",
+          "link": "https://arstechnica.com/?p=1789025",
+          "publishedOn": "2021-08-25T22:16:06.000Z",
+          "wordCount": 1575,
+          "title": "Graphene veils may hold the secret to conserving priceless works of art"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789615",
+          "author": "Samuel Axon",
+          "description": "Some tech firms want workers back at their desks, but expectations have shifted.",
+          "link": "https://arstechnica.com/?p=1789615",
+          "publishedOn": "2021-08-25T21:54:14.000Z",
+          "wordCount": 931,
+          "title": "As office returns get postponed, workers say they’d take pay cut to work from home"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789718",
+          "author": "Matt Paprocki",
+          "description": "Documentary will include interviews with devs and fans.",
+          "link": "https://arstechnica.com/?p=1789718",
+          "publishedOn": "2021-08-25T20:28:47.000Z",
+          "wordCount": 705,
+          "title": "Documentary about Amiga classic Lemmings due for game’s 30th anniversary"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789789",
+          "author": "Sam Machkovech",
+          "description": "\"Major milestone\" reached in mid-2021 apparently wasn't enough for 2021 launch.",
+          "link": "https://arstechnica.com/?p=1789789",
+          "publishedOn": "2021-08-25T19:56:42.000Z",
+          "wordCount": 1063,
+          "title": "Horizon Forbidden West delayed, leaves Sony with fall 2021 first-party gap"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789752",
+          "author": "Jonathan M. Gitlin",
+          "description": "At 231 tons, the mining truck may be the heaviest hydrogen EV in the world.",
+          "link": "https://arstechnica.com/?p=1789752",
+          "publishedOn": "2021-08-25T18:55:57.000Z",
+          "wordCount": 1206,
+          "title": "Massive mine truck and a Baja off-road racer both find use for fuel cells"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789674",
+          "author": "Jim Salter",
+          "description": "The attacker seems to have relied on social engineering to hoodwink his victims.",
+          "link": "https://arstechnica.com/?p=1789674",
+          "publishedOn": "2021-08-25T18:39:29.000Z",
+          "wordCount": 1211,
+          "title": "Nude hunt: LA phisherman accessed 4,700 iCloud accounts, 620K photos"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789729",
+          "author": "Sam Machkovech",
+          "description": "As we recently learned, this won't be the entire game at first—and half is free-to-play.",
+          "link": "https://arstechnica.com/?p=1789729",
+          "publishedOn": "2021-08-25T18:07:18.000Z",
+          "wordCount": 964,
+          "title": "Halo Infinite will launch on Wednesday, December 8—in incomplete fashion [Updated]"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789596",
+          "author": "Andrew Cunningham",
+          "description": "Spencer Elden is seeking upwards of $150,000 in damages for the album cover.",
+          "link": "https://arstechnica.com/?p=1789596",
+          "publishedOn": "2021-08-25T17:36:38.000Z",
+          "wordCount": 883,
+          "title": "30 years later, the baby on Nirvana’s Nevermind cover is suing for damages"
+        },
         {
           "id": "https://arstechnica.com/?p=1789644",
           "author": "Sam Machkovech",
@@ -3290,6 +3371,168 @@
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164750",
+          "author": "Matt Wales",
+          "description": "Sifu, the martial arts adventure from Absolver developer Sloclap, finally has a release date and will release for PlayStation and PC on 22nd February next year.\nSifu is a a third-person, single-player action game, focussed on \"intense hand-to-hand combat\", that follows a young Kung Fu student on a path of revenge as he hunts down his family's murderers with nothing but a mysterious pendant and, possibly, the ability to palm-smash someone's nose out the back of their head.\nActually that's not quite true; as players make their way through Sifu's world - \"from the gang-ridden suburbs to the cold hallways of the corporate towers\" - they're encouraged to use everything at their disposal to overcome the odds and hunt down their targets, whether that be throwable objects or makeshift weapons strewn around the environment.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-absolver-studios-martial-arts-adventure-sifu-gets-february-2022-release-date",
+          "publishedOn": "2021-08-25T21:58:00.000Z",
+          "wordCount": 797,
+          "title": "Absolver studio's martial arts adventure Sifu gets February 2022 release date"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164749",
+          "author": "Matt Wales",
+          "description": "Sci-fi exploration adventure Jett: The Far Shore - a collaboration between Pine Scented Software and Superbrothers (the creators of acclaimed 2011 indie hit Sword & Sworcery) - now has a release date and will be making its way to PC and PlayStation on 5th October.\nAnnounced last summer, the moodily atmospheric Jett casts players as scout and 'anchorite' Mei as she becomes the first person to explore a mythic ocean planet in order to \"carve out a future for a people haunted by oblivion\" and search for something called \"the hymnwave\". \n\"Skim low over waves, roar up pristine coastlines and carve through otherworldly woods,\" teases the developers. \"Adapt to an intricate, systemic open world and persevere through adversity alongside an intimate ensemble cast in this story of courage, wonder and regret.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-sword-and-sworcery-devs-laid-back-exploration-adventure-jett-the-far-shore-out-in-october",
+          "publishedOn": "2021-08-25T21:18:00.000Z",
+          "wordCount": 808,
+          "title": "Sword and Sworcery dev's \"laid-back\" exploration adventure Jett: The Far Shore out in October"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164739",
+          "author": "Tom Phillips",
+          "description": "Missed Geoff Keighley's Gamescom Opening Night Live? Not to worry - here's a rundown of all the highlights.\nTonight's pre-show began with King of Fighters 15, which launches 17th February 2022, Bus Simulator 2021, which turns up 7th September, and Nobody Saves The World from Guacamelee developer Drinkbox Studios, coming early 2022.\nWe also got our best look yet at House of Ashes, the third Dark Pictures Anthology game coming on 22nd October, and its monster, which you can get as a plastic statue.  \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-all-the-best-bits-from-gamescom-opening-night-live",
+          "publishedOn": "2021-08-25T20:40:00.000Z",
+          "wordCount": 1299,
+          "title": "All the best bits from Gamescom Opening Night Live"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164737",
+          "author": "Wesley Yin-Poole",
+          "description": "Microsoft has released a new Age of Empires 4 trailer.\nThe video, below, includes snippets of the strategy game in action, but not as much as I had hoped to see at Gamescom Opening Night Live.\nWhat we do get is a look at the Holy Roman Empire and the Rus civilisations, the final two of eight launch civs to be shown off. The other six are the English, Mongols, Chinese, Delhi Sultanate, Abbasid Dynasty and the French.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-new-age-of-empires-4-trailer-shows-off-the-holy-roman-empire-and-the-rus",
+          "publishedOn": "2021-08-25T20:11:00.000Z",
+          "wordCount": 717,
+          "title": "New Age of Empires 4 trailer shows off the Holy Roman Empire and the Rus"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164593",
+          "author": "Martin Robinson",
+          "description": "Following a succession over-the-top adventures that folded in alien invasions and superpowers with Saints Row 4 and its subsequent follow-ups, Volition is bringing its open world crime series back to its roots with the next year's Saints Row - a reboot that reintroduces a more grounded contemporary fictional setting while still looking to hold onto the humour and possibilities that Saints Row has become beloved for. \nTitled simply Saints Row, the new game will be a cross-generational affair that's coming as soon as next February, and sees a player-created character heading up a gang of four as they go on to establish a criminal empire. Among that group is Eli, a nerdy planner with an MBA, Neenah, who provides the driving talent and Kevin, who, er, has some lovely abs? Then there's the player character themselves, defined by the player using some of the same deep customisation options seen previously in the series - and the group's make-up promises to play into the co-op that is also at the heart of this Saints Row reboot. \nProviding the playground this time out is Santo Ileso, which draws heavily upon the American south west. It's broken down into nine distinct districts, including the downbeat Rancho Providencio, Las Vegas analogue El Dorado and the secluded suburban Monte Vista. In the heart of the city there's an extended emphasis on verticality (and the promise of some tools to make the most of all that, with wingsuits and ziplines that catapult players into the air). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-saints-row-reboot-dials-back-the-excesses-of-saints-row-4",
+          "publishedOn": "2021-08-25T20:00:00.000Z",
+          "wordCount": 1126,
+          "title": "Saints Row reboot dials back the excesses of Saints Row 4"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164537",
+          "author": "Wesley Yin-Poole",
+          "description": "Valheim's first major update comes out 16th September.\nPublisher Coffee Stain Publishing and developer Iron Gate Studio confirmed the date for Valheim Hearth & Home, and released a new cinematic animated trailer, below, during Gamescom Opening Night Live.\nThe hugely successful open-world co-op survival game gets a raft of new content with this update.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-valheims-first-major-update-hearth-and-home-out-16th-september",
+          "publishedOn": "2021-08-25T19:51:00.000Z",
+          "wordCount": 745,
+          "title": "Valheim's first major update, Hearth & Home, out 16th September"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164722",
+          "author": "Wesley Yin-Poole",
+          "description": "New World's open beta runs from 9th to 12th September, Amazon Games has announced.\nThe MMO launches proper on 28th September.\nAmazon Games also launched a new trailer, below:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-new-world-open-beta-dates-announced-new-trailer-released",
+          "publishedOn": "2021-08-25T19:46:00.000Z",
+          "wordCount": 656,
+          "title": "New World open beta dates announced, new trailer released"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164724",
+          "author": "Matt Wales",
+          "description": "Frontier Developments' dino-park management sim sequel Jurassic World Evolution 2 will be stomping onto Xbox, PlayStation, and PC on 9th November.\nPlayers familiar with the original 2018 game should be immediately at home with Evolution 2, which once again tasks budding managers with building and maintaining their own dinosaur theme park, laying out exhibits, tending to visitors needs, and, of course, making sure the attractions don't eat the guests.\nIt's not all business as usual though; Jurassic World Evolution 2 shifts the action away from the exclusively tropical setting of Muertes Archipelago, as seen in the first game, and gives players the chance to build their parks across a diverse range of new environments - from dense forests to scorched deserts - each with unique environmental challenges, including bespoke weather such as sandstorms and snow.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-jurassic-world-evolution-2-gets-november-release-date",
+          "publishedOn": "2021-08-25T19:45:00.000Z",
+          "wordCount": 831,
+          "title": "Jurassic World Evolution 2 gets November release date"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164534",
+          "author": "Tom Phillips",
+          "description": "Someone is making a video game version of the original Jumanji board game featured in the classic 1995 film. \nSo, to be clear, it's a video game based on the game in the movie. Not on the movie itself. Or on the newer movies, or the Jumanji video game in those. Got it?\nWork is underway for PC and Nintendo Switch at Marmalade Game Studio, a small outfit which has previously converted more traditional board games like Monopoly and Cluedo. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-theres-a-jumanji-video-game-based-on-the-original-movie",
+          "publishedOn": "2021-08-25T19:35:00.000Z",
+          "wordCount": 666,
+          "title": "There's a Jumanji video game based on the original movie"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164709",
+          "author": "Wesley Yin-Poole",
+          "description": "April O'Neil is a playable character in the promising Teenage Mutant Ninja Turtles: Shredder's Revenge.\nPublisher Dotemu and developer Tribute Games announced the retro-styled beat 'em-up launches on Nintendo Switch and PC in 2022. April's debut was featured within a new trailer, below:\nHere's the official blurb:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-april-oneil-is-a-playable-character-in-the-promising-teenage-mutant-ninja-turtles-shredders-revenge",
+          "publishedOn": "2021-08-25T19:26:00.000Z",
+          "wordCount": 640,
+          "title": "April O'Neil is a playable character in the promising Teenage Mutant Ninja Turtles: Shredder's Revenge"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164704",
+          "author": "Tom Phillips",
+          "description": "Horizon Forbidden West will now launch for PlayStation 4 and PS5 on 18th February 2022, developer Guerilla Games has confirmed. \nThat's a delay from its earlier expected release window late in 2021. Tonight during Gamescom's Opening Night Live broadcast, Guerilla Games said it had needed more time to polish the game, and that it had been impacted by difficulties arising from the pandemic. \nIn other Horizon news, the PS5 version of Horizon Zero Dawn has today been updated with a 60fps mode. This patch has just gone live, and should be available to download now. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-horizon-forbidden-west-delayed-to-february-2022",
+          "publishedOn": "2021-08-25T19:25:00.000Z",
+          "wordCount": 598,
+          "title": "Horizon Forbidden West delayed to February 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164702",
+          "author": "Matt Wales",
+          "description": "It's been over a year since its last public showing, but Lego Star Wars: The Skywalker Saga has finally resurfaced at tonight's Gamescom Opening Night Live showcase with a new gameplay trailer and a spring 2022 release window.\nThe Skywalker Saga, an all-new retelling of Lucasfilm's nine Star Wars films built in a new engine, was announced at E3 2019 for a late 2020 release. However, it's now seen two delays - the most recent in April this year - leaving many to wonder when it would finally resurface.\nAnd the answer, of course, is today, with Opening Night Live serving up a fresh look at The Skywalker Saga in a brand-new trailer blending cutscenes and gameplay of familiar moments from right across the Star Wars nonology, all given a typically comedic Lego game twist. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-lego-star-wars-the-skywalker-saga-gets-new-trailer-spring-2022-release-window",
+          "publishedOn": "2021-08-25T19:17:00.000Z",
+          "wordCount": 726,
+          "title": "Lego Star Wars: The Skywalker Saga gets new trailer, spring 2022 release window"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164559",
+          "author": "Tom Phillips",
+          "description": "Black Desert Online developer Pearl Abyss has shown more of DokeV, its upcoming and extremely eye-catching monster collection MMO, as part of Gamescom's Opening Night Live.\nIt's difficult not to be impressed by the visual flair and ambition on-screen, as characters run, ride, glide and drive around its beautiful world. \nI'm less impressed by its monsters - a collection of oddball creatures which in turn look like animals, robots or piñatas. It's also unclear exactly how battles will work - they look real-time, with items and weaponry seemingly summoned out of thin air. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-dokev-is-an-eye-catching-pokemon-style-mmo",
+          "publishedOn": "2021-08-25T19:07:00.000Z",
+          "wordCount": 704,
+          "title": "DokeV is an eye-catching Pokémon-style MMO"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164691",
+          "author": "Wesley Yin-Poole",
+          "description": "Splitgate Season 0 stars now, developer 1047 Games has announced.\nSeason 0 for the free-to-play Halo meets Portal shooter includes a new battle pass with 100 levels, new seasonal challenges and rewards, a new map, and new modes. Trailer is below:\nThe new mode is called Contamination. Here, the contaminated player equips only a melee weapon and contaminates as many other players as possible by killing them, ending the round when all other players become infected. Players who become contaminated then spawn and switch sides, garnering points for contaminating as many players as they can. Uninfected players equip a shotgun and earn points by killing as many contaminated players as they can.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-splitgate-season-0-adds-a-new-map-new-mode-and-starts-now",
+          "publishedOn": "2021-08-25T19:05:00.000Z",
+          "wordCount": 669,
+          "title": "Splitgate Season 0 adds a new map, new mode and starts now"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164618",
+          "author": "Chris Tapsell",
+          "description": "You might've heard the rumours of a \"Marvel XCOM\", coming from tactics specialist Firaxis, and turns out: they're mostly true. During Gamescom's Opening Night Live stream, the studio revealed Marvel's Midnight Suns, described as a \"tactical RPG\" - although from talking to creative director Jake Solomon, it's quite a bit less XCOM-y than some of those tweets and reddit threads may have led you to believe. \nSo, what's it all about? Midnight Suns is set in the \"darker side of the Marvel Universe\", based on a '90s comic book series called Rise of the Midnight Sons - although apparently it's deliberately not an exact retelling of those events. The setup for the game is this: perpetual baddies Hydra have revived someone called Lilith, who does a bit of dead-raising that threatens to overrun the Avengers (Iron Man, Captain America, Captain Marvel, Dr. Strange, and Wolverine can be spotted in the trailer). The Avengers call up a few extra supernatural mates to help out, called the Midnight Suns, which includes Nico Minoru, Blade, Magik, and Ghost Rider, and a few more (12 Marvel heroes in total), and together they then resurrect some help of their own: one more hero, newly created for the game, called the Hunter, who's also Lilith's child and apparently the only one able to kill her.\nThe Hunter, who's customisable (in \"appearance\" and also in terms of a choice of about 40 different abilities), is who you'll be playing as, which is where things immediately depart from the XCOM formula. You'll be controlling both the Hunter and the other heroes in combat, with battles featuring three heroes total at a time, but then the time between battles is spent in one of two ways: managing your base, a mystical safehouse called the Abbey - so far so XCOM - or actually walking around the Abbey in third-person, over-the-shoulder view, exploring its \"extensive\" grounds and interacting with the other heroes.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-firaxis-reveals-marvels-midnight-suns-a-tactical-rpg-thats-less-xcom-than-you-might-think",
+          "publishedOn": "2021-08-25T19:00:00.000Z",
+          "wordCount": 2163,
+          "title": "Firaxis reveals Marvel's Midnight Suns, a \"tactical RPG\" that's less XCOM than you might think"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164680",
+          "author": "Tom Phillips",
+          "description": "Persona 5's Morgana is the latest playable character coming to Super Monkey Ball: Banana Blitz, Sega has announced, as paid-for post-launch DLC.\nTonight's Gamescom Opening Night Live trailer for the game showed off the game's new feline addition (though also stated his voiceover and background music aren't in the game). \nWe also got a brief glimpse at the 12 party games included in Banana Blitz. (Don't worry, Target is of course there.) The full list includes Monkey Target, Baseball, Tennis, Racing, Fight, Bowling, Golf, Billiards, Soccer, Shot, Boat and Dogfighting.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-persona-5s-morgana-in-super-monkey-ball-banana-blitz",
+          "publishedOn": "2021-08-25T18:59:00.000Z",
+          "wordCount": 640,
+          "title": "Persona 5's Morgana in Super Monkey Ball: Banana Blitz"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164678",
+          "author": "Wesley Yin-Poole",
+          "description": "Hot on the heels of Halo Infinite's release date announcement, Microsoft has released a new video for the game, and revealed a Halo Infinite-themed Xbox Series X and a new Halo-themed controller.\nFirst up, the video. Microsoft showed off Halo Infinite's multiplayer season 1 cinematic intro, which reveals Commander Agryna. Here's the official blurb:\n\"Humanity's forces are scattered. Desperate resistance efforts have continued to fall short on multiple fronts, from Cortana's relentless martial law to the expanding power and ambition of Atriox and the Banished. But there is hope: a new generation of Spartans, training in secret to become unstoppable. In this cinematic introduction to Season 1 of Halo Infinite multiplayer, get a glimpse into the Academy Commander's own heroic journey and what it truly means to be a Spartan.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-halo-infinite-multiplayer-season-1-cinematic-intro-halo-infinite-xbox-series-x-and-halo-infinite-controller-revealed",
+          "publishedOn": "2021-08-25T18:54:00.000Z",
+          "wordCount": 982,
+          "title": "Halo Infinite multiplayer Season 1 cinematic intro, Halo Infinite Xbox Series X, and Halo Infinite controller revealed"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164658",
+          "author": "Wesley Yin-Poole",
+          "description": "Lara Croft creator Toby Gard has resurfaced with a new game called Dream Cycle.\nDream Cycle is an action adventure game and the first title from Gard's new studio Cathuria Games. Raw Fury has picked up the game as publisher. Trailer is below:\nHere's the official blurb:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-25-lara-croft-creator-toby-gard-resurfaces-with-new-game-dream-cycle",
+          "publishedOn": "2021-08-25T18:30:00.000Z",
+          "wordCount": 769,
+          "title": "Lara Croft creator Toby Gard resurfaces with new game Dream Cycle"
+        },
+        {
           "id": "https://www.eurogamer.net/article.php?article_id=2164633",
           "author": "Wesley Yin-Poole",
           "description": "King of Fighters 15 comes out 17th February 2022.\nThe announcement was made in a new video shown off during the Gamescom Opening Night Live pre-show. The video confirmed 39 playable characters and the return of the series' classic 3v3 battle system.\nSNK fighting game King of Fighters 15 is due out on PC via the Epic Games Store and Steam, PlayStation 5, PlayStation 4, Xbox Series X and S and Xbox One.\nRead more",
@@ -6123,69 +6366,6 @@
           "publishedOn": "2021-07-27T13:30:00.000Z",
           "wordCount": 1013,
           "title": "Over 2000 current and former Activision Blizzard employees sign petition calling company response to discrimination lawsuit \"abhorrent and insulting\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160414",
-          "author": "Wesley Yin-Poole",
-          "description": "Warhammer: Vermintide 2 has received a PlayStation 5 performance and visual update.\nThe upgrade for Fatshark's melee co-op game includes a boosted framerate of 60fps at 1440p resolution, improved shadow quality and casting, higher density scattering, and screen space reflections.\nA similar update to the game was released on Xbox Series X and S earlier this year.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-warhammer-vermintide-2-the-latest-game-to-get-a-ps5-update",
-          "publishedOn": "2021-07-27T11:01:00.000Z",
-          "wordCount": 638,
-          "title": "Warhammer: Vermintide 2 the latest game to get a PS5 update"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160409",
-          "author": "Tom Phillips",
-          "description": "This will be Fortnite's first big live event in quite some time - since last December's big Marvel season finale - and, unusually, it is coming in the middle of the game's current UFO-themed season. \nWhat do we expect to happen? Well, leaks and Epic's own legal documentation have pegged an Ariana Grande concert as coming soon - though the current state of the island suggests this will somehow be wrapped into its current alien theme. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-fortnite-countdown-sets-stage-for-live-event-next-friday",
-          "publishedOn": "2021-07-27T10:51:00.000Z",
-          "wordCount": 867,
-          "title": "Fortnite countdown sets stage for live event next Friday"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160400",
-          "author": "Emma Kent",
-          "description": "Last month we got our first look at Forza Horizon 5's beautiful Mexico setting, and if that video left you hungry for more, just take a look at these brand new screenshots. \nShared in a blog post on Xbox Wire, the screenshots (and brief video clips) provide a nice look at Forza Horizon 5's 11 \"distinct and unique biomes\". Seasons will return with Forza Horizon 5, and each of these 11 biomes will transition through the seasons differently: spring will bring the rainy season to the farmland and jungles, for instance, while summer might bring tropical storms to the coast. All on a map that's about one-and-a-half times the size of Forza Horizon 4. \n\"We knew from the beginning that we wanted this to be the biggest Forza Horizon yet. However, if we wanted to be the biggest, then we felt we also needed to offer the most diversity and contrast as well,\" said creative director Mike Brown. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-forza-horizon-5s-biomes-shown-off-in-gorgeous-new-screenshots",
-          "publishedOn": "2021-07-27T10:43:00.000Z",
-          "wordCount": 924,
-          "title": "Forza Horizon 5's biomes shown off in gorgeous new screenshots"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160397",
-          "author": "Wesley Yin-Poole",
-          "description": "The makers of a 14-year-old Grand Theft Auto: San Andreas mod have pulled it offline themselves over a fear of a takedown from Take-Two.\nGTA United is a mod based on San Andreas for PC. It unites the maps of Grand Theft Auto 3 and Grand Theft Auto Vice City in one game area within San Andreas, effectively replacing San Andreas' map.\nWork on the free, non-commercial mod began in 2006. The first beta of what was then known as \"Vice City 2 San Andreas\" came out in early 2007. The beta for \"Liberty City 2 San Andreas\" came out soon after. Then, in late 2007, the beta for a combined effort called GTA United was released. Five years later, in December 2012, GTA United 1.2 was released. It remained available ever since - until now.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-makers-of-15-year-old-gta-san-andreas-mod-were-so-worried-about-a-take-two-takedown-they-pulled-it-offline-themselves",
-          "publishedOn": "2021-07-27T10:28:00.000Z",
-          "wordCount": 1269,
-          "title": "Makers of 14-year-old GTA San Andreas mod were so worried about a takedown, they pulled it offline themselves"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160391",
-          "author": "Tom Phillips",
-          "description": "Pokémon Go developer Niantic is battling to overturn a wave of false account bans.\nThe game's anti-cheat system appears to have incorrectly flagged numerous player accounts for using \"third-party applications\" - AKA cheating software.\nLast night, after Eurogamer flagged the bans to Niantic, the developer acknowledged the problem and said it would now work to restore any affected player accounts.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-pokemon-go-battling-to-overturn-false-ban-wave",
-          "publishedOn": "2021-07-27T10:12:00.000Z",
-          "wordCount": 954,
-          "title": "Pokémon Go developer battling to overturn false ban wave"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160393",
-          "author": "Ishraq Subhan",
-          "description": "A live-action Pokémon series is in the works for Netflix.\nThat's according to Variety, which reports Joe Henderson, executive producer and co-showrunner for Lucifer, is writing and producing the show.\nThe show will apparently be similar to the Detective Pikachu movie that was released in 2019, with a mix of live-action performances and CGI creatures. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-it-looks-like-netflix-has-commissioned-a-live-action-pokemon-series",
-          "publishedOn": "2021-07-27T10:03:00.000Z",
-          "wordCount": 630,
-          "title": "It looks like Netflix has commissioned a live-action Pokémon series"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160384",
-          "author": "Wesley Yin-Poole",
-          "description": "The open beta for Splitgate was so popular the developers have delayed the game's launch to August.\n1047 said two million people had downloaded Splitgate's crossplay open beta in just two weeks, which caused server issues.\n1047's four engineers - out of a total team of 30 - took the game from 400 concurrent players to more than 75,000 concurrents in a matter of days, the developer said.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-splitgates-open-beta-was-so-popular-the-dev-has-delayed-launch-to-august",
-          "publishedOn": "2021-07-27T09:22:00.000Z",
-          "wordCount": 862,
-          "title": "Splitgate's open beta was so popular the dev has delayed launch to August"
         }
       ]
     }
