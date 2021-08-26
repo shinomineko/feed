@@ -112,15 +112,6 @@
           "publishedOn": "2021-07-30T00:00:00.000Z",
           "wordCount": 185,
           "title": "Mine Captcha"
-        },
-        {
-          "id": "https://xkcd.com/2495/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/universal_seat_belt.png\" title=\"The plug fits really snugly, so it should be safe in a crash.\" alt=\"The plug fits really snugly, so it should be safe in a crash.\" />",
-          "link": "https://xkcd.com/2495/",
-          "publishedOn": "2021-07-28T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Universal Seat Belt"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/08/interesting-privilege-escalation-vulnerability.html",
+          "author": null,
+          "description": "<p>If you plug a Razer peripheral (mouse or keyboard, I think) into a Windows 10 or 11 machine, you can use a vulnerability in the Razer Synapse software &#8212; which automatically downloads &#8212; to <a href=\"https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/\">gain SYSTEM privileges</a>.</p>\n<blockquote><p>It should be noted that this is a local privilege escalation (LPE) vulnerability, which means that you need to have a Razer devices and physical access to a computer. With that said, the bug is so easy to exploit as you just need to spend $20 on Amazon for Razer mouse and plug it into Windows 10 to become an admin.</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/interesting-privilege-escalation-vulnerability.html",
+          "publishedOn": "2021-08-26T11:28:00.000Z",
+          "wordCount": 402,
+          "title": "Interesting Privilege Escalation Vulnerability"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html",
           "author": null,
@@ -365,6 +365,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1789710",
+          "author": "Andrew Cunningham",
+          "description": "Most people wouldn't notice most of the time, but that doesn't make it OK.",
+          "link": "https://arstechnica.com/?p=1789710",
+          "publishedOn": "2021-08-26T10:30:38.000Z",
+          "wordCount": 1027,
+          "title": "Silent changes to Western Digital’s budget SSD may lower speeds by up to 50%"
+        },
         {
           "id": "https://arstechnica.com/?p=1789874",
           "author": "Jon Brodkin",
@@ -3091,87 +3100,6 @@
           "publishedOn": "2021-07-28T11:42:10.000Z",
           "wordCount": 1027,
           "title": "Haron and BlackMatter are the latest groups to crash the ransomware party"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783549",
-          "author": "John Timmer",
-          "description": "Most honeycombs are perfect hexagons—but bees manage complex exceptions.",
-          "link": "https://arstechnica.com/?p=1783549",
-          "publishedOn": "2021-07-27T23:12:58.000Z",
-          "wordCount": 1197,
-          "title": "Mergers, twists, and pentagons: The architecture of honeycombs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783524",
-          "author": "Samuel Axon",
-          "description": "But the company warned of coming iPhone and iPad supply constraints.",
-          "link": "https://arstechnica.com/?p=1783524",
-          "publishedOn": "2021-07-27T22:10:27.000Z",
-          "wordCount": 801,
-          "title": "Apple reports a 50% year-over-year jump in iPhone sales"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783521",
-          "author": "Beth Mole",
-          "description": "Fully vaccinated people should mask up in high-transmission areas, schools.",
-          "link": "https://arstechnica.com/?p=1783521",
-          "publishedOn": "2021-07-27T20:56:57.000Z",
-          "wordCount": 1256,
-          "title": "CDC mask reversal: Vaccinated should wear masks in many settings amid surge"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783333",
-          "author": "Jennifer Ouellette",
-          "description": "A gang of mini Stay-Puft marshmallow men in a Walmart steals the show.",
-          "link": "https://arstechnica.com/?p=1783333",
-          "publishedOn": "2021-07-27T20:09:00.000Z",
-          "wordCount": 1358,
-          "title": "New Ghostbusters: Afterlife trailer teases return of lots of familiar faces"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783404",
-          "author": "Kyle Orland",
-          "description": "Organizers seek movement on diversity, pay transparency, arbitration clauses.",
-          "link": "https://arstechnica.com/?p=1783404",
-          "publishedOn": "2021-07-27T19:36:15.000Z",
-          "wordCount": 1391,
-          "title": "Activision Blizzard “Walkout for Equality” to protest management inaction"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783431",
-          "author": "Jon Brodkin",
-          "description": "Starlink and other ISPs may have to give up money that Pai shouldn't have awarded.",
-          "link": "https://arstechnica.com/?p=1783431",
-          "publishedOn": "2021-07-27T19:17:00.000Z",
-          "wordCount": 1963,
-          "title": "Ajit Pai apparently mismanaged $9 billion fund—new FCC boss starts “cleanup”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783100",
-          "author": "Ron Amadeo",
-          "description": "GCP offers a stability promise that the rest of the company could learn from.",
-          "link": "https://arstechnica.com/?p=1783100",
-          "publishedOn": "2021-07-27T19:01:12.000Z",
-          "wordCount": 1244,
-          "title": "Google Cloud offers a model for fixing Google’s product-killing reputation"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783379",
-          "author": "Tim De Chant",
-          "description": "Toyota has stepped up lobbying to preserve its investments in hybrids, hydrogen.",
-          "link": "https://arstechnica.com/?p=1783379",
-          "publishedOn": "2021-07-27T18:30:49.000Z",
-          "wordCount": 1445,
-          "title": "Toyota bet wrong on EVs, so now it’s lobbying to slow the transition"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783373",
-          "author": "Sam Machkovech",
-          "description": "All Quest 2 systems pulled from shelves ahead of August price, storage refresh.",
-          "link": "https://arstechnica.com/?p=1783373",
-          "publishedOn": "2021-07-27T18:24:40.000Z",
-          "wordCount": 1124,
-          "title": "Facebook recalls 4 million Quest 2 VR face liners over “rashes and hives”"
         }
       ]
     },
@@ -3352,6 +3280,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164795",
+          "author": "Tom Phillips",
+          "description": "You can nab a free copy of Saints Row: The Third Remastered on PC via the Epic Games Store right now, until 2nd September. \nThe offer comes in celebration of last night's big Saints Row reboot announcement during Gamescom's Opening Night Live livestream.\nWhy is Epic offering Saints Row: The Third for free? Well, the upcoming Saints Row reboot will only be available for PC at launch via the Epic Games Store.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-26-saints-row-the-third-remastered-free-on-epic-games-store",
+          "publishedOn": "2021-08-26T09:52:00.000Z",
+          "wordCount": 789,
+          "title": "Saints Row: The Third Remastered free on Epic Games Store"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164793",
+          "author": "Wesley Yin-Poole",
+          "description": "Some of eFootball's new gameplay mechanics, animations and even kicks won't be in at launch, Konami has confirmed.\nThe publisher today showed off gameplay for eFootball - what was once PES - with a new trailer, below, and confirmed a handful of new mechanics and gameplay features that won't be available until some future update.\nFor example, the new control ball trapping feature is only available post-launch. \"Loads of dribbles and body feints are also available with intuitive commands,\" Konami said. \"These make every duel an exciting moment for both attacker and defender.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-26-some-of-efootballs-new-gameplay-mechanics-animations-and-even-kicks-wont-be-in-at-launch",
+          "publishedOn": "2021-08-26T09:26:00.000Z",
+          "wordCount": 1121,
+          "title": "Some of eFootball's new gameplay mechanics, animations and even kicks won't be in at launch"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164772",
+          "author": "Wesley Yin-Poole",
+          "description": "Celebrated Saints Row modder Mike \"IdolNinja\" Watson has died.\nWatson, who led the Saints Row 2 patch project at Volition, died yesterday after a long battle with cancer.\nIn May, Watson's illness caused him to step down from his position as Volition community manager, although he continued to work on the Saints Row 2 patch project.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-26-tributes-to-saints-row-modder-mike-idolninja-watson-who-has-died",
+          "publishedOn": "2021-08-26T08:50:00.000Z",
+          "wordCount": 1213,
+          "title": "Tributes paid to Saints Row modder Mike \"IdolNinja\" Watson, who has died"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2164775",
+          "author": "Tom Phillips",
+          "description": "The game's pandemic era 80m interaction range will now become the game's \"base\" interaction level globally, the developer said. (Pre-pandemic, it was 40m.)\nNiantic announced the news last night to jubilation among fans and numerous high-profile figures in the game's community who had united in an unprecedented call for Niantic to rethink its plans to ditch the doubled distance in certain countries, after changes went live in the US and New Zealand. (The changes were then repealed in New Zealand after a new government-enforced lockdown.)\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-26-pokemon-go-u-turns-on-controversial-post-pandemic-changes",
+          "publishedOn": "2021-08-26T08:44:00.000Z",
+          "wordCount": 986,
+          "title": "Pokémon Go U-turns on controversial post-pandemic changes"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2164750",
           "author": "Matt Wales",
@@ -6258,33 +6222,6 @@
           "publishedOn": "2021-07-28T10:27:00.000Z",
           "wordCount": 748,
           "title": "You can get yourself an Xbox doughnut this August"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160518",
-          "author": "Matt Wales",
-          "description": "Activision Blizzard employees are planning a walkout tomorrow, 28th July, in protest against the company's response to a recent lawsuit from California's Department of Fair Employment and Housing alleging a \"frat boy\" work culture that created \"a breeding ground for harassment and discrimination against women\".\nActivision was quick to slam the lawsuit, strongly denying its claims and dismissing it as \"irresponsible behaviour from unaccountable State bureaucrats that are driving many of the State's best businesses out of California\".\nThat was a stance repeated in an email reportedly disseminated by Activision Blizzard executive Fran Townsend, who insisted the lawsuit \"presented a distorted and untrue picture of our company, including factually incorrect, old, and out of context stories\". Townshead continued, \"Rest assured that leadership is committed to continuing to maintain a safe, fair, and inclusive workplace. We cannot let egregious actions of others, and a truly meritless and irresponsible lawsuit, damage our culture of respect and equal opportunity for all employees.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-activision-blizzard-employees-planning-walkout-following-companys-abhorrent-response-to-discrimination-lawsuit",
-          "publishedOn": "2021-07-27T22:58:00.000Z",
-          "wordCount": 1127,
-          "title": "Activision Blizzard employees planning walkout following company's \"abhorrent\" response to discrimination lawsuit"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160516",
-          "author": "Matt Wales",
-          "description": "Facebook has temporarily halted sales of its Oculus Quest 2 headset as it takes steps to recall and replace the device's foam insert following reports it has caused facial rashes and skin irritation in some customers.\n\"As more people started using Quest 2,\" Facebook explained in its recall notice on the Oculus website, \"we received reports that a very small percentage of Quest 2 customers were experiencing skin irritation after using the Quest 2 removable foam facial interface. We've been working hard to address the issue, working with experts and making adjustments to our manufacturing process, and communicating proactively with regulators.\"\nFacebook initially announced it was investigating reports of skin irritation from Quest 2 last December, and provided an update on its findings back in April.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-facebook-temporarily-halts-oculus-quest-2-sales-recalls-foam-inserts-following-reports-of-skin-irritation",
-          "publishedOn": "2021-07-27T21:31:00.000Z",
-          "wordCount": 1039,
-          "title": "Facebook temporarily halts Oculus Quest 2 sales, recalls foam inserts following reports of skin irritation"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160505",
-          "author": "Matt Wales",
-          "description": "Monster Hunter Rise continues its schedule of crossover updates on Switch this Friday, 30th July, as Amaterasu, star of Capcom's beloved action-adventure classic Okami, joins the game.\nMore specifically, Monster Hunter Rise players will be able to acquire Amaterasu in the form of a unlockable layered armour set for their Palamute, and there's a little more to the outfit than a mere skin swap. With the Amaterasu armour equipped, Palamutes won't just resemble the beloved Okami character, they'll bound across the landscape leaving a trail of blooming flowers and leaves in their wake, as is befitting of a Sun Goddess.\nAs yet, Capcom hasn't specified what, exactly, players will need to go up against to obtain the new layered armour set, but expect a similar format to June's collaboration (which added a Palico skin themed around Monster Hunter Stories 2's Felyne Tsukino), meaning players will need to farm materials from a new event quest included as part of the update.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-27-okamis-amaterasu-heading-to-monster-hunter-rise-this-week",
-          "publishedOn": "2021-07-27T18:14:00.000Z",
-          "wordCount": 752,
-          "title": "Okami's Amaterasu heading to Monster Hunter Rise this week"
         }
       ]
     }
