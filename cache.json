@@ -357,6 +357,33 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1790177",
+          "author": "Jon Brodkin",
+          "description": "Proposed settlement would make it a bit easier to avoid Apple App Store commission.",
+          "link": "https://arstechnica.com/?p=1790177",
+          "publishedOn": "2021-08-27T04:59:24.000Z",
+          "wordCount": 1564,
+          "title": "Apple will finally let devs tell users about non-App Store purchase options"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790157",
+          "author": "Beth Mole",
+          "description": "Don't make the FDA warn you again that you are neither horse nor cow.",
+          "link": "https://arstechnica.com/?p=1790157",
+          "publishedOn": "2021-08-27T00:59:13.000Z",
+          "wordCount": 1566,
+          "title": "More people are poisoning themselves with horse-deworming drug to thwart COVID"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1789953",
+          "author": "Jennifer Ouellette",
+          "description": "New methods could eventually be used to track illicit trafficking of nuclear material.",
+          "link": "https://arstechnica.com/?p=1789953",
+          "publishedOn": "2021-08-27T00:29:25.000Z",
+          "wordCount": 1643,
+          "title": "New evidence shows this uranium cube is likely relic of Nazi A-bomb program"
+        },
+        {
           "id": "https://arstechnica.com/?p=1790000",
           "author": "Sam Machkovech",
           "description": "Access currently requires a song and dance between the Netflix app and Google Play.",
@@ -3100,33 +3127,6 @@
           "publishedOn": "2021-07-28T18:18:24.000Z",
           "wordCount": 1217,
           "title": "A global index to track the health of tropical rainforests"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783647",
-          "author": "Tim De Chant",
-          "description": "Facebook's problems aren’t sexy to solve, so it has found a distraction.",
-          "link": "https://arstechnica.com/?p=1783647",
-          "publishedOn": "2021-07-28T16:25:16.000Z",
-          "wordCount": 1854,
-          "title": "Facebook’s metaverse gambit is a distraction from its deep-seated problems"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783621",
-          "author": "Kyle Orland",
-          "description": "Activision Blizzard will remove \"inappropriate\" in-game content among other moves.",
-          "link": "https://arstechnica.com/?p=1783621",
-          "publishedOn": "2021-07-28T14:45:40.000Z",
-          "wordCount": 1021,
-          "title": "Kotick apologizes for “tone deaf” response, promises action following lawsuit"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1783579",
-          "author": "Eric Berger",
-          "description": "\"We expect to continue to incur net losses for the next several years.\"",
-          "link": "https://arstechnica.com/?p=1783579",
-          "publishedOn": "2021-07-28T13:11:39.000Z",
-          "wordCount": 1094,
-          "title": "Rocket Lab not yet close to profitability, proxy statement reveals"
         }
       ]
     },
@@ -3151,6 +3151,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/08/27/minreadyseconds-statefulsets/",
+          "author": null,
+          "description": "Authors: Ravi Gudimetla (Red Hat), Maciej Szulik (Red Hat)\nThis blog describes the notion of Availability for StatefulSet workloads, and a new alpha feature in Kubernetes 1.22 which adds minReadySeconds configuration for StatefulSets.\nWhat problems does this solve?\nPrior to Kubernetes 1.22 release, once a StatefulSet Pod is in the Ready state it is considered Available to receive traffic. For some of the StatefulSet workloads, it may not be the case. For example, a workload like Prometheus with multiple instances of Alertmanager, it should be considered Available only when Alertmanager's state transfer is complete, not when the Pod is in Ready state. Since minReadySeconds adds buffer, the state transfer may be complete before the Pod becomes Available. While this is not a fool proof way of…",
+          "link": "https://kubernetes.io/blog/2021/08/27/minreadyseconds-statefulsets/",
+          "publishedOn": "2021-08-27T00:00:00.000Z",
+          "wordCount": 3529,
+          "title": "Blog: Minimum Ready Seconds for StatefulSets"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/08/25/seccomp-default/",
           "author": null,
@@ -3283,15 +3292,6 @@
           "publishedOn": "2021-08-04T14:30:00.000Z",
           "wordCount": 1173,
           "title": "The Cloud’s Competing Approaches to Deprecation"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=10683",
-          "author": "Corey Quinn",
-          "description": "Be wary of the ways Amazon is running its retail business; it’s starting to leach into AWS.\nThe post The Amazonian Evil Infecting AWS appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/the-amazonian-evil-infecting-aws/",
-          "publishedOn": "2021-07-28T14:30:00.000Z",
-          "wordCount": 1422,
-          "title": "The Amazonian Evil Infecting AWS"
         }
       ]
     },
@@ -6195,105 +6195,6 @@
           "publishedOn": "2021-07-28T20:53:00.000Z",
           "wordCount": 1472,
           "title": "Ubisoft employees sign open letter slamming management's \"empty promises\" following last year's toxic work culture allegations"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160698",
-          "author": "Matt Wales",
-          "description": "Organisers of today's staff walkout at Activision Blizzard are pressing ahead with the protest, saying the statement released by company boss Bobby Kotick overnight \"fails to address critical elements at the heart of the employee concerns\".\nActivision Blizzard employees announced strike action last night, in protest against the company's response to a recent lawsuit from California's Department of Fair Employment and Housing which alleged a \"frat boy\" work culture that created \"a breeding ground for harassment and discrimination against women\".\nActivision immediately went on the defensive, calling the lawsuit \"irresponsible behaviour from unaccountable State bureaucrats that are driving many of the State's best businesses out of California\". Activision Blizzard executive Fran Townsend later doubled down on the attack in an email to all employees, calling the lawsuit \"truly meritless and irresponsible lawsuit\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-activision-blizzard-employees-press-ahead-with-walkout-say-kotick-statement-fails-to-address-critical-elements",
-          "publishedOn": "2021-07-28T16:44:00.000Z",
-          "wordCount": 1192,
-          "title": "Activision Blizzard employees press ahead with walkout, say Kotick statement \"fails to address critical elements\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160681",
-          "author": "Emma Kent",
-          "description": "The Tokyo 2020 Olympic opening ceremony featured a suite of video game music - including tracks from Final Fantasy, Kingdom Hearts and Sonic the Hedgehog - but one publisher was notably missing from the lineup. Where was Nintendo? According to leaked documents, it seems that there were once plans for the publisher to be more involved with the opening ceremony, with Nintendo songs included in the soundtrack and various Mario-themed shenanigans. \nThe news comes via Japanese media outlet Shukan Bunshun, which has obtained several documents for the opening ceremony ranging from April 2020 to July this year. According to these plans, the event would have featured performances inspired by the \"8-bit world of video games\" including Super Mario and Space Invaders, overseen by Nintendo legend Shigeru Miyamoto. \nOne composition plan dated 4th October 2020 featured a proposal that would have seen the return of the warp pipes from the Rio de Janeiro Olympics closing ceremony... with something of a twist. One graphic shows Lady Gaga entering a pipe, only to re-emerge as comedian Naomi Watanabe (sporting a blonde wig and red cap).   \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-nintendo-was-supposed-to-be-involved-in-olympic-opening-ceremony-report-claims",
-          "publishedOn": "2021-07-28T16:08:00.000Z",
-          "wordCount": 1167,
-          "title": "Nintendo pulled out of Tokyo 2020 Olympic opening ceremony, report claims"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160680",
-          "author": "Tom Phillips",
-          "description": "Microsoft has announced August's Xbox Games with Gold lineup, which includes colourful platformer Yooka-Laylee and the... slightly less colourful Darksiders 3.\nDarksiders 3 will become available for Games with Gold subscribers to claim from 1st to 31st August. Yooka-Laylee will then be available from 16th August to 15th September. \n\"Playtonic's tribute to Banjo is a gentle, irreverent platformer let down by spotty handling and a slight shortage of genius,\" Edwin wrote of Yooka-Laylee in Eurogamer's review. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-xbox-games-with-gold-for-august-announced",
-          "publishedOn": "2021-07-28T15:29:00.000Z",
-          "wordCount": 704,
-          "title": "Xbox Games with Gold for August announced"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160677",
-          "author": "Matt Wales",
-          "description": "Picross is already amazing, but what could make an amazing thing even amazing-ier? I'll tell you what: giving it all a big 'ol Master System and Mega Drive themed makeover and then hurling the whole nostalgia-tweaking package onto Switch next week, on 5th August.\nPicross S Mega Drive & Master System Edition (known as Picross S Genesis & Master System Edition in the US for obvious reasons) is an official collaboration between Sega and developer Jupiter, the team behind the long-running, and consistently brilliant, puzzle series.\nOnce again, the meat of the game involves filling in little squares on a grid - using the numerical clues above and beside each column and row for pointers - until you've successfully managed to create a picture. This time, though, players are working toward creating final images that conjure characters from a total of 59 classic Sega games (and to musical accompaniment from each), some of which are revealed in the announcement trailer below.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-theres-an-official-mega-drive-and-master-system-themed-picross-game-heading-to-switch-next-week",
-          "publishedOn": "2021-07-28T15:23:00.000Z",
-          "wordCount": 903,
-          "title": "There's an official Mega Drive and Master System themed Picross game on the way"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160662",
-          "author": "Martin Robinson",
-          "description": "A new studio has been formed by veterans from the Santa Monica dev scene, taking in talent from Infinity Ward,, Naughty Dog and Sony Santa Monica, with a $100 million investment from South Korean publisher Smilegate helping them make an all-new single player AAA adventure. \nThat's No Moon's new project will see Taylor Kurosaki - formerly narrative design lead at Naughty Dog and studio narrative director at Infinity Ward - as creative director, with The Last of Us' lead game designer Jacob Minkoff working as game director. \nOffices will be split between San Diego and Los Angeles, with talent from Bungie and EA also on board. Don't expect to see what the team's working on anytime soon, though - the announcement comes as part of a recruitment drive, with That's No Moon looking to ramp up to 100 staff in 2022.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-ex-naughty-dog-and-sony-santa-monica-devs-working-on-new-aaa-single-player-adventure",
-          "publishedOn": "2021-07-28T14:37:00.000Z",
-          "wordCount": 657,
-          "title": "Ex-Naughty Dog and Sony Santa Monica devs working on new AAA single player adventure"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160646",
-          "author": "Tom Phillips",
-          "description": "Now's the time for trumpeting console sales figures, and Xbox has a marketing statistic of its own to flex. \nSpeaking last night in a company earnings call, Microsoft boss Satya Nadella said Xbox Series X/S were the company's \"fastest-selling consoles ever, with more consoles sold life-to-date than any previous generation\".\nBut Microsoft again refrained from sharing its actual sales figures - something the company hasn't made public now for many years. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-microsoft-says-xbox-series-x-s-are-its-fastest-selling-consoles-ever",
-          "publishedOn": "2021-07-28T14:12:00.000Z",
-          "wordCount": 804,
-          "title": "Microsoft says Xbox Series X/S are its \"fastest-selling consoles ever\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160638",
-          "author": "Ishraq Subhan",
-          "description": "The next instalment of Hitman 3's Seven Deadly Sins expansion has been released.\nCentral to the update is a brand new Escalation contract set in the Berlin nightclub map. The Lust Assignation Escalation tasks Agent 47 with collecting intel on a secret admirer. Collect the clues and observe everyone on the dancefloor to identify the secret admirer and the Pretenders. Each time you start the contract, the admirer will be randomly selected to make each playthrough different and put all of your sleuthing skills to the test.\nCompleting the contract rewards you with three rewards. First, the Scarlet Suit, a red snakeskin suit complemented by matching driving gloves and sunglasses. Second, the Serpent's Bite, a remotely detonated explosive that looks like a snake. Third, the Serpent's Tongue, a unique crossbow loaded with blinding darts. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-hitman-3s-season-of-lust-is-out-now",
-          "publishedOn": "2021-07-28T13:43:00.000Z",
-          "wordCount": 812,
-          "title": "Hitman 3's Season of Lust is out now"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160628",
-          "author": "Wesley Yin-Poole",
-          "description": "PlayStation 5 has now hit an impressive 10m sold, Sony has announced.\nIt remains the fastest-selling PlayStation ever.\nThe 10m sales figure was achieved on 18th July, just under a month faster than the PlayStation 4.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-as-ps5-hits-10m-sold-sony-says-improving-inventory-levels-remains-a-top-priority",
-          "publishedOn": "2021-07-28T13:17:00.000Z",
-          "wordCount": 888,
-          "title": "As PS5 hits 10m sold, Sony says \"improving inventory levels remains a top priority\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160617",
-          "author": "Emma Kent",
-          "description": "Last month PUBG was given a major update with the introduction of new map Taego and a Gulag-style second chance system, but there are yet more surprises in store - with multi-care packages, a secret room and... burning planes... all being added in the latest update. \nThe patch notes for update 13.1 for PC are now live, and detail changes for both Taego and the wider game. Possibly the most dramatic addition is a feature called the \"emergency landing plane\", which will definitely keep players on their toes at the start of a match. Instead of the usual calm flight above the battlegrounds, this plane starts hurtling towards the ground - while on fire - and any players who remain on board until the end of the journey will take 50 percent damage. It travels faster than the normal plane, and has a varied fall height, so you'll need to jump at the start of the journey if you want to glide further across the map. \n\"Stay alert and pay attention to the flight crew's instructions, as not every flight is an easy one,\" the patch notes say. You don't have to tell me twice.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-pubgs-burning-planes-will-start-matches-with-a-bang",
-          "publishedOn": "2021-07-28T13:00:00.000Z",
-          "wordCount": 1052,
-          "title": "PUBG's burning planes will spice up the start of matches"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160621",
-          "author": "Wesley Yin-Poole",
-          "description": "Glitchpunk launches on Steam in Early Access form on 11th August with its first playable city, publisher Daedalic has announced.\nThe top-down sci-fi action game, which has been described as a cross between Grand Theft Auto 2 and Cyberpunk, launches then with the city of New Baltia playable.\nThis provides around eight hours of play at launch, developer Dark Lord said, with more to come.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-gta2-meets-cyberpunk-game-glitchpunk-launches-on-steam-early-access-in-august",
-          "publishedOn": "2021-07-28T12:52:00.000Z",
-          "wordCount": 663,
-          "title": "GTA2 meets Cyberpunk game Glitchpunk launches on Steam Early Access in August"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2160610",
-          "author": "Ishraq Subhan",
-          "description": "The UK is a weird place, London most of all. For example, Westminster City Council spent £2m commissioning a new hill (no, I'm serious) near Marble Arch that opened on Monday. \nFor the low price of £8, people with too much money to spend can climb the 25-metre-tall structure to have a prime view of, err, Oxford Street and Hyde Park, I guess. \nHowever, this waste of taxpayer money might just be a money-maker as a Mario-themed attraction. As Nintendo Life points out, people have been comparing the hill for its uncanny resemblance to Super Mario 64's Bob-Omb Battlefield. Others have compared it to Minecraft or a PlayStation One game. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-07-28-people-think-thata-new-hill-in-london-is-from-super-mario-64",
-          "publishedOn": "2021-07-28T12:24:00.000Z",
-          "wordCount": 792,
-          "title": "People think that new hill in London looks like Super Mario 64"
         }
       ]
     }
