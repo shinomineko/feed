@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/08/details-of-the-recent-t-mobile-breach.html",
+          "author": null,
+          "description": "<p>Seems that 47 million customers <a href=\"https://techcrunch.com/2021/08/18/t-mobile-says-at-least-47m-current-and-former-customers-affected-by-data-breach/\">were</a> <a href=\"https://www.vice.com/en/article/akg8wg/tmobile-investigating-customer-data-breach-100-million\">affected</a>. Surprising no one, T-Mobile had <a href=\"https://www.wsj.com/articles/t-mobile-hacker-who-stole-data-on-50-million-customers-their-security-is-awful-11629985105\">awful</a> <a href=\"https://www.axios.com/t-mobile-hacker-john-binns-b23f8cdc-4c9e-45bf-adca-c16047108ffc.html\">security</a>.</p>\n<p>I&#8217;ve lost count of how many times T-Mobile has been hacked.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/08/details-of-the-recent-t-mobile-breach.html",
+          "publishedOn": "2021-08-27T13:37:12.000Z",
+          "wordCount": 908,
+          "title": "Details of the Recent T-Mobile Breach"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/08/interesting-privilege-escalation-vulnerability.html",
           "author": null,
           "description": "<p>If you plug a Razer peripheral (mouse or keyboard, I think) into a Windows 10 or 11 machine, you can use a vulnerability in the Razer Synapse software &#8212; which automatically downloads &#8212; to <a href=\"https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/\">gain SYSTEM privileges</a>.</p>\n<blockquote><p>It should be noted that this is a local privilege escalation (LPE) vulnerability, which means that you need to have a Razer devices and physical access to a computer. With that said, the bug is so easy to exploit as you just need to spend $20 on Amazon for Razer mouse and plug it into Windows 10 to become an admin.</p></blockquote>",
@@ -356,6 +365,51 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1790182",
+          "author": "Andrew Cunningham",
+          "description": "Security and stability are both much better on newer PCs, says Microsoft.",
+          "link": "https://arstechnica.com/?p=1790182",
+          "publishedOn": "2021-08-27T17:37:05.000Z",
+          "wordCount": 1650,
+          "title": "Why Windows 11 has such strict hardware requirements, according to Microsoft"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790038",
+          "author": "Andrew Cunningham",
+          "description": "Microsoft sticks to its guns—1st-gen Ryzen, other CPUs won't make the cut.",
+          "link": "https://arstechnica.com/?p=1790038",
+          "publishedOn": "2021-08-27T17:00:05.000Z",
+          "wordCount": 955,
+          "title": "Microsoft will support some, but not most, 7th-gen Intel Core CPUs in Windows 11"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790215",
+          "author": "Ron Amadeo",
+          "description": "Check out the weird clipped-on display and the plastic-coated metal body.",
+          "link": "https://arstechnica.com/?p=1790215",
+          "publishedOn": "2021-08-27T16:31:30.000Z",
+          "wordCount": 877,
+          "title": "Pixel 5a teardown shows a surprising amount of metal"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790231",
+          "author": "Jonathan M. Gitlin",
+          "description": "Why do highway planners refuse to accept that more lanes means more traffic?",
+          "link": "https://arstechnica.com/?p=1790231",
+          "publishedOn": "2021-08-27T16:20:57.000Z",
+          "wordCount": 1251,
+          "title": "Please stop adding more lanes to busy highways—it doesn’t help"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1790220",
+          "author": "Financial Times",
+          "description": "Brussels expected to open investigation in early September over competition concerns.",
+          "link": "https://arstechnica.com/?p=1790220",
+          "publishedOn": "2021-08-27T14:47:48.000Z",
+          "wordCount": 677,
+          "title": "EU set to launch formal probe into Nvidia’s $54 billion takeover of Arm"
+        },
         {
           "id": "https://arstechnica.com/?p=1790106",
           "author": "Matt Paprocki",
@@ -3238,6 +3292,15 @@
       "siteUrl": "https://alpinelinux.org/atom.xml",
       "articles": [
         {
+          "id": "https://alpinelinux.org/posts/Alpine-3.14.2-released.html",
+          "author": null,
+          "description": "Alpine 3.14.2 released",
+          "link": "https://alpinelinux.org/posts/Alpine-3.14.2-released.html",
+          "publishedOn": "2021-08-27T00:00:00.000Z",
+          "wordCount": 652,
+          "title": "Alpine 3.14.2 released"
+        },
+        {
           "id": "https://alpinelinux.org/posts/Alpine-3.14.1-released.html",
           "author": null,
           "description": "Alpine 3.14.1 released",
@@ -3253,6 +3316,78 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165108",
+          "author": "Matt Wales",
+          "description": "American Truck Simulator is finally ready roll out to a brand-new destination, with its long-awaited Wyoming expansion now confirmed for release on 7th September.\nWyoming is the eighth state to be added to American Truck Simulator since its launch in 2016 - following developer SCS' increasingly lavish recreations of Arizona, New Mexico, Oregon, Washington, Utah, Idaho, and Colorado - and opens up myriad new routes for long-distance haulers and landscape fetishists to enjoy.\nWyoming will link up American Truck Simulator's previous Colorado, Idaho, and Utah expansions for more convenient cross-country trucking, just leaving a Montana-shaped gap at the very top of the game's map. Of course, we already know SCS' next destination is to the east, with the developer having confirmed it's hard at work capturing the vast sprawl of Texas for its next expansion release as it slowly ticks off all 50 states.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-american-truck-simulators-wyoming-expansion-gets-september-release-date",
+          "publishedOn": "2021-08-27T15:50:00.000Z",
+          "wordCount": 806,
+          "title": "American Truck Simulator's Wyoming expansion gets September release date"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165091",
+          "author": "Ishraq Subhan",
+          "description": "No More Heroes fans got some bittersweet news today.\nWith the release of No More Heroes 3 today, which got a Eurogamer Recommended badge and an overwhelmingly positive review, its creator, Goichi Suda, announced the game will be the last in the series. \n\"As hinted at with the 'Final' thing, Travis Touchdown will finally be coming to the end of his final battle, and will be embarking on a much-deserved, long journey. Join him as he goes absolutely buck wild in the Garden - no, Cosmos of Madness!\" Suda shared in a statement. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-no-more-heroes-creator-says-the-series-is-over",
+          "publishedOn": "2021-08-27T14:42:00.000Z",
+          "wordCount": 769,
+          "title": "No More Heroes creator says the series is over"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165090",
+          "author": "Tom Phillips",
+          "description": "Gamescom Opening Night Live stream, though its CGI introduction did not land perfectly for some fans of the franchise.\nQuickly, then, developer Volition has revealed a longer, more in-depth look at the game's Santo Ileso setting via our first proper peek at in-game footage.\nSanto Ileso's south-western US setting is a departure for the series - though Volition developers here make the case that it will still be \"strange\". Next, its cast of four main characters who become friends - the Boss (that's you), Eli the investor, Nina the gearhead and Kevin, a shirtless wannabe TV chef. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-heres-a-deeper-dive-into-the-new-saints-row",
+          "publishedOn": "2021-08-27T14:40:00.000Z",
+          "wordCount": 869,
+          "title": "Here's a deeper dive into the new Saints Row"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165068",
+          "author": "Tom Phillips",
+          "description": "Apple has agreed to let iOS App Store developers email their users and mention alternative payment options outside of the company's App Store. \nThis means, for example, a game company who holds a user's email address could then contact that person to suggest they buy a season pass or in-game currency directly from them, rather than via the App Store where Apple takes its cut. \nUntil now, Apple did not let developers use any contact information obtained from within an app to contact their users outside of the app. A class-action lawsuit said this was unfair, and blocked the ability for them to inform customers of cheaper purchase options (thanks, Ars Technica). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-apple-settles-lawsuit-to-let-developers-email-users-about-alternative-payment-options",
+          "publishedOn": "2021-08-27T13:41:00.000Z",
+          "wordCount": 901,
+          "title": "Apple settles lawsuit to let developers email users about alternative payment options"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165072",
+          "author": "Ishraq Subhan",
+          "description": "In the game that will never die, Rockstar has added a brand-new game mode into GTA Online, but rather than being a throwaway update that will be forgotten about in a month, this one genuinely is quite fun.\nKart Krash: Full Auto sees players fight to be the last one surviving in teams or chaotic free-for-alls, using the weapons attached to their go-karts and assorted power-ups scattered about the map to take their opponents out. It's a bit like Mario Kart's Battle Mode, except there's tanks and machine guns. \nGo-karts aren't new to the game, having arrived back in December with The Cayo Perico Heist. But the new game mode dedicates these vehicles to their own arena. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-gta-online-has-a-new-go-kart-mode-and-its-surprisingly-fun",
+          "publishedOn": "2021-08-27T13:09:00.000Z",
+          "wordCount": 811,
+          "title": "GTA Online has a new go-kart mode and it's surprisingly fun"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165064",
+          "author": "Tom Phillips",
+          "description": "But, fair enough, today's trailer is even better. Metroid fans will be delighted at some of the previously-unseen stuff this video reveals - and to save spoiling it first, I'll just let you watch. \nPhew, okay. So, picking up from that last trailer, clearly here we have a very living and angry Chozo who Samus must fight. Why are they living? Why are they angry? I am looking forward to Metroid Dread providing answers to these questions. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-metroid-dread-trailer-reveals-an-iconic-boss",
+          "publishedOn": "2021-08-27T12:49:00.000Z",
+          "wordCount": 813,
+          "title": "Metroid Dread trailer reveals an iconic boss"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165060",
+          "author": "Ishraq Subhan",
+          "description": "One noteworthy absence from Gamescom's Opening Night Live show was any gameplay footage of Halo Infinite's campaign. \nInstead, we got a fancy cinematic introduction of the game's first season, along with the leaked 8th December release date. \nBut in a post on 343's Inside Infinite blog, lead writer Joseph Staten explained that the team is currently in \"shutdown mode\" as they polish the game for final release. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-343-industries-explains-why-we-havent-seen-halo-infinite-campaign-gameplay-since-last-year",
+          "publishedOn": "2021-08-27T12:20:00.000Z",
+          "wordCount": 886,
+          "title": "343 Industries explains why we haven't seen Halo Infinite campaign gameplay since last year"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2165043",
+          "author": "Martin Robinson",
+          "description": "Assetto Corsa Competizione - one of the very best racing sims available at the moment, if you've got the right set-up - is getting a next gen upgrade next February for PlayStation 5 and Xbox Series S/X. \nIt promises to bring stable 60fps performance, private lobbies and updated liveries for the 2021 GT World Challenge series, and there'll be a free update path for owners of the PlayStation 4 and Xbox One versions to their respective next-gen upgrades. \nAssetto Corsa Competizione first came out on PC in 2018, with its sole purpose being to replicate the GT World Challenge series (the series formerly known as Blancpain GT), which sees the Spa 24 Hours as its centrepiece. The initial console port was decent if lacking in some areas - areas which this next gen update would seem to address. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-08-27-assetto-corsa-competizione-gets-a-next-gen-update-next-february",
+          "publishedOn": "2021-08-27T11:12:00.000Z",
+          "wordCount": 673,
+          "title": "Assetto Corsa Competizione gets a next gen update next February"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2165035",
           "author": "Ishraq Subhan",
