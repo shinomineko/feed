@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T00:03:39.802Z</updated>
+    <updated>2021-08-30T06:02:41.186Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.22: A New Design for Volume Populators]]></title>
+        <id>https://kubernetes.io/blog/2021/08/30/volume-populators-redesigned/</id>
+        <link href="https://kubernetes.io/blog/2021/08/30/volume-populators-redesigned/"/>
+        <updated>2021-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors:
+Ben Swartzlander (NetApp)
+Kubernetes v1.22, released earlier this month, introduced a redesigned approach for volume
+populators. Originally implemented
+in v1.18, the API suffered from backwards compatibility issues. Kubernetes v1.22 includes a new API
+field called dataSourceRef that fixes these problems.
+Data sources
+Earlier Kubernetes releases already added a dataSource field into the
+PersistentVolumeClaim API,
+used for cloning volumes and creating volumes from snapshots. You could use the dataSource field when
+creating a new PVC, referencing either an existing PVC or a VolumeSnapshot in the same namespace.
+That also modified the normal provisioning process so that instead of yielding an empty volume, the
+new PVC contained the same data as either the cloned PVC or the cloned Volu…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The modern challenge of gaming without a strong Internet connection]]></title>
         <id>https://arstechnica.com/?p=1790312</id>
@@ -7627,84 +7649,6 @@ The technical preview launched with bots that felt pretty easy, and last night I
 Read more]]></summary>
         <author>
             <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impressive-looking Esports Boxing Club delayed, but it's got Tyson Fury]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2161095</id>
-        <link href="https://www.eurogamer.net/articles/2021-07-31-impressive-looking-esports-boxing-club-delayed-but-its-got-tyson-fury"/>
-        <updated>2021-07-31T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[The impressive-looking boxing game, which we covered in March after its gameplay reveal trailer caught the eye, was set to launch in early access form this summer. This will now not happen.
-In a new video, below, Sheffield-based developer Steel City Interactive showed an updated look at gameplay, running through its various mechanics, control system for evasion, combat and combinations, with all the dodging, weaving, blocking and slips you'd expect from a boxing sim.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Green Knight weaves a compelling coming-of-age fantasy quest]]></title>
-        <id>https://arstechnica.com/?p=1783822</id>
-        <link href="https://arstechnica.com/?p=1783822"/>
-        <updated>2021-07-31T16:55:54.000Z</updated>
-        <summary type="html"><![CDATA[David Lowery's atmospheric film is as richly textured and layered as the original poem.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age of Empires fans are having their say on Age of Empires 4's ships and water]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2161094</id>
-        <link href="https://www.eurogamer.net/articles/2021-07-31-microsoft-shows-off-age-of-empires-4-naval-warfare-in-brief-new-video"/>
-        <updated>2021-07-31T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has shown off Age of Empires 4 naval warfare in a brief new video, and it's certainly got the series' fans talking.
-The video, below, offers a glimpse at the game's the naval units without showing actual gameplay.
-In truth, the video doesn't tell us much at all about naval warfare in Age of Empires 4, but we do get a look at the ships and the water.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With help from Google, impersonated Brave.com website pushes malware]]></title>
-        <id>https://arstechnica.com/?p=1784352</id>
-        <link href="https://arstechnica.com/?p=1784352"/>
-        <updated>2021-07-31T15:46:32.000Z</updated>
-        <summary type="html"><![CDATA[With a valid TLS certificate, faux Bravė.com could fool even security-savvy people.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The privacy battle Apple isn’t fighting]]></title>
-        <id>https://arstechnica.com/?p=1784258</id>
-        <link href="https://arstechnica.com/?p=1784258"/>
-        <updated>2021-07-31T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Browser-level privacy setting mandated by California is absent from Safari, iOS.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ascent dev says it's on the case as players discover PC version lacks DLSS and ray tracing on Game Pass but not Steam]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2161087</id>
-        <link href="https://www.eurogamer.net/articles/2021-07-31-the-ascent-dev-on-the-case-as-players-discover-pc-version-lacks-dlss-and-ray-tracing-on-game-pass-but-not-steam"/>
-        <updated>2021-07-31T12:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The developer of recently-released cyberpunk-themed RPG-shooter The Ascent has said it's working on a fix after players discovered the PC version lacks DLSS and ray tracing on Game Pass, but not Steam.
-The Ascent, published by Curve Digital and developed by Neon Giant, came out this week (check out our review to see what we thought) on PC and Xbox One and Xbox Series X and S, with a day-one launch on Xbox Game Pass.
-Players soon discovered the Game Pass version lacks some of the graphics features of the Steam version. Specifically, the Game Pass version does not support Nvidia's DLSS (Deep Learning Super Sampling) tech, and ray tracing simply doesn't work.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H.G. Wells’ “World Brain” is now here—what have we learned since?]]></title>
-        <id>https://arstechnica.com/?p=1784270</id>
-        <link href="https://arstechnica.com/?p=1784270"/>
-        <updated>2021-07-31T12:05:21.000Z</updated>
-        <summary type="html"><![CDATA[H.G. Wells presented a vision of society that events quickly eclipsed.]]></summary>
-        <author>
-            <name>Diana Gitig</name>
         </author>
     </entry>
 </feed>
