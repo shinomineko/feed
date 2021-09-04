@@ -112,15 +112,6 @@
           "publishedOn": "2021-08-09T00:00:00.000Z",
           "wordCount": 191,
           "title": "Global Temperature Over My Lifetime"
-        },
-        {
-          "id": "https://xkcd.com/2499/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/abandonment_function.png\" title=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" alt=\"Remember to only adopt domesticated drones that specifically request it. It's illegal to collect wild ones under the Migratory Drone Treaty Act.\" />",
-          "link": "https://xkcd.com/2499/",
-          "publishedOn": "2021-08-06T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Abandonment Function"
         }
       ]
     },
@@ -365,6 +356,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1791988",
+          "author": "Sam Machkovech",
+          "description": "Boots on the ground, mask on the face: We report on the weirdest PAX in years.",
+          "link": "https://arstechnica.com/?p=1791988",
+          "publishedOn": "2021-09-04T11:00:52.000Z",
+          "wordCount": 2556,
+          "title": "PAX-demic West impressions: Creating fun out of thin, masked air"
+        },
         {
           "id": "https://arstechnica.com/?p=1791967",
           "author": "Samuel Axon",
@@ -3163,78 +3163,6 @@
           "publishedOn": "2021-08-06T01:39:18.000Z",
           "wordCount": 1918,
           "title": "Back 4 Blood beta impressions: A template for potential co-op greatness"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785443",
-          "author": "Jon Brodkin",
-          "description": "Apple offers technical details, claims 1-in-1 trillion chance of false positives.",
-          "link": "https://arstechnica.com/?p=1785443",
-          "publishedOn": "2021-08-05T23:29:38.000Z",
-          "wordCount": 1772,
-          "title": "Apple explains how iPhones will scan photos for child-sexual-abuse images"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785293",
-          "author": "Samuel Axon",
-          "description": "Apple removed the story promoting the apps after developers pointed it out.",
-          "link": "https://arstechnica.com/?p=1785293",
-          "publishedOn": "2021-08-05T22:20:37.000Z",
-          "wordCount": 1139,
-          "title": "Developers complain that Apple promotes scam apps on the App Store"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785378",
-          "author": "Beth Mole",
-          "description": "At least four school districts have plans to defy the governor's orders.",
-          "link": "https://arstechnica.com/?p=1785378",
-          "publishedOn": "2021-08-05T21:53:56.000Z",
-          "wordCount": 964,
-          "title": "Florida in revolt as COVID cases spike, DeSantis rejects health measures"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785373",
-          "author": "Diana Gitig",
-          "description": "Life only works with chemicals that have the right orientations—but chemists don't.",
-          "link": "https://arstechnica.com/?p=1785373",
-          "publishedOn": "2021-08-05T21:44:13.000Z",
-          "wordCount": 1159,
-          "title": "Holding a mirror to life’s key molecules"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785300",
-          "author": "Sam Machkovech",
-          "description": "Soon, we'll learn whether live-action Hulu series lives up to Eisner-winning comics.",
-          "link": "https://arstechnica.com/?p=1785300",
-          "publishedOn": "2021-08-05T19:24:12.000Z",
-          "wordCount": 997,
-          "title": "Y: The Last Man TV series gets premiere trailer ahead of Sept. 13 Hulu launch"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785230",
-          "author": "Ron Amadeo",
-          "description": "Google hopes less restrictive subscription requirements will entice more buyers.",
-          "link": "https://arstechnica.com/?p=1785230",
-          "publishedOn": "2021-08-05T19:12:23.000Z",
-          "wordCount": 1425,
-          "title": "New Google Nest Cams can record video without a monthly subscription"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785283",
-          "author": "John Timmer",
-          "description": "Companies may be investing in production capacity that will outpace demand.",
-          "link": "https://arstechnica.com/?p=1785283",
-          "publishedOn": "2021-08-05T18:37:51.000Z",
-          "wordCount": 1242,
-          "title": "The hydrogen economy is about to get weird"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785312",
-          "author": "Financial Times",
-          "description": "Security researchers raise alarm over potential surveillance of personal devices.",
-          "link": "https://arstechnica.com/?p=1785312",
-          "publishedOn": "2021-08-05T18:35:08.000Z",
-          "wordCount": 1026,
-          "title": "Apple plans to scan US iPhones for child abuse imagery"
         }
       ]
     },
@@ -3320,15 +3248,6 @@
           "publishedOn": "2021-08-09T00:00:00.000Z",
           "wordCount": 3887,
           "title": "Blog: New in Kubernetes v1.22: alpha support for using swap memory"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/08/06/server-side-apply-ga/",
-          "author": null,
-          "description": "Authors: Jeffrey Ying, Google & Joe Betz, Google\nServer-side Apply (SSA) has been promoted to GA in the Kubernetes v1.22 release. The GA milestone means you can depend on the feature and its API, without fear of future backwards-incompatible changes. GA features are protected by the Kubernetes deprecation policy.\nWhat is Server-side Apply?\nServer-side Apply helps users and controllers manage their resources through declarative configurations. Server-side Apply replaces the client side apply feature implemented by “kubectl apply” with a server-side implementation, permitting use by tools/clients other than kubectl. Server-side Apply is a new merging algorithm, as well as tracking of field ownership, running on the Kubernetes api-server. Server-side Apply enables new features like conflict d…",
-          "link": "https://kubernetes.io/blog/2021/08/06/server-side-apply-ga/",
-          "publishedOn": "2021-08-06T00:00:00.000Z",
-          "wordCount": 4321,
-          "title": "Blog: Kubernetes 1.22: Server Side Apply moves to GA"
         }
       ]
     },
@@ -3423,6 +3342,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166103",
+          "author": "Wesley Yin-Poole",
+          "description": "Halo Infinite developer 343 has tweaked the game's radar so it feels more like the motion tracker seen in previous Halo titles.\nInfinite's combat sensor sparked a debate within the Halo community after it made its debut during the recent technical preview.\nThe combat sensor is the radar that sits in the bottom-left of your HUD. In the classic Halo games, the radar shows all movement except crouch-walking. But Halo Infinite's radar worked differently - it only displayed enemies when they were sprinting or shooting - a change that made it similar to Halo 5's Threat Tracker.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-04-halo-infinite-radar-tweaked-to-feel-more-like-the-motion-tracker-of-old",
+          "publishedOn": "2021-09-04T11:46:00.000Z",
+          "wordCount": 1007,
+          "title": "Halo Infinite radar tweaked to feel more like the motion tracker of old"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166081",
+          "author": "Matt Wales",
+          "description": "One of The Sims 4's earliest expansions, 2015's Spa Day, is getting a refresh next week, introducing a whole range of new features and improvements that'll be free to existing owners.\nThe original Spa Day (one of EA's mid-tier Game Packs, sitting between the smaller-scale Stuff Packs and more substantial Expansion Packs) brought a focus on health and relaxation to the Sims 4, adding the new spa building type where visiting Sims could de-stress and re-energise, enjoying everything from steam baths and stone massages to yoga and meditation.\nAs outlined in developer Maxis' latest livestream, next week's surprisingly expansive update to Spa Day will bring new features and tighter integration with the core game. There's a new High Maintenance trait, for instance, which can be soothed by a day at the spa, giving a little more impetus to use the facilities. Meanwhile, the old Wellness skill has now been expanded so that child Sims can take advantage of its calming benefits by participating in yoga and meditation (while wearing some new activity appropriate clothing, no less).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-04-the-sims-4s-old-spa-day-expansion-is-getting-a-big-content-refresh-next-week",
+          "publishedOn": "2021-09-04T05:57:00.000Z",
+          "wordCount": 1124,
+          "title": "The Sims 4's old Spa Day expansion is getting a big content refresh next week"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2166074",
           "author": "Matt Wales",
@@ -6194,24 +6131,6 @@
           "publishedOn": "2021-08-06T09:27:00.000Z",
           "wordCount": 814,
           "title": "Focus Home Interactive buys Streets of Rage 4 publisher Dotemu"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2161869",
-          "author": "Matt Wales",
-          "description": "Saber Interactive's Evil Dead game will no longer release this year as originally planned, and is now targeting a PlayStation, Xbox, Switch, and PC launch in February 2022.\nEvil Dead: The Game casts players as familiar faces from all across the Evil Dead franchise, bringing them together in co-operative union to battle the forces of darkness - chainsaws (and other assorted melee and ranged weapons) in hand. Adding an extra wrinkle to the core co-op action is a PvP component in which another player becomes the Kandarian Demon itself, able to roam the map in a bid to thwart the humans' plans.\nAccording to the gameplay trailer released earlier this year, human players will need hunt down pages of the Necronomicon, Raymond Knowby's tapes, and other artefacts in order to cast the spell needed to vanquish the demon and win a match, all of which sounds very much in the Dead by Daylight/Friday the 13th: The Game mold.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-08-05-saber-interactives-evil-dead-game-has-been-delayed-into-next-year",
-          "publishedOn": "2021-08-05T22:22:00.000Z",
-          "wordCount": 795,
-          "title": "Saber Interactive's Evil Dead game has been delayed into next year"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2161857",
-          "author": "Matt Wales",
-          "description": "Sony's been having a bit of an indie shindig over on the PlayStation Blog, ushering in seven announcements and reveals that might just leave PS4 and PS5 owners slightly aquiver. And if you missed them, you'll find everything gathered up into one convenient digest below.\nAdam Robinson-Yu's much-loved open-world exploration game A Short Hike, in which a small bird goes on a brief but thoroughly delightful mountain-climbing adventure, is coming to PlayStation consoles some time this autumn. We liked this one a lot when it released for PC back in 2019 - Christian Donlan called it \"dreamy brilliance\" in his Essential review - so it's definitely one to keep an eye out for.\nOxenfree 2: Lost Signals, the sequel to developer Night School Studio's deliciously eerie 2016 narrative adventure, is also confirmed to be coming to PlayStation consoles. It's set to feature an \"entirely new\" cast of characters - players control Riley Poverly as she investigates strange electromagnetic signals in her home town of Camena - while retaining, as Night School puts  it, \"the weird, heartfelt, and personalised experience of the original\". Previous word suggested Oxenfree 2 will launch later this year.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-08-05-heres-everything-revealed-as-part-of-sonys-playstation-indie-spotlight-event",
-          "publishedOn": "2021-08-05T18:42:00.000Z",
-          "wordCount": 1278,
-          "title": "Here's everything revealed as part of Sony's PlayStation Indie Spotlight event"
         }
       ]
     }
