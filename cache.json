@@ -112,15 +112,6 @@
           "publishedOn": "2021-08-11T00:00:00.000Z",
           "wordCount": 185,
           "title": "Average Familiarity"
-        },
-        {
-          "id": "https://xkcd.com/2500/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png\" title=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" alt=\"I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.\" />",
-          "link": "https://xkcd.com/2500/",
-          "publishedOn": "2021-08-09T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Global Temperature Over My Lifetime"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/09/lightning-cable-with-embedded-eavesdropping.html",
+          "author": null,
+          "description": "<p>Normal-looking cables (USB-C, Lightning, and so on) that <a href=\"https://www.vice.com/en/article/k789me/omg-cables-keylogger-usbc-lightning\">exfiltrate data</a> over a wireless network.</p>\n<p>I blogged about a previous prototype <a href=\"https://www.schneier.com/blog/archives/2019/02/usb_cable_with_.html\">here</a></p>",
+          "link": "https://www.schneier.com/blog/archives/2021/09/lightning-cable-with-embedded-eavesdropping.html",
+          "publishedOn": "2021-09-07T11:14:08.000Z",
+          "wordCount": 325,
+          "title": "Lightning Cable with Embedded Eavesdropping"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/09/tracking-people-by-their-mac-addresses.html",
           "author": null,
@@ -3172,15 +3172,6 @@
           "publishedOn": "2021-08-09T13:00:41.000Z",
           "wordCount": 1422,
           "title": "New “Glowworm attack” recovers audio from devices’ power LEDs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1785587",
-          "author": "Jim Salter",
-          "description": "The mobile app encrypts your photos before uploading them to the cloud.",
-          "link": "https://arstechnica.com/?p=1785587",
-          "publishedOn": "2021-08-08T21:49:38.000Z",
-          "wordCount": 1782,
-          "title": "Stingle is a privacy-focused, open source photo backup application"
         }
       ]
     },
@@ -3248,24 +3239,6 @@
           "publishedOn": "2021-08-11T00:00:00.000Z",
           "wordCount": 4050,
           "title": "Blog: Kubernetes Memory Manager moves to beta"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/08/09/csi-windows-support-with-csi-proxy-reaches-ga/",
-          "author": null,
-          "description": "Authors: Mauricio Poppe (Google), Jing Xu (Google), and Deep Debroy (Apple)\nThe stable version of CSI Proxy for Windows has been released alongside Kubernetes 1.22.  CSI Proxy enables CSI Drivers running on Windows nodes to perform privileged storage operations.\nBackground\nContainer Storage Interface (CSI) for Kubernetes went GA in the Kubernetes 1.13 release. CSI has become the standard for exposing block and file storage to containerized workloads on Container Orchestration systems (COs) like Kubernetes. It enables third-party storage providers to write and deploy plugins without the need to alter the core Kubernetes codebase. Legacy in-tree drivers are deprecated and new storage features are introduced in CSI, therefore it is important to get CSI Drivers to work on Windows.\nA CSI Driver…",
-          "link": "https://kubernetes.io/blog/2021/08/09/csi-windows-support-with-csi-proxy-reaches-ga/",
-          "publishedOn": "2021-08-09T00:00:00.000Z",
-          "wordCount": 3976,
-          "title": "Blog: Kubernetes 1.22: CSI Windows Support (with CSI Proxy) reaches GA"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/08/09/run-nodes-with-swap-alpha/",
-          "author": null,
-          "description": "Author: Elana Hashman (Red Hat)\nThe 1.22 release introduced alpha support for configuring swap memory usage for\nKubernetes workloads on a per-node basis.\nIn prior releases, Kubernetes did not support the use of swap memory on Linux,\nas it is difficult to provide guarantees and account for pod memory utilization\nwhen swap is involved. As part of Kubernetes' earlier design, swap support was\nconsidered out of scope, and a kubelet would by default fail to start if swap\nwas detected on a node.\nHowever, there are a number of use cases\nthat would benefit from Kubernetes nodes supporting swap, including improved\nnode stability, better support for applications with high memory overhead but\nsmaller working sets, the use of memory-constrained devices, and memory\nflexibility.\nHence, over the past two …",
-          "link": "https://kubernetes.io/blog/2021/08/09/run-nodes-with-swap-alpha/",
-          "publishedOn": "2021-08-09T00:00:00.000Z",
-          "wordCount": 3887,
-          "title": "Blog: New in Kubernetes v1.22: alpha support for using swap memory"
         }
       ]
     },
@@ -3351,6 +3324,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166377",
+          "author": "Tom Phillips",
+          "description": "fun if repetitive river raiding mode.\nTitle Update 1.3.1 launches this afternoon for all platforms, and weighs in at 26-34GB (or a more slender 14GB on PlayStation 5).\nRiver raids get the most attention today, with a sizable helping of fresh content. Three new maps, set in countries visited in Valhalla's expansions, effectively double the mode's size. There's also new cosmetics and abilities to unlock. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-07-assassins-creed-valhalla-adds-new-river-raid-maps-rewards",
+          "publishedOn": "2021-09-07T10:38:00.000Z",
+          "wordCount": 828,
+          "title": "Assassin's Creed Valhalla adds new river raid maps, rewards"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166373",
+          "author": "Wesley Yin-Poole",
+          "description": "Three more Asterix & Obelix games are due out within the next five years.\nFrench publisher Microids has signed a deal with Asterix owner Albert Rene Editions for the games, which follow the upcoming - and promising looking! - Asterix & Obelix: Slap Them All!.\nMicroids said the new games will dip into various video game genres, but didn't say anything else about them.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-07-three-more-asterix-and-obelix-games-due-within-the-next-five-years",
+          "publishedOn": "2021-09-07T10:14:00.000Z",
+          "wordCount": 599,
+          "title": "Three more Asterix & Obelix games due within the next five years"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166370",
+          "author": "Tom Phillips",
+          "description": "Five years after its launch disaster, No Man's Sky has finally earned all-time positive user recognition on Steam. \nThe game's all-time Steam user review average has now ticked over into the \"Mostly Positive\" category, after starting at \"Overwhelmingly Negative\". \nDeveloper Hello Games noted the milestone had been reached following the arrival of Frontiers, the game's latest expansion released last week, and shared an insight into how Steam's review metrics actually work. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-07-after-five-years-no-mans-sky-has-finally-hit-mostly-positive-reviews-on-steam",
+          "publishedOn": "2021-09-07T10:11:00.000Z",
+          "wordCount": 857,
+          "title": "After five years, No Man's Sky has finally hit \"mostly positive\" reviews on Steam"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166359",
+          "author": "Wesley Yin-Poole",
+          "description": "Resistance 3 is now 10 years old.\nInsomniac's sci-fi first-person shooter launched exclusively on PlayStation 3 on 6th September 2011, then in Europe on 9th September.\nIt was the final game in the Resistance trilogy, and supported stereoscopic 3D, the PlayStation Move and the Sharp Shooter (remember those?). It also had a PSN Pass (remember that?). The video below, made by Digital Foundry a decade ago, shows stereoscopic 3D gameplay capture from a preview build of Resistance 3:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-07-resistance-3-turns-10-years-old",
+          "publishedOn": "2021-09-07T09:39:00.000Z",
+          "wordCount": 865,
+          "title": "Resistance 3 turns 10 years old"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166361",
+          "author": "Tom Phillips",
+          "description": "That's according to developer Kaiko, who today released a screenshot of the DLC while it is \"wrapping up the final stages of production\".\nKingdoms of Amalur first released for PC, PlayStation 3 and Xbox 360 back in 2012 to decent reviews but poor sales and a messy legal situation. Eight years later, publisher THQ Nordic released its Re-Reckoning remaster for PC, PlayStation 4, Nintendo Switch and Xbox One. And that brings us right up to date. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-07-kingdoms-of-amalurs-new-dlc-fatesworn-still-coming-developer-says",
+          "publishedOn": "2021-09-07T09:36:00.000Z",
+          "wordCount": 786,
+          "title": "Kingdoms of Amalur's new DLC Fatesworn still coming, developer says"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2166346",
+          "author": "Wesley Yin-Poole",
+          "description": "The boss of Tripwire Interactive has stepped down after he said he was \"proud\" a draconian Texas anti-abortion law was allowed to stand.\nLast week John Gibson, president of the Chivalry 2, Killing Floor and Maneater publisher, tweeted to say he \"felt it was important to go on the record as a pro-life game developer\".\nTexas' new anti-abortion law took effect last week after a nod from the US supreme court. It allows anyone anywhere to sue anyone connected to an abortion in which cardiac activity was detected in the embryo: as early as six weeks into a pregnancy, before most women even realise they are pregnant.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-07-tripwire-boss-steps-down-after-heavily-criticised-texas-anti-abortion-law-tweet",
+          "publishedOn": "2021-09-07T08:22:00.000Z",
+          "wordCount": 1001,
+          "title": "Tripwire boss steps down after heavily-criticised Texas anti-abortion law tweet"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2166271",
           "author": "Wesley Yin-Poole",
