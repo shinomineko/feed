@@ -357,6 +357,15 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1793847",
+          "author": "John Timmer",
+          "description": "From Argentina to Nigeria, fact-checks limited false beliefs.",
+          "link": "https://arstechnica.com/?p=1793847",
+          "publishedOn": "2021-09-12T20:35:05.000Z",
+          "wordCount": 1160,
+          "title": "Fact-checking works to undercut misinformation in many countries"
+        },
+        {
           "id": "https://arstechnica.com/?p=1793697",
           "author": "WIRED",
           "description": "Overcrowding from COVID care is allowing infections to rise again.",
@@ -3082,33 +3091,6 @@
           "publishedOn": "2021-08-14T13:00:53.000Z",
           "wordCount": 1603,
           "title": "Review: Androids is a developer commentary track for the Android 1.0 era"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1787157",
-          "author": "Jim Salter",
-          "description": "\"I'm fresh out of ideas with regards to handling toxicity in the Perl community.\"",
-          "link": "https://arstechnica.com/?p=1787157",
-          "publishedOn": "2021-08-14T12:20:42.000Z",
-          "wordCount": 1663,
-          "title": "The Perl Foundation is fragmenting over Code of Conduct enforcement"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1787091",
-          "author": "WIRED",
-          "description": "Sampling might offer tantalizing clues about the past of the red planet.",
-          "link": "https://arstechnica.com/?p=1787091",
-          "publishedOn": "2021-08-14T11:10:45.000Z",
-          "wordCount": 1720,
-          "title": "Why Perseverance’s first Mars drilling test came up empty"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1787083",
-          "author": "WIRED",
-          "description": "With Pretty Good Phone Privacy, carriers wouldn't always know where you are.",
-          "link": "https://arstechnica.com/?p=1787083",
-          "publishedOn": "2021-08-14T10:30:27.000Z",
-          "wordCount": 1633,
-          "title": "A simple software fix could limit location data sharing"
         }
       ]
     },
@@ -3123,6 +3105,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/09/13/read-write-once-pod-access-mode-alpha/",
+          "author": null,
+          "description": "Author: Chris Henzie (Google)\nLast month's release of Kubernetes v1.22 introduced a new ReadWriteOncePod access mode for PersistentVolumes and PersistentVolumeClaims.\nWith this alpha feature, Kubernetes allows you to restrict volume access to a single pod in the cluster.\nWhat are access modes and why are they important?\nWhen using storage, there are different ways to model how that storage is consumed.\nFor example, a storage system like a network file share can have many users all reading and writing data simultaneously.\nIn other cases maybe everyone is allowed to read data but not write it.\nFor highly sensitive data, maybe only one user is allowed to read and write data but nobody else.\nIn the world of Kubernetes, access modes are the way you can define how durable storage is consumed.\nTh…",
+          "link": "https://kubernetes.io/blog/2021/09/13/read-write-once-pod-access-mode-alpha/",
+          "publishedOn": "2021-09-13T00:00:00.000Z",
+          "wordCount": 4695,
+          "title": "Blog: Introducing Single Pod Access Mode for PersistentVolumes"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/09/03/api-server-tracing/",
           "author": null,
@@ -5843,15 +5834,6 @@
           "publishedOn": "2021-08-14T15:50:00.000Z",
           "wordCount": 877,
           "title": "EA warns Battlefield 2042 playtesters who break NDA they may be banned from final game"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2163080",
-          "author": "Wesley Yin-Poole",
-          "description": "Valve has published the first video on its official YouTube channel in eight months: 'Introducing Steam Deck.'\nThe video, below, is a straightforward summary of the features of Valve's upcoming handheld, and succinctly makes the case for the device.\nIntroducing Steam Deck as \"the most powerful gaming handheld in the world\", Valve talks up the controls, fidelity and integration with Steam. \"Your Steam games are already on your Deck,\" we're told. \"Just sign in and play.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-08-14-valve-releases-introducing-steam-deck-video-remembers-its-youtube-channel-exists",
-          "publishedOn": "2021-08-14T10:32:00.000Z",
-          "wordCount": 849,
-          "title": "Valve releases 'Introducing Steam Deck' video, remembers its YouTube channel exists"
         }
       ]
     }

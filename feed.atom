@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-12T18:25:56.086Z</updated>
+    <updated>2021-09-13T00:30:14.087Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Introducing Single Pod Access Mode for PersistentVolumes]]></title>
+        <id>https://kubernetes.io/blog/2021/09/13/read-write-once-pod-access-mode-alpha/</id>
+        <link href="https://kubernetes.io/blog/2021/09/13/read-write-once-pod-access-mode-alpha/"/>
+        <updated>2021-09-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Chris Henzie (Google)
+Last month's release of Kubernetes v1.22 introduced a new ReadWriteOncePod access mode for PersistentVolumes and PersistentVolumeClaims.
+With this alpha feature, Kubernetes allows you to restrict volume access to a single pod in the cluster.
+What are access modes and why are they important?
+When using storage, there are different ways to model how that storage is consumed.
+For example, a storage system like a network file share can have many users all reading and writing data simultaneously.
+In other cases maybe everyone is allowed to read data but not write it.
+For highly sensitive data, maybe only one user is allowed to read and write data but nobody else.
+In the world of Kubernetes, access modes are the way you can define how durable storage is consumed.
+Th…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fact-checking works to undercut misinformation in many countries]]></title>
+        <id>https://arstechnica.com/?p=1793847</id>
+        <link href="https://arstechnica.com/?p=1793847"/>
+        <updated>2021-09-12T20:35:05.000Z</updated>
+        <summary type="html"><![CDATA[From Argentina to Nigeria, fact-checks limited false beliefs.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxenfree 2: Lost Signals' new villains are so powerful, they're breaking into the original game's source code]]></title>
         <id>https://www.eurogamer.net/article.php?article_id=2167167</id>
@@ -7319,49 +7348,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A new book by Googler Chet Haase offers an inside look at Android development.]]></summary>
         <author>
             <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Perl Foundation is fragmenting over Code of Conduct enforcement]]></title>
-        <id>https://arstechnica.com/?p=1787157</id>
-        <link href="https://arstechnica.com/?p=1787157"/>
-        <updated>2021-08-14T12:20:42.000Z</updated>
-        <summary type="html"><![CDATA["I'm fresh out of ideas with regards to handling toxicity in the Perl community."]]></summary>
-        <author>
-            <name>Jim Salter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Perseverance’s first Mars drilling test came up empty]]></title>
-        <id>https://arstechnica.com/?p=1787091</id>
-        <link href="https://arstechnica.com/?p=1787091"/>
-        <updated>2021-08-14T11:10:45.000Z</updated>
-        <summary type="html"><![CDATA[Sampling might offer tantalizing clues about the past of the red planet.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve releases 'Introducing Steam Deck' video, remembers its YouTube channel exists]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2163080</id>
-        <link href="https://www.eurogamer.net/articles/2021-08-14-valve-releases-introducing-steam-deck-video-remembers-its-youtube-channel-exists"/>
-        <updated>2021-08-14T10:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Valve has published the first video on its official YouTube channel in eight months: 'Introducing Steam Deck.'
-The video, below, is a straightforward summary of the features of Valve's upcoming handheld, and succinctly makes the case for the device.
-Introducing Steam Deck as "the most powerful gaming handheld in the world", Valve talks up the controls, fidelity and integration with Steam. "Your Steam games are already on your Deck," we're told. "Just sign in and play."
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simple software fix could limit location data sharing]]></title>
-        <id>https://arstechnica.com/?p=1787083</id>
-        <link href="https://arstechnica.com/?p=1787083"/>
-        <updated>2021-08-14T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[With Pretty Good Phone Privacy, carriers wouldn't always know where you are.]]></summary>
-        <author>
-            <name>WIRED</name>
         </author>
     </entry>
 </feed>
