@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-23T06:27:02.023Z</updated>
+    <updated>2021-09-23T12:28:13.512Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sony has quietly fixed PlayStation 4's dead battery issue]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2168849</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-23-sony-has-quietly-fixed-playstation-4s-dead-battery-issue"/>
+        <updated>2021-09-23T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Sony's recent PlayStation 4 firmware update v9.0 has quietly solved an issue with the console's internal CMOS battery. 
+This battery powers an internal clock the console uses to check eligibility for game ownership. Without the battery - such as when it naturally drains - both physical and digital games are left unplayable without connecting online. 
+Reports this week suggested the problem had been fixed in the v9.0 software update, even though it is not mentioned in Sony's official patch notes. Our Digital Foundry team has since been able to corroborate this and confirm the problem is indeed now solved. 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castlevania Advance Collection games listed]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2168836</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-23-castlevania-advance-collection-games-listed"/>
+        <updated>2021-09-23T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Game Boy Advance titles Castlevania: Circle of the Moon, Castlevania: Harmony of Dissonance and Castlevania: Aria of Sorrow will be included, as well as SNES deep cut Castlevania: Dracula X.
+That's according to Gematsu via the Taiwan Ratings Board, which also notes mention of a "rewind" function and "other handy features". 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Respawn gives definitive-sounding answer on possibility of more Titanfall, then backtracks]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2168828</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-23-respawn-gives-definitive-sounding-answer-on-possibility-of-more-titanfall-then-backtracks"/>
+        <updated>2021-09-23T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Respawn's Jason Garza gave a refreshingly frank answer when asked by a fan about what was going on with Titanfall these days. In short: nothing much at the moment, as the studio was so busy. 
+But as coverage of his comments gathered steam, Respawn this morning issued a new statement via Twitter aimed at press coverage of the matter, deliberately muddying the waters. 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Following expert advice, FDA authorizes boosters for people 65+, high risk]]></title>
         <id>https://arstechnica.com/?p=1797594</id>
@@ -1941,37 +1978,6 @@ Prior to Kubernetes 1.22 release, once a StatefulSet Pod is in the Ready state i
 The post How to Effectively Interview for Work with a Portfolio Site appeared first on Last Week in AWS.]]></summary>
         <author>
             <name>Corey Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meaning]]></title>
-        <id>https://www.monkeyuser.com/2021/meaning/</id>
-        <link href="https://www.monkeyuser.com/2021/meaning/"/>
-        <updated>2021-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software development satire]]></summary>
-        <author>
-            <name>MonkeyUser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Enable seccomp for all workloads with a new v1.22 alpha feature]]></title>
-        <id>https://kubernetes.io/blog/2021/08/25/seccomp-default/</id>
-        <link href="https://kubernetes.io/blog/2021/08/25/seccomp-default/"/>
-        <updated>2021-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Sascha Grunert, Red Hat
-This blog post is about a new Kubernetes feature introduced in v1.22, which adds
-an additional security layer on top of the existing seccomp support. Seccomp is
-a security mechanism for Linux processes to filter system calls (syscalls) based
-on a set of defined rules. Applying seccomp profiles to containerized workloads
-is one of the key tasks when it comes to enhancing the security of the
-application deployment. Developers, site reliability engineers and
-infrastructure administrators have to work hand in hand to create, distribute
-and maintain the profiles over the applications life-cycle.
-You can use the securityContext field of Pods and their
-containers can be used to adjust security related configurations of the
-workload. Kubernetes introduced dedicated …]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
         </author>
     </entry>
 </feed>

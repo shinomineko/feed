@@ -83,15 +83,6 @@
           "publishedOn": "2021-09-07T00:00:00.000Z",
           "wordCount": 49,
           "title": "Reusable Components"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/meaning/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/meaning/",
-          "publishedOn": "2021-08-25T00:00:00.000Z",
-          "wordCount": 48,
-          "title": "Meaning"
         }
       ]
     },
@@ -926,15 +917,6 @@
           "publishedOn": "2021-08-27T00:00:00.000Z",
           "wordCount": 3551,
           "title": "Blog: Minimum Ready Seconds for StatefulSets"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/08/25/seccomp-default/",
-          "author": null,
-          "description": "Author: Sascha Grunert, Red Hat\nThis blog post is about a new Kubernetes feature introduced in v1.22, which adds\nan additional security layer on top of the existing seccomp support. Seccomp is\na security mechanism for Linux processes to filter system calls (syscalls) based\non a set of defined rules. Applying seccomp profiles to containerized workloads\nis one of the key tasks when it comes to enhancing the security of the\napplication deployment. Developers, site reliability engineers and\ninfrastructure administrators have to work hand in hand to create, distribute\nand maintain the profiles over the applications life-cycle.\nYou can use the securityContext field of Pods and their\ncontainers can be used to adjust security related configurations of the\nworkload. Kubernetes introduced dedicated …",
-          "link": "https://kubernetes.io/blog/2021/08/25/seccomp-default/",
-          "publishedOn": "2021-08-25T00:00:00.000Z",
-          "wordCount": 4402,
-          "title": "Blog: Enable seccomp for all workloads with a new v1.22 alpha feature"
         }
       ]
     },
@@ -1020,6 +1002,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2168849",
+          "author": "Tom Phillips",
+          "description": "Sony's recent PlayStation 4 firmware update v9.0 has quietly solved an issue with the console's internal CMOS battery. \nThis battery powers an internal clock the console uses to check eligibility for game ownership. Without the battery - such as when it naturally drains - both physical and digital games are left unplayable without connecting online. \nReports this week suggested the problem had been fixed in the v9.0 software update, even though it is not mentioned in Sony's official patch notes. Our Digital Foundry team has since been able to corroborate this and confirm the problem is indeed now solved. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-23-sony-has-quietly-fixed-playstation-4s-dead-battery-issue",
+          "publishedOn": "2021-09-23T11:12:00.000Z",
+          "wordCount": 753,
+          "title": "Sony has quietly fixed PlayStation 4's dead battery issue"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2168836",
+          "author": "Tom Phillips",
+          "description": "Game Boy Advance titles Castlevania: Circle of the Moon, Castlevania: Harmony of Dissonance and Castlevania: Aria of Sorrow will be included, as well as SNES deep cut Castlevania: Dracula X.\nThat's according to Gematsu via the Taiwan Ratings Board, which also notes mention of a \"rewind\" function and \"other handy features\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-23-castlevania-advance-collection-games-listed",
+          "publishedOn": "2021-09-23T10:14:00.000Z",
+          "wordCount": 680,
+          "title": "Castlevania Advance Collection games listed"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2168828",
+          "author": "Tom Phillips",
+          "description": "Earlier this week, Respawn's Jason Garza gave a refreshingly frank answer when asked by a fan about what was going on with Titanfall these days. In short: nothing much at the moment, as the studio was so busy. \nBut as coverage of his comments gathered steam, Respawn this morning issued a new statement via Twitter aimed at press coverage of the matter, deliberately muddying the waters. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-23-respawn-gives-definitive-sounding-answer-on-possibility-of-more-titanfall-then-backtracks",
+          "publishedOn": "2021-09-23T09:55:00.000Z",
+          "wordCount": 1025,
+          "title": "Respawn gives definitive-sounding answer on possibility of more Titanfall, then backtracks"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2168771",
           "author": "Matt Wales",
