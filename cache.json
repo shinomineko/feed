@@ -258,6 +258,33 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1798244",
+          "author": "Jonathan M. Gitlin",
+          "description": "Despite Kia's expertise with electrification, the Carnival only comes as a V6 for now.",
+          "link": "https://arstechnica.com/?p=1798244",
+          "publishedOn": "2021-09-25T12:00:11.000Z",
+          "wordCount": 1407,
+          "title": "The 2022 Kia Carnival is a handsome minivan, but it needs a hybrid option"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1798361",
+          "author": "WIRED",
+          "description": "Algorithm made it harder for Black patients to qualify for transplants, other treatments.",
+          "link": "https://arstechnica.com/?p=1798361",
+          "publishedOn": "2021-09-25T11:22:23.000Z",
+          "wordCount": 1459,
+          "title": "A new formula may help black patients’ access to kidney care"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1798352",
+          "author": "WIRED",
+          "description": "DeSnake apparently eluded the takedown of AlphaBay and now plans to resurrect it.",
+          "link": "https://arstechnica.com/?p=1798352",
+          "publishedOn": "2021-09-25T10:15:04.000Z",
+          "wordCount": 2780,
+          "title": "He escaped the Dark Web’s biggest bust. Now he’s back"
+        },
+        {
           "id": "https://arstechnica.com/?p=1798388",
           "author": "Beth Mole",
           "description": "Universal masking prevents some school outbreaks and lowers case rates.",
@@ -1214,15 +1241,6 @@
           "publishedOn": "2021-08-30T00:00:00.000Z",
           "wordCount": 4186,
           "title": "Blog: Kubernetes 1.22: A New Design for Volume Populators"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/08/27/minreadyseconds-statefulsets/",
-          "author": null,
-          "description": "Authors: Ravi Gudimetla (Red Hat), Maciej Szulik (Red Hat)\nThis blog describes the notion of Availability for StatefulSet workloads, and a new alpha feature in Kubernetes 1.22 which adds minReadySeconds configuration for StatefulSets.\nWhat problems does this solve?\nPrior to Kubernetes 1.22 release, once a StatefulSet Pod is in the Ready state it is considered Available to receive traffic. For some of the StatefulSet workloads, it may not be the case. For example, a workload like Prometheus with multiple instances of Alertmanager, it should be considered Available only when Alertmanager's state transfer is complete, not when the Pod is in Ready state. Since minReadySeconds adds buffer, the state transfer may be complete before the Pod becomes Available. While this is not a fool proof way of…",
-          "link": "https://kubernetes.io/blog/2021/08/27/minreadyseconds-statefulsets/",
-          "publishedOn": "2021-08-27T00:00:00.000Z",
-          "wordCount": 3551,
-          "title": "Blog: Minimum Ready Seconds for StatefulSets"
         }
       ]
     },
@@ -1291,15 +1309,6 @@
           "publishedOn": "2021-08-31T00:00:00.000Z",
           "wordCount": 94,
           "title": "Alpine 3.11.12, 3.12.8 and 3.13.6 released"
-        },
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.14.2-released.html",
-          "author": null,
-          "description": "Alpine 3.14.2 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.14.2-released.html",
-          "publishedOn": "2021-08-27T00:00:00.000Z",
-          "wordCount": 652,
-          "title": "Alpine 3.14.2 released"
         }
       ]
     },
@@ -1308,6 +1317,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169212",
+          "author": "Wesley Yin-Poole",
+          "description": "Fall Guys has a Guinness World Record for being the most downloaded PlayStation Plus game ever.\nDeveloper Mediatonic made the announcement on its website - without saying exactly how many PlayStation Plus downloads it has seen.\nFall Guys exploded onto the scene last summer, launching on PC, and on PlayStation 4 straight into PlayStation Plus. Its clever combination of platforming and battle royale made for fun and addictive arcade gameplay, and 24 hours after release it had more than 1.5 million players. As of December 2020, Fall Guys had sold more than 11m copies on PC alone.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-25-fall-guys-has-a-guinness-world-record-for-being-the-most-downloaded-playstation-plus-game-ever",
+          "publishedOn": "2021-09-25T11:18:00.000Z",
+          "wordCount": 666,
+          "title": "Fall Guys has a Guinness World Record for being the most downloaded PlayStation Plus game ever"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169207",
+          "author": "Wesley Yin-Poole",
+          "description": "Work on the new and improved version of Dwarf Fortress is ongoing. To tide us over, we have a new 10 minute gameplay video showing off the game's graphics.\nThe video below shows the new Desert Fortress in action. We see the new menus, a first look at the desert terrain, and what it looks like underground.\nDwarf Fortress is perhaps the deepest simulation of a world ever created, an infamously complex. It has for years had ASCII dwarves - little smiley faces fewer pixels than the average emoji. For the upcoming Steam release, Dwarf Fortress is getting actual graphics and much more in a bid to make it a tad accessible.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-25-heres-10-minutes-of-the-steam-version-of-dwarf-fortress-in-action",
+          "publishedOn": "2021-09-25T10:41:00.000Z",
+          "wordCount": 685,
+          "title": "Here's 10 minutes of the Steam version of Dwarf Fortress in action"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169200",
+          "author": "Wesley Yin-Poole",
+          "description": "Warhammer 40,000: Space Marine - pretty much the best Space Marine game ever made - turned 10 years old this week, and to celebrate it received a special Anniversary Edition on PC (thanks, PCGamesN).\nSpace Marine was developed by Dawn of War and Company of Heroes maker Relic Entertainment for release in 2011 on PC, PlayStation 3 and Xbox 360.\nRelic left its strategy roots behind to create a fun third-person hack-and-slash/shooter hybrid that, while failing to set tills alight for now defunct publisher THQ, went down well among Warhammer 40,000 fans. You play an Ultramarine versus the Orks, with a heavy emphasis on melee (you heal via executions). It's a bloodfest.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-25-warhammer-40-000-space-marine-gets-10th-anniversary-edition",
+          "publishedOn": "2021-09-25T10:09:00.000Z",
+          "wordCount": 831,
+          "title": "Warhammer 40,000: Space Marine gets surprise 10th Anniversary Edition"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169195",
+          "author": "Wesley Yin-Poole",
+          "description": "Halo Infinite's latest technical preview (this one feels pretty much like a beta but with limited-time matchmaking) is in full swing - and players are coming up with some amazing trick shots.\nI managed around four hours of play last night, and found myself on the receiving end of the new grappling hook more times than I would have liked. But it's the new repulsor equipment that I think may be one of the best additions across the entire game.\nTrigger the repulsor and your spartan holds out their arm for a brief moment to deflect oncoming grenades and rockets. The idea is you can bat enemy grenades back at their sender, hopefully for a kill.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-25-halo-infinite-players-are-coming-up-with-pretty-amazing-trick-shots",
+          "publishedOn": "2021-09-25T09:17:00.000Z",
+          "wordCount": 1304,
+          "title": "Halo Infinite players are using the new repulsor tech for amazing trick shots"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2169171",
           "author": "Matt Wales",
