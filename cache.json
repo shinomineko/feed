@@ -1234,6 +1234,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/09/27/sig-node-spotlight-2021/",
+          "author": null,
+          "description": "Author: Dewan Ahmed, Red Hat\nIntroduction\nIn Kubernetes, a Node is a representation of a single machine in your cluster. SIG Node owns that very important Node component and supports various subprojects such as Kubelet, Container Runtime Interface (CRI) and more to support how the pods and host resources interact. In this blog, we have summarized our conversation with Elana Hashman (EH) & Sergey Kanzhelev (SK), who walk us through the various aspects of being a part of the SIG and share some insights about how others can get involved.\nA summary of our conversation\nCould you tell us a little about what SIG Node does?\nSK: SIG Node is a vertical SIG responsible for the components that support the controlled interactions between the pods and host resources. We manage the lifecycle of pods that…",
+          "link": "https://kubernetes.io/blog/2021/09/27/sig-node-spotlight-2021/",
+          "publishedOn": "2021-09-27T00:00:00.000Z",
+          "wordCount": 4461,
+          "title": "Blog: Spotlight on SIG Node"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/09/13/read-write-once-pod-access-mode-alpha/",
           "author": null,
           "description": "Author: Chris Henzie (Google)\nLast month's release of Kubernetes v1.22 introduced a new ReadWriteOncePod access mode for PersistentVolumes and PersistentVolumeClaims.\nWith this alpha feature, Kubernetes allows you to restrict volume access to a single pod in the cluster.\nWhat are access modes and why are they important?\nWhen using storage, there are different ways to model how that storage is consumed.\nFor example, a storage system like a network file share can have many users all reading and writing data simultaneously.\nIn other cases maybe everyone is allowed to read data but not write it.\nFor highly sensitive data, maybe only one user is allowed to read and write data but nobody else.\nIn the world of Kubernetes, access modes are the way you can define how durable storage is consumed.\nTh…",
@@ -2373,5 +2382,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }

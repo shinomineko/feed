@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T18:26:00.937Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:29:53.946Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Spotlight on SIG Node]]></title>
+        <id>https://kubernetes.io/blog/2021/09/27/sig-node-spotlight-2021/</id>
+        <link href="https://kubernetes.io/blog/2021/09/27/sig-node-spotlight-2021/"/>
+        <updated>2021-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Dewan Ahmed, Red Hat
+Introduction
+In Kubernetes, a Node is a representation of a single machine in your cluster. SIG Node owns that very important Node component and supports various subprojects such as Kubelet, Container Runtime Interface (CRI) and more to support how the pods and host resources interact. In this blog, we have summarized our conversation with Elana Hashman (EH) & Sergey Kanzhelev (SK), who walk us through the various aspects of being a part of the SIG and share some insights about how others can get involved.
+A summary of our conversation
+Could you tell us a little about what SIG Node does?
+SK: SIG Node is a vertical SIG responsible for the components that support the controlled interactions between the pods and host resources. We manage the lifecycle of pods that…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvel's Avengers' Spider-Man will have his own story and cutscenes]]></title>
         <id>https://www.eurogamer.net/article.php?article_id=2169280</id>
