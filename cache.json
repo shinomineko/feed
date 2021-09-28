@@ -1421,15 +1421,6 @@
           "publishedOn": "2021-09-03T00:00:00.000Z",
           "wordCount": 3894,
           "title": "Blog: Alpha in Kubernetes v1.22: API Server Tracing"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/08/30/volume-populators-redesigned/",
-          "author": null,
-          "description": "Authors:\nBen Swartzlander (NetApp)\nKubernetes v1.22, released earlier this month, introduced a redesigned approach for volume\npopulators. Originally implemented\nin v1.18, the API suffered from backwards compatibility issues. Kubernetes v1.22 includes a new API\nfield called dataSourceRef that fixes these problems.\nData sources\nEarlier Kubernetes releases already added a dataSource field into the\nPersistentVolumeClaim API,\nused for cloning volumes and creating volumes from snapshots. You could use the dataSource field when\ncreating a new PVC, referencing either an existing PVC or a VolumeSnapshot in the same namespace.\nThat also modified the normal provisioning process so that instead of yielding an empty volume, the\nnew PVC contained the same data as either the cloned PVC or the cloned Volu…",
-          "link": "https://kubernetes.io/blog/2021/08/30/volume-populators-redesigned/",
-          "publishedOn": "2021-08-30T00:00:00.000Z",
-          "wordCount": 4186,
-          "title": "Blog: Kubernetes 1.22: A New Design for Volume Populators"
         }
       ]
     },
@@ -1506,6 +1497,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169531",
+          "author": "Wesley Yin-Poole",
+          "description": "Disco Elysium comes out on Xbox alongside Nintendo Switch on 12th October, ZA/UM has confirmed.\nDisco Elysium - The Final Cut launches on Xbox Series X and S and Xbox One on 12th October as a download, with a physical edition set for 9th November. It costs £34.99 from the Microsoft Store.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-disco-elysium-xbox-release-confirmed-for-october-alongside-nintendo-switch-launch",
+          "publishedOn": "2021-09-28T11:10:00.000Z",
+          "wordCount": 767,
+          "title": "Disco Elysium Xbox release confirmed for October alongside Nintendo Switch launch"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169530",
+          "author": "Tom Phillips",
+          "description": "Universal Studios Japan's Super Nintendo World will be expanded with a huge new Donkey Kong-themed area, due in 2024.\nThe DK-themed land will boost the overall size of Universal Studios' Nintendo park by 70 per cent and include a new roller coaster among other attractions. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-donkey-kong-expansion-coming-to-super-nintendo-world",
+          "publishedOn": "2021-09-28T11:06:00.000Z",
+          "wordCount": 900,
+          "title": "Donkey Kong expansion coming to Super Nintendo World"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169525",
+          "author": "Wesley Yin-Poole",
+          "description": "The PlayStation 5 is the fastest-selling PlayStation console in UK history with over 1m sold.\nGamesIndustry.biz reports Sony's console shot through the 1m sold mark in August, just 39 weeks after launch - and three weeks faster than the PlayStation 4.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-ps5-the-fastest-selling-playstation-console-in-uk-history-with-over-1m-sold",
+          "publishedOn": "2021-09-28T10:50:00.000Z",
+          "wordCount": 926,
+          "title": "PS5 the fastest-selling PlayStation console in UK history with over 1m sold"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169520",
+          "author": "Tom Phillips",
+          "description": "Activision Blizzard has agreed to set aside $18m for employees who experienced harassment and discrimination at the company. \nThe fund's creation is part of a settlement between Activision Blizzard and the Equal Employment Opportunity Commission, which we heard last week was one of a number of organisations currently investigating the company. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-billion-dollar-firm-activision-blizzard-agrees-usd18m-fund-to-compensate-and-make-amends",
+          "publishedOn": "2021-09-28T10:38:00.000Z",
+          "wordCount": 1061,
+          "title": "Billion dollar firm Activision Blizzard agrees $18m fund \"to compensate and make amends\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169509",
+          "author": "Wesley Yin-Poole",
+          "description": "343 has made Halo Infinite's next multiplayer preview available to everyone on Xbox.\nThe build for this weekend's technical preview is available to download via the Xbox Insider Hub now - but you don't have to be a Halo Insider to get in on the action, 343 said.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-343-makes-halo-infinites-next-multiplayer-preview-available-to-everyone-on-xbox",
+          "publishedOn": "2021-09-28T10:11:00.000Z",
+          "wordCount": 997,
+          "title": "343 makes Halo Infinite's next multiplayer preview available to everyone on Xbox"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169492",
+          "author": "Wesley Yin-Poole",
+          "description": "EA has pulled Man City's suspended defender Benjamin Mendy from FIFA 22 while he is awaiting trial.\nEarlier this month, Mendy appeared in court charged with four counts of rape and one count of sexual assault.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-ea-pulls-man-citys-suspended-defender-benjamin-mendy-from-fifa-22-while-he-is-awaiting-trial",
+          "publishedOn": "2021-09-28T09:38:00.000Z",
+          "wordCount": 1094,
+          "title": "EA pulls Man City's suspended defender Benjamin Mendy from FIFA 22 while he is awaiting trial"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2169449",
           "author": "Matt Wales",
