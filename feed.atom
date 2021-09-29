@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-28T18:26:18.123Z</updated>
+    <updated>2021-09-29T00:29:51.156Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: How to Handle Data Duplication in Data-Heavy Kubernetes Environments]]></title>
+        <id>https://kubernetes.io/blog/2021/09/29/how-to-handle-data-duplication-in-data-heavy-kubernetes-environments/</id>
+        <link href="https://kubernetes.io/blog/2021/09/29/how-to-handle-data-duplication-in-data-heavy-kubernetes-environments/"/>
+        <updated>2021-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors:
+Augustinas Stirbis (CAST AI)
+Why Duplicate Data?
+It’s convenient to create a copy of your application with a copy of its state for each team.
+For example, you might want a separate database copy to test some significant schema changes
+or develop other disruptive operations like bulk insert/delete/update...
+Duplicating data takes a lot of time. That’s because you need first to download
+all the data from a source block storage provider to compute and then send
+it back to a storage provider again. There’s a lot of network traffic and CPU/RAM used in this process.
+Hardware acceleration by offloading certain expensive operations to dedicated hardware is
+always a huge performance boost. It reduces the time required to complete an operation by orders
+of magnitude.
+Volume Snapshots to the…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon takes on Nest with an ultra-cheap $60 smart thermostat]]></title>
+        <id>https://arstechnica.com/?p=1799097</id>
+        <link href="https://arstechnica.com/?p=1799097"/>
+        <updated>2021-09-28T23:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon announces a million smart home devices.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix acquires Oxenfree developer Night School Studio]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2169664</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-29-netflix-acquires-oxenfree-developer-night-school-studio"/>
+        <updated>2021-09-28T23:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Night School Studio, the developer behind acclaimed narrative adventure Oxenfree and its highly anticipated sequel, has been acquired by Netflix.
+Night School has, of course, gained a reputation for creating engaging, sharply written narrative adventures across the four games it's launched since its founding in 2014. After 2016's critically lauded Oxenfree, Night School released a well-received Mr. Robot tie-in, 1.51exfiltrati0n, followed by pub-crawl-through-hell adventure Afterparty and the Apple-exclusive space escapade Next Stop Nowhere. More recently, the studio confirmed it's working on an Oxenfree sequel, Lost Signals, for release next year.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is allowing third-party storefront apps onto its Windows store]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2169662</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-29-microsoft-is-allowing-third-party-storefront-apps-onto-its-windows-store"/>
+        <updated>2021-09-28T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft says it will soon allow third-party storefront apps, including those of Amazon and Epic Games, to be discoverable via is Windows store.
+"Just like any other app," Microsoft writes in a post announcing the new measures, "third-party storefront apps will have a product detail page that can be found via search or by browsing - so that users can easily find and install it with the same confidence as any other app in the Microsoft Store on Windows."
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activision Blizzard settles discrimination lawsuit for a fraction of its yearly earnings]]></title>
+        <id>https://arstechnica.com/?p=1799125</id>
+        <link href="https://arstechnica.com/?p=1799125"/>
+        <updated>2021-09-28T22:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Compensation fund for affected employees is nothing compared to 2020's $8.1 billion revenue.]]></summary>
+        <author>
+            <name>Steve Haske</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget the looks, love the tech: The $83,200 BMW iX electric SUV]]></title>
+        <id>https://arstechnica.com/?p=1798773</id>
+        <link href="https://arstechnica.com/?p=1798773"/>
+        <updated>2021-09-28T22:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The iX has a range of 300 miles and all of BMW's latest and greatest tech.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla on Autopilot slammed into police cars despite flashing lights, lawsuit says]]></title>
+        <id>https://arstechnica.com/?p=1799177</id>
+        <link href="https://arstechnica.com/?p=1799177"/>
+        <updated>2021-09-28T21:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Officers say Tesla failed to detect four vehicles, six people, and a police dog.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12.1 leak shows off iPad-style dock, dual-pane system UI]]></title>
+        <id>https://arstechnica.com/?p=1799002</id>
+        <link href="https://arstechnica.com/?p=1799002"/>
+        <updated>2021-09-28T21:07:08.000Z</updated>
+        <summary type="html"><![CDATA[New dual-pane tablet interface splits UI right down the middle.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Halo View tracks your health on an OLED screen]]></title>
+        <id>https://arstechnica.com/?p=1799141</id>
+        <link href="https://arstechnica.com/?p=1799141"/>
+        <updated>2021-09-28T20:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Monitor your heart rate and other fitness metrics.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix launches three more mobile games for subscribers in Poland, Italy, and Spain]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2169656</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-28-netflix-launches-three-more-mobile-games-for-subscribers-in-poland-italy-and-spain"/>
+        <updated>2021-09-28T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Netflix's fledging foray into video gaming continues today as the streaming service launches three new games for subscribers in select European territories.
+Back in July, Netflix confirmed it was "in the early stages" of expanding into games and that it would initially focus on mobile titles. The first fruits of its labours emerged in August, when it added a tiny handful of mobile games to its entertainment library -  Stranger Things: 1984 and Stranger Things 3 - as part of an early Poland-exclusive test.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new “standalone” Valve VR headset teased by deep SteamVR file dive]]></title>
+        <id>https://arstechnica.com/?p=1799079</id>
+        <link href="https://arstechnica.com/?p=1799079"/>
+        <updated>2021-09-28T19:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Some info has hidden in plain sight as far back as January—but will it ever launch?]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s Astro robot is straight out of The Jetsons]]></title>
+        <id>https://arstechnica.com/?p=1799102</id>
+        <link href="https://arstechnica.com/?p=1799102"/>
+        <updated>2021-09-28T18:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Astro will be available in limited quantities.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBC demanded that YouTube TV bundle Peacock or lose access to NBC channels]]></title>
+        <id>https://arstechnica.com/?p=1799084</id>
+        <link href="https://arstechnica.com/?p=1799084"/>
+        <updated>2021-09-28T18:47:22.000Z</updated>
+        <summary type="html"><![CDATA[YouTube TV could lose NBC channels when contract expires Thursday.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Echo Show 15 arrives with new Neural Edge processor]]></title>
+        <id>https://arstechnica.com/?p=1799066</id>
+        <link href="https://arstechnica.com/?p=1799066"/>
+        <updated>2021-09-28T18:24:22.000Z</updated>
+        <summary type="html"><![CDATA[The next Echo Show should process things like speech and image recognition faster.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix's full TGS schedule brings Final Fantasy Origin, Guardians of the Galaxy, and more]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2169643</id>
+        <link href="https://www.eurogamer.net/articles/2021-09-28-square-enixs-full-tgs-schedule-brings-final-fantasy-origin-guardians-of-the-galaxy-and-more"/>
+        <updated>2021-09-28T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix has shared its full presentation schedule for this year's Tokyo Game Show, confirming fresh looks at a range of upcoming games, including Final Fantasy Origin, Guardians of the Galaxy, and Forspoken. Also planned: jazz live painting.
+The complete schedule spans three days - running from Friday, 1st October, to Sunday, 3rd October - and kicks off with a big one-hour showcase at 7pm JST (that's 11am in the UK) before shifting the focus to individuals titles. You can also expect a handful of special events, including a live concert and the aforementioned jazz live painting, along the way.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-Fox host claims Facebook defamed him by fact-checking climate change videos]]></title>
         <id>https://arstechnica.com/?p=1799048</id>

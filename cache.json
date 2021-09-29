@@ -285,6 +285,96 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1799097",
+          "author": "Ron Amadeo",
+          "description": "Amazon announces a million smart home devices.",
+          "link": "https://arstechnica.com/?p=1799097",
+          "publishedOn": "2021-09-28T23:56:51.000Z",
+          "wordCount": 1490,
+          "title": "Amazon takes on Nest with an ultra-cheap $60 smart thermostat"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799125",
+          "author": "Steve Haske",
+          "description": "Compensation fund for affected employees is nothing compared to 2020's $8.1 billion revenue.",
+          "link": "https://arstechnica.com/?p=1799125",
+          "publishedOn": "2021-09-28T22:54:21.000Z",
+          "wordCount": 994,
+          "title": "Activision Blizzard settles discrimination lawsuit for a fraction of its yearly earnings"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1798773",
+          "author": "Jonathan M. Gitlin",
+          "description": "The iX has a range of 300 miles and all of BMW's latest and greatest tech.",
+          "link": "https://arstechnica.com/?p=1798773",
+          "publishedOn": "2021-09-28T22:01:56.000Z",
+          "wordCount": 1877,
+          "title": "Forget the looks, love the tech: The $83,200 BMW iX electric SUV"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799177",
+          "author": "Jon Brodkin",
+          "description": "Officers say Tesla failed to detect four vehicles, six people, and a police dog.",
+          "link": "https://arstechnica.com/?p=1799177",
+          "publishedOn": "2021-09-28T21:29:22.000Z",
+          "wordCount": 1198,
+          "title": "Tesla on Autopilot slammed into police cars despite flashing lights, lawsuit says"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799002",
+          "author": "Ron Amadeo",
+          "description": "New dual-pane tablet interface splits UI right down the middle.",
+          "link": "https://arstechnica.com/?p=1799002",
+          "publishedOn": "2021-09-28T21:07:08.000Z",
+          "wordCount": 1315,
+          "title": "Android 12.1 leak shows off iPad-style dock, dual-pane system UI"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799141",
+          "author": "Scharon Harding",
+          "description": "Monitor your heart rate and other fitness metrics.",
+          "link": "https://arstechnica.com/?p=1799141",
+          "publishedOn": "2021-09-28T20:04:20.000Z",
+          "wordCount": 780,
+          "title": "Amazon Halo View tracks your health on an OLED screen"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799079",
+          "author": "Sam Machkovech",
+          "description": "Some info has hidden in plain sight as far back as January—but will it ever launch?",
+          "link": "https://arstechnica.com/?p=1799079",
+          "publishedOn": "2021-09-28T19:50:01.000Z",
+          "wordCount": 1457,
+          "title": "A new “standalone” Valve VR headset teased by deep SteamVR file dive"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799102",
+          "author": "Scharon Harding",
+          "description": "Amazon Astro will be available in limited quantities.",
+          "link": "https://arstechnica.com/?p=1799102",
+          "publishedOn": "2021-09-28T18:58:47.000Z",
+          "wordCount": 803,
+          "title": "Amazon’s Astro robot is straight out of The Jetsons"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799084",
+          "author": "Jon Brodkin",
+          "description": "YouTube TV could lose NBC channels when contract expires Thursday.",
+          "link": "https://arstechnica.com/?p=1799084",
+          "publishedOn": "2021-09-28T18:47:22.000Z",
+          "wordCount": 2052,
+          "title": "NBC demanded that YouTube TV bundle Peacock or lose access to NBC channels"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799066",
+          "author": "Scharon Harding",
+          "description": "The next Echo Show should process things like speech and image recognition faster.",
+          "link": "https://arstechnica.com/?p=1799066",
+          "publishedOn": "2021-09-28T18:24:22.000Z",
+          "wordCount": 721,
+          "title": "Amazon Echo Show 15 arrives with new Neural Edge processor"
+        },
+        {
           "id": "https://arstechnica.com/?p=1799048",
           "author": "Tim De Chant",
           "description": "Former Fox Business host says his ad revenue has taken a hit.",
@@ -1477,6 +1567,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/09/29/how-to-handle-data-duplication-in-data-heavy-kubernetes-environments/",
+          "author": null,
+          "description": "Authors:\nAugustinas Stirbis (CAST AI)\nWhy Duplicate Data?\nIt’s convenient to create a copy of your application with a copy of its state for each team.\nFor example, you might want a separate database copy to test some significant schema changes\nor develop other disruptive operations like bulk insert/delete/update...\nDuplicating data takes a lot of time. That’s because you need first to download\nall the data from a source block storage provider to compute and then send\nit back to a storage provider again. There’s a lot of network traffic and CPU/RAM used in this process.\nHardware acceleration by offloading certain expensive operations to dedicated hardware is\nalways a huge performance boost. It reduces the time required to complete an operation by orders\nof magnitude.\nVolume Snapshots to the…",
+          "link": "https://kubernetes.io/blog/2021/09/29/how-to-handle-data-duplication-in-data-heavy-kubernetes-environments/",
+          "publishedOn": "2021-09-29T00:00:00.000Z",
+          "wordCount": 4325,
+          "title": "Blog: How to Handle Data Duplication in Data-Heavy Kubernetes Environments"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/09/27/sig-node-spotlight-2021/",
           "author": null,
           "description": "Author: Dewan Ahmed, Red Hat\nIntroduction\nIn Kubernetes, a Node is a representation of a single machine in your cluster. SIG Node owns that very important Node component and supports various subprojects such as Kubelet, Container Runtime Interface (CRI) and more to support how the pods and host resources interact. In this blog, we have summarized our conversation with Elana Hashman (EH) & Sergey Kanzhelev (SK), who walk us through the various aspects of being a part of the SIG and share some insights about how others can get involved.\nA summary of our conversation\nCould you tell us a little about what SIG Node does?\nSK: SIG Node is a vertical SIG responsible for the components that support the controlled interactions between the pods and host resources. We manage the lifecycle of pods that…",
@@ -1578,6 +1677,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169664",
+          "author": "Matt Wales",
+          "description": "Night School Studio, the developer behind acclaimed narrative adventure Oxenfree and its highly anticipated sequel, has been acquired by Netflix.\nNight School has, of course, gained a reputation for creating engaging, sharply written narrative adventures across the four games it's launched since its founding in 2014. After 2016's critically lauded Oxenfree, Night School released a well-received Mr. Robot tie-in, 1.51exfiltrati0n, followed by pub-crawl-through-hell adventure Afterparty and the Apple-exclusive space escapade Next Stop Nowhere. More recently, the studio confirmed it's working on an Oxenfree sequel, Lost Signals, for release next year.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-29-netflix-acquires-oxenfree-developer-night-school-studio",
+          "publishedOn": "2021-09-28T23:32:00.000Z",
+          "wordCount": 890,
+          "title": "Netflix acquires Oxenfree developer Night School Studio"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169662",
+          "author": "Matt Wales",
+          "description": "Microsoft says it will soon allow third-party storefront apps, including those of Amazon and Epic Games, to be discoverable via is Windows store.\n\"Just like any other app,\" Microsoft writes in a post announcing the new measures, \"third-party storefront apps will have a product detail page that can be found via search or by browsing - so that users can easily find and install it with the same confidence as any other app in the Microsoft Store on Windows.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-29-microsoft-is-allowing-third-party-storefront-apps-onto-its-windows-store",
+          "publishedOn": "2021-09-28T23:03:00.000Z",
+          "wordCount": 845,
+          "title": "Microsoft is allowing third-party storefront apps onto its Windows store"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169656",
+          "author": "Matt Wales",
+          "description": "Netflix's fledging foray into video gaming continues today as the streaming service launches three new games for subscribers in select European territories.\nBack in July, Netflix confirmed it was \"in the early stages\" of expanding into games and that it would initially focus on mobile titles. The first fruits of its labours emerged in August, when it added a tiny handful of mobile games to its entertainment library -  Stranger Things: 1984 and Stranger Things 3 - as part of an early Poland-exclusive test.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-netflix-launches-three-more-mobile-games-for-subscribers-in-poland-italy-and-spain",
+          "publishedOn": "2021-09-28T20:00:00.000Z",
+          "wordCount": 889,
+          "title": "Netflix launches three more mobile games for subscribers in Poland, Italy, and Spain"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2169643",
+          "author": "Matt Wales",
+          "description": "Square Enix has shared its full presentation schedule for this year's Tokyo Game Show, confirming fresh looks at a range of upcoming games, including Final Fantasy Origin, Guardians of the Galaxy, and Forspoken. Also planned: jazz live painting.\nThe complete schedule spans three days - running from Friday, 1st October, to Sunday, 3rd October - and kicks off with a big one-hour showcase at 7pm JST (that's 11am in the UK) before shifting the focus to individuals titles. You can also expect a handful of special events, including a live concert and the aforementioned jazz live painting, along the way.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-09-28-square-enixs-full-tgs-schedule-brings-final-fantasy-origin-guardians-of-the-galaxy-and-more",
+          "publishedOn": "2021-09-28T18:03:00.000Z",
+          "wordCount": 966,
+          "title": "Square Enix's full TGS schedule brings Final Fantasy Origin, Guardians of the Galaxy, and more"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2169618",
           "author": "Wesley Yin-Poole",
