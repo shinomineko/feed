@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-01T00:30:10.435Z</updated>
+    <updated>2021-10-01T06:26:42.778Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
@@ -4223,17 +4223,6 @@ The post (Most) SaaS Cost Tools Suck appeared first on Last Week in AWS.]]></sum
 In distributed systems, it can be hard to figure out where problems are. You grep through one component's logs just to discover that the source of your problem is in another component.  You search there only to discover that you need to enable debug logs to figure out what really went wrong... And it goes on. The more complex the path your request takes, the harder it is to answer questions about where it went.  I've personally spent many hours doing this dance with a variety of Kubernetes components. Distributed tracing is a tool which is designed to help in these situations, and the Kubernetes API Server is, perhaps, the most important Kubernetes component to be able to debug. At Kubernetes' Sig Instrumentation, our mission is to make it easier to understa…]]></summary>
         <author>
             <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey AWS, You’re Missing Forrest for the Trees]]></title>
-        <id>https://www.lastweekinaws.com/?p=10862</id>
-        <link href="https://www.lastweekinaws.com/blog/hey-aws-youre-missing-forrest-for-the-trees/"/>
-        <updated>2021-09-01T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The cloud wars are getting a lot more interesting this week. A Cloud Guru’s senior director of content and community, AWS Serverless Hero, and friend of this newsletter (“Aaaah! DON’T CALL ME THAT! DON’T EVER CALL ME THAT!”) Forrest Brazeal has announced that he’s accepted a role as Google Cloud’s head of content. This has […]
-The post Hey AWS, You’re Missing Forrest for the Trees appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
         </author>
     </entry>
 </feed>
