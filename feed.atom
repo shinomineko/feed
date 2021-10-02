@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-02T06:26:21.593Z</updated>
+    <updated>2021-10-02T12:27:52.899Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This software aims to make your flight smoother—and help the planet]]></title>
+        <id>https://arstechnica.com/?p=1800121</id>
+        <link href="https://arstechnica.com/?p=1800121"/>
+        <updated>2021-10-02T11:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Airplanes taxiing isn't just annoying—it's a big source of emissions.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony adds Game Trials feature to PS5]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2170220</id>
+        <link href="https://www.eurogamer.net/articles/2021-10-02-sony-adds-game-trials-feature-to-ps5"/>
+        <updated>2021-10-02T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Sony has added a new Game Trials feature to PlayStation 5.
+The feature is live now on PS5 - apparently in the UK only - for just two games: Death Stranding Director's Cut and Sackboy: A Big Adventure.
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of scam apps hit over 10 million Android devices]]></title>
+        <id>https://arstechnica.com/?p=1800102</id>
+        <link href="https://arstechnica.com/?p=1800102"/>
+        <updated>2021-10-02T10:50:42.000Z</updated>
+        <summary type="html"><![CDATA[GriftHorse campaign used clever techniques to avoid detection in Google Play.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega's mystery mobile RPG is Sin Chronicle]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2170216</id>
+        <link href="https://www.eurogamer.net/articles/2021-10-02-segas-mystery-mobile-rpg-is-sin-chronicle"/>
+        <updated>2021-10-02T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Sega has unveiled its mystery mobile RPG.
+The game Sega teased last month (and subsequently pilloried on YouTube for being a mobile game) is called Sin Chronicle, and it's set for iOS and Android on 15th December in Japan. A western release has yet to be announced.
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bethesda unveils The Elder Scrolls Online's Deadlands DLC]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2170206</id>
+        <link href="https://www.eurogamer.net/articles/2021-10-02-the-elder-scrolls-onlines-gates-of-oblivion-adventure-ends-1st-november-with-new-dlc"/>
+        <updated>2021-10-02T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The Elder Scrolls Online's Gates of Oblivion adventure concludes 1st November with the release of the Deadlands DLC, Bethesda has announced.
+The final DLC in the year-long campaign hits the PC, Mac and Stadia version of The Elder Scrolls Online: Deadlands on 1st November, then PlayStation and Xbox on 16th November.
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venom 2 film review: Let there be (mostly) boredom]]></title>
         <id>https://arstechnica.com/?p=1800147</id>
@@ -4594,17 +4650,6 @@ The post (Most) SaaS Cost Tools Suck appeared first on Last Week in AWS.]]></sum
         <summary type="html"><![CDATA[Software development satire]]></summary>
         <author>
             <name>MonkeyUser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Alpha in Kubernetes v1.22: API Server Tracing]]></title>
-        <id>https://kubernetes.io/blog/2021/09/03/api-server-tracing/</id>
-        <link href="https://kubernetes.io/blog/2021/09/03/api-server-tracing/"/>
-        <updated>2021-09-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: David Ashpole (Google)
-In distributed systems, it can be hard to figure out where problems are. You grep through one component's logs just to discover that the source of your problem is in another component.  You search there only to discover that you need to enable debug logs to figure out what really went wrong... And it goes on. The more complex the path your request takes, the harder it is to answer questions about where it went.  I've personally spent many hours doing this dance with a variety of Kubernetes components. Distributed tracing is a tool which is designed to help in these situations, and the Kubernetes API Server is, perhaps, the most important Kubernetes component to be able to debug. At Kubernetes' Sig Instrumentation, our mission is to make it easier to understa…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
         </author>
     </entry>
 </feed>

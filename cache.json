@@ -330,6 +330,24 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1800121",
+          "author": "WIRED",
+          "description": "Airplanes taxiing isn't just annoying—it's a big source of emissions.",
+          "link": "https://arstechnica.com/?p=1800121",
+          "publishedOn": "2021-10-02T11:40:11.000Z",
+          "wordCount": 1208,
+          "title": "This software aims to make your flight smoother—and help the planet"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800102",
+          "author": "WIRED",
+          "description": "GriftHorse campaign used clever techniques to avoid detection in Google Play.",
+          "link": "https://arstechnica.com/?p=1800102",
+          "publishedOn": "2021-10-02T10:50:42.000Z",
+          "wordCount": 987,
+          "title": "Hundreds of scam apps hit over 10 million Android devices"
+        },
+        {
           "id": "https://arstechnica.com/?p=1800147",
           "author": "Sam Machkovech",
           "description": "Hardy pulls double duty as the film's two best parts. Sadly, nothing else keeps up.",
@@ -2042,15 +2060,6 @@
           "publishedOn": "2021-09-13T00:00:00.000Z",
           "wordCount": 4695,
           "title": "Blog: Introducing Single Pod Access Mode for PersistentVolumes"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/09/03/api-server-tracing/",
-          "author": null,
-          "description": "Authors: David Ashpole (Google)\nIn distributed systems, it can be hard to figure out where problems are. You grep through one component's logs just to discover that the source of your problem is in another component.  You search there only to discover that you need to enable debug logs to figure out what really went wrong... And it goes on. The more complex the path your request takes, the harder it is to answer questions about where it went.  I've personally spent many hours doing this dance with a variety of Kubernetes components. Distributed tracing is a tool which is designed to help in these situations, and the Kubernetes API Server is, perhaps, the most important Kubernetes component to be able to debug. At Kubernetes' Sig Instrumentation, our mission is to make it easier to understa…",
-          "link": "https://kubernetes.io/blog/2021/09/03/api-server-tracing/",
-          "publishedOn": "2021-09-03T00:00:00.000Z",
-          "wordCount": 3894,
-          "title": "Blog: Alpha in Kubernetes v1.22: API Server Tracing"
         }
       ]
     },
@@ -2126,6 +2135,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170220",
+          "author": "Wesley Yin-Poole",
+          "description": "Sony has added a new Game Trials feature to PlayStation 5.\nThe feature is live now on PS5 - apparently in the UK only - for just two games: Death Stranding Director's Cut and Sackboy: A Big Adventure.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-02-sony-adds-game-trials-feature-to-ps5",
+          "publishedOn": "2021-10-02T11:08:00.000Z",
+          "wordCount": 938,
+          "title": "Sony adds Game Trials feature to PS5"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170216",
+          "author": "Wesley Yin-Poole",
+          "description": "Sega has unveiled its mystery mobile RPG.\nThe game Sega teased last month (and subsequently pilloried on YouTube for being a mobile game) is called Sin Chronicle, and it's set for iOS and Android on 15th December in Japan. A western release has yet to be announced.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-02-segas-mystery-mobile-rpg-is-sin-chronicle",
+          "publishedOn": "2021-10-02T10:36:00.000Z",
+          "wordCount": 717,
+          "title": "Sega's mystery mobile RPG is Sin Chronicle"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170206",
+          "author": "Wesley Yin-Poole",
+          "description": "The Elder Scrolls Online's Gates of Oblivion adventure concludes 1st November with the release of the Deadlands DLC, Bethesda has announced.\nThe final DLC in the year-long campaign hits the PC, Mac and Stadia version of The Elder Scrolls Online: Deadlands on 1st November, then PlayStation and Xbox on 16th November.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-02-the-elder-scrolls-onlines-gates-of-oblivion-adventure-ends-1st-november-with-new-dlc",
+          "publishedOn": "2021-10-02T09:41:00.000Z",
+          "wordCount": 810,
+          "title": "Bethesda unveils The Elder Scrolls Online's Deadlands DLC"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2170195",
           "author": "Matt Wales",
