@@ -134,6 +134,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/10/facebook-is-down.html",
+          "author": null,
+          "description": "<p>Facebook &#8212; along with Instagram and WhatsApp &#8212; went <a href=\"https://www.nytimes.com/2021/10/04/technology/facebook-down.html\">down globally</a> today. Basically, someone <a href=\"https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/\">deleted</a> their BGP records, which made their DNS <a href=\"https://twitter.com/GossiTheDog/status/1445065065527394321\">fall apart</a>.</p>\n<blockquote><p>&#8230;at approximately 11:39 a.m. ET today (15:39 UTC), someone at Facebook caused an update to be made to the company&#8217;s Border Gateway Protocol (BGP) records. BGP is a mechanism by which Internet service providers of the world share information about which providers are responsible for routing Internet traffic to which specific groups of Internet addresses.</p>\n<p>In simpler terms, sometime this morning Facebook took away the map telling the world&#8217;s computers how to find its various online properties. As a result, when one types Facebook.com into a web browser, the browser has no idea where to find Facebook.com, and so returns an error page...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/10/facebook-is-down.html",
+          "publishedOn": "2021-10-04T22:55:38.000Z",
+          "wordCount": 1112,
+          "title": "Facebook Is Down"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/10/cheating-on-tests.html",
           "author": null,
           "description": "<p>Interesting <a href=\"https://boingboing.net/2021/10/02/test-takers-busted-for-using-bluetooth-connected-flip-flops-to-cheat.html\">story</a> of test-takers in India using Bluetooth-connected flip-flops to communicate with accomplices while taking a test.</p>\n<p>What&#8217;s interesting is how this cheating was discovered. It&#8217;s not that someone noticed the communication devices. It&#8217;s that the proctors noticed that cheating test takers were acting <a href=\"https://www.schneier.com/essays/archives/2004/11/profile_hinky.html\">hinky</a>.</p>",
@@ -338,6 +347,69 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1800912",
+          "author": "Beth Mole",
+          "description": "The FDA has schedule an advisory meeting over the booster ahead of receiving an application.",
+          "link": "https://arstechnica.com/?p=1800912",
+          "publishedOn": "2021-10-04T23:20:27.000Z",
+          "wordCount": 1012,
+          "title": "Biden administration expects J&J boosters in the next few weeks"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800685",
+          "author": "Steve Haske",
+          "description": "\"There's no losing in this transaction,\" says former PlayStation Studios head Shawn Layden.",
+          "link": "https://arstechnica.com/?p=1800685",
+          "publishedOn": "2021-10-04T23:05:40.000Z",
+          "wordCount": 1112,
+          "title": "Ex-Sony exec opens up about efforts to bring PlayStation hits to PC"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800669",
+          "author": "John Timmer",
+          "description": "Discoveries triggered a wave of findings about how we sense our environments.",
+          "link": "https://arstechnica.com/?p=1800669",
+          "publishedOn": "2021-10-04T21:29:47.000Z",
+          "wordCount": 1436,
+          "title": "Understanding how we sense touch, temperature earns a Nobel"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1798423",
+          "author": "Andrew Cunningham",
+          "description": "Attractive new design overshadowed by regressions and high system requirements.",
+          "link": "https://arstechnica.com/?p=1798423",
+          "publishedOn": "2021-10-04T20:00:34.000Z",
+          "wordCount": 1363,
+          "title": "Windows 11: The Ars Technica review"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800615",
+          "author": "Jon Brodkin",
+          "description": "FCC proposes STIR/SHAKEN and call-blocking rules for gateway phone companies.",
+          "link": "https://arstechnica.com/?p=1800615",
+          "publishedOn": "2021-10-04T19:18:59.000Z",
+          "wordCount": 1208,
+          "title": "FCC plans to rein in “gateway” carriers that bring foreign robocalls to US"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800292",
+          "author": "Jennifer Ouellette",
+          "description": "Larger hagfish produce larger, stronger thread cells to better ward off predators.",
+          "link": "https://arstechnica.com/?p=1800292",
+          "publishedOn": "2021-10-04T19:07:50.000Z",
+          "wordCount": 1712,
+          "title": "Scientists are still learning cool new things about gooey hagfish slime"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1799857",
+          "author": "Eric Berger",
+          "description": "\"They have a customer focus. We should too.\"",
+          "link": "https://arstechnica.com/?p=1799857",
+          "publishedOn": "2021-10-04T18:26:21.000Z",
+          "wordCount": 1191,
+          "title": "Revealed: The secret notes of Blue Origin leaders trying to catch SpaceX"
+        },
         {
           "id": "https://arstechnica.com/?p=1800528",
           "author": "Sam Machkovech",
