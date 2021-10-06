@@ -143,6 +143,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/10/synaverse-hack.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked\">This</a> is interesting:</p>\n<blockquote><p>A company that is a critical part of the global telecommunications infrastructure used by AT&#038;T, T-Mobile, Verizon and several others around the world such as Vodafone and China Mobile, quietly disclosed that hackers were inside its systems for years, impacting more than 200 of its clients and potentially millions of cellphone users worldwide.</p></blockquote>\n<p>I&#8217;ve never heard of the company.</p>\n<p>No details about the hack. It could be nothing. It could be a national intelligence service looking for information.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/10/synaverse-hack.html",
+          "publishedOn": "2021-10-06T14:19:18.000Z",
+          "wordCount": 1445,
+          "title": "Syniverse Hack"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/10/facebook-is-down.html",
           "author": null,
           "description": "<p>Facebook &#8212; along with Instagram and WhatsApp &#8212; went <a href=\"https://www.nytimes.com/2021/10/04/technology/facebook-down.html\">down globally</a> today. Basically, someone <a href=\"https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/\">deleted</a> their BGP records, which made their DNS <a href=\"https://twitter.com/GossiTheDog/status/1445065065527394321\">fall apart</a>.</p>\n<blockquote><p>&#8230;at approximately 11:39 a.m. ET today (15:39 UTC), someone at Facebook caused an update to be made to the company&#8217;s Border Gateway Protocol (BGP) records. BGP is a mechanism by which Internet service providers of the world share information about which providers are responsible for routing Internet traffic to which specific groups of Internet addresses.</p>\n<p>In simpler terms, sometime this morning Facebook took away the map telling the world&#8217;s computers how to find its various online properties. As a result, when one types Facebook.com into a web browser, the browser has no idea where to find Facebook.com, and so returns an error page...</p></blockquote>",
@@ -356,6 +365,69 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1801600",
+          "author": "Ron Amadeo",
+          "description": "Android's tablet resurgence continues with HMD's Nokia brand jumping into the fray.",
+          "link": "https://arstechnica.com/?p=1801600",
+          "publishedOn": "2021-10-06T16:58:37.000Z",
+          "wordCount": 844,
+          "title": "Nokia T20 is a $250, 10.4-inch Android tablet with a big battery"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1801618",
+          "author": "Tim De Chant",
+          "description": "Section 230 reform is just a start, Frances Haugen says in Senate testimony.",
+          "link": "https://arstechnica.com/?p=1801618",
+          "publishedOn": "2021-10-06T15:39:28.000Z",
+          "wordCount": 1390,
+          "title": "Algorithms shouldn’t be protected by Section 230, Facebook whistleblower tells Senate"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1801593",
+          "author": "Financial Times",
+          "description": "Online shopping giant wants incentives as it speeds up distribution in wake of pandemic.",
+          "link": "https://arstechnica.com/?p=1801593",
+          "publishedOn": "2021-10-06T14:26:26.000Z",
+          "wordCount": 891,
+          "title": "Amazon wins record US tax breaks to expand delivery network"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1801573",
+          "author": "Scharon Harding",
+          "description": "Alexa can now wait longer for you to speak before it stops listening.",
+          "link": "https://arstechnica.com/?p=1801573",
+          "publishedOn": "2021-10-06T14:13:15.000Z",
+          "wordCount": 659,
+          "title": "Amazon gives Alexa some more patience"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800922",
+          "author": "Sam Machkovech",
+          "description": "We dig deep: Wider hinge, new battery, and questions about image retention.",
+          "link": "https://arstechnica.com/?p=1800922",
+          "publishedOn": "2021-10-06T13:00:10.000Z",
+          "wordCount": 1343,
+          "title": "Switch OLED review: Nintendo’s nicest, most nonessential upgrade yet"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1801342",
+          "author": "Sam Machkovech",
+          "description": "Outside dev concludes classic 2D series with stealth, terror, and \"seek action\" mastery.",
+          "link": "https://arstechnica.com/?p=1801342",
+          "publishedOn": "2021-10-06T13:00:05.000Z",
+          "wordCount": 2021,
+          "title": "Metroid Dread review: The best Switch-exclusive game of 2021"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1800647",
+          "author": "Eric Berger",
+          "description": "\"Will it affect the coverage of Roscosmos? For sure it will.\"",
+          "link": "https://arstechnica.com/?p=1800647",
+          "publishedOn": "2021-10-06T12:56:33.000Z",
+          "wordCount": 1117,
+          "title": "Russia tells its space reporters to stop reporting on the space program"
+        },
         {
           "id": "https://arstechnica.com/?p=1801425",
           "author": "John Timmer",
@@ -2474,6 +2546,15 @@
       "siteUrl": "https://www.lastweekinaws.com",
       "articles": [
         {
+          "id": "https://www.lastweekinaws.com/?p=11058",
+          "author": "Corey Quinn",
+          "description": "Cloudflare announced its own object storage offering last week, snarkily naming it “R2” instead of AWS’ “S3.” Storage is great, but let’s tie it to cloud economics here. We don’t have specifics as to edge case pricing dimensions, but Cloudflare’s blog post goes into some detail about how it works. First, it charges a rate […]\nThe post The Compelling Economics of Cloudflare R2 appeared first on Last Week in AWS.",
+          "link": "https://www.lastweekinaws.com/blog/the-compelling-economics-of-cloudflare-r2/",
+          "publishedOn": "2021-10-06T14:30:00.000Z",
+          "wordCount": 1973,
+          "title": "The Compelling Economics of Cloudflare R2"
+        },
+        {
           "id": "https://www.lastweekinaws.com/?p=11036",
           "author": "Alex Chan",
           "description": "Block storage is a low-level technology that underpins the majority of modern storage — including whatever device you’re reading this on. It divides data into small units called “blocks,” which provide fast and flexible ways to manage data. It’s ideal for local storage and high-performance workloads. This is the first article in a three-part series […]\nThe post What is Block Storage? A Definition and Overview appeared first on Last Week in AWS.",
@@ -2540,6 +2621,69 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170842",
+          "author": "Matt Wales",
+          "description": "Sony may have given the PlayStation 3 and Vita stores a last minute reprieve earlier this year following a consumer backlash, but its plans to rein in its legacy services continue, with the company now announcing it'll soon be removing the option to pay for items using credit cards, debit cards, and PayPal on its older consoles.\nWriting on its Discontinued PlayStation apps, features and services page, Sony says customers will no longer be able to use the aforementioned payment options to either purchase digital content or to add funds to their wallets directly from their PS3 or Vita starting on 27th October.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-06-sony-ending-credit-card-debit-card-and-paypal-payments-on-playstation-3-and-vita",
+          "publishedOn": "2021-10-06T16:39:00.000Z",
+          "wordCount": 893,
+          "title": "Sony ending credit card, debit card, and PayPal payments on PlayStation 3 and Vita"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170172",
+          "author": "Matt Wales",
+          "description": "It's been just under 11 months since Obsidian launched inch-high garden survival adventure Grounded into early access for Xbox and PC, and as its one-year anniversary approaches, the team is readying Hot and Hazy, its \"largest update yet\", for a 20th October release.\nSince Grounded's stellar launch last year - it attracted a million players within two days and 5 million within four months - the team, still relatively small at only 20 people, has continued to expand on its appealingly diminutive premise.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-01-grounded-getting-sizzling-sandbox-biome-first-dungeon-and-more-in-biggest-update-yet",
+          "publishedOn": "2021-10-06T16:00:00.000Z",
+          "wordCount": 1682,
+          "title": "Grounded getting sizzling sandbox biome, first dungeon and more in \"biggest update yet\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170800",
+          "author": "Ed Nightingale",
+          "description": "Announced during September's Nintendo Direct, the Animal Crossing Direct finally has a time and date.\nFans can tune in at 3pm UK time on 15th October for 20 minutes of information about new content coming to Animal Crossing New Horizons some time in November. Watch on the Nintendo YouTube channel.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-06-animal-crossing-direct-scheduled-for-brewsters-birthday",
+          "publishedOn": "2021-10-06T14:39:00.000Z",
+          "wordCount": 877,
+          "title": "Animal Crossing Direct scheduled for Brewster's birthday"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170786",
+          "author": "Tom Phillips",
+          "description": "More than a decade after it first took over your Facebook wall, Farmville is coming back.\nZynga has announced its third major entry in the social agriculture series launches for iOS, Android and Mac on 4th November. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-06-farmville-3-launches-this-november",
+          "publishedOn": "2021-10-06T14:32:00.000Z",
+          "wordCount": 783,
+          "title": "Farmville 3 launches this November"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170780",
+          "author": "Ed Nightingale",
+          "description": "A Twitch data leak has revealed the supposed earnings of its top streamers.\nAs previously reported, an anonymous hacker has published a torrent on 4chan that includes the Twitch source code and streamer payout reports.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-06-twitch-leak-reveals-streamer-earnings-and-lack-of-diversity",
+          "publishedOn": "2021-10-06T13:42:00.000Z",
+          "wordCount": 1001,
+          "title": "Twitch leak reveals streamer earnings and lack of diversity"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170765",
+          "author": "Tom Phillips",
+          "description": "In the past, Nintendo has described the game as offering \"natural expanses\" and \"untamed landscapes\". Meanwhile, trailers have suggested the game will offer some of the series' largest spaces to date. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-06-pokemon-fans-ponder-how-much-legends-arceus-is-open-world",
+          "publishedOn": "2021-10-06T13:27:00.000Z",
+          "wordCount": 981,
+          "title": "Pokémon fans ponder how much Legends: Arceus is open world"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2170760",
+          "author": "Wesley Yin-Poole",
+          "description": "EA Sports has released FIFA 22's first big patch, and it makes some key changes to gameplay.\nChief among them is a nerf to the goalkeepers, which are particularly powerful in this year's game (check out Eurogamer's FIFA 22 review for more).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-06-fifa-22s-first-patch-makes-some-key-changes-to-gameplay",
+          "publishedOn": "2021-10-06T12:55:00.000Z",
+          "wordCount": 998,
+          "title": "FIFA 22's first big patch makes some key changes to gameplay"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2170728",
           "author": "Ed Nightingale",
