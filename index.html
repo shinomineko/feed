@@ -70,12 +70,65 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-10-18">2021-10-18</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://kubernetes.io/">Kubernetes – Production-Grade Container Orchestration</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Blog: Use KPNG to Write Specialized kube-proxiers</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2021/10/18/use-kpng-to-write-specialized-kube-proxiers/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(13 min)</span>
+                    <span>Author: Lars Ekman (Ericsson)
+The post will show you how to create a specialized service kube-proxy
+style network proxier using Kubernetes Proxy NG
+kpng without interfering
+with the existing kube-proxy. The kpng project aims at renewing the
+the default Kubernetes Service implementation, the &quot;kube-proxy&quot;. An
+important feature of kpng is that it can be used as a library to
+create proxiers outside K8s. While this is useful for CNI-plugins that
+replaces the kube-proxy it also opens the possibility for anyone to
+create a proxier for a special purpose.
+Define a service that uses a specialized proxier
+apiVersion: v1
+kind: Service
+metadata:
+  name: kpng-example
+  labels:
+    service.kubernetes.io/service-proxy-name: kpng-example
+spec:
+  clusterIP: None
+  ipFamilyPolicy: RequireDualStack
+  external…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-10-17">2021-10-17</time></h2>
     <ul class="sources card">
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://arstechnica.com">Ars Technica</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Before the new version, let’s revisit 1984’s Dune—the greatest movie ever made</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1802795">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>The pursuit of greatness must embrace the ridiculous.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">Review: Needle in a Timestack explores how love endures when time is in constant flux</summary>
@@ -2565,7 +2618,7 @@ The post 17 More Ways to Run Containers on AWS appeared first on Last Week in AW
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-10-17T18:26:09.676Z">2021-10-17T18:26:09.676Z</time>
+    <time id="build-timestamp" datetime="2021-10-18T00:30:37.017Z">2021-10-18T00:30:37.017Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>

@@ -240,6 +240,15 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1802795",
+          "author": "Peter Opaskar",
+          "description": "The pursuit of greatness must embrace the ridiculous.",
+          "link": "https://arstechnica.com/?p=1802795",
+          "publishedOn": "2021-10-17T19:00:18.000Z",
+          "wordCount": 1861,
+          "title": "Before the new version, let’s revisit 1984’s Dune—the greatest movie ever made"
+        },
+        {
           "id": "https://arstechnica.com/?p=1804404",
           "author": "Jennifer Ouellette",
           "description": "John Ridley based his film on 1966 short story by award-winning author Robert Silverberg.",
@@ -828,6 +837,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/10/18/use-kpng-to-write-specialized-kube-proxiers/",
+          "author": null,
+          "description": "Author: Lars Ekman (Ericsson)\nThe post will show you how to create a specialized service kube-proxy\nstyle network proxier using Kubernetes Proxy NG\nkpng without interfering\nwith the existing kube-proxy. The kpng project aims at renewing the\nthe default Kubernetes Service implementation, the \"kube-proxy\". An\nimportant feature of kpng is that it can be used as a library to\ncreate proxiers outside K8s. While this is useful for CNI-plugins that\nreplaces the kube-proxy it also opens the possibility for anyone to\ncreate a proxier for a special purpose.\nDefine a service that uses a specialized proxier\napiVersion: v1\nkind: Service\nmetadata:\n  name: kpng-example\n  labels:\n    service.kubernetes.io/service-proxy-name: kpng-example\nspec:\n  clusterIP: None\n  ipFamilyPolicy: RequireDualStack\n  external…",
+          "link": "https://kubernetes.io/blog/2021/10/18/use-kpng-to-write-specialized-kube-proxiers/",
+          "publishedOn": "2021-10-18T00:00:00.000Z",
+          "wordCount": 3890,
+          "title": "Blog: Use KPNG to Write Specialized kube-proxiers"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/10/08/capi-clusterclass-and-managed-topologies/",
           "author": null,
