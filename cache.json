@@ -116,6 +116,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/10/using-machine-learning-to-guess-pins-from-video.html",
+          "author": null,
+          "description": "<p>Researchers <a href=\"https://www.bleepingcomputer.com/news/security/credit-card-pins-can-be-guessed-even-when-covering-the-atm-pad/\">trained a machine-learning system</a> on videos of people typing their PINs into ATMs:</p>\n<blockquote><p>By using three tries, which is typically the maximum allowed number of attempts before the card is withheld, the researchers reconstructed the correct sequence for 5-digit PINs 30% of the time, and reached 41% for 4-digit PINs.</p></blockquote>\n<p>This works even if the person is covering the pad with their hands.</p>\n<p>The article doesn&#8217;t contain a link to the original research. If someone knows it, please put it in the comments.</p>\n<p>Slashdot <a href=\"https://it.slashdot.org/story/21/10/18/2032220/credit-card-pins-can-be-guessed-even-when-covering-the-atm-pad\">thread</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/10/using-machine-learning-to-guess-pins-from-video.html",
+          "publishedOn": "2021-10-19T13:07:08.000Z",
+          "wordCount": 569,
+          "title": "Using Machine Learning to Guess PINs from Video"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/10/ransomware-attacks-against-water-treatment-plants.html",
           "author": null,
           "description": "<p>According to a <a href=\"https://us-cert.cisa.gov/ncas/alerts/aa21-287a\">report</a> from CISA last week, there were three ransomware attacks against water treatment plants last year.</p>\n<blockquote><p>WWS Sector cyber intrusions from 2019 to early 2021 include:</p>\n<ul>\n<li>In August 2021, malicious cyber actors used Ghost variant ransomware against a California-based WWS facility. The ransomware variant had been in the system for about a month and was discovered when three supervisory control and data acquisition (SCADA) servers displayed a ransomware message.\n<li>In July 2021, cyber actors used remote access to introduce ZuCaNo ransomware onto a Maine-based WWS facility&#8217;s wastewater SCADA computer. The treatment system was run manually until the SCADA computer was restored using local control and more frequent operator rounds.\n...</li></li></ul></blockquote>",
@@ -275,6 +284,78 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1805774",
+          "author": "John Timmer",
+          "description": "A large class of widely used chemicals is the target of a major EPA initiative.",
+          "link": "https://arstechnica.com/?p=1805774",
+          "publishedOn": "2021-10-19T18:00:40.000Z",
+          "wordCount": 1217,
+          "title": "EPA: Chemicals called PFAS will see more research and new regulations"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1805738",
+          "author": "Kyle Orland",
+          "description": "But excessive short interest \"likely contributed\" to the initial price spike.",
+          "link": "https://arstechnica.com/?p=1805738",
+          "publishedOn": "2021-10-19T17:39:47.000Z",
+          "wordCount": 1063,
+          "title": "SEC says GameStop’s stock surge was more than just a simple short squeeze"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1804742",
+          "author": "Ron Amadeo",
+          "description": "The Pixel 6 has a killer price, a new camera, and the Google Tensor SoC.",
+          "link": "https://arstechnica.com/?p=1804742",
+          "publishedOn": "2021-10-19T17:00:48.000Z",
+          "wordCount": 1488,
+          "title": "The Pixel 6 is official—and it’s $300 cheaper than a comparable Samsung phone"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1805390",
+          "author": "Ron Amadeo",
+          "description": "Learn more about the Google Tensor from the people that designed it.",
+          "link": "https://arstechnica.com/?p=1805390",
+          "publishedOn": "2021-10-19T17:00:15.000Z",
+          "wordCount": 1517,
+          "title": "The “Google Silicon” team gives us a tour of the Pixel 6’s Tensor SoC"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1805665",
+          "author": "Beth Mole",
+          "description": "States will have 3 preorder windows in anticipation of a rollout in early Nov.",
+          "link": "https://arstechnica.com/?p=1805665",
+          "publishedOn": "2021-10-19T16:28:02.000Z",
+          "wordCount": 1485,
+          "title": "COVID vaccines for kids 5-11 up for preorder Wednesday ahead of FDA review"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1805683",
+          "author": "Tim De Chant",
+          "description": "Record fossil fuel prices are contributing to inflation across the economy.",
+          "link": "https://arstechnica.com/?p=1805683",
+          "publishedOn": "2021-10-19T16:02:08.000Z",
+          "wordCount": 1037,
+          "title": "Coal bucks 15-year decline in US with 22% increase as natural gas prices rise"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1805625",
+          "author": "Scharon Harding",
+          "description": "Juno's priciest Linux laptop comes as 17-inch RTX 3080 options are limited.",
+          "link": "https://arstechnica.com/?p=1805625",
+          "publishedOn": "2021-10-19T15:48:35.000Z",
+          "wordCount": 823,
+          "title": "New Linux laptop offers RTX 3080 and 144 Hz 17-inch screen"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1805592",
+          "author": "Eric Berger",
+          "description": "\"This is a project that is profoundly going to change our area.\"",
+          "link": "https://arstechnica.com/?p=1805592",
+          "publishedOn": "2021-10-19T13:17:33.000Z",
+          "wordCount": 872,
+          "title": "Supporters and opponents of SpaceX launch site air their concerns"
+        },
         {
           "id": "https://arstechnica.com/?p=1805227",
           "author": "Jennifer Ouellette",
@@ -1145,6 +1226,105 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172641",
+          "author": "Matt Wales",
+          "description": "Yesterday, Valve unveiled a new compatibility ratings system for Steam Deck, intended to give users a clear indication of how well specific Steam games will run on the upcoming portable gaming PC. And now, a new beta update for Half-Life 2 has been discovered, seemingly released to ensure the seminal FPS meets the requirements needed to earn Steam Deck's top-tier Verified compatibility badge.\nHalf-Life 2's new beta branch update, as spotted and detailed by Valve watcher Tyler McVicker on YouTube, reportedly covers a surprising amount of ground, not only making adjustments to the way the UI and resolution are handled in-game - primarily to ensure Half-Life 2 fits Steam Deck's aspect ratio and remains legible at the machine's relatively diminutive size - but addressing some long-standing bugs as well.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-valve-quietly-readying-half-life-2-for-steam-deck-with-big-new-beta-branch-update",
+          "publishedOn": "2021-10-19T18:13:00.000Z",
+          "wordCount": 965,
+          "title": "Valve quietly readying Half-Life 2 for Steam Deck with big new beta branch update"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172618",
+          "author": "Tom Phillips",
+          "description": "A new Pokémon has been teased via a scary found footage video tape released in time for Halloween. \nSupposedly this is a promotional trailer for next year's much-anticipated Pokémon Legends: Arceus. But really, it feels more like Pokémon's take on Blair Witch. Lavender Town was nothing on this. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-new-pokemon-teased-in-creepy-found-footage-video",
+          "publishedOn": "2021-10-19T15:40:00.000Z",
+          "wordCount": 873,
+          "title": "New Pokémon teased in frankly rather creepy found footage video"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172619",
+          "author": "Wesley Yin-Poole",
+          "description": "Halo co-creator Marcus Lehto has joined EA as game director of an unannounced first-person game.\nLehto, dubbed \"the father of the Master Chief\" for his role in the creation of the iconic Halo series at Bungie, is building a new EA office in the Seattle area.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-halo-co-creator-marcus-lehto-joins-ea-to-develop-first-person-game",
+          "publishedOn": "2021-10-19T15:38:00.000Z",
+          "wordCount": 808,
+          "title": "Halo co-creator Marcus Lehto joins EA to build new studio making first-person games"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172611",
+          "author": "Tom Phillips",
+          "description": "20,000 Pokémon Go fans turned up in Liverpool's Sefton Park last weekend to finally play the UK's first Safari Zone.\nThe in-person event was the first major Pokémon Go gathering anywhere in the world since late 2019, before the pandemic took hold. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-pokemon-gos-postponed-liverpool-event-welcomed-20k-fans-in-person",
+          "publishedOn": "2021-10-19T15:21:00.000Z",
+          "wordCount": 833,
+          "title": "Pokémon Go's postponed Liverpool event welcomed 20k fans in-person"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172605",
+          "author": "Ed Nightingale",
+          "description": "G2 Esports has launched its first ever all-female team for Valorant.\nG2 Esports is one of the most successful esports organisations in Europe, having won the League of Legends European Championships eight times.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-g2-esports-launches-its-first-all-female-valorant-team",
+          "publishedOn": "2021-10-19T14:58:00.000Z",
+          "wordCount": 911,
+          "title": "G2 Esports launches its first all-female Valorant team"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172603",
+          "author": "Tom Phillips",
+          "description": "There's an updated weather system, \"early access to DX12\" and a dev mode replay system, Microsoft said, plus new sightseeing missions and tutorials. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-microsoft-flight-simulator-gets-game-of-the-year-edition",
+          "publishedOn": "2021-10-19T14:53:00.000Z",
+          "wordCount": 821,
+          "title": "Microsoft Flight Simulator gets Game of the Year Edition"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172602",
+          "author": "Wesley Yin-Poole",
+          "description": "Sea of Thieves has sailed past 25 million players.\nRare's multiplayer Xbox and PC pirate adventure launched in March 2018, and has grown steadily since.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-sea-of-thieves-sails-past-25-million-players",
+          "publishedOn": "2021-10-19T14:46:00.000Z",
+          "wordCount": 758,
+          "title": "Sea of Thieves sails past 25 million players"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172593",
+          "author": "Tom Phillips",
+          "description": "The Xbox Anniversary Celebration will feature \"a special look back at 20 years of Xbox\", Microsoft teased, saying it would share more details soon. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-microsoft-announces-xbox-anniversary-celebration-broadcast",
+          "publishedOn": "2021-10-19T14:34:00.000Z",
+          "wordCount": 796,
+          "title": "Microsoft announces Xbox Anniversary Celebration broadcast"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172585",
+          "author": "Ed Nightingale",
+          "description": "The Pokémon Company has announced the Super Pet Contest to celebrate the release of Pokémon Brilliant Diamond and Pokémon Shining Pearl next month.\nInspired by the Super Contest Shows from those games in which Pokémon are judged in a pageant style show, the Super Pet Contest is a digital version that puts fans' pets in the spotlight.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-pokemon-super-pet-contest-announced-to-celebrate-release-of-remasters",
+          "publishedOn": "2021-10-19T14:01:00.000Z",
+          "wordCount": 902,
+          "title": "Pokémon Super Pet Contest announced to celebrate release of remasters"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172569",
+          "author": "Wesley Yin-Poole",
+          "description": "Microsoft has announced a raft of eye-catching titles coming to Xbox Game Pass throughout the rest of October\nAvailable today are Into the Pit on cloud, console and PC, and Outriders on PC.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-the-rest-of-october-looks-great-for-xbox-game-pass",
+          "publishedOn": "2021-10-19T13:30:00.000Z",
+          "wordCount": 977,
+          "title": "The rest of October looks great for Xbox Game Pass"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2172559",
+          "author": "Tom Phillips",
+          "description": "A new Splinter Cell has been put into production by Ubisoft, according to a report. \nSerial leaker Tom Henderson, via VGC, has said the game will be a \"mainline\" entry in the series - which will likely end up being the first in over a decade. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-10-19-new-splinter-cell-in-production-report",
+          "publishedOn": "2021-10-19T12:54:00.000Z",
+          "wordCount": 905,
+          "title": "New Splinter Cell in production - report"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2172542",
           "author": "Ed Nightingale",
