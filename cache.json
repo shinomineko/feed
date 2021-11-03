@@ -146,15 +146,6 @@
           "publishedOn": "2021-10-13T00:00:00.000Z",
           "wordCount": 48,
           "title": "Seldom"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/update/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/update/",
-          "publishedOn": "2021-10-05T00:00:00.000Z",
-          "wordCount": 48,
-          "title": "Update"
         }
       ]
     },
@@ -169,6 +160,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/11/using-fake-student-accounts-to-shill-brands.html",
+          "author": null,
+          "description": "<p>It turns out that it&#8217;s surprisingly easy to create a fake Harvard student and get a harvard.edu email account. Scammers are using that prestigious domain name to <a href=\"https://futurism.com/fake-harvard-students\">shill brands</a>:</p>\n<blockquote><p>Basically, it appears that anyone with $300 to spare can ­&#8211; or could, depending on whether Harvard successfully shuts down the practice &#8212; advertise nearly anything they wanted on Harvard.edu, in posts that borrow the university’s domain and prestige while making no mention of the fact that it in reality they constitute paid advertising&#8230;.</p>\n<p>A Harvard spokesperson said that the university is working to crack down on the fake students and other scammers that have gained access to its site. They also said that the scammers were creating the fake accounts by signing up for online classes and then using the email address that process provided to infiltrate the university’s various blogging platforms...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/11/using-fake-student-accounts-to-shill-brands.html",
+          "publishedOn": "2021-11-03T11:10:27.000Z",
+          "wordCount": 451,
+          "title": "Using Fake Student Accounts to Shill Brands"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/11/on-cell-phone-metadata.html",
           "author": null,
@@ -366,15 +366,6 @@
           "publishedOn": "2021-10-06T14:19:18.000Z",
           "wordCount": 3487,
           "title": "Syniverse Hack"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/10/facebook-is-down.html",
-          "author": null,
-          "description": "<p>Facebook &#8212; along with Instagram and WhatsApp &#8212; went <a href=\"https://www.nytimes.com/2021/10/04/technology/facebook-down.html\">down globally</a> today. Basically, someone <a href=\"https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/\">deleted</a> their BGP records, which made their DNS <a href=\"https://twitter.com/GossiTheDog/status/1445065065527394321\">fall apart</a>.</p>\n<blockquote><p>&#8230;at approximately 11:39 a.m. ET today (15:39 UTC), someone at Facebook caused an update to be made to the company&#8217;s Border Gateway Protocol (BGP) records. BGP is a mechanism by which Internet service providers of the world share information about which providers are responsible for routing Internet traffic to which specific groups of Internet addresses.</p>\n<p>In simpler terms, sometime this morning Facebook took away the map telling the world&#8217;s computers how to find its various online properties. As a result, when one types Facebook.com into a web browser, the browser has no idea where to find Facebook.com, and so returns an error page...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/10/facebook-is-down.html",
-          "publishedOn": "2021-10-04T22:55:38.000Z",
-          "wordCount": 6647,
-          "title": "Facebook Is Down"
         }
       ]
     },
@@ -383,6 +374,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1809705",
+          "author": "Sam Machkovech",
+          "description": "Unwieldy, promising film would have been an epic TV series. Alas.",
+          "link": "https://arstechnica.com/?p=1809705",
+          "publishedOn": "2021-11-03T10:45:38.000Z",
+          "wordCount": 1375,
+          "title": "Review: I cannot wait to recommend Marvel’s Eternals… on Disney Plus"
+        },
         {
           "id": "https://arstechnica.com/?p=1809743",
           "author": "Beth Mole",
@@ -2762,15 +2762,6 @@
           "publishedOn": "2021-10-08T00:00:00.000Z",
           "wordCount": 3813,
           "title": "Blog: Introducing ClusterClass and Managed Topologies in Cluster API"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/",
-          "author": null,
-          "description": "Authors: Jim Angel (Google), Pushkar Joglekar (VMware), and Savitha\nRaghunathan (Red Hat)\nDisclaimer\nBackground\nUSA's National Security Agency (NSA) and the Cybersecurity and Infrastructure\nSecurity Agency (CISA)\nreleased, \"Kubernetes Hardening Guidance\"\non August 3rd, 2021. The guidance details threats to Kubernetes environments\nand provides secure configuration guidance to minimize risk.\nThe following sections of this blog correlate to the sections in the NSA/CISA guidance.\nAny missing sections are skipped because of limited opportunities to add\nanything new to the existing content.\nNote: This blog post is not a substitute for reading the guide. Reading the published\nguidance is recommended before proceeding as the following content is\ncomplementary.\nIntroduction and Threat Model\nNote th…",
-          "link": "https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/",
-          "publishedOn": "2021-10-05T00:00:00.000Z",
-          "wordCount": 6125,
-          "title": "Blog: A Closer Look at NSA/CISA Kubernetes Hardening Guidance"
         }
       ]
     },
@@ -2846,6 +2837,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2174809",
+          "author": "Tom Phillips",
+          "description": "Another day, another sign of more bits and pieces on the way to Assassin's Creed Valhalla. This time, its a fresh pair of PlayStation trophies which point to new in-game tombs to explore. \nSpecifically, the two trophies will be awarded to players for completing either one or three Tombs of the Fallen, an activity which does not exist in Valhalla at present (thanks, AccesstheAnimus). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-03-assassins-creed-valhalla-trophy-leak-points-to-another-new-addition",
+          "publishedOn": "2021-11-03T11:21:00.000Z",
+          "wordCount": 957,
+          "title": "Assassin's Creed Valhalla trophy leak points to another new addition"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2174804",
+          "author": "Ed Nightingale",
+          "description": "An update to Far Cry 6 removes the Dani & Danny vs Everybody mission from the game.\nThe mission, which stars actor Danny Trejo, was \"accidentally released too early\" according to the patch notes and will be added in again at a later date.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-03-far-cry-6-update-removes-accidentally-included-mission",
+          "publishedOn": "2021-11-03T10:58:00.000Z",
+          "wordCount": 817,
+          "title": "Far Cry 6 update removes accidentally included mission"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2174790",
+          "author": "Ed Nightingale",
+          "description": "The Switch N64 controller is out of stock until 2022.\nThe wireless retro controller is available exclusively through the Nintendo store. However it's showing as sold out in the UK store, while the US store specifies \"more controllers will be available in 2022\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-03-switch-n64-controller-out-of-stock-until-2022",
+          "publishedOn": "2021-11-03T10:37:00.000Z",
+          "wordCount": 804,
+          "title": "Switch N64 controller out of stock until 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2174791",
+          "author": "Tom Phillips",
+          "description": "Platinum's Hideki Kamiya announced the delay this morning during an hour-long livestream titled \"Sol Cresta: Hideki Kamiya's Very Sorry Stream\", which also featured new footage of the game. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-03-platinums-sol-cresta-delayed-from-december",
+          "publishedOn": "2021-11-03T10:27:00.000Z",
+          "wordCount": 869,
+          "title": "Platinum's Sol Cresta delayed from December"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2174739",
           "author": "Matt Wales",
