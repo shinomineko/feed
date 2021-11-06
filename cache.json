@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2538/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/snack.png\" title=\"Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion.\" alt=\"Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion.\" />",
+          "link": "https://xkcd.com/2538/",
+          "publishedOn": "2021-11-05T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Snack"
+        },
+        {
           "id": "https://xkcd.com/2537/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/painbow_award.png\" title=\"This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.\" alt=\"This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.\" />",
@@ -160,6 +169,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/11/friday-squid-blogging-squid-game-cryptocurrency-was-a-scam.html",
+          "author": null,
+          "description": "<p>The <a href=\"https://www.schneier.com/blog/archives/2021/10/friday-squid-blogging-squid-game-has-a-cryptocurrency.html\"><i>Squid Game</i> cryptocurrency</a> was a <a href=\"https://gizmodo.com/squid-game-cryptocurrency-scammers-make-off-with-2-1-m-1847972824\">complete scam</a>:</p>\n<blockquote><p>The SQUID cryptocurrency peaked at a price of $2,861 before plummeting to $0 around 5:40 a.m. ET., according to the website <a href=\"https://coinmarketcap.com/currencies/squid-game/\">CoinMarketCap</a>. This kind of theft, commonly called a &#8220;rug pull&#8221; by crypto investors, happens when the creators of the crypto quickly <a href=\"https://bscscan.com/address/0x34400280a169f4685193926a513618cf7fe7f0aa\">cash out</a> their coins for real money, draining the liquidity pool from the exchange.</p></blockquote>\n<p>I don&#8217;t know why anyone would trust an investment &#8212; any investment &#8212; that you could buy but not sell.</p>\n<p><i>Wired</i> <a href=\"https://www.wired.com/story/squid-game-coin-crypto-scam/\">story</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered...</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/11/friday-squid-blogging-squid-game-cryptocurrency-was-a-scam.html",
+          "publishedOn": "2021-11-05T21:11:29.000Z",
+          "wordCount": 828,
+          "title": "Friday Squid Blogging: Squid Game Cryptocurrency Was a Scam"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/11/us-blacklists-nso-group.html",
           "author": null,
@@ -374,6 +392,87 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1810925",
+          "author": "Beth Mole",
+          "description": "The widow learned of the dissection from a news reporter.",
+          "link": "https://arstechnica.com/?p=1810925",
+          "publishedOn": "2021-11-05T22:56:25.000Z",
+          "wordCount": 906,
+          "title": "Man donated his body to science; company sold $500 tickets to his dissection"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1809644",
+          "author": "Scharon Harding",
+          "description": "Productivity-focused mouse offers advanced features in a portable size.",
+          "link": "https://arstechnica.com/?p=1809644",
+          "publishedOn": "2021-11-05T22:17:38.000Z",
+          "wordCount": 1376,
+          "title": "Razer Pro Click Mini review: A wireless mouse for power users"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810891",
+          "author": "Samuel Axon",
+          "description": "Some future Mac chips will have two dies instead of one.",
+          "link": "https://arstechnica.com/?p=1810891",
+          "publishedOn": "2021-11-05T21:29:20.000Z",
+          "wordCount": 802,
+          "title": "Apple silicon roadmap reveals plans for Mac Pro, MacBook Air"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810871",
+          "author": "Kyle Orland",
+          "description": "About 50 titles are affected, though there are workarounds and pending fixes.",
+          "link": "https://arstechnica.com/?p=1810871",
+          "publishedOn": "2021-11-05T20:41:26.000Z",
+          "wordCount": 978,
+          "title": "Faulty DRM breaks dozens of games on Intel’s Alder Lake CPUs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810518",
+          "author": "Sam Machkovech",
+          "description": "Airflow, RGB, transparency are good ideas—but they're in need of better execution.",
+          "link": "https://arstechnica.com/?p=1810518",
+          "publishedOn": "2021-11-05T20:26:58.000Z",
+          "wordCount": 1311,
+          "title": "Review: I wore Razer’s Zephyr N95 mask for two weeks so you don’t have to"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810850",
+          "author": "Andrew Cunningham",
+          "description": "T2 bug \"prevented a very small number of users from booting\" after updating.",
+          "link": "https://arstechnica.com/?p=1810850",
+          "publishedOn": "2021-11-05T20:08:48.000Z",
+          "wordCount": 667,
+          "title": "Apple fixes bug that caused macOS Monterey update to brick some Apple T2 Macs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810338",
+          "author": "Andrew Cunningham",
+          "description": "Exploring the DDR5 tax, small-form-factor builds, stock issues, and more.",
+          "link": "https://arstechnica.com/?p=1810338",
+          "publishedOn": "2021-11-05T18:51:50.000Z",
+          "wordCount": 1918,
+          "title": "DDR4? DDR5? Wi-Fi? A brief overview of motherboards for Intel’s new Alder Lake CPUs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810721",
+          "author": "Jon Brodkin",
+          "description": "SpaceX provides encouraging update, but preorderers still see 2023 delivery dates.",
+          "link": "https://arstechnica.com/?p=1810721",
+          "publishedOn": "2021-11-05T18:29:31.000Z",
+          "wordCount": 1185,
+          "title": "Starlink gives mixed signals on whether some preorders are delayed until 2023"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810551",
+          "author": "Jennifer Ouellette",
+          "description": "Not many zombies, but loads of Wagner and the return of our fave goofy nerd Ludwig Dieter.",
+          "link": "https://arstechnica.com/?p=1810551",
+          "publishedOn": "2021-11-05T18:23:56.000Z",
+          "wordCount": 1760,
+          "title": "Review: Army of Thieves is a smart, witty, and ultimately poignant heist thriller"
+        },
         {
           "id": "https://arstechnica.com/?p=1810106",
           "author": "Doug Johnson",
@@ -3152,6 +3251,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2175380",
+          "author": "Matt Wales",
+          "description": "A Better Ubisoft, a group of Ubisoft employees campaigning for improved working conditions at the publisher, has launched a petition seeking public support for reform following what it sees as an inadequate response to its demands from senior management.\nLast summer saw a wave of Ubisoft employees calling out toxic work conditions within the company - including allegations of serious sexual misconduct aimed at members of senior management - after which Ubisoft CEO Yves Guillemot pledged to \"do everything in [his] power to ensure that everyone... feels welcomed, respected, and safe\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-05-ubisoft-employees-launch-petition-seeking-public-support-for-improved-working-conditions",
+          "publishedOn": "2021-11-05T21:20:00.000Z",
+          "wordCount": 1146,
+          "title": "Ubisoft employees launch petition seeking public support for improved working conditions"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2175377",
+          "author": "Matt Wales",
+          "description": "Ubisoft has shared a \"sneak peek\" of its latest Assassin's Creed: Valhalla development roadmap, confirming dates for a number of still largely mysterious additions due before the end of year, the first arriving next Tuesday, 9th November.\nTuesday, which is one day prior to Valhalla's first anniversary, sees the release of the game's 1.4.0 update - a version number that would suggest, based on previous form, some significant additions. After all, Valhalla's 1.2 update introduced Ireland, while 1.3 ushered in Paris.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-05-assassins-creed-valhallas-latest-roadmap-has-mysteries-all-the-way-into-december",
+          "publishedOn": "2021-11-05T20:07:00.000Z",
+          "wordCount": 1004,
+          "title": "Assassin's Creed Valhalla's latest roadmap has mysteries all the way into December"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2175366",
           "author": "Matt Wales",
