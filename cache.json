@@ -112,15 +112,6 @@
           "publishedOn": "2021-10-11T00:00:00.000Z",
           "wordCount": 187,
           "title": "New Nobel Prizes"
-        },
-        {
-          "id": "https://xkcd.com/2526/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/tsp_vs_tbsp.png\" title=\"It's like one teraspoon / when all you need is a kilonife\" alt=\"It's like one teraspoon / when all you need is a kilonife\" />",
-          "link": "https://xkcd.com/2526/",
-          "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "TSP vs TBSP"
         }
       ]
     },
@@ -392,6 +383,33 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1810830",
+          "author": "WIRED",
+          "description": "Burro makes carts that help growers of trees and vineyards with harvests.",
+          "link": "https://arstechnica.com/?p=1810830",
+          "publishedOn": "2021-11-06T11:00:00.000Z",
+          "wordCount": 1020,
+          "title": "Tagalong robots follow you to learn where you go"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810819",
+          "author": "WIRED",
+          "description": "Official app was a disaster, so knowledgeable parents built an open source alternative.",
+          "link": "https://arstechnica.com/?p=1810819",
+          "publishedOn": "2021-11-06T10:45:54.000Z",
+          "wordCount": 1193,
+          "title": "These parents built a school app. Then the city called the cops"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1810840",
+          "author": "WIRED",
+          "description": "It’s not enough to drastically slash emissions—we need more carbon capture.",
+          "link": "https://arstechnica.com/?p=1810840",
+          "publishedOn": "2021-11-06T10:15:01.000Z",
+          "wordCount": 1267,
+          "title": "It’s time to delete carbon from the atmosphere. But how?"
+        },
         {
           "id": "https://arstechnica.com/?p=1810925",
           "author": "Beth Mole",
@@ -3167,15 +3185,6 @@
           "publishedOn": "2021-10-18T00:00:00.000Z",
           "wordCount": 3890,
           "title": "Blog: Use KPNG to Write Specialized kube-proxiers"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/10/08/capi-clusterclass-and-managed-topologies/",
-          "author": null,
-          "description": "Author: Fabrizio Pandini (VMware)\nThe Cluster API community is happy to announce the implementation of ClusterClass and Managed Topologies, a new feature that will greatly simplify how you can provision, upgrade, and operate multiple Kubernetes clusters in a declarative way.\nA little bit of context…\nBefore getting into the details, let's take a step back and look at the history of Cluster API.\nThe Cluster API project started three years ago, and the first releases focused on extensibility and implementing a declarative API that allows a seamless experience across infrastructure providers. This was a success with many cloud providers: AWS, Azure, Digital Ocean, GCP, Metal3, vSphere and still counting.\nWith extensibility addressed, the focus shifted to features, like automatic control plane …",
-          "link": "https://kubernetes.io/blog/2021/10/08/capi-clusterclass-and-managed-topologies/",
-          "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 3813,
-          "title": "Blog: Introducing ClusterClass and Managed Topologies in Cluster API"
         }
       ]
     },
