@@ -112,15 +112,6 @@
           "publishedOn": "2021-10-20T00:00:00.000Z",
           "wordCount": 185,
           "title": "Dark Arts"
-        },
-        {
-          "id": "https://xkcd.com/2530/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/clinical_trials.png\" title=\"We don't need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.\" alt=\"We don't need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.\" />",
-          "link": "https://xkcd.com/2530/",
-          "publishedOn": "2021-10-18T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Clinical Trials"
         }
       ]
     },
@@ -129,6 +120,15 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2021/solution/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2021/solution/",
+          "publishedOn": "2021-11-16T00:00:00.000Z",
+          "wordCount": 48,
+          "title": "Solution"
+        },
         {
           "id": "https://www.monkeyuser.com/2021/career-path/",
           "author": null,
@@ -160,6 +160,24 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/11/wire-fraud-scam-upgraded-with-bitcoin.html",
+          "author": null,
+          "description": "<p>The FBI has issued a <a href=\"https://www.ic3.gov/Media/Y2021/PSA211104\">bulletin</a> describing a <a href=\"https://www.theverge.com/2021/11/5/22765900/crypto-scam-fbi-psa-atm-qr-code-wire-transfer-con-artist\">bitcoin variant of a wire fraud scam</a>:</p>\n<blockquote><p>As the agency describes it, the scammer will contact their victim and somehow convince them that they need to send money, either with promises of love, further riches, or by impersonating an actual institution like a bank or utility company. After the mark is convinced, the scammer will have them get cash (sometimes out of investment or retirement accounts), and head to an ATM that sells cryptocurrencies and supports reading QR codes. Once the victim’s there, they’ll scan a QR code that the scammer sent them, which will tell the machine to send any crypto purchased to the scammer’s address. Just like that, the victim loses their money, and the scammer has successfully exploited them...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/11/wire-fraud-scam-upgraded-with-bitcoin.html",
+          "publishedOn": "2021-11-16T12:18:49.000Z",
+          "wordCount": 569,
+          "title": "Wire Fraud Scam Upgraded with Bitcoin"
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html",
+          "author": null,
+          "description": "<p>The other day I was creating a new account on the web. It was financial in nature, which means it gets one of my most secure passwords. I used <a href=\"https://www.schneier.com/academic/passsafe/\">PasswordSafe</a> to generate this 16-character alphanumeric password:</p>\n<pre><code>:s^Twd.J;3hzg=Q~\n</code></pre>\n<p>Which was rejected by the site, because it didn&#8217;t meet their password security rules.</p>\n<p>It took me a minute to figure out what was wrong with it. They wanted at least two numbers.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html\">Sheesh</a>.</p>\n<p>Okay, that&#8217;s not really why I don&#8217;t like password rules. I don&#8217;t like them because they&#8217;re all different. If someone has a strong password generation system, it is likely that whatever they come up with won&#8217;t pass somebody&#8217;s ruleset...</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html",
+          "publishedOn": "2021-11-16T11:33:39.000Z",
+          "wordCount": 590,
+          "title": "Why I Hate Password Rules"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2021/11/book-sale-click-here-to-kill-everybody-and-data-and-goliath.html",
           "author": null,
@@ -3469,15 +3487,6 @@
           "publishedOn": "2021-10-18T01:00:33.000Z",
           "wordCount": 977,
           "title": "The Good Life review: A messy RPG as unique as it is ridiculous"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1802795",
-          "author": "Peter Opaskar",
-          "description": "The pursuit of greatness must embrace the ridiculous.",
-          "link": "https://arstechnica.com/?p=1802795",
-          "publishedOn": "2021-10-17T19:00:18.000Z",
-          "wordCount": 1861,
-          "title": "Before the new version, let’s revisit 1984’s Dune—the greatest movie ever made"
         }
       ]
     },
@@ -3518,15 +3527,6 @@
           "publishedOn": "2021-11-08T00:00:00.000Z",
           "wordCount": 3372,
           "title": "Blog: Announcing the 2021 Steering Committee Election Results"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/10/18/use-kpng-to-write-specialized-kube-proxiers/",
-          "author": null,
-          "description": "Author: Lars Ekman (Ericsson)\nThe post will show you how to create a specialized service kube-proxy\nstyle network proxier using Kubernetes Proxy NG\nkpng without interfering\nwith the existing kube-proxy. The kpng project aims at renewing the\nthe default Kubernetes Service implementation, the \"kube-proxy\". An\nimportant feature of kpng is that it can be used as a library to\ncreate proxiers outside K8s. While this is useful for CNI-plugins that\nreplaces the kube-proxy it also opens the possibility for anyone to\ncreate a proxier for a special purpose.\nDefine a service that uses a specialized proxier\napiVersion: v1\nkind: Service\nmetadata:\n  name: kpng-example\n  labels:\n    service.kubernetes.io/service-proxy-name: kpng-example\nspec:\n  clusterIP: None\n  ipFamilyPolicy: RequireDualStack\n  external…",
-          "link": "https://kubernetes.io/blog/2021/10/18/use-kpng-to-write-specialized-kube-proxiers/",
-          "publishedOn": "2021-10-18T00:00:00.000Z",
-          "wordCount": 3890,
-          "title": "Blog: Use KPNG to Write Specialized kube-proxiers"
         }
       ]
     },
@@ -3603,6 +3603,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2176204",
+          "author": "Ishraq Subhan",
+          "description": "Forza Horizon 5 has been lauded for its technical excellence and Playground Games' commitment to inclusivity, but fans have found some non-Anglo-Saxon or European names are being blocked by the game's world filter.\nToday, Microsoft told Eurogamer it was working on a fix.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-11-forza-horizon-5s-word-filter-is-censoring-some-ethnic-names",
+          "publishedOn": "2021-11-16T11:57:00.000Z",
+          "wordCount": 1067,
+          "title": "Microsoft promises Forza Horizon 5 word filter fix, after it censors some ethnic names"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2176791",
+          "author": "Tom Phillips",
+          "description": "Today's bumper Fortnite update 18.40 has arrived and the game's hugely-anticipated Naruto crossover is now in full swing - with the promise of Fortnite's dreaded Brute mechs returning on the horizon. \nThis update is the last for Fortnite this season - that we can say for sure. But it may also be the last for Fortnite this Chapter -  for the game's whole Island map. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-16-naruto-mechs-and-shopping-carts-join-fortnite-today",
+          "publishedOn": "2021-11-16T11:36:00.000Z",
+          "wordCount": 830,
+          "title": "Today's Fortnite patch brings Naruto, mechs and shopping carts"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2176788",
+          "author": "Wesley Yin-Poole",
+          "description": "Activision has warned Call of Duty cheaters that bans may now apply \"franchise wide\".\nIn a blog post penned by \"Team RICOCHET\", the new team set up by Activision to deliver anti-cheat to the Call of Duty games, a change to the company's security enforcement policy specifically for the recently-released Call of Duty: Vanguard was highlighted:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-16-activision-warns-call-of-duty-cheaters-may-be-banned-from-any-past-present-and-future-titles",
+          "publishedOn": "2021-11-16T11:26:00.000Z",
+          "wordCount": 1024,
+          "title": "Activision warns Call of Duty cheaters may be banned from \"any past, present, and future titles\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2176776",
+          "author": "Tom Phillips",
+          "description": "Microsoft's latest batch of Xbox backwards compatible games really will be the program's final update.\n76 additional titles joined the back compat program yesterday in celebration of Xbox's 20th anniversary - including big names such as the Max Payne trilogy, Nier and TimeSplitters 2. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-16-last-nights-xbox-back-compat-update-really-was-the-last-microsoft-insists",
+          "publishedOn": "2021-11-16T11:03:00.000Z",
+          "wordCount": 970,
+          "title": "Last night's Xbox back compat update really was the last, Microsoft insists"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2176781",
+          "author": "Wesley Yin-Poole",
+          "description": "343 has extended Halo Infinite Season 1 to May 2022.\nSeason 1 kicked off last night after 343 released Halo Infinite's multiplayer weeks ahead of the game's official 8th December street date. This means the full Season 1 battle pass is online.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-16-halo-infinite-season-1-extended-to-may-2022",
+          "publishedOn": "2021-11-16T10:54:00.000Z",
+          "wordCount": 1020,
+          "title": "Halo Infinite Season 1 extended to May 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2176774",
+          "author": "Wesley Yin-Poole",
+          "description": "Halo Infinite's surprise launch of multiplayer last night led to over a quarter of a million concurrent players on Steam.\n343's free-to-download MP saw a peak concurrent players figure of 272,586 on Valve's platform.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-16-halo-infinite-launches-big-on-steam",
+          "publishedOn": "2021-11-16T10:32:00.000Z",
+          "wordCount": 880,
+          "title": "Halo Infinite launches big on Steam"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2176618",
           "author": "Tom Phillips",
