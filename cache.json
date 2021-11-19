@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/11/new-rowhammer-technique.html",
+          "author": null,
+          "description": "<p>Rowhammer is an <a href=\"https://arstechnica.com/gadgets/2021/11/ddr4-memory-is-even-more-susceptible-to-rowhammer-attacks-than-anyone-thought/\">attack technique</a> involving accessing &#8212; that&#8217;s &#8220;hammering&#8221; &#8212; rows of bits in memory, millions of times per second, with the intent of causing bits in neighboring rows to flip. This is a side-channel attack, and the result can be all sorts of mayhem.</p>\n<p>Well, there is a new enhancement:</p>\n<blockquote><p>All previous Rowhammer attacks have hammered rows with uniform patterns, such as single-sided, double-sided, or n-sided. In all three cases, these &#8220;aggressor&#8221; rows &#8212; meaning those that cause bitflips in nearby &#8220;victim&#8221; rows &#8212; are accessed the same number of times. ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/11/new-rowhammer-technique.html",
+          "publishedOn": "2021-11-19T14:31:14.000Z",
+          "wordCount": 574,
+          "title": "New Rowhammer Technique"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/11/is-microsoft-stealing-peoples-bookmarks.html",
           "author": null,
           "description": "<p>I received email from two people who told me that Microsoft Edge enabled synching without warning or consent, which means that Microsoft sucked up all of their bookmarks. Of course they can turn synching off, but it&#8217;s too late.</p>\n<p>Has this happened to anyone else, or was this user error of some sort? If this is real, can some reporter write about it?</p>\n<p>(Not that &#8220;user error&#8221; is a good justification. Any system where making a simple mistake means that you&#8217;ve forever lost your privacy isn&#8217;t a good one. We see this same situation with sharing contact lists with apps on smartphones. Apps will repeatedly ask, and only need you to accidentally click &#8220;okay&#8221; once.)...</p>",
@@ -365,6 +374,78 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1814297",
+          "author": "Ron Amadeo",
+          "description": "A huge Play Store website redesign is hitting some users' accounts.",
+          "link": "https://arstechnica.com/?p=1814297",
+          "publishedOn": "2021-11-19T18:09:11.000Z",
+          "wordCount": 1197,
+          "title": "Google Play website gets its first redesign in years, looks like a big app"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1814073",
+          "author": "Andrew Cunningham",
+          "description": "Amazon's new series premiered last night, and there's a whole lot to talk about.",
+          "link": "https://arstechnica.com/?p=1814073",
+          "publishedOn": "2021-11-19T18:01:23.000Z",
+          "wordCount": 3406,
+          "title": "Andrew and Lee dissect The Wheel of Time’s television premiere"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1814298",
+          "author": "Eric Berger",
+          "description": "The mission's planners don't know how long the plucky vehicle will last.",
+          "link": "https://arstechnica.com/?p=1814298",
+          "publishedOn": "2021-11-19T16:25:03.000Z",
+          "wordCount": 802,
+          "title": "Here’s the best video yet of Ingenuity flying across Mars"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1814287",
+          "author": "Kyle Orland",
+          "description": "Choose your own path from point A to point B, soldier.",
+          "link": "https://arstechnica.com/?p=1814287",
+          "publishedOn": "2021-11-19T16:14:00.000Z",
+          "wordCount": 1518,
+          "title": "Halo Infinite preview: The more things change…"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1814301",
+          "author": "Financial Times",
+          "description": "Top soccer players, clubs seek greater share from franchise’s huge success.",
+          "link": "https://arstechnica.com/?p=1814301",
+          "publishedOn": "2021-11-19T15:44:29.000Z",
+          "wordCount": 914,
+          "title": "EA and FIFA’s 30-year videogame union at risk in battle over name"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1814284",
+          "author": "Beth Mole",
+          "description": "Booster doses could be available to all adults by this weekend.",
+          "link": "https://arstechnica.com/?p=1814284",
+          "publishedOn": "2021-11-19T15:17:00.000Z",
+          "wordCount": 976,
+          "title": "FDA authorizes Pfizer and Moderna COVID boosters for all adults"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1814211",
+          "author": "Dan Goodin",
+          "description": "Malware infiltrating open source repositories is getting more sophisticated.",
+          "link": "https://arstechnica.com/?p=1814211",
+          "publishedOn": "2021-11-19T13:02:29.000Z",
+          "wordCount": 1250,
+          "title": "Malware downloaded from PyPI 41,000 times was surprisingly stealthy"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1811721",
+          "author": "Ars Contributors",
+          "description": "Computer analysis is now a central part of science.",
+          "link": "https://arstechnica.com/?p=1811721",
+          "publishedOn": "2021-11-19T13:00:28.000Z",
+          "wordCount": 1052,
+          "title": "Keeping science reproducible in a world of custom code and data"
+        },
         {
           "id": "https://arstechnica.com/?p=1813970",
           "author": "Eric Berger",
@@ -3657,6 +3738,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2177399",
+          "author": "Matt Wales",
+          "description": "Developer Asobo's spectacular Microsoft Flight Simulator has now received its massive Game of the Year update, introducing a heap of free additions alongside its first major paid expansion, the competitive-multiplayer-focussed Reno Air Races.\nStarting with the free additions, Flight Simulator's 1.21.12.0 update introduces a total of five new aircraft, some very different to those seen in the base game. The Boeing F/A-18 Super Hornet, for instance, is Asobo's first military jet, while the VoloCity is its first eVTOL (electric vertical take-off and landing) aircraft, capable of pinpoint landings and described as a taster for the proper arrival of helicopters in Flight Simulator next year.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-19-flight-simulators-competitive-multiplayer-dlc-and-big-free-goty-update-are-out-now",
+          "publishedOn": "2021-11-19T17:19:00.000Z",
+          "wordCount": 1138,
+          "title": "Flight Simulator's competitive multiplayer DLC and big free GOTY update are out now"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2177377",
+          "author": "Tom Phillips",
+          "description": "Legacy of the Sith, the eighth expansion for Star Wars: The Old Republic, will launch for free to subscribers on 14th December.\nBioWare announced the date last night in a livestream which showed off the expansion's story and locations, as well as how it will expand next year.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-19-star-wars-the-old-republics-legacy-of-the-sith-expansion-launches-next-month",
+          "publishedOn": "2021-11-19T15:15:00.000Z",
+          "wordCount": 788,
+          "title": "Star Wars: The Old Republic's Legacy of the Sith expansion launches next month"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2177364",
+          "author": "Wesley Yin-Poole",
+          "description": "Forza Horizon 5 has seen more than 10 million players since launch, Microsoft has announced.\nThe impressive milestone means Playground's racing game has enjoyed the biggest first week in Xbox and Game Pass history.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-19-forza-horizon-5-has-more-than-10-million-players",
+          "publishedOn": "2021-11-19T14:29:00.000Z",
+          "wordCount": 804,
+          "title": "Forza Horizon 5 has more than 10 million players"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2177325",
           "author": "Ed Nightingale",
