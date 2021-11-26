@@ -366,6 +366,15 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1815725",
+          "author": "Jeff Dunn",
+          "description": "Including deals on recommended noise cancelers from Sony, Apple, Bose, and more.",
+          "link": "https://arstechnica.com/?p=1815725",
+          "publishedOn": "2021-11-25T23:33:29.000Z",
+          "wordCount": 1416,
+          "title": "The 9 best deals on noise-canceling headphones we’re seeing for Black Friday"
+        },
+        {
           "id": "https://arstechnica.com/?p=1815878",
           "author": "Ars Contributors",
           "description": "Photoluminescent substances could be applied to sidewalks, streets, and buildings.",
@@ -3502,6 +3511,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/11/26/qos-memory-resources/",
+          "author": null,
+          "description": "Authors: Tim Xu (Tencent Cloud)\nKubernetes v1.22, released in August 2021, introduced a new alpha feature that improves how Linux nodes implement memory resource requests and limits.\nIn prior releases, Kubernetes did not support memory quality guarantees.\nFor example, if you set container resources as follows:\napiVersion: v1\nkind: Pod\nmetadata:\n  name: example\nspec:\n  containers:\n  - name: nginx\n    resources:\n      requests:\n        memory: \"64Mi\"\n        cpu: \"250m\"\n      limits:\n        memory: \"64Mi\"\n        cpu: \"500m\"\n\nspec.containers[].resources.requests(e.g. cpu, memory) is designed for scheduling. When you create a Pod, the Kubernetes scheduler selects a node for the Pod to run on. Each node has a maximum capacity for each of the resource types: the amount of CPU and memory it can…",
+          "link": "https://kubernetes.io/blog/2021/11/26/qos-memory-resources/",
+          "publishedOn": "2021-11-26T00:00:00.000Z",
+          "wordCount": 4093,
+          "title": "Blog: Quality-of-Service for Memory Resources"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/11/12/are-you-ready-for-dockershim-removal/",
           "author": null,
           "description": "Author: Sergey Kanzhelev, Google. With reviews from Davanum Srinivas, Elana Hashman, Noah Kantrowitz, Rey Lejano.\nLast year we announced that Dockershim is being deprecated: Dockershim Deprecation FAQ.\nOur current plan is to remove dockershim from the Kubernetes codebase soon.\nWe are looking for feedback from you whether you are ready for dockershim\nremoval and to ensure that you are ready when the time comes.\nPlease fill out this survey: https://forms.gle/svCJmhvTv78jGdSx8.\nThe dockershim component that enables Docker as a Kubernetes container runtime is\nbeing deprecated in favor of runtimes that directly use the Container Runtime Interface\ncreated for Kubernetes. Many Kubernetes users have migrated to\nother container runtimes without problems. However we see that dockershim is\nstill very…",
@@ -3621,6 +3639,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2178209",
+          "author": "Matt Wales",
+          "description": "Epic has announced the next batch of free games coming to its store, with next week's offerings looking an awful lot like Dead by Daylight and While True: learn().\nDead by Daylight, should you be unfamiliar, is developer Behaviour Interactive's extremely popular 4v1 asymmetrical horror game, which pits a team of four survivors against one bloodthirsty killer as they attempt to evade and escape.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-25-dead-by-daylight-is-free-on-the-epic-games-store-next-week",
+          "publishedOn": "2021-11-25T20:02:00.000Z",
+          "wordCount": 938,
+          "title": "Dead by Daylight is free on the Epic Games Store next week"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2178199",
+          "author": "Matt Wales",
+          "description": "In news that isn't particularly surprising but still nice to have confirmed, Capcom has announced the superb Monster Hunter Rise will include all post-launch content so far released for the Switch version when it makes its way to Steam on 12th January.\nSince its arrival on Switch back in March, Capcom has released a steady flow of post-launch content for Monster Hunter Rise, ranging from the big stuff - which is to say new creatures and a proper conclusion to the Kamura Village story arc - to fun smaller additions, including a series of 'collaborations' based on various video game properties.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-11-25-monster-hunter-rise-for-pc-will-include-all-switchs-post-launch-content-on-release-day",
+          "publishedOn": "2021-11-25T17:33:00.000Z",
+          "wordCount": 930,
+          "title": "Monster Hunter Rise for PC will include all Switch's post-launch content on release day"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2178155",
           "author": "Martin Robinson",
@@ -6968,69 +7004,6 @@
           "publishedOn": "2021-10-27T13:41:00.000Z",
           "wordCount": 1075,
           "title": "Far Cry 6's goading marketing email raises eyebrows among fans"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173805",
-          "author": "Wesley Yin-Poole",
-          "description": "Paradox has delayed Crusader Kings 3's Royal Court expansion to 2022. It was due out later this year.\nThe developer said it was not \"entirely satisfied\" with the progress made on the expansion.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-crusader-kings-3s-royal-court-expansion-delayed-to-2022",
-          "publishedOn": "2021-10-27T11:22:00.000Z",
-          "wordCount": 1132,
-          "title": "Crusader Kings 3's Royal Court expansion delayed to 2022"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173803",
-          "author": "Tom Phillips",
-          "description": "Google Stadia has begun rolling out a much-requested feature: time-limited demos of existing games. \nStadia, of course, requires you to purchase games individually or play the selection of titles included in its Stadia Pro subscription. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-stadia-is-testing-time-limited-demos",
-          "publishedOn": "2021-10-27T11:08:00.000Z",
-          "wordCount": 749,
-          "title": "Stadia testing time-limited demos"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173796",
-          "author": "Ed Nightingale",
-          "description": "New Silent Hill content has been added to Dead by Daylight just in time for Halloween.\nIn addition to the Silent Hill chapter already available, which added the iconic Pyramid Head as a killer, two new costume sets are now available.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-pyramid-head-haunts-dead-by-daylight-in-new-costume",
-          "publishedOn": "2021-10-27T10:46:00.000Z",
-          "wordCount": 816,
-          "title": "Pyramid Head haunts Dead by Daylight in new costume"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173794",
-          "author": "Wesley Yin-Poole",
-          "description": "Ubisoft has indefinitely delayed Ghost Recon Frontline's planned closed test following a less-than-stellar reception to the controversial free-to-play battle royale, but it's continuing to update 2019's Ghost Recon Breakpoint with a significant single-player focused experience.\nThe Operation Motherland update, due out 2nd November, revolves around the new Conquest mode, which is described as an alternative mode to Ghost Recon Breakpoint's story mode. Here's the setup:\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-ghost-recon-breakpoints-operation-motherland-update-is-a-story-mode-alternative-that-lets-you-conquer-the-island",
-          "publishedOn": "2021-10-27T10:32:00.000Z",
-          "wordCount": 951,
-          "title": "Ghost Recon Breakpoint's Operation Motherland update is a story mode alternative that lets you conquer the island"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173780",
-          "author": "Ed Nightingale",
-          "description": "Doom Eternal's Horde Mode is now available in the new free Update 6.66.\nThe arcade-style mode has players defeating waves of demons to unlock new weapons and challenges, competing online through seasonal leaderboards.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-free-horde-mode-added-to-doom-eternal-today",
-          "publishedOn": "2021-10-27T10:12:00.000Z",
-          "wordCount": 793,
-          "title": "Free Horde Mode added to Doom Eternal today in 6.66 update"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173786",
-          "author": "Tom Phillips",
-          "description": "Nintendo's N64 and Mega Drive Switch Online apps have been datamined, revealing some solid hints at upcoming games, as well as how many are currently planned. \nEach console app contains a numbered list of games ordered alphabetically, with gaps for upcoming titles. But some of these gaps are so small it is obvious which game will alphabetically fill the space (thanks, MondoMega).\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-nintendo-switch-online-datamine-points-to-upcoming-n64-games",
-          "publishedOn": "2021-10-27T10:08:00.000Z",
-          "wordCount": 984,
-          "title": "Nintendo Switch Online datamine points to upcoming N64 games"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2173784",
-          "author": "Wesley Yin-Poole",
-          "description": "Back 4 Blood has seen over 6 million players.\nThat's according to a tweet from the official Back 4 Blood account.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-10-27-back-4-blood-has-seen-over-6-million-players",
-          "publishedOn": "2021-10-27T09:55:00.000Z",
-          "wordCount": 834,
-          "title": "Back 4 Blood has seen over 6 million players"
         }
       ]
     }

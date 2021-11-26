@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-25T18:26:49.687Z</updated>
+    <updated>2021-11-26T00:30:00.799Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Quality-of-Service for Memory Resources]]></title>
+        <id>https://kubernetes.io/blog/2021/11/26/qos-memory-resources/</id>
+        <link href="https://kubernetes.io/blog/2021/11/26/qos-memory-resources/"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Tim Xu (Tencent Cloud)
+Kubernetes v1.22, released in August 2021, introduced a new alpha feature that improves how Linux nodes implement memory resource requests and limits.
+In prior releases, Kubernetes did not support memory quality guarantees.
+For example, if you set container resources as follows:
+apiVersion: v1
+kind: Pod
+metadata:
+  name: example
+spec:
+  containers:
+  - name: nginx
+    resources:
+      requests:
+        memory: "64Mi"
+        cpu: "250m"
+      limits:
+        memory: "64Mi"
+        cpu: "500m"
+
+spec.containers[].resources.requests(e.g. cpu, memory) is designed for scheduling. When you create a Pod, the Kubernetes scheduler selects a node for the Pod to run on. Each node has a maximum capacity for each of the resource types: the amount of CPU and memory it can…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9 best deals on noise-canceling headphones we’re seeing for Black Friday]]></title>
+        <id>https://arstechnica.com/?p=1815725</id>
+        <link href="https://arstechnica.com/?p=1815725"/>
+        <updated>2021-11-25T23:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Including deals on recommended noise cancelers from Sony, Apple, Bose, and more.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead by Daylight is free on the Epic Games Store next week]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2178209</id>
+        <link href="https://www.eurogamer.net/articles/2021-11-25-dead-by-daylight-is-free-on-the-epic-games-store-next-week"/>
+        <updated>2021-11-25T20:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Epic has announced the next batch of free games coming to its store, with next week's offerings looking an awful lot like Dead by Daylight and While True: learn().
+Dead by Daylight, should you be unfamiliar, is developer Behaviour Interactive's extremely popular 4v1 asymmetrical horror game, which pits a team of four survivors against one bloodthirsty killer as they attempt to evade and escape.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monster Hunter Rise for PC will include all Switch's post-launch content on release day]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2178199</id>
+        <link href="https://www.eurogamer.net/articles/2021-11-25-monster-hunter-rise-for-pc-will-include-all-switchs-post-launch-content-on-release-day"/>
+        <updated>2021-11-25T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[In news that isn't particularly surprising but still nice to have confirmed, Capcom has announced the superb Monster Hunter Rise will include all post-launch content so far released for the Switch version when it makes its way to Steam on 12th January.
+Since its arrival on Switch back in March, Capcom has released a steady flow of post-launch content for Monster Hunter Rise, ranging from the big stuff - which is to say new creatures and a proper conclusion to the Kamura Village story arc - to fun smaller additions, including a series of 'collaborations' based on various video game properties.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will glow-in-the-dark materials someday light our cities?]]></title>
         <id>https://arstechnica.com/?p=1815878</id>
@@ -8479,90 +8542,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[We did the basics—now let's look at some more detailed steps to protect yourself.]]></summary>
         <author>
             <name>Sean Gallagher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crusader Kings 3's Royal Court expansion delayed to 2022]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173805</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-crusader-kings-3s-royal-court-expansion-delayed-to-2022"/>
-        <updated>2021-10-27T11:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Paradox has delayed Crusader Kings 3's Royal Court expansion to 2022. It was due out later this year.
-The developer said it was not "entirely satisfied" with the progress made on the expansion.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadia testing time-limited demos]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173803</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-stadia-is-testing-time-limited-demos"/>
-        <updated>2021-10-27T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Stadia has begun rolling out a much-requested feature: time-limited demos of existing games. 
-Stadia, of course, requires you to purchase games individually or play the selection of titles included in its Stadia Pro subscription. 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyramid Head haunts Dead by Daylight in new costume]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173796</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-pyramid-head-haunts-dead-by-daylight-in-new-costume"/>
-        <updated>2021-10-27T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[New Silent Hill content has been added to Dead by Daylight just in time for Halloween.
-In addition to the Silent Hill chapter already available, which added the iconic Pyramid Head as a killer, two new costume sets are now available.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost Recon Breakpoint's Operation Motherland update is a story mode alternative that lets you conquer the island]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173794</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-ghost-recon-breakpoints-operation-motherland-update-is-a-story-mode-alternative-that-lets-you-conquer-the-island"/>
-        <updated>2021-10-27T10:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft has indefinitely delayed Ghost Recon Frontline's planned closed test following a less-than-stellar reception to the controversial free-to-play battle royale, but it's continuing to update 2019's Ghost Recon Breakpoint with a significant single-player focused experience.
-The Operation Motherland update, due out 2nd November, revolves around the new Conquest mode, which is described as an alternative mode to Ghost Recon Breakpoint's story mode. Here's the setup:
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Horde Mode added to Doom Eternal today in 6.66 update]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173780</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-free-horde-mode-added-to-doom-eternal-today"/>
-        <updated>2021-10-27T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Doom Eternal's Horde Mode is now available in the new free Update 6.66.
-The arcade-style mode has players defeating waves of demons to unlock new weapons and challenges, competing online through seasonal leaderboards.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Online datamine points to upcoming N64 games]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173786</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-nintendo-switch-online-datamine-points-to-upcoming-n64-games"/>
-        <updated>2021-10-27T10:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo's N64 and Mega Drive Switch Online apps have been datamined, revealing some solid hints at upcoming games, as well as how many are currently planned. 
-Each console app contains a numbered list of games ordered alphabetically, with gaps for upcoming titles. But some of these gaps are so small it is obvious which game will alphabetically fill the space (thanks, MondoMega).
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back 4 Blood has seen over 6 million players]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2173784</id>
-        <link href="https://www.eurogamer.net/articles/2021-10-27-back-4-blood-has-seen-over-6-million-players"/>
-        <updated>2021-10-27T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Back 4 Blood has seen over 6 million players.
-That's according to a tweet from the official Back 4 Blood account.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
         </author>
     </entry>
 </feed>
