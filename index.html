@@ -10,65 +10,44 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
   <link href="index.css" rel="stylesheet" />
-  <style>
-  :root {
-    /**
-     * Solarized Dark
-     * Ethan Schoonover (modified by aramisgithub)
-     */
-    --base00: #002b36;
-    --base01: #073642;
-    --base02: #586e75;
-    --base03: #657b83;
-    --base04: #839496;
-    --base05: #93a1a1;
-    --base06: #eee8d5;
-    --base07: #fdf6e3;
-    --base08: #dc322f;
-    --base09: #cb4b16;
-    --base0A: #b58900;
-    --base0B: #859900;
-    --base0C: #2aa198;
-    --base0D: #268bd2;
-    --base0E: #6c71c4;
-    --base0F: #d33682;
-
-    /**
-    * Typograph
-    */
-    --font-size-m: 1.6rem;
-    --font-size-s: 1.4rem;
-
-    /**
-    * Components
-    */
-    --body-color: var(--base07);
-    --body-bg: var(--base01);
-
-    --daily-heading-color: var(--base03);
-
-    --source-name-color: var(--base0F);
-    --source-name-hover-color: var(--base0F);
-
-    /* --card-bg: var(--base00); */
-    --card-shadow: none;
-    --card-radius: 0;
-    /* --footer-link-hover-color: var(--base0D); */
-  }
-
-  .daily-heading {
-    padding-left: 0;
-  }
-
-  .card {
-    border: 1px solid var(--base02);
-  }
-</style>
-
+  <!-- %before-head-end.html% -->
 </head>
 
 <body>
 <!-- %after-body-begin.html% -->
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-11-28">2021-11-28</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://arstechnica.com">Ars Technica</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How Foundation preserved Asimov’s big ideas while bringing the story to vivid life</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1813890">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(10 min)</span>
+                    <span>Ars chats with showrunner David S. Goyer and science advisor Kevin Hand</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">This decorated mammoth ivory pendant is 41,500 years old</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1816250">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>The pendant is the oldest example of a style that swept Paleolithic Europe.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-11-27">2021-11-27</time></h2>
     <ul class="sources card">
@@ -9274,7 +9253,7 @@ Read more</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-11-28T12:28:04.405Z">2021-11-28T12:28:04.405Z</time>
+    <time id="build-timestamp" datetime="2021-11-28T13:19:54.966Z">2021-11-28T13:19:54.966Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>
