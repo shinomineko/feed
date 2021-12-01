@@ -357,15 +357,6 @@
           "publishedOn": "2021-11-02T11:28:21.000Z",
           "wordCount": 355,
           "title": "On Cell Phone Metadata"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/11/hiding-vulnerabilities-in-source-code.html",
-          "author": null,
-          "description": "<p>Really interesting <a href=\"https://trojansource.codes/trojan-source.pdf\">research</a> demonstrating how to hide vulnerabilities in source code by manipulating how Unicode text is displayed. It&#8217;s really clever, and not the sort of attack one would normally think about.</p>\n<p>From Ross Anderson&#8217;s <a href=\"https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/\">blog</a>:</p>\n<blockquote><p>We have discovered ways of manipulating the encoding of source code files so that human viewers and compilers see different logic. One particularly pernicious method uses Unicode directionality override characters to display code as an anagram of its true logic. We&#8217;ve verified that this attack works against C, C++, C#, JavaScript, Java, Rust, Go, and Python, and suspect that it will work against most other modern languages...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/11/hiding-vulnerabilities-in-source-code.html",
-          "publishedOn": "2021-11-01T15:58:54.000Z",
-          "wordCount": 1452,
-          "title": "Hiding Vulnerabilities in Source Code"
         }
       ]
     },
@@ -374,6 +365,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1816801",
+          "author": "Jennifer Ouellette",
+          "description": "The universal laws of flow and a recurring dream inspired Jesse Woolston's latest work.",
+          "link": "https://arstechnica.com/?p=1816801",
+          "publishedOn": "2021-12-01T00:17:17.000Z",
+          "wordCount": 1520,
+          "title": "Stare into the abyss of a swirling black hole with this LED monolith installation"
+        },
         {
           "id": "https://arstechnica.com/?p=1817098",
           "author": "Financial Times",
@@ -3343,69 +3343,6 @@
           "publishedOn": "2021-11-01T18:31:42.000Z",
           "wordCount": 1110,
           "title": "Our fave bounty hunter takes on Tatooine’s underworld in Book of Boba Fett trailer"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1809184",
-          "author": "Ron Amadeo",
-          "description": "The Pixel 6 has a lot of thermal tape and only one mmWave antenna?",
-          "link": "https://arstechnica.com/?p=1809184",
-          "publishedOn": "2021-11-01T18:13:58.000Z",
-          "wordCount": 1188,
-          "title": "Pixel 6 teardown shows lots of heat dissipation, questionable mmWave layout"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1809245",
-          "author": "Tim De Chant",
-          "description": "Internal posts and job listings show plans were moving forward.",
-          "link": "https://arstechnica.com/?p=1809245",
-          "publishedOn": "2021-11-01T17:01:06.000Z",
-          "wordCount": 1166,
-          "title": "As teens left Facebook, company planned to lure 6-year-olds, documents show"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1809226",
-          "author": "Jon Brodkin",
-          "description": "Starlink exits beta, but \"silicon shortages have delayed production.\"",
-          "link": "https://arstechnica.com/?p=1809226",
-          "publishedOn": "2021-11-01T16:37:27.000Z",
-          "wordCount": 1106,
-          "title": "SpaceX: Chip shortage is impacting “our ability to fulfill” Starlink orders"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1809174",
-          "author": "Scharon Harding",
-          "description": "Apple has reduced its iMac lineup to the M1-powered 24-inch and Intel-based 27-inch models.",
-          "link": "https://arstechnica.com/?p=1809174",
-          "publishedOn": "2021-11-01T15:57:46.000Z",
-          "wordCount": 708,
-          "title": "Apple cuts another Intel tie by discontinuing 21.5-inch iMac"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1799687",
-          "author": "Corey Gaskin",
-          "description": "We tested foot rests, chargers, and other desk gear to make your workday easier.",
-          "link": "https://arstechnica.com/?p=1799687",
-          "publishedOn": "2021-11-01T15:45:26.000Z",
-          "wordCount": 1683,
-          "title": "Our 22 favorite desk accessories for a more organized and comfy workplace"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1809209",
-          "author": "Financial Times",
-          "description": "Ends 8-year saga that will unwind part of deal for server and storage group EMC.",
-          "link": "https://arstechnica.com/?p=1809209",
-          "publishedOn": "2021-11-01T15:43:54.000Z",
-          "wordCount": 925,
-          "title": "Dell spins off $64 billion VMware as it battles debt hangover"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1809170",
-          "author": "Ars Staff",
-          "description": "This is the last-ever gasoline-only M5, and BMW has gone all out.",
-          "link": "https://arstechnica.com/?p=1809170",
-          "publishedOn": "2021-11-01T15:23:46.000Z",
-          "wordCount": 1170,
-          "title": "The BMW M5 CS is seriously potent, seriously expensive"
         }
       ]
     },
@@ -6662,51 +6599,6 @@
           "publishedOn": "2021-11-01T18:39:00.000Z",
           "wordCount": 981,
           "title": "Mafia: Definitive Edition and Celeste lead November's PlayStation Now games"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174505",
-          "author": "Robert Purchese",
-          "description": "Meghna Jayanth, the award-winning writer and narrative designer of games like 80 Days, Sunless Sea, Horizon: Zero Dawn and Sable, has confirmed she'll be working on the new game by Falcon Age developer Outer Loop.\nShe told me this during Episode 2 of The New Eurogamer podcast, which was made available to everyone today.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-01-meghna-jayanth-confirms-shes-working-on-falcon-age-devs-new-game",
-          "publishedOn": "2021-11-01T17:08:00.000Z",
-          "wordCount": 1055,
-          "title": "Meghna Jayanth confirms she's working on Falcon Age dev's new game"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174496",
-          "author": "Ed Nightingale",
-          "description": "Tetris: The Grand Master is a series of tricky Tetris games made for arcades by Japanese developer Arika, popular since 1998.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-01-tetris-the-grand-master-may-be-on-the-way-to-consoles",
-          "publishedOn": "2021-11-01T16:16:00.000Z",
-          "wordCount": 796,
-          "title": "Tetris: The Grand Master may be on the way to consoles"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174493",
-          "author": "Tom Phillips",
-          "description": "Mr. Driller Drill Land will launch for PlayStation and Xbox this Thursday, 4th November. \nThis is the same remake which Bandai Namco launched for Nintendo Switch and PC back in 2020, which in turn was a souped up version of the series' 2002 Japan-only entry for GameCube.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-01-mr-driller-drill-land-coming-to-playstation-xbox-this-week",
-          "publishedOn": "2021-11-01T16:09:00.000Z",
-          "wordCount": 804,
-          "title": "Mr. Driller Drill Land coming to PlayStation, Xbox this week"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174485",
-          "author": "Tom Phillips",
-          "description": "Stars of Blood, a long-lost space pirate game once in the works at Valve, has been glimpsed in newly-surfaced concept art. \nThe game's existance was acknowledged by Valve boss Gabe Newell during an interview in 2012, although the project had already been canned by that point. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-01-valve-concept-art-surfaces-for-canned-space-pirate-game",
-          "publishedOn": "2021-11-01T14:59:00.000Z",
-          "wordCount": 986,
-          "title": "Valve concept art surfaces for canned space pirate game"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174477",
-          "author": "Ed Nightingale",
-          "description": "Microsoft has announced the games coming to Xbox Game Pass and it's an exciting month ahead.\nAt the top of the billing is Forza Horizon 5, available day one from 9th November across PC, console and cloud. The latest in the series is set in Mexico and is looking stunning.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-01-forza-minecraft-and-more-come-to-game-pass-in-november",
-          "publishedOn": "2021-11-01T14:22:00.000Z",
-          "wordCount": 914,
-          "title": "Forza, Minecraft and more come to Game Pass in November"
         }
       ]
     }
