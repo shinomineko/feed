@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/12/testing-faraday-cages.html",
+          "author": null,
+          "description": "<p>Matt Blaze <a href=\"https://www.mattblaze.org/blog/faraday/\">tested</a> a variety of Faraday cages for phones, both commercial and homemade.</p>\n<p>The bottom line:</p>\n<blockquote><p>A quick and likely reliable &#8220;go/no go test&#8221; can be done with an Apple AirTag and an iPhone: drop the AirTag in the bag under test, and see if the phone can locate it and activate its alarm (beware of caching in the FindMy app when doing this). </p>\n<p>This test won&#8217;t tell you the exact attenuation level, of course, but it will tell you if the attenuation is sufficient for most practical purposes. It can also detect whether an otherwise good bag has been damaged and compromised. ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/12/testing-faraday-cages.html",
+          "publishedOn": "2021-12-03T12:13:20.000Z",
+          "wordCount": 472,
+          "title": "Testing Faraday Cages"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html",
           "author": null,
           "description": "<p>A hacker stole $31 million from the blockchain company MonoX Finance , by <a href=\"https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/\">exploiting a bug</a> in software the service uses to draft smart contracts.</p>\n<blockquote><p>Specifically, the hack used the same token as both the tokenIn and tokenOut, which are methods for exchanging the value of one token for another. MonoX updates prices after each swap by calculating new prices for both tokens. When the swap is completed, the price of tokenIn­that is, the token sent by the user­decreases and the price of tokenOut­or the token received by the user­increases.</p>\n<p>By using the same token for both tokenIn and tokenOut, the hacker greatly inflated the price of the MONO token because the updating of the tokenOut overwrote the price update of the tokenIn. The hacker then exchanged the token for $31 million worth of tokens on the Ethereum and Polygon blockchains...</p></blockquote>",
@@ -356,6 +365,42 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1817502",
+          "author": "Ars Staff",
+          "description": "Our massive guide is back—let us help you pick a game.",
+          "link": "https://arstechnica.com/?p=1817502",
+          "publishedOn": "2021-12-03T12:00:39.000Z",
+          "wordCount": 532,
+          "title": "Ars Technica’s ultimate board game gift guide, 2021 edition"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1816941",
+          "author": "Eric Berger",
+          "description": "\"Replacing an engine, we're probably talking about multiple weeks.\"",
+          "link": "https://arstechnica.com/?p=1816941",
+          "publishedOn": "2021-12-03T12:00:22.000Z",
+          "wordCount": 1942,
+          "title": "Rocket Report: SLS may face delay due to engine issue, Astra goes orbital"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1817761",
+          "author": "John Timmer",
+          "description": "It looks a lot like a hot version of the innermost planet in our Solar System.",
+          "link": "https://arstechnica.com/?p=1817761",
+          "publishedOn": "2021-12-03T11:45:19.000Z",
+          "wordCount": 1096,
+          "title": "So metal: Newly discovered exoplanet is likely over 80 percent iron"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1817283",
+          "author": "Jennifer Ouellette",
+          "description": "A network forms between egg yolk proteins, water molecules, and pigment's clay particles.",
+          "link": "https://arstechnica.com/?p=1817283",
+          "publishedOn": "2021-12-03T11:15:20.000Z",
+          "wordCount": 1406,
+          "title": "Secret of tempera’s pleasing properties is how egg yolk interacts with pigment"
+        },
         {
           "id": "https://arstechnica.com/?p=1817786",
           "author": "Jennifer Ouellette",
@@ -3289,42 +3334,6 @@
           "publishedOn": "2021-11-04T07:01:24.000Z",
           "wordCount": 2081,
           "title": "Forza Horizon 5 game review: A gorgeous drive to familiar heights"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1810070",
-          "author": "Samuel Axon",
-          "description": "The concept rides the recent \"metaverse\" hype, but it's only a precursor.",
-          "link": "https://arstechnica.com/?p=1810070",
-          "publishedOn": "2021-11-03T22:41:17.000Z",
-          "wordCount": 1086,
-          "title": "With Mesh for Teams, Microsoft plans to bring 3D workspaces to remote workers in 2022"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1810098",
-          "author": "Jon Brodkin",
-          "description": "FCC approves 147-satellite plan without adding conditions requested by SpaceX.",
-          "link": "https://arstechnica.com/?p=1810098",
-          "publishedOn": "2021-11-03T21:49:19.000Z",
-          "wordCount": 865,
-          "title": "FCC approves Boeing satellites, rejecting SpaceX’s interference claims"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1810093",
-          "author": "Beth Mole",
-          "description": "Meanwhile, vaccine mandates continue to prove effective in other states.",
-          "link": "https://arstechnica.com/?p=1810093",
-          "publishedOn": "2021-11-03T21:20:09.000Z",
-          "wordCount": 1000,
-          "title": "Alaska Governor orders state agencies to ignore federal vaccine mandates"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1810057",
-          "author": "John Timmer",
-          "description": "First small-scale demonstration of a full-stack production line.",
-          "link": "https://arstechnica.com/?p=1810057",
-          "publishedOn": "2021-11-03T19:50:37.000Z",
-          "wordCount": 1236,
-          "title": "Researchers demonstrate complete solar-powered hydrocarbon production"
         }
       ]
     },
@@ -3468,6 +3477,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179336",
+          "author": "Ed Nightingale",
+          "description": "Animal Crossing: New Horizons players have reported a glitch in the game's new DLC that is turning their villagers into nudists.\nAll animal villagers in the game wear clothes (besides rockstar pup KK Slider) and a big appeal is designing clothes for them to wear.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-03-animal-crossing-villagers-get-naked-in-dlc-glitch",
+          "publishedOn": "2021-12-03T11:15:00.000Z",
+          "wordCount": 950,
+          "title": "Animal Crossing villagers get naked in DLC glitch"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179334",
+          "author": "Tom Phillips",
+          "description": "This week, PlayStation Plus subscribers reacted in surprise when a new version of Godfall was confirmed as part of December's game offering. \nThe Godfall: Challenger Edition is a version of the game which lets players try three endgame modes, and provides a sampling of high-end loot and skill points so you can test the game at max level. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-03-playstation-plus-godfall-challenger-edition-not-a-trial-developer-says",
+          "publishedOn": "2021-12-03T11:12:00.000Z",
+          "wordCount": 866,
+          "title": "PlayStation Plus' Godfall: Challenger Edition not a trial, developer insists"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179324",
+          "author": "Ed Nightingale",
+          "description": "The game that started the Paper Mario series, Paper Mario 64, will be added to Nintendo Online.\nIt will be available for Nintendo Online Expansion Pack members from 10th December.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-03-paper-mario-64-folded-into-nintendo-online",
+          "publishedOn": "2021-12-03T10:22:00.000Z",
+          "wordCount": 903,
+          "title": "Paper Mario 64 folded into Nintendo Online"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2179269",
           "author": "Matt Wales",
