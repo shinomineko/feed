@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/12/friday-squid-blogging-squeeze-the-squid.html",
+          "author": null,
+          "description": "<p><a href=\"https://squeezethesquid.bandcamp.com/community\">Squeeze</a> <a href=\"https://music.amazon.com/artists/B091PCM8NS/squeeze-the-squid\">the</a> <a href=\"https://soundcloud.com/charles-berry-6\">Squid</a> is a band. It just released its <a href=\"https://www.redandblack.com/culture/local-band-squeeze-the-squid-releases-second-album/article_58cb3132-517a-11ec-b1fc-d7509618098a.html\">second album</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2021/12/friday-squid-blogging-squeeze-the-squid.html",
+          "publishedOn": "2021-12-03T20:18:08.000Z",
+          "wordCount": 691,
+          "title": "Friday Squid Blogging: Squeeze the Squid"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/12/testing-faraday-cages.html",
           "author": null,
           "description": "<p>Matt Blaze <a href=\"https://www.mattblaze.org/blog/faraday/\">tested</a> a variety of Faraday cages for phones, both commercial and homemade.</p>\n<p>The bottom line:</p>\n<blockquote><p>A quick and likely reliable &#8220;go/no go test&#8221; can be done with an Apple AirTag and an iPhone: drop the AirTag in the bag under test, and see if the phone can locate it and activate its alarm (beware of caching in the FindMy app when doing this). </p>\n<p>This test won&#8217;t tell you the exact attenuation level, of course, but it will tell you if the attenuation is sufficient for most practical purposes. It can also detect whether an otherwise good bag has been damaged and compromised. ...</p></blockquote>",
@@ -348,15 +357,6 @@
           "publishedOn": "2021-11-05T21:11:29.000Z",
           "wordCount": 828,
           "title": "Friday Squid Blogging: Squid Game Cryptocurrency Was a Scam"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/11/us-blacklists-nso-group.html",
-          "author": null,
-          "description": "<p>The Israeli cyberweapons arms manufacturer &#8212; and <a href=\"https://citizenlab.ca/tag/nso-group/\">human</a> <a href=\"https://rfkhumanrights.org/press/how-nso-groups-pegasus-spyware-threatens-human-rights\">rights</a> <a href=\"https://forbiddenstories.org/pegasus-the-new-global-weapon-for-silencing-journalists/\">violator</a>, and probably war criminal &#8212; NSO Group has been added to the US Department of Commerce&#8217;s <a href=\"https://www.reuters.com/technology/us-blacklists-four-companies-israel-russia-singapore-citing-spyware-2021-11-03/\">trade</a> <a href=\"https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html\">blacklist</a>. US companies and individuals cannot sell to them. Aside from the obvious difficulties this causes, it&#8217;ll make it harder for them to buy zero-day vulnerabilities on the open market.</p>\n<p>This is another step in the ongoing US <a href=\"https://www.washingtonpost.com/national-security/commerce-department-announces-new-rule-aimed-at-stemming-sale-of-hacking-tools-to-repressive-governments/2021/10/20/ecb56428-311b-11ec-93e2-dba2c2c11851_story.html\">actions</a> against the company.</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/11/us-blacklists-nso-group.html",
-          "publishedOn": "2021-11-04T11:52:04.000Z",
-          "wordCount": 373,
-          "title": "US Blacklists NSO Group"
         }
       ]
     },
@@ -365,6 +365,51 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1818045",
+          "author": "Beth Mole",
+          "description": "Vaccines expected to offer some protection from omicron as speedy spread continues.",
+          "link": "https://arstechnica.com/?p=1818045",
+          "publishedOn": "2021-12-03T22:34:49.000Z",
+          "wordCount": 1185,
+          "title": "COVID vaccinations spike in US as delta rages and omicron looms"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1817942",
+          "author": "Jennifer Ouellette",
+          "description": "\"Maybe I'm a grower, not a shower. An individual you don't like and then learn to like.\"",
+          "link": "https://arstechnica.com/?p=1817942",
+          "publishedOn": "2021-12-03T19:59:13.000Z",
+          "wordCount": 972,
+          "title": "New Peacemaker trailer gives us a redeemable villain we might learn to like"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1817983",
+          "author": "Dan Goodin",
+          "description": "NSO's stealthy Pegasus malware gives full remote access to infected devices.",
+          "link": "https://arstechnica.com/?p=1817983",
+          "publishedOn": "2021-12-03T19:25:30.000Z",
+          "wordCount": 868,
+          "title": "iPhones of US diplomats hacked using “0-click” exploits from embattled NSO"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1817968",
+          "author": "Jon Brodkin",
+          "description": "Fixed wireless user just needed a new antenna, but AT&T couldn't figure out the problem.",
+          "link": "https://arstechnica.com/?p=1817968",
+          "publishedOn": "2021-12-03T18:55:56.000Z",
+          "wordCount": 1107,
+          "title": "AT&T failed to fix Ohio man’s broken Internet service for a month"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1817937",
+          "author": "Scharon Harding",
+          "description": "Peripherals were part of system that launched Minuteman III missiles in the '80s.",
+          "link": "https://arstechnica.com/?p=1817937",
+          "publishedOn": "2021-12-03T18:44:42.000Z",
+          "wordCount": 780,
+          "title": "This enthusiast’s keyboard and trackball used to launch nuclear missiles"
+        },
         {
           "id": "https://arstechnica.com/?p=1817930",
           "author": "Tim De Chant",
@@ -3397,15 +3442,6 @@
           "publishedOn": "2021-11-04T13:00:08.000Z",
           "wordCount": 1502,
           "title": "Intel’s Alder Lake big.little CPU design, tested: It’s a barn burner"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1810142",
-          "author": "Sam Machkovech",
-          "description": "Horizon remains the best open-world racing series. Five games in, is that enough?",
-          "link": "https://arstechnica.com/?p=1810142",
-          "publishedOn": "2021-11-04T07:01:24.000Z",
-          "wordCount": 2081,
-          "title": "Forza Horizon 5 game review: A gorgeous drive to familiar heights"
         }
       ]
     },
@@ -3549,6 +3585,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179435",
+          "author": "Matt Wales",
+          "description": "To date, the BioShock series has taken players deep beneath the ocean circa the 1960s, high into the clouds in 1912, not to mention a multitude of lighthouses spanning, possibly, all of space and time and everything between. And now, a new report has seemingly revealed where the next entry in the acclaimed FPS saga will be leading us next.\nAs spotted by VGC, journalist Colin Moriarty relayed fresh details on 2K Games' next BioShock project, previously confirmed to be in development at new studio Cloud Chamber, as part of his latest Sacred Symbols video.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-03-next-bioshocks-setting-and-time-period-detailed-in-new-report",
+          "publishedOn": "2021-12-03T22:38:00.000Z",
+          "wordCount": 1052,
+          "title": "Next BioShock's setting and time period detailed in new report"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179431",
+          "author": "Matt Wales",
+          "description": "Sony is reportedly working on a new PlayStation subscription service to rival Microsoft's Xbox Game Pass, which will bundle together the existing PlayStation Now and PlayStation Plus as part of a multi-tier membership approach.\nThe news comes via Bloomberg's Jason Schreier, who reports the project - code-named Spartacus and expected to launch in spring 2022 - will provide subscribers with access to a range of both modern and classic for a monthly fee.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-03-playstation-reportedly-taking-on-xbox-game-pass-with-new-subscription-service-in-spring",
+          "publishedOn": "2021-12-03T19:44:00.000Z",
+          "wordCount": 1128,
+          "title": "PlayStation reportedly taking on Xbox Game Pass with new subscription service in spring"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2179417",
           "author": "Matt Wales",
@@ -6716,78 +6770,6 @@
           "publishedOn": "2021-11-04T13:54:00.000Z",
           "wordCount": 802,
           "title": "Devolver is now a publicly-traded company, and Sony has bought a stake"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175055",
-          "author": "Ed Nightingale",
-          "description": "A group of Turkish Twitch streamers have been involved in a money laundering scheme that has reportedly netted $10m.\nThe scheme was exposed following the Twitch data leak that revealed the top earning streamers on the platform.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-turkish-twitch-streamers-involved-in-usd10m-money-laundering-scheme",
-          "publishedOn": "2021-11-04T12:12:00.000Z",
-          "wordCount": 1000,
-          "title": "Turkish Twitch streamers involved in $10m money laundering scheme"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175050",
-          "author": "Ishraq Subhan",
-          "description": "In an earnings call this week, EA boss Andrew Wilson called NFTs and so-called \"play-to-earn\" games were an \"important part about the future of our industry\", but added, \"it's still early to figure out how that's going to work\". \nThe major publishers are slowly dipping their toes into the \"play-to-earn\" concept, which typically sees players earn cryptocurrency for playing a game. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-ea-says-nfts-will-be-an-important-part-about-the-future-of-our-industry",
-          "publishedOn": "2021-11-04T11:56:00.000Z",
-          "wordCount": 822,
-          "title": "EA says NFTs will be an \"important part about the future of our industry\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175035",
-          "author": "Ed Nightingale",
-          "description": "Twitch has rolled back a ban feature it said was accidentally released early.\nA change to the way bans work on the platform meant that banned accounts were automatically removed as a follower.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-twitch-makes-change-to-banning-then-changes-its-mind",
-          "publishedOn": "2021-11-04T11:32:00.000Z",
-          "wordCount": 949,
-          "title": "Twitch makes change to banning, then changes its mind"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175025",
-          "author": "Tom Phillips",
-          "description": "Announced back in August, Marvel's Midnight Suns was originally set for March 2022. It's now set to arrive sometime in the latter half of next year.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-firaxis-marvel-game-delayed",
-          "publishedOn": "2021-11-04T11:15:00.000Z",
-          "wordCount": 799,
-          "title": "Firaxis' Marvel game delayed"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175009",
-          "author": "Ishraq Subhan",
-          "description": "Mario Kart 8 Deluxe has officially surpassed Mario Kart Wii in overall sales, making the Switch port obviously the best Mario Kart ever made (sorry, I don't make the rules). \nIn its latest financial report, Nintendo announced it had shifted 3.34m copies of the game over the past two quarters, meaning it has sold more than 38.74m copies to date. In contrast, Mario Kart Wii had 37.38m sales in its lifetime.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-mario-kart-8-deluxe-is-now-the-series-best-selling-entry",
-          "publishedOn": "2021-11-04T10:47:00.000Z",
-          "wordCount": 849,
-          "title": "Mario Kart 8 Deluxe is now the series' best selling entry"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175005",
-          "author": "Tom Phillips",
-          "description": "The next major project from Mafia 3 studio Hangar 13 has been canned, despite $53m having been spent on its development since 2017.\nThe unannounced game, known internally as Volt, was set to be a three-player co-operative live service game to rival Destiny. The game's name was apparently short for Voltron, and one key mechanic would have seen enemies fusing together.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-take-two-cans-major-project-from-mafia-3-studio-after-four-years-and-usd53m",
-          "publishedOn": "2021-11-04T10:40:00.000Z",
-          "wordCount": 992,
-          "title": "Take-Two cans major project from Mafia 3 studio, after four years and $53m"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174996",
-          "author": "Ed Nightingale",
-          "description": "Nintendo has added N64 controller support to the Super Mario 3D All-Stars version of Super Mario 64.\nThe wireless N64 controller was released for the Switch last week alongside the new Nintendo Online Expansion that adds N64 and Sega Mega Drive games.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-n64-controller-support-added-to-super-mario-3d-all-stars",
-          "publishedOn": "2021-11-04T10:21:00.000Z",
-          "wordCount": 839,
-          "title": "N64 controller support added to Super Mario 3D All-Stars"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2174977",
-          "author": "Ed Nightingale",
-          "description": "Nintendo has launched its Animal Crossing: New Horizons update a day early - it's available now.\nThe update, intended for 5th November, was announced at a recent Animal Crossing Direct and brings a number of additions.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-04-animal-crossing-free-update-available-now",
-          "publishedOn": "2021-11-04T09:15:00.000Z",
-          "wordCount": 789,
-          "title": "Animal Crossing free update available now"
         }
       ]
     }
