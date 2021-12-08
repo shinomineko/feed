@@ -3397,51 +3397,6 @@
           "publishedOn": "2021-11-08T18:51:05.000Z",
           "wordCount": 967,
           "title": "Testing shows the Pixel 6 can’t actually do 30 W quick charging"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1811123",
-          "author": "Scharon Harding",
-          "description": "A newly published patent shows designs for a Microsoft Arc-like mouse that bends.",
-          "link": "https://arstechnica.com/?p=1811123",
-          "publishedOn": "2021-11-08T17:09:57.000Z",
-          "wordCount": 841,
-          "title": "Forget bendy screens—Microsoft patents “foldable mouse”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1811118",
-          "author": "Andrew Cunningham",
-          "description": "April 2020 was the last time Intel or AMD released a new $100-ish desktop CPU.",
-          "link": "https://arstechnica.com/?p=1811118",
-          "publishedOn": "2021-11-08T16:47:39.000Z",
-          "wordCount": 1179,
-          "title": "Leaked Alder Lake Core i3 would be first interesting budget CPU in almost 2 years"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1810988",
-          "author": "Jennifer Ouellette",
-          "description": "Fluorescent proteins enable scientists to watch cells inside as the worms regenerate.",
-          "link": "https://arstechnica.com/?p=1810988",
-          "publishedOn": "2021-11-08T16:00:39.000Z",
-          "wordCount": 940,
-          "title": "Study: Glow-in-the-dark worms may shed light on the secrets of regeneration"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1811085",
-          "author": "Eric Berger",
-          "description": "We're going to miss Thomas Pesquet's spicy memes from space.",
-          "link": "https://arstechnica.com/?p=1811085",
-          "publishedOn": "2021-11-08T13:58:38.000Z",
-          "wordCount": 990,
-          "title": "Double Dragon: NASA plans a SpaceX splashdown on Monday, launch Wednesday"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1811081",
-          "author": "Tim De Chant",
-          "description": "SES showed off a promising new cell targeted for mass production in a few years.",
-          "link": "https://arstechnica.com/?p=1811081",
-          "publishedOn": "2021-11-08T13:45:15.000Z",
-          "wordCount": 1167,
-          "title": "Lithium-metal “hybrid” battery promises lighter, longer-range EVs by 2025"
         }
       ]
     },
@@ -3456,6 +3411,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/",
+          "author": null,
+          "description": "Author: Bridget Kromhout (Microsoft)\n\"When will Kubernetes have IPv6?\" This question has been asked with increasing frequency ever since alpha support for IPv6 was first added in k8s v1.9. While Kubernetes has supported IPv6-only clusters since v1.18, migration from IPv4 to IPv6 was not yet possible at that point. At long last, dual-stack IPv4/IPv6 networking has reached general availability (GA) in Kubernetes v1.23.\nWhat does dual-stack networking mean for you? Let’s take a look…\nService API updates\nServices were single-stack before 1.20, so using both IP families meant creating one Service per IP family. The user experience was simplified in 1.20, when Services were re-implemented to allow both IP families, meaning a single Service can handle both IPv4 and IPv6 workloads. Dual-stack load…",
+          "link": "https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/",
+          "publishedOn": "2021-12-08T00:00:00.000Z",
+          "wordCount": 3821,
+          "title": "Blog: Kubernetes 1.23: Dual-stack IPv4/IPv6 Networking Reaches GA"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/",
           "author": null,
@@ -6644,33 +6608,6 @@
           "publishedOn": "2021-11-08T18:40:00.000Z",
           "wordCount": 875,
           "title": "Pokémon Smile gets first ever content update, nearly 18 months after launch"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175644",
-          "author": "Tom Phillips",
-          "description": "A music emote featuring Travis Scott has been removed from today's Fortnite item shop, as the US rapper faces legal action following the deaths of eight people at his Astroworld festival held in Texas over the weekend. \nEpic Games pulled the Out West emote, which features a sample of licensed music from Out West by Travis Scott and Jackboys, alongside all other items in the shop's Daily section. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-fortnite-pulls-travis-scott-emote-from-daily-shop",
-          "publishedOn": "2021-11-08T16:41:00.000Z",
-          "wordCount": 951,
-          "title": "Fortnite pulls Travis Scott emote from daily shop"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175618",
-          "author": "Ed Nightingale",
-          "description": "Guerrilla has revealed new details on the metal beasts of Horizon Forbidden West.\nIn a new PlayStation Blog post, principal machine designer (what a title!) Blake Politeski explains the process of designing some new beasts that will feature alongside the existing designs from the previous game.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-guerrilla-reveal-new-details-on-horizon-forbidden-west-machines",
-          "publishedOn": "2021-11-08T15:23:00.000Z",
-          "wordCount": 1109,
-          "title": "Guerrilla reveal new details on Horizon Forbidden West machines"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175590",
-          "author": "Tom Phillips",
-          "description": "Infamous hacking group Fail0verflow claims to have made major progress in its bid to break open the PlayStation 5's security.\nToday, the collective said it had gained access to internal \"PS5 root keys\" used to decrypt parts of the PS5's firmware. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-playstation-hackers-claim-major-ps5-breakthrough",
-          "publishedOn": "2021-11-08T13:01:00.000Z",
-          "wordCount": 850,
-          "title": "PlayStation hackers claim major PS5 breakthrough"
         }
       ]
     }
