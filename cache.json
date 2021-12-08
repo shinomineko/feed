@@ -357,15 +357,6 @@
           "publishedOn": "2021-11-10T12:17:41.000Z",
           "wordCount": 495,
           "title": "Hacking the Sony Playstation 5"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/11/drones-carrying-explosives.html",
-          "author": null,
-          "description": "<p>We&#8217;ve now had an (unsuccessful) assassination attempt by <a href=\"https://www.usnews.com/news/world/articles/2021-11-06/drone-attack-targets-iraq-pm-who-escapes-unhurt-iraq-military\">explosive-laden drones</a>.</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/11/drones-carrying-explosives.html",
-          "publishedOn": "2021-11-08T12:03:22.000Z",
-          "wordCount": 314,
-          "title": "Drones Carrying Explosives"
         }
       ]
     },
@@ -374,6 +365,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1818725",
+          "author": "Beth Mole",
+          "description": "CDC says over 35,000 anime fans have already been contacted.",
+          "link": "https://arstechnica.com/?p=1818725",
+          "publishedOn": "2021-12-07T23:22:13.000Z",
+          "wordCount": 1014,
+          "title": "Anime convention of 53K is first US case study for omicron spread, CDC says"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818525",
+          "author": "Samuel Axon",
+          "description": "Apple invested heavily in Chinese tech to prevent hostile regulations.",
+          "link": "https://arstechnica.com/?p=1818525",
+          "publishedOn": "2021-12-07T23:03:41.000Z",
+          "wordCount": 1070,
+          "title": "Report: Apple CEO Tim Cook engineered a secret $275 billion deal with China"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818699",
+          "author": "Tim De Chant",
+          "description": "Coalition will focus on Interstate Highway System to alleviate range anxiety.",
+          "link": "https://arstechnica.com/?p=1818699",
+          "publishedOn": "2021-12-07T22:24:59.000Z",
+          "wordCount": 733,
+          "title": "Power companies band together for coast-to-coast EV fast-charger network"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818669",
+          "author": "Jon Brodkin",
+          "description": "Verizon renamed scanning program and enrolled customers who previously opted out.",
+          "link": "https://arstechnica.com/?p=1818669",
+          "publishedOn": "2021-12-07T22:15:25.000Z",
+          "wordCount": 1182,
+          "title": "Verizon overrides users’ opt-out preferences in push to collect browsing history"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818636",
+          "author": "Tim De Chant",
+          "description": "Facebook knew it was fanning flames of violence, did nothing, lawsuit alleges.",
+          "link": "https://arstechnica.com/?p=1818636",
+          "publishedOn": "2021-12-07T20:24:55.000Z",
+          "wordCount": 1137,
+          "title": "Landmark $150B lawsuit seeks to hold Facebook accountable for Rohingya genocide"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818542",
+          "author": "Sam Machkovech",
+          "description": "Without our own pre-launch look at PC, we're left minding other outlets' alarms.",
+          "link": "https://arstechnica.com/?p=1818542",
+          "publishedOn": "2021-12-07T19:28:10.000Z",
+          "wordCount": 943,
+          "title": "Why one renowned games analyst isn’t playing Halo Infinite on PC for now"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818385",
+          "author": "Eric Berger",
+          "description": "\"We're always looking for smart, dedicated people in their current fields.\"",
+          "link": "https://arstechnica.com/?p=1818385",
+          "publishedOn": "2021-12-07T19:19:09.000Z",
+          "wordCount": 1151,
+          "title": "NASA has 10 new astronauts, and they could not have joined at a better time"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818594",
+          "author": "Beth Mole",
+          "description": "Rep. Carroll calls the legislation a starting point to hold unvaccinated responsible.",
+          "link": "https://arstechnica.com/?p=1818594",
+          "publishedOn": "2021-12-07T18:38:29.000Z",
+          "wordCount": 827,
+          "title": "Willfully unvaccinated should pay 100% of COVID hospital bills, lawmaker says"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818561",
+          "author": "Kyle Orland",
+          "description": "But such use could run afoul of state and federal laws and guidelines.",
+          "link": "https://arstechnica.com/?p=1818561",
+          "publishedOn": "2021-12-07T18:27:10.000Z",
+          "wordCount": 1261,
+          "title": "You can now play video games on a Tesla screen when the car is in motion"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818559",
+          "author": "Jon Brodkin",
+          "description": "Senate votes 68-31 to reconfirm Rosenworcel as Sohn nomination hangs in balance.",
+          "link": "https://arstechnica.com/?p=1818559",
+          "publishedOn": "2021-12-07T18:05:33.000Z",
+          "wordCount": 1045,
+          "title": "Senate gives Rosenworcel new FCC term, but Republicans aim to block Gigi Sohn"
+        },
         {
           "id": "https://arstechnica.com/?p=1818495",
           "author": "Andrew Cunningham",
@@ -3376,6 +3457,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/",
+          "author": null,
+          "description": "Authors: Kubernetes 1.23 Release Team\nWe’re pleased to announce the release of Kubernetes 1.23, the last release of 2021!\nThis release consists of 47 enhancements: 11 enhancements have graduated to stable, 17 enhancements are moving to beta, and 19 enhancements are entering alpha. Also, 1 feature has been deprecated.\nMajor Themes\nDeprecation of FlexVolume\nFlexVolume is deprecated. The out-of-tree CSI driver is the recommended way to write volume drivers in Kubernetes. See this doc for more information. Maintainers of FlexVolume drivers should implement a CSI driver and move users of FlexVolume to CSI. Users of FlexVolume should move their workloads to the CSI driver.\nDeprecation of klog specific flags\nTo simplify the code base, several logging flags were marked as deprecated in Kubernetes …",
+          "link": "https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/",
+          "publishedOn": "2021-12-07T00:00:00.000Z",
+          "wordCount": 5160,
+          "title": "Blog: Kubernetes 1.23: The Next Frontier"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/12/01/contribution-containers-and-cricket-the-kubernetes-1.22-release-interview/",
           "author": null,
           "description": "Author: Craig Box (Google)\nThe Kubernetes release train rolls on, and we look ahead to the release of 1.23 next week. As is our tradition, I'm pleased to bring you a look back at the process that brought us the previous version.\nThe release team for 1.22 was led by Savitha Raghunathan, who was, at the time, a Senior Platform Engineer at MathWorks. I spoke to Savitha on the Kubernetes Podcast from Google, the weekly* show covering the Kubernetes and Cloud Native ecosystem.\nOur release conversations shine a light on the team that puts together each Kubernetes release. Make sure you subscribe, wherever you get your podcasts so you catch the story of 1.23.\nAnd in case you're interested in why the show has been on a hiatus the last few weeks, all will be revealed in the next episode!\nThis trans…",
@@ -3495,6 +3585,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179895",
+          "author": "Matt Wales",
+          "description": "It's been a long time coming, but Halo's live-action TV adaptation will soon get a proper reveal, courtesy of its first full-length trailer airing at this week's Game Awards. Before all that though, there's the briefest of new teases to stoke a spot of anticipation and get you in the mood.\nThe live-action Halo series - which was first announced all the way back in 2013, at the height of Microsoft's infatuation with TV, TV, TV - got its first teaser trailer during November's Xbox Anniversary Celebration. It admittedly didn't show very much - Master Chief popped on his helmet, Cortana said hello - but it was just enough to get fans in the mood.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-07-halos-live-action-tv-adaptation-gets-second-tiny-teaser-trailer",
+          "publishedOn": "2021-12-07T23:39:00.000Z",
+          "wordCount": 1058,
+          "title": "Halo's live-action TV adaptation gets second, tiny teaser trailer"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179894",
+          "author": "Matt Wales",
+          "description": "Developer Frogwares has delayed the release of Sherlock Holmes: Chapter One on PlayStation 4 and Xbox One a second time, with both versions now due to arrive in \"Q1 2022\".\nFrogwares initially announced a delay for the PS4 and Xbox One editions of Sherlock Holmes' latest adventure back in September, telling fans the decision had been made \"after extensive testing and discussion between QA, team leads, and the heads of the studio\" and that the move would \"benefit players with a better quality game all around\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-07-sherlock-holmes-chapter-one-for-ps4-and-xbox-one-now-due-in-q1-2022",
+          "publishedOn": "2021-12-07T22:26:00.000Z",
+          "wordCount": 991,
+          "title": "Sherlock Holmes: Chapter One for PS4 and Xbox One now due in \"Q1 2022\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179893",
+          "author": "Matt Wales",
+          "description": "Tencent has announced the formation of Level Infinite, its new a new publishing division \"dedicated to delivering high-quality games to a global audience\", which will be assisting with the likes of Vampire: The Masquerade - Bloodhunt, GTFO, and more.\nLevel Infinite - which is based in Amsterdam and Singapore with staff located around the world - will be providing studios with a broad range of support and services, including assistance with technology, production, esports integrations, and international publishing, alongside insight and analysis for games-as-service and local/global markets.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-07-tencent-launches-new-publishing-division-level-infinite-dedicated-to-delivering-high-quality-games-to-a-global-audience",
+          "publishedOn": "2021-12-07T21:12:00.000Z",
+          "wordCount": 931,
+          "title": "Tencent launches new publishing division Level Infinite, \"dedicated to delivering high-quality games to a global audience\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2179888",
+          "author": "Matt Wales",
+          "description": "Nick Offerman - perhaps best known for his portrayal of Park and Recreation's staunchly libertarian department director Ron Swanson - has been cast as Bill in HBO's upcoming live-action TV adaptation of The Last of Us.\nThat's according to Variety, which reports Offerman will be taking over the role from Con O'Neill - who was forced to step away from the show as a result of a scheduling conflict - and will appear alongside Murray Bartlett as Frank.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-07-hbos-the-last-of-us-tv-adaptation-casts-parks-and-recreations-nick-offerman-as-bill",
+          "publishedOn": "2021-12-07T19:10:00.000Z",
+          "wordCount": 1096,
+          "title": "HBO's The Last of Us TV adaptation casts Parks and Recreation's Nick Offerman as Bill"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2179874",
           "author": "Matt Wales",
@@ -6545,60 +6671,6 @@
           "publishedOn": "2021-11-08T13:01:00.000Z",
           "wordCount": 850,
           "title": "PlayStation hackers claim major PS5 breakthrough"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175576",
-          "author": "Ed Nightingale",
-          "description": "Sign language support will soon be coming to Forza Horizon 5, alongside the developer's commitment to diversity.\nIn an Xbox Wire blog post, Mike Brown, Creative Director of Forza Horizon 5 developer Playground Games, details the accessibility options present in the game. That includes game speed modifications, a colour blindness mode, subtitle options, and text-to-speech options for voice chat among others.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-forza-horizon-5-to-add-sign-language-support",
-          "publishedOn": "2021-11-08T12:30:00.000Z",
-          "wordCount": 965,
-          "title": "Forza Horizon 5 to add sign language support"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175575",
-          "author": "Tom Phillips",
-          "description": "Pokémon Brilliant Diamond and Shining Pearl are due to launch on 19th November. Despite being revamped remakes of the original Nintendo DS games, there's still plenty about these new versions which Nintendo has kept under wraps.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-nintendo-battling-pokemon-diamond-and-pearl-switch-leaks",
-          "publishedOn": "2021-11-08T12:23:00.000Z",
-          "wordCount": 896,
-          "title": "Nintendo battling Pokémon Diamond and Pearl Switch leaks"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175549",
-          "author": "Tom Phillips",
-          "description": "otherwise quiet N7 Day celebration for Mass Effect fans, BioWare revealed one brilliant tease for the next entry in its space opera saga. \nA detailed teaser image, revealed on Twitter last night and then via EA's website in higher definition, has set fans' tongues wagging as the series' community seeks to analyse every pixel. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-mass-effect-5-teaser-image-revealed-and-analysed",
-          "publishedOn": "2021-11-08T11:37:00.000Z",
-          "wordCount": 1533,
-          "title": "Mass Effect 5 teaser image revealed and analysed"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175566",
-          "author": "Ed Nightingale",
-          "description": "The PlayStation Direct online store is now live in Germany, with other European countries to follow \"soon\".\nThe store allows Sony Interactive Entertainment to sell its products directly to consumers, including consoles, accessories and games.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-playstation-direct-store-launches-in-germany",
-          "publishedOn": "2021-11-08T11:36:00.000Z",
-          "wordCount": 849,
-          "title": "PlayStation Direct store launches in Germany"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175552",
-          "author": "Ed Nightingale",
-          "description": "In celebration of yesterday's N7 Day, one of Mass Effect 2's senior cinematic designers has offered some insight into the development of certain scenes.\nIn a Twitter thread, Ed Douglas described his thought process behind the Samara sequences in the Normandy.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-mass-effect-cinematic-designer-gives-insight-into-samara-conversations",
-          "publishedOn": "2021-11-08T11:11:00.000Z",
-          "wordCount": 1098,
-          "title": "Mass Effect cinematic designer gives insight into Samara conversations"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175545",
-          "author": "Ed Nightingale",
-          "description": "Metal Gear Solid 2 and 3 have been removed from digital stores due to licensing issues with their usage of historical footage.\nKonami has released a statement that explains the details.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-08-metal-gear-solid-games-taken-down-over-historical-footage-licenses",
-          "publishedOn": "2021-11-08T10:47:00.000Z",
-          "wordCount": 990,
-          "title": "Metal Gear Solid games pulled from sale over historical footage licenses"
         }
       ]
     }
