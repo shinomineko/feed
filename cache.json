@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/12/new-german-government-is-pro-encryption-and-anti-backdoors.html",
+          "author": null,
+          "description": "<p>I hope <a href=\"https://www.euractiv.com/section/data-protection/interview/germanys-new-government-will-firmly-defend-encryption-key-social-democrat-says/\">this</a> is true:</p>\n<blockquote><p>According to Jens Zimmermann, the German coalition negotiations had made it &#8220;quite clear&#8221; that the incoming government of the Social Democrats (SPD), the Greens and the business-friendly liberal FDP would reject &#8220;the weakening of encryption, which is being attempted under the guise of the fight against child abuse&#8221; by the coalition partners.</p>\n<p>Such regulations, which are already enshrined in the interim solution of the ePrivacy Regulation, for example, &#8220;diametrically contradict the character of the coalition agreement&#8221; because secure end-to-end encryption is guaranteed there, Zimmermann said...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/12/new-german-government-is-pro-encryption-and-anti-backdoors.html",
+          "publishedOn": "2021-12-08T19:19:55.000Z",
+          "wordCount": 979,
+          "title": "New German Government is Pro-Encryption and Anti-Backdoors"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/12/someone-is-running-lots-of-tor-relays.html",
           "author": null,
           "description": "<p>Since 2017, someone is <a href=\"https://therecord.media/a-mysterious-threat-actor-is-running-hundreds-of-malicious-tor-relays/\">running</a> about a thousand &#8212; 10% of the total &#8212; Tor servers in an attempt to deanonymize the network:</p>\n<blockquote><p>Grouping these servers under the KAX17 umbrella, Nusenu says this threat actor has constantly added servers with no contact details to the Tor network in industrial quantities, operating servers in the realm of hundreds at any given point.</p>\n<p>The actor&#8217;s servers are typically located in data centers spread all over the world and are typically configured as entry and middle points primarily, although KAX17 also operates a small number of exit points...</p></blockquote>",
@@ -365,6 +374,60 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1811168",
+          "author": "Jennifer Ouellette",
+          "description": "Sixty years after the historic detonation, a historian offers a fresh interpretation.",
+          "link": "https://arstechnica.com/?p=1811168",
+          "publishedOn": "2021-12-08T23:09:25.000Z",
+          "wordCount": 924,
+          "title": "Revisiting the “Tsar Bomba” nuclear test"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818893",
+          "author": "Samuel Axon",
+          "description": "The status quo will stay in place until an appeal has been resolved.",
+          "link": "https://arstechnica.com/?p=1818893",
+          "publishedOn": "2021-12-08T22:35:13.000Z",
+          "wordCount": 874,
+          "title": "Apple won’t have to allow iPhone apps to use third-party payments tomorrow after all"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818891",
+          "author": "Dan Goodin",
+          "description": "Tor Project leaders disconnect rogue nodes and call on volunteers to bypass censorship.",
+          "link": "https://arstechnica.com/?p=1818891",
+          "publishedOn": "2021-12-08T21:19:57.000Z",
+          "wordCount": 1235,
+          "title": "Tor is under threat from Russian censorship and Sybil attacks"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818828",
+          "author": "Sam Machkovech",
+          "description": "Solid stuff, but it comes well after Google began winding Stadia's concept down.",
+          "link": "https://arstechnica.com/?p=1818828",
+          "publishedOn": "2021-12-08T20:45:44.000Z",
+          "wordCount": 1001,
+          "title": "Stadia finally launches on LG TVs, shows off the greatness that could’ve been"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818841",
+          "author": "Corey Gaskin",
+          "description": "Normally $80, the Soundcore Life Q30 are a great value at this deal price of $60.",
+          "link": "https://arstechnica.com/?p=1818841",
+          "publishedOn": "2021-12-08T20:03:34.000Z",
+          "wordCount": 1031,
+          "title": "Our favorite set of noise-canceling headphones under $100 is on sale today"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1818857",
+          "author": "Tim De Chant",
+          "description": "Prosecution sought to rebut key points in Holmes’ defense.",
+          "link": "https://arstechnica.com/?p=1818857",
+          "publishedOn": "2021-12-08T19:39:41.000Z",
+          "wordCount": 1263,
+          "title": "Despite mountain of evidence, Elizabeth Holmes claims to remember things differently"
+        },
         {
           "id": "https://arstechnica.com/?p=1818836",
           "author": "Beth Mole",
@@ -3403,6 +3466,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/12/09/pod-security-admission-beta/",
+          "author": null,
+          "description": "Authors: Jim Angel (Google), Lachlan Evenson (Microsoft)\nWith the release of Kubernetes v1.23, Pod Security admission has now entered beta. Pod Security is a built-in admission controller that evaluates pod specifications against a predefined set of Pod Security Standards and determines whether to admit or deny the pod from running.\nPod Security is the successor to PodSecurityPolicy which was deprecated in the v1.21 release, and will be removed in Kubernetes v1.25. In this article, we cover the key concepts of Pod Security along with how to use it. We hope that cluster administrators and developers alike will use this new mechanism to enforce secure defaults for their workloads.\nWhy Pod Security\nThe overall aim of Pod Security is to let you isolate workloads. You can run a cluster that run…",
+          "link": "https://kubernetes.io/blog/2021/12/09/pod-security-admission-beta/",
+          "publishedOn": "2021-12-09T00:00:00.000Z",
+          "wordCount": 6857,
+          "title": "Blog: Pod Security Graduates to Beta"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/",
           "author": null,
           "description": "Author: Bridget Kromhout (Microsoft)\n\"When will Kubernetes have IPv6?\" This question has been asked with increasing frequency ever since alpha support for IPv6 was first added in k8s v1.9. While Kubernetes has supported IPv6-only clusters since v1.18, migration from IPv4 to IPv6 was not yet possible at that point. At long last, dual-stack IPv4/IPv6 networking has reached general availability (GA) in Kubernetes v1.23.\nWhat does dual-stack networking mean for you? Let’s take a look…\nService API updates\nServices were single-stack before 1.20, so using both IP families meant creating one Service per IP family. The user experience was simplified in 1.20, when Services were re-implemented to allow both IP families, meaning a single Service can handle both IPv4 and IPv6 workloads. Dual-stack load…",
@@ -3540,6 +3612,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180069",
+          "author": "Matt Wales",
+          "description": "Following a judge's ruling that Apple must allow developers the option of linking to external payment systems in their iOS apps as part of its lawsuit with Epic Games, an appeals court has permitted Apple to delay making the change until it's fully able to hear the case.\nBack in September - following a lengthy court battle arising from Apple's decision to remove Fortnite from its App Store after Epic wilfully broke App Store guidelines by deliberately circumventing iOS' in-app payment mechanisms - California's Judge Gonzalez Rogers ruled against all but one of Epic's legal challenges.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-08-appeals-court-says-apple-doesnt-need-to-let-ios-developers-link-to-external-payment-methods-just-yet",
+          "publishedOn": "2021-12-08T22:51:00.000Z",
+          "wordCount": 1137,
+          "title": "Appeals court says Apple doesn't need to let iOS developers link to external payment methods just yet"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180064",
+          "author": "Matt Wales",
+          "description": "Kratos is making the leap from PlayStation to PC early next year as 2018's acclaimed God of War heads to the platform - and in anticipation of its arrival, Sony has released a new trailer showing the PC version in action, alongside details of the enhancements it'll bring.\nGod of War 2018, if you're unfamiliar, reunites with Kratos some time after his reckoning with the gods of Olympus. It's all change as the game begins; not only has our protagonist gained a big bushy beard and slightly mellower demeanour in the interim (not to mention, got himself a son), he's swapped the opulence of Ancient Greece for colder climes, living a quieter life in the snow-ravaged realm of the Norse Gods.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-08-sony-details-god-of-wars-pc-system-requirements-and-platform-specific-enhancements",
+          "publishedOn": "2021-12-08T21:21:00.000Z",
+          "wordCount": 1012,
+          "title": "Sony details God of War's PC system requirements and platform-specific enhancements"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2180045",
           "author": "Matt Wales",
@@ -6644,51 +6734,6 @@
           "publishedOn": "2021-11-09T15:30:00.000Z",
           "wordCount": 900,
           "title": "Lies of P looks like Pinocchio meets Bloodborne"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175758",
-          "author": "Tom Phillips",
-          "description": "Concept designs for a couple of Batmen have popped up online, seemingly providing our best look yet at a now-cancelled Arkham Knight sequel. \nThis follow-up to Rocksteady's trilogy-ending Arkham Knight was reportedly once in the works at Batman Arkham Oranges studio Warner Bros. Games Montreal.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-09-batman-arkham-knight-canned-sequel-apparently-shown-via-concept-art",
-          "publishedOn": "2021-11-09T12:04:00.000Z",
-          "wordCount": 1009,
-          "title": "Batman Arkham Knight canned sequel apparently shown via concept art"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175749",
-          "author": "Wesley Yin-Poole",
-          "description": "Call of Duty: Vanguard players have discovered guns don't hit exactly where you aim.\nThis feature, called bloom, adds a bullet spread effect to weapons such as assault rifles and submachine guns when fired in aim down sights (ADS) mode.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-09-call-of-duty-vanguard-players-discover-guns-dont-hit-exactly-where-you-aim",
-          "publishedOn": "2021-11-09T11:25:00.000Z",
-          "wordCount": 1150,
-          "title": "Call of Duty: Vanguard players discover guns don't hit exactly where you aim"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175739",
-          "author": "Tom Phillips",
-          "description": "Prior to the Legendary Edition's release, BioWare let fans know that Pinnacle Station would sadly not be present as its original source code was lost, and a backup had corrupted. Without this, BioWare said, the DLC would take months of work to restore.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-09-mass-effect-mod-returns-lost-dlc-to-legendary-edition",
-          "publishedOn": "2021-11-09T11:06:00.000Z",
-          "wordCount": 967,
-          "title": "Mass Effect mod returns lost DLC to Legendary Edition"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175301",
-          "author": "Tom Phillips",
-          "description": "The Tomorrow Children, the bizarre and experimental free-to-play PlayStation 4 exclusive, is being revived by its original creator Q-Games. \nThe move comes after Q-Games regained ownership of the rights to The Tomorrow Children from Sony - the first time the platform holder has allowed this.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-09-playstation-4-exclusive-the-tomorrow-children-to-be-revived",
-          "publishedOn": "2021-11-09T11:00:00.000Z",
-          "wordCount": 1003,
-          "title": "PlayStation 4 exclusive The Tomorrow Children to be revived"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2175724",
-          "author": "Wesley Yin-Poole",
-          "description": "Sega has secured a trademark for a video game called Sonic Frontiers.\nGematsu reports Sega filed the Sonic Frontiers trademark in Japan on 22nd October.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-09-sega-trademarks-sonic-frontiers",
-          "publishedOn": "2021-11-09T10:26:00.000Z",
-          "wordCount": 796,
-          "title": "Sega trademarks Sonic Frontiers"
         }
       ]
     }
