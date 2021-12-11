@@ -112,15 +112,6 @@
           "publishedOn": "2021-11-15T00:00:00.000Z",
           "wordCount": 185,
           "title": "Daylight Calendar"
-        },
-        {
-          "id": "https://xkcd.com/2541/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/occam.png\" title=\"Oh no, Murphy just picked up the razor.\" alt=\"Oh no, Murphy just picked up the razor.\" />",
-          "link": "https://xkcd.com/2541/",
-          "publishedOn": "2021-11-12T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Occam"
         }
       ]
     },
@@ -3298,42 +3289,6 @@
           "publishedOn": "2021-11-12T01:23:27.000Z",
           "wordCount": 830,
           "title": "Booking.com was reportedly hacked by a US intel agency but never told customers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1812394",
-          "author": "Beth Mole",
-          "description": "Neurocysticercosis and a most disturbing way to get tapeworms in your brain.",
-          "link": "https://arstechnica.com/?p=1812394",
-          "publishedOn": "2021-11-11T22:07:42.000Z",
-          "wordCount": 821,
-          "title": "Tapeworms found in man’s brain years after he ate feces-tainted food"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1812324",
-          "author": "Jon Brodkin",
-          "description": "Judge: iPad pinch-to-zoom could \"insert more items\" into video of shootings.",
-          "link": "https://arstechnica.com/?p=1812324",
-          "publishedOn": "2021-11-11T21:02:30.000Z",
-          "wordCount": 1790,
-          "title": "You shall not pinch to zoom: Rittenhouse trial judge disallows basic iPad feature"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1812102",
-          "author": "Andrew Cunningham",
-          "description": "Mediocre typing feel overshadows reliable wireless and fantastic battery life.",
-          "link": "https://arstechnica.com/?p=1812102",
-          "publishedOn": "2021-11-11T20:00:44.000Z",
-          "wordCount": 1701,
-          "title": "Logitech Pop Keys review: Reliable wireless mechanical keyboard with a divisive style"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1812282",
-          "author": "Sam Machkovech",
-          "description": "\"We can’t get any more of our current CPU for—you’re not going to believe this—730 days.\"",
-          "link": "https://arstechnica.com/?p=1812282",
-          "publishedOn": "2021-11-11T19:09:26.000Z",
-          "wordCount": 1241,
-          "title": "Playdate delays to 2022 amid scramble to revise entire handheld console"
         }
       ]
     },
@@ -3401,15 +3356,6 @@
           "publishedOn": "2021-11-26T00:00:00.000Z",
           "wordCount": 4093,
           "title": "Blog: Quality-of-Service for Memory Resources"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/11/12/are-you-ready-for-dockershim-removal/",
-          "author": null,
-          "description": "Author: Sergey Kanzhelev, Google. With reviews from Davanum Srinivas, Elana Hashman, Noah Kantrowitz, Rey Lejano.\nLast year we announced that Dockershim is being deprecated: Dockershim Deprecation FAQ.\nOur current plan is to remove dockershim from the Kubernetes codebase soon.\nWe are looking for feedback from you whether you are ready for dockershim\nremoval and to ensure that you are ready when the time comes.\nPlease fill out this survey: https://forms.gle/svCJmhvTv78jGdSx8.\nThe dockershim component that enables Docker as a Kubernetes container runtime is\nbeing deprecated in favor of runtimes that directly use the Container Runtime Interface\ncreated for Kubernetes. Many Kubernetes users have migrated to\nother container runtimes without problems. However we see that dockershim is\nstill very…",
-          "link": "https://kubernetes.io/blog/2021/11/12/are-you-ready-for-dockershim-removal/",
-          "publishedOn": "2021-11-12T00:00:00.000Z",
-          "wordCount": 3554,
-          "title": "Blog: Dockershim removal is coming. Are you ready?"
         }
       ]
     },
@@ -3478,24 +3424,6 @@
           "publishedOn": "2021-11-24T00:00:00.000Z",
           "wordCount": 885,
           "title": "Alpine 3.15.0 released"
-        },
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.11.13-3.12.9-3.13.7-released.html",
-          "author": null,
-          "description": "Alpine 3.11.13, 3.12.9 and 3.13.7 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.11.13-3.12.9-3.13.7-released.html",
-          "publishedOn": "2021-11-12T00:00:00.000Z",
-          "wordCount": 102,
-          "title": "Alpine 3.11.13, 3.12.9 and 3.13.7 released"
-        },
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.14.3-released.html",
-          "author": null,
-          "description": "Alpine 3.14.3 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.14.3-released.html",
-          "publishedOn": "2021-11-12T00:00:00.000Z",
-          "wordCount": 918,
-          "title": "Alpine 3.14.3 released"
         }
       ]
     },
@@ -3504,6 +3432,33 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180619",
+          "author": "Vikki Blake",
+          "description": "Scorn - an \"atmospheric first-person horror adventure\" - will now release in October 2022.\nScorn was announced way back in 2016, and its Kickstarter campaign - which exceeded its €150,000 (£128,000) target by almost €50,000 (£42k) - initially intimated a launch date in October 2018. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-11-horror-scorn-will-now-release-in-october-2022",
+          "publishedOn": "2021-12-11T11:30:00.000Z",
+          "wordCount": 982,
+          "title": "Horror Scorn will now release in October 2022"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180614",
+          "author": "Vikki Blake",
+          "description": "Bungie CEO Pete Parsons has apologised after a report alleged multiple instances of sexism and workplace toxicity at the studio.\nIGN's report into alleged issues with Bungie's narrative team detailed \"overt sexism, boys' club culture, crunch, and HR protection of abusers as well as more complex stories of microaggressions, systemic inequalities, and difficulties in being heard\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-11-bungie-ceo-apologies-after-damning-report-exposes-a-culture-of-overt-sexism-at-the-studio",
+          "publishedOn": "2021-12-11T10:43:00.000Z",
+          "wordCount": 1075,
+          "title": "Bungie CEO apologises after damning report exposes a culture of \"overt sexism\" at the studio"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180611",
+          "author": "Vikki Blake",
+          "description": "Sony has acquired Seattle-based Valkyrie Entertainment.\nFounded in 2002, Valkyrie Entertainment works alongside other studios, \"empowering them to achieve the full potential of their visions\". Past projects include League of Legends, God of War, and Halo Infinite. The studio is thought to be currently contributing to the upcoming God of War sequel.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-11-sony-acquires-valkyrie-entertainment",
+          "publishedOn": "2021-12-11T10:09:00.000Z",
+          "wordCount": 889,
+          "title": "Sony acquires Valkyrie Entertainment"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2180563",
           "author": "Matt Wales",
@@ -6743,51 +6698,6 @@
           "publishedOn": "2021-11-12T09:58:00.000Z",
           "wordCount": 761,
           "title": "The Radiohead Kid A Mnesia exhibition launches on PS5, PC and Mac next week"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176285",
-          "author": "Matt Wales",
-          "description": "Those of a certain age will remember the pure delights of Microsoft's brilliant (but distressingly short-lived) 1 vs 100, a mass-participation, gameshow-style trivia quiz which launched on Xbox 360 back in 2009. It was fab and much-missed, and if a new report is to be believed, is now \"definitely\" set to make a a comeback.\nThat's according to journalist (and reliable rumour-smith) Jeff Grubb, who discussed a new in-development take on 1 vs 100 as part of his Giant Bomb show. As reported by VGC, Grubb claimed the new project will be developed by Altspace VR - part of Microsoft's Mixed Reality division - and will utilise the 3D avatars recently revealed for Microsoft Teams.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-12-xboxs-brilliant-live-quiz-game-1-vs-100-definitely-making-a-comeback-says-report",
-          "publishedOn": "2021-11-12T00:12:00.000Z",
-          "wordCount": 1016,
-          "title": "Xbox's brilliant live quiz game 1 vs 100 \"definitely\" making a comeback says report"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176273",
-          "author": "Matt Wales",
-          "description": "It's been a long time coming, but Spider-Man is finally set to make his Marvel's Avengers' debut - exclusively on PlayStation consoles, of course - at the end of this month, and developer Crystal Dynamics has offered a first proper look at the beleaguered live service game's take on the character in a new cinematic trailer.\nSpider-Man, who arrives somewhat later than his initially announced \"early\" 2021 release date, will make his Marvel's Avenger's debut alongside a new hero event, titled With Great Power, which sees Spidey joining forces with Black Widow and Ms. Marvel to try to stop a nefarious new AIM plan.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-11-marvels-avengers-welcomes-playstation-exclusive-spider-man-in-new-cinematic-trailer",
-          "publishedOn": "2021-11-11T23:33:00.000Z",
-          "wordCount": 1017,
-          "title": "Marvel's Avengers welcomes PlayStation-exclusive Spider-Man in new cinematic trailer"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176267",
-          "author": "Matt Wales",
-          "description": "Brenda and John Romero's Prohibition-era mobster strategy game Empire of Sin will receive its first paid expansion, Make It Count, next Thursday, 18th November, and it'll be joined by the free Precinct update for all players on the same day.\nMake It Count adds new boss Maxim Zelnick, known as the Mob's Fixer, to the existing 14-strong roster, alongside a range of other gameplay additions. Loan Sharks are in as a new racket type, for instance, providing a potentially lucrative new passive source of income - and potential new event-based complications if customers can't afford afford to repay loans.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-11-empire-of-sins-free-precinct-update-and-first-paid-expansion-arrive-next-week",
-          "publishedOn": "2021-11-11T22:23:00.000Z",
-          "wordCount": 1206,
-          "title": "Empire of Sin's free Precinct update and first paid expansion arrive next week"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176265",
-          "author": "Matt Wales",
-          "description": "Starting today, Twitch fans with Switches can watch their favourite livestreamers directly from Nintendo's console, courtesy of the official Twitch app which is available now on eShop.\nIf you've used Twitch on any other device, you should be right at home with the new Switch version. It's available in both docked and handheld modes and functions pretty much exactly as you'd expect it to, enabling users to sign in and access their followed channels or browse and search for content of interest.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-11-twitch-is-now-on-switch",
-          "publishedOn": "2021-11-11T20:16:00.000Z",
-          "wordCount": 840,
-          "title": "Twitch is now on Switch"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176258",
-          "author": "Matt Wales",
-          "description": "Following a bit of a release date leak last month, Ubisoft has formerly announced a 20th January 2022 launch for co-op shooter Rainbow Six Extraction on Xbox, PlayStation, and PC.\nExtraction, originally announced under the title Rainbow Six Quarantine but later changed due to the onset of events, was expected to launch this September but received a delayed over the summer in order to - as Ubisoft put it at the time - \"ensure we are bringing the best experiences to market and allow them to reach their full potential\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-11-ubisoft-confirms-january-release-date-for-rainbow-six-extraction",
-          "publishedOn": "2021-11-11T18:44:00.000Z",
-          "wordCount": 978,
-          "title": "Ubisoft confirms January release date for Rainbow Six Extraction"
         }
       ]
     }
