@@ -170,6 +170,24 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2021/12/upcoming-speaking-engagements-15.html",
+          "author": null,
+          "description": "<article>\n<div class=\"article\">\n<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at the <a href=\"https://www.rsaconference.com/\">RSA Conference 2022</a> in San Francisco on February 8, 2022.</li>\n<li>I’m speaking at <a href=\"https://its-now.science/\">IT-S Now 2022</a> in Vienna on June 2, 2022.</li>\n<li>I’m speaking at the 14th International Conference on Cyber Conflict, <a href=\"https://www.cycon.org/\">CyCon 2022,</a> in <span class=\"hero-header__banner-meta\">Tallinn, Estonia</span> on June 3, 2022.</li>\n</ul>\n<p>The list is maintained on <a href=\"https://www.schneier.com/events/\">this page</a>.</p>\n</div>\n</article>",
+          "link": "https://www.schneier.com/blog/archives/2021/12/upcoming-speaking-engagements-15.html",
+          "publishedOn": "2021-12-14T18:05:47.000Z",
+          "wordCount": 364,
+          "title": "Upcoming Speaking Engagements"
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2021/12/on-the-log4j-vulnerability.html",
+          "author": null,
+          "description": "<p>It&#8217;s <a href=\"https://www.wired.com/story/log4j-log4shell/\">serious</a>:</p>\n<blockquote><p>The range of impacts is so broad because of the nature of the vulnerability itself. Developers use logging frameworks to keep track of what happens in a given application. To exploit Log4Shell, an attacker only needs to get the system to log a strategically crafted string of code. From there they can load arbitrary code on the targeted server and install malware or launch other attacks. Notably, hackers can introduce the snippet in seemingly benign ways, like by sending the string in an email or setting it as an account username...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2021/12/on-the-log4j-vulnerability.html",
+          "publishedOn": "2021-12-14T15:55:34.000Z",
+          "wordCount": 919,
+          "title": "On the Log4j Vulnerability"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/12/nso-groups-pegasus-spyware-used-against-us-state-department-officials.html",
           "author": null,
           "description": "<p>NSO Group&#8217;s descent into Internet pariah status continues. Its Pegasus spyware <a href=\"https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/\">was used</a> against nine US State Department employees. We don&#8217;t know which NSO Group customer trained the spyware on the US. But the company does:</p>\n<blockquote><p>NSO Group said in a statement on Thursday that it did not have any indication their tools were used but canceled access for the relevant customers and would investigate based on the Reuters inquiry.</p>\n<p>&#8220;If our investigation shall show these actions indeed happened with NSO&#8217;s tools, such customer will be terminated permanently and legal actions will take place,&#8221; said an NSO spokesperson, who added that NSO will also &#8220;cooperate with any relevant government authority and present the full information we will have.&#8221;...</p></blockquote>",
@@ -374,6 +392,87 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1820516",
+          "author": "Scott K. Johnson",
+          "description": "There are some intriguing ideas, but big questions remain about all of them.",
+          "link": "https://arstechnica.com/?p=1820516",
+          "publishedOn": "2021-12-14T18:19:08.000Z",
+          "wordCount": 1185,
+          "title": "National Academies report offers roadmap for ocean carbon storage"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820579",
+          "author": "Tim De Chant",
+          "description": "Workers reportedly told to shelter after second tornado warning was issued.",
+          "link": "https://arstechnica.com/?p=1820579",
+          "publishedOn": "2021-12-14T17:57:10.000Z",
+          "wordCount": 1135,
+          "title": "OSHA probes Amazon warehouse where workers died with no tornado shelter"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820575",
+          "author": "Kyle Orland",
+          "description": "WebKit bug allows kernel-level code execution through PS4 firmware 9.00.",
+          "link": "https://arstechnica.com/?p=1820575",
+          "publishedOn": "2021-12-14T17:36:48.000Z",
+          "wordCount": 945,
+          "title": "New PS4 homebrew exploit points to similar PS5 hacks to come"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820550",
+          "author": "Jon Brodkin",
+          "description": "YouTube TV will temporarily lower price by $15 if it loses Disney-owned channels.",
+          "link": "https://arstechnica.com/?p=1820550",
+          "publishedOn": "2021-12-14T17:17:39.000Z",
+          "wordCount": 903,
+          "title": "YouTube TV warns it may lose all Disney-owned channels amid contract dispute"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820297",
+          "author": "Scharon Harding",
+          "description": "Concept Luna's parts are easily accessible for repair or reuse in another laptop.",
+          "link": "https://arstechnica.com/?p=1820297",
+          "publishedOn": "2021-12-14T16:00:50.000Z",
+          "wordCount": 1171,
+          "title": "Dell’s Concept Luna PC disassembles easily so Dell can reuse its parts"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820509",
+          "author": "Financial Times",
+          "description": "Researchers claim Chinese government groups are among the perpetrators.",
+          "link": "https://arstechnica.com/?p=1820509",
+          "publishedOn": "2021-12-14T15:32:27.000Z",
+          "wordCount": 925,
+          "title": "Hackers launch over 840,000 attacks through Log4J flaw"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820464",
+          "author": "Jonathan M. Gitlin",
+          "description": "It includes everything from a small crossover to an electric supercar.",
+          "link": "https://arstechnica.com/?p=1820464",
+          "publishedOn": "2021-12-14T15:00:37.000Z",
+          "wordCount": 894,
+          "title": "Toyota opens up about its battery EV strategy, shows off new SUVs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820431",
+          "author": "Eric Berger",
+          "description": "\"Ongoing investigation efforts continue to validate the most probable cause.\"",
+          "link": "https://arstechnica.com/?p=1820431",
+          "publishedOn": "2021-12-14T13:56:37.000Z",
+          "wordCount": 936,
+          "title": "Leaky valve issue forces Boeing to swap out Starliner’s service module"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820191",
+          "author": "Sam Machkovech",
+          "description": "TV dock, Game Gear adapter, clear case, cables, and more.",
+          "link": "https://arstechnica.com/?p=1820191",
+          "publishedOn": "2021-12-14T12:30:41.000Z",
+          "wordCount": 1403,
+          "title": "Analogue Pocket, continued: What’s worth adding to retro system’s $220 base?"
+        },
         {
           "id": "https://arstechnica.com/?p=1819712",
           "author": "Kyle Orland",
@@ -3441,6 +3540,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2181014",
+          "author": "Tom Phillips",
+          "description": "Its the latest game to join the Tesla in-car games service, which is compatible with USB controllers. The move comes after a new partnership between the Elon Musk car company and Sega. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-14-sonic-the-hedgehog-will-become-playable-via-tesla",
+          "publishedOn": "2021-12-14T15:25:00.000Z",
+          "wordCount": 822,
+          "title": "Sonic the Hedgehog will become playable via Tesla"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2181002",
+          "author": "Ed Nightingale",
+          "description": "Windjammers 2 is due out across consoles and PC next year, a sequel to the 1994 Neo Geo original.\nIt's an arcade fantasy sports game that sees two players in head-to-head power disc throwing matches.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-14-windjammers-sequel-coming-to-consoles-and-pc-next-year",
+          "publishedOn": "2021-12-14T14:56:00.000Z",
+          "wordCount": 829,
+          "title": "Windjammers sequel coming to consoles and PC next year"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180993",
+          "author": "Tom Phillips",
+          "description": "Nintendo will hold its next indie-game focused presentation tomorrow, 15th December 2021, at 5pm UK time. (That's 9am Pacific, or 12pm Eastern.)\nThis edition of Nintendo Indie World will last around 20 minutes, and showcase a number of upcoming games coming to Nintendo Switch. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-14-nintendo-indie-world-presentation-tomorrow",
+          "publishedOn": "2021-12-14T14:13:00.000Z",
+          "wordCount": 763,
+          "title": "Nintendo Indie World presentation tomorrow"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2180979",
+          "author": "Ed Nightingale",
+          "description": "A newly-discovered hacking exploit has opened up the PlayStation 4 and Pro, and may work on a PS5 too.\nA trio of console hackers have released the hack, which works on consoles with firmware update 9.00 and earlier, and allows for homebrew apps and unauthorised copies of games to be played.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-14-the-playstation-4-console-has-been-hacked-to-allow-for-homebrew-apps",
+          "publishedOn": "2021-12-14T14:07:00.000Z",
+          "wordCount": 904,
+          "title": "The PlayStation 4 has been hacked to allow for homebrew apps"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2180952",
           "author": "Ed Nightingale",
