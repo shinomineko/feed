@@ -357,6 +357,78 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1821282",
+          "author": "Dan Goodin",
+          "description": "Joker malware, which surreptitiously signs up users to pricey services, strikes again.",
+          "link": "https://arstechnica.com/?p=1821282",
+          "publishedOn": "2021-12-16T22:21:55.000Z",
+          "wordCount": 803,
+          "title": "Google Play app with 500,000 downloads sent user contacts to Russian server"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1820539",
+          "author": "Scharon Harding",
+          "description": "We don't know much about Mega Man movie, but it's definitely not the game I've wanted for decades.",
+          "link": "https://arstechnica.com/?p=1820539",
+          "publishedOn": "2021-12-16T22:00:53.000Z",
+          "wordCount": 1470,
+          "title": "I don’t want another Netflix adaptation—I want Mega Man Legends 3"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821221",
+          "author": "Jonathan M. Gitlin",
+          "description": "EVs have more mass and lots of torque, but the tires need to be efficient and quiet.",
+          "link": "https://arstechnica.com/?p=1821221",
+          "publishedOn": "2021-12-16T20:51:27.000Z",
+          "wordCount": 1190,
+          "title": "Electric vehicles ask a lot of their tires—here’s why"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821222",
+          "author": "Tim De Chant",
+          "description": "Study examined global exposure to PM2.5, a pollutant linked to many diseases.",
+          "link": "https://arstechnica.com/?p=1821222",
+          "publishedOn": "2021-12-16T20:40:31.000Z",
+          "wordCount": 1035,
+          "title": "Fossil fuel combustion kills more than 1 million people every year, study says"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821188",
+          "author": "Samuel Axon",
+          "description": "Rising virus cases and the new variant were the cited reasons.",
+          "link": "https://arstechnica.com/?p=1821188",
+          "publishedOn": "2021-12-16T20:26:48.000Z",
+          "wordCount": 855,
+          "title": "After months-long battle, Apple takes the due date off its return-to-office plans"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821223",
+          "author": "Dan Goodin",
+          "description": "Avast researchers say the malware has ties to a previously seen espionage hack.",
+          "link": "https://arstechnica.com/?p=1821223",
+          "publishedOn": "2021-12-16T20:15:00.000Z",
+          "wordCount": 1043,
+          "title": "Backdoor gives hackers complete control over federal agency network"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821195",
+          "author": "Jon Brodkin",
+          "description": "Most Comcast customers are still capped, but Northeast states get another reprieve.",
+          "link": "https://arstechnica.com/?p=1821195",
+          "publishedOn": "2021-12-16T19:17:25.000Z",
+          "wordCount": 1015,
+          "title": "Comcast delays data caps in Northeast US for at least another year"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821172",
+          "author": "Kyle Orland",
+          "description": "But are these games a brave new world or a FOMO-driven gold rush bubble?",
+          "link": "https://arstechnica.com/?p=1821172",
+          "publishedOn": "2021-12-16T19:00:04.000Z",
+          "wordCount": 1176,
+          "title": "Players invest $54M in Molyneux’s NFT game Legacy in hopes of earning even more"
+        },
+        {
           "id": "https://arstechnica.com/?p=1821010",
           "author": "Jennifer Ouellette",
           "description": "The key is a signal processing technique that is akin to ventriloquism.",
@@ -3268,6 +3340,15 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2021/12/17/security-profiles-operator/",
+          "author": null,
+          "description": "Authors: Jakub Hrozek, Juan Antonio Osorio, Paulo Gomes, Sascha Grunert\nThe Security Profiles Operator (SPO)\nis an out-of-tree Kubernetes enhancement to make the management of\nseccomp,\nSELinux and\nAppArmor profiles easier and more\nconvenient. We're happy to announce that we recently released\nv0.4.0\nof the operator, which contains a ton of new features, fixes and usability\nimprovements.\nWhat's new\nIt has been a while since the last\nv0.3.0\nrelease of the operator. We added new features, fine-tuned existing ones and\nreworked our documentation in 290 commits over the past half year.\nOne of the highlights is that we're now able to record seccomp and SELinux\nprofiles using the operators log enricher.\nThis allows us to reduce the dependencies required for profile recording to have\nauditd or\nsyslo…",
+          "link": "https://kubernetes.io/blog/2021/12/17/security-profiles-operator/",
+          "publishedOn": "2021-12-17T00:00:00.000Z",
+          "wordCount": 4068,
+          "title": "Blog: What's new in Security Profiles Operator v0.4.0"
+        },
+        {
           "id": "https://kubernetes.io/blog/2021/12/16/kubernetes-1-23-statefulset-pvc-auto-deletion/",
           "author": null,
           "description": "Author: Matthew Cary (Google)\nKubernetes v1.23 introduced a new, alpha-level policy for\nStatefulSets that controls the lifetime of\nPersistentVolumeClaims (PVCs) generated from the\nStatefulSet spec template for cases when they should be deleted automatically when the StatefulSet\nis deleted or pods in the StatefulSet are scaled down.\nWhat problem does this solve?\nA StatefulSet spec can include Pod and PVC templates. When a replica is first created, the\nKubernetes control plane creates a PVC for that replica if one does not already exist. The behavior\nbefore Kubernetes v1.23 was that the control plane never cleaned up the PVCs created for\nStatefulSets - this was left up to the cluster administrator, or to some add-on automation that\nyou’d have to find, check suitability, and deploy. The commo…",
@@ -3423,6 +3504,42 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2181447",
+          "author": "Matt Wales",
+          "description": "Minecraft, you probably don't need telling, is popular; it's sold over 238M copies since its launch in 2009 making it the best-selling game of all time, it claims over 140M monthly active users, and was enticing enough for Microsoft to spend an eye-watering $2.5 billion USD acquiring its developer Mojang back in 2014. And now here's another massive figure for the record books: it's officially the first game to surpass one trillion views on YouTube.\nTo celebrate the immense milestone, YouTube has launched a new website highlighting the creators and videos that helped Minecraft reach 1,000,000,000,000 views over the last decade - a figure that would, as YouTube points out to put it into some kind of perspective, amount to over 30,000 years if each view equated to just one second of time.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-16-minecraft-becomes-first-game-to-top-one-trillion-views-on-youtube",
+          "publishedOn": "2021-12-16T23:35:00.000Z",
+          "wordCount": 1044,
+          "title": "Minecraft becomes first game to top one trillion views on YouTube"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2181445",
+          "author": "Matt Wales",
+          "description": "If you've been eagerly awaiting news of the next instalment in the nearly three-decade-old Settlers series, your patience will soon be awarded: publisher Ubisoft has announced it'll be revealing more information on the long-delayed game in January next year.\nUbisoft first revealed it would be revisiting the Settlers' much-loved city-building and real-time strategy formula in a new series instalment back in 2018. At the time, it told fans to expect the title in autumn the following year but, as that window grew near, the publisher announced a delay, pushing the game's release into 2020.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-16-ubisofts-long-delayed-new-settlers-game-will-be-sharing-some-news-in-january",
+          "publishedOn": "2021-12-16T21:15:00.000Z",
+          "wordCount": 897,
+          "title": "Ubisoft's long-delayed new Settlers game will be sharing \"some news\" in January"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2181441",
+          "author": "Matt Wales",
+          "description": "The Queen and the Sea, the third paid expansion for developer Motion Twin's majestic rogue-like action-platformer Dead Cells, will be coming to PlayStation, Xbox, Switch, and PC on 6th January next year, and there's a first trailer to celebrate the news.\nThe Queen and the Sea, which follows previous paid expansions The Bad Seed and Fatal Falls, brings a touch of the nautical to Dead Cells' acclaimed action, introducing new enemies, bosses, weapons, and two brand-new biomes - Infested Shipwreck and the Lighthouse - that'll run parallel to the existing High Peak Castle and Throne Room late-game stages.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-16-dead-cells-the-queen-and-the-sea-expansion-gets-january-release-date-and-first-trailer",
+          "publishedOn": "2021-12-16T20:15:00.000Z",
+          "wordCount": 959,
+          "title": "Dead Cells' The Queen and the Sea expansion gets January release date and first trailer"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2181437",
+          "author": "Matt Wales",
+          "description": "Red Candle Games, the developer behind critically acclaimed horror outings Detention and Devotion, has - following a bit of an animated tease earlier this year - formally announced its latest title, an action-platformer loosely inspired by From Software's superb Sekiro: Shadows Die Twice that's currently going by the name of Nine Sols.\nDetails are extremely limited right now, but Red Candle describes Nine Sols (a working title at present) as a \"lore rich hand-drawn 2D platformer with Sekiro-inspired deflection-focused combat\". The developer has also shared a wonderfully evocative bit of promo art that - while a significant aesthetic departure from its previous games - does suggest, with its mangled limbs and pools of blood, that we're not exactly in family friendly territory here.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2021-12-16-detention-and-devotion-developer-announces-sekiro-inspired-action-platformer-nine-sols",
+          "publishedOn": "2021-12-16T19:10:00.000Z",
+          "wordCount": 1092,
+          "title": "Detention and Devotion developer announces Sekiro-inspired action-platformer Nine Sols"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2181363",
           "author": "Tom Phillips",
@@ -6599,60 +6716,6 @@
           "publishedOn": "2021-11-17T12:39:00.000Z",
           "wordCount": 1010,
           "title": "Atari legend says new game label wrongly attributes games to him"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176958",
-          "author": "Tom Phillips",
-          "description": "Nintendo has conjured up a demo for Big Brain Academy: Brain vs. Brain, which you can nab now via the Switch eShop.\nThis trial version features Party and Stretch modes, and three categories of puzzles to test out: Visualise, Identify and Compute. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-17-big-brain-academy-demo-now-on-nintendo-switch",
-          "publishedOn": "2021-11-17T11:59:00.000Z",
-          "wordCount": 736,
-          "title": "Big Brain Academy demo now on Nintendo Switch"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176950",
-          "author": "Ed Nightingale",
-          "description": "Sonic and Tails will speed their way into Monster Hunter Rise for free on 26th November.\nA new trailer sees them in action and... it's bizarre.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-17-sonic-and-tails-speed-into-monster-hunter-rise",
-          "publishedOn": "2021-11-17T11:37:00.000Z",
-          "wordCount": 726,
-          "title": "Sonic and Tails speed into Monster Hunter Rise"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176948",
-          "author": "Tom Phillips",
-          "description": "Amazon will stop accepting payment via Visa credit cards from 19th January in the UK, the online retail giant has announced. \nVisa debit cards will continue to be accepted, as well as Mastercard, Amex and Eurocard credit cards. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-17-amazon-uk-stops-accepting-visa-credit-cards-in-january",
-          "publishedOn": "2021-11-17T11:22:00.000Z",
-          "wordCount": 853,
-          "title": "Amazon UK stops accepting Visa credit cards in January"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176940",
-          "author": "Tom Phillips",
-          "description": "Activision Blizzard staff have staged a new walkout in response to last night's damning Wall St Journal report which detailed numerous alleged instances of sexual assault and harassment at the company - and suggested its boss Bobby Kotick had failed to fully act upon them.\nAround 150 employees gathered outside the Blizzard campus in Irvine, California, after a call from the ABetterABK group which asked workers to down tools. A smaller protest was held at Blizzard's QA office in Minnesota, while others joined in remotely, ceasing work elsewhere.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-17-150-activision-blizzard-staff-stage-walkout-following-bombshell-report",
-          "publishedOn": "2021-11-17T10:57:00.000Z",
-          "wordCount": 983,
-          "title": "150 Activision Blizzard staff stage walkout following bombshell report"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176937",
-          "author": "Ed Nightingale",
-          "description": "Streamlabs yesterday announced the release of Streamlabs Studio, a new product that brings web-based Twitch streaming to Xbox and uses cloud capture to remove the need for capture cards.\n\nNow, it has been accused of plagiarism from rival companies. Top streamers, including Pokimane, have also chimed in and threatened to move to other services.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-17-streamlabs-under-fire-from-rival-software-owners-and-streamers-following-release-of-new-product",
-          "publishedOn": "2021-11-17T10:54:00.000Z",
-          "wordCount": 1513,
-          "title": "Streamlabs under fire from rival software owners and streamers following release of new product"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2176917",
-          "author": "Wesley Yin-Poole",
-          "description": "Saints Row has been delayed six months to August 2022.\nIt was due out 25th February 2022. Now it launches on 23rd August 2022.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-17-saints-row-delayed-six-months-to-august-2022",
-          "publishedOn": "2021-11-17T09:14:00.000Z",
-          "wordCount": 975,
-          "title": "Saints Row delayed six months to August 2022"
         }
       ]
     }
