@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-20T18:28:22.041Z</updated>
+    <updated>2021-12-21T00:30:15.939Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Using Admission Controllers to Detect Container Drift at Runtime]]></title>
+        <id>https://kubernetes.io/blog/2021/12/21/admission-controllers-for-container-drift/</id>
+        <link href="https://kubernetes.io/blog/2021/12/21/admission-controllers-for-container-drift/"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Saifuding Diliyaer (Box)
+
+
+     
+            
+Illustration by Munire Aireti
+At Box, we use Kubernetes (K8s) to manage hundreds of micro-services that enable Box to stream data at a petabyte scale. When it comes to the deployment process, we run kube-applier as part of the GitOps workflows with declarative configuration and automated deployment. Developers declare their K8s apps manifest into a Git repository that requires code reviews and automatic checks to pass, before any changes can get merged and applied inside our K8s clusters. With kubectl exec and other similar commands, however, developers are able to directly interact with running containers and alter them from their deployed state. This interaction could then subvert the change control and code review processes that are …]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waze adds EV chargers to its app, joining Google and Apple Maps]]></title>
+        <id>https://arstechnica.com/?p=1821985</id>
+        <link href="https://arstechnica.com/?p=1821985"/>
+        <updated>2021-12-20T21:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Google subsidiary adds feature that Maps users have had for years.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Details released on the Trump administration’s pandemic chaos]]></title>
+        <id>https://arstechnica.com/?p=1821931</id>
+        <link href="https://arstechnica.com/?p=1821931"/>
+        <updated>2021-12-20T20:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Report provides details of how Trump's appointees got in the way.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New study challenges popular explanation for London’s infamous “Wobbly Bridge”]]></title>
         <id>https://arstechnica.com/?p=1821778</id>
@@ -135,6 +171,16 @@ The enhanced version released in June and was a free upgrade for paid owners of 
 Read more]]></summary>
         <author>
             <name>Ishraq Subhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immunity]]></title>
+        <id>https://xkcd.com/2557/</id>
+        <link href="https://xkcd.com/2557/"/>
+        <updated>2021-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/immunity.png" title="This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don't know anything about it." alt="This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don't know anything about it." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -7660,40 +7706,6 @@ Read more]]></summary>
         <updated>2021-11-21T12:49:00.000Z</updated>
         <summary type="html"><![CDATA[Amazon's MMO, New World, has seen its aggregate user reviews on Steam fall from "mostly positive" to "mixed" in the last 30 days.
 As spotted by TheGamer, feedback seems mostly to criticise the game's "grind" and its litany of bugs and issues.
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Trek: Discovery is tearing the streaming world apart]]></title>
-        <id>https://arstechnica.com/?p=1814473</id>
-        <link href="https://arstechnica.com/?p=1814473"/>
-        <updated>2021-11-21T12:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Season 4 boldly goes where no multibillion-dollar franchise has gone before, angers fans.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mass Effect Legendary Edition briefly popped up with an Xbox Game Pass badge in Poland]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2177491</id>
-        <link href="https://www.eurogamer.net/articles/2021-11-21-mass-effect-legendary-edition-briefly-popped-up-with-an-xbox-game-pass-badge-in-poland"/>
-        <updated>2021-11-21T11:54:00.000Z</updated>
-        <summary type="html"><![CDATA[It looks like Mass Effect Legendary Edition may be coming to Xbox Game Pass.
-Polish gaming site, XGP, reports that the fan-favourite trilogy briefly had a Game Pass badge on the Polish Microsoft store listing a couple of days back. 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battlefield 2042 is now one of Steam's worst-reviewed games of all time]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2177488</id>
-        <link href="https://www.eurogamer.net/articles/2021-11-21-battlefield-2042-is-now-one-of-steams-worst-reviewed-games-of-all-time"/>
-        <updated>2021-11-21T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Battlefield 2042 is currently one of the most negatively-reviewed games of all time on Steam.
-Of the 31,000 reviews currently on Valve's storefront, the majority are "mostly negative". Less than 10,000 give EA's shooter a "positive" report.
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>

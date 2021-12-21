@@ -6,6 +6,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2557/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/immunity.png\" title=\"This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don't know anything about it.\" alt=\"This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don't know anything about it.\" />",
+          "link": "https://xkcd.com/2557/",
+          "publishedOn": "2021-12-20T00:00:00.000Z",
+          "wordCount": 201,
+          "title": "Immunity"
+        },
+        {
           "id": "https://xkcd.com/2556/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/turing_complete.png\" title=\"Thanks to the ForcedEntry exploit, your company's entire tech stack can now be hosted out of a PDF you texted to someone.\" alt=\"Thanks to the ForcedEntry exploit, your company's entire tech stack can now be hosted out of a PDF you texted to someone.\" />",
@@ -347,6 +356,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1821985",
+          "author": "Tim De Chant",
+          "description": "Google subsidiary adds feature that Maps users have had for years.",
+          "link": "https://arstechnica.com/?p=1821985",
+          "publishedOn": "2021-12-20T21:58:40.000Z",
+          "wordCount": 560,
+          "title": "Waze adds EV chargers to its app, joining Google and Apple Maps"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1821931",
+          "author": "John Timmer",
+          "description": "Report provides details of how Trump's appointees got in the way.",
+          "link": "https://arstechnica.com/?p=1821931",
+          "publishedOn": "2021-12-20T20:04:03.000Z",
+          "wordCount": 1101,
+          "title": "Details released on the Trump administration’s pandemic chaos"
+        },
         {
           "id": "https://arstechnica.com/?p=1821778",
           "author": "Jennifer Ouellette",
@@ -3100,15 +3127,6 @@
           "publishedOn": "2021-11-21T15:00:52.000Z",
           "wordCount": 1272,
           "title": "Herpesviruses steal one cell’s protein, use it to infect another"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1814473",
-          "author": "WIRED",
-          "description": "Season 4 boldly goes where no multibillion-dollar franchise has gone before, angers fans.",
-          "link": "https://arstechnica.com/?p=1814473",
-          "publishedOn": "2021-11-21T12:15:27.000Z",
-          "wordCount": 1073,
-          "title": "Star Trek: Discovery is tearing the streaming world apart"
         }
       ]
     },
@@ -3123,6 +3141,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/12/21/admission-controllers-for-container-drift/",
+          "author": null,
+          "description": "Author: Saifuding Diliyaer (Box)\n\n\n     \n            \nIllustration by Munire Aireti\nAt Box, we use Kubernetes (K8s) to manage hundreds of micro-services that enable Box to stream data at a petabyte scale. When it comes to the deployment process, we run kube-applier as part of the GitOps workflows with declarative configuration and automated deployment. Developers declare their K8s apps manifest into a Git repository that requires code reviews and automatic checks to pass, before any changes can get merged and applied inside our K8s clusters. With kubectl exec and other similar commands, however, developers are able to directly interact with running containers and alter them from their deployed state. This interaction could then subvert the change control and code review processes that are …",
+          "link": "https://kubernetes.io/blog/2021/12/21/admission-controllers-for-container-drift/",
+          "publishedOn": "2021-12-21T00:00:00.000Z",
+          "wordCount": 4702,
+          "title": "Blog: Using Admission Controllers to Detect Container Drift at Runtime"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/12/17/security-profiles-operator/",
           "author": null,
@@ -6266,24 +6293,6 @@
           "publishedOn": "2021-11-21T12:49:00.000Z",
           "wordCount": 1008,
           "title": "Players slam New World's recent changes via Steam reviews"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177491",
-          "author": "Vikki Blake",
-          "description": "It looks like Mass Effect Legendary Edition may be coming to Xbox Game Pass.\nPolish gaming site, XGP, reports that the fan-favourite trilogy briefly had a Game Pass badge on the Polish Microsoft store listing a couple of days back. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-21-mass-effect-legendary-edition-briefly-popped-up-with-an-xbox-game-pass-badge-in-poland",
-          "publishedOn": "2021-11-21T11:54:00.000Z",
-          "wordCount": 881,
-          "title": "Mass Effect Legendary Edition briefly popped up with an Xbox Game Pass badge in Poland"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177488",
-          "author": "Vikki Blake",
-          "description": "Battlefield 2042 is currently one of the most negatively-reviewed games of all time on Steam.\nOf the 31,000 reviews currently on Valve's storefront, the majority are \"mostly negative\". Less than 10,000 give EA's shooter a \"positive\" report.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-21-battlefield-2042-is-now-one-of-steams-worst-reviewed-games-of-all-time",
-          "publishedOn": "2021-11-21T11:03:00.000Z",
-          "wordCount": 1020,
-          "title": "Battlefield 2042 is now one of Steam's worst-reviewed games of all time"
         }
       ]
     }
