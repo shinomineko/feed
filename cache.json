@@ -330,15 +330,6 @@
           "publishedOn": "2021-11-24T15:29:13.000Z",
           "wordCount": 1041,
           "title": "Apple Sues NSO Group"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/11/crypto-means-cryptography-not-cryptocurrency.html",
-          "author": null,
-          "description": "<p>I have long been annoyed that the word &#8220;crypto&#8221; has been co-opted by the blockchain people, and no longer refers to &#8220;cryptography.&#8221; I&#8217;m not the <a href=\"https://www.theguardian.com/technology/2021/nov/18/crypto-cryptocurrency-cryptographers?mid=1\">only one</a>.</p>",
-          "link": "https://www.schneier.com/blog/archives/2021/11/crypto-means-cryptography-not-cryptocurrency.html",
-          "publishedOn": "2021-11-22T14:40:01.000Z",
-          "wordCount": 2075,
-          "title": "“Crypto” Means “Cryptography,” not “Cryptocurrency”"
         }
       ]
     },
@@ -3118,42 +3109,6 @@
           "publishedOn": "2021-11-22T18:29:04.000Z",
           "wordCount": 738,
           "title": "Google Messages update translates iMessage responses for Android users"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1814865",
-          "author": "Tim De Chant",
-          "description": "Without money and status, Holmes’ dream may have never gotten off the ground.",
-          "link": "https://arstechnica.com/?p=1814865",
-          "publishedOn": "2021-11-22T18:03:20.000Z",
-          "wordCount": 1108,
-          "title": "Holmes’ parents seeded Theranos, connected her with powerful investors"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1814821",
-          "author": "Ron Amadeo",
-          "description": "Google's mid-range phone for 2022 is a smaller version of the Pixel 6.",
-          "link": "https://arstechnica.com/?p=1814821",
-          "publishedOn": "2021-11-22T16:59:38.000Z",
-          "wordCount": 1069,
-          "title": "Pixel 6a renders show Google carrying the Pixel 6 design forward"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1814589",
-          "author": "Eric Berger",
-          "description": "\"I think that this flight really does prove out the approach we've taken.\"",
-          "link": "https://arstechnica.com/?p=1814589",
-          "publishedOn": "2021-11-22T16:41:10.000Z",
-          "wordCount": 1101,
-          "title": "Astra becomes the fastest rocket company to reach orbit"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1797498",
-          "author": "Ars Contributors",
-          "description": "40 years ago, abysmal products and a shifting market altered everything for Big Auto.",
-          "link": "https://arstechnica.com/?p=1797498",
-          "publishedOn": "2021-11-22T12:30:34.000Z",
-          "wordCount": 1093,
-          "title": "Was 1980 the worst automotive year ever?"
         }
       ]
     },
@@ -3168,6 +3123,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2021/12/22/kubernetes-in-kubernetes-and-pxe-bootable-server-farm/",
+          "author": null,
+          "description": "Author: Andrei Kvapil (WEDOS)\nWhen you own two data centers, thousands of physical servers, virtual machines and hosting for hundreds of thousands sites, Kubernetes can actually simplify the management of all these things. As practice has shown, by using Kubernetes, you can declaratively describe and manage not only applications, but also the infrastructure itself. I work for the largest Czech hosting provider WEDOS Internet a.s and today I'll show you two of my projects — Kubernetes-in-Kubernetes and Kubefarm.\nWith their help you can deploy a fully working Kubernetes cluster inside another Kubernetes using Helm in just a couple of commands. How and why?\nLet me introduce you to how our infrastructure works. All our physical servers can be divided into two groups: control-plane and compute …",
+          "link": "https://kubernetes.io/blog/2021/12/22/kubernetes-in-kubernetes-and-pxe-bootable-server-farm/",
+          "publishedOn": "2021-12-22T00:00:00.000Z",
+          "wordCount": 6266,
+          "title": "Blog: Kubernetes-in-Kubernetes and the WEDOS PXE bootable server farm"
+        },
         {
           "id": "https://kubernetes.io/blog/2021/12/21/admission-controllers-for-container-drift/",
           "author": null,
@@ -6221,51 +6185,6 @@
           "publishedOn": "2021-11-23T10:44:00.000Z",
           "wordCount": 931,
           "title": "Nintendo joins PlayStation, Xbox in Activision condemnation"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177681",
-          "author": "Matt Wales",
-          "description": "Fresh off its Wyoming adventure, developer SCS Software has announced that American Truck Simulator is already plotting a course for a brand-new destination, and will be plugging a gap at the top of the map to deliver Montana as its tenth state expansion. \n\"Montana is untamed, wild, and natural,\" writes SCS. \"No matter where you look, you'll find unspoiled nature, charming small towns, and spectacular views. Explore National Parks, then hit the road to discover more natural wonders...drive through rugged mountain roads, pass by crystal clear lakes, or spend your day exploring the historic town and cities.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-22-american-truck-simulator-is-plotting-a-course-for-montana-next",
-          "publishedOn": "2021-11-22T18:22:00.000Z",
-          "wordCount": 1012,
-          "title": "American Truck Simulator is plotting a course for Montana next"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177646",
-          "author": "Tom Phillips",
-          "description": "The delayed release of the Analogue Pocket will now begin from 13th December, due to \"unprecedented shipping congestion\". \nOrders will be shipped from the 13th through until the end of the month, with deliveries expected to reach customers at some point between 14th and 30th December.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-22-analogue-pocket-shipping-begins-right-before-christmas",
-          "publishedOn": "2021-11-22T14:45:00.000Z",
-          "wordCount": 868,
-          "title": "Analogue Pocket shipping begins right before Christmas"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177644",
-          "author": "Ed Nightingale",
-          "description": "New content is coming to Hitman 3 next year, and a roadmap for 2022 has been laid out.\nWith 50 million players, the game is the most successful of all time within the Hitman series.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-22-hitman-3-is-the-most-successful-game-in-the-series",
-          "publishedOn": "2021-11-22T14:44:00.000Z",
-          "wordCount": 777,
-          "title": "Hitman 3 is the most successful game in the series"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177635",
-          "author": "Tom Phillips",
-          "description": "The long-awaited PlayStation-exclusive arrival of Spider-Man in Marvel's Avengers will not include any new story missions. \nPeter Parker's addition will instead feature \"audio logs and illustrated cutscenes unlocked by completing in-game challenges in regular Avengers Initiative multiplayer missions\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-22-marvels-avengers-playstation-exclusive-spider-man-dlc-has-no-story-missions",
-          "publishedOn": "2021-11-22T14:21:00.000Z",
-          "wordCount": 903,
-          "title": "Marvel's Avengers PlayStation-exclusive Spider-Man DLC has no story missions"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2177626",
-          "author": "Tom Phillips",
-          "description": "The division is led by former PlayStation business exec Riley Russell, who will work to turn Kojima Productions properties into pop culture franchises beyond the world of video games.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-22-kojima-productions-launches-new-la-based-film-and-tv-division",
-          "publishedOn": "2021-11-22T13:47:00.000Z",
-          "wordCount": 850,
-          "title": "Kojima Productions launches new LA-based film and TV division"
         }
       ]
     }
