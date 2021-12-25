@@ -112,15 +112,6 @@
           "publishedOn": "2021-11-29T00:00:00.000Z",
           "wordCount": 185,
           "title": "Awful People"
-        },
-        {
-          "id": "https://xkcd.com/2547/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/siren.png\" title=\"Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry\" alt=\"Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry\" />",
-          "link": "https://xkcd.com/2547/",
-          "publishedOn": "2021-11-26T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Siren"
         }
       ]
     },
@@ -2956,15 +2947,6 @@
           "publishedOn": "2021-11-26T05:38:12.000Z",
           "wordCount": 1845,
           "title": "All the best Black Friday 2021 deals we can find"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1815725",
-          "author": "Jeff Dunn",
-          "description": "Including deals on recommended noise cancelers from Sony, Apple, Bose, and more.",
-          "link": "https://arstechnica.com/?p=1815725",
-          "publishedOn": "2021-11-25T23:33:29.000Z",
-          "wordCount": 1416,
-          "title": "The 9 best deals on noise-canceling headphones we’re seeing for Black Friday"
         }
       ]
     },
@@ -3068,15 +3050,6 @@
           "publishedOn": "2021-12-01T00:00:00.000Z",
           "wordCount": 10135,
           "title": "Blog: Contribution, containers and cricket: the Kubernetes 1.22 release interview"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/11/26/qos-memory-resources/",
-          "author": null,
-          "description": "Authors: Tim Xu (Tencent Cloud)\nKubernetes v1.22, released in August 2021, introduced a new alpha feature that improves how Linux nodes implement memory resource requests and limits.\nIn prior releases, Kubernetes did not support memory quality guarantees.\nFor example, if you set container resources as follows:\napiVersion: v1\nkind: Pod\nmetadata:\n  name: example\nspec:\n  containers:\n  - name: nginx\n    resources:\n      requests:\n        memory: \"64Mi\"\n        cpu: \"250m\"\n      limits:\n        memory: \"64Mi\"\n        cpu: \"500m\"\n\nspec.containers[].resources.requests(e.g. cpu, memory) is designed for scheduling. When you create a Pod, the Kubernetes scheduler selects a node for the Pod to run on. Each node has a maximum capacity for each of the resource types: the amount of CPU and memory it can…",
-          "link": "https://kubernetes.io/blog/2021/11/26/qos-memory-resources/",
-          "publishedOn": "2021-11-26T00:00:00.000Z",
-          "wordCount": 4093,
-          "title": "Blog: Quality-of-Service for Memory Resources"
         }
       ]
     },
@@ -5743,15 +5716,6 @@
           "publishedOn": "2021-11-26T10:18:00.000Z",
           "wordCount": 1022,
           "title": "Warhammer 40,000 Chaos Gate - Daemonhunters teases Mortarion, the Daemon Primarch of the Death Guard"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2178209",
-          "author": "Matt Wales",
-          "description": "Epic has announced the next batch of free games coming to its store, with next week's offerings looking an awful lot like Dead by Daylight and While True: learn().\nDead by Daylight, should you be unfamiliar, is developer Behaviour Interactive's extremely popular 4v1 asymmetrical horror game, which pits a team of four survivors against one bloodthirsty killer as they attempt to evade and escape.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-11-25-dead-by-daylight-is-free-on-the-epic-games-store-next-week",
-          "publishedOn": "2021-11-25T20:02:00.000Z",
-          "wordCount": 938,
-          "title": "Dead by Daylight is free on the Epic Games Store next week"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-25T06:27:10.848Z</updated>
+    <updated>2021-12-25T12:28:07.278Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
@@ -6969,67 +6969,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[We've cut through the Black Friday noise to find the deals worth your time.]]></summary>
         <author>
             <name>Jeff Dunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siren]]></title>
-        <id>https://xkcd.com/2547/</id>
-        <link href="https://xkcd.com/2547/"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/siren.png" title="Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry" alt="Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Quality-of-Service for Memory Resources]]></title>
-        <id>https://kubernetes.io/blog/2021/11/26/qos-memory-resources/</id>
-        <link href="https://kubernetes.io/blog/2021/11/26/qos-memory-resources/"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Tim Xu (Tencent Cloud)
-Kubernetes v1.22, released in August 2021, introduced a new alpha feature that improves how Linux nodes implement memory resource requests and limits.
-In prior releases, Kubernetes did not support memory quality guarantees.
-For example, if you set container resources as follows:
-apiVersion: v1
-kind: Pod
-metadata:
-  name: example
-spec:
-  containers:
-  - name: nginx
-    resources:
-      requests:
-        memory: "64Mi"
-        cpu: "250m"
-      limits:
-        memory: "64Mi"
-        cpu: "500m"
-
-spec.containers[].resources.requests(e.g. cpu, memory) is designed for scheduling. When you create a Pod, the Kubernetes scheduler selects a node for the Pod to run on. Each node has a maximum capacity for each of the resource types: the amount of CPU and memory it can…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 9 best deals on noise-canceling headphones we’re seeing for Black Friday]]></title>
-        <id>https://arstechnica.com/?p=1815725</id>
-        <link href="https://arstechnica.com/?p=1815725"/>
-        <updated>2021-11-25T23:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Including deals on recommended noise cancelers from Sony, Apple, Bose, and more.]]></summary>
-        <author>
-            <name>Jeff Dunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead by Daylight is free on the Epic Games Store next week]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2178209</id>
-        <link href="https://www.eurogamer.net/articles/2021-11-25-dead-by-daylight-is-free-on-the-epic-games-store-next-week"/>
-        <updated>2021-11-25T20:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Epic has announced the next batch of free games coming to its store, with next week's offerings looking an awful lot like Dead by Daylight and While True: learn().
-Dead by Daylight, should you be unfamiliar, is developer Behaviour Interactive's extremely popular 4v1 asymmetrical horror game, which pits a team of four survivors against one bloodthirsty killer as they attempt to evade and escape.
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
