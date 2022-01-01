@@ -330,15 +330,6 @@
           "publishedOn": "2021-12-03T12:13:20.000Z",
           "wordCount": 472,
           "title": "Testing Faraday Cages"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html",
-          "author": null,
-          "description": "<p>A hacker stole $31 million from the blockchain company MonoX Finance , by <a href=\"https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/\">exploiting a bug</a> in software the service uses to draft smart contracts.</p>\n<blockquote><p>Specifically, the hack used the same token as both the tokenIn and tokenOut, which are methods for exchanging the value of one token for another. MonoX updates prices after each swap by calculating new prices for both tokens. When the swap is completed, the price of tokenIn­that is, the token sent by the user­decreases and the price of tokenOut­or the token received by the user­increases.</p>\n<p>By using the same token for both tokenIn and tokenOut, the hacker greatly inflated the price of the MONO token because the updating of the tokenOut overwrote the price update of the tokenIn. The hacker then exchanged the token for $31 million worth of tokens on the Ethereum and Polygon blockchains...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html",
-          "publishedOn": "2021-12-02T14:32:36.000Z",
-          "wordCount": 1633,
-          "title": "Smart Contract Bug Results in $31 Million Loss"
         }
       ]
     },
@@ -2749,51 +2740,6 @@
           "publishedOn": "2021-12-02T18:36:44.000Z",
           "wordCount": 1262,
           "title": "Ted Cruz asks how “regular watchers of Fox News” can trust Biden FCC nominee"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1817456",
-          "author": "Tim De Chant",
-          "description": "Governor's own health department director had \"great confidence\" in the data.",
-          "link": "https://arstechnica.com/?p=1817456",
-          "publishedOn": "2021-12-02T18:13:20.000Z",
-          "wordCount": 982,
-          "title": "Show Me State governor hid data showing that masks work"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1817403",
-          "author": "Andrew Cunningham",
-          "description": "Changes may be destined for Windows 11's first major feature update next fall.",
-          "link": "https://arstechnica.com/?p=1817403",
-          "publishedOn": "2021-12-02T18:01:16.000Z",
-          "wordCount": 771,
-          "title": "Preview builds begin to fix Windows 11’s Start menu and taskbar"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1817462",
-          "author": "Beth Mole",
-          "description": "The NYC event reportedly struggled with crowding and had weak vaccination rules.",
-          "link": "https://arstechnica.com/?p=1817462",
-          "publishedOn": "2021-12-02T17:50:32.000Z",
-          "wordCount": 836,
-          "title": "2nd US omicron case just traveled to NYC anime convention with 53K attendees"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1817421",
-          "author": "Beth Mole",
-          "description": "The plan includes insurance coverage for at-home tests and tighter travel protocols.",
-          "link": "https://arstechnica.com/?p=1817421",
-          "publishedOn": "2021-12-02T17:06:43.000Z",
-          "wordCount": 921,
-          "title": "Moderna plans omicron booster for March as Biden unveils winter COVID plan"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1817404",
-          "author": "Jonathan M. Gitlin",
-          "description": "ATV borrows the angular design of the Cybertruck.",
-          "link": "https://arstechnica.com/?p=1817404",
-          "publishedOn": "2021-12-02T16:14:24.000Z",
-          "wordCount": 622,
-          "title": "Tesla announces $1,900 electric quad bike for kids"
         }
       ]
     },
@@ -4906,78 +4852,6 @@
           "publishedOn": "2021-12-02T20:24:00.000Z",
           "wordCount": 1001,
           "title": "Stanley Parable's Ultra Deluxe Edition has been delayed again (again)"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179257",
-          "author": "Matt Wales",
-          "description": "EA has announced plans to build a \"connected Battlefield experience\", spanning multiple titles and studios, alongside news of a senior management shake-up that will see DICE general manager Oskar Gabrielson depart the studio and Respawn's Vince Zampella taking on the role of Battlefield franchise boss while retaining his existing managerial duties.\nZampella revealed EA's plans to create a multiple-game \"connected Battlefield universe\" in an interview with GameSpot, explaining it would feature an interconnected world with shared characters and stories, and \"the player at the center\". The aim of the move, Zampella claimed, is to \"grow Battlefield and meet players where they play through various experiences and business models\", including the upcoming Battlefield Mobile.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-ea-reveals-plans-to-build-connected-battlefield-universe-across-multiple-games-and-studios",
-          "publishedOn": "2021-12-02T18:00:00.000Z",
-          "wordCount": 1254,
-          "title": "EA reveals plans to build \"connected Battlefield universe\" across multiple games and studios"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179242",
-          "author": "Tom Phillips",
-          "description": "A fresh gameplay trailer for Moss: Book 2 is also now available, showing mouse hero Quill in the game's opening sections - which pick up right from the end of the original game. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-moss-book-2-scuttles-unto-playstation-vr-next-spring",
-          "publishedOn": "2021-12-02T17:41:00.000Z",
-          "wordCount": 757,
-          "title": "Moss: Book 2 scuttles unto PlayStation VR next spring"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179239",
-          "author": "Ishraq Subhan",
-          "description": "DICE released its third big update for Battlefield 2042 today, with a large slate of bug fixes and gameplay improvements. \nUnfortunately, it appears the update came with an unwelcome surprise for some PC players: the inability to aim.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-some-pc-users-are-finding-themselves-unable-to-aim-in-battlefield-2042",
-          "publishedOn": "2021-12-02T16:34:00.000Z",
-          "wordCount": 918,
-          "title": "Some PC users are finding themselves unable to aim in Battlefield 2042"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179235",
-          "author": "Ed Nightingale",
-          "description": "SnowRunner season six will take players to the chilly forests of Maine in its latest Year 2 Pass content.\nThe off-road simulation game has seen a steady release of new content, with this new season - named Haul & Hustle - adding two new maps tasking players with tackling both snowy and muddy terrain with the aid of two brand new vehicles.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-snowrunner-expands-its-year-2-pass-with-new-season-of-content",
-          "publishedOn": "2021-12-02T16:08:00.000Z",
-          "wordCount": 772,
-          "title": "SnowRunner expands its Year 2 Pass with new season of content"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179231",
-          "author": "Ed Nightingale",
-          "description": "Adventure puzzle game Omno is coming to Switch this month.\nThe game is from solo developer Jonas Manke (AKA Studio Inkyfox) and was originally released on PS4, Xbox One and PC in July this year.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-omno-is-coming-to-nintendo-switch",
-          "publishedOn": "2021-12-02T15:59:00.000Z",
-          "wordCount": 759,
-          "title": "Omno is coming to Nintendo Switch this month"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179219",
-          "author": "Ed Nightingale",
-          "description": "Almost ten years after its original release, remaster Kingdoms of Amalur: Re-Reckoning will finally receive its new expansion Fatesworn on 14th December for PC, PS4 and Xbox One.\nFatesworn continues the journey of the player's Fateless One character after the Crystal War, now tasked with defeating the God of Chaos.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-kingdoms-of-amalur-re-reckoning-receives-new-expansion",
-          "publishedOn": "2021-12-02T15:29:00.000Z",
-          "wordCount": 831,
-          "title": "Kingdoms of Amalur: Re-Reckoning's new expansion arrives this month"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179209",
-          "author": "Ishraq Subhan",
-          "description": "To say Battlefield 2042 had a rough launch would be an understatement. \nDICE has been scrambling to patch the game after it arrived riddled with bugs. But just as it has started to quell the community's frustration with the game, the EA developer has kicked off a set of new frustrations.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-battlefield-2042-is-getting-a-santa-claus-skin-and-players-hate-it",
-          "publishedOn": "2021-12-02T15:00:00.000Z",
-          "wordCount": 1047,
-          "title": "Battlefield 2042 is getting a Santa Claus skin and players hate it"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179157",
-          "author": "Ishraq Subhan",
-          "description": "The Ascent, the surprise indie hit, got its first paid DLC pack today - but if you were hoping for a story expansion, I have some bad news. \nThe CyberSec Pack is a collection of two new weapons: the NEWT MGL grenade launcher and the RECOIL burst rifle, a new tactical: THE GR00P CLUSTER GRENADE, four new pieces of armour and four new animated weapon skins, available for £3.99. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-02-the-ascents-first-paid-dlc-is-out-now",
-          "publishedOn": "2021-12-02T14:00:00.000Z",
-          "wordCount": 836,
-          "title": "The Ascent's first paid DLC is out now"
         }
       ]
     }
