@@ -161,6 +161,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/01/more-russian-cyber-operations-against-ukraine.html",
+          "author": null,
+          "description": "<p>Both Russia and Ukraine are <a href=\"https://www.nytimes.com/2021/12/20/us/politics/russia-ukraine-cyberattacks.html\">preparing</a> for military operations in cyberspace.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/01/more-russian-cyber-operations-against-ukraine.html",
+          "publishedOn": "2022-01-05T12:12:13.000Z",
+          "wordCount": 336,
+          "title": "More Russian Cyber Operations against Ukraine"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2021/12/friday-squid-blogging-deep-dwelling-squid.html",
           "author": null,
           "description": "<p>We have discovered a squid &#8212; (Oegopsida, Magnapinnidae, <i>Magnapinna</i> sp.) &#8212; that <a href=\"https://hakaimagazine.com/news/behold-the-deepest-dwelling-squid-known-to-science/\">lives</a> at 6,000 meters deep.</p>\n<blockquote><p>:They’re really weird,&#8221; says Vecchione. &#8220;They drift along with their arms spread out and these really long, skinny, spaghetti-like extensions dangling down underneath them.&#8221; Microscopic suckers on those filaments enable the squid to capture their prey.</p>\n<p>But the squid that Jamieson and Vecchione saw in the footage captured 6,212 meters below the ocean’s surface is a small one. They estimate that its mantle measured 10 centimeters long &#8212; ­about a third the size of the largest-known magnapinnid. And the characteristically long extensions observed on other magnapinnids were nowhere to be seen in the video. That could mean, says Vecchione, that this bigfin squid was a juvenile...</p></blockquote>",
@@ -2695,51 +2704,6 @@
           "publishedOn": "2021-12-07T11:15:42.000Z",
           "wordCount": 1317,
           "title": "Microsoft seizes domains used by “highly sophisticated” hackers in China"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818402",
-          "author": "Samuel Axon",
-          "description": "Native apps are rolling out all the time, but utilities are sometimes outliers.",
-          "link": "https://arstechnica.com/?p=1818402",
-          "publishedOn": "2021-12-06T23:03:01.000Z",
-          "wordCount": 829,
-          "title": "OneDrive joins Dropbox in committing to native M1 Mac support"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818380",
-          "author": "Beth Mole",
-          "description": "Some disembarked passengers said they were never told about the outbreak.",
-          "link": "https://arstechnica.com/?p=1818380",
-          "publishedOn": "2021-12-06T22:34:36.000Z",
-          "wordCount": 1173,
-          "title": "Omicron suspected in cruise-ship outbreak in New Orleans; 17 cases so far"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818359",
-          "author": "Jon Brodkin",
-          "description": "T-Mobile says bug led iPhone rebate requests to be rejected as \"ineligible.\"",
-          "link": "https://arstechnica.com/?p=1818359",
-          "publishedOn": "2021-12-06T22:11:16.000Z",
-          "wordCount": 1213,
-          "title": "T-Mobile “inexplicably” rejected iPhone 13 rebates worth hundreds of dollars"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818330",
-          "author": "Jennifer Ouellette",
-          "description": "\"We can't see it, but we're all trapped inside these strange repeating loops.\"",
-          "link": "https://arstechnica.com/?p=1818330",
-          "publishedOn": "2021-12-06T21:56:11.000Z",
-          "wordCount": 1281,
-          "title": "Neo discovers he still knows kung fu in latest Matrix Resurrections trailer"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818336",
-          "author": "Kyle Orland",
-          "description": "Strikers demand 12 laid-off colleagues \"must be offered full time positions.\"",
-          "link": "https://arstechnica.com/?p=1818336",
-          "publishedOn": "2021-12-06T20:36:31.000Z",
-          "wordCount": 1049,
-          "title": "Raven Software developers walk off the job to protest QA layoffs"
         }
       ]
     },
@@ -2825,15 +2789,6 @@
           "publishedOn": "2021-12-08T00:00:00.000Z",
           "wordCount": 3821,
           "title": "Blog: Kubernetes 1.23: Dual-stack IPv4/IPv6 Networking Reaches GA"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/",
-          "author": null,
-          "description": "Authors: Kubernetes 1.23 Release Team\nWe’re pleased to announce the release of Kubernetes 1.23, the last release of 2021!\nThis release consists of 47 enhancements: 11 enhancements have graduated to stable, 17 enhancements are moving to beta, and 19 enhancements are entering alpha. Also, 1 feature has been deprecated.\nMajor Themes\nDeprecation of FlexVolume\nFlexVolume is deprecated. The out-of-tree CSI driver is the recommended way to write volume drivers in Kubernetes. See this doc for more information. Maintainers of FlexVolume drivers should implement a CSI driver and move users of FlexVolume to CSI. Users of FlexVolume should move their workloads to the CSI driver.\nDeprecation of klog specific flags\nTo simplify the code base, several logging flags were marked as deprecated in Kubernetes …",
-          "link": "https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/",
-          "publishedOn": "2021-12-07T00:00:00.000Z",
-          "wordCount": 5160,
-          "title": "Blog: Kubernetes 1.23: The Next Frontier"
         }
       ]
     },
@@ -2900,6 +2855,87 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183309",
+          "author": "Ed Nightingale",
+          "description": "Ghost of Tsushima has now sold over 8m copies.\nSony's open world samurai exclusive has proven exceptionally popular and, as we previously reported, it had sold 5m copies by November 2020.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-ghost-of-tsushima-sales-top-8-million",
+          "publishedOn": "2022-01-05T12:11:00.000Z",
+          "wordCount": 811,
+          "title": "Ghost of Tsushima sales top 8 million"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183299",
+          "author": "Tom Phillips",
+          "description": "Here we see the full cargo plane fight scene glimpsed in previous trailers, and heavily inspired by Uncharted 3. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-watch-the-uncharted-films-full-cargo-plane-fight-scene",
+          "publishedOn": "2022-01-05T11:40:00.000Z",
+          "wordCount": 748,
+          "title": "Watch the Uncharted film's full cargo plane fight scene"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183288",
+          "author": "Ed Nightingale",
+          "description": "Activision has filed a lawsuit against cheat site EngineOwning for selling cheats for Call of Duty: Warzone, as well as other online shooters.\nThe lawsuit, filed in the Central District of California, accuses EngineOwning of \"trafficking for circumvention devices\", \"intentional interference with contractual relations\", and \"unfair competition\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-activision-files-lawsuit-against-call-of-duty-cheat-site",
+          "publishedOn": "2022-01-05T11:23:00.000Z",
+          "wordCount": 881,
+          "title": "Activision files lawsuit against Call of Duty cheat site"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183282",
+          "author": "Tom Phillips",
+          "description": "The souped-up Death Stranding Director's Cut will come to PC via Steam and the Epic Games Store this spring.\nThis is the version which arrived first for PlayStation 5 last summer, now with Intel's fancy XeSS super sampling technology too.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-death-stranding-directors-cut-launches-for-pc-this-spring",
+          "publishedOn": "2022-01-05T11:07:00.000Z",
+          "wordCount": 774,
+          "title": "Death Stranding Director's Cut launches for PC this spring"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183277",
+          "author": "Ed Nightingale",
+          "description": "Dead by Daylight developer Behaviour Interactive has removed unlockable masks for the Leatherface killer used by some players for racist harassment.\nKnown as The Cannibal in the game, Leatherface (from the Texas Chainsaw Massacre films) players can unlock masks to wear based on the game's playable survivors - just like the film character.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-behaviour-remove-dead-by-daylight-cosmetics-following-racist-harassment",
+          "publishedOn": "2022-01-05T10:55:00.000Z",
+          "wordCount": 885,
+          "title": "Behaviour removes Dead by Daylight cosmetics following racist harassment"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183272",
+          "author": "Tom Phillips",
+          "description": "This first-person experience sees you play a new character who meets franchise star Aloy and other familiar faces, and hangs about in Guerrilla's familiar robo-dino post-apocalypse.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-horizon-call-of-the-mountain-announced-for-playstation-vr2",
+          "publishedOn": "2022-01-05T10:43:00.000Z",
+          "wordCount": 770,
+          "title": "Horizon Call of the Mountain announced for PlayStation VR2"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183266",
+          "author": "Ed Nightingale",
+          "description": "Turkish police have detained 40 people in relation to a money laundering scam run on Twitch.\nAs reported last year, a group of Turkish streamers netted $10m through Bit donations from stolen credit cards.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-turkish-police-detain-40-suspects-in-twitch-money-laundering-scam",
+          "publishedOn": "2022-01-05T10:35:00.000Z",
+          "wordCount": 804,
+          "title": "Turkish police detain 40 suspects in Twitch money laundering scam"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183260",
+          "author": "Wesley Yin-Poole",
+          "description": "We've all heard of polishing a video game - developers and publishers often mention the phrase in the same breath as a delay announcement. Now we've got nail polish inspired by video games.\nThe announcement comes from Microsoft itself - there's an Xbox-inspired spring 2022 collection from nail polish brand OPI, and it includes 12 colours based on various Xbox bits and bobs, with game-related names to go along with them.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-xbox-nail-polish-unlocks-a-sparkly-new-armour-coating-for-halo-infinite",
+          "publishedOn": "2022-01-05T10:10:00.000Z",
+          "wordCount": 903,
+          "title": "Xbox nail polish unlocks a new Halo Infinite armour coating"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183239",
+          "author": "Tom Phillips",
+          "description": "PlayStation VR2, as it's now officially known, will boast 4K HDR OLED panels, offering a 110-degree field of view. These panels will have a resolution of 2000x2040 per eye, and frame rates of 90/120Hz.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-05-playstation-vr2-tech-specs-revealed",
+          "publishedOn": "2022-01-05T09:31:00.000Z",
+          "wordCount": 1038,
+          "title": "PlayStation VR2 tech specs revealed"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2183172",
           "author": "Tom Phillips",
