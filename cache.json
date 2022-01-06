@@ -112,15 +112,6 @@
           "publishedOn": "2021-12-10T00:00:00.000Z",
           "wordCount": 185,
           "title": "Incident Report"
-        },
-        {
-          "id": "https://xkcd.com/2552/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/the_last_molecule.png\" title=\"Biology is really struggling; they're barely at 93% and they keep finding more ants.\" alt=\"Biology is really struggling; they're barely at 93% and they keep finding more ants.\" />",
-          "link": "https://xkcd.com/2552/",
-          "publishedOn": "2021-12-08T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "The Last Molecule"
         }
       ]
     },
@@ -2695,78 +2686,6 @@
           "publishedOn": "2021-12-08T11:15:25.000Z",
           "wordCount": 735,
           "title": "Microsoft rolls out revamped Notepad app to Windows 11 Insiders"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818725",
-          "author": "Beth Mole",
-          "description": "CDC says over 35,000 anime fans have already been contacted.",
-          "link": "https://arstechnica.com/?p=1818725",
-          "publishedOn": "2021-12-07T23:22:13.000Z",
-          "wordCount": 1014,
-          "title": "Anime convention of 53K is first US case study for omicron spread, CDC says"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818525",
-          "author": "Samuel Axon",
-          "description": "Apple invested heavily in Chinese tech to prevent hostile regulations.",
-          "link": "https://arstechnica.com/?p=1818525",
-          "publishedOn": "2021-12-07T23:03:41.000Z",
-          "wordCount": 1070,
-          "title": "Report: Apple CEO Tim Cook engineered a secret $275 billion deal with China"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818699",
-          "author": "Tim De Chant",
-          "description": "Coalition will focus on Interstate Highway System to alleviate range anxiety.",
-          "link": "https://arstechnica.com/?p=1818699",
-          "publishedOn": "2021-12-07T22:24:59.000Z",
-          "wordCount": 733,
-          "title": "Power companies band together for coast-to-coast EV fast-charger network"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818669",
-          "author": "Jon Brodkin",
-          "description": "Verizon renamed scanning program and enrolled customers who previously opted out.",
-          "link": "https://arstechnica.com/?p=1818669",
-          "publishedOn": "2021-12-07T22:15:25.000Z",
-          "wordCount": 1182,
-          "title": "Verizon overrides users’ opt-out preferences in push to collect browsing history"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818636",
-          "author": "Tim De Chant",
-          "description": "Facebook knew it was fanning flames of violence, did nothing, lawsuit alleges.",
-          "link": "https://arstechnica.com/?p=1818636",
-          "publishedOn": "2021-12-07T20:24:55.000Z",
-          "wordCount": 1137,
-          "title": "Landmark $150B lawsuit seeks to hold Facebook accountable for Rohingya genocide"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818542",
-          "author": "Sam Machkovech",
-          "description": "Without our own pre-launch look at PC, we're left minding other outlets' alarms.",
-          "link": "https://arstechnica.com/?p=1818542",
-          "publishedOn": "2021-12-07T19:28:10.000Z",
-          "wordCount": 943,
-          "title": "Why one renowned games analyst isn’t playing Halo Infinite on PC for now"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818385",
-          "author": "Eric Berger",
-          "description": "\"We're always looking for smart, dedicated people in their current fields.\"",
-          "link": "https://arstechnica.com/?p=1818385",
-          "publishedOn": "2021-12-07T19:19:09.000Z",
-          "wordCount": 1151,
-          "title": "NASA has 10 new astronauts, and they could not have joined at a better time"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818594",
-          "author": "Beth Mole",
-          "description": "Rep. Carroll calls the legislation a starting point to hold unvaccinated responsible.",
-          "link": "https://arstechnica.com/?p=1818594",
-          "publishedOn": "2021-12-07T18:38:29.000Z",
-          "wordCount": 827,
-          "title": "Willfully unvaccinated should pay 100% of COVID hospital bills, lawmaker says"
         }
       ]
     },
@@ -2843,15 +2762,6 @@
           "publishedOn": "2021-12-09T00:00:00.000Z",
           "wordCount": 6857,
           "title": "Blog: Pod Security Graduates to Beta"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/",
-          "author": null,
-          "description": "Author: Bridget Kromhout (Microsoft)\n\"When will Kubernetes have IPv6?\" This question has been asked with increasing frequency ever since alpha support for IPv6 was first added in k8s v1.9. While Kubernetes has supported IPv6-only clusters since v1.18, migration from IPv4 to IPv6 was not yet possible at that point. At long last, dual-stack IPv4/IPv6 networking has reached general availability (GA) in Kubernetes v1.23.\nWhat does dual-stack networking mean for you? Let’s take a look…\nService API updates\nServices were single-stack before 1.20, so using both IP families meant creating one Service per IP family. The user experience was simplified in 1.20, when Services were re-implemented to allow both IP families, meaning a single Service can handle both IPv4 and IPv6 workloads. Dual-stack load…",
-          "link": "https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/",
-          "publishedOn": "2021-12-08T00:00:00.000Z",
-          "wordCount": 3821,
-          "title": "Blog: Kubernetes 1.23: Dual-stack IPv4/IPv6 Networking Reaches GA"
         }
       ]
     },
@@ -2927,6 +2837,87 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183444",
+          "author": "Ishraq Subhan",
+          "description": "Sony's 2022 CES event caught our attention with technical details of PlayStation VR2 - but what initially slipped under the radar was a small tale by Tom Holland, who was brought onto the stage to talk about the wonders of Uncharted. \nThe 25-year-old English actor who has a habit of playing Americans noted that he only discovered Uncharted when a PlayStation 4 was left in his trailer during the filming of Spider-Man: Homecoming (thanks, Kotaku). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-tom-holland-is-nathan-drake-because-sony-left-him-a-ps4-and-a-copy-of-uncharted",
+          "publishedOn": "2022-01-06T11:57:00.000Z",
+          "wordCount": 859,
+          "title": "Tom Holland says he's Nathan Drake because Sony left him a PS4 and a copy of Uncharted"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183452",
+          "author": "Tom Phillips",
+          "description": "Wordle captured the attention of the internet over the Christmas holidays, and now my Twitter feed is a constant stream of people sharing their scores. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-wordle-creator-says-plan-is-to-stay-free-and-ad-free",
+          "publishedOn": "2022-01-06T11:47:00.000Z",
+          "wordCount": 972,
+          "title": "Wordle creator says plan is to stay free, and ad-free"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183448",
+          "author": "Wesley Yin-Poole",
+          "description": "A number of high-profile FIFA Ultimate Team traders have reported being targeted by hackers who have cleared out their accounts of FIFA Points and coins.\nReports indicate that in the past week the top 100 traders in Ultimate Team have been targeted, with several saying they have lost access to their accounts and thousands of pounds worth of in-game currency.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-fifa-ultimate-team-traders-say-theyre-being-targeted-by-hackers-who-are-clearing-their-accounts-of-fifa-points-and-coins",
+          "publishedOn": "2022-01-06T11:41:00.000Z",
+          "wordCount": 1328,
+          "title": "FIFA Ultimate Team traders say they're being targeted by hackers who are clearing their accounts of FIFA Points and coins"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183450",
+          "author": "Ed Nightingale",
+          "description": "A new trailer for Bomb Rush Cyberfunk shows off BMX cycling for the first time.\nA spiritual successor to Dreamcast cult classic Jet Set Radio, developer Team Reptile has captured that game's cel-shaded graphics and sense of cool.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-new-bomb-rush-cyberfunk-teaser-shows-bmxing-for-the-first-time",
+          "publishedOn": "2022-01-06T11:40:00.000Z",
+          "wordCount": 870,
+          "title": "New Bomb Rush Cyberfunk teaser shows BMXing for the first time"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183446",
+          "author": "Tom Phillips",
+          "description": "This is the new roguelike mode where you play as Pagan Min, the antagonist of Ubisoft's Himalayan-set Far Cry 4. Here, you'll journey into his \"troubled psyche\" and hear more about his backstory. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-far-cry-6-gets-new-roguelike-dlc-next-week",
+          "publishedOn": "2022-01-06T11:22:00.000Z",
+          "wordCount": 779,
+          "title": "Far Cry 6 gets new roguelike DLC next week"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183440",
+          "author": "Ed Nightingale",
+          "description": "Nobody Saves The World, the next game from Guacamelee developer Drinkbox Studios, is due out later this month on PC and Xbox.\nUnlike the team's previous luchador Metroidvania, Nobody Saves The World is an action RPG with an emphasis on creating your own personal playstyle.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-nobody-saves-the-world-due-out-later-this-month",
+          "publishedOn": "2022-01-06T11:04:00.000Z",
+          "wordCount": 774,
+          "title": "Nobody Saves The World due out later this month"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183433",
+          "author": "Ishraq Subhan",
+          "description": "Activision has issued a statement regarding the ongoing strikes by QA staff members at Raven Software.\nA spokesperson told GamesIndustry.biz that \"Raven leadership has engaged in dialogue with its staff to hear concerns and explain the company's overall investment in development resources. As previously announced, we are growing our overall investment in development and operations resources and converting nearly 500 temporary workers to full-time employees across our studios, the largest conversion in Activision's history.\"\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-activision-responds-to-qa-strikes-at-raven-software",
+          "publishedOn": "2022-01-06T11:03:00.000Z",
+          "wordCount": 919,
+          "title": "Activision responds to ongoing worker strike at Raven Software"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183439",
+          "author": "Tom Phillips",
+          "description": "Castlevania's 35th anniversary will be marked by the launch of the \"Konami Memorial NFT Collection\", which is exactly as it sounds. \nArtwork, video clips and music tracks will be hawked as NFTs on the OpenSea auction site next week, from 12th January, using the controversial Ethereum currency.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-konami-celebrates-castlevanias-35th-anniversary-with-nft-collection",
+          "publishedOn": "2022-01-06T11:01:00.000Z",
+          "wordCount": 894,
+          "title": "Konami celebrates Castlevania's 35th anniversary with an NFT collection"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2183424",
+          "author": "Wesley Yin-Poole",
+          "description": "The director of Days Gone has said \"local studio management always made us feel like it was a big disappointment\", and called Sony's decision not to greenlight a sequel \"weird\".\nReacting to the news that Sucker Punch's PlayStation exclusive Ghost of Tsushima has now sold over 8m copies, Days Gone director Jeff Ross said that when he left Sony in late 2020, the zombie game had already sold over 8m copies - and it has since gone on to sell even more, plus over a million sales on Steam.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-06-days-gone-director-says-local-studio-management-always-made-us-feel-like-it-was-a-big-disappointment",
+          "publishedOn": "2022-01-06T09:45:00.000Z",
+          "wordCount": 1113,
+          "title": "Days Gone director says \"local studio management always made us feel like it was a big disappointment\""
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2183390",
           "author": "Wesley Yin-Poole",
@@ -4708,42 +4699,6 @@
           "publishedOn": "2021-12-08T09:17:00.000Z",
           "wordCount": 989,
           "title": "343 apologises for lack of Halo Infinite campaign pre-load as fans face minimum 30GB download tonight"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179895",
-          "author": "Matt Wales",
-          "description": "It's been a long time coming, but Halo's live-action TV adaptation will soon get a proper reveal, courtesy of its first full-length trailer airing at this week's Game Awards. Before all that though, there's the briefest of new teases to stoke a spot of anticipation and get you in the mood.\nThe live-action Halo series - which was first announced all the way back in 2013, at the height of Microsoft's infatuation with TV, TV, TV - got its first teaser trailer during November's Xbox Anniversary Celebration. It admittedly didn't show very much - Master Chief popped on his helmet, Cortana said hello - but it was just enough to get fans in the mood.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-07-halos-live-action-tv-adaptation-gets-second-tiny-teaser-trailer",
-          "publishedOn": "2021-12-07T23:39:00.000Z",
-          "wordCount": 1058,
-          "title": "Halo's live-action TV adaptation gets second, tiny teaser trailer"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179894",
-          "author": "Matt Wales",
-          "description": "Developer Frogwares has delayed the release of Sherlock Holmes: Chapter One on PlayStation 4 and Xbox One a second time, with both versions now due to arrive in \"Q1 2022\".\nFrogwares initially announced a delay for the PS4 and Xbox One editions of Sherlock Holmes' latest adventure back in September, telling fans the decision had been made \"after extensive testing and discussion between QA, team leads, and the heads of the studio\" and that the move would \"benefit players with a better quality game all around\". \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-07-sherlock-holmes-chapter-one-for-ps4-and-xbox-one-now-due-in-q1-2022",
-          "publishedOn": "2021-12-07T22:26:00.000Z",
-          "wordCount": 991,
-          "title": "Sherlock Holmes: Chapter One for PS4 and Xbox One now due in \"Q1 2022\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179893",
-          "author": "Matt Wales",
-          "description": "Tencent has announced the formation of Level Infinite, its new a new publishing division \"dedicated to delivering high-quality games to a global audience\", which will be assisting with the likes of Vampire: The Masquerade - Bloodhunt, GTFO, and more.\nLevel Infinite - which is based in Amsterdam and Singapore with staff located around the world - will be providing studios with a broad range of support and services, including assistance with technology, production, esports integrations, and international publishing, alongside insight and analysis for games-as-service and local/global markets.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-07-tencent-launches-new-publishing-division-level-infinite-dedicated-to-delivering-high-quality-games-to-a-global-audience",
-          "publishedOn": "2021-12-07T21:12:00.000Z",
-          "wordCount": 931,
-          "title": "Tencent launches new publishing division Level Infinite, \"dedicated to delivering high-quality games to a global audience\""
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2179888",
-          "author": "Matt Wales",
-          "description": "Nick Offerman - perhaps best known for his portrayal of Park and Recreation's staunchly libertarian department director Ron Swanson - has been cast as Bill in HBO's upcoming live-action TV adaptation of The Last of Us.\nThat's according to Variety, which reports Offerman will be taking over the role from Con O'Neill - who was forced to step away from the show as a result of a scheduling conflict - and will appear alongside Murray Bartlett as Frank.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-07-hbos-the-last-of-us-tv-adaptation-casts-parks-and-recreations-nick-offerman-as-bill",
-          "publishedOn": "2021-12-07T19:10:00.000Z",
-          "wordCount": 1096,
-          "title": "HBO's The Last of Us TV adaptation casts Parks and Recreation's Nick Offerman as Bill"
         }
       ]
     }
