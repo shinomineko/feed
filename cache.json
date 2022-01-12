@@ -137,15 +137,6 @@
           "publishedOn": "2021-12-22T00:00:00.000Z",
           "wordCount": 55,
           "title": "App Types as Homes"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/organic-growth/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/organic-growth/",
-          "publishedOn": "2021-12-14T00:00:00.000Z",
-          "wordCount": 48,
-          "title": "Organic Growth"
         }
       ]
     },
@@ -160,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/01/faking-an-iphone-reboot.html",
+          "author": null,
+          "description": "<p>Researchers have figured how how to <a href=\"https://blog.zecops.com/research/persistence-without-persistence-meet-the-ultimate-persistence-bug-noreboot/\">intercept and fake</a> an iPhone reboot:</p>\n<blockquote><p>We&#8217;ll dissect the iOS system and show how it&#8217;s possible to alter a shutdown event, tricking a user that got infected into thinking that the phone has been powered off, but in fact, it&#8217;s still running. The &#8220;NoReboot&#8221; approach simulates a real shutdown. The user cannot feel a difference between a real shutdown and a &#8220;fake shutdown.&#8221; There is no user-interface or any button feedback until the user turns the phone back &#8220;on.&#8221;</p></blockquote>\n<p>It&#8217;s a complicated hack, but it works.</p>\n<p>Uses are <a href=\"https://www.bleepingcomputer.com/news/security/ios-malware-can-fake-iphone-shut-downs-to-snoop-on-camera-microphone/\">obvious...</a></p>",
+          "link": "https://www.schneier.com/blog/archives/2022/01/faking-an-iphone-reboot.html",
+          "publishedOn": "2022-01-12T12:15:14.000Z",
+          "wordCount": 525,
+          "title": "Faking an iPhone Reboot"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/01/apples-private-relay-is-being-blocked.html",
           "author": null,
@@ -2704,78 +2704,6 @@
           "publishedOn": "2021-12-14T12:00:51.000Z",
           "wordCount": 1029,
           "title": "Win hardware, collectibles, and more in the 2021 Ars Technica Charity Drive"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820362",
-          "author": "Beth Mole",
-          "description": "\"How can we as a society stand by and watch people die?\"",
-          "link": "https://arstechnica.com/?p=1820362",
-          "publishedOn": "2021-12-13T23:39:10.000Z",
-          "wordCount": 967,
-          "title": "“The situation is critical”: Minnesota hospitals beg people to get vaccinated"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818662",
-          "author": "Samuel Axon",
-          "description": "SharePlay comes to macOS, and the new Apple Music plan comes to everything.",
-          "link": "https://arstechnica.com/?p=1818662",
-          "publishedOn": "2021-12-13T22:10:39.000Z",
-          "wordCount": 1041,
-          "title": "iOS 15.2 and macOS 12.1 add several previously delayed features"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1818672",
-          "author": "Scharon Harding",
-          "description": "New G303 wireless gaming mouse improves on original, but its shape isn't a universal fit.",
-          "link": "https://arstechnica.com/?p=1818672",
-          "publishedOn": "2021-12-13T21:53:09.000Z",
-          "wordCount": 1470,
-          "title": "Logitech G303 Shroud Edition review: $130 wireless mouse for big-handed gamers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820124",
-          "author": "Jonathan M. Gitlin",
-          "description": "It starts at $39,700 for 220 miles of range or $43,650 for the 303-mile version.",
-          "link": "https://arstechnica.com/?p=1820124",
-          "publishedOn": "2021-12-13T21:00:56.000Z",
-          "wordCount": 774,
-          "title": "Here’s how much Hyundai’s cool, new Ioniq 5 EV will cost"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820226",
-          "author": "Andrew Cunningham",
-          "description": "It's so great that we can laugh about this now.",
-          "link": "https://arstechnica.com/?p=1820226",
-          "publishedOn": "2021-12-13T20:15:25.000Z",
-          "wordCount": 678,
-          "title": "$25 Red Ring of Death poster commemorates Microsoft’s billion-dollar Xbox screw-up"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820222",
-          "author": "Tim De Chant",
-          "description": "Nearly decade-old account was blocked for \"pretending to be someone else.”",
-          "link": "https://arstechnica.com/?p=1820222",
-          "publishedOn": "2021-12-13T19:39:00.000Z",
-          "wordCount": 982,
-          "title": "Woman lost @metaverse Instagram handle days after Facebook name change"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820215",
-          "author": "Kyle Orland",
-          "description": "New colors for now-patented design come alongside matching DualSense controllers.",
-          "link": "https://arstechnica.com/?p=1820215",
-          "publishedOn": "2021-12-13T19:30:57.000Z",
-          "wordCount": 809,
-          "title": "Sony offers official PS5 faceplate colors after pushing out competition"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820202",
-          "author": "Dan Goodin",
-          "description": "Kronos outage will last several weeks. Firm advises customers to use other services.",
-          "link": "https://arstechnica.com/?p=1820202",
-          "publishedOn": "2021-12-13T18:36:05.000Z",
-          "wordCount": 1006,
-          "title": "As Log4Shell wreaks havoc, payroll service reports ransomware attack"
         }
       ]
     },
@@ -2909,6 +2837,78 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184209",
+          "author": "Tom Phillips",
+          "description": "Pokémon Brilliant Diamond and Shining Pearl, the new Nintendo Switch remakes which launched last November, include a fan-favourite Easter egg from the original DS games. \nFor long-term fans of the series, simply saying \"diamond dust\" will probably be enough to remember this nod to beloved director and composer Junichi Masuda, seen as the father of the modern Pokémon franchise. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-pokemon-brilliant-diamond-and-shining-pearl-have-a-neat-easter-egg-if-you-play-today",
+          "publishedOn": "2022-01-12T12:11:00.000Z",
+          "wordCount": 1058,
+          "title": "Pokémon Brilliant Diamond and Shining Pearl have a neat Easter egg if you play today"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184198",
+          "author": "Ed Nightingale",
+          "description": "Riot Games is allowing staff to leave with 25 percent of their salary amid changes to the long-term direction of the company.\nA new blog post from Riot CEO Nicolo Laurent outlines his plan for the next five years, both in terms of company structure and content.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-riot-games-will-pay-staff-who-leave-amid-changes-to-long-term-direction",
+          "publishedOn": "2022-01-12T11:47:00.000Z",
+          "wordCount": 1183,
+          "title": "Riot Games will pay staff who leave amid changes to long-term direction"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184192",
+          "author": "Tom Phillips",
+          "description": "Copies of everyone's favourite daily puzzle game Wordle are flooding onto phone app stores, including versions which feature in-app purchases, ads, and are not free to download. \nIn contrast, the original Wordle is web-based and completely free, and its creator has previously said he hopes to never introduce advertising.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-rip-off-wordle-clones-with-ads-and-purchases-hit-app-stores",
+          "publishedOn": "2022-01-12T11:28:00.000Z",
+          "wordCount": 888,
+          "title": "Rip-off Wordle clones with ads and purchases hit app stores"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184185",
+          "author": "Tom Phillips",
+          "description": "Everyone loves (or loves to hate) Bidoof. It gets everywhere, it is a bit crap (sorry, Bidoof), and as a result it has become a bit of a meme.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-pokemons-latest-animated-short-is-a-tear-jerker-starring-bidoof",
+          "publishedOn": "2022-01-12T11:06:00.000Z",
+          "wordCount": 751,
+          "title": "Pokémon's latest animated short is a tear-jerker starring Bidoof"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184173",
+          "author": "Ed Nightingale",
+          "description": "Anime and manga Attack on Titan will appear in Call of Duty as part of a new promotion.\nThe DLC will arrive in the WW2-themed Call of Duty: Vanguard and Warzone Pacific on 20th January, following major updates to both games.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-attack-on-titans-arrives-in-call-of-duty",
+          "publishedOn": "2022-01-12T11:00:00.000Z",
+          "wordCount": 877,
+          "title": "Attack on Titan arrives in Call of Duty"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184166",
+          "author": "Tom Phillips",
+          "description": "PS4 manufacturing had been set to cease at the end of 2021, Bloomberg reported today, but has been extended throughout 2022 - meaning around a million more last-gen consoles will now be created. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-playstation-4-lifespan-reportedly-extended-as-ps5-supply-issues-continue",
+          "publishedOn": "2022-01-12T10:23:00.000Z",
+          "wordCount": 867,
+          "title": "PlayStation 4 lifespan reportedly extended, as PS5 supply issues continue"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184151",
+          "author": "Wesley Yin-Poole",
+          "description": "Forza Street shuts down in the spring, Microsoft has announced.\nIn a FAQ, Turn 10 Studios principal design director Andy Beaudoin said the \"difficult decision\" was made to close Forza Street \"after careful consideration\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-microsoft-scraps-forza-street",
+          "publishedOn": "2022-01-12T09:36:00.000Z",
+          "wordCount": 971,
+          "title": "Microsoft scraps Forza Street"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184146",
+          "author": "Wesley Yin-Poole",
+          "description": "Battle royale behemoth PUBG has relaunched in free-to-play form.\nIt's free to download across platforms (PC and console) now. The fancy live action free-to-play launch trailer is below:\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-12-pubg-relaunches-in-free-to-play-form",
+          "publishedOn": "2022-01-12T09:04:00.000Z",
+          "wordCount": 877,
+          "title": "PUBG relaunches in free-to-play form"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2184110",
           "author": "Matt Wales",
