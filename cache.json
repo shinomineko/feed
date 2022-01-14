@@ -152,6 +152,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/01/using-em-waves-to-detect-malware.html",
+          "author": null,
+          "description": "<p>I don&#8217;t even know what I think about this. Researchers have developed a malware detection system that uses EM waves: &#8220;<a href=\"https://dl.acm.org/doi/abs/10.1145/3485832.3485894\">Obfuscation Revealed: Leveraging Electromagnetic Signals for Obfuscated Malware Classification</a>.&#8221;</p>\n<blockquote><p><b>Abstract</b>: The Internet of Things (IoT) is constituted of devices that are exponentially growing in number and in complexity. They use numerous customized firmware and hardware, without taking into consideration security issues, which make them a target for cybercriminals, especially malware authors.</p>\n<p>We will present a novel approach of using side channel information to identify the kinds of threats that are targeting the device. Using our approach, a malware analyst is able to obtain precise knowledge about malware type and identity, even in the presence of obfuscation techniques which may prevent static or symbolic binary analysis. We recorded 100,000 measurement traces from an IoT device infected by various in-the-wild malware samples and realistic benign activity. Our method does not require any modification on the target device. Thus, it can be deployed independently from the resources available without any overhead. Moreover, our approach has the advantage that it can hardly be detected and evaded by the malware authors. In our experiments, we were able to predict three generic malware types (and one benign class) with an accuracy of 99.82%. Even more, our results show that we are able to classify altered malware samples with unseen obfuscation techniques during the training phase, and to determine what kind of obfuscations were applied to the binary, which makes our approach particularly useful for malware analysts...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/01/using-em-waves-to-detect-malware.html",
+          "publishedOn": "2022-01-14T12:13:47.000Z",
+          "wordCount": 587,
+          "title": "Using EM Waves to Detect Malware"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/01/using-foreign-nationals-to-bypass-us-surveillance-restrictions.html",
           "author": null,
           "description": "<p>Remember when the US and Australian police <a href=\"https://www.schneier.com/blog/archives/2021/06/fbi-afp-run-encrypted-phone.html\">surreptitiously owned and operated</a> the encrypted cell phone app ANOM? They arrested 800 people in 2021 based on that operation.</p>\n<p>New documents <a href=\"https://www.vice.com/en/article/epxp8w/fbi-anom-shipped-100-phones-united-states\">received by Motherboard</a> show that over 100 of those phones were shipped to users in the US, far more than previously believed.</p>\n<p>What&#8217;s most interesting to me about this new information is how the US used the Australians to get around domestic spying laws:</p>\n<blockquote><p>For legal reasons, the FBI did not monitor outgoing messages from Anom devices determined to be inside the U.S. Instead, the Australian Federal Police (AFP) monitored them on behalf of the FBI, according to previously published court records. ...</p></blockquote>",
@@ -293,6 +302,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1824584",
+          "author": "Eric Berger",
+          "description": "\"We made decisions, understanding that there would be great risks.\"",
+          "link": "https://arstechnica.com/?p=1824584",
+          "publishedOn": "2022-01-14T12:00:37.000Z",
+          "wordCount": 1814,
+          "title": "Rocket Report: Neutron may land in Virginia; it’s to be Starship for Starlink"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1825792",
+          "author": "Sam Machkovech",
+          "description": "Coincides with service's February 1 shift to a Windows-only launcher.",
+          "link": "https://arstechnica.com/?p=1825792",
+          "publishedOn": "2022-01-14T11:00:24.000Z",
+          "wordCount": 1102,
+          "title": "Humble subscription service is dumping Mac, Linux access in 18 days"
+        },
         {
           "id": "https://arstechnica.com/?p=1825778",
           "author": "Jennifer Ouellette",
@@ -2722,60 +2749,6 @@
           "publishedOn": "2021-12-16T13:25:16.000Z",
           "wordCount": 1003,
           "title": "Rigetti announces 80 qubit processor, experiments with “qutrits”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1821067",
-          "author": "Beth Mole",
-          "description": "With just 17% of the US boosted, a massive omicron wave could peak in January.",
-          "link": "https://arstechnica.com/?p=1821067",
-          "publishedOn": "2021-12-15T23:29:41.000Z",
-          "wordCount": 1109,
-          "title": "Current vaccines are enough to fight omicron, but massive wave is coming fast"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1821045",
-          "author": "Tim De Chant",
-          "description": "\"The next generation of buildings is going to be electric.\"",
-          "link": "https://arstechnica.com/?p=1821045",
-          "publishedOn": "2021-12-15T22:07:51.000Z",
-          "wordCount": 1058,
-          "title": "New York City bans new natural gas hookups in step toward all-electric future"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1821041",
-          "author": "Dan Goodin",
-          "description": "If you've patched using Log4J 2.15.0, it's time to update again. Stat!",
-          "link": "https://arstechnica.com/?p=1821041",
-          "publishedOn": "2021-12-15T21:40:54.000Z",
-          "wordCount": 912,
-          "title": "Patch fixing critical Log4J 0-day has its own vulnerability that’s under exploit"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820729",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has last-minute deals on AirPods, good board games, and 4K streamers.",
-          "link": "https://arstechnica.com/?p=1820729",
-          "publishedOn": "2021-12-15T20:32:11.000Z",
-          "wordCount": 2350,
-          "title": "Today’s best deals: Apple Watch Series 7, gaming gift cards, and more"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820964",
-          "author": "Jon Brodkin",
-          "description": "Lawyer: Musk \"enables the pattern of pervasive sexual harassment and retaliation.\"",
-          "link": "https://arstechnica.com/?p=1820964",
-          "publishedOn": "2021-12-15T19:39:51.000Z",
-          "wordCount": 1263,
-          "title": "Tesla sexual harassment lawsuits multiply as 6 more women sue Musk-led firm"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820983",
-          "author": "John Timmer",
-          "description": "No deaths, ~80 percent drop in hospitalization compared to the placebo group.",
-          "link": "https://arstechnica.com/?p=1820983",
-          "publishedOn": "2021-12-15T19:25:13.000Z",
-          "wordCount": 1102,
-          "title": "Pfizer’s anti-COVID drug still looks effective after further analysis"
         }
       ]
     },
@@ -2844,15 +2817,6 @@
           "publishedOn": "2021-12-17T00:00:00.000Z",
           "wordCount": 4068,
           "title": "Blog: What's new in Security Profiles Operator v0.4.0"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/12/16/kubernetes-1-23-statefulset-pvc-auto-deletion/",
-          "author": null,
-          "description": "Author: Matthew Cary (Google)\nKubernetes v1.23 introduced a new, alpha-level policy for\nStatefulSets that controls the lifetime of\nPersistentVolumeClaims (PVCs) generated from the\nStatefulSet spec template for cases when they should be deleted automatically when the StatefulSet\nis deleted or pods in the StatefulSet are scaled down.\nWhat problem does this solve?\nA StatefulSet spec can include Pod and PVC templates. When a replica is first created, the\nKubernetes control plane creates a PVC for that replica if one does not already exist. The behavior\nbefore Kubernetes v1.23 was that the control plane never cleaned up the PVCs created for\nStatefulSets - this was left up to the cluster administrator, or to some add-on automation that\nyou’d have to find, check suitability, and deploy. The commo…",
-          "link": "https://kubernetes.io/blog/2021/12/16/kubernetes-1-23-statefulset-pvc-auto-deletion/",
-          "publishedOn": "2021-12-16T00:00:00.000Z",
-          "wordCount": 4097,
-          "title": "Blog: Kubernetes 1.23: StatefulSet PVC Auto-Deletion (alpha)"
         }
       ]
     },
@@ -2910,6 +2874,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184602",
+          "author": "Tom Phillips",
+          "description": "Crytek has requested the removal of a Crysis Remastered photo mode mod that was hosted by its developer behind a Patreon paywall. \nNumerous modding projects for Crysis Remastered exist without issue, but Crytek has said it stepped in here due to the project being monetised. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-14-crytek-requests-removal-of-crysis-photo-mode-mod-hosted-on-patreon",
+          "publishedOn": "2022-01-14T12:26:00.000Z",
+          "wordCount": 1077,
+          "title": "Crytek requests removal of Crysis Remastered photo mode mod hosted on Patreon"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184591",
+          "author": "Tom Phillips",
+          "description": "Disney and Tencent have announced Avatar: Reckoning, a new MMORPG set on Pandora for iOS and Android devices due for launch this year. \nYou'll be able to play Avatar: Reckoning in three modes: via single-player story missions, PVP or co-op, as you explore \"never-before-seen parts\" of Avatar's world. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-14-disney-announces-avatar-mmorpg-in-the-works",
+          "publishedOn": "2022-01-14T11:47:00.000Z",
+          "wordCount": 793,
+          "title": "Disney and Tencent announce Avatar MMORPG"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184582",
+          "author": "Tom Phillips",
+          "description": "Ken Levine, creator of BioShock, has discussed his view of ditching writing he deems not to have worked - and described it as a \"luxury\". \nThis week, Levine appeared on a fresh podcast to discuss his career and ongoing work at Ghost Story Games - Levine's current studio which was focus of a critical report earlier in the month. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-14-bioshock-creator-discusses-luxury-of-throwing-out-work",
+          "publishedOn": "2022-01-14T11:25:00.000Z",
+          "wordCount": 993,
+          "title": "BioShock creator Ken Levine discusses \"luxury\" of throwing out work"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184576",
+          "author": "Ed Nightingale",
+          "description": "YouTuber Logan Paul has wasted $3.5m on fake Pokémon cards.\nLast month the influencer boasted about \"dropping\" the cash on what he believed was a \"sealed & authenticated box of 1st Edition Pokémon cards\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-14-youtuber-logan-paul-wastes-usd3-5m-on-fake-pokemon-cards",
+          "publishedOn": "2022-01-14T11:22:00.000Z",
+          "wordCount": 895,
+          "title": "YouTuber Logan Paul wastes $3.5m on fake Pokémon cards"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184569",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 14 will be back on sale for new players later this month.\nFollowing the release of the Endwalker expansion, Square Enix removed the base game from digital sales as it was proving too popular for the servers to cope.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-14-final-fantasy-14-back-on-sale-later-this-month",
+          "publishedOn": "2022-01-14T10:37:00.000Z",
+          "wordCount": 1064,
+          "title": "Final Fantasy 14 back on sale later this month"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2184568",
+          "author": "Tom Phillips",
+          "description": "Troy Baker, one of the most high-profile and prolific voice actors in video games, star of The Last of Us, BioShock Infinite and Fortnite, is now promoting NFTs. \nBaker, whose voice can be heard in hundreds of games, announced this morning via Twitter that he was partnering with VoiceverseNFT, a company which describes itself as providing \"the world's first VoiceNFTs\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-14-video-game-voice-actor-troy-baker-is-now-promoting-nfts",
+          "publishedOn": "2022-01-14T10:37:00.000Z",
+          "wordCount": 1055,
+          "title": "Video game voice actor Troy Baker is now promoting NFTs"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2184526",
           "author": "Matt Wales",
@@ -4610,33 +4628,6 @@
           "publishedOn": "2021-12-16T10:17:00.000Z",
           "wordCount": 932,
           "title": "Final Fantasy 14 is so popular it's been pulled from sale"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2181239",
-          "author": "Matt Wales",
-          "description": "343 Industries has released a new Halo Infinite hotfix, aiming to tackle Quick Resume issues reported by Xbox Series X/S players last week.\nThe incident saw players reporting that earned cosmetics were failing to show up in multiplayer inventories - which in turn saw 343 warning against using Xbox's Quick Resume feature during Halo Infinite's campaign, with developer explaining the issue was caused by Quick Resume failing to get sessions back online.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-15-halo-infinites-latest-hotfix-tackles-quick-resume-issues-on-xbox-series-x-s",
-          "publishedOn": "2021-12-15T23:23:00.000Z",
-          "wordCount": 970,
-          "title": "Halo Infinite's latest hotfix tackles Quick Resume issues on Xbox Series X/S"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2181237",
-          "author": "Matt Wales",
-          "description": "Inscryption, the acclaimed deck-building horror game from Pony Island and The Hex developer Daniel Mullins, is getting a free new mini-expansion that will turn its devilishly enjoyable opening act into an endless, rogue-like experience.\nAs with Mullins' previous creations, Inscryption - a dizzyingly strange blend of deck-building rogue-like, escape-room puzzler, and psychological horror - loves to surprise, which inevitably means some deviation away from its opening portion, a engaging combination of sharply designed card battling and Slay-the-Spire-style map progression. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-15-card-horror-inscryptions-free-new-mini-expansion-turns-act-1-into-an-endless-rogue-like",
-          "publishedOn": "2021-12-15T22:25:00.000Z",
-          "wordCount": 1033,
-          "title": "Card horror Inscryption's free mini-expansion turns Act 1 into an endless rogue-like"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2181235",
-          "author": "Matt Wales",
-          "description": "If you're a fan of Switch and indie games (which I assume you are, unless you got lost browsing the site) but found yourself otherwise indisposed during Nintendo's latest Indie World showcase, you missed a typically packed event. This time around, we got a look at The Messenger developer's gorgeous retro-inspired RPG Sea of Stars, a first glimpse of WayForward's beat-'em-up sequel River City Girls 2, tearjerking fox adventure in Endling: Extinction is Forever, a release date for the striking, skateboarding OlliOlli World, and plenty more. Those wanting a convenient catch-up will find everything shown below.\nSea of Stars\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-15-heres-everything-that-appeared-during-nintendos-latest-indie-world-showcase",
-          "publishedOn": "2021-12-15T20:11:00.000Z",
-          "wordCount": 1840,
-          "title": "Here's everything that appeared during Nintendo's latest Indie World showcase"
         }
       ]
     }
