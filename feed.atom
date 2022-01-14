@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T00:30:26.559Z</updated>
+    <updated>2022-01-14T06:27:23.872Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An extremely casual code review of MetaMask’s crypto]]></title>
+        <id>http://blog.cryptographyengineering.com/?p=6302</id>
+        <link href="https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/"/>
+        <updated>2022-01-14T00:56:45.000Z</updated>
+        <summary type="html"><![CDATA[NB: This post describes a very casual code review of a few cryptography functions used by MetaMask. It does not describe any vulnerabilities. If you’re the kind of person who likes a meandering and amateurish code review that goes absolutely nowhere, you’ll enjoy this post. Otherwise you might want to read something more exciting: I … Continue reading An extremely casual code review of MetaMask’s crypto →]]></summary>
+        <author>
+            <name>Matthew Green</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valve says Steam Deck still on track for a February release]]></title>
         <id>https://www.eurogamer.net/article.php?article_id=2184526</id>
@@ -5527,190 +5537,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[No deaths, ~80 percent drop in hospitalization compared to the placebo group.]]></summary>
         <author>
             <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.23 Prevent PersistentVolume leaks when deleting out of order]]></title>
-        <id>https://kubernetes.io/blog/2021/12/15/kubernetes-1-23-prevent-persistentvolume-leaks-when-deleting-out-of-order/</id>
-        <link href="https://kubernetes.io/blog/2021/12/15/kubernetes-1-23-prevent-persistentvolume-leaks-when-deleting-out-of-order/"/>
-        <updated>2021-12-15T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Deepak Kinni (VMware)
-PersistentVolume (or PVs for short) are
-associated with Reclaim Policy.
-The Reclaim Policy is used to determine the actions that need to be taken by the storage
-backend on deletion of the PV.
-Where the reclaim policy is Delete, the expectation is that the storage backend
-releases the storage resource that was allocated for the PV. In essence, the reclaim
-policy needs to honored on PV deletion.
-With the recent Kubernetes v1.23 release, an alpha feature lets you configure your
-cluster to behave that way and honor the configured reclaim policy.
-How did reclaim work in previous Kubernetes releases?
-PersistentVolumeClaim (or PVC for short) is
-a request for storage by a user. A PV and PVC are considered Bound
-if there is a newly created PV or a matching PV is found.…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OlliOlli World gets February 2022 release date and expansion pass]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181226</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-olliolli-world-gets-february-2022-release-date-and-expansion-pass"/>
-        <updated>2021-12-15T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[OlliOlli World, the ambitious new entry in developer Roll7's acclaimed skateboarding series, finally has a release date and will be coming to Switch, PlayStation 4, PlayStation 5, Xbox Series X/S, Xbox One, and PC on 8th February next year.
-OlliOlli World takes the wonderfully satisfying skateboard-infused action-platforming of its predecessors and transplants it into the striking - and, for the first time in the series, fully 3D - world of Radlandia, a kingdom forged by the skateboard gods.
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loco Motive is a LucasArts-inspired point-and-click comedy adventure]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181173</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-loco-motive-is-a-lucasarts-inspired-point-and-click-comedy-adventure"/>
-        <updated>2021-12-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Loco Motive, which looks like a cross between Monkey Island and Murder on the Orient Express, has been announced for Nintendo Switch as part of this evening's Indie World presentation.
-A comedy adventure game with puzzles, Loco Motive has you playing as three passengers who must prove their innocence after a murder occurs.
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft announces Splinter Cell remake]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181211</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-ubisoft-announces-splinter-cell-remake"/>
-        <updated>2021-12-15T17:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft has announced it's working on a Splinter Cell remake.
-The remake is in development at Far Cry 6 lead studio Ubisoft Toronto, and is being built on Ubisoft's Snowdrop engine - the same engine used to develop Avatar: Frontiers of Pandora and Ubisoft's upcoming Star Wars game.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's some Horizon Forbidden West PS4 screenshots]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181210</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-heres-some-horizon-forbidden-west-ps4-screenshots"/>
-        <updated>2021-12-15T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Horizon Forbidden West is one of Sony's biggest upcoming blockbusters headed to PlayStation 5 - so it's easy to forget the Zero Dawn follow-up is also coming to PS4.
-Today, developer Guerrilla Games shared four images from the PS4 version of the game, which is set to debut at the same time - on 18th February 2022.
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation launches website to highlight accessibility of its consoles]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181208</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-playstation-launches-website-to-highlight-accessibility-of-its-consoles"/>
-        <updated>2021-12-15T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[PlayStation has launched a new accessibility website to showcase the features of its PS4 and PS5 consoles.
-The website lists core visual and audio features, as well as closed captions, controls and chat transcription.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No jab, no job: Google will fire unvaccinated employees]]></title>
-        <id>https://arstechnica.com/?p=1820893</id>
-        <link href="https://arstechnica.com/?p=1820893"/>
-        <updated>2021-12-15T16:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Less than 1 percent of employees have strong reservations about vaccination.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polestar 2 owners will be able to purchase more performance via OTA update]]></title>
-        <id>https://arstechnica.com/?p=1820878</id>
-        <link href="https://arstechnica.com/?p=1820878"/>
-        <updated>2021-12-15T16:07:25.000Z</updated>
-        <summary type="html"><![CDATA[ADAS tweaks and charging schedules are among the latest improvements to all cars.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Necrons are coming to Warhammer 40,000: Battlesector]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181186</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-the-necrons-are-coming-to-warhammer-40-000-battlesector"/>
-        <updated>2021-12-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Warhammer 40,000: Battlesector is getting the Necrons as DLC.
-Black Lab Games' well-received turn-based strategy game launched on PC earlier this year before arriving on consoles. The Necrons arrive during the first quarter of 2022.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stalker 2 to include "metaverse" of NFTs]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181182</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-s-t-a-l-k-e-r-2-to-include-metaverse-of-nfts"/>
-        <updated>2021-12-15T15:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Stalker 2: Heart of Chernobyl will include NFTs when it's released next year.
-Developer GSC Game World has announced its game will have its own "metaverse" that players can inhabit as a "metahuman" - an NFT in the form of an NPC.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons in Trust From us-east-1]]></title>
-        <id>https://www.lastweekinaws.com/?p=11576</id>
-        <link href="https://www.lastweekinaws.com/blog/lessons-in-trust-from-us-east-1/"/>
-        <updated>2021-12-15T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS published its analysis of last week’s us-east-1 outage, and it raises more questions than it answers. I understand that they wanted to get it out when they did (late on a Friday during one of the worst cybersecurity flaps in years), to avoid excessive attention. But I’m unconvinced in reading it that the outage […]
-The post Lessons in Trust From us-east-1 appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distant Worlds 2 out March 2022]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181174</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-distant-worlds-2-out-march-2022"/>
-        <updated>2021-12-15T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Distant Worlds 2 comes out 10th March 2022 on PC, publisher Slitherine has announced.
-The 4X space strategy game is the follow-up to Code Force's 2010 real-time grand strategy wargame.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lonely Mountains: Downhill gets free DLC]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181170</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-lonely-mountains-downhill-gets-free-dlc"/>
-        <updated>2021-12-15T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A free DLC expansion is available now for Lonely Mountains: Downhill.
-Named Riley's Return, it adds a lost trail to Mount Riley, plus new challenges and unlockable earth-elemental customisation sets.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First look at Stargate: Timekeepers gameplay]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2181165</id>
-        <link href="https://www.eurogamer.net/articles/2021-12-15-first-look-at-stargate-timekeepers-gameplay"/>
-        <updated>2021-12-15T14:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Publisher Slitherine has revealed gameplay of Stargate: Timekeepers.
-The video below shows nearly two minutes of gameplay from the campaign's first mission, Battle of Antarctica.
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Spider-Man: No Way Home is the best superhero film of the year]]></title>
-        <id>https://arstechnica.com/?p=1820817</id>
-        <link href="https://arstechnica.com/?p=1820817"/>
-        <updated>2021-12-15T13:53:56.000Z</updated>
-        <summary type="html"><![CDATA[I don't need spoilers to explain why I'd see this masterful comic book film again.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
         </author>
     </entry>
 </feed>
