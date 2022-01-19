@@ -330,6 +330,78 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1826704",
+          "author": "Beth Mole",
+          "description": "Keep your hamsters inside, and don't kiss them, authorities warn.",
+          "link": "https://arstechnica.com/?p=1826704",
+          "publishedOn": "2022-01-18T23:10:42.000Z",
+          "wordCount": 1152,
+          "title": "COVID-infected hamsters in pet shop trigger animal cull in Hong Kong"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826645",
+          "author": "Ron Amadeo",
+          "description": "YouTube content group produced exclusive shows like Scare PewDiePie and Cobra Kai.",
+          "link": "https://arstechnica.com/?p=1826645",
+          "publishedOn": "2022-01-18T22:42:05.000Z",
+          "wordCount": 785,
+          "title": "Google kills YouTube Originals, its original video content group"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826576",
+          "author": "Samuel Axon",
+          "description": "It's still unclear which TVs are affected.",
+          "link": "https://arstechnica.com/?p=1826576",
+          "publishedOn": "2022-01-18T21:49:15.000Z",
+          "wordCount": 836,
+          "title": "Some Roku smart TVs are now showing banner ads over live TV"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826550",
+          "author": "Andrew Cunningham",
+          "description": "IPSEC and L2TP VPN connections could fail after installing January's updates.",
+          "link": "https://arstechnica.com/?p=1826550",
+          "publishedOn": "2022-01-18T19:32:01.000Z",
+          "wordCount": 685,
+          "title": "Microsoft fixes Patch Tuesday bug that broke VPN in Windows 10 and 11"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826593",
+          "author": "Tim De Chant",
+          "description": "Detainees “were not informed of the side effects of the drug.”",
+          "link": "https://arstechnica.com/?p=1826593",
+          "publishedOn": "2022-01-18T19:24:50.000Z",
+          "wordCount": 1185,
+          "title": "Inmates sue Arkansas doc, jail after unknowingly taking dangerous doses of ivermectin"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826601",
+          "author": "Jonathan M. Gitlin",
+          "description": "The crash happened in Los Angeles in 2019, killing two people in a Honda Civic.",
+          "link": "https://arstechnica.com/?p=1826601",
+          "publishedOn": "2022-01-18T19:01:32.000Z",
+          "wordCount": 649,
+          "title": "Manslaughter charges follow Tesla driver’s Autopilot red light run"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826525",
+          "author": "Ron Amadeo",
+          "description": "Samsung's chip announcement is light on details and lacks performance claims.",
+          "link": "https://arstechnica.com/?p=1826525",
+          "publishedOn": "2022-01-18T18:28:19.000Z",
+          "wordCount": 936,
+          "title": "Samsung announces Exynos 2200 with AMD “Xclipse” GPU"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1826566",
+          "author": "Dan Goodin",
+          "description": "Unfixed bug violating the Internet's most foundational rules is easy to exploit.",
+          "link": "https://arstechnica.com/?p=1826566",
+          "publishedOn": "2022-01-18T18:14:21.000Z",
+          "wordCount": 1298,
+          "title": "Safari and iOS users: Your browsing activity is being leaked in real time"
+        },
+        {
           "id": "https://arstechnica.com/?p=1826541",
           "author": "Jonathan M. Gitlin",
           "description": "The new hybrid prototype had its first track test in late December.",
@@ -2830,15 +2902,6 @@
           "publishedOn": "2021-12-20T15:00:56.000Z",
           "wordCount": 1220,
           "title": "What to expect from Apple in 2022: ARM desktops, portless iPhones, and more"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1820348",
-          "author": "Ars Contributors",
-          "description": "Can the deep past help us understand our future?",
-          "link": "https://arstechnica.com/?p=1820348",
-          "publishedOn": "2021-12-20T11:30:34.000Z",
-          "wordCount": 1424,
-          "title": "How will our warming climate stabilize? Scientists look to the distant past"
         }
       ]
     },
@@ -2863,6 +2926,15 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/01/19/secure-your-admission-controllers-and-webhooks/",
+          "author": null,
+          "description": "Author: Rory McCune (Aqua Security)\nAdmission control is a key part of Kubernetes security, alongside authentication and authorization. Webhook admission controllers are extensively used to help improve the security of Kubernetes clusters in a variety of ways including restricting the privileges of workloads and ensuring that images deployed to the cluster meet organization’s security requirements.\nHowever, as with any additional component added to a cluster, security risks can present themselves. A security risk example is if the deployment and management of the admission controller are not handled correctly. To help admission controller users and designers manage these risks appropriately, the security documentation subgroup of SIG Security has spent some time developing a threat model f…",
+          "link": "https://kubernetes.io/blog/2022/01/19/secure-your-admission-controllers-and-webhooks/",
+          "publishedOn": "2022-01-19T00:00:00.000Z",
+          "wordCount": 4028,
+          "title": "Blog: Securing Admission Controllers"
+        },
         {
           "id": "https://kubernetes.io/blog/2022/01/10/meet-our-contributors-india-ep-01/",
           "author": null,
@@ -2955,6 +3027,24 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185158",
+          "author": "Matt Wales",
+          "description": "The Creative Assembly's much-loved historical strategy game Total War: Medieval 2 is making its way to iOS and Android devices sometime this spring.\nThe original Total War: Medieval 2 released for PC all the way back in 2006, giving players control of a medieval faction and the tools of government, military, economy, diplomacy, and religion required to shape its historical course across three continents.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-18-sega-bringing-total-war-medieval-2-to-ios-and-android-devices-this-spring",
+          "publishedOn": "2022-01-18T23:25:00.000Z",
+          "wordCount": 928,
+          "title": "Sega bringing Total War: Medieval 2 to iOS and Android devices this \"spring\""
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185151",
+          "author": "Matt Wales",
+          "description": "The ABK Workers Alliance - a group of Activision Blizzard employees that has continued to push for major workplace reforms following last year's shocking reports detailing a culture of alleged sexual harassment, assault, and inappropriate behaviour at the company - has responded to today's news that Microsoft is buying the publisher, saying that while the move is \"surprising\", it does not change the group's goals.\nThe ABK Workers Alliance was established last summer, in response to a State of California lawsuit calling Activision Blizzard a \"breeding ground for harassment and discrimination against women\". Since then, the group has continued its mission to push for change at the publisher, launching a bid for unionisation, setting up a Strike Fund for employees, and calling for the removal (alongside the 1,800 employees that signed a related petition) of controversial CEO Bobby Kotick - who was said to have been aware of the allegations of sexual misconduct and mistreatment of female employees across many parts of the company \"for years\" in a damning Wall Street Journal report released in November.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-18-activision-blizzard-workers-alliance-says-microsoft-news-surprising-but-does-not-change-its-goals",
+          "publishedOn": "2022-01-18T20:30:00.000Z",
+          "wordCount": 1235,
+          "title": "Activision Blizzard Workers Alliance says Microsoft news \"surprising, but does not change\" its goals"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2185140",
           "author": "Tom Phillips",
@@ -4790,24 +4880,6 @@
           "publishedOn": "2021-12-20T13:54:00.000Z",
           "wordCount": 1010,
           "title": "PC gamers are already modding Final Fantasy 7 Remake"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2181745",
-          "author": "Ishraq Subhan",
-          "description": "The first season of Battlefield 2042 won't be released until March next year at the earliest. \nThat's according to Battlefield dataminer temporyal, who reportedly found 12 weeks of pre-season weekly challenges in the game client.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-20-battlefield-2042s-first-season-reportedly-wont-be-released-until-march-2022",
-          "publishedOn": "2021-12-20T11:18:00.000Z",
-          "wordCount": 939,
-          "title": "Battlefield 2042's first season reportedly won't be released until March 2022"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2181731",
-          "author": "Ishraq Subhan",
-          "description": "PlayStation Plus subscribers who previously redeemed a digital copy of Final Fantasy 7 Remake will be able to upgrade to the PlayStation 5 version from Wednesday at no extra cost. \nThe enhanced version released in June and was a free upgrade for paid owners of the game, but not for players who scored their copy through PlayStation Plus.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2021-12-20-ps-plus-owners-of-final-fantasy-7-remake-get-free-ps5-upgrade-this-week",
-          "publishedOn": "2021-12-20T10:03:00.000Z",
-          "wordCount": 900,
-          "title": "PS Plus owners of Final Fantasy 7 Remake get free PS5 upgrade this week"
         }
       ]
     }
