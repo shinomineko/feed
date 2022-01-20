@@ -112,15 +112,6 @@
           "publishedOn": "2021-12-24T00:00:00.000Z",
           "wordCount": 205,
           "title": "December 25th Launch"
-        },
-        {
-          "id": "https://xkcd.com/2558/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/rapid_test_results.png\" title=\"A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.\" alt=\"A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.\" />",
-          "link": "https://xkcd.com/2558/",
-          "publishedOn": "2021-12-22T00:00:00.000Z",
-          "wordCount": 205,
-          "title": "Rapid Test Results"
         }
       ]
     },
@@ -146,15 +137,6 @@
           "publishedOn": "2021-12-31T00:00:00.000Z",
           "wordCount": 49,
           "title": "Transition to 2022"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2021/app-types-as-homes/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2021/app-types-as-homes/",
-          "publishedOn": "2021-12-22T00:00:00.000Z",
-          "wordCount": 55,
-          "title": "App Types as Homes"
         }
       ]
     },
@@ -169,6 +151,15 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/01/san-francisco-police-illegally-spying-on-protesters.html",
+          "author": null,
+          "description": "<p>Last summer, the San Francisco police illegally used surveillance cameras at the George Floyd protests. The EFF is <a href=\"https://www.eff.org/cases/williams-v-san-francisco\">suing</a> the police:</p>\n<blockquote><p>This surveillance invaded the privacy of protesters, targeted people of color, and chills and deters participation and organizing for future protests. The SFPD also violated San Francisco&#8217;s new Surveillance Technology <a href=\"https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_admin/0-0-0-47320\">Ordinance</a>. It prohibits city agencies like the SFPD from acquiring, borrowing, or using surveillance technology, without prior approval from the city&#8217;s Board of Supervisors, following an open process that includes public participation. Here, the SFPD went through no such process before spying on protesters with this network of surveillance cameras...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/01/san-francisco-police-illegally-spying-on-protesters.html",
+          "publishedOn": "2022-01-20T12:13:24.000Z",
+          "wordCount": 780,
+          "title": "San Francisco Police Illegally Spying on Protesters"
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/01/are-fake-covid-testing-sites-harvesting-data.html",
           "author": null,
@@ -2965,24 +2956,6 @@
           "publishedOn": "2021-12-22T00:29:06.000Z",
           "wordCount": 760,
           "title": "OnHub router support to end in 2022; Google points users to Nest Wifi instead"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1822127",
-          "author": "Tim De Chant",
-          "description": "Aircraft manufacturers claim 5G radio signals will interfere with altimeters.",
-          "link": "https://arstechnica.com/?p=1822127",
-          "publishedOn": "2021-12-21T21:05:42.000Z",
-          "wordCount": 945,
-          "title": "Boeing, Airbus wade into 5G scuffle, ask Biden admin to delay rollout"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1822083",
-          "author": "Eric Bangeman",
-          "description": "President Biden outlined the federal government's response to omicron's ascendancy.",
-          "link": "https://arstechnica.com/?p=1822083",
-          "publishedOn": "2021-12-21T19:48:20.000Z",
-          "wordCount": 805,
-          "title": "Biden’s omicron battle plan includes 500 million home test kits"
         }
       ]
     },
@@ -3033,15 +3006,6 @@
           "publishedOn": "2022-01-07T00:00:00.000Z",
           "wordCount": 3926,
           "title": "Blog: Kubernetes is Moving on From Dockershim: Commitments and Next Steps"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2021/12/22/kubernetes-in-kubernetes-and-pxe-bootable-server-farm/",
-          "author": null,
-          "description": "Author: Andrei Kvapil (WEDOS)\nWhen you own two data centers, thousands of physical servers, virtual machines and hosting for hundreds of thousands sites, Kubernetes can actually simplify the management of all these things. As practice has shown, by using Kubernetes, you can declaratively describe and manage not only applications, but also the infrastructure itself. I work for the largest Czech hosting provider WEDOS Internet a.s and today I'll show you two of my projects — Kubernetes-in-Kubernetes and Kubefarm.\nWith their help you can deploy a fully working Kubernetes cluster inside another Kubernetes using Helm in just a couple of commands. How and why?\nLet me introduce you to how our infrastructure works. All our physical servers can be divided into two groups: control-plane and compute …",
-          "link": "https://kubernetes.io/blog/2021/12/22/kubernetes-in-kubernetes-and-pxe-bootable-server-farm/",
-          "publishedOn": "2021-12-22T00:00:00.000Z",
-          "wordCount": 6266,
-          "title": "Blog: Kubernetes-in-Kubernetes and the WEDOS PXE bootable server farm"
         }
       ]
     },
@@ -3108,6 +3072,60 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185429",
+          "author": "Tom Phillips",
+          "description": "A selection of OG Xbox titles are also cheap, including Max Payne, Red Faction 2 and TimeSplitters 2. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-20-microsofts-big-back-compat-sale-has-over-100-xbox-360-games-cheap",
+          "publishedOn": "2022-01-20T12:05:00.000Z",
+          "wordCount": 772,
+          "title": "Microsoft's big back compat sale has over 100 Xbox 360 games cheap"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185420",
+          "author": "Ed Nightingale",
+          "description": "A group of Chinese players has analysed the map used in the Elden Ring beta test to uncover secrets about the game.\nThe highly anticipated game is due out next month, with fans eager to learn more about The Lands Between.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-20-chinese-players-discover-elden-ring-secrets-hidden-in-the-beta-test-map",
+          "publishedOn": "2022-01-20T11:49:00.000Z",
+          "wordCount": 839,
+          "title": "Chinese players discover Elden Ring hints hidden in beta test map"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185414",
+          "author": "Tom Phillips",
+          "description": "In a blog post today, the publisher said its new season launch was being postponed by two weeks, from 2nd to 14th February. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-20-call-of-duty-warzone-and-vanguard-season-two-delayed",
+          "publishedOn": "2022-01-20T11:29:00.000Z",
+          "wordCount": 1000,
+          "title": "Call of Duty Warzone and Vanguard season two delayed"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185392",
+          "author": "Matthew Reynolds",
+          "description": "Playdate's Pulp, a creation tool allowing you to make your own games for the upcoming handheld with a crank, is now available in open beta.\nThe software, which is free to use, allows players to create and test games in a web browser before exporting them to use on a Playdate when it launches later this year.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-20-you-can-now-make-your-own-playdate-games",
+          "publishedOn": "2022-01-20T11:01:00.000Z",
+          "wordCount": 883,
+          "title": "You can now make your own Playdate games in a web browser"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185404",
+          "author": "Ed Nightingale",
+          "description": "Inclusivity is set to be a major aspect of Songs of Glimmerwick, the newly-announced RPG from developer Eastshade Studios.\nLike a mash-up of Harry Potter and Stardew Valley, the game is set in a magical school and features a mix of RPG style quests and life-sim aspects like school lessons, gardening and more. Oh, and magic is performed through music. Neat!\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-20-eastshades-songs-of-glimmerwick-to-feature-inclusive-character-creator",
+          "publishedOn": "2022-01-20T11:00:00.000Z",
+          "wordCount": 855,
+          "title": "Eastshade's Songs of Glimmerwick to feature inclusive character creator"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2185398",
+          "author": "Tom Phillips",
+          "description": "Sony has responded to this week's industry-shaking news that Microsoft is buying Call of Duty publisher Activision Blizzard, and said it expects Microsoft to \"ensure Activision games are multiplatform\".\nThe brief statement, issued to the Wall St Journal, is Sony's first comment on the deal.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-01-20-sony-says-it-expects-microsoft-to-ensure-activision-games-are-multiplatform",
+          "publishedOn": "2022-01-20T10:54:00.000Z",
+          "wordCount": 975,
+          "title": "Sony says it expects Microsoft to \"ensure Activision games are multiplatform\""
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2185351",
           "author": "Matt Wales",
