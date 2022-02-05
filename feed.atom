@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-05T06:24:24.934Z</updated>
+    <updated>2022-02-05T12:26:58.243Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A fight over the right to repair cars turns ugly]]></title>
+        <id>https://arstechnica.com/?p=1831825</id>
+        <link href="https://arstechnica.com/?p=1831825"/>
+        <updated>2022-02-05T11:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Massachusetts Subaru and Kia dealers disabled remote start and maintenance alerts.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Orville: New Horizons jumps 400 years into the future in teaser footage]]></title>
         <id>https://arstechnica.com/?p=1831893</id>
@@ -8656,156 +8666,6 @@ Some kind of digital offering may be held instead - as it was last year - but ev
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latency]]></title>
-        <id>https://xkcd.com/2565/</id>
-        <link href="https://xkcd.com/2565/"/>
-        <updated>2022-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/latency.png" title="Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'" alt="Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes is Moving on From Dockershim: Commitments and Next Steps]]></title>
-        <id>https://kubernetes.io/blog/2022/01/07/kubernetes-is-moving-on-from-dockershim/</id>
-        <link href="https://kubernetes.io/blog/2022/01/07/kubernetes-is-moving-on-from-dockershim/"/>
-        <updated>2022-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Sergey Kanzhelev (Google), Jim Angel (Google), Davanum Srinivas (VMware), Shannon Kularathna (Google), Chris Short (AWS), Dawn Chen (Google)
-Kubernetes is removing dockershim in the upcoming v1.24 release. We're excited
-to reaffirm our community values by supporting open source container runtimes,
-enable a smaller kubelet, and increase engineering velocity for teams using
-Kubernetes. If you use Docker Engine as a Container Runtime
-for your Kubernetes cluster, get ready to migrate to 1.24! To check if you're
-affected, refer to Check whether dockershim deprecation affects you.
-Why we’re moving away from dockershim
-Docker was the first container runtime used by Kubernetes. This is one of the
-reasons why Docker is so familiar to many Kubernetes users and enthusiasts.
-As containerizati…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study: 1960 ramjet design for interstellar travel—a sci-fi staple—is unfeasible]]></title>
-        <id>https://arstechnica.com/?p=1821917</id>
-        <link href="https://arstechnica.com/?p=1821917"/>
-        <updated>2022-01-06T23:59:29.000Z</updated>
-        <summary type="html"><![CDATA["It is very unlikely that even Kardashev civilizations of type II might build magnetic ramjets."]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lawsuit: Facebook recommendations helped extremists meet and plan murder]]></title>
-        <id>https://arstechnica.com/?p=1824337</id>
-        <link href="https://arstechnica.com/?p=1824337"/>
-        <updated>2022-01-06T23:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Facebook sued by sister of federal security officer shot to death at protest.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop stock takes off as plans for NFT marketplace come into focus]]></title>
-        <id>https://arstechnica.com/?p=1824353</id>
-        <link href="https://arstechnica.com/?p=1824353"/>
-        <updated>2022-01-06T23:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Two of 2021's weirdest trends come together to start 2022.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omicron is not mild and is crushing health care systems worldwide, WHO warns]]></title>
-        <id>https://arstechnica.com/?p=1824343</id>
-        <link href="https://arstechnica.com/?p=1824343"/>
-        <updated>2022-01-06T22:46:52.000Z</updated>
-        <summary type="html"><![CDATA["Just like previous variants, omicron is hospitalizing people, and it is killing people."]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung shows off foldable laptop, tablet, and smartphone concepts at CES]]></title>
-        <id>https://arstechnica.com/?p=1824122</id>
-        <link href="https://arstechnica.com/?p=1824122"/>
-        <updated>2022-01-06T22:33:07.000Z</updated>
-        <summary type="html"><![CDATA[After the success of the Galaxy Fold, Samsung shows off more ambitious designs.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 makes months-in-advance call to skip convention hall in 2022, go “virtual” [Updated]]]></title>
-        <id>https://arstechnica.com/?p=1824320</id>
-        <link href="https://arstechnica.com/?p=1824320"/>
-        <updated>2022-01-06T22:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Official statement cites COVID-19; at least one journalist says otherwise.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac architecture lead Jeff Wilcox defects to Intel to design new SoCs]]></title>
-        <id>https://arstechnica.com/?p=1824221</id>
-        <link href="https://arstechnica.com/?p=1824221"/>
-        <updated>2022-01-06T21:26:36.000Z</updated>
-        <summary type="html"><![CDATA[It's a homecoming for Wilcox, who left Intel for Apple in 2013.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo announces an ultrawide laptop with an extra screen]]></title>
-        <id>https://arstechnica.com/?p=1824202</id>
-        <link href="https://arstechnica.com/?p=1824202"/>
-        <updated>2022-01-06T20:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Laptop screens seldom come this wide.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonfall trailer is gloriously ridiculous]]></title>
-        <id>https://arstechnica.com/?p=1824180</id>
-        <link href="https://arstechnica.com/?p=1824180"/>
-        <updated>2022-01-06T20:35:01.000Z</updated>
-        <summary type="html"><![CDATA["If the Moon really is what you think it is—suit up."]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus takes a page from Lenovo with new foldable PC]]></title>
-        <id>https://arstechnica.com/?p=1824120</id>
-        <link href="https://arstechnica.com/?p=1824120"/>
-        <updated>2022-01-06T19:23:42.000Z</updated>
-        <summary type="html"><![CDATA[It's like a 17.3-inch OLED tablet that can fold in half.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM readies Qualcomm-powered Ultra Cruise driver assistance for 2023 launch]]></title>
-        <id>https://arstechnica.com/?p=1824227</id>
-        <link href="https://arstechnica.com/?p=1824227"/>
-        <updated>2022-01-06T19:08:08.000Z</updated>
-        <summary type="html"><![CDATA[The Snapdragon Ride Platform uses Qualcomm's 5 nm SoCs.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France orders Google and Facebook to offer one-click cookie rejection]]></title>
-        <id>https://arstechnica.com/?p=1824167</id>
-        <link href="https://arstechnica.com/?p=1824167"/>
-        <updated>2022-01-06T18:29:36.000Z</updated>
-        <summary type="html"><![CDATA[France fines Google and Facebook €210M, says complex cookie opt-outs are illegal.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
         </author>
     </entry>
 </feed>
