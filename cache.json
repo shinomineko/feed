@@ -179,6 +179,15 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/02/on-the-irish-health-services-executive-hack.html",
+          "author": null,
+          "description": "<p>A detailed <a href=\"https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf\">report</a> of the 2021 ransomware attack against Ireland’s Health Services Executive lists some <a href=\"https://thestack.technology/pwc-hse-hack-post-incident-report/\">really bad security practices</a>:</p>\n<blockquote><p>The report notes that:</p>\n<ul>\n<li>The HSE did not have a Chief Information Security Officer (CISO) or a “single responsible owner for cybersecurity at either senior executive or management level to provide leadership and direction.\n<li>It had no documented cyber incident response runbooks or IT recovery plans (apart from documented AD recovery plans) for recovering from a wide-scale ransomware event.\n<li>Under-resourced Information Security Managers were not performing their business as usual role (including a NIST-based cybersecurity review of systems) but were working on evaluating security controls for the COVID-19 vaccination system. Antivirus software triggered numerous alerts after detecting Cobalt Strike activity but these were not escalated. (The antivirus server was later encrypted in the attack).\n...</li></li></li></ul></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/02/on-the-irish-health-services-executive-hack.html",
+          "publishedOn": "2022-02-11T12:17:53.000Z",
+          "wordCount": 620,
+          "title": "On the Irish Health Services Executive Hack"
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/02/bunnie-huangs-plausibly-deniable-database.html",
           "author": null,
           "description": "<p>Bunnie Huang has <a href=\"https://www.bunniestudios.com/blog/?p=6307\">created</a> a Plausibly Deniable Database.</p>\n<blockquote><p>Most security schemes facilitate the coercive processes of an attacker because they disclose metadata about the secret data, such as the name and size of encrypted files. This allows specific and enforceable demands to be made: “Give us the passwords for these three encrypted files with names A, B and C, or else…”. In other words, security often focuses on protecting the confidentiality of data, but lacks deniability.</p>\n<p>A scheme with deniability would make even the existence of secret files difficult to prove. This makes it difficult for an attacker to formulate a coherent demand: “There’s no evidence of undisclosed data. Should we even bother to make threats?” A lack of evidence makes it more difficult to make specific and enforceable demands...</p></blockquote>",
@@ -401,6 +410,24 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1832351",
+          "author": "Eric Berger",
+          "description": "\"How can the government better leverage your commercial conops?\"",
+          "link": "https://arstechnica.com/?p=1832351",
+          "publishedOn": "2022-02-11T12:00:14.000Z",
+          "wordCount": 2040,
+          "title": "Rocket Report: Astra launch fails, Georgia spaceport comes to a vote"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1833417",
+          "author": "Dan Goodin",
+          "description": "Magecart hackers strike again.",
+          "link": "https://arstechnica.com/?p=1833417",
+          "publishedOn": "2022-02-11T11:15:24.000Z",
+          "wordCount": 933,
+          "title": "Hundreds of e-commerce sites booby-trapped with payment card skimming malware"
+        },
         {
           "id": "https://arstechnica.com/?p=1833253",
           "author": "Jennifer Ouellette",
@@ -3622,69 +3649,6 @@
           "publishedOn": "2022-01-13T12:30:56.000Z",
           "wordCount": 1106,
           "title": "Immune system vs. virus: Why omicron had experts worried from the start"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825509",
-          "author": "Jennifer Ouellette",
-          "description": "It's based on popular Critical Role web series; S1 funded by Kickstarter campaign.",
-          "link": "https://arstechnica.com/?p=1825509",
-          "publishedOn": "2022-01-12T22:53:08.000Z",
-          "wordCount": 1179,
-          "title": "Prime Video releases red-band trailer for Legend of Vox Machina animated series"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825547",
-          "author": "Beth Mole",
-          "description": "The best mask is the one Americans will actually wear, CDC director says.",
-          "link": "https://arstechnica.com/?p=1825547",
-          "publishedOn": "2022-01-12T22:25:58.000Z",
-          "wordCount": 917,
-          "title": "CDC to update advice on best masks—but just wants you to wear one, any of them"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825354",
-          "author": "Ron Amadeo",
-          "description": "Sony's small phone has a headphone jack and a microSD slot.",
-          "link": "https://arstechnica.com/?p=1825354",
-          "publishedOn": "2022-01-12T21:47:21.000Z",
-          "wordCount": 804,
-          "title": "Sony brings a compact, flagship smartphone to the US"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825371",
-          "author": "Andrew Cunningham",
-          "description": "PCIe 6.0 will provide up to 256GB/s of bandwidth for next-gen servers and PCs.",
-          "link": "https://arstechnica.com/?p=1825371",
-          "publishedOn": "2022-01-12T19:17:17.000Z",
-          "wordCount": 865,
-          "title": "PCIe 5.0 is just beginning to come to new PCs, but version 6.0 is already here"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825357",
-          "author": "Jonathan M. Gitlin",
-          "description": "People say only enthusiasts care about steering feel, but that's not true.",
-          "link": "https://arstechnica.com/?p=1825357",
-          "publishedOn": "2022-01-12T19:09:40.000Z",
-          "wordCount": 793,
-          "title": "Here’s why modern cars feel so lifeless to drive"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825443",
-          "author": "Jon Brodkin",
-          "description": "Fraudulent QR codes on parking meters found in Houston, Austin, and San Antonio.",
-          "link": "https://arstechnica.com/?p=1825443",
-          "publishedOn": "2022-01-12T18:42:45.000Z",
-          "wordCount": 809,
-          "title": "Scammers put fake QR codes on parking meters to intercept parkers’ payments"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825385",
-          "author": "Kyle Orland",
-          "description": "Apple is belatedly purging copies that were clogging up the iOS App Store.",
-          "link": "https://arstechnica.com/?p=1825385",
-          "publishedOn": "2022-01-12T18:36:26.000Z",
-          "wordCount": 1074,
-          "title": "Wordle and IP law: What happens when a hot game gets cloned"
         }
       ]
     },
@@ -3783,6 +3747,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189099",
+          "author": "Ed Nightingale",
+          "description": "A Russian teenager who allegedly planned to blow up an FSB security service building in Minecraft has been sentenced to five years in prison.\nThe teen, 16-year-old Nikita Uvarov, has been charged with training for terrorist activities by a Siberian military court.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-russian-teenager-jailed-for-plot-to-blow-up-fsb-building-in-minecraft",
+          "publishedOn": "2022-02-11T12:09:00.000Z",
+          "wordCount": 882,
+          "title": "Russian teenager jailed for plot to blow up FSB building in Minecraft"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189096",
+          "author": "Tom Phillips",
+          "description": "Nintendo hacker Gary Bowser has been sentenced to serve 40 months in prison - so, three years and four months total - for the distribution and sale of piracy-enabling devices. \nThe ruling comes after both Bowser and US prosecutors respectively petitioned for both more lenient and heavier jail stretches. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-gary-bowser-gets-more-than-three-years-in-jail",
+          "publishedOn": "2022-02-11T12:00:00.000Z",
+          "wordCount": 829,
+          "title": "Nintendo hacker Gary Bowser sentenced to over three years in jail"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2188422",
+          "author": "Ed Nightingale",
+          "description": "\"Surreal.\" That's how Maggie Robertson, the actress behind Resident Evil Village's Lady Dimitrescu, describes the fan reaction to her performance.\nBut then it must be. The \"step on me's\". The \"mommy's\". Being known as the tall vampire lady. Becoming an icon.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-08-the-making-of-an-icon-maggie-robertson-on-becoming-lady-dimitrescu",
+          "publishedOn": "2022-02-11T12:00:00.000Z",
+          "wordCount": 1963,
+          "title": "The making of an icon: Maggie Robertson on becoming Lady Dimitrescu"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189093",
+          "author": "Victoria Kennedy",
+          "description": "Grounded has now seen 10 million players shrinking themselves down in size and taking on the perils of the backyard.\nIn a wholesome video, Obsidian Entertainment revealed its delight at hitting this impressive milestone. Grounded game director Adam Brennecke stated: \"the team is so overwhelmed with the amount of support and how much the community has grown over the last year and a half. It means the world to us\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-grounded-dev-celebrates-10m-players-in-its-backyard",
+          "publishedOn": "2022-02-11T11:43:00.000Z",
+          "wordCount": 820,
+          "title": "Grounded dev celebrates 10m players in its backyard"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189084",
+          "author": "Tom Phillips",
+          "description": "Hit puzzle game Wordle has moved to become part of New York Times, and users have complained this shift has reset their treasured play streaks.\nThe change follows the publication's purchase of the puzzler for a seven-figure sum, and has seen it transfer onto the New York Times website. (The old link will now autodirect for existing players.) The game's logo has also been redesigned.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-wordle-has-moved-to-new-york-times-and-reset-everyones-streaks",
+          "publishedOn": "2022-02-11T11:25:00.000Z",
+          "wordCount": 898,
+          "title": "Wordle has moved to New York Times, and reset streaks"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189081",
+          "author": "Ed Nightingale",
+          "description": "An elderly woman who was held hostage in her home has said she was saved by Wordle, after she failed to send her daughter her usual attempt at the daily puzzle.\nA 32-year-old man from Lincolnwood, Illinois was arrested by police after they were called to do a wellness check at the woman's home.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-elderly-woman-held-hostage-is-saved-by-wordle",
+          "publishedOn": "2022-02-11T11:09:00.000Z",
+          "wordCount": 915,
+          "title": "Elderly woman held hostage saved by Wordle"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2188879",
+          "author": "Wesley Yin-Poole",
+          "description": "The original Halo music composers are suing Microsoft over unpaid royalties, Eurogamer can reveal.\nMarty O'Donnell and Mike Salvatori, who created the iconic Halo music used in the Bungie-developed Halo games and more Halo products, claim Microsoft still owes them money relating to royalties dating back 20 years.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-10-original-halo-music-composers-threaten-to-try-to-block-tv-show-amid-lawsuit-with-microsoft-over-unpaid-royalties",
+          "publishedOn": "2022-02-11T10:59:00.000Z",
+          "wordCount": 2894,
+          "title": "Original Halo composers sue Microsoft over unpaid royalties dating back 20 years"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189073",
+          "author": "Victoria Kennedy",
+          "description": "Prolific voice actor Nolan North will be voicing Nathan Drake once more, as he brings his golden pipes to the upcoming novelisation of the Uncharted movie starring Tom Holland.\nSo, yes, that means that Nathan Drake Snr will be voicing Nathan Drake Jnr, like some sort of Uncharted multiverse. Now that is fan service! \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-nolan-north-is-voicing-nathan-drake-again",
+          "publishedOn": "2022-02-11T10:58:00.000Z",
+          "wordCount": 935,
+          "title": "Nolan North voicing novelisation of Tom Holland's Uncharted movie"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189074",
+          "author": "Ed Nightingale",
+          "description": "Twitch has updated its username policy to remove hateful words and curb harassment.\nUsernames with abusive terms are often used to harass streamers, particularly those from minority communities.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-twitch-updates-username-policy-to-remove-hateful-words",
+          "publishedOn": "2022-02-11T10:38:00.000Z",
+          "wordCount": 907,
+          "title": "Twitch updates username policy to remove hateful words"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189070",
+          "author": "Tom Phillips",
+          "description": "It's Friday, so here's another episode of the Eurogamer Newscast for you to settle down with while pretending to work or over your weekend. In this episode, we discuss and digest this week's meaty Nintendo Direct broadcast and everything it served up. \nJoining me this week are Eurogamer's reporting team of Ed Nightingale, Victoria Kennedy and Ishraq Subhan, chatting about the whopping 48 tracks coming to Mario Kart 8 Deluxe, plus new Fire Emblem, Xenoblade Chronicles and Wii Sports (which yes, does include Miis). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-11-eurogamer-newscast-nintendo-direct-digested",
+          "publishedOn": "2022-02-11T10:29:00.000Z",
+          "wordCount": 776,
+          "title": "Eurogamer Newscast: Nintendo Direct Digested"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2189017",
           "author": "Matt Wales",
@@ -7283,33 +7337,6 @@
           "publishedOn": "2022-01-13T10:28:00.000Z",
           "wordCount": 856,
           "title": "An iconic real-life track is returning to Gran Turismo"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184332",
-          "author": "Matt Wales",
-          "description": "PUBG: Battlegrounds is now free-to-play, and the gambit appears to be going well so far, with the popular battle royale shooter having peaked at 669k concurrent players on Steam earlier today, meaning it came close to doubling December's figures.\nAs noted by industry analyst Daniel Ahmad on Twitter, PUBG saw its concurrent peak player count climb to 668,707 on Steam following its shift to free-to-play earlier today, beating its previous two month highs by more than 300k players.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-12-pubg-nearly-doubles-its-concurrent-player-count-on-steam-following-move-to-free-to-play",
-          "publishedOn": "2022-01-12T23:05:00.000Z",
-          "wordCount": 1033,
-          "title": "PUBG nearly doubles concurrent player count on Steam following move to free-to-play"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184328",
-          "author": "Matt Wales",
-          "description": "Sony has reportedly told UK retailers they can no longer sell PlayStation Now cards - which can be used to purchase fixed subscription periods for the company's games streaming and download service - in stores from 21st January, amid persistent claims it's readying to launch an expanded version of PlayStation Plus.\nThat's according to a new report by VentureBeat's Jeff Grub, who shares a recent email circulated to store staff by senior management at UK retailer Game as an example of the move. \"Stores have until the close of day Wednesday 19, January to remove all POS and ESD cards from all customer-facing areas and update their digital bays in line with this week's upcoming commercial update\", the message reads.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-12-sony-reportedly-pulling-playstation-now-subscription-cards-from-uk-retailers",
-          "publishedOn": "2022-01-12T21:24:00.000Z",
-          "wordCount": 1115,
-          "title": "Sony reportedly pulling PlayStation Now subscription cards from UK retailers"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184322",
-          "author": "Matt Wales",
-          "description": "Following reports earlier this week that Lucid Games, the UK developer behind Destruction All-Stars, was no longer working on a new Twisted Metal game for Sony as previously claimed, a new report has suggested it's now being handled by first-party PlayStation studio Firesprite Games, which only recently saw the director of MotorStorm join its ranks.\nWord of a new entry in the Twisted Metal series first emerged last September, when GamesBeat journalist Jeff Grubb claimed the project was in early development. Shortly after, reports suggested Destruction All-Stars developer Lucid Games had landed the gig and that this latest instalment would be turning the car combat series into a free-to-play game.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-12-new-twisted-metal-game-reportedly-now-being-handled-by-sonys-firesprite-studio",
-          "publishedOn": "2022-01-12T19:04:00.000Z",
-          "wordCount": 992,
-          "title": "New Twisted Metal game reportedly now being handled by Sony's Firesprite studio"
         }
       ]
     }
