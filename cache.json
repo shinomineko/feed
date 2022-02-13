@@ -393,15 +393,6 @@
           "publishedOn": "2022-01-14T18:02:41.000Z",
           "wordCount": 390,
           "title": "Upcoming Speaking Engagements"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/01/using-em-waves-to-detect-malware.html",
-          "author": null,
-          "description": "<p>I don&#8217;t even know what I think about this. Researchers have developed a malware detection system that uses EM waves: &#8220;<a href=\"https://dl.acm.org/doi/abs/10.1145/3485832.3485894\">Obfuscation Revealed: Leveraging Electromagnetic Signals for Obfuscated Malware Classification</a>.&#8221;</p>\n<blockquote><p><b>Abstract</b>: The Internet of Things (IoT) is constituted of devices that are exponentially growing in number and in complexity. They use numerous customized firmware and hardware, without taking into consideration security issues, which make them a target for cybercriminals, especially malware authors.</p>\n<p>We will present a novel approach of using side channel information to identify the kinds of threats that are targeting the device. Using our approach, a malware analyst is able to obtain precise knowledge about malware type and identity, even in the presence of obfuscation techniques which may prevent static or symbolic binary analysis. We recorded 100,000 measurement traces from an IoT device infected by various in-the-wild malware samples and realistic benign activity. Our method does not require any modification on the target device. Thus, it can be deployed independently from the resources available without any overhead. Moreover, our approach has the advantage that it can hardly be detected and evaded by the malware authors. In our experiments, we were able to predict three generic malware types (and one benign class) with an accuracy of 99.82%. Even more, our results show that we are able to classify altered malware samples with unseen obfuscation techniques during the training phase, and to determine what kind of obfuscations were applied to the binary, which makes our approach particularly useful for malware analysts...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/01/using-em-waves-to-detect-malware.html",
-          "publishedOn": "2022-01-14T12:13:47.000Z",
-          "wordCount": 587,
-          "title": "Using EM Waves to Detect Malware"
         }
       ]
     },
@@ -410,6 +401,15 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1832888",
+          "author": "Jennifer Ouellette",
+          "description": "The series never really figured out whose story it wanted to tell. This is not the way.",
+          "link": "https://arstechnica.com/?p=1832888",
+          "publishedOn": "2022-02-12T20:27:52.000Z",
+          "wordCount": 1807,
+          "title": "Review: The Book of Boba Fett is lots of fun but it’s really The Mandalorian 2.5"
+        },
         {
           "id": "https://arstechnica.com/?p=1833708",
           "author": "Ars Staff",
@@ -3595,24 +3595,6 @@
           "publishedOn": "2022-01-14T15:55:47.000Z",
           "wordCount": 1211,
           "title": "Ukraine says government websites hit by “massive cyber attack”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1824584",
-          "author": "Eric Berger",
-          "description": "\"We made decisions, understanding that there would be great risks.\"",
-          "link": "https://arstechnica.com/?p=1824584",
-          "publishedOn": "2022-01-14T12:00:37.000Z",
-          "wordCount": 1814,
-          "title": "Rocket Report: Neutron may land in Virginia; it’s to be Starship for Starlink"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1825792",
-          "author": "Sam Machkovech",
-          "description": "Coincides with service's February 1 shift to a Windows-only launcher.",
-          "link": "https://arstechnica.com/?p=1825792",
-          "publishedOn": "2022-01-14T11:00:24.000Z",
-          "wordCount": 1102,
-          "title": "Humble subscription service is dumping Mac, Linux access in 18 days"
         }
       ]
     },
@@ -7255,69 +7237,6 @@
           "publishedOn": "2022-01-14T14:32:00.000Z",
           "wordCount": 828,
           "title": "Looks like PS5, Xbox Series X/S versions of Apex Legends could launch soon"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184603",
-          "author": "Ed Nightingale",
-          "description": "Insomniac has teased an Easter egg in Ratchet & Clank: Rift Apart that's yet to be discovered.\nThe developer tweeted out the tease along with a TikTok video that's since been removed, though shared elsewhere.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-insomniac-teases-museum-easter-egg-in-ratchet-and-clank-rift-apart",
-          "publishedOn": "2022-01-14T12:28:00.000Z",
-          "wordCount": 794,
-          "title": "Insomniac teases museum Easter egg in Ratchet & Clank: Rift Apart"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184602",
-          "author": "Tom Phillips",
-          "description": "Crytek has requested the removal of a Crysis Remastered photo mode mod that was hosted by its developer behind a Patreon paywall. \nNumerous modding projects for Crysis Remastered exist without issue, but Crytek has said it stepped in here due to the project being monetised. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-crytek-requests-removal-of-crysis-photo-mode-mod-hosted-on-patreon",
-          "publishedOn": "2022-01-14T12:26:00.000Z",
-          "wordCount": 1077,
-          "title": "Crytek requests removal of Crysis Remastered photo mode mod hosted on Patreon"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184591",
-          "author": "Tom Phillips",
-          "description": "Disney and Tencent have announced Avatar: Reckoning, a new MMORPG set on Pandora for iOS and Android devices due for launch this year. \nYou'll be able to play Avatar: Reckoning in three modes: via single-player story missions, PVP or co-op, as you explore \"never-before-seen parts\" of Avatar's world. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-disney-announces-avatar-mmorpg-in-the-works",
-          "publishedOn": "2022-01-14T11:47:00.000Z",
-          "wordCount": 793,
-          "title": "Disney and Tencent announce Avatar MMORPG"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184582",
-          "author": "Tom Phillips",
-          "description": "Ken Levine, creator of BioShock, has discussed his view of ditching writing he deems not to have worked - and described it as a \"luxury\". \nThis week, Levine appeared on a fresh podcast to discuss his career and ongoing work at Ghost Story Games - Levine's current studio which was focus of a critical report earlier in the month. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-bioshock-creator-discusses-luxury-of-throwing-out-work",
-          "publishedOn": "2022-01-14T11:25:00.000Z",
-          "wordCount": 993,
-          "title": "BioShock creator Ken Levine discusses \"luxury\" of throwing out work"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184576",
-          "author": "Ed Nightingale",
-          "description": "YouTuber Logan Paul has wasted $3.5m on fake Pokémon cards.\nLast month the influencer boasted about \"dropping\" the cash on what he believed was a \"sealed & authenticated box of 1st Edition Pokémon cards\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-youtuber-logan-paul-wastes-usd3-5m-on-fake-pokemon-cards",
-          "publishedOn": "2022-01-14T11:22:00.000Z",
-          "wordCount": 895,
-          "title": "YouTuber Logan Paul wastes $3.5m on fake Pokémon cards"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184569",
-          "author": "Ed Nightingale",
-          "description": "Final Fantasy 14 will be back on sale for new players later this month.\nFollowing the release of the Endwalker expansion, Square Enix removed the base game from digital sales as it was proving too popular for the servers to cope.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-final-fantasy-14-back-on-sale-later-this-month",
-          "publishedOn": "2022-01-14T10:37:00.000Z",
-          "wordCount": 1064,
-          "title": "Final Fantasy 14 back on sale later this month"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2184568",
-          "author": "Tom Phillips",
-          "description": "Troy Baker, one of the most high-profile and prolific voice actors in video games, star of The Last of Us, BioShock Infinite and Fortnite, is now promoting NFTs. \nBaker, whose voice can be heard in hundreds of games, announced this morning via Twitter that he was partnering with VoiceverseNFT, a company which describes itself as providing \"the world's first VoiceNFTs\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-14-video-game-voice-actor-troy-baker-is-now-promoting-nfts",
-          "publishedOn": "2022-01-14T10:37:00.000Z",
-          "wordCount": 1055,
-          "title": "Video game voice actor Troy Baker is now promoting NFTs"
         }
       ]
     }
