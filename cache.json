@@ -182,6 +182,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/02/possible-government-surveillance-of-the-otter-ai-transcription-app.html",
+          "author": null,
+          "description": "<p>A reporter interviews a Uyghur human-rights advocate, and uses the Otter.ai transcription app.</p>\n<blockquote><p>The next day, I received an odd note from Otter.ai, the automated transcription app that I had used to record the interview. It read: “Hey Phelim, to help us improve your Otter’s experience, what was the purpose of this particular recording with titled ‘Mustafa Aksu’ created at ‘2021-11-08 11:02:41’?”</p></blockquote>\n<p>Customer service or Chinese surveillance? Turns out it&#8217;s hard to tell.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/02/possible-government-surveillance-of-the-otter-ai-transcription-app.html",
+          "publishedOn": "2022-02-17T16:40:15.000Z",
+          "wordCount": 506,
+          "title": "Possible Government Surveillance of the Otter.ai Transcription App",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/02/vendors-are-fixing-security-flaws-faster.html",
           "author": null,
           "description": "<p>Google&#8217;s Project Zero is <a href=\"https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html\">reporting</a> that software vendors are patching their code faster.</p>\n<blockquote><p>tl;dr</p>\n<ul>\n<li>In 2021, vendors took an average of 52 days to fix security vulnerabilities reported from Project Zero. This is a significant acceleration from an average of about 80 days 3 years ago.\n<li>In addition to the average now being well below the 90-day deadline, we have also seen a dropoff in vendors missing the deadline (or the additional 14-day grace period). In 2021, only one bug exceeded its fix deadline, though 14% of bugs required the grace period.\n<li>Differences in the amount of time it takes a vendor/product to ship a fix to users reflects their product design, development practices, update cadence, and general processes towards security reports. We hope that this comparison can showcase best practices, and encourage vendors to experiment with new policies.\n...</li></li></li></ul></blockquote>",
@@ -398,6 +408,46 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1835021",
+          "author": "Jonathan M. Gitlin",
+          "description": "Tesla is an early customer for Redwood's recycled battery materials.",
+          "link": "https://arstechnica.com/?p=1835021",
+          "publishedOn": "2022-02-17T17:36:43.000Z",
+          "wordCount": 619,
+          "title": "Ford, Volvo, and Redwood Materials start recycling EV batteries",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/recycle-electric-car-batteries-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1834973",
+          "author": "Tim De Chant",
+          "description": "Efforts to reduce carbon pollution using ethanol appear to have backfired.",
+          "link": "https://arstechnica.com/?p=1834973",
+          "publishedOn": "2022-02-17T16:44:52.000Z",
+          "wordCount": 1132,
+          "title": "Corn ethanol no better—and probably worse—than burning gasoline, study says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1215999434-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1834948",
+          "author": "Andrew Cunningham",
+          "description": "It's one of the new build's smaller changes—but also one of the most annoying.",
+          "link": "https://arstechnica.com/?p=1834948",
+          "publishedOn": "2022-02-17T16:13:56.000Z",
+          "wordCount": 938,
+          "title": "You’ll need a Microsoft account to set up future versions of Windows 11 Pro",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/microsoft-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1834967",
+          "author": "Jonathan M. Gitlin",
+          "description": "The still-unnamed car has now gained some headlights.",
+          "link": "https://arstechnica.com/?p=1834967",
+          "publishedOn": "2022-02-17T16:02:02.000Z",
+          "wordCount": 1260,
+          "title": "Porsche completes its first LMDh track test in Spain",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/Porsche-LMDh-Test-in-Barcelona-7-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1834704",
           "author": "Scharon Harding",
@@ -3734,6 +3784,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/02/17/dockershim-faq/",
+          "author": null,
+          "description": "This is an update to the original Dockershim Deprecation FAQ article,\npublished in late 2020.\nThis document goes over some frequently asked questions regarding the\ndeprecation and removal of dockershim, that was\nannounced\nas a part of the Kubernetes v1.20 release. For more detail\non what that means, check out the blog post\nDon't Panic: Kubernetes and Docker.\nAlso, you can read check whether dockershim removal affects you\nto determine how much impact the removal of dockershim would have for you\nor for your organization.\nAs the Kubernetes 1.24 release has become imminent, we've been working hard to try to make this a smooth transition.\nWe've written a blog post detailing our commitment and next steps.\nWe believe there are no major blockers to migration to other container runtimes.\nThere is a…",
+          "link": "https://kubernetes.io/blog/2022/02/17/dockershim-faq/",
+          "publishedOn": "2022-02-17T00:00:00.000Z",
+          "wordCount": 4448,
+          "title": "Blog: Updated: Dockershim Removal FAQ",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/02/16/sig-node-ci-subproject-celebrates/",
           "author": null,
           "description": "Authors: Sergey Kanzhelev (Google), Elana Hashman (Red Hat)\nEnsuring the reliability of SIG Node upstream code is a continuous effort\nthat takes a lot of behind-the-scenes effort from many contributors.\nThere are frequent releases of Kubernetes, base operating systems,\ncontainer runtimes, and test infrastructure that result in a complex matrix that\nrequires attention and steady investment to \"keep the lights on.\"\nIn May 2020, the Kubernetes node special interest group (\"SIG Node\") organized a new\nsubproject for continuous integration (CI) for node-related code and tests. Since its\ninauguration, the SIG Node CI subproject has run a weekly meeting, and even the full hour\nis often not enough to complete triage of all bugs, test-related PRs and issues, and discuss all\nrelated ongoing work with…",
@@ -3827,6 +3887,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2190034",
+          "author": "Ishraq Subhan",
+          "description": "No Man Sky's latest update, named Sentinel, brought a whole raft of new features, but a short clip posted by Hello Games founder Sean Murray today announced that the update also brings full support for the Steam Deck to the game.\nThe clip reveals the game in action on the Steam Deck, along with touchscreen controls.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-17-no-mans-sky-is-getting-full-steam-deck-support",
+          "publishedOn": "2022-02-17T16:58:00.000Z",
+          "wordCount": 921,
+          "title": "No Man's Sky is getting full Steam Deck support",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-17-16-08/no-mans-sky-is-getting-full-steam-deck-support-1645114113828.jpg/EG11/resize/1200x-1/no-mans-sky-is-getting-full-steam-deck-support-1645114113828.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189968",
+          "author": "Ed Nightingale",
+          "description": "Guerrilla has included gyro controls for aiming in Horizon Forbidden West.\nThey're not on by default though, so you'll need to activate the controls in the settings - you can find \"Motion Aiming\" in the Controls menu.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-17-horizon-forbidden-west-has-gyro-controls",
+          "publishedOn": "2022-02-17T15:50:00.000Z",
+          "wordCount": 845,
+          "title": "Horizon Forbidden West has gyro controls",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-17-12-09/-1645099753098.jpg/EG11/resize/1200x-1/-1645099753098.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2190013",
+          "author": "Ishraq Subhan",
+          "description": "Horizon Forbidden West launches tomorrow and many of us (including myself) are eagerly waiting to return to Aloy's adventures.\nIf you're lucky enough to be able to experience it on the PlayStation 5, just remember that you can save a tenner by purchasing the PlayStation 4 version and taking advantage of the free upgrade to a PS5 version. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-17-one-final-fyi-sony-is-charging-gbp10-more-for-horizon-than-you-need-to-pay-ahead-of-its-launch-tomorrow",
+          "publishedOn": "2022-02-17T15:21:00.000Z",
+          "wordCount": 997,
+          "title": "One final FYI: Sony is charging £10 more for Horizon Forbidden West on PS5 than you need to pay",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-17-15-06/one-final-fyi-sony-is-charging-gbp10-more-for-horizon-zero-dawn-than-you-need-to-pay-ahead-of-its-launch-tomorrow-1645110414103.jpg/EG11/resize/1200x-1/one-final-fyi-sony-is-charging-gbp10-more-for-horizon-zero-dawn-than-you-need-to-pay-ahead-of-its-launch-tomorrow-1645110414103.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2190016",
+          "author": "Ed Nightingale",
+          "description": "A second game in Yoko Taro's Voice of Cards series is now available to play.\nFollowing the release of The Isle Dragon Roars last year, The Forsaken Maiden is the next in the NieR creator's deck-based role-playing series.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-17-new-voice-of-cards-game-from-yoko-taro-out-now",
+          "publishedOn": "2022-02-17T15:01:00.000Z",
+          "wordCount": 796,
+          "title": "New Voice of Cards game from Yoko Taro out now",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-17-14-57/-1645109822677.jpg/EG11/resize/1200x-1/-1645109822677.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2189973",
+          "author": "Tom Phillips",
+          "description": "Eurogamer, where staff shared their experiences.\nThe report was compiled by Gender Balance, a Swedish firm which specialises in discrimination, harassment and equality issues, as recommended by Paradox staff unions.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-02-17-paradox-publishes-external-report-on-studio-culture-after-harassment-issues-raised-last-year",
+          "publishedOn": "2022-02-17T12:32:00.000Z",
+          "wordCount": 1725,
+          "title": "Paradox publishes external report on studio culture after harassment issues raised last year",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-17-12-25/paradox-publishes-external-report-on-studio-culture-after-harassment-issues-raised-last-year-1645100723263.jpg/EG11/resize/1200x-1/paradox-publishes-external-report-on-studio-culture-after-harassment-issues-raised-last-year-1645100723263.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2189964",
           "author": "Victoria Kennedy",
