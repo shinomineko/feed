@@ -119,15 +119,6 @@
           "publishedOn": "2022-02-02T00:00:00.000Z",
           "wordCount": 197,
           "title": "Control Group"
-        },
-        {
-          "id": "https://xkcd.com/2575/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/what_if_2.png\" title=\"CLARIFICATION: By 9/13, I mean September 13th, not the 9th day of Jancember, the cursed 13th month that exists between December and January in the transdimensional temporal plane.\" alt=\"CLARIFICATION: By 9/13, I mean September 13th, not the 9th day of Jancember, the cursed 13th month that exists between December and January in the transdimensional temporal plane.\" />",
-          "link": "https://xkcd.com/2575/",
-          "publishedOn": "2022-01-31T00:00:00.000Z",
-          "wordCount": 199,
-          "title": "What If? 2"
         }
       ]
     },
@@ -186,6 +177,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/03/decrypting-hive-ransomware-data.html",
+          "author": null,
+          "description": "<p>Nice piece of <a href=\"https://arxiv.org/abs/2202.08477\">research</a>:</p>\n<blockquote><p><b>Abstract:</b> Among the many types of malicious codes, ransomware poses a major threat. Ransomware encrypts data and demands a ransom in exchange for decryption. As data recovery is impossible if the encryption key is not obtained, some companies suffer from considerable damage, such as the payment of huge amounts of money or the loss of important data. In this paper, we analyzed Hive ransomware, which appeared in June 2021. Hive ransomware has caused immense harm, leading the FBI to issue an alert about it. To minimize the damage caused by Hive Ransomware and to help victims recover their files, we analyzed Hive Ransomware and studied recovery methods. By analyzing the encryption process of Hive ransomware, we confirmed that vulnerabilities exist by using their own encryption algorithm. We have recovered the master key for generating the file encryption key partially, to enable the decryption of data encrypted by Hive ransomware. We recovered 95% of the master key without the attacker&#8217;s RSA private key and decrypted the actual infected data. To the best of our knowledge, this is the first successful attempt at decrypting Hive ransomware. It is expected that our method can be used to reduce the damage caused by Hive ransomware...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/03/decrypting-hive-ransomware-data.html",
+          "publishedOn": "2022-03-01T12:06:30.000Z",
+          "wordCount": 663,
+          "title": "Decrypting Hive Ransomware Data",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/02/insurance-coverage-for-notpetya-losses.html",
           "author": null,
@@ -3771,6 +3772,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191799",
+          "author": "Victoria Kennedy",
+          "description": "Sony has revealed the latest games to be added to its subscription service PlayStation Now, and they include the highly anticipated and gaudy Shadow Warrior 3.\nUsers will be able to choose from four news games to sink their teeth into from today. Along with Shadow Warrior 3, PS Now subscribers will also be able to enjoy Crysis Remastered, Relicta and Chicken Police - Paint It Red. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-shadow-warrior-3-heads-up-playstation-now-games-for-march",
+          "publishedOn": "2022-03-01T12:23:00.000Z",
+          "wordCount": 887,
+          "title": "Shadow Warrior 3 heads up PlayStation Now games for March",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-12-16/-1646136987092.jpg/EG11/resize/1200x-1/-1646136987092.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191793",
+          "author": "Tom Phillips",
+          "description": "This year's upcoming FIFA 23 will reportedly allow fans to play each other across PC, PlayStation and Xbox. \nThe move to crossplay has been a long time coming for EA's footy brand, and comes after numerous other big franchises have also taken the plunge. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-fifa-23-will-reportedly-include-crossplay",
+          "publishedOn": "2022-03-01T12:13:00.000Z",
+          "wordCount": 838,
+          "title": "FIFA 23 will reportedly include crossplay",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-12-07/-1646136479127.jpg/EG11/resize/1200x-1/-1646136479127.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191780",
+          "author": "Tom Phillips",
+          "description": "Viking survival game Valheim has launched its new Mountain update, which adds instanced cave dungeons to the game. \nThe update fleshes out Valheim's snowy mountain biome with new enemies and resources, some of which are buried in those caves. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-valheim-adds-mountain-update-with-dungeons",
+          "publishedOn": "2022-03-01T11:48:00.000Z",
+          "wordCount": 806,
+          "title": "Valheim adds Mountain update with dungeons",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-11-41/-1646134889758.jpg/EG11/resize/1200x-1/-1646134889758.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191778",
+          "author": "Ed Nightingale",
+          "description": "Valve boss Gabe Newell has been out hand delivering Steam Decks.\nThe company emailed a number of people with reservations who happened to live near its office to notify them that Newell would be delivering the handheld consoles. \"I don't believe you,\" replied one person.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-valve-boss-gabe-newell-hand-delivers-steam-decks",
+          "publishedOn": "2022-03-01T11:48:00.000Z",
+          "wordCount": 842,
+          "title": "Valve boss Gabe Newell hand delivers Steam Decks",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-11-41/-1646134862700.jpg/EG11/resize/1200x-1/-1646134862700.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191760",
+          "author": "Victoria Kennedy",
+          "description": "The latest update for the Nintendo Switch Online service has added a new missions and rewards section.\nThis new section offers users the chance to earn 'My Nintendo Platinum Points', which can then be redeemed for exclusive items.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-nintendo-switch-online-adds-new-missions-and-rewards-section",
+          "publishedOn": "2022-03-01T11:15:00.000Z",
+          "wordCount": 938,
+          "title": "Nintendo Switch Online adds missions and rewards section",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-11-11/-1646133082397.jpg/EG11/resize/1200x-1/-1646133082397.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191769",
+          "author": "Ed Nightingale",
+          "description": "World of Tanks creative director Sergey Burkatovskiy has been fired by studio Wargaming after publicly supporting Russia's invasion of Ukraine.\nIn a now-deleted Facebook post, Burkatovskiy wrote that he supported \"the operation of the Armed Forces of the Russian Federation, the DPR [Donetsk People's Republic] and the LPR [Luhansk People's Republic]\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-world-of-tanks-creative-director-fired-for-publicly-supporting-russia",
+          "publishedOn": "2022-03-01T11:11:00.000Z",
+          "wordCount": 948,
+          "title": "World of Tanks creative director fired for publicly supporting Russia",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-11-08/-1646132911016.jpg/EG11/resize/1200x-1/-1646132911016.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191762",
+          "author": "Tom Phillips",
+          "description": "Embracer Group, the umbrella company which owns THQ Nordic, Gearbox, Koch Media and Saber Interactive, will donate $1m to humanitarian aid groups in response to Russia's invasion of Ukraine.\nThis donation will be matched by Embracer boss Lars Wingefors, who will donate $1m to Embracer's \"employees and contractors who are directly impacted by the crisis\". \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-thq-gearbox-owner-embracer-donating-usd1m-to-ukraine-aid",
+          "publishedOn": "2022-03-01T11:02:00.000Z",
+          "wordCount": 898,
+          "title": "THQ, Gearbox owner Embracer donating $1m to Ukraine aid",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-11-00/-1646132424610.jpg/EG11/resize/1200x-1/-1646132424610.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191755",
+          "author": "Ed Nightingale",
+          "description": "A new mod has been released that lets PC players pause Elden Ring.\nAs with all Souls games, players are unable to pause the game. That's in part due to its online features - summoning and messaging - but also as part of its brutal atmosphere. You're never safe.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-new-mod-lets-you-pause-elden-ring",
+          "publishedOn": "2022-03-01T10:53:00.000Z",
+          "wordCount": 815,
+          "title": "New mod lets you pause Elden Ring",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-10-50/-1646131803762.jpg/EG11/resize/1200x-1/-1646131803762.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2191670",
           "author": "Tom Phillips",
