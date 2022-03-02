@@ -396,15 +396,6 @@
           "publishedOn": "2022-02-01T20:26:39.000Z",
           "wordCount": 1338,
           "title": "Me on App Store Monopolies and Security"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/01/twelve-year-old-linux-vulnerability-discovered-and-patched.html",
-          "author": null,
-          "description": "<p>It&#8217;s a privilege escalation <a href=\"https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/\">vulnerability</a>:</p>\n<blockquote><p>Linux users on Tuesday got a major dose of bad news &#8212; a 12-year-old vulnerability in a system tool called Polkit gives attackers unfettered root privileges on machines running most major distributions of the open source operating system.</p>\n<p>Previously called PolicyKit, Polkit manages system-wide privileges in Unix-like OSes. It provides a mechanism for nonprivileged processes to safely interact with privileged processes. It also allows users to execute commands with high privileges by using a component called pkexec, followed by the command...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/01/twelve-year-old-linux-vulnerability-discovered-and-patched.html",
-          "publishedOn": "2022-01-31T12:18:55.000Z",
-          "wordCount": 473,
-          "title": "Twelve-Year-Old Linux Vulnerability Discovered and Patched"
         }
       ]
     },
@@ -413,6 +404,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1837526",
+          "author": "Andrew Cunningham",
+          "description": "Company stopped shipping hardware to retail channels last week.",
+          "link": "https://arstechnica.com/?p=1837526",
+          "publishedOn": "2022-03-01T23:35:14.000Z",
+          "wordCount": 730,
+          "title": "Apple halts all device sales in Russia in response to invasion of Ukraine",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/iphone-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837484",
+          "author": "Beth Mole",
+          "description": "About 37 million infected in omicron wave, and 58% of kids were infected at some point.",
+          "link": "https://arstechnica.com/?p=1837484",
+          "publishedOn": "2022-03-01T22:15:28.000Z",
+          "wordCount": 1000,
+          "title": "43% of Americans—140 million—have had COVID, CDC estimates",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1236926662-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837471",
+          "author": "Dan Goodin",
+          "description": "100,000 misconfigured servers are creating a new way to knock sites offline.",
+          "link": "https://arstechnica.com/?p=1837471",
+          "publishedOn": "2022-03-01T21:35:22.000Z",
+          "wordCount": 1292,
+          "title": "DDoSers are using a potent new method to deliver attacks of unthinkable size",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837345",
+          "author": "Eric Berger",
+          "description": "Someone finally said the quiet part out loud.",
+          "link": "https://arstechnica.com/?p=1837345",
+          "publishedOn": "2022-03-01T20:03:14.000Z",
+          "wordCount": 875,
+          "title": "Finally, we know production costs for SLS and Orion, and they’re wild",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/51821402680_ddb9b63c7a_k-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837439",
+          "author": "John Timmer",
+          "description": "A distinct lineage may have spread through deer and mink.",
+          "link": "https://arstechnica.com/?p=1837439",
+          "publishedOn": "2022-03-01T19:46:04.000Z",
+          "wordCount": 1135,
+          "title": "Researchers may have ID’ed first deer-to-human SARS-CoV-2 transmission",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2011/08/baby_baby_baby_deer_with_mama-4e5ce7d-intro.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837328",
+          "author": "Ron Amadeo",
+          "description": "Oppo is up to 240 W for the lab prototypes and 150 W for commercial phones.",
+          "link": "https://arstechnica.com/?p=1837328",
+          "publishedOn": "2022-03-01T19:33:46.000Z",
+          "wordCount": 864,
+          "title": "Oppo demos 240 W smartphone charging, takes a phone to full in 9 minutes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/240W-SUPERVOOC-_-02-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837306",
+          "author": "Andrew Cunningham",
+          "description": "Company is also removing and deprioritizing info from Russian state media.",
+          "link": "https://arstechnica.com/?p=1837306",
+          "publishedOn": "2022-03-01T19:24:09.000Z",
+          "wordCount": 837,
+          "title": "Microsoft identifies and mitigates new malware targeting Ukraine “within 3 hours”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837380",
+          "author": "Jon Brodkin",
+          "description": "Russian state-owned media blocked in Europe to stop \"lies to justify Putin's war.\"",
+          "link": "https://arstechnica.com/?p=1837380",
+          "publishedOn": "2022-03-01T18:52:29.000Z",
+          "wordCount": 921,
+          "title": "YouTube blocks RT and Sputnik as Russia tells media not to say “invasion”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-sputnik-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837330",
+          "author": "Scharon Harding",
+          "description": "15.6-incher weighing 2.58 pounds with a discrete GPU.",
+          "link": "https://arstechnica.com/?p=1837330",
+          "publishedOn": "2022-03-01T18:36:33.000Z",
+          "wordCount": 892,
+          "title": "Intel Arc GPU squeezes into Samsung’s lightweight Galaxy Book2 Pro",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/004_galaxy_book2-family_book2-business_book2_pro_360_book2_pro_book2_360_book2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837357",
+          "author": "Kyle Orland",
+          "description": "Second Life will begin passing state and local sales tax charges on to players.",
+          "link": "https://arstechnica.com/?p=1837357",
+          "publishedOn": "2022-03-01T18:16:59.000Z",
+          "wordCount": 1199,
+          "title": "Even in the metaverse, you can’t escape the taxman",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/slhouse-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1837348",
           "author": "Tim De Chant",
@@ -3674,15 +3765,6 @@
           "publishedOn": "2022-01-31T12:30:52.000Z",
           "wordCount": 1286,
           "title": "Review: MNT Reform laptop has fully open hardware and software—for better or worse"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1830463",
-          "author": "Jonathan M. Gitlin",
-          "description": "Ford will have the battery capacity to build more than 200,000 a year.",
-          "link": "https://arstechnica.com/?p=1830463",
-          "publishedOn": "2022-01-31T11:00:01.000Z",
-          "wordCount": 1357,
-          "title": "We’ve driven Ford’s other electric workhorse: the 2022 E-Transit"
         }
       ]
     },
@@ -3793,6 +3875,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191906",
+          "author": "Matt Wales",
+          "description": "Intellivision has cut its latest fundraising campaign for the still-unreleased Amico console short, setting yet more alarm bells ringing over the troubled machine's future.\nThe Amico, designed as a low-spec console with a family focus, was announced in 2018 and initially expected to arrive in October 2020. However, the machine has since been thrice-delayed, with still no sign of a launch in sight. Worse still, a recent SEC filing highlighted \"significant debt\" for Intellivision and suggested that, having made no revenue since its inception, the company may not be able to operate beyond July 2022 without additional funds - despite 6,000 pre-orders for Amico still being unfulfilled.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-intellivision-cuts-fundraising-campaign-for-amico-short-setting-alarm-bells-ringing",
+          "publishedOn": "2022-03-01T22:39:00.000Z",
+          "wordCount": 957,
+          "title": "Intellivision cuts latest Amico fundraising campaign short, setting alarm bells ringing",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-22-58/intellivision-cuts-fundraising-campaign-for-beleaguered-amico-short-setting-alarm-bells-ringing-1646175484671.jpg/EG11/resize/1200x-1/intellivision-cuts-fundraising-campaign-for-beleaguered-amico-short-setting-alarm-bells-ringing-1646175484671.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191902",
+          "author": "Matt Wales",
+          "description": "RimWorld, developer Ludeon Studios' widely acclaimed sci-fi colony sim, has been refused classification in Australia, preventing its release and effectively banning it from sale. \nIt's a decision that, on the one hand, isn't particularly surprising given the Australian Classification Board notorious sensitivity around certain issues in games - RimWorld is, after all, a simulation whose incredibly deep systems make drug-fuelled cannibalism an entirely legitimate pastime for colonists - but it's also a little peculiar, insofar as RimWorld has been available to purchase on PC in Australia for nearly five years.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-rimworld-refused-classification-in-australia-banning-it-from-sale",
+          "publishedOn": "2022-03-01T21:26:00.000Z",
+          "wordCount": 1040,
+          "title": "RimWorld refused classification in Australia, banning it from sale",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-21-40/rimworld-refused-classification-in-australia-effectively-banning-it-from-sale-1646170796730.jpg/EG11/resize/1200x-1/rimworld-refused-classification-in-australia-effectively-banning-it-from-sale-1646170796730.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2191895",
+          "author": "Matt Wales",
+          "description": "It's been a long wait, but Steam Deck is now out in the wild. For those that didn't make the head of the queue when reservations opened last July, however - and who are currently eyeing up a rather non-specific ETA for their unit - Valve has a bit of promising news, saying production of its new portable gaming PC will be \"in the hundreds of thousands\" by next month.\nThat's according to Valve designer Lawrence Yang who, in conversation with IGN, explained the company expects production to \"ramp very quickly\" as it continues \"surmounting\" the initial supply chain issues that led to Steam Deck's delay last year. \"Very quickly we'll be in the tens of thousands [of units produced],\" Yang revealed. \"By the second month we'll be in the hundreds of thousands, and beyond that it'll grow even quicker\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-01-steam-deck-production-ramping-up-into-the-hundreds-of-thousands-by-next-month",
+          "publishedOn": "2022-03-01T19:54:00.000Z",
+          "wordCount": 956,
+          "title": "Steam Deck production ramping up into \"the hundreds of thousands\" by next month",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-19-58/steam-deck-production-ramping-up-into-the-hundreds-of-thousands-by-next-month-1646164723690.jpg/EG11/resize/1200x-1/steam-deck-production-ramping-up-into-the-hundreds-of-thousands-by-next-month-1646164723690.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2191864",
           "author": "Ed Nightingale",
@@ -7689,51 +7801,6 @@
           "publishedOn": "2022-01-31T15:02:00.000Z",
           "wordCount": 967,
           "title": "Troy Baker U-turns on voice NFT project"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2186949",
-          "author": "Tom Phillips",
-          "description": "Worms developer Team17 has announced it is getting into NFTs.\nThese \"limited edition\" unique pieces of computer-generated artwork will be sold by Reality Gaming Group, which uses a \"side-chain\" of the \"Ethereum mainnet\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-31-team17-announces-environmentally-friendly-worms-nfts",
-          "publishedOn": "2022-01-31T11:55:00.000Z",
-          "wordCount": 846,
-          "title": "Team17 announces \"environmentally friendly\" Worms NFTs"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2186931",
-          "author": "Ed Nightingale",
-          "description": "Square Enix has shared a message from the Final Fantasy 7 directors to begin celebrations of the game's 25th anniversary.\nThis year also marks the 35th anniversary of the Final Fantasy series.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-31-ff7-directors-share-25th-anniversary-message-promising-even-more-new-projects",
-          "publishedOn": "2022-01-31T11:11:00.000Z",
-          "wordCount": 1046,
-          "title": "Final Fantasy 7 directors share 25th anniversary message promising \"even more\" new projects"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2186928",
-          "author": "Tom Phillips",
-          "description": "Pokémon Legends: Arceus has become another big sales success story for the franchise - just two months after last November's Brilliant Diamond and Shining Pearl. \nIndeed, Legends: Arceus shifted more boxed copies in the UK than last year's pair of remakes, and is now the fourth-biggest boxed Pokémon launch in the UK of all time - behind Sun/Moon, Sword/Shield and Alpha Sapphire/Omega Ruby. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-31-pokemon-legends-arceus-is-uks-fourth-biggest-boxed-pokemon-launch-ever",
-          "publishedOn": "2022-01-31T11:03:00.000Z",
-          "wordCount": 786,
-          "title": "Pokémon Legends: Arceus is UK's fourth-biggest boxed Pokémon launch ever"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2186916",
-          "author": "Ed Nightingale",
-          "description": "Hidetaka Miyazaki loves poison swamps, even if you don't.\nThe Souls games are notorious for including dark, dank swamp areas filled with toxic enemies: the nightmarish Valley of Defilement in Demon's Souls, or the endless depths of Blighttown in Dark Souls.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-31-elden-ring-will-feature-poison-swamps-because-miyazaki-loves-making-them",
-          "publishedOn": "2022-01-31T10:45:00.000Z",
-          "wordCount": 906,
-          "title": "Elden Ring will feature poison swamps because Miyazaki loves making them"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2186910",
-          "author": "Tom Phillips",
-          "description": "Sony has announced its first State of Play broadcast of 2022 - for this Wednesday, 2nd February at 10pm UK time. \nThe show will focus specifically on Gran Turismo 7, due for PS4 and PS5 on 4th March. Expect 30 minutes of new PS5 footage and gameplay details this week.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-01-31-playstation-state-of-play-announced-for-this-week",
-          "publishedOn": "2022-01-31T10:32:00.000Z",
-          "wordCount": 797,
-          "title": "PlayStation State of Play announced for this week"
         }
       ]
     }
