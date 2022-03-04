@@ -146,15 +146,6 @@
           "publishedOn": "2022-02-08T00:00:00.000Z",
           "wordCount": 50,
           "title": "Anticipate"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2022/hammering-nails-animated/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2022/hammering-nails-animated/",
-          "publishedOn": "2022-02-03T00:00:00.000Z",
-          "wordCount": 51,
-          "title": "Testing - Hammering Nails (Animated)"
         }
       ]
     },
@@ -169,6 +160,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/03/samsung-encryption-flaw.html",
+          "author": null,
+          "description": "<p>Researchers have found a <a href=\"https://eprint.iacr.org/2022/208.pdf\">major encryption flaw</a> in 100 million Samsung Galaxy phones.</p>\n<p>From the abstract:</p>\n<blockquote><p>In this work, we expose the cryptographic design and implementation of Android&#8217;s Hardware-Backed Keystore in Samsung&#8217;s Galaxy S8, S9, S10, S20, and S21 flagship devices. We reversed-engineered and provide a detailed description of the cryptographic design and code structure, and we unveil severe design flaws. We present an IV reuse attack on AES-GCM that allows an attacker to extract hardware-protected key material, and a downgrade attack that makes even the latest Samsung devices vulnerable to the IV reuse attack. We demonstrate working key extraction attacks on the latest devices. We also show the implications of our attacks on two higher-level cryptographic protocols between the TrustZone and a remote server: we demonstrate a working FIDO2 WebAuthn login bypass and a compromise of Google&#8217;s Secure Key Import...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/03/samsung-encryption-flaw.html",
+          "publishedOn": "2022-03-04T12:19:48.000Z",
+          "wordCount": 576,
+          "title": "Samsung Encryption Flaw",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/03/details-of-an-nsa-hacking-operation.html",
           "author": null,
@@ -398,6 +399,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1837900",
+          "author": "Eric Berger",
+          "description": "\"We are taking a close look at how the situation unfolds.\"",
+          "link": "https://arstechnica.com/?p=1837900",
+          "publishedOn": "2022-03-04T12:00:19.000Z",
+          "wordCount": 1127,
+          "title": "Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/lJD3PCPE-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1838180",
           "author": "Dan Goodin",
@@ -3703,87 +3714,6 @@
           "publishedOn": "2022-02-03T14:19:33.000Z",
           "wordCount": 1374,
           "title": "Satya Nadella: Microsoft has “permission to build the next Internet”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831397",
-          "author": "Dan Goodin",
-          "description": "Mac malware UpdateAgent only gets better over time.",
-          "link": "https://arstechnica.com/?p=1831397",
-          "publishedOn": "2022-02-02T23:32:05.000Z",
-          "wordCount": 924,
-          "title": "Mac malware spreading for ~14 months installs backdoor on infected systems"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831399",
-          "author": "Beth Mole",
-          "description": "The five new cases brings Tonga's pandemic case count to six.",
-          "link": "https://arstechnica.com/?p=1831399",
-          "publishedOn": "2022-02-02T22:59:23.000Z",
-          "wordCount": 833,
-          "title": "Tonga in lockdown after COVID spread from wharf workers"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831206",
-          "author": "Jonathan M. Gitlin",
-          "description": "We learned about new PS5 features, but questions remain about the PS4 version.",
-          "link": "https://arstechnica.com/?p=1831206",
-          "publishedOn": "2022-02-02T22:30:50.000Z",
-          "wordCount": 993,
-          "title": "Gran Turismo 7 preview: A return to expansive, grindy, car-collecting roots"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831337",
-          "author": "John Timmer",
-          "description": "T-cell response from earlier infection or vaccination is down, but not by much.",
-          "link": "https://arstechnica.com/?p=1831337",
-          "publishedOn": "2022-02-02T22:14:43.000Z",
-          "wordCount": 843,
-          "title": "For T-cells, omicron is nothing unusual"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831036",
-          "author": "Jennifer Ouellette",
-          "description": "Prequel series on Paramount+ will also feature a return to episodic storytelling.",
-          "link": "https://arstechnica.com/?p=1831036",
-          "publishedOn": "2022-02-02T21:44:40.000Z",
-          "wordCount": 1156,
-          "title": "Producer: Star Trek: Strange New Worlds will connect to a famous wrathful villain"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831215",
-          "author": "Ron Amadeo",
-          "description": "Users that shut off \"Web & App Activity\" will have data retention turned back on.",
-          "link": "https://arstechnica.com/?p=1831215",
-          "publishedOn": "2022-02-02T20:35:17.000Z",
-          "wordCount": 1259,
-          "title": "Google Workspace to strip privacy control from admins, re-enable tracking"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831259",
-          "author": "Scharon Harding",
-          "description": "Chromebooks are getting increasingly popular, though.",
-          "link": "https://arstechnica.com/?p=1831259",
-          "publishedOn": "2022-02-02T19:32:43.000Z",
-          "wordCount": 754,
-          "title": "Windows PCs prioritized over Chromebooks in components shortage"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831276",
-          "author": "Jon Brodkin",
-          "description": "\"We drop bags of cash at your office\": NSO allegedly sought access to SS7 network.",
-          "link": "https://arstechnica.com/?p=1831276",
-          "publishedOn": "2022-02-02T19:18:19.000Z",
-          "wordCount": 1193,
-          "title": "NSO tried to buy access to cell networks for “bags of cash,“ whistleblower says"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1831265",
-          "author": "Eric Berger",
-          "description": "\"We'd like to hold off and talk about that after we get to the wet dress.\"",
-          "link": "https://arstechnica.com/?p=1831265",
-          "publishedOn": "2022-02-02T19:00:27.000Z",
-          "wordCount": 1098,
-          "title": "NASA delays SLS rocket rollout, says launch date is TBD"
         }
       ]
     },
@@ -3895,6 +3825,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192425",
+          "author": "Victoria Kennedy",
+          "description": "When Nintendo shared its trailer for Kirby and the Forgotten Land during its Direct presentation in February, one thing that got everyone talking was Kirby's new Mouthful Mode. It allows Kirby to inhale and then embody numerous items, and now it turns out this also includes Nintendo Switch boxes.\nSpotted by Nintendo Everything, a new box for the Nintendo Switch OLED now features a bright pink puffed up Kirby. Kirby is clearly so puffed up as he has just swallowed the box, contents and all.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-even-nintendo-switch-packaging-isnt-safe-from-kirbys-mouthful-mode",
+          "publishedOn": "2022-03-04T12:20:00.000Z",
+          "wordCount": 851,
+          "title": "Even Nintendo Switch packaging isn't safe from Kirby's Mouthful Mode",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-12-14/-1646396055669.jpg/EG11/resize/1200x-1/-1646396055669.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192424",
+          "author": "Tom Phillips",
+          "description": "2020's Treyarch-made Call of Duty: Black Ops Cold War has been given a surprise update today - and it sounds like more updates will follow over the course of this year.\nIt's an unusual step for Activision, which typically operates a fire-and-forget approach to its annual Call of Duty releases. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-activision-has-updated-call-of-duty-black-ops-cold-war-today",
+          "publishedOn": "2022-03-04T12:20:00.000Z",
+          "wordCount": 827,
+          "title": "Activision has updated Call of Duty: Black Ops Cold War today",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-12-06/activision-has-updated-call-of-duty-black-ops-cold-war-today-1646395609861.jpg/EG11/resize/1200x-1/activision-has-updated-call-of-duty-black-ops-cold-war-today-1646395609861.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192413",
+          "author": "Tom Phillips",
+          "description": "New PC and PlayStation release Babylon's Fall appears to have flopped on Steam. \nPublished by Square Enix and developed by Platinum Games, the multiplayer hack-and-slash RPG currently has a peak of just 874 players on Steam, and a \"Mixed\" rating for user reviews.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-babylons-fall-is-off-to-a-bad-start-on-steam",
+          "publishedOn": "2022-03-04T11:57:00.000Z",
+          "wordCount": 800,
+          "title": "Babylon's Fall is off to a bad start on Steam",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-11-44/babylons-fall-is-off-to-a-bad-start-on-steam-1646394284384.jpg/EG11/resize/1200x-1/babylons-fall-is-off-to-a-bad-start-on-steam-1646394284384.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192388",
+          "author": "Martin Robinson",
+          "description": "After some eight years since the last numbered instalment, Polyphony Digital's flagship PlayStation series returns today with Gran Turismo 7 - and going live alongside it on the PlayStation Store are some microtransactions which represent a slightly tweaked approach to the one we saw in Gran Turismo Sport. \nThe microtransactions in Gran Turismo Sport - released in a post-launch update - had players buying individual cars at a set price, with only those of a value up to 2 million in-game credits available for purchase. Gran Turismo 7, however, does away with that restriction and simply offers in-game currency for sale, starting at £1.99 for 100,000 credits all the way to £15.99 for 2,000,000 credits. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-gran-turismo-7s-new-microtransactions-are-pretty-grim",
+          "publishedOn": "2022-03-04T11:45:00.000Z",
+          "wordCount": 913,
+          "title": "Gran Turismo 7's new microtransactions are pretty grim",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-11-37/gran-turismo-7s-new-microtransactions-are-pretty-grim-1646393819148.jpg/EG11/resize/1200x-1/gran-turismo-7s-new-microtransactions-are-pretty-grim-1646393819148.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192407",
+          "author": "Ed Nightingale",
+          "description": "Twitch has recently lost a number of high profile employees amid claims it's losing touch with its community.\nAccording to a new report from Bloomberg, at least six top employees have left since the start of the year, including the chief operating officer, chief content officer, and head of creator development.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-twitch-rocked-by-high-profile-departures",
+          "publishedOn": "2022-03-04T11:38:00.000Z",
+          "wordCount": 1030,
+          "title": "Twitch rocked by high-profile departures",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-11-28/-1646393281703.jpg/EG11/resize/1200x-1/-1646393281703.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192400",
+          "author": "Victoria Kennedy",
+          "description": "The state of California says that, by law, companies with boards consisting of six people or more must have at least three women serving on them. Activision's board exceeds this number, and yet it failed to introduce a third women in 2021. \nActivision has stated that the reason for this failure is due to its planned acquisition by Microsoft complicating matters.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-activision-blames-microsoft-acquistion-failure-to-hire-another-woman-for-its-board-by-the-end-of-2021",
+          "publishedOn": "2022-03-04T11:08:00.000Z",
+          "wordCount": 1054,
+          "title": "Activision blames Microsoft acquisition for failure to hire another woman to its board",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-11-27/-1646393225635.jpg/EG11/resize/1200x-1/-1646393225635.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192394",
+          "author": "Ed Nightingale",
+          "description": "Twitch has updated its policies to prevent the spread of harmful misinformation on the platform.\nIn a blog post, Twitch explains a change to its Spam, Scams and Malicious Conduct Policy, with the goal to prohibit \"individuals whose online presence is dedicated to spreading harmful, false information from using Twitch\".\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-twitch-updates-policies-to-prevent-spread-of-misinformation",
+          "publishedOn": "2022-03-04T11:03:00.000Z",
+          "wordCount": 1033,
+          "title": "Twitch updates policies to prevent spread of misinformation",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-10-55/-1646391349316.jpg/EG11/resize/1200x-1/-1646391349316.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192390",
+          "author": "Tom Phillips",
+          "description": "Sony has quietly pulled PlayStation's new blockbuster racing game Gran Turismo 7 from sale in Russia. \nGT7 launched today worldwide, though is currently unavailable to purchase via the Russian PlayStation Store. Eurogamer understands the decision not to sell the game in Russia was made by PlayStation last night.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-04-playstation-quietly-pulls-gran-turismo-7-from-sale-in-russia",
+          "publishedOn": "2022-03-04T10:57:00.000Z",
+          "wordCount": 835,
+          "title": "PlayStation quietly pulls Gran Turismo 7 from sale in Russia",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-04-10-51/playstation-quietly-pulls-gran-turismo-7-from-sale-in-russia-1646391095010.jpg/EG11/resize/1200x-1/playstation-quietly-pulls-gran-turismo-7-from-sale-in-russia-1646391095010.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2192342",
           "author": "Matt Wales",
@@ -7804,24 +7814,6 @@
           "publishedOn": "2022-02-03T09:18:00.000Z",
           "wordCount": 844,
           "title": "Nintendo Switch has now outsold Wii"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2187602",
-          "author": "Martin Robinson",
-          "description": "With just over a month to go until its full release, Sony's latest State of Play unveiled a fresh batch of details on Polyphony Digital's PlayStation exclusive Gran Turismo 7 - including some surprising new modes, a look at the vastly improved customisation options as well as a more detailed look at its new weather system. \nThe 30 minute presentation reestablished the line that this is a Gran Turismo game that's returning to the series' roots, with a fresh focus on optimisation and the player's journey from starting behind the wheel of a humble starter car after the more stripped-back, multiplayer-focussed Gran Turismo Sport.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-02-heres-everything-revealed-in-the-gran-turismo-7-state-of-play",
-          "publishedOn": "2022-02-02T22:30:00.000Z",
-          "wordCount": 1533,
-          "title": "Here's all that was revealed in the Gran Turismo 7 State of Play"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2187610",
-          "author": "Matt Wales",
-          "description": "Following a smattering of leaks over the past few weeks, Evil Within developer Tango Gameworks' action-horror title Ghostwire: Tokyo has finally been given an official release date, and will be making its way to PlayStation 5 on 25th March.\nGhostwire: Tokyo got its first (and decidedly enigmatic) showing back at E3 2019; one year on, Tango Gameworks revealed the game to be some sort of action-focussed first-person horror experience unfolding on the rain-slicked streets of Tokyo, where players must energetically thrust their supernatural abilities at strikingly designed spirits known as The Visitors.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-02-evil-within-devs-ghostwire-tokyo-gets-march-release-date",
-          "publishedOn": "2022-02-02T19:20:00.000Z",
-          "wordCount": 1020,
-          "title": "Evil Within developer's Ghostwire: Tokyo gets March release date"
         }
       ]
     }
