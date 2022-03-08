@@ -122,15 +122,6 @@
           "publishedOn": "2022-02-09T00:00:00.000Z",
           "wordCount": 197,
           "title": "Tractor Beam"
-        },
-        {
-          "id": "https://xkcd.com/2578/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/sword_pull.png\" title=\"Merlin really shouldn't leave his dirt bike lying around.\" alt=\"Merlin really shouldn't leave his dirt bike lying around.\" />",
-          "link": "https://xkcd.com/2578/",
-          "publishedOn": "2022-02-07T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Sword Pull"
         }
       ]
     },
@@ -139,6 +130,16 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2022/done-done/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2022/done-done/",
+          "publishedOn": "2022-03-08T00:00:00.000Z",
+          "wordCount": 89,
+          "title": "Done Done",
+          "imageUrl": "https://www.monkeyuser.com/assets/images/2022/240-done-done.png"
+        },
         {
           "id": "https://www.monkeyuser.com/2022/marked/",
           "author": null,
@@ -171,6 +172,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/03/using-radar-to-read-body-language.html",
+          "author": null,
+          "description": "<p>Yet another <a href=\"https://www.wired.com/story/google-soli-atap-research-2022/?\">method of surveillance</a>:</p>\n<blockquote><p>Radar can detect you moving closer to a computer and entering its personal space. This might mean the computer can then choose to perform certain actions, like booting up the screen without requiring you to press a button. This kind of interaction already exists in current <a href=\"https://www.wired.com/gallery/best-smart-displays/\">Google Nest smart displays</a>, though instead of radar, Google employs <a href=\"https://www.blog.google/products/google-nest/ultrasound-sensing/\">ultrasonic sound waves</a> to measure a person&#8217;s distance from the device. When a Nest Hub notices you&#8217;re moving closer, it highlights current reminders, calendar events, or other important notifications...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/03/using-radar-to-read-body-language.html",
+          "publishedOn": "2022-03-08T12:01:54.000Z",
+          "wordCount": 647,
+          "title": "Using Radar to Read Body Language",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/03/hacking-alexa-through-alexas-speech.html",
           "author": null,
@@ -3782,15 +3793,6 @@
           "wordCount": 4509,
           "title": "Blog: SIG Node CI Subproject Celebrates Two Years of Test Improvements",
           "imageUrl": "serial-tests-green.png"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/02/07/sig-multicluster-spotlight-2022/",
-          "author": null,
-          "description": "Authors: Dewan Ahmed (Aiven) and Chris Short (AWS)\nIntroduction\nSIG Multicluster is the SIG focused on how Kubernetes concepts are expanded and used beyond the cluster boundary. Historically, Kubernetes resources only interacted within that boundary - KRU or Kubernetes Resource Universe (not an actual Kubernetes concept). Kubernetes clusters, even now, don't really know anything about themselves or, about other clusters. Absence of cluster identifiers is a case in point. With the growing adoption of multicloud and multicluster deployments, the work SIG Multicluster doing is gaining a lot of attention. In this blog, Jeremy Olmsted-Thompson, Google and Chris Short, AWS discuss the interesting problems SIG Multicluster is solving and how you can get involved. Their initials JOT and CS will be…",
-          "link": "https://kubernetes.io/blog/2022/02/07/sig-multicluster-spotlight-2022/",
-          "publishedOn": "2022-02-07T00:00:00.000Z",
-          "wordCount": 4509,
-          "title": "Blog: Spotlight on SIG Multicluster"
         }
       ]
     },
@@ -3860,6 +3862,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192941",
+          "author": "Ed Nightingale",
+          "description": "Mouse and keyboard support is coming to Xbox Cloud Gaming, the Microsoft cloud streaming platform.\nCurrently only touchscreen on mobile and controllers are supported, so the inclusion of mouse and keyboard is a win for anyone looking for an alternative input, as well as for accessibility.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-mouse-and-keyboard-support-coming-to-xbox-cloud-gaming",
+          "publishedOn": "2022-03-08T11:53:00.000Z",
+          "wordCount": 857,
+          "title": "Mouse and keyboard support coming to Xbox Cloud Gaming",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-55/-1646740552030.jpg/EG11/resize/1200x-1/-1646740552030.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192937",
+          "author": "Tom Phillips",
+          "description": "YouTuber Bob \"WulffDen\" Wulff has spent the past five months subjecting a Switch OLED to the same image, taken from The Legend of Zelda: Breath of the Wild (thanks, ArsTechnica). \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-nintendo-switch-oled-screen-undergoes-3600-hour-burn-in-test",
+          "publishedOn": "2022-03-08T11:49:00.000Z",
+          "wordCount": 787,
+          "title": "Nintendo Switch OLED screen undergoes 3600-hour burn-in test",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-41/-1646739699375.jpg/EG11/resize/1200x-1/-1646739699375.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192930",
+          "author": "Victoria Kennedy",
+          "description": "A man has been sentenced to prison after admitting he lied to obtain a Covid-19 disaster relief loan, and then went on to use that money to purchase a rare Charizard Pokémon card.\nVinath Oudomsine from the US state of Georgia was awarded a Covid relief loan after he claimed to run a small business comprising of 10 employees. However, after obtaining the cash (a tidy $85k), Oudomsine \"used $57,789 of it to buy a first-edition, shadowless and holographic Charizard card with a 9.5 gem mint rating\", (thanks, Polygon).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-man-who-used-covid-relief-funds-to-buy-rare-pokemon-card-sentenced-to-prison",
+          "publishedOn": "2022-03-08T11:36:00.000Z",
+          "wordCount": 897,
+          "title": "Man who used Covid relief funds to buy rare Pokémon card sent to prison",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-30/-1646739036074.jpg/EG11/resize/1200x-1/-1646739036074.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192929",
+          "author": "Ed Nightingale",
+          "description": "A free update to Sifu adds Mandarin voiceover.\nThe update, available on PlayStation and PC, adds an extra layer of authenticity to the experience - a Kung Fu game set in a fictional Chinese city.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-mandarin-voice-over-added-to-sifu",
+          "publishedOn": "2022-03-08T11:24:00.000Z",
+          "wordCount": 732,
+          "title": "Mandarin voiceover added to Sifu",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-21/-1646738458389.jpg/EG11/resize/1200x-1/-1646738458389.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192924",
+          "author": "Tom Phillips",
+          "description": "Blizzard's World of Warcraft game for mobile  will be unveiled in May, the developer has said.\nThe reveal will follow detailed updates on both Hearthstone and the main World of Warcraft over the next six weeks. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-world-of-warcraft-mobile-game-to-be-unveiled-in-may",
+          "publishedOn": "2022-03-08T11:02:00.000Z",
+          "wordCount": 831,
+          "title": "World of Warcraft mobile game to be unveiled in May",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-54/-1646736847080.jpg/EG11/resize/1200x-1/-1646736847080.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192926",
+          "author": "Ed Nightingale",
+          "description": "The itch.io Bundle for Ukraine is now live, with almost 1000 games included.\nAvailable for a minimum donation of $10, all proceeds will be split between two charities: International Medical Corps and Voices of Children.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-bundle-for-ukraine-now-live-on-itch-io",
+          "publishedOn": "2022-03-08T10:59:00.000Z",
+          "wordCount": 884,
+          "title": "Bundle for Ukraine now live on itch.io",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-54/-1646736878820.jpg/EG11/resize/1200x-1/-1646736878820.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192921",
+          "author": "Victoria Kennedy",
+          "description": "Amazon Games and Smilegate RPG have announced that Lost Ark has now exceeded 20 million global users.\n\"Overall, the excitement surrounding Lost Ark from around the world is quickly gaining steam, as evidenced by the growing number of global players\", said Christoph Hartmann, VP of Amazon Games. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-amazon-games-mmo-lost-ark-passes-20m-global-users",
+          "publishedOn": "2022-03-08T10:55:00.000Z",
+          "wordCount": 891,
+          "title": "Amazon Games' MMO Lost Ark passes 20m players",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-49/-1646736543446.jpg/EG11/resize/1200x-1/-1646736543446.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192920",
+          "author": "Martin Robinson",
+          "description": "The first numbered Gran Turismo game in over eight years has brought with many beloved features that have been missing for a while, with the headline being the return of proper car customization. Being able to spec out a humble Toyota Aqua until it's race ready is a fun experience, but there's one problem - it's kind of ruining the multiplayer experience at the moment. \nGran Turismo 7's online offering is near identical to that seen in the multiplayer-focussed Gran Turismo Sport - hence the multiplayer mode being called simply Sport - in that there are daily races that rotate in and out with various requirements. Previously, these races were typically subject to a Balance of Performance, or BoP - a term borrowed from real-life GT racing that operates along similar lines, with the game ensuring all cars entered have a similar performance to ensure close racing.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-08-gran-turismo-7s-multiplayer-has-a-bit-of-a-problem-right-now",
+          "publishedOn": "2022-03-08T10:52:00.000Z",
+          "wordCount": 1127,
+          "title": "Gran Turismo 7's multiplayer has a bit of a problem right now",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-47/-1646736426800.jpg/EG11/resize/1200x-1/-1646736426800.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2192856",
+          "author": "Matt Wales",
+          "description": "Grand Theft Auto 5 is just one week away from its long-awaited debut on PlayStation 5 and Xbox Series X/S - and the game's newly revealed digital store pre-order listings have confirmed a 50 percent introductory discount for the first three months of its release. (No, it's not free if you bought it on PS4 or Xbox One already.)\nExactly how much you'll be paying depends very much on where you plan to play it, however. For Xbox Series X/S owners, GTA Online is currently listed at £8.99 on the Microsoft Store. That'll go back up to its non-discounted price of £17.99 in three months time, on 14th June. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-07-gta-5-for-ps5-and-xbox-series-x-s-is-half-price-for-first-three-months",
+          "publishedOn": "2022-03-08T09:25:00.000Z",
+          "wordCount": 966,
+          "title": "GTA Online, GTA 5 Story Mode half price for first three months on PS5, Xbox Series X/S",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-23-57/gta-5-for-ps5-and-xbox-series-x-s-is-half-price-for-first-three-months-1646697429135.jpg/EG11/resize/1200x-1/gta-5-for-ps5-and-xbox-series-x-s-is-half-price-for-first-three-months-1646697429135.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2192855",
           "author": "Matt Wales",
