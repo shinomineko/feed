@@ -175,6 +175,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/03/friday-squid-blog-328-million-year-old-vampire-squid-ancestor-discovered.html",
+          "author": null,
+          "description": "<p>A fossilized ancestor of the vampire squid &#8212; with ten arms &#8212; <a href=\"https://arstechnica.com/science/2022/03/this-extinct-ten-armed-fossil-may-be-earliest-known-ancestor-of-vampire-squid/\">was</a> <a href=\"https://www.nytimes.com/2022/03/08/science/vampire-squid-biden.html\">discovered</a> and named <i>Syllipsimopodi bideni</i> after President Biden.</p>\n<p>Here&#8217;s the <a href=\"https://www.nature.com/articles/s41467-022-28333-5\">research paper</a>. Note: Vampire squids are not squids. (Yes, it&#8217;s weird.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/03/friday-squid-blog-328-million-year-old-vampire-squid-ancestor-discovered.html",
+          "publishedOn": "2022-03-11T22:01:10.000Z",
+          "wordCount": 586,
+          "title": "Friday Squid Blog: 328-million-year-old Vampire Squid Ancestor Discovered",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/03/wheres-the-russia-ukraine-cyberwar.html",
           "author": null,
           "description": "<p>It has been interesting to notice how unimportant and ineffective cyber operations have been in the Russia-Ukraine war. Russia launched a wiper against Ukraine at the beginning, but it was <a href=\"https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia\">found</a> <a href=\"https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html\">and</a> <a href=\"https://arstechnica.com/gadgets/2022/03/microsoft-identifies-and-mitigates-new-malware-targeting-ukraine-within-3-hours/\">neutered</a>. Near as I can tell, the only thing that worked was the <a href=\"https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html\">disabling</a> of regional KA-SAT SATCOM terminals.</p>\n<p>It&#8217;s probably too early to reach any conclusions, but people are starting to <a href=\"https://www.washingtonpost.com/politics/2022/03/03/11-reasons-we-havent-seen-big-russian-cyberattacks-yet/\">write</a> <a href=\"https://www.lawfareblog.com/cyber-realism-time-war\">about</a> this, with varying theories.</p>\n<p>I want to write about this, too, but I&#8217;m waiting for things to progress more.</p>",
@@ -401,15 +411,6 @@
           "publishedOn": "2022-02-11T12:17:53.000Z",
           "wordCount": 620,
           "title": "On the Irish Health Services Executive Hack"
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/02/bunnie-huangs-plausibly-deniable-database.html",
-          "author": null,
-          "description": "<p>Bunnie Huang has <a href=\"https://www.bunniestudios.com/blog/?p=6307\">created</a> a Plausibly Deniable Database.</p>\n<blockquote><p>Most security schemes facilitate the coercive processes of an attacker because they disclose metadata about the secret data, such as the name and size of encrypted files. This allows specific and enforceable demands to be made: “Give us the passwords for these three encrypted files with names A, B and C, or else…”. In other words, security often focuses on protecting the confidentiality of data, but lacks deniability.</p>\n<p>A scheme with deniability would make even the existence of secret files difficult to prove. This makes it difficult for an attacker to formulate a coherent demand: “There’s no evidence of undisclosed data. Should we even bother to make threats?” A lack of evidence makes it more difficult to make specific and enforceable demands...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/02/bunnie-huangs-plausibly-deniable-database.html",
-          "publishedOn": "2022-02-10T12:13:26.000Z",
-          "wordCount": 816,
-          "title": "Bunnie Huang’s Plausibly Deniable Database"
         }
       ]
     },
@@ -418,6 +419,46 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1840546",
+          "author": "Dan Goodin",
+          "description": "So far, moves by two of the Internet's major pipelines are having negligible effects.",
+          "link": "https://arstechnica.com/?p=1840546",
+          "publishedOn": "2022-03-11T23:13:07.000Z",
+          "wordCount": 1380,
+          "title": "Why Russia’s “disconnection” from the Internet isn’t amounting to much",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/russia-censorship-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1840304",
+          "author": "Doug Johnson",
+          "description": "Researchers can model the compositions of rocky planets in far-flung systems.",
+          "link": "https://arstechnica.com/?p=1840304",
+          "publishedOn": "2022-03-11T23:03:35.000Z",
+          "wordCount": 796,
+          "title": "How would an Earth-like planet look in Alpha Centauri?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/image.imageformat.fullwidth.694977622-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1840515",
+          "author": "Beth Mole",
+          "description": "The hybrid virus is rare, and data on spread and disease severity is not concerning.",
+          "link": "https://arstechnica.com/?p=1840515",
+          "publishedOn": "2022-03-11T21:50:06.000Z",
+          "wordCount": 1071,
+          "title": "Delta-omicron recombinant virus no reason for panic, health experts say",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1358937247-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1840469",
+          "author": "Eric Berger",
+          "description": "The status of the ISS partnership is subject to change, of course.",
+          "link": "https://arstechnica.com/?p=1840469",
+          "publishedOn": "2022-03-11T19:38:07.000Z",
+          "wordCount": 1195,
+          "title": "No, Russia has not threatened to leave an American astronaut behind in space",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/GettyImages-1189005183-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1840070",
           "author": "Jonathan M. Gitlin",
@@ -4037,6 +4078,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2193697",
+          "author": "Matt Wales",
+          "description": "There've been a few whisperings concerning the release date of EA's Dead Space remake in recent weeks, but now the publisher has moved to bring the rumours to a halt by giving the sci-fi horror rejuvenation an official \"early\" 2023 release window.\nDespite developer EA Motive having repeatedly stressed its Dead Space remake was still in the early stages of development each time its been given an airing since its announcement, VentureBeat journalist Jeff Grubb had given fans hope it might be arriving as early as this autumn in a report written late last year. This week, however, Grubb revised that initial claim, saying EA was now aiming to release in early 2023 - and, lo, the publisher has finally made that official during its latest Dead Space developer livestream.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-11-dead-space-remake-is-launching-early-2023",
+          "publishedOn": "2022-03-11T19:39:00.000Z",
+          "wordCount": 1128,
+          "title": "Dead Space remake is launching \"early\" 2023",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-11-19-45/dead-space-remake-is-launching-early-2023-1647027908392.jpg/EG11/resize/1200x-1/dead-space-remake-is-launching-early-2023-1647027908392.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2193682",
           "author": "Tom Phillips",
@@ -8186,51 +8237,6 @@
           "publishedOn": "2022-02-10T12:41:00.000Z",
           "wordCount": 877,
           "title": "CrossfireX sees launch issues on Xbox Game Pass"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2188899",
-          "author": "Ed Nightingale",
-          "description": "The rights to create films and games based on The Lord of the Rings are going up for auction.\nAs reported by Variety, the Saul Zaentz Co is selling its Tolkien rights, which includes films, games, TV shows over eight episodes, live events, merchandise, and theme parks based on The Lord of the Rings, The Hobbit and other Tolkien properties.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-10-the-lord-of-the-rings-film-and-games-rights-up-for-sale",
-          "publishedOn": "2022-02-10T12:22:00.000Z",
-          "wordCount": 890,
-          "title": "The Lord of the Rings film and games rights up for sale"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2188886",
-          "author": "Ed Nightingale",
-          "description": "The Sims 4 wedding themed Game Pack won't be releases in Russia due to its gay propaganda laws.\nThe Russian government passed a law in 2013 that supposedly protects children from homosexual content, stating it contradicts traditional family values.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-10-sims-4-wedding-expansion-wont-release-in-russia-due-to-anti-lgbt-laws",
-          "publishedOn": "2022-02-10T11:46:00.000Z",
-          "wordCount": 1036,
-          "title": "Sims 4 wedding expansion won't release in Russia due to anti-LGBT+ laws"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2188861",
-          "author": "Ishraq Subhan",
-          "description": "Microsoft's megabid to acquire Activision Blizzard has raised questions about the future of the publisher's cross-platform titles. \nFacing regulatory scrutiny, Microsoft explicitly committed to Call of Duty releasing on PlayStation beyond existing agreements. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-10-microsoft-is-open-to-bringing-call-of-duty-to-switch",
-          "publishedOn": "2022-02-10T11:44:00.000Z",
-          "wordCount": 807,
-          "title": "Microsoft says it wants Call of Duty on Switch"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2188881",
-          "author": "Victoria Kennedy",
-          "description": "A new trailer for Atomic Heart has been unveiled, and it is just as surreal as you might expect. \nThis latest trailer keeps the tone of previous teasers for the game - think Bioshock meets the USSR. With a robot uprising, an experimental polymer glove and an array of psychedelic scenes, it is hard to look away.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-10-atomic-heart-gets-a-new-trailer-and-release-window",
-          "publishedOn": "2022-02-10T11:41:00.000Z",
-          "wordCount": 790,
-          "title": "Russian BioShock-style game Atomic Heart gets release window"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2188878",
-          "author": "Ed Nightingale",
-          "description": "Cult PS1 classic JRPG Chrono Cross is coming to Europe for the first time.\nThe spiritual successor to the SNES favourite Chrono Trigger, Chrono Cross was never released outside of Japan and America. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-10-chrono-cross-comes-to-europe-for-the-first-time",
-          "publishedOn": "2022-02-10T11:22:00.000Z",
-          "wordCount": 844,
-          "title": "Chrono Cross comes to Europe for the first time"
         }
       ]
     }
