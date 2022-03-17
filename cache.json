@@ -124,16 +124,6 @@
           "wordCount": 197,
           "title": "Chorded Keyboard",
           "imageUrl": "https://imgs.xkcd.com/comics/chorded_keyboard_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2582/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/data_trap.png\" title=\"It's important to make sure your analysis destroys as much information as it produces.\" alt=\"It's important to make sure your analysis destroys as much information as it produces.\" />",
-          "link": "https://xkcd.com/2582/",
-          "publishedOn": "2022-02-16T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Data Trap",
-          "imageUrl": "https://imgs.xkcd.com/comics/data_trap_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/03/change-password.html",
+          "author": null,
+          "description": "<p><a href=\"https://twitter.com/JosephPolitano/status/1503131005389099011\">Oops</a>:</p>\n<blockquote><p>Instead of telling you when it&#8217;s safe to cross the street, the walk signs in Crystal City, VA are just repeating &#8216;CHANGE PASSWORD.&#8217; Something&#8217;s gone terribly wrong here.</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/03/change-password.html",
+          "publishedOn": "2022-03-17T11:16:12.000Z",
+          "wordCount": 344,
+          "title": "“Change Password”",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/03/breaking-rsa-through-insufficiently-random-primes.html",
           "author": null,
@@ -3841,76 +3841,6 @@
           "wordCount": 842,
           "title": "Flood of malicious junk traffic makes Ukrainian websites unreachable",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/site-down-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1834596",
-          "author": "Beth Mole",
-          "description": "Incidental cases do not account for the jump in hospitalizations, the authors found.",
-          "link": "https://arstechnica.com/?p=1834596",
-          "publishedOn": "2022-02-15T23:29:29.000Z",
-          "wordCount": 1071,
-          "title": "Omicron wave was brutal on kids; hospitalization rates 4X higher than delta’s",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1211399560-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1833834",
-          "author": "Jennifer Ouellette",
-          "description": "Roboticists can learn a lot about avoiding obstacles while pursuing a target from the flies.",
-          "link": "https://arstechnica.com/?p=1833834",
-          "publishedOn": "2022-02-15T23:00:13.000Z",
-          "wordCount": 1316,
-          "title": "The robber fly is an aerodynamic acrobat that can catch its prey in midflight",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/robberflyLIST-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1834586",
-          "author": "John Timmer",
-          "description": "We'd seen galaxies with little dark matter, but had no explanation for them.",
-          "link": "https://arstechnica.com/?p=1834586",
-          "publishedOn": "2022-02-15T22:57:47.000Z",
-          "wordCount": 1261,
-          "title": "With relief, researchers find an explanation for dark-matter-poor galaxies",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/image-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1834494",
-          "author": "Sam Machkovech",
-          "description": "Hands-on: loading times, what \"ray tracing\" means on console, PC changes.",
-          "link": "https://arstechnica.com/?p=1834494",
-          "publishedOn": "2022-02-15T22:13:08.000Z",
-          "wordCount": 1293,
-          "title": "14 months later, Cyberpunk 2077 gets next-gen console patch, free 5-hour trial",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/cyber-keanu-lounge-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1834447",
-          "author": "Ron Amadeo",
-          "description": "Android 13's KVM support is for enhanced security, but you can also hijack it for fun.",
-          "link": "https://arstechnica.com/?p=1834447",
-          "publishedOn": "2022-02-15T21:25:36.000Z",
-          "wordCount": 1046,
-          "title": "Android 13 virtualization hack runs Windows (and Doom) in a VM on Android",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2014/08/android-windows-640x215.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1834500",
-          "author": "Jon Brodkin",
-          "description": "DA cites arrest of woman who had rape exam years ago—chief plans investigation.",
-          "link": "https://arstechnica.com/?p=1834500",
-          "publishedOn": "2022-02-15T19:50:13.000Z",
-          "wordCount": 1268,
-          "title": "SFPD put rape victims’ DNA into database used to find criminals, DA alleges",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-chesa-boudin-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1834508",
-          "author": "Jonathan M. Gitlin",
-          "description": "The four-door coupe is based on the Polestar Precept concept car.",
-          "link": "https://arstechnica.com/?p=1834508",
-          "publishedOn": "2022-02-15T19:13:58.000Z",
-          "wordCount": 709,
-          "title": "Polestar shows off the aluminum EV platform for its new flagship",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/645466_20220215_Polestar_bonded_aluminium_platform-760x380.jpg"
         }
       ]
     },
@@ -3944,16 +3874,6 @@
           "wordCount": 4448,
           "title": "Blog: Updated: Dockershim Removal FAQ",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/02/16/sig-node-ci-subproject-celebrates/",
-          "author": null,
-          "description": "Authors: Sergey Kanzhelev (Google), Elana Hashman (Red Hat)\nEnsuring the reliability of SIG Node upstream code is a continuous effort\nthat takes a lot of behind-the-scenes effort from many contributors.\nThere are frequent releases of Kubernetes, base operating systems,\ncontainer runtimes, and test infrastructure that result in a complex matrix that\nrequires attention and steady investment to \"keep the lights on.\"\nIn May 2020, the Kubernetes node special interest group (\"SIG Node\") organized a new\nsubproject for continuous integration (CI) for node-related code and tests. Since its\ninauguration, the SIG Node CI subproject has run a weekly meeting, and even the full hour\nis often not enough to complete triage of all bugs, test-related PRs and issues, and discuss all\nrelated ongoing work with…",
-          "link": "https://kubernetes.io/blog/2022/02/16/sig-node-ci-subproject-celebrates/",
-          "publishedOn": "2022-02-16T00:00:00.000Z",
-          "wordCount": 4509,
-          "title": "Blog: SIG Node CI Subproject Celebrates Two Years of Test Improvements",
-          "imageUrl": "serial-tests-green.png"
         }
       ]
     },
@@ -4020,6 +3940,16 @@
       "siteUrl": "https://alpinelinux.org/atom.xml",
       "articles": [
         {
+          "id": "https://alpinelinux.org/posts/Alpine-3.12.10-3.13.8-3.14.4-released.html",
+          "author": null,
+          "description": "Alpine 3.12.10, 3.13.8 and 3.14.4 released",
+          "link": "https://alpinelinux.org/posts/Alpine-3.12.10-3.13.8-3.14.4-released.html",
+          "publishedOn": "2022-03-17T00:00:00.000Z",
+          "wordCount": 86,
+          "title": "Alpine 3.12.10, 3.13.8 and 3.14.4 released",
+          "imageUrl": null
+        },
+        {
           "id": "https://alpinelinux.org/posts/Alpine-3.15.1-released.html",
           "author": null,
           "description": "Alpine 3.15.1 released",
@@ -4036,6 +3966,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194506",
+          "author": "Ed Nightingale",
+          "description": "The developer of Frostpunk 2, 11bit Studios, has disputed a leak of the game's release date.\nAs reported by TechRaptor earlier this week, a number of game release dates were seemingly leaked via Steam API, including Frostpunk 2, Kerbal Space Program 2, Uncharted: Legacy of Thieves Collection, and Vampire: The Masquerade - Bloodlines 2.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-frostpunk-2-developer-denies-release-date-leak",
+          "publishedOn": "2022-03-17T12:26:00.000Z",
+          "wordCount": 952,
+          "title": "Frostpunk 2 developer denies Steam release date leak",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-12-19/-1647519559355.jpg/EG11/resize/1200x-1/-1647519559355.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194505",
+          "author": "Tom Phillips",
+          "description": "PSN webstore, users have spotted.\nIt is similarly unlisted via the PS4 store, meaning you need access to a PS5 to take advantage of its currently-discounted price.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-discounted-grand-theft-auto-5-for-ps5-unavailable-via-playstation-webstore",
+          "publishedOn": "2022-03-17T12:22:00.000Z",
+          "wordCount": 914,
+          "title": "Discounted GTA5 for PS5 unavailable via PlayStation webstore",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-12-17/discounted-grand-theft-auto-5-for-ps5-unavailable-via-playstation-webstore-1647519426450.jpg/EG11/resize/1200x-1/discounted-grand-theft-auto-5-for-ps5-unavailable-via-playstation-webstore-1647519426450.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194499",
+          "author": "Ishraq Subhan",
+          "description": "EA has removed Russia and Belarus as eligible countries in the publisher's esports programmes. \nThis means, effective immediately, players and teams from Russia and Belarus will be unable to participate in the Apex Legends Global Series and the FIFA 22 Global Series. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-ea-removes-russian-and-belarusian-teams-from-esports-leagues",
+          "publishedOn": "2022-03-17T12:18:00.000Z",
+          "wordCount": 836,
+          "title": "EA removes Russian and Belarusian teams from esports leagues",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-12-16/ea-removes-russian-and-belarusian-teams-from-esports-leagues-1647519405341.jpg/EG11/resize/1200x-1/ea-removes-russian-and-belarusian-teams-from-esports-leagues-1647519405341.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194466",
+          "author": "Ishraq Subhan",
+          "description": "Ubisoft has rebranded Tom Clancy's XDefiant to... XDefiant. \nThe name change comes as Ubisoft attempts to recover from the botched announcement of the game last year. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-ubisoft-drops-tom-clancys-name-from-xdefiant",
+          "publishedOn": "2022-03-17T11:00:00.000Z",
+          "wordCount": 851,
+          "title": "Ubisoft drops Tom Clancy's name from XDefiant",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-10-56/ubisoft-drops-tom-clancys-name-from-xdefiant-1647514614715.jpg/EG11/resize/1200x-1/ubisoft-drops-tom-clancys-name-from-xdefiant-1647514614715.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194477",
+          "author": "Ed Nightingale",
+          "description": "Elden Ring players have discovered underwear that was cut from the final game.\nKnown as the Deathbed Smalls, the underwear is believed to have been part of an armour set alongside the Deathbed Dress (found late in the game).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-elden-ring-players-discover-underwear-cut-from-final-game",
+          "publishedOn": "2022-03-17T10:57:00.000Z",
+          "wordCount": 833,
+          "title": "Elden Ring players discover underwear cut from final game",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-10-50/-1647514249464.jpg/EG11/resize/1200x-1/-1647514249464.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194476",
+          "author": "Tom Phillips",
+          "description": "A Doctor Who experience is coming to Fortnite, though not as part of an official collaboration. \nBBC Studios announced the arrival of the Tardis into Fortnite today, and showed off images of a playable space it has built in the game's Creative mode. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-doctor-who-is-coming-to-fortnite-but-not-as-youd-expect",
+          "publishedOn": "2022-03-17T10:55:00.000Z",
+          "wordCount": 1052,
+          "title": "Doctor Who is coming to Fortnite, but not as you'd expect",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-10-47/doctor-who-is-coming-to-fortnite-but-not-as-youd-expect-1647514065947.jpg/EG11/resize/1200x-1/doctor-who-is-coming-to-fortnite-but-not-as-youd-expect-1647514065947.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194464",
+          "author": "Martin Robinson",
+          "description": "Nintendo's just updated its Mega Drive offering as part of its Switch Online service, adding three new games - including two classics from beloved studio Treasure. \nAlien Soldier and Light Crusader lead the way, the former a boss-rush side-scroller that plays out as if Jeff Minter had a hand in a Gunstar Heroes remix, the latter an action adventure that sits apart from the rest of Treasure's back catalogue with its darker fantasy tone. Also I've not played it anyway near as much as the rest of Treasure's games and can't wait to get properly acquainted with it now it's on Switch. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-one-of-treasures-finest-just-made-its-way-to-nintendo-switch-online",
+          "publishedOn": "2022-03-17T10:14:00.000Z",
+          "wordCount": 804,
+          "title": "One of Treasure's finest just made its way to Nintendo Switch Online",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-10-17/-1647512266601.jpg/EG11/resize/1200x-1/-1647512266601.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2194446",
+          "author": "Ed Nightingale",
+          "description": "A new Elden Ring patch, available today, brings significant changes to the game.\nAmong a number of new additions, the most interesting is the addition of NPC markers to the map. Where some players have lost the thread of in-game quests (even making an app for it), now it will be a lot easier to keep track of characters.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-17-elden-ring-patch-adds-npc-markers-to-map",
+          "publishedOn": "2022-03-17T09:13:00.000Z",
+          "wordCount": 915,
+          "title": "Elden Ring patch adds NPC markers to map",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-17-09-15/-1647508558241.jpg/EG11/resize/1200x-1/-1647508558241.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2194398",
           "author": "Matt Wales",
@@ -8105,36 +8115,6 @@
           "wordCount": 1205,
           "title": "3DS and Wii U eShop purchases end in March 2023",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-16-10-38/3ds-and-wii-u-eshop-purchases-end-in-march-2023-1645007926240.jpg/EG11/resize/1200x-1/3ds-and-wii-u-eshop-purchases-end-in-march-2023-1645007926240.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2189694",
-          "author": "Matt Wales",
-          "description": "Sonic the Hedgehog's second movie outing is still months from release, but already Sega would like you to know that a third entry in the unexpectedly endearing live-action series is on the way. And if that wasn't enough live-action Sonic-themed news to be getting on with, how about this: Knuckles is also set to start in his very own TV show.\nPerhaps unsurprisingly, given how far out both projects still appear to be, details remain relatively scant beyond their official announcement; there's one bit of major news, however, with Paramount Pictures confirming Idris Elba - who's set to makes his debut as Knuckles in the second Sonic movie - will be reprising his role as the cocky echidna in the live-action television show, said to be airing on Paramount Plus.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-15-third-sonic-movie-confirmed-and-knuckles-is-getting-his-own-live-action-tv-show",
-          "publishedOn": "2022-02-15T23:38:00.000Z",
-          "wordCount": 945,
-          "title": "Third Sonic movie confirmed and Knuckles is getting his own live-action TV show",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-15-23-45/theres-third-sonic-movie-is-in-the-works-and-knuckles-is-getting-his-own-live-action-tv-show-1644968732448.jpg/EG11/resize/1200x-1/theres-third-sonic-movie-is-in-the-works-and-knuckles-is-getting-his-own-live-action-tv-show-1644968732448.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2189693",
-          "author": "Matt Wales",
-          "description": "If you've been eyeing up Star Wars: Hunters - Zynga's upcoming free-to-play arena shooter, set in a galaxy far, far away - your curiosity may be passingly piqued by its latest reveals, covering a new game mode, two new maps, and two new Hunters eager to join the fray.\nGiven that Hunters is sort of doing its own thing in a cartoon-y corner of the Star Wars universe, neither of its new characters are exactly familiar faces, but like the boulder-throwing Wookie hunter, droid Jedi, and Jawas duo revealed previously, they do at least fit comfortably within the Star Wars oeuvre. There's Sprocket - a Mon Calamari who can control an arsenal of droids, capable of injuring opponents and protecting allies, from the comfort of his custom Command Chair - and Skora, a Rodian cartel doctor that can heal and harm with her dart gun.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-15-star-wars-hunters-reveals-new-maps-characters-and-old-republics-huttball-mode",
-          "publishedOn": "2022-02-15T21:55:00.000Z",
-          "wordCount": 979,
-          "title": "Star Wars: Hunters reveals new maps, characters, and Old Republic's Huttball mode",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-15-22-13/star-wars-hunters-reveals-new-maps-characters-and-the-return-of-the-old-republics-huttball-mode-1644963184447.jpg/EG11/resize/1200x-1/star-wars-hunters-reveals-new-maps-characters-and-the-return-of-the-old-republics-huttball-mode-1644963184447.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2189689",
-          "author": "Matt Wales",
-          "description": "PlayStation Productions, the arm of Sony's console empire dedicated to adapting its game properties for film and television, has formally introduced the new blue-hued ident it'll be sticking in front of its slowly burgeoning roster of movie and television shows - starting with the Uncharted movie that's in cinemas now.\nAs with the similarly hued PlayStation Studios animation that precedes all of Sony's recent games, the new PlayStation Productions ident serves up a star-studded roster of iconic PlayStation characters, including God of War's Kratos (and BOY), Uncharted's Nathan Drake, Horizon's Alloy, The Last of Us' Joel and Ellie, Ratchet & Clank, Astrobot, and more.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-02-15-heres-the-new-playstation-productions-ident-youll-be-seeing-ahead-of-its-movies-and-tv",
-          "publishedOn": "2022-02-15T19:24:00.000Z",
-          "wordCount": 990,
-          "title": "Here's the new PlayStation Productions ident you'll be seeing ahead of its movies and TV",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-02-15-19-40/heres-the-new-playstation-productions-ident-youll-be-seeing-in-front-of-its-tv-shows-and-movies-1644954022126.jpg/EG11/resize/1200x-1/heres-the-new-playstation-productions-ident-youll-be-seeing-in-front-of-its-tv-shows-and-movies-1644954022126.jpg"
         }
       ]
     }
