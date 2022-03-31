@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T18:27:19.742Z</updated>
+    <updated>2022-03-31T00:30:54.139Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Is Your Cluster Ready for v1.24?]]></title>
+        <id>https://kubernetes.io/blog/2022/03/31/ready-for-dockershim-removal/</id>
+        <link href="https://kubernetes.io/blog/2022/03/31/ready-for-dockershim-removal/"/>
+        <updated>2022-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Kat Cosgrove
+Way back in December of 2020, Kubernetes announced the deprecation of Dockershim. In Kubernetes, dockershim is a software shim that allows you to use the entire Docker engine as your container runtime within Kubernetes. In the upcoming v1.24 release, we are removing Dockershim - the delay between deprecation and removal in line with the project’s policy of supporting features for at least one year after deprecation. If you are a cluster operator, this guide includes the practical realities of what you need to know going into this release. Also, what do you need to do to ensure your cluster doesn’t fall over!
+First, does this even affect you?
+If you are rolling your own cluster or are otherwise unsure whether or not this removal affects you, stay on the safe side and ch…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pfizer, Moderna vaccines aren’t the same; study finds antibody differences]]></title>
+        <id>https://arstechnica.com/?p=1844672</id>
+        <link href="https://arstechnica.com/?p=1844672"/>
+        <updated>2022-03-30T22:45:16.000Z</updated>
+        <summary type="html"><![CDATA[The findings add further weight to the idea of mix-and-match boosting.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s next US antitrust issue: Google Maps]]></title>
+        <id>https://arstechnica.com/?p=1844599</id>
+        <link href="https://arstechnica.com/?p=1844599"/>
+        <updated>2022-03-30T21:46:18.000Z</updated>
+        <summary type="html"><![CDATA[The DOJ investigates if Google Maps' various bundling schemes are anticompetitive.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft reinstates direct Twitter sharing feature on Xbox consoles in latest Insider beta]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2196581</id>
+        <link href="https://www.eurogamer.net/articles/2022-03-30-microsoft-reinstates-direct-twitter-sharing-feature-on-xbox-consoles-in-latest-insider-beta"/>
+        <updated>2022-03-30T21:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has elected to reinstate the ability for Xbox users to share game screenshots and videos directly to Twitter in response to feedback it received after removing the feature from console dashboards in an Xbox Insider build earlier this month.
+While the direct Twitter sharing feature never got the chop in the live build of the Xbox dashboard - meaning the impact of its removal was limited - there were certainly grumbles from Insider testers after they were forced to grapple with more cumbersome methods of image and video sharing, requiring them to first upload clips to their phones, following the changes made in Microsoft's previous Insider build.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple plans to build its own financial infrastructure for payments and lending]]></title>
+        <id>https://arstechnica.com/?p=1844608</id>
+        <link href="https://arstechnica.com/?p=1844608"/>
+        <updated>2022-03-30T21:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Financial services will get the full Apple treatment, sources say.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT giant Globant discloses hack after Lapsus$ leaks 70GB of stolen data]]></title>
+        <id>https://arstechnica.com/?p=1844610</id>
+        <link href="https://arstechnica.com/?p=1844610"/>
+        <updated>2022-03-30T20:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Data released by the group purports to belong to Apple, Facebook, and others.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Cells gets new money themed biome in its big free Break the Bank update]]></title>
+        <id>https://www.eurogamer.net/article.php?article_id=2196578</id>
+        <link href="https://www.eurogamer.net/articles/2022-03-30-dead-cells-gets-new-money-themed-biome-in-its-big-free-break-the-bank-update"/>
+        <updated>2022-03-30T19:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Dead Cells' already ridiculously generous bounty of stuff has expanded once more, this time courtesy of its free new Break the Bank update, which brings the likes of new money themed enemies, weapons, and a brand-new biome to PC and consoles today.
+Break the Bank is all about the gold, and its centrepiece is an opulent depository for unimaginable riches known as The Bank. Mechanically, this is quite a bit different from other biomes so far added to developer Motion Twin's acclaimed rogue-like action-platformer, given that its entrance - a mysterious giant chest - will appear at random during a run.
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s best deals: 8BitDo game controllers, Razer gaming mice, and more]]></title>
+        <id>https://arstechnica.com/?p=1844100</id>
+        <link href="https://arstechnica.com/?p=1844100"/>
+        <updated>2022-03-30T18:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has the new iPad Air, recommended board games, and LG OLED TVs.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antitrust bill in Senate would help rein in Big Tech platforms, DOJ says]]></title>
+        <id>https://arstechnica.com/?p=1844546</id>
+        <link href="https://arstechnica.com/?p=1844546"/>
+        <updated>2022-03-30T18:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Bill would define which behaviors are illegal and anticompetitive on platforms.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whether you love the idea or hate it, Lotus is making an electric SUV]]></title>
+        <id>https://arstechnica.com/?p=1844547</id>
+        <link href="https://arstechnica.com/?p=1844547"/>
+        <updated>2022-03-30T18:08:10.000Z</updated>
+        <summary type="html"><![CDATA[The Eletre is due in the US in 2024 with 600 hp and more than 300 miles of range.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hubble picks up the most distant star yet observed]]></title>
         <id>https://arstechnica.com/?p=1844540</id>
@@ -249,6 +356,16 @@ As a post from the studio on Russian social network VK explains, some players ma
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rejected Question Categories]]></title>
+        <id>https://xkcd.com/2600/</id>
+        <link href="https://xkcd.com/2600/"/>
+        <updated>2022-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rejected_question_categories.png" title="You can click to preorder to get a copy of What If? 2 when it comes out 9/13, assuming we all make it past the spider situation(?) on Tuesday(?)." alt="You can click to preorder to get a copy of What If? 2 when it comes out 9/13, assuming we all make it past the spider situation(?) on Tuesday(?)." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -9072,125 +9189,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forza Horizon 5 adds sign language support today]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191797</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-forza-horizon-5-adds-sign-language-support-today"/>
-        <updated>2022-03-01T12:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Sign language support is now available in Forza Horizon 5.
-As reported last year, the feature has been in development for some time. From today, American Sign Language (ASL) and British Sign Language (BSL) support for in-game cinematics is added in a free update.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow Warrior 3 heads up PlayStation Now games for March]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191799</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-shadow-warrior-3-heads-up-playstation-now-games-for-march"/>
-        <updated>2022-03-01T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony has revealed the latest games to be added to its subscription service PlayStation Now, and they include the highly anticipated and gaudy Shadow Warrior 3.
-Users will be able to choose from four news games to sink their teeth into from today. Along with Shadow Warrior 3, PS Now subscribers will also be able to enjoy Crysis Remastered, Relicta and Chicken Police - Paint It Red. 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA 23 will reportedly include crossplay]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191793</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-fifa-23-will-reportedly-include-crossplay"/>
-        <updated>2022-03-01T12:13:00.000Z</updated>
-        <summary type="html"><![CDATA[This year's upcoming FIFA 23 will reportedly allow fans to play each other across PC, PlayStation and Xbox. 
-The move to crossplay has been a long time coming for EA's footy brand, and comes after numerous other big franchises have also taken the plunge. 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decrypting Hive Ransomware Data]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/03/decrypting-hive-ransomware-data.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/03/decrypting-hive-ransomware-data.html"/>
-        <updated>2022-03-01T12:06:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>Nice piece of <a href="https://arxiv.org/abs/2202.08477">research</a>:</p>
-<blockquote><p><b>Abstract:</b> Among the many types of malicious codes, ransomware poses a major threat. Ransomware encrypts data and demands a ransom in exchange for decryption. As data recovery is impossible if the encryption key is not obtained, some companies suffer from considerable damage, such as the payment of huge amounts of money or the loss of important data. In this paper, we analyzed Hive ransomware, which appeared in June 2021. Hive ransomware has caused immense harm, leading the FBI to issue an alert about it. To minimize the damage caused by Hive Ransomware and to help victims recover their files, we analyzed Hive Ransomware and studied recovery methods. By analyzing the encryption process of Hive ransomware, we confirmed that vulnerabilities exist by using their own encryption algorithm. We have recovered the master key for generating the file encryption key partially, to enable the decryption of data encrypted by Hive ransomware. We recovered 95% of the master key without the attacker&#8217;s RSA private key and decrypted the actual infected data. To the best of our knowledge, this is the first successful attempt at decrypting Hive ransomware. It is expected that our method can be used to reduce the damage caused by Hive ransomware...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valheim adds Mountain update with dungeons]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191780</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-valheim-adds-mountain-update-with-dungeons"/>
-        <updated>2022-03-01T11:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Viking survival game Valheim has launched its new Mountain update, which adds instanced cave dungeons to the game. 
-The update fleshes out Valheim's snowy mountain biome with new enemies and resources, some of which are buried in those caves. 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve boss Gabe Newell hand delivers Steam Decks]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191778</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-valve-boss-gabe-newell-hand-delivers-steam-decks"/>
-        <updated>2022-03-01T11:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Valve boss Gabe Newell has been out hand delivering Steam Decks.
-The company emailed a number of people with reservations who happened to live near its office to notify them that Newell would be delivering the handheld consoles. "I don't believe you," replied one person.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Online adds missions and rewards section]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191760</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-nintendo-switch-online-adds-new-missions-and-rewards-section"/>
-        <updated>2022-03-01T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest update for the Nintendo Switch Online service has added a new missions and rewards section.
-This new section offers users the chance to earn 'My Nintendo Platinum Points', which can then be redeemed for exclusive items.
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World of Tanks creative director fired for publicly supporting Russia]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191769</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-world-of-tanks-creative-director-fired-for-publicly-supporting-russia"/>
-        <updated>2022-03-01T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[World of Tanks creative director Sergey Burkatovskiy has been fired by studio Wargaming after publicly supporting Russia's invasion of Ukraine.
-In a now-deleted Facebook post, Burkatovskiy wrote that he supported "the operation of the Armed Forces of the Russian Federation, the DPR [Donetsk People's Republic] and the LPR [Luhansk People's Republic]".
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THQ, Gearbox owner Embracer donating $1m to Ukraine aid]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191762</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-thq-gearbox-owner-embracer-donating-usd1m-to-ukraine-aid"/>
-        <updated>2022-03-01T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Embracer Group, the umbrella company which owns THQ Nordic, Gearbox, Koch Media and Saber Interactive, will donate $1m to humanitarian aid groups in response to Russia's invasion of Ukraine.
-This donation will be matched by Embracer boss Lars Wingefors, who will donate $1m to Embracer's "employees and contractors who are directly impacted by the crisis". 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New mod lets you pause Elden Ring]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2191755</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-01-new-mod-lets-you-pause-elden-ring"/>
-        <updated>2022-03-01T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[A new mod has been released that lets PC players pause Elden Ring.
-As with all Souls games, players are unable to pause the game. That's in part due to its online features - summoning and messaging - but also as part of its brutal atmosphere. You're never safe.
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
