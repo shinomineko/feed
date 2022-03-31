@@ -124,16 +124,6 @@
           "wordCount": 197,
           "title": "Outlet Denier",
           "imageUrl": "https://imgs.xkcd.com/comics/outlet_denier_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2588/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/party_quadrants.png\" title=\"Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.\" alt=\"Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.\" />",
-          "link": "https://xkcd.com/2588/",
-          "publishedOn": "2022-03-02T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Party Quadrants",
-          "imageUrl": "https://imgs.xkcd.com/comics/party_quadrants_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html",
+          "author": null,
+          "description": "<p>North Korean hackers have been <a href=\"https://arstechnica.com/information-technology/2022/03/north-korean-hackers-unleashed-chrome-0-day-exploit-on-hundreds-of-us-targets/\">exploiting</a> a zero-day in Chrome.</p>\n<blockquote><p>The flaw, tracked as CVE-2022-0609, was exploited by two separate North Korean hacking groups. Both groups deployed the same exploit kit on websites that either belonged to legitimate organizations and were hacked or were set up for the express purpose of serving attack code on unsuspecting visitors. One group was dubbed Operation Dream Job, and it targeted more than 250 people working for 10 different companies. The other group, known as AppleJeus, targeted 85 users.</p></blockquote>\n<p><a href=\"https://blog.google/threat-analysis-group/countering-threats-north-korea/\">Details</a>:</p>\n<blockquote><p>The attackers made use of an exploit kit that contained multiple stages and components in order to exploit targeted users. The attackers placed links to the exploit kit within hidden iframes, which they embedded on both websites they owned as well as some websites they compromised...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html",
+          "publishedOn": "2022-03-31T11:13:50.000Z",
+          "wordCount": 697,
+          "title": "Chrome Zero-Day from North Korea",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/03/stalking-with-an-apple-watch.html",
           "author": null,
@@ -3841,96 +3841,6 @@
           "wordCount": 1459,
           "title": "Better sound, better graphics, better physics—the Gran Turismo 7 review",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GT7_Porsche_917K_70_Daytona-International-Speedway_05_-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837526",
-          "author": "Andrew Cunningham",
-          "description": "Company stopped shipping hardware to retail channels last week.",
-          "link": "https://arstechnica.com/?p=1837526",
-          "publishedOn": "2022-03-01T23:35:14.000Z",
-          "wordCount": 730,
-          "title": "Apple halts all device sales in Russia in response to invasion of Ukraine",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/iphone-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837484",
-          "author": "Beth Mole",
-          "description": "About 37 million infected in omicron wave, and 58% of kids were infected at some point.",
-          "link": "https://arstechnica.com/?p=1837484",
-          "publishedOn": "2022-03-01T22:15:28.000Z",
-          "wordCount": 1000,
-          "title": "43% of Americans—140 million—have had COVID, CDC estimates",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1236926662-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837471",
-          "author": "Dan Goodin",
-          "description": "100,000 misconfigured servers are creating a new way to knock sites offline.",
-          "link": "https://arstechnica.com/?p=1837471",
-          "publishedOn": "2022-03-01T21:35:22.000Z",
-          "wordCount": 1292,
-          "title": "DDoSers are using a potent new method to deliver attacks of unthinkable size",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837345",
-          "author": "Eric Berger",
-          "description": "Someone finally said the quiet part out loud.",
-          "link": "https://arstechnica.com/?p=1837345",
-          "publishedOn": "2022-03-01T20:03:14.000Z",
-          "wordCount": 875,
-          "title": "Finally, we know production costs for SLS and Orion, and they’re wild",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/51821402680_ddb9b63c7a_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837439",
-          "author": "John Timmer",
-          "description": "A distinct lineage may have spread through deer and mink.",
-          "link": "https://arstechnica.com/?p=1837439",
-          "publishedOn": "2022-03-01T19:46:04.000Z",
-          "wordCount": 1135,
-          "title": "Researchers may have ID’ed first deer-to-human SARS-CoV-2 transmission",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2011/08/baby_baby_baby_deer_with_mama-4e5ce7d-intro.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837328",
-          "author": "Ron Amadeo",
-          "description": "Oppo is up to 240 W for the lab prototypes and 150 W for commercial phones.",
-          "link": "https://arstechnica.com/?p=1837328",
-          "publishedOn": "2022-03-01T19:33:46.000Z",
-          "wordCount": 864,
-          "title": "Oppo demos 240 W smartphone charging, takes a phone to full in 9 minutes",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/240W-SUPERVOOC-_-02-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837306",
-          "author": "Andrew Cunningham",
-          "description": "Company is also removing and deprioritizing info from Russian state media.",
-          "link": "https://arstechnica.com/?p=1837306",
-          "publishedOn": "2022-03-01T19:24:09.000Z",
-          "wordCount": 837,
-          "title": "Microsoft identifies and mitigates new malware targeting Ukraine “within 3 hours”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837380",
-          "author": "Jon Brodkin",
-          "description": "Russian state-owned media blocked in Europe to stop \"lies to justify Putin's war.\"",
-          "link": "https://arstechnica.com/?p=1837380",
-          "publishedOn": "2022-03-01T18:52:29.000Z",
-          "wordCount": 921,
-          "title": "YouTube blocks RT and Sputnik as Russia tells media not to say “invasion”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-sputnik-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837330",
-          "author": "Scharon Harding",
-          "description": "15.6-incher weighing 2.58 pounds with a discrete GPU.",
-          "link": "https://arstechnica.com/?p=1837330",
-          "publishedOn": "2022-03-01T18:36:33.000Z",
-          "wordCount": 892,
-          "title": "Intel Arc GPU squeezes into Samsung’s lightweight Galaxy Book2 Pro",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/004_galaxy_book2-family_book2-business_book2_pro_360_book2_pro_book2_360_book2-760x380.jpg"
         }
       ]
     },
@@ -4077,6 +3987,66 @@
       "siteUrl": "https://www.eurogamer.net/",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196671",
+          "author": "Ed Nightingale",
+          "description": "Nintendo has shown its fan-favourite Mii characters back in Nintendo Switch Sports.\nWhen the game was announced back in February, many fans were perturbed by the new-look in-game characters, compared to the Miis used in Wii Sports.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-31-nintendo-confirms-mii-are-included-in-nintendo-switch-sports",
+          "publishedOn": "2022-03-31T12:04:00.000Z",
+          "wordCount": 994,
+          "title": "Nintendo shows Mii characters in Nintendo Switch Sports",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-12-55/-1648727733357.jpg/EG11/resize/1200x-1/-1648727733357.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196665",
+          "author": "Victoria Kennedy",
+          "description": "Another new patch has been released for Horizon Forbidden West. (Please note some of the following fixes may contain story spoilers for the game.)\nAs with previous patches, this latest update continues to address bugs and improve the game's graphical performance. However, most excitingly for the completionists among us, it also addresses an issue preventing players from getting the 100 percent completion notice in their notebook. Huzzah!\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-31-guerrilla-releases-another-horizon-forbidden-west-patch",
+          "publishedOn": "2022-03-31T11:59:00.000Z",
+          "wordCount": 938,
+          "title": "Guerrilla releases another Horizon Forbidden West patch",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-12-44/-1648727048622.jpg/EG11/resize/1200x-1/-1648727048622.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196644",
+          "author": "Tom Phillips",
+          "description": "Scott Bennie, a writer and contributor to the original Fallout, has died aged 61.\nBennie served as a designer, writer and producer of numerous games during his time at Interplay in the 1990s, including The Lord of the Rings, Starfleet Academy, plus Starfleet Command and its sequel. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-31-fallout-writer-scott-bennie-dies-aged-61",
+          "publishedOn": "2022-03-31T10:41:00.000Z",
+          "wordCount": 1200,
+          "title": "Fallout writer Scott Bennie dies",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-34/-1648722898727.jpg/EG11/resize/1200x-1/-1648722898727.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196635",
+          "author": "Ed Nightingale",
+          "description": "A new Elden Ring-themed mod for Tekken 7 lets you duel as all the greats: namely potboy and lobster.\nModder Ultraboy has created the mod (available on Tekken Mods) that replaces various Tekken characters for new Elden Ring models.\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-31-its-potboy-vs-lobster-in-this-elden-ring-tekken-mod",
+          "publishedOn": "2022-03-31T10:21:00.000Z",
+          "wordCount": 1152,
+          "title": "It's potboy vs lobster in this Elden Ring Tekken mod",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-17/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod-1648721836034.jpg/EG11/resize/1200x-1/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod-1648721836034.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196632",
+          "author": "Tom Phillips",
+          "description": "Parents attempting to sue Nintendo are getting their kids involved in a class-action lawsuit. \nThe unusual legal situation has arisen as Nintendo and the parents tussle over the latter's ability to get the lawsuit off the ground (thanks, Axios).\nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-31-curious-class-action-lawsuit-may-see-kids-suing-nintendo",
+          "publishedOn": "2022-03-31T10:15:00.000Z",
+          "wordCount": 891,
+          "title": "Curious class-action lawsuit may see kids suing Nintendo",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-06/-1648721198213.jpg/EG11/resize/1200x-1/-1648721198213.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196627",
+          "author": "Victoria Kennedy",
+          "description": "Ella Purnell, famous for her work in Yellowjackets and Netflix's animated series Arcane, has joined the cast of Amazon's upcoming Fallout adaptation.\nAs reported by Variety, Purnell will be taking on a currently unspecified lead role in the upcoming series. However, sources close to the show have revealed Purnell's character will be \"upbeat and uncannily direct with an all-American can-do spirit. \nRead more",
+          "link": "https://www.eurogamer.net/articles/2022-03-31-fallout-tv-adaptation-adds-ella-purnell-to-its-cast",
+          "publishedOn": "2022-03-31T10:09:00.000Z",
+          "wordCount": 931,
+          "title": "Fallout TV adaptation adds Ella Purnell to its cast",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-04/-1648721085151.jpg/EG11/resize/1200x-1/-1648721085151.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/article.php?article_id=2196581",
           "author": "Matt Wales",
           "description": "Microsoft has elected to reinstate the ability for Xbox users to share game screenshots and videos directly to Twitter in response to feedback it received after removing the feature from console dashboards in an Xbox Insider build earlier this month.\nWhile the direct Twitter sharing feature never got the chop in the live build of the Xbox dashboard - meaning the impact of its removal was limited - there were certainly grumbles from Insider testers after they were forced to grapple with more cumbersome methods of image and video sharing, requiring them to first upload clips to their phones, following the changes made in Microsoft's previous Insider build.\nRead more",
@@ -4105,6 +4075,16 @@
           "wordCount": 1018,
           "title": "The Stanley Parable: Ultra Deluxe finally gets a release date - and of course it's 427",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-30-18-46/the-stanley-parable-ultra-deluxe-finally-arrives-next-month-and-the-magic-number-is-427-1648662360208.jpg/EG11/resize/1200x-1/the-stanley-parable-ultra-deluxe-finally-arrives-next-month-and-the-magic-number-is-427-1648662360208.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/article.php?article_id=2196547",
+          "author": "Will Judd",
+          "description": "Today marks the launch of Intel's Arc A-series graphics family, the company's first discrete graphics cards to go head to head against industry titans AMD and Nvidia. To start, Team Blue is building its Arc GPUs for laptops, with entry-level Arc 3 models debuting now in laptops from $899. Higher-powered models called Arc 5 and Arc 7 are set to arrive early this summer, in higher-end machines. The company also teased its first desktop Arc graphics card at the very end of its presentation, showing off a much beefier design than the DG1 card shipped to developers last year. Here's what you need to know from Intel's Arc announcements.\nFirst of all, the Arc series of graphics cards ought to be fully-featured models, with support for the full DirectX 12 Ultimate feature set (ray tracing, VRS, mesh shading, sampler feedback) plus DirectStorage and XeSS AI upscaling. That puts them on an even keel with Nvidia in terms of most features, and ahead of AMD who don't yet have a temporal upscaling solution. \nRead more",
+          "link": "https://www.eurogamer.net/articles/digitalfoundry-2022-intel-arc-graphics-launch-in-laptops-first-performance-figures-revealed",
+          "publishedOn": "2022-03-30T16:41:00.000Z",
+          "wordCount": 1691,
+          "title": "Intel Arc graphics launch in laptops, first performance figures revealed",
+          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-30-17-21/intel-arc-graphics-launch-in-laptops-first-performance-figures-revealed-1648657272717.jpg/EG11/resize/1200x-1/intel-arc-graphics-launch-in-laptops-first-performance-figures-revealed-1648657272717.jpg"
         },
         {
           "id": "https://www.eurogamer.net/article.php?article_id=2196561",
@@ -8185,36 +8165,6 @@
           "wordCount": 877,
           "title": "Ghostwire: Tokyo has a free prequel visual novel you can play now",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-02-10-46/-1646217969120.jpg/EG11/resize/1200x-1/-1646217969120.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2191906",
-          "author": "Matt Wales",
-          "description": "Intellivision has cut its latest fundraising campaign for the still-unreleased Amico console short, setting yet more alarm bells ringing over the troubled machine's future.\nThe Amico, designed as a low-spec console with a family focus, was announced in 2018 and initially expected to arrive in October 2020. However, the machine has since been thrice-delayed, with still no sign of a launch in sight. Worse still, a recent SEC filing highlighted \"significant debt\" for Intellivision and suggested that, having made no revenue since its inception, the company may not be able to operate beyond July 2022 without additional funds - despite 6,000 pre-orders for Amico still being unfulfilled.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-01-intellivision-cuts-fundraising-campaign-for-amico-short-setting-alarm-bells-ringing",
-          "publishedOn": "2022-03-01T22:39:00.000Z",
-          "wordCount": 957,
-          "title": "Intellivision cuts latest Amico fundraising campaign short, setting alarm bells ringing",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-22-58/intellivision-cuts-fundraising-campaign-for-beleaguered-amico-short-setting-alarm-bells-ringing-1646175484671.jpg/EG11/resize/1200x-1/intellivision-cuts-fundraising-campaign-for-beleaguered-amico-short-setting-alarm-bells-ringing-1646175484671.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2191902",
-          "author": "Matt Wales",
-          "description": "RimWorld, developer Ludeon Studios' widely acclaimed sci-fi colony sim, has been refused classification in Australia, preventing its release and effectively banning it from sale. \nIt's a decision that, on the one hand, isn't particularly surprising given the Australian Classification Board notorious sensitivity around certain issues in games - RimWorld is, after all, a simulation whose incredibly deep systems make drug-fuelled cannibalism an entirely legitimate pastime for colonists - but it's also a little peculiar, insofar as RimWorld has been available to purchase on PC in Australia for nearly five years.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-01-rimworld-refused-classification-in-australia-banning-it-from-sale",
-          "publishedOn": "2022-03-01T21:26:00.000Z",
-          "wordCount": 1040,
-          "title": "RimWorld refused classification in Australia, banning it from sale",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-21-40/rimworld-refused-classification-in-australia-effectively-banning-it-from-sale-1646170796730.jpg/EG11/resize/1200x-1/rimworld-refused-classification-in-australia-effectively-banning-it-from-sale-1646170796730.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2191895",
-          "author": "Matt Wales",
-          "description": "It's been a long wait, but Steam Deck is now out in the wild. For those that didn't make the head of the queue when reservations opened last July, however - and who are currently eyeing up a rather non-specific ETA for their unit - Valve has a bit of promising news, saying production of its new portable gaming PC will be \"in the hundreds of thousands\" by next month.\nThat's according to Valve designer Lawrence Yang who, in conversation with IGN, explained the company expects production to \"ramp very quickly\" as it continues \"surmounting\" the initial supply chain issues that led to Steam Deck's delay last year. \"Very quickly we'll be in the tens of thousands [of units produced],\" Yang revealed. \"By the second month we'll be in the hundreds of thousands, and beyond that it'll grow even quicker\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-01-steam-deck-production-ramping-up-into-the-hundreds-of-thousands-by-next-month",
-          "publishedOn": "2022-03-01T19:54:00.000Z",
-          "wordCount": 956,
-          "title": "Steam Deck production ramping up into \"the hundreds of thousands\" by next month",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-01-19-58/steam-deck-production-ramping-up-into-the-hundreds-of-thousands-by-next-month-1646164723690.jpg/EG11/resize/1200x-1/steam-deck-production-ramping-up-into-the-hundreds-of-thousands-by-next-month-1646164723690.jpg"
         }
       ]
     }
