@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2601/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/instructions.png\" title=\"Happy little turtles\" alt=\"Happy little turtles\" />",
+          "link": "https://xkcd.com/2601/",
+          "publishedOn": "2022-04-01T00:00:00.000Z",
+          "wordCount": 194,
+          "title": "Instructions",
+          "imageUrl": null
+        },
+        {
           "id": "https://xkcd.com/2600/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/rejected_question_categories.png\" title=\"You can click to preorder to get a copy of What If? 2 when it comes out 9/13, assuming we all make it past the spider situation(?) on Tuesday(?).\" alt=\"You can click to preorder to get a copy of What If? 2 when it comes out 9/13, assuming we all make it past the spider situation(?) on Tuesday(?).\" />",
@@ -155,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-squid-migration-and-climate-change.html",
+          "author": null,
+          "description": "<p>New <a href=\"https://www.journals.uchicago.edu/doi/10.1086/718575\">research</a> on the changing migration of the <i>Doryteuthis opalescens</i> as a result of climate change.</p>\n<p>News <a href=\"https://www.hmbreview.com/news/squid-migrates-due-to-climate-change/article_46a83e3a-9fce-11ec-9190-df9c9b136027.html\">article</a>:</p>\n<blockquote><p>Stanford researchers have solved a mystery about why a species of squid native to California has been found thriving in the Gulf of Alaska about 1,800 miles north of its expected range: climate change.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-squid-migration-and-climate-change.html",
+          "publishedOn": "2022-04-01T21:06:18.000Z",
+          "wordCount": 2345,
+          "title": "Friday Squid Blogging: Squid Migration and Climate Change",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/04/bypassing-two-factor-authentication.html",
           "author": null,
@@ -412,6 +432,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1845343",
+          "author": "Beth Mole",
+          "description": "The complex trial will test six booster regimens to broaden protection.",
+          "link": "https://arstechnica.com/?p=1845343",
+          "publishedOn": "2022-04-01T22:28:18.000Z",
+          "wordCount": 1094,
+          "title": "NIH begins trial of COVID boosters to fight future variants",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/GettyImages-1309098061-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845126",
+          "author": "Samuel Axon",
+          "description": "It's an April Fool's joke, yes, but it's also real.",
+          "link": "https://arstechnica.com/?p=1845126",
+          "publishedOn": "2022-04-01T21:26:24.000Z",
+          "wordCount": 823,
+          "title": "Someone made an Android phone with a Lightning port for some reason",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/lightning-676x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845217",
+          "author": "Andrew Cunningham",
+          "description": "Project supports persistent storage, reduced CPU usage, and other neat tricks.",
+          "link": "https://arstechnica.com/?p=1845217",
+          "publishedOn": "2022-04-01T19:21:19.000Z",
+          "wordCount": 825,
+          "title": "Boot up classic Mac OS in your browser window with the “Infinite Mac” project",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Screen-Shot-2022-04-01-at-2.51.50-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845120",
+          "author": "Kiona N. Smith",
+          "description": "We promise this isn't an April Fools' Day post.",
+          "link": "https://arstechnica.com/?p=1845120",
+          "publishedOn": "2022-04-01T19:00:01.000Z",
+          "wordCount": 1338,
+          "title": "Robotic dog will be on patrol in Pompeii",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/spot-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845104",
+          "author": "Ron Amadeo",
+          "description": "Stretch is out of the prototype phase and ready for warehouse duty.",
+          "link": "https://arstechnica.com/?p=1845104",
+          "publishedOn": "2022-04-01T18:29:28.000Z",
+          "wordCount": 1274,
+          "title": "Boston Dynamics’ “Stretch” robot hits production, and it’s already sold out",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Stretch-2_-Credit-to-Boston-Dynamics-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1845111",
           "author": "Sam Machkovech",
@@ -8235,86 +8305,6 @@
           "wordCount": 788,
           "title": "Steam Deck Nintendo emulation videos are disappearing from YouTube",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-13-06/steam-deck-switch-emulation-videos-are-disappearing-from-youtube-1646312816737.jpg/EG11/resize/1200x-1/steam-deck-switch-emulation-videos-are-disappearing-from-youtube-1646312816737.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192242",
-          "author": "Victoria Kennedy",
-          "description": "Ahead of March's public test realm (PTR) rollout, the New World team has shared more information on upcoming update Heart of Madness. \nThis update will conclude the story of Isabella, and promises players an \"epic final showdown\" following their pursuit back to Shattered Mountain. In the aptly named Tempest's Heart, players will venture into a \"corrupted dimension of reality\" as they seek to uncover the secrets of Isabella's past within her \"corrupted mind\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-new-worlds-heart-of-madness-update-detailed",
-          "publishedOn": "2022-03-03T12:29:00.000Z",
-          "wordCount": 895,
-          "title": "New World Heart of Madness update detailed",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-12-21/-1646310106941.jpg/EG11/resize/1200x-1/-1646310106941.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192241",
-          "author": "Ed Nightingale",
-          "description": "FromSoftware's Souls games have a bit of a thing for holes.\nThey're everywhere, often hidden in the depths of caves or on the edge of boss arenas, and if not surrounded by red splodges of doom, then littered with messages from other players daring you to jump.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-elden-ring-has-a-tutorial-problem",
-          "publishedOn": "2022-03-03T12:12:00.000Z",
-          "wordCount": 1041,
-          "title": "Elden Ring has a tutorial problem",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-12-14/-1646309683197.jpg/EG11/resize/1200x-1/-1646309683197.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192214",
-          "author": "Ishraq Subhan",
-          "description": "DICE has revealed details on upcoming improvements and proposed changes to the core map design in Battlefield 2042. \nIn a hefty post, the EA developer identified five main areas of map design that needs improvement. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-dice-reveals-massive-changes-to-battlefield-2042s-map-design",
-          "publishedOn": "2022-03-03T12:06:00.000Z",
-          "wordCount": 971,
-          "title": "DICE reveals massive changes to Battlefield 2042's map design",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-12-00/dice-reveals-massive-changes-to-battlefield-2042s-map-design-1646308833913.jpg/EG11/resize/1200x-1/dice-reveals-massive-changes-to-battlefield-2042s-map-design-1646308833913.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192232",
-          "author": "Tom Phillips",
-          "description": "Stalker developer GSC Game World has released a video update, following fan concern for the studio. \nThe company is based in Kyiv, Ukraine's capital, which has been repeatedly targeted during the ongoing Russian invasion.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-stalker-2-on-hold-ukraine-based-developer-confirms",
-          "publishedOn": "2022-03-03T11:49:00.000Z",
-          "wordCount": 883,
-          "title": "Stalker 2 on hold, Ukraine-based developer confirms",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-11-55/stalker-2-on-hold-ukraine-based-developer-confirms-1646308527868.jpg/EG11/resize/1200x-1/stalker-2-on-hold-ukraine-based-developer-confirms-1646308527868.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192228",
-          "author": "Ed Nightingale",
-          "description": "John Romero, co-founder of id software and designer of Doom, has released a new Doom 2 level in support of humanitarian efforts in Ukraine.\nThe level is available on Romero's website for a donation of €5. All proceeds will go to the Red Cross and the UN Central Emergency Response Fund.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-doom-designer-creates-new-level-to-support-ukraine",
-          "publishedOn": "2022-03-03T11:45:00.000Z",
-          "wordCount": 851,
-          "title": "Doom designer creates new level to support Ukraine",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-11-41/-1646307680153.jpg/EG11/resize/1200x-1/-1646307680153.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192216",
-          "author": "Ed Nightingale",
-          "description": "Kung-fu action game Sifu has sold over 1m copies in its first three weeks.\nSloclap's game has been criticised by some for its high difficulty, though it appears many players have stepped up to the challenge.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-sifu-has-sold-over-a-million-copies",
-          "publishedOn": "2022-03-03T11:19:00.000Z",
-          "wordCount": 919,
-          "title": "Sifu has sold over 1m copies",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-11-11/-1646305867223.jpg/EG11/resize/1200x-1/-1646305867223.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192220",
-          "author": "Victoria Kennedy",
-          "description": "The fan favourite Miis from the Nintendo Wii era are not done yet, as the bobble-headed avatars are now coming to Mario Kart Tour. \nNintendo released a new trailer for its latest Mario Kart Tour update which shows off the Miis in all their racing glory. Players will have a new selection of racing suits to choose from when this update goes live, including (but not limited to) Peach, Donkey Kong and Mario inspired outfits. But looking sharp is not all these suits are good for. Each outfit also comes with a special skill that can utilised while racing. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-nintendo-miis-are-coming-to-mario-kart-tour",
-          "publishedOn": "2022-03-03T11:16:00.000Z",
-          "wordCount": 939,
-          "title": "Nintendo Miis coming to Mario Kart Tour",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-11-23/-1646306614062.jpg/EG11/resize/1200x-1/-1646306614062.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192217",
-          "author": "Tom Phillips",
-          "description": "Today's statement from OtherSide makes no mention of the long-awaited System Shock 3, which Spector had previously been building. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-03-warren-spector-creating-new-ip-with-no-mention-of-system-shock-3",
-          "publishedOn": "2022-03-03T11:11:00.000Z",
-          "wordCount": 926,
-          "title": "Warren Spector creating new IP, with no mention of System Shock 3",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-03-11-12/-1646305969270.jpg/EG11/resize/1200x-1/-1646305969270.jpg"
         }
       ]
     }
