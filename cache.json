@@ -404,16 +404,6 @@
           "wordCount": 647,
           "title": "Using Radar to Read Body Language",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/hacking-alexa-through-alexas-speech.html",
-          "author": null,
-          "description": "<p>An Alexa can respond to voice commands it issues. This can be <a href=\"https://arstechnica.com/information-technology/2022/03/attackers-can-force-amazon-echos-to-hack-themselves-with-self-issued-commands/\">exploited</a>:</p>\n<blockquote><p>The attack works by using the device&#8217;s speaker to issue voice commands. As long as the speech contains the device wake word (usually &#8220;Alexa&#8221; or &#8220;Echo&#8221;) followed by a permissible command, the Echo will carry it out, researchers from Royal Holloway University in London and Italy&#8217;s University of Catania found. Even when devices require verbal confirmation before executing sensitive commands, it&#8217;s trivial to bypass the measure by adding the word &#8220;yes&#8221; about six seconds after issuing the command. Attackers can also exploit what the researchers call the &#8220;FVV,&#8221; or full voice vulnerability, which allows Echos to make self-issued commands without temporarily reducing the device volume...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/hacking-alexa-through-alexas-speech.html",
-          "publishedOn": "2022-03-07T12:20:23.000Z",
-          "wordCount": 495,
-          "title": "Hacking Alexa through Alexa’s Speech",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +412,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1846017",
+          "author": "Scott K. Johnson",
+          "description": "New report on climate solutions is good news, bad news, and a to-do list.",
+          "link": "https://arstechnica.com/?p=1846017",
+          "publishedOn": "2022-04-05T22:40:40.000Z",
+          "wordCount": 878,
+          "title": "IPCC report: The next few years are critical",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/wind_farm_tony_armstrong-sly-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846055",
+          "author": "Beth Mole",
+          "description": "Up to 23 million Americans may have long-term effects, such as shortness of breath, fatigue.",
+          "link": "https://arstechnica.com/?p=1846055",
+          "publishedOn": "2022-04-05T22:05:02.000Z",
+          "wordCount": 822,
+          "title": "Biden steps up federal efforts to address long COVID",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1238660320-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846025",
+          "author": "Dan Goodin",
+          "description": "Hydra market facilitated $5 billion in transactions for 17 million customers.",
+          "link": "https://arstechnica.com/?p=1846025",
+          "publishedOn": "2022-04-05T21:30:32.000Z",
+          "wordCount": 849,
+          "title": "Hydra, the world’s biggest cybercrime forum, shut down in police sting",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/cybercrime-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846012",
+          "author": "Jon Brodkin",
+          "description": "OAN previously sued DirecTV, saying channel removal could force the network to shut down.",
+          "link": "https://arstechnica.com/?p=1846012",
+          "publishedOn": "2022-04-05T21:05:12.000Z",
+          "wordCount": 1098,
+          "title": "DirecTV dropped OAN today, rejecting GOP pleas to keep right-wing network",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/old-tv-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845873",
+          "author": "Jennifer Ouellette",
+          "description": "One of the notebooks contains Charles Darwin's iconic 1837 \"Tree of Life\" sketch.",
+          "link": "https://arstechnica.com/?p=1845873",
+          "publishedOn": "2022-04-05T19:35:25.000Z",
+          "wordCount": 1272,
+          "title": "Mysterious benefactor returns Charles Darwin’s missing notebooks after 20 years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/darwin1TOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845939",
+          "author": "Sam Machkovech",
+          "description": "Teased with a tense Picard-Riker showdown: \"Ready?\" \"As ever.\"",
+          "link": "https://arstechnica.com/?p=1845939",
+          "publishedOn": "2022-04-05T19:03:26.000Z",
+          "wordCount": 715,
+          "title": "Picard confirmed to end with third season, will feature more TNG guest stars",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Screenshot-1655-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845931",
+          "author": "Samuel Axon",
+          "description": "Company will keep things virtual, as it has since the beginning of the pandemic.",
+          "link": "https://arstechnica.com/?p=1845931",
+          "publishedOn": "2022-04-05T18:43:41.000Z",
+          "wordCount": 693,
+          "title": "Apple announces dates and details about WWDC 2022",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Apple-WWDC22-announcement-hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845943",
+          "author": "Jonathan M. Gitlin",
+          "description": "Five automakers have issued recalls linked to defective lithium-ion cells.",
+          "link": "https://arstechnica.com/?p=1845943",
+          "publishedOn": "2022-04-05T18:36:39.000Z",
+          "wordCount": 874,
+          "title": "Multiple recalls spark Fed investigation of LG’s electric car batteries",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1237088312-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1845841",
           "author": "Ron Amadeo",
@@ -8995,46 +9065,6 @@
           "wordCount": 754,
           "title": "Story expansion coming to Lost Judgment this month",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-14-44/-1646664282818.jpg/EG11/resize/1200x-1/-1646664282818.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192742",
-          "author": "Victoria Kennedy",
-          "description": "The Nintendo Switch Online app got a huge update this morning.\nThis new update sees changes being made to the app's overall design, as well as the ability to see which of your friends are online. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-07-nintendo-switch-online-app-gets-huge-update",
-          "publishedOn": "2022-03-07T11:42:00.000Z",
-          "wordCount": 799,
-          "title": "Nintendo Switch Online app gets huge update",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-11-29/-1646652560370.jpg/EG11/resize/1200x-1/-1646652560370.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192745",
-          "author": "Ed Nightingale",
-          "description": "In a lawsuit over loot boxes in NBA 2K, publisher Take-Two has been accused of \"unfair, deceptive and unlawful practices\".\nAs reported by Bloomberg (via GamesIndustry.biz), the lawsuit was filed on behalf of a minor and their guardian at the Winnebago Country Circuit Court in January, before moving to the Illinois Northern District Court a month later.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-07-lawsuit-filed-against-take-two-for-loot-boxes-in-nba-2k",
-          "publishedOn": "2022-03-07T11:41:00.000Z",
-          "wordCount": 798,
-          "title": "Lawsuit filed against Take-Two for loot boxes in NBA 2K",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-11-35/-1646652914925.jpg/EG11/resize/1200x-1/-1646652914925.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192732",
-          "author": "Ed Nightingale",
-          "description": "A new boundary breaking video takes a peek inside Elden Ring's colosseum, which might be used for DLC.\nShared by Lance McDonald, who's known for hacking Bloodborne, the video shows the inside of the colosseum that's inaccessible in the game.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-07-boundary-breaking-video-hints-at-possible-elden-ring-dlc",
-          "publishedOn": "2022-03-07T11:08:00.000Z",
-          "wordCount": 791,
-          "title": "Boundary breaking video hints at possible Elden Ring DLC",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-11-05/-1646651101354.jpg/EG11/resize/1200x-1/-1646651101354.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192728",
-          "author": "Victoria Kennedy",
-          "description": "For those patiently waiting to hear more about Obsidian's RPG Pillars of Eternity 2: Deadfire and its arrival on the Nintendo Switch, there's bad news: it is no longer coming. \nPublisher Versus Evil announced its plans to cancel its Switch version of the game on Discord. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-07-pillars-of-eternity-2-deadfire-no-longer-coming-to-nintendo-switch",
-          "publishedOn": "2022-03-07T11:04:00.000Z",
-          "wordCount": 921,
-          "title": "Pillars of Eternity 2: Deadfire no longer coming to Nintendo Switch",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-10-51/-1646650312453.jpg/EG11/resize/1200x-1/-1646650312453.jpg"
         }
       ]
     }
