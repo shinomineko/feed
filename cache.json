@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2603/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/childhood_toys.png\" title=\"The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.\" alt=\"The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.\" />",
+          "link": "https://xkcd.com/2603/",
+          "publishedOn": "2022-04-06T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Childhood Toys",
+          "imageUrl": "https://imgs.xkcd.com/comics/childhood_toys_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2602/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/linguistics_degree.png\" title=\"You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.\" alt=\"You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.\" />",
@@ -394,16 +404,6 @@
           "wordCount": 562,
           "title": "Fraud on Zelle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/using-radar-to-read-body-language.html",
-          "author": null,
-          "description": "<p>Yet another <a href=\"https://www.wired.com/story/google-soli-atap-research-2022/?\">method of surveillance</a>:</p>\n<blockquote><p>Radar can detect you moving closer to a computer and entering its personal space. This might mean the computer can then choose to perform certain actions, like booting up the screen without requiring you to press a button. This kind of interaction already exists in current <a href=\"https://www.wired.com/gallery/best-smart-displays/\">Google Nest smart displays</a>, though instead of radar, Google employs <a href=\"https://www.blog.google/products/google-nest/ultrasound-sensing/\">ultrasonic sound waves</a> to measure a person&#8217;s distance from the device. When a Nest Hub notices you&#8217;re moving closer, it highlights current reminders, calendar events, or other important notifications...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/using-radar-to-read-body-language.html",
-          "publishedOn": "2022-03-08T12:01:54.000Z",
-          "wordCount": 647,
-          "title": "Using Radar to Read Body Language",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +412,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1846440",
+          "author": "Dan Goodin",
+          "description": "Silently fixed authentication bypass remained a secret even after it was under attack.",
+          "link": "https://arstechnica.com/?p=1846440",
+          "publishedOn": "2022-04-06T23:59:48.000Z",
+          "wordCount": 1040,
+          "title": "WatchGuard failed to explicitly disclose critical flaw exploited by Russian hackers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Getty-wtf-CROPPED-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846437",
+          "author": "John Timmer",
+          "description": "Gas giants can form far from their stars without a rocky intermediate stage.",
+          "link": "https://arstechnica.com/?p=1846437",
+          "publishedOn": "2022-04-06T23:37:19.000Z",
+          "wordCount": 1131,
+          "title": "We’ve been watching a failed star turn into a giant planet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/STScI-01FZG0Q4P4WFCPC00V01T1Q666-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846367",
+          "author": "Sam Machkovech",
+          "description": "News comes on top of Remedy's existing game-publishing deal with Epic Games.",
+          "link": "https://arstechnica.com/?p=1846367",
+          "publishedOn": "2022-04-06T22:09:20.000Z",
+          "wordCount": 1046,
+          "title": "Rockstar, Remedy shake hands on new Max Payne 1+2 remaster series",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/payne-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846358",
+          "author": "Beth Mole",
+          "description": "Here's what happens when sheep bot fly larvae sink their mouth hooks into your eyeball.",
+          "link": "https://arstechnica.com/?p=1846358",
+          "publishedOn": "2022-04-06T22:08:11.000Z",
+          "wordCount": 878,
+          "title": "Doctors fish out more than a dozen tiny maggots from man’s eye",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-832151458-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1846347",
+          "author": "Dan Goodin",
+          "description": "How the FBI took down \"Cyclops Blink,\" a Russia state botnet infecting network firewalls.",
+          "link": "https://arstechnica.com/?p=1846347",
+          "publishedOn": "2022-04-06T21:25:20.000Z",
+          "wordCount": 1168,
+          "title": "Companies were slow to remove Russian spies’ malware, so FBI did it for them",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/digital-lines-us-flag-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845514",
+          "author": "Ars Contributors",
+          "description": "\"A cross between a logic puzzle, an improv comedy session, and a collective hallucination.\"",
+          "link": "https://arstechnica.com/?p=1845514",
+          "publishedOn": "2022-04-06T18:55:24.000Z",
+          "wordCount": 1204,
+          "title": "Try your hand at Quantum Go Fish",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/fishTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845789",
+          "author": "Jennifer Ouellette",
+          "description": "Ars chats with Ben Orlin about his new book, Math Games with Bad Drawings.",
+          "link": "https://arstechnica.com/?p=1845789",
+          "publishedOn": "2022-04-06T18:51:05.000Z",
+          "wordCount": 1602,
+          "title": "Hate math? You’ll still love this cornucopia of simple-yet-seductive math games",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/orlin7-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1845834",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has a new low on an LG OLED TV, board games, and Nintendo gift cards.",
+          "link": "https://arstechnica.com/?p=1845834",
+          "publishedOn": "2022-04-06T18:20:47.000Z",
+          "wordCount": 1952,
+          "title": "Today’s best deals: Apple Watches, iPads, “buy 2, get 1 free” game sales, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/dealmaster040622-2-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1846253",
           "author": "Kyle Orland",
@@ -8945,106 +9025,6 @@
           "wordCount": 1188,
           "title": "Super Mario Strikers datamine reveals unused team of \"generic Mario style humans\"",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-12-27/-1646742462650.jpg/EG11/resize/1200x-1/-1646742462650.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192952",
-          "author": "Ed Nightingale",
-          "description": "Amazon Games has responded to criticism of female representation in Lost Ark.\nSince the MMORPG arrived in the west last month, some players have expressed disappointment in both the gender locked classes and the prevalence of revealing female outfits.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-amazon-games-addresses-criticism-of-female-representation-in-lost-ark",
-          "publishedOn": "2022-03-08T12:26:00.000Z",
-          "wordCount": 1067,
-          "title": "Amazon addresses criticism of Lost Ark female representation",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-12-40/-1646743244657.jpg/EG11/resize/1200x-1/-1646743244657.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192941",
-          "author": "Ed Nightingale",
-          "description": "Mouse and keyboard support is coming to Xbox Cloud Gaming, the Microsoft cloud streaming platform.\nCurrently only touchscreen on mobile and controllers are supported, so the inclusion of mouse and keyboard is a win for anyone looking for an alternative input, as well as for accessibility.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-mouse-and-keyboard-support-coming-to-xbox-cloud-gaming",
-          "publishedOn": "2022-03-08T11:53:00.000Z",
-          "wordCount": 857,
-          "title": "Mouse and keyboard support coming to Xbox Cloud Gaming",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-55/-1646740552030.jpg/EG11/resize/1200x-1/-1646740552030.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192937",
-          "author": "Tom Phillips",
-          "description": "YouTuber Bob \"WulffDen\" Wulff has spent the past five months subjecting a Switch OLED to the same image, taken from The Legend of Zelda: Breath of the Wild (thanks, ArsTechnica). \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-nintendo-switch-oled-screen-undergoes-3600-hour-burn-in-test",
-          "publishedOn": "2022-03-08T11:49:00.000Z",
-          "wordCount": 787,
-          "title": "Nintendo Switch OLED screen undergoes 3600-hour burn-in test",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-41/-1646739699375.jpg/EG11/resize/1200x-1/-1646739699375.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192930",
-          "author": "Victoria Kennedy",
-          "description": "A man has been sentenced to prison after admitting he lied to obtain a Covid-19 disaster relief loan, and then went on to use that money to purchase a rare Charizard Pokémon card.\nVinath Oudomsine from the US state of Georgia was awarded a Covid relief loan after he claimed to run a small business comprising of 10 employees. However, after obtaining the cash (a tidy $85k), Oudomsine \"used $57,789 of it to buy a first-edition, shadowless and holographic Charizard card with a 9.5 gem mint rating\", (thanks, Polygon).\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-man-who-used-covid-relief-funds-to-buy-rare-pokemon-card-sentenced-to-prison",
-          "publishedOn": "2022-03-08T11:36:00.000Z",
-          "wordCount": 897,
-          "title": "Man who used Covid relief funds to buy rare Pokémon card sent to prison",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-30/-1646739036074.jpg/EG11/resize/1200x-1/-1646739036074.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192929",
-          "author": "Ed Nightingale",
-          "description": "A free update to Sifu adds Mandarin voiceover.\nThe update, available on PlayStation and PC, adds an extra layer of authenticity to the experience - a Kung Fu game set in a fictional Chinese city.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-mandarin-voice-over-added-to-sifu",
-          "publishedOn": "2022-03-08T11:24:00.000Z",
-          "wordCount": 732,
-          "title": "Mandarin voiceover added to Sifu",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-11-21/-1646738458389.jpg/EG11/resize/1200x-1/-1646738458389.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192924",
-          "author": "Tom Phillips",
-          "description": "Blizzard's World of Warcraft game for mobile  will be unveiled in May, the developer has said.\nThe reveal will follow detailed updates on both Hearthstone and the main World of Warcraft over the next six weeks. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-world-of-warcraft-mobile-game-to-be-unveiled-in-may",
-          "publishedOn": "2022-03-08T11:02:00.000Z",
-          "wordCount": 831,
-          "title": "World of Warcraft mobile game to be unveiled in May",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-54/-1646736847080.jpg/EG11/resize/1200x-1/-1646736847080.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192926",
-          "author": "Ed Nightingale",
-          "description": "The itch.io Bundle for Ukraine is now live, with almost 1000 games included.\nAvailable for a minimum donation of $10, all proceeds will be split between two charities: International Medical Corps and Voices of Children.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-bundle-for-ukraine-now-live-on-itch-io",
-          "publishedOn": "2022-03-08T10:59:00.000Z",
-          "wordCount": 884,
-          "title": "Bundle for Ukraine now live on itch.io",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-54/-1646736878820.jpg/EG11/resize/1200x-1/-1646736878820.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192921",
-          "author": "Victoria Kennedy",
-          "description": "Amazon Games and Smilegate RPG have announced that Lost Ark has now exceeded 20 million global users.\n\"Overall, the excitement surrounding Lost Ark from around the world is quickly gaining steam, as evidenced by the growing number of global players\", said Christoph Hartmann, VP of Amazon Games. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-amazon-games-mmo-lost-ark-passes-20m-global-users",
-          "publishedOn": "2022-03-08T10:55:00.000Z",
-          "wordCount": 891,
-          "title": "Amazon Games' MMO Lost Ark passes 20m players",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-49/-1646736543446.jpg/EG11/resize/1200x-1/-1646736543446.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192920",
-          "author": "Martin Robinson",
-          "description": "The first numbered Gran Turismo game in over eight years has brought with many beloved features that have been missing for a while, with the headline being the return of proper car customization. Being able to spec out a humble Toyota Aqua until it's race ready is a fun experience, but there's one problem - it's kind of ruining the multiplayer experience at the moment. \nGran Turismo 7's online offering is near identical to that seen in the multiplayer-focussed Gran Turismo Sport - hence the multiplayer mode being called simply Sport - in that there are daily races that rotate in and out with various requirements. Previously, these races were typically subject to a Balance of Performance, or BoP - a term borrowed from real-life GT racing that operates along similar lines, with the game ensuring all cars entered have a similar performance to ensure close racing.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-08-gran-turismo-7s-multiplayer-has-a-bit-of-a-problem-right-now",
-          "publishedOn": "2022-03-08T10:52:00.000Z",
-          "wordCount": 1127,
-          "title": "Gran Turismo 7's multiplayer has a bit of a problem right now",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-08-10-47/-1646736426800.jpg/EG11/resize/1200x-1/-1646736426800.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2192856",
-          "author": "Matt Wales",
-          "description": "Grand Theft Auto 5 is just one week away from its long-awaited debut on PlayStation 5 and Xbox Series X/S - and the game's newly revealed digital store pre-order listings have confirmed a 50 percent introductory discount for the first three months of its release. (No, it's not free if you bought it on PS4 or Xbox One already.)\nExactly how much you'll be paying depends very much on where you plan to play it, however. For Xbox Series X/S owners, GTA Online is currently listed at £8.99 on the Microsoft Store. That'll go back up to its non-discounted price of £17.99 in three months time, on 14th June. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-07-gta-5-for-ps5-and-xbox-series-x-s-is-half-price-for-first-three-months",
-          "publishedOn": "2022-03-08T09:25:00.000Z",
-          "wordCount": 966,
-          "title": "GTA Online, GTA 5 Story Mode half price for first three months on PS5, Xbox Series X/S",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-07-23-57/gta-5-for-ps5-and-xbox-series-x-s-is-half-price-for-first-three-months-1646697429135.jpg/EG11/resize/1200x-1/gta-5-for-ps5-and-xbox-series-x-s-is-half-price-for-first-three-months-1646697429135.jpg"
         }
       ]
     }
