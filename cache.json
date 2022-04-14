@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2606/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png\" title=\"U+2A0B ⨋ Mathematicians need to calm down\" alt=\"U+2A0B ⨋ Mathematicians need to calm down\" />",
+          "link": "https://xkcd.com/2606/",
+          "publishedOn": "2022-04-13T00:00:00.000Z",
+          "wordCount": 201,
+          "title": "Weird Unicode Math Symbols",
+          "imageUrl": "https://imgs.xkcd.com/comics/weird_unicode_math_symbols_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2605/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/taylor_series.png\" title=\"The Taylor series should have been canceled after the first term.\" alt=\"The Taylor series should have been canceled after the first term.\" />",
@@ -404,16 +414,6 @@
           "wordCount": 524,
           "title": "Breaking RSA through Insufficiently Random Primes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/us-critical-infrastructure-companies-will-have-to-report-when-they-are-hacked.html",
-          "author": null,
-          "description": "<p>This <a href=\"https://apnews.com/article/russia-ukraine-technology-business-congress-gary-peters-c46e063220568b2beb56220ac60f6041\">will be law</a> soon:</p>\n<blockquote><p>Companies critical to U.S. national interests will now have to report when they&#8217;re hacked or they pay ransomware, according to new rules approved by Congress.</p>\n<p>[&#8230;]</p>\n<p>The reporting requirement legislation was approved by the House and the Senate on Thursday and is expected to be signed into law by President Joe Biden soon. It requires any entity that&#8217;s considered part of the nation&#8217;s critical infrastructure, which includes the finance, transportation and energy sectors, to report any &#8220;substantial cyber incident&#8221; to the government within three days and any ransomware payment made within 24 hours...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/us-critical-infrastructure-companies-will-have-to-report-when-they-are-hacked.html",
-          "publishedOn": "2022-03-15T11:01:18.000Z",
-          "wordCount": 492,
-          "title": "US Critical Infrastructure Companies Will Have to Report When They Are Hacked",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +422,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1847982",
+          "author": "Beth Mole",
+          "description": "In 23 patients who died, researchers found olfactory nerve damage but little virus.",
+          "link": "https://arstechnica.com/?p=1847982",
+          "publishedOn": "2022-04-13T22:52:13.000Z",
+          "wordCount": 1065,
+          "title": "Autopsies suggest COVID’s smell loss is caused by inflammation, not virus",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1237543520-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1847864",
+          "author": "Samuel Axon",
+          "description": "Creators will fork over 25% after the 30% already taken by hardware platforms.",
+          "link": "https://arstechnica.com/?p=1847864",
+          "publishedOn": "2022-04-13T22:07:37.000Z",
+          "wordCount": 1009,
+          "title": "Meta announces plans to monetize the Metaverse, and creators are not happy",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/metaverse-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1847285",
+          "author": "Jennifer Ouellette",
+          "description": "The spacecraft will launch this August and reach its namesake asteroid in January 2026.",
+          "link": "https://arstechnica.com/?p=1847285",
+          "publishedOn": "2022-04-13T21:38:33.000Z",
+          "wordCount": 1408,
+          "title": "Ars takes a clean room tour of JPL’s asteroid-orbiting Psyche spacecraft",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/psycheTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1847923",
+          "author": "Andrew Cunningham",
+          "description": "Windows 11 is settling down a bit, so changes are mostly minor.",
+          "link": "https://arstechnica.com/?p=1847923",
+          "publishedOn": "2022-04-13T20:59:22.000Z",
+          "wordCount": 1017,
+          "title": "New wallpapers and better window snapping come to latest Windows 11 preview builds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Screen-Shot-2021-08-30-at-11.34.41-PM-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1847707",
+          "author": "Eric Berger",
+          "description": "Putin touts a decades-old program with limited ambitions.",
+          "link": "https://arstechnica.com/?p=1847707",
+          "publishedOn": "2022-04-13T19:04:06.000Z",
+          "wordCount": 1125,
+          "title": "Trying to sound impressive, Putin says Russia will resume lunar program",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1239931062-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1847615",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has AirPods, AMD processors, and recommended board games.",
+          "link": "https://arstechnica.com/?p=1847615",
+          "publishedOn": "2022-04-13T18:50:12.000Z",
+          "wordCount": 1810,
+          "title": "Today’s best deals: Apple gift cards, Amazon Kids tablets, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/dealmaster041322-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1847849",
+          "author": "Kiona N. Smith",
+          "description": "He was also buried with the partial skulls of two former patients.",
+          "link": "https://arstechnica.com/?p=1847849",
+          "publishedOn": "2022-04-13T18:32:48.000Z",
+          "wordCount": 937,
+          "title": "Ancient Peruvian was buried with tools for cranial surgery",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Surgical-610x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1847785",
           "author": "Sam Machkovech",
@@ -3986,6 +4056,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/battlefield-2042s-40-update-arrives-next-week-promises-400-fixes-and-improvements",
+          "author": "Matt Wales",
+          "description": "Developer DICE is readying to launch a major new update for Battlefield 2042, with the beleaguered shooter's 4.0 release promising to deliver \"400+\" fixes and improvements when it arrives some time next week.\r\n\n\r\nAlthough full patch notes won't be available until next week's launch, DICE community manager Kevin Johnson (thanks VGC) has shared some of the release's key features on Twitter. Attachments will, for instance, receive an overhaul in Update 4.0, with DICE aiming to ensure all feel unique and have an impact on loadout choices and gunplay.\nAdditionally, XP for Support Actions and Teamplay has been balanced \"to ensure teamwork remains king\", and there are balancing changes arriving for Vehicular Warfare in a bid to give Infantry/Vehicle counter play \"some bite\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/battlefield-2042s-40-update-arrives-next-week-promises-400-fixes-and-improvements",
+          "publishedOn": "2022-04-13T22:26:55.000Z",
+          "wordCount": 932,
+          "title": "Next week's Battlefield 2042 update brings \"400+\" fixes and improvements",
+          "imageUrl": "https://assets.reedpopcdn.com/bf2042.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bf2042.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sate-your-word-game-cravings-with-scrabbles-free-new-official-web-version",
+          "author": "Matt Wales",
+          "description": "If you're hankering for some additional letter-based puzzling to fill the void between your daily bursts of Wordle, Mattel and developer Scopely might well have the answer - as the grandaddy of word games, Scrabble, is given brand-new web version to mark what is apparently this year's National Scrabble Day in the US.\r\n\n\r\nScrabble Web, as this new online version of the classic word game is sensibly and unfussily known, delivers all the letter-plopping thrills of the board game original, albeit it in a free, easily accessible new digital guise. And while it might be relatively low on frills right now, it does at least feature a fairly solid range of options when it comes to ways to play.\nFor starters, there's a solo mode, pitting players against an AI opponent, but also some competitive PvP for those that prefer to test their word prowess against living, breathing challengers - be they randoms or friends - all served up in selectable flavours of match length, lasting between 3 and 45 minutes.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sate-your-word-game-cravings-with-scrabbles-free-new-official-web-version",
+          "publishedOn": "2022-04-13T20:55:23.000Z",
+          "wordCount": 864,
+          "title": "Sate your word game cravings with Scrabble's free new official web version",
+          "imageUrl": "https://assets.reedpopcdn.com/scrabble-web.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/scrabble-web.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/cd-projekt-delays-witcher-3s-ps5-and-xbox-series-xs-version-until-further-notice",
           "author": "Matt Wales",
@@ -8845,86 +8935,6 @@
           "wordCount": 1027,
           "title": "Elden Ring boss' horse has a name you might not expect",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-13-01/elden-rings-general-radahns-horse-has-a-name-1647349271719.jpg/EG11/resize/1200x-1/elden-rings-general-radahns-horse-has-a-name-1647349271719.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194086",
-          "author": "Ed Nightingale",
-          "description": "Fresh from setting an initially impressive speedrun time for Elden Ring (that's since been broken), streamer LilAggy has turned his attention back to Dark Souls Remastered.\nThis isn't a speedrun though. It's a poop run.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-dark-souls-completed-using-nothing-but-poop",
-          "publishedOn": "2022-03-15T12:28:00.000Z",
-          "wordCount": 866,
-          "title": "Dark Souls completed using nothing but poop",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-12-23/-1647347015692.jpg/EG11/resize/1200x-1/-1647347015692.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194081",
-          "author": "Victoria Kennedy",
-          "description": "Following the release of the Final Fantasy themed kart racing sim Chocobo GP on the Nintendo Switch, many fans were left disappointed by the game's general state, as well as its heavy reliance on in-game currencies and microtransactions.\nSquare Enix has now acknowledged these concerns and released an outline of how the company is going to address the game's issues going forward. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-square-enix-addresses-its-controversial-karting-sim-chocobo-gp",
-          "publishedOn": "2022-03-15T12:11:00.000Z",
-          "wordCount": 1162,
-          "title": "Square Enix addresses Chocobo GP issues following fan complaints",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-11-51/-1647345099665.jpg/EG11/resize/1200x-1/-1647345099665.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194077",
-          "author": "Tom Phillips",
-          "description": "You can now download the first batch of Mario Kart 8 Deluxe DLC ahead of its arrival this Friday. \nThis applies to people who have access to the premium Nintendo Switch Online + Expansion Pack tier, who will get the extra DLC courses as part of their pricier subscription. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-mario-kart-8-deluxe-dlc-now-available-to-pre-load",
-          "publishedOn": "2022-03-15T11:51:00.000Z",
-          "wordCount": 931,
-          "title": "Mario Kart 8 Deluxe DLC now available to pre-load",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-11-46/mario-kart-8-deluxe-dlc-now-available-to-pre-load-1647344797529.jpg/EG11/resize/1200x-1/mario-kart-8-deluxe-dlc-now-available-to-pre-load-1647344797529.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2193978",
-          "author": "Matt Wales",
-          "description": "If you're the sort that balks at the thought of a clean line, white wall, or an excessively nude bit of shelf space, The Sims 4 has you covered with its newly announced Kit DLC, Decor to the Max - a busy ode to maximalism that's coming to all platforms next Monday, 21st March.\nArriving on the heels of EA's frustratingly buggy My Wedding Stories expansion (which is still awaiting its previously promised fixes some three weeks after launch), Decor to the Max does exactly what its name implies, serving up a bite-sized blast of furniture items and decorating options specifically for those that like to go big with the bold patterns and signature pieces.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-the-sims-4s-next-bite-sized-kit-dlc-is-an-ode-to-decorating-maximalism",
-          "publishedOn": "2022-03-15T11:42:00.000Z",
-          "wordCount": 1014,
-          "title": "The Sims 4's next bite-sized Kit DLC is an ode to decorating maximalism",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-11-51/the-sims-4s-next-kit-dlc-is-an-ode-to-decorating-maximalism-1647345105133.jpg/EG11/resize/1200x-1/the-sims-4s-next-kit-dlc-is-an-ode-to-decorating-maximalism-1647345105133.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194076",
-          "author": "Ed Nightingale",
-          "description": "You can now tweak the difficulty of Elden Ring to your liking using mods on PC.\nThe discourse around the game and its steep challenge is never ending, but for those who want a breezier adventure the Easy Mode for Elden Ring mod exists to make the game easier \"for angry Gamers\".\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-easy-and-hard-mode-mods-available-in-elden-ring",
-          "publishedOn": "2022-03-15T11:39:00.000Z",
-          "wordCount": 909,
-          "title": "Easy and hard mode mods available in Elden Ring",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-11-41/-1647344516232.jpg/EG11/resize/1200x-1/-1647344516232.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194063",
-          "author": "Tom Phillips",
-          "description": "Ubisoft open world driving game The Crew 2 will get a fifth year of free content updates, beginning in July.\nThis will include new cars, events, rewards, competitions and improvements. But the biggest change - and one of the most requested by fans - will be the addition of current-gen support.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-the-crew-2-will-get-ps5-and-xbox-series-x-versions",
-          "publishedOn": "2022-03-15T11:22:00.000Z",
-          "wordCount": 778,
-          "title": "The Crew 2 will get PS5 and Xbox Series X versions",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-11-18/-1647343126056.jpg/EG11/resize/1200x-1/-1647343126056.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194061",
-          "author": "Ed Nightingale",
-          "description": "A bunch of mods have been released for Sifu on PC that turn the game into The Matrix.\nThe Wachowski's films are known for their kung-fu fight scenes, so adding Neo and Agent Smith to Sifu was... inevitable.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-sifu-mods-let-you-live-your-matrix-fantasy",
-          "publishedOn": "2022-03-15T11:17:00.000Z",
-          "wordCount": 818,
-          "title": "Sifu mods let you live your Matrix fantasy",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-11-15/-1647342951316.jpg/EG11/resize/1200x-1/-1647342951316.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194057",
-          "author": "Tom Phillips",
-          "description": "The next round of Xbox Game Pass titles due to arrive via Microsoft's subscription service have been detailed online. \nAs ever, this comes from Dealabs, which regularly posts upcoming titles before Microsoft details these publicly. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-15-looks-like-marchs-next-xbox-game-pass-titles-have-leaked",
-          "publishedOn": "2022-03-15T10:58:00.000Z",
-          "wordCount": 748,
-          "title": "Looks like March's next Xbox Game Pass titles have leaked",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-15-10-55/-1647341736282.jpg/EG11/resize/1200x-1/-1647341736282.jpg"
         }
       ]
     }
