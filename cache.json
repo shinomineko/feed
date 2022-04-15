@@ -414,16 +414,6 @@
           "wordCount": 344,
           "title": "“Change Password”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/breaking-rsa-through-insufficiently-random-primes.html",
-          "author": null,
-          "description": "<p>Basically, the SafeZone library <a href=\"https://arstechnica.com/information-technology/2022/03/researcher-uses-600-year-old-algorithm-to-crack-crypto-keys-found-in-the-wild/\">doesn&#8217;t sufficiently randomize</a> the two prime numbers it used to generate RSA keys. They&#8217;re too close to each other, which makes them vulnerable to recovery.</p>\n<p>There aren&#8217;t many weak keys out there, but there are some:</p>\n<blockquote><p>So far, Böck has identified only a handful of keys in the wild that are vulnerable to the factorization attack. Some of the keys are from printers from two manufacturers, Canon and Fujifilm (originally branded as Fuji Xerox). Printer users can use the keys to generate a Certificate Signing Request. The creation date for the all the weak keys was 2020 or later. The weak Canon keys are tracked as CVE-2022-26351...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/breaking-rsa-through-insufficiently-random-primes.html",
-          "publishedOn": "2022-03-16T16:35:57.000Z",
-          "wordCount": 524,
-          "title": "Breaking RSA through Insufficiently Random Primes",
-          "imageUrl": null
         }
       ]
     },
@@ -3781,106 +3771,6 @@
           "wordCount": 2033,
           "title": "Today’s best deals: Apple MacBook Pro, Nintendo Game & Watch, and more",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/dealmaster031622-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841561",
-          "author": "Jonathan M. Gitlin",
-          "description": "Tesla is the latest to stop work in China, as VW and BMW run out of wiring.",
-          "link": "https://arstechnica.com/?p=1841561",
-          "publishedOn": "2022-03-16T18:12:19.000Z",
-          "wordCount": 915,
-          "title": "The chaos of war and COVID continues to close car factories",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/DB2021AL00747_large-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841361",
-          "author": "Samuel Axon",
-          "description": "Apple's new Air looks familiar, but it's blazing fast thanks to the M1.",
-          "link": "https://arstechnica.com/?p=1841361",
-          "publishedOn": "2022-03-16T18:03:35.000Z",
-          "wordCount": 1126,
-          "title": "2022 iPad Air review: M1, other tablets 0",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/2022-iPad-Air-front-on-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841482",
-          "author": "Jon Brodkin",
-          "description": "Bernal was fired and lost beta access after video review showed a minor collision.",
-          "link": "https://arstechnica.com/?p=1841482",
-          "publishedOn": "2022-03-16T17:26:54.000Z",
-          "wordCount": 1215,
-          "title": "Tesla fires employee who posted YouTube videos of Full Self-Driving accident",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ai-addict-tesla-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841522",
-          "author": "John Timmer",
-          "description": "Distant galaxies come into focus as Webb is on track to meet or exceed expectations.",
-          "link": "https://arstechnica.com/?p=1841522",
-          "publishedOn": "2022-03-16T17:09:03.000Z",
-          "wordCount": 985,
-          "title": "NASA releases first image from an in-focus Webb telescope",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/telescope_alignment_evaluation_image_labeled.png-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841398",
-          "author": "Andrew Cunningham",
-          "description": "Promo for Microsoft Editor service was \"not meant to be viewed externally.\"",
-          "link": "https://arstechnica.com/?p=1841398",
-          "publishedOn": "2022-03-16T16:36:02.000Z",
-          "wordCount": 785,
-          "title": "Microsoft accidentally reveals that it is testing ads in Windows Explorer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/windows-11-band-aid-patch-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841427",
-          "author": "Ron Amadeo",
-          "description": "Domains launched in 2015 as a simple way to get a domain through Google.",
-          "link": "https://arstechnica.com/?p=1841427",
-          "publishedOn": "2022-03-16T16:26:46.000Z",
-          "wordCount": 671,
-          "title": "Google Domains is out of beta after seven years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/9-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841435",
-          "author": "John Timmer",
-          "description": "It's a potentially useful technique—and it's surprising that it works.",
-          "link": "https://arstechnica.com/?p=1841435",
-          "publishedOn": "2022-03-16T16:00:04.000Z",
-          "wordCount": 999,
-          "title": "Absolutely bonkers experiment measures antiproton orbiting helium ion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/AD_image-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841417",
-          "author": "Scharon Harding",
-          "description": "Google keynote had people looking for something that wasn't there.",
-          "link": "https://arstechnica.com/?p=1841417",
-          "publishedOn": "2022-03-16T15:33:53.000Z",
-          "wordCount": 683,
-          "title": "Whoops: Google announced Chrome OS Steam alpha, but it’s not ready yet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/listing-5-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1841355",
-          "author": "Tim De Chant",
-          "description": "Move will shore up its operations in the EU while adding foundry capacity.",
-          "link": "https://arstechnica.com/?p=1841355",
-          "publishedOn": "2022-03-16T12:50:22.000Z",
-          "wordCount": 1035,
-          "title": "Intel announces another megafab as chipmaker expands EU footprint",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-112576930-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1840843",
-          "author": "Jennifer Ouellette",
-          "description": "You can still go with the time-honored tradition of throwing a strand against the wall.",
-          "link": "https://arstechnica.com/?p=1840843",
-          "publishedOn": "2022-03-16T12:35:56.000Z",
-          "wordCount": 1501,
-          "title": "How to tell if your spaghetti is perfectly done using just a simple ruler",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/pastaTOP-760x380.jpg"
         }
       ]
     },
@@ -3961,16 +3851,6 @@
           "wordCount": 1691,
           "title": "Google Cloud Alters the Deal",
           "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2022/03/130533563_m.jpg"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=12374",
-          "author": "Corey Quinn",
-          "description": "Usually when I talk about AWS regions and availability zones, it ties back to [data transfer pricing] or some other model of cloud economics. Today I want to take a different angle: it's my belief that how I think about AWS regions and how AWS talks about them are somewhat far apart. The reason I'm doing this in blog form instead of as a Twitter stunt or whatnot is that I'm not particularly intending to be funny, and to be transparent, I'm not completely sure whether I'm right or not. Let's dive in.\nThe post My Mental Model of AWS Regions appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/my-mental-model-of-aws-regions/",
-          "publishedOn": "2022-03-16T14:30:00.000Z",
-          "wordCount": 1684,
-          "title": "My Mental Model of AWS Regions",
-          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2022/03/128526373_m.jpg"
         }
       ]
     },
@@ -8785,96 +8665,6 @@
           "wordCount": 1070,
           "title": "Her Story and Telling Lies dev's \"investigative horror\" Immortality gets first proper reveal",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-19-14/telling-lies-creators-investigate-horror-immortality-gets-first-proper-reveal-1647458070939.jpg/EG11/resize/1200x-1/telling-lies-creators-investigate-horror-immortality-gets-first-proper-reveal-1647458070939.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2193701",
-          "author": "Matt Wales",
-          "description": "It's been a long time coming but developer Andrew Shouldice's fox-themed action-adventure Tunic finally arrives on Xbox, Mac, and PC today, 16th March - and publisher Finji has now confirmed it'll be a launch day addition to Xbox Games Pass too.\nOriginally known as Secret Legend before getting a name change to Tunic at E3 2017, the Zelda-inspired isometric adventure was initially expected to arrive in 2018. Cleary, it did not meet that target, but its long-awaited launch is now upon us, and available to purchase digitally on your platform of choice for £24.99/€29.99/$29.99 USD.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-foxy-action-adventure-tunic-is-heading-to-game-pass-today",
-          "publishedOn": "2022-03-16T17:08:00.000Z",
-          "wordCount": 909,
-          "title": "Foxy action-adventure Tunic is heading to Game Pass today",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-11-21-51/foxy-action-adventure-tunic-is-heading-to-game-pass-today-1647035478278.jpg/EG11/resize/1200x-1/foxy-action-adventure-tunic-is-heading-to-game-pass-today-1647035478278.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194378",
-          "author": "Victoria Kennedy",
-          "description": "Supermassive Games has unveiled a small clip for its new game The Quarry. While only a short little snippet so far, the developer has a full reveal up its sleeves, which is planned for tomorrow.\n\"What doesn't kill you will make you stronger,\" the developer teased on Twitter earlier today. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-supermassive-games-teases-the-quarry-with-full-reveal-coming-tomorrow",
-          "publishedOn": "2022-03-16T17:03:00.000Z",
-          "wordCount": 947,
-          "title": "Supermassive Games teases The Quarry, with full reveal coming tomorrow",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-17-01/-1647450097054.jpg/EG11/resize/1200x-1/-1647450097054.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194365",
-          "author": "Victoria Kennedy",
-          "description": "Sniper Elite 5 has a confirmed release date and is available to pre-order now. \n\"Operation Kraken must be destroyed. Pre-Order Sniper Elite 5 now for the bonus Target Führer campaign mission and P.1938 Suppressed Pistol\", Sniper Elite tweeted.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-sniper-elite-5-release-date-confirmed",
-          "publishedOn": "2022-03-16T16:23:00.000Z",
-          "wordCount": 910,
-          "title": "Sniper Elite 5 release date confirmed",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-16-12/-1647447161250.jpg/EG11/resize/1200x-1/-1647447161250.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194363",
-          "author": "Ed Nightingale",
-          "description": "An extended gameplay trailer gives great detail into Returnal's new Tower of Sisyphus mode.\nAs announced at the recent PlayStation State of Play, the mode arrives as part of the Ascension free DLC that also includes campaign co-op.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-heres-an-extended-look-at-returnals-tower-of-sisyphus",
-          "publishedOn": "2022-03-16T15:49:00.000Z",
-          "wordCount": 1020,
-          "title": "Here's an extended look at Returnal's Tower of Sisyphus",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-15-46/-1647445573622.jpg/EG11/resize/1200x-1/-1647445573622.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194348",
-          "author": "Ed Nightingale",
-          "description": "A new video blog for Bethesda's space epic RPG has been released, titled Made For Wanderers, with game director Todd Howard in conversation with key members from the team.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-starfield-designed-to-allow-every-player-to-create-their-own-story",
-          "publishedOn": "2022-03-16T14:53:00.000Z",
-          "wordCount": 1199,
-          "title": "Starfield designed \"to allow every player to create their own story\"",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-14-48/-1647442115352.jpg/EG11/resize/1200x-1/-1647442115352.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194343",
-          "author": "Victoria Kennedy",
-          "description": "The organisers of the 2022 Commonwealth Games have confirmed the three games players will be battling it out in during the event's inaugural Commonwealth Esport Championships.\nDOTA 2, Rocket League and eFootball will all be featured at the event, which is being held in Birmingham this August. Each of these three titles will include an open category and women category.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-commonwealth-esports-championships-games-confirmed-with-konamis-efootball-kicking-things-off",
-          "publishedOn": "2022-03-16T14:48:00.000Z",
-          "wordCount": 1088,
-          "title": "Commonwealth Esports Championships' games confirmed, with Konami's eFootball kicking things off",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-14-35/-1647441333703.jpg/EG11/resize/1200x-1/-1647441333703.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194341",
-          "author": "Tom Phillips",
-          "description": "The detail comes amid a set of announcements by Private Division, the Take-Two-owned publisher behind Hades, The Outer Worlds and Kerbal Space Progam 2. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-former-dragon-age-boss-making-ambitious-new-action-rpg",
-          "publishedOn": "2022-03-16T14:42:00.000Z",
-          "wordCount": 1026,
-          "title": "Former Dragon Age boss making \"ambitious new action RPG\"",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-14-31/-1647441072972.jpg/EG11/resize/1200x-1/-1647441072972.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194306",
-          "author": "Tom Phillips",
-          "description": "last year's kerfuffle which saw the game's PlayStation crossplay blocked.\nThere's no exact date for when PlayStation crossplay will now be switched on, though 2K has today confirmed the move will indeed happen - letting players team up across Xbox One, Xbox Series X/S, Mac, Stadia and PC via Steam or Epic Games Store.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-borderlands-3-playstation-crossplay-confirmed-in-year-late-u-turn",
-          "publishedOn": "2022-03-16T12:53:00.000Z",
-          "wordCount": 1093,
-          "title": "Borderlands 3 PlayStation crossplay confirmed in year-late U-turn",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-12-49/-1647434945958.jpg/EG11/resize/1200x-1/-1647434945958.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194296",
-          "author": "Victoria Kennedy",
-          "description": "Guerrilla has released another patch for Horizon Forbidden West that will see multiple changes across the board. \nPlease note there may be some spoilers for Horizon Forbidden West ahead.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-16-another-new-horizon-forbidden-west-patch-has-been-released",
-          "publishedOn": "2022-03-16T12:32:00.000Z",
-          "wordCount": 937,
-          "title": "Another new Horizon Forbidden West patch has been released",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-16-12-29/-1647433777858.jpg/EG11/resize/1200x-1/-1647433777858.jpg"
         }
       ]
     }
