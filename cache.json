@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/04/undetectable-backdoors-in-machine-learning-models.html",
+          "author": null,
+          "description": "<p>New paper: &#8220;<a href=\"https://arxiv.org/abs/2204.06974\">Planting Undetectable Backdoors in Machine Learning Models</a>:</p>\n<blockquote><p><b>Abstract</b>: Given the computational cost and technical expertise required to train machine learning models, users may delegate the task of learning to a service provider. We show how a malicious learner can plant an undetectable backdoor into a classifier. On the surface, such a backdoored classifier behaves normally, but in reality, the learner maintains a mechanism for changing the classification of any input, with only a slight perturbation. Importantly, without the appropriate &#8220;backdoor key&#8221;, the mechanism is hidden and cannot be detected by any computationally-bounded observer. We demonstrate two frameworks for planting undetectable backdoors, with incomparable guarantees. ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/04/undetectable-backdoors-in-machine-learning-models.html",
+          "publishedOn": "2022-04-19T20:12:34.000Z",
+          "wordCount": 1134,
+          "title": "Undetectable Backdoors in Machine-Learning Models",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-strawberry-squid-video.html",
           "author": null,
           "description": "<p>Beautiful <a href=\"https://www.livescience.com/strawberry-squid-spotted-off-california\">video</a> shot off the California coast.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -402,6 +412,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1849183",
+          "author": "Ars Contributors",
+          "description": "The nascent recycling industry needs to economically deconstruct lots of formats.",
+          "link": "https://arstechnica.com/?p=1849183",
+          "publishedOn": "2022-04-19T21:40:24.000Z",
+          "wordCount": 1045,
+          "title": "Lithium costs a lot of money—so why aren’t we recycling lithium batteries?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-453995111-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849069",
+          "author": "Samuel Axon",
+          "description": "Job listings revealed some details about Amazon's XR ambitions.",
+          "link": "https://arstechnica.com/?p=1849069",
+          "publishedOn": "2022-04-19T20:43:54.000Z",
+          "wordCount": 843,
+          "title": "Amazon is hiring to build an “advanced” and “magical” AR/VR product",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/03/swordofdamocles-640x215.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849194",
+          "author": "Dan Goodin",
+          "description": "Exploiting critical UEFI vulnerabilities could allow malware to hide in firmware.",
+          "link": "https://arstechnica.com/?p=1849194",
+          "publishedOn": "2022-04-19T20:26:05.000Z",
+          "wordCount": 960,
+          "title": "Hackers can infect >100 Lenovo models with unremovable malware. Are you patched?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/lenovo-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849164",
+          "author": "Jon Brodkin",
+          "description": "HiQ can keep scraping LinkedIn member profile data as court upholds injunction.",
+          "link": "https://arstechnica.com/?p=1849164",
+          "publishedOn": "2022-04-19T19:56:28.000Z",
+          "wordCount": 1140,
+          "title": "LinkedIn can’t use anti-hacking law to block web scraping, judges rule",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-linkedin-icon-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849171",
+          "author": "Beth Mole",
+          "description": "General Mills says it hasn't found evidence for illnesses as reports pile up.",
+          "link": "https://arstechnica.com/?p=1849171",
+          "publishedOn": "2022-04-19T19:03:40.000Z",
+          "wordCount": 848,
+          "title": "Thousands report vomiting, diarrhea after eating Lucky Charms cereal",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1392183595-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849066",
+          "author": "Scharon Harding",
+          "description": "Researchers' electric chopsticks claim to increase perceived saltiness of food.",
+          "link": "https://arstechnica.com/?p=1849066",
+          "publishedOn": "2022-04-19T18:18:18.000Z",
+          "wordCount": 970,
+          "title": "Powered chopsticks use electricity to make food taste 50% saltier",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-696810932-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1849127",
           "author": "John Timmer",
@@ -3741,16 +3811,6 @@
           "wordCount": 1679,
           "title": "Honda just built the world’s most advanced wind tunnel in Ohio",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/HALO-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1837694",
-          "author": "Ron Amadeo",
-          "description": "Samsung stands still while the competition is better than ever.",
-          "link": "https://arstechnica.com/?p=1837694",
-          "publishedOn": "2022-03-21T11:00:42.000Z",
-          "wordCount": 1187,
-          "title": "Samsung Galaxy S22 Ultra review: The slab phone retirement plan",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/Galaxy-S22-7-760x380.jpg"
         }
       ]
     },
@@ -3876,6 +3936,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/lego-builders-journey-brings-gorgeous-diorama-puzzling-to-ps5-and-ps4-from-today",
+          "author": "Matt Wales",
+          "description": "Lego Builder's Journey, the gorgeous diorama puzzler from developer Light Brick Studio, has made the leap from iOS to console, and is now available to purchase on PS4 and PS5.\nLego Builder's Journey, which originally launched as an Apple Arcade release toward the end of 2019, is, conceptually, a fairly simple thing, tasking players with building a path across a selection of beautifully presented Lego dioramas so their little Lego pal can push onward.\nEurogamer's Christian Donlan was quite taken with Lego Builder's Journey's breezy, tactile charms at the time, and spoke highly of its \"meditative, contemplative tapping and twisting and reworking and rethinking\" in his write up.\n Read more",
+          "link": "https://www.eurogamer.net/lego-builders-journey-brings-gorgeous-diorama-puzzling-to-ps5-and-ps4-from-today",
+          "publishedOn": "2022-04-19T22:51:44.000Z",
+          "wordCount": 792,
+          "title": "Lego Builder's Journey brings gorgeous diorama puzzling to PS5 and PS4 today",
+          "imageUrl": "https://assets.reedpopcdn.com/lego-builders-journey.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-builders-journey.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/marvels-avengers-next-playable-hero-is-jane-foster-the-mighty-thor",
+          "author": "Matt Wales",
+          "description": "It's been nearly five months since the troubled Marvel's Avengers last received a new playable character - the PlayStation-exclusive Spider-Man - but there's finally good news for those wondering when the drought might end: developer Crystal Dynamics has confirmed another superhero is on the way, this time in the form of Jane Foster, the Mighty Thor.\r\n\n\r\nDetails on Foster's video game iteration are limited at this early juncture in Crystal Dynamics' reveal, but the developer has confirmed the character will have \"a lot in common\" with the version of Thor already in-game. Don't expect a carbon copy, however; \"elements that are distinctly Jane\" are also promised for her eventual arrival.\r\n\n\r\nExactly when that might be, though, is unclear. Crystal Dynamic offered no timeline for the new playable character in its recent blog post, only confirming Foster will release as part of Marvel's Avengers' 2.5 update and that more details will be shared \"in the future\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/marvels-avengers-next-playable-hero-is-jane-foster-the-mighty-thor",
+          "publishedOn": "2022-04-19T20:31:49.000Z",
+          "wordCount": 1000,
+          "title": "Marvel's Avengers' next playable hero is Jane Foster, the Mighty Thor",
+          "imageUrl": "https://assets.reedpopcdn.com/crystal-dynamics-shows-off-fresh-marvels-avengers-gameplay-in-latest-livestream-1593030787177.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crystal-dynamics-shows-off-fresh-marvels-avengers-gameplay-in-latest-livestream-1593030787177.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fight-a-fishy-old-god-in-tiny-tinas-wonderlands-first-dlc-coiled-captors",
+          "author": "Matt Wales",
+          "description": "Gearbox has detailed Coiled Captors, the first DLC expansion for Borderlands spin-off Tiny Tina's Wonderlands, which will see players attempting to liberate an old god from its icy prison when it arrives this Thursday, 21st April.\r\n\n\r\nMore specifically, Coiled Captors sends players on an adventure deep inside an icy mountain - where they'll find \"wintery wastelands, arid ruins, and flooding caverns\" - and it's here they'll be tasked with freeing an old god from within the body of a mighty shark-like seawarg, via the time-honoured Borderlands tradition of killing it to death.\r\n\n\r\nGearbox describes Coiled Captors - which can be accessed via Vesper's first Mirror of Mystery - as a \"repayable dungeon challenge\", explaining that as well as dealing with fierce resistance from the snake-like members of the Coiled, a secretive sect that worships ancient gods, players will need to tackle the four powerful forms of the DLC's captive old god, Chums.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fight-a-fishy-old-god-in-tiny-tinas-wonderlands-first-dlc-coiled-captors",
+          "publishedOn": "2022-04-19T18:54:59.000Z",
+          "wordCount": 939,
+          "title": "Fight a fishy old god in Tiny Tina's Wonderlands' first DLC Coiled Captors",
+          "imageUrl": "https://assets.reedpopcdn.com/tiny-tina-wonderlands-coiled-captors.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tiny-tina-wonderlands-coiled-captors.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/world-of-warcraft-dragonflight-expansion-heads-to-dragon-isles-with-new-race-class-hybrid",
           "author": "Matt Wales",
@@ -8385,56 +8475,6 @@
           "wordCount": 950,
           "title": "Sierra founders remaking Colossal Cave Adventure",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-21-15-16/-1647875801501.jpg/EG11/resize/1200x-1/-1647875801501.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194979",
-          "author": "Tom Phillips",
-          "description": "These will arrive after Testament, the final first season character who has now been fully revealed. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-21-guilty-gear-strive-getting-second-character-pass-and-crossplay",
-          "publishedOn": "2022-03-21T12:06:00.000Z",
-          "wordCount": 940,
-          "title": "Guilty Gear Strive getting second character pass and crossplay",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-21-11-58/-1647863901851.jpg/EG11/resize/1200x-1/-1647863901851.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194975",
-          "author": "Ed Nightingale",
-          "description": "A secret in The Witcher 3 has finally been confirmed by a CD Projekt developer, seven years after the game's initial release.\nYoutuber xLetalis yesterday released a new video detailing the discovery, which concerns the character Vivienne in the Blood and Wine DLC.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-21-witcher-3-secret-discovered-after-seven-years",
-          "publishedOn": "2022-03-21T11:42:00.000Z",
-          "wordCount": 1017,
-          "title": "Witcher 3 secret confirmed after seven years",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-21-11-36/-1647862610074.jpg/EG11/resize/1200x-1/-1647862610074.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194974",
-          "author": "Tom Phillips",
-          "description": "The founders of Ori and the Blind Forest developer Moon Studios have been accused of toxic behaviour and mismanagement. \nA Venturebeat report into the Vienna-based company includes various details on Moon Studios founders Thomas Mahler and Gennadiy Korol, who it is claimed fostered a work environment where anyone could speak their mind without fear of reprisal. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-21-ori-and-the-blind-forest-developer-accused-of-bullying-staff",
-          "publishedOn": "2022-03-21T11:33:00.000Z",
-          "wordCount": 1345,
-          "title": "Ori and the Blind Forest developer accused of mismanagement",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-21-11-26/ori-and-the-blind-forest-developer-accused-of-bullying-staff-1647862013180.jpg/EG11/resize/1200x-1/ori-and-the-blind-forest-developer-accused-of-bullying-staff-1647862013180.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194968",
-          "author": "Tom Phillips",
-          "description": "Bungie has responded to reports of Destiny fan content being removed from YouTube due to copyright claims. \nChannels impacted by the claims include those which host music tracks from the series, as well as popular story explanation videos from Destiny loremaster Byf, who uses Destiny soundtracks as background music. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-21-bungie-aware-of-destiny-fan-video-takedowns",
-          "publishedOn": "2022-03-21T11:10:00.000Z",
-          "wordCount": 1118,
-          "title": "Bungie \"aware\" of Destiny fan video takedowns",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-21-11-08/bungie-aware-of-destiny-fan-video-takedowns-1647860891838.jpg/EG11/resize/1200x-1/bungie-aware-of-destiny-fan-video-takedowns-1647860891838.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2194961",
-          "author": "Ed Nightingale",
-          "description": "Metroid Dread is now the third highest-selling game in the series.\nBased on boxed sales, the game had the best launch of all Metroid games when it released last year, with the highest-grossing UK launch. It was also the fastest-selling entry since Metroid Prime 1.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-21-metroid-dread-third-highest-selling-game-in-series",
-          "publishedOn": "2022-03-21T10:37:00.000Z",
-          "wordCount": 896,
-          "title": "Metroid Dread third highest-selling game in series",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-21-10-32/-1647858756335.jpg/EG11/resize/1200x-1/-1647858756335.jpg"
         }
       ]
     }
