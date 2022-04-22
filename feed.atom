@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T06:27:35.070Z</updated>
+    <updated>2022-04-22T12:28:53.631Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java Cryptography Implementation Mistake Allows Digital-Signature Forgeries]]></title>
+        <id>https://www.schneier.com/blog/archives/2022/04/java-cryptography-implementation-mistake-allows-digital-signature-forgeries.html</id>
+        <link href="https://www.schneier.com/blog/archives/2022/04/java-cryptography-implementation-mistake-allows-digital-signature-forgeries.html"/>
+        <updated>2022-04-22T12:09:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>Interesting <a href="https://arstechnica.com/information-technology/2022/04/major-crypto-blunder-in-java-enables-psychic-paper-forgeries/">implementation mistake</a>:</p>
+<blockquote><p>The vulnerability, which <a href="https://www.oracle.com/security-alerts/cpuapr2022.html">Oracle patched on Tuesday</a>, affects the company’s implementation of the <a href="https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm">Elliptic Curve Digital Signature Algorithm</a> in Java versions 15 and above. ECDSA is an algorithm that uses the principles of <a href="https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/">elliptic curve cryptography</a> to authenticate messages digitally.</p>
+<p>[&#8230;]</p>
+<p>ECDSA signatures rely on a pseudo-random number, typically notated as K, that’s used to derive two additional numbers, R and S. To verify a signature as valid, a party must check the equation involving R and S, the signer’s public key, and a cryptographic hash of the message. When both sides of the equation are equal, the signature is valid. ...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devolver pokes fun at Sonic Origins' bizarre DLC and pre-order bonuses]]></title>
+        <id>https://www.eurogamer.net/devolver-pokes-fun-at-sonic-origins-bizarre-dlc-and-pre-order-bonuses</id>
+        <link href="https://www.eurogamer.net/devolver-pokes-fun-at-sonic-origins-bizarre-dlc-and-pre-order-bonuses"/>
+        <updated>2022-04-22T11:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Sega screwed up its announcement of a promising-looking Sonic Origins retro collection by listing a bizarre selection of pre-order bonuses, DLC and deluxe edition content. 
+"Character animation in the main menu" and "camera controls over the main menu islands" were listed as being part of the Premium Fun Pack DLC or the game's Digital Deluxe Edition. The same is true of the game's "Hard Missions".
+A bonus listed simply as "Letterbox Background" is highlighted as being available in either the Premium Fun Pack DLC or the separate Start Dash Pack DLC - free but only if you pre-order.
+ Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kao the Kangaroo hops back onto consoles with his trusty boxing gloves next month]]></title>
+        <id>https://www.eurogamer.net/kao-the-kangaroo-hops-back-onto-consoles-with-his-trusty-boxing-gloves-next-month</id>
+        <link href="https://www.eurogamer.net/kao-the-kangaroo-hops-back-onto-consoles-with-his-trusty-boxing-gloves-next-month"/>
+        <updated>2022-04-22T11:43:42.000Z</updated>
+        <summary type="html"><![CDATA[It has been over 20 years since Kao, the boxing glove wearing kangaroo from the land down under, first made his debut. But he is now back again and will be hopping into our lives for a rebooted hurrah on PS5, PS4, Xbox Series X/S, Xbox One, Nintendo Switch and PC (via Steam) on Friday 27th May. And what will his reboot be called? Well, Kao the Kangaroo, of course.
+"We've been blown away by the response we've had from gamers since we announced Kao the Kangaroo was making a return earlier this year," said Kaja Borowko, head of Kao developer Tate Multimedia. 
+"With this new chapter, we've set out to make sure the new Kao the Kangaroo both honours his previous outings and offers fresh, contemporary gameplay for fans new and old alike. This is a complete reboot for Kao, and we can't wait to see how people take to it at launch!" You can check out Kao's new trailer below.
+ Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metal Gear and Death Stranding art director wants to design a car]]></title>
+        <id>https://www.eurogamer.net/metal-gear-and-death-stranding-art-director-wants-to-design-a-car</id>
+        <link href="https://www.eurogamer.net/metal-gear-and-death-stranding-art-director-wants-to-design-a-car"/>
+        <updated>2022-04-22T11:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Metal Gear Solid and Death Stranding art director Yoji Shinkawa wants to design a real life car.
+
+
+Speaking to Edge magazine (spotted by VGC), Shinkawa was asked about any future ambitions.
+
+
+"One day I would like to design a car - a real car," he replied. "This has been a long-held ambition for me."
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation gender discrimination lawsuit falters]]></title>
+        <id>https://www.eurogamer.net/playstation-gender-discrimination-lawsuit-falters</id>
+        <link href="https://www.eurogamer.net/playstation-gender-discrimination-lawsuit-falters"/>
+        <updated>2022-04-22T11:04:27.000Z</updated>
+        <summary type="html"><![CDATA[A judge has dismissed the majority of a gender discrimination lawsuit lodged against PlayStation by a former employee.
+
+
+The case, filed in November last year by ex-PlayStation IT analyst Emma Majo, claimed PlayStation paid women less than men in similar jobs and were held back from promotions. Majo also claimed she had been wrongfully fired "soon after" reporting gender bias. 
+
+
+In a new ruling, reported by Axios, a judge has now decided much of Majo's case lacked necessary evidence. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: Falcon 9 says Aloha to Hawaii, Blue Origin to abandon ship?]]></title>
+        <id>https://arstechnica.com/?p=1849637</id>
+        <link href="https://arstechnica.com/?p=1849637"/>
+        <updated>2022-04-22T11:00:23.000Z</updated>
+        <summary type="html"><![CDATA["New Glenn’s first stage will come home to the Jacklyn after every flight."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COD-Zilla is officially coming, and he's bringing King Kong along for the ride]]></title>
+        <id>https://www.eurogamer.net/cod-zilla-is-officially-coming-and-hes-bringing-king-kong-along-for-the-ride</id>
+        <link href="https://www.eurogamer.net/cod-zilla-is-officially-coming-and-hes-bringing-king-kong-along-for-the-ride"/>
+        <updated>2022-04-22T10:43:47.000Z</updated>
+        <summary type="html"><![CDATA[After a lot of speculation and several leaks, what we all assumed was coming has indeed been confirmed. In a, rather surreal and perhaps overdue crossover, Godzilla and King Kong will be making their way into Call of Duty: Warzone.
+"Hold on to your… everything. 😱 The MONSTER OF ALL BATTLES is coming," Activision proclaimed on Thursday. This crossover, which is known as Operation Monarch, will go live on 11th May. 
+You can check out the official teaser  below.
+ Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gearbox publishing new "roguelight" game Eyes in the Dark]]></title>
+        <id>https://www.eurogamer.net/gearbox-publishing-new-roguelight-game-eyes-in-the-dark</id>
+        <link href="https://www.eurogamer.net/gearbox-publishing-new-roguelight-game-eyes-in-the-dark"/>
+        <updated>2022-04-22T10:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Gearbox announced a new "roguelight" game at PAX East 2022 named Eyes in the Dark: The Curious Case of One Victoria Bloom.
+
+
+Developed by Under The Stairs, the monochromatic game sees a young girl - the titular Victoria Bloom - searching the darkness of her family home for her lost grandfather.
+
+
+The layout of the house will shift each run and Victoria will have a variety of light-based weapons to fend off creatures. You can check out gameplay in the trailer below.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gearbox making new Tales from the Borderlands, out this year]]></title>
+        <id>https://www.eurogamer.net/gearbox-making-new-tales-from-the-borderlands-out-this-year</id>
+        <link href="https://www.eurogamer.net/gearbox-making-new-tales-from-the-borderlands-out-this-year"/>
+        <updated>2022-04-22T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Telltale Games' brilliant Tales from the Borderlands is getting a sequel of sorts, courtesy of Borderlands' main developer Gearbox.
+
+
+The new Tales game will launch this year and feature a fresh cast of characters, Gearbox's colourful CEO Randy Pitchford announced on stage at PAX East last night. 
+
+
+In development for "many" years, the project has been worked on in-house at Gearbox after the developer saw the critical success of the original Tales - and after Telltale itself sadly closed down.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic the Hedgehog Spinball and other Sega Genesis games come to Nintendo Switch Online]]></title>
+        <id>https://www.eurogamer.net/sonic-the-hedgehog-spinball-and-other-sega-genesis-games-come-to-nintendo-switch-online</id>
+        <link href="https://www.eurogamer.net/sonic-the-hedgehog-spinball-and-other-sega-genesis-games-come-to-nintendo-switch-online"/>
+        <updated>2022-04-22T10:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo has added three more "power-packed" Sega Genesis games to its Switch Online expansion pack. So, put your feet up and enjoy a nostalgic trip back through time thanks to Sonic the Hedgehog Spinball, Shining Force 2 and Space Harrier 2.
+Sharing a trailer of what is new, Nintendo invited fans to, "relive some of the iconic games that defined Sega Genesis."
+So, what can you expect from Nintendo's latest offering of retro games?
+ Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of Elden Ring's most notorious bosses is now even more difficult]]></title>
+        <id>https://www.eurogamer.net/one-of-elden-rings-most-notorious-bosses-is-now-even-more-difficult</id>
+        <link href="https://www.eurogamer.net/one-of-elden-rings-most-notorious-bosses-is-now-even-more-difficult"/>
+        <updated>2022-04-22T09:55:01.000Z</updated>
+        <summary type="html"><![CDATA[One of Elden Ring's most difficult bosses has now been made even trickier.
+
+
+It's thanks to a bug in the latest update that causes the infamous Malenia to self-heal when other players are summoned in to help.
+
+
+The bug was spotted by the now legendary player Let Me Solo Her, who regularly leaves a summon sign outside the boss fight to help those struggling to defeat her.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Klonoa 1 & 2 remasters coming to PlayStation, Xbox, and PC alongside Switch version]]></title>
         <id>https://www.eurogamer.net/klonoa-1-2-remasters-coming-to-playstation-xbox-and-pc-alongside-switch-version</id>
@@ -10384,70 +10549,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Admits id Software was nearly acquired by Sierra—and we get Ken Williams' response.]]></summary>
         <author>
             <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new picture of the hot water beneath Yellowstone’s geysers]]></title>
-        <id>https://arstechnica.com/?p=1843226</id>
-        <link href="https://arstechnica.com/?p=1843226"/>
-        <updated>2022-03-23T23:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Hot, mineral-rich water creates changes in electric fields that can be mapped.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There's a League of Legends novel on the way]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2195521</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-23-theres-a-league-of-legends-novel-on-the-way"/>
-        <updated>2022-03-23T21:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Seemingly not content with chart-topping pop songs, spin-off games, and an acclaimed Netflix animated series, developer Riot Games is giving League of Legends the literary treatment, with the game's "first ever novel" set to release this September.
-Ruination, as the forthcoming novel will be titled, is the work of Riot Games' principle writer, Anthony Reynolds, and will focus on two League of Legends champions: Kalista, the Spear of Vengeance, and the Ruined King Viego.
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellivison's troubled Amico gets official unboxing but still no hint of a release date]]></title>
-        <id>https://www.eurogamer.net/article.php?article_id=2195520</id>
-        <link href="https://www.eurogamer.net/articles/2022-03-23-intellivisons-troubled-amico-gets-official-unboxing-but-still-no-hint-of-a-release-date"/>
-        <updated>2022-03-23T21:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Intellivision has released an official Amico unboxing video, insisting it continues to "push forward" with the trouble console's release, despite the project having now been delayed three times and a recent SEC filing suggesting the company may not be able to operate beyond July.
-Intellivision's newly released unboxing video sees chief technology officer John Alvarado showcasing a "fully functional" Amico console, supposedly intended to be shipped to Hans Ippish, president of European operations, for demonstration to European partners.
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AARP-backed social network looks to lure older users from Facebook]]></title>
-        <id>https://arstechnica.com/?p=1843176</id>
-        <link href="https://arstechnica.com/?p=1843176"/>
-        <updated>2022-03-23T21:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Platform focuses on shared interests, discourages off-topic political rants.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make online games less toxic? GDC devs debate moderation]]></title>
-        <id>https://arstechnica.com/?p=1842953</id>
-        <link href="https://arstechnica.com/?p=1842953"/>
-        <updated>2022-03-23T20:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence, verbalizing feelings, and massively multiplayer horse games.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today’s best deals: Amazon Kindles and Fire HD tablets, LG OLED TVs, and more]]></title>
-        <id>https://arstechnica.com/?p=1842717</id>
-        <link href="https://arstechnica.com/?p=1842717"/>
-        <updated>2022-03-23T18:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster also has the new iPad Air, Xbox consoles, and Philips Hue lights.]]></summary>
-        <author>
-            <name>Ars Staff</name>
         </author>
     </entry>
 </feed>
