@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-squid-skin-inspired-insulating-material.html",
+          "author": null,
+          "description": "<p><a href=\"https://phys.org/news/2022-03-squid-skin-inspired-cup-cozy-cool.html\">Interesting</a>:</p>\n<blockquote><p>Drawing inspiration from cephalopod skin, engineers at the University of California, Irvine invented an adaptive composite material that can insulate beverage cups, restaurant to-go bags, parcel boxes and even shipping containers.</p>\n<p>[&#8230;]</p>\n<p>&#8220;The metal islands in our composite material are next to one another when the material is relaxed and become separated when the material is stretched, allowing for control of the reflection and transmission of infrared light or heat dissipation,&#8221; said Gorodetsky. &#8220;The mechanism is analogous to chromatophore expansion and contraction in a squid&#8217;s skin, which alters the reflection and transmission of visible light.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-squid-skin-inspired-insulating-material.html",
+          "publishedOn": "2022-04-22T21:04:24.000Z",
+          "wordCount": 486,
+          "title": "Friday Squid Blogging: Squid Skin–Inspired Insulating Material",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/04/java-cryptography-implementation-mistake-allows-digital-signature-forgeries.html",
           "author": null,
           "description": "<p>Interesting <a href=\"https://arstechnica.com/information-technology/2022/04/major-crypto-blunder-in-java-enables-psychic-paper-forgeries/\">implementation mistake</a>:</p>\n<blockquote><p>The vulnerability, which <a href=\"https://www.oracle.com/security-alerts/cpuapr2022.html\">Oracle patched on Tuesday</a>, affects the company’s implementation of the <a href=\"https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm\">Elliptic Curve Digital Signature Algorithm</a> in Java versions 15 and above. ECDSA is an algorithm that uses the principles of <a href=\"https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/\">elliptic curve cryptography</a> to authenticate messages digitally.</p>\n<p>[&#8230;]</p>\n<p>ECDSA signatures rely on a pseudo-random number, typically notated as K, that’s used to derive two additional numbers, R and S. To verify a signature as valid, a party must check the equation involving R and S, the signer’s public key, and a cryptographic hash of the message. When both sides of the equation are equal, the signature is valid. ...</p></blockquote>",
@@ -394,16 +404,6 @@
           "wordCount": 373,
           "title": "Gus Simmons’s Memoir",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/linux-improves-its-random-number-generator.html",
-          "author": null,
-          "description": "<p>In kernel version 5.17, both <tt>/dev/random</tt> and <tt>/dev/urandom</tt> have been <a href=\"https://www.theregister.com/2022/03/21/new_linux_kernel_has_improved/\">replaced</a> with a new &#8212; identical &#8212; algorithm based on the BLAKE2 hash function, which is an excellent security improvement.</p>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/linux-improves-its-random-number-generator.html",
-          "publishedOn": "2022-03-24T11:38:47.000Z",
-          "wordCount": 346,
-          "title": "Linux Improves Its Random Number Generator",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +412,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1849907",
+          "author": "Sam Machkovech",
+          "description": "Pristinely disguised edutainment—and its creator clarifies game's background math.",
+          "link": "https://arstechnica.com/?p=1849907",
+          "publishedOn": "2022-04-22T23:07:30.000Z",
+          "wordCount": 1159,
+          "title": "Tandis review: The ultimate geometry-based puzzle game",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/tandis-listing-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850048",
+          "author": "Dan Goodin",
+          "description": "Thousands of hack attempts made in the days following discovery of the vulnerability.",
+          "link": "https://arstechnica.com/?p=1850048",
+          "publishedOn": "2022-04-22T21:53:59.000Z",
+          "wordCount": 852,
+          "title": "Hackers hammer SpringShell vulnerability in attempt to install cryptominers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/cryptomining-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850028",
+          "author": "Beth Mole",
+          "description": "Doctors watched the shifting rash blanket his body in rare hyperinfection.",
+          "link": "https://arstechnica.com/?p=1850028",
+          "publishedOn": "2022-04-22T21:20:36.000Z",
+          "wordCount": 822,
+          "title": "Army of worm larvae hatch from man’s bum, visibly slither under his skin",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-179793196-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849974",
+          "author": "Ron Amadeo",
+          "description": "Insteon blames the pandemic and lack of a buyer for its sudden shutdown last week.",
+          "link": "https://arstechnica.com/?p=1849974",
+          "publishedOn": "2022-04-22T21:10:31.000Z",
+          "wordCount": 952,
+          "title": "Insteon finally comes clean about its sudden smart home shutdown",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/insta2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849985",
+          "author": "Jonathan M. Gitlin",
+          "description": "BrightDrop and FedEx drove an electric van from NYC to DC—then let Ars have a try.",
+          "link": "https://arstechnica.com/?p=1849985",
+          "publishedOn": "2022-04-22T20:40:06.000Z",
+          "wordCount": 1128,
+          "title": "Our first impressions after driving FedEx’s new electric delivery van",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/BrightDrop-Zevo-600-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849791",
+          "author": "Samuel Axon",
+          "description": "The device will work as either a soundbar or a rear channel speaker.",
+          "link": "https://arstechnica.com/?p=1849791",
+          "publishedOn": "2022-04-22T20:03:32.000Z",
+          "wordCount": 790,
+          "title": "Report: Sonos will finally make a soundbar that’s almost affordable",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/sonos-beam-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1848743",
+          "author": "Jennifer Ouellette",
+          "description": "NatGeo documentary pairs Bruce Means and Alex Honnold on an Amazonian expedition",
+          "link": "https://arstechnica.com/?p=1848743",
+          "publishedOn": "2022-04-22T19:46:18.000Z",
+          "wordCount": 1083,
+          "title": "Biologist, elite climber team up to hunt for new species in The Last Tepui",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/tepui10CROP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849909",
+          "author": "Jon Brodkin",
+          "description": "In 4-0 vote, FCC takes big step toward crackdown on poorly designed receivers.",
+          "link": "https://arstechnica.com/?p=1849909",
+          "publishedOn": "2022-04-22T18:53:50.000Z",
+          "wordCount": 894,
+          "title": "Airlines’ faulty altimeters spur FCC plan to regulate wireless receivers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/circular-waves-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849865",
+          "author": "Andrew Cunningham",
+          "description": "Parts could also help you repurpose an old Framework board after upgrading.",
+          "link": "https://arstechnica.com/?p=1849865",
+          "publishedOn": "2022-04-22T18:14:01.000Z",
+          "wordCount": 699,
+          "title": "Buy the Framework laptop’s $399 motherboard to make your own mini PC",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/framework-mobo2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1849647",
+          "author": "Kyle Orland",
+          "description": "The new title will eschew pixel art, embrace hint systems.",
+          "link": "https://arstechnica.com/?p=1849647",
+          "publishedOn": "2022-04-22T18:10:33.000Z",
+          "wordCount": 1000,
+          "title": "In rare interview, Monkey Island designers tell Ars about long-awaited Return",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/return-to-monkey-island-02-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1849844",
           "author": "Ron Amadeo",
@@ -3781,26 +3881,6 @@
           "wordCount": 1180,
           "title": "A mysterious satellite hack has victims far beyond Ukraine",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/satellite-dishes-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1843062",
-          "author": "Scharon Harding",
-          "description": "MSI refreshed its Summit laptops with Tile trackers and 12th Gen Intel CPUs.",
-          "link": "https://arstechnica.com/?p=1843062",
-          "publishedOn": "2022-03-24T12:00:22.000Z",
-          "wordCount": 924,
-          "title": "MSI challenges Lenovo, HP with Tile-tracking laptops",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/Summit_E14_Flip_Evo_13-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1843183",
-          "author": "Sam Machkovech",
-          "description": "Admits id Software was nearly acquired by Sierra—and we get Ken Williams' response.",
-          "link": "https://arstechnica.com/?p=1843183",
-          "publishedOn": "2022-03-24T10:15:36.000Z",
-          "wordCount": 1810,
-          "title": "Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/Machkovech_JohnRomero_cROPPED-760x380.jpeg"
         }
       ]
     },
@@ -3916,6 +3996,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/an-official-lego-atari-2600-is-reportedly-launching-this-august",
+          "author": "Matt Wales",
+          "description": "Lego is now firmly entrenched in the world of video games, what with its sets inspired by the likes of Mario, Sonic, and Minecraft, and that looks set to continue with an official Lego version of the iconic Atari 2600 having now been uncovered for apparent release later this year.\r\n\n\r\nAs reported by Promobricks (via VGC), an official Lego version of the Atari 2600 console - which initially released as the Atari VCS all the way back in 1977 - complete with distinctive wooden trim, will arrive this August as part of Atari's 50th anniversary celebrations.\r\n\n\r\nPromobricks says the set - not to to be confused with the fan-made submission on Lego's Ideas website - will include a Lego rendition of the console itself (said to be roughly the size of the 1977 original), a replica of the equally iconic CX40 joystick, plus a cartridge of gaming classic Pitfall! fashioned from plastic bricks.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/an-official-lego-atari-2600-is-reportedly-launching-this-august",
+          "publishedOn": "2022-04-22T20:47:43.000Z",
+          "wordCount": 862,
+          "title": "An official Lego Atari 2600 is reportedly launching this August",
+          "imageUrl": "https://assets.reedpopcdn.com/atari-2600.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/atari-2600.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-us-reportedly-received-thousands-of-faulty-joy-cons-each-week-at-height-of-drift-issues",
+          "author": "Matt Wales",
+          "description": "Switch's Joy-Con controllers have become notorious for their struggles with \"drift\", to the point that lawsuits have been launched over the issue, the EU has pledged to investigate, and Nintendo's president has even formally apologised. A new report, though, shines additional light on the extent of the issue, claiming that Nintendo's US arm was receiving \"easily thousands\" of faulty controllers a week for repair at the height of the problem.\r\n\n\r\nThat's according to a new report by Kotaku, which, citing a former supervisor at the Switch repair facility (run by United Radio under contract with Nintendo), claims the volume of repairs got so high - with \"hundreds\" of faulty controllers arriving each day - that work became \"very stressful\", leading to high turnover in the department and \"lots of\" repair mistakes.\r\n\n\r\nNintendo's initial response to the Joy-Con drift problem, reportedly saw the company providing replacements for customers' faulty Joy-Cons between 2017 and 2018; however, that policy is said to have eventually changed and repair staff were then required to repair every set of Joy-Cons received. At the height of Switch's Joy-Con drift issues, Nintendo's repair centre was reportedly receiving “easily thousands\" of faulty units each week, necessitating the establishment of new workplace specifically for controller repairs.\n Read more",
+          "link": "https://www.eurogamer.net/nintendo-us-reportedly-received-thousands-of-faulty-joy-cons-each-week-at-height-of-drift-issues",
+          "publishedOn": "2022-04-22T18:46:45.000Z",
+          "wordCount": 1017,
+          "title": "Nintendo US reportedly received \"thousands\" of faulty Joy-Cons each week at height of drift issues",
+          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2017-switch-joy-cons-tested-are-there-really-de-sync-issues-148835575379.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2017-switch-joy-cons-tested-are-there-really-de-sync-issues-148835575379.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/playstation-plus-revamp-targeting-22nd-june-launch-in-europe",
           "author": "Matt Wales",
@@ -8555,76 +8655,6 @@
           "wordCount": 983,
           "title": "Rare 3DS Barbie game sells for an astonishing $1600",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-12-26/-1648124807426.jpg/EG11/resize/1200x-1/-1648124807426.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195604",
-          "author": "Ed Nightingale",
-          "description": "Nintendo's pink ball Kirby has finally received his first 3D platform game with the release of Kirby and the Forgotten Land.\nHowever, until now, the developers struggled with transitioning the character from pixels into three dimensions due to his round shape.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-kirby-was-considered-too-round-for-3d-platform-games",
-          "publishedOn": "2022-03-24T12:18:00.000Z",
-          "wordCount": 1261,
-          "title": "Nintendo considered Kirby too round for 3D platform games before developing the Forgotten Land",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-12-08/kirby-was-considered-too-round-for-3d-platform-games-1648123680371.jpg/EG11/resize/1200x-1/kirby-was-considered-too-round-for-3d-platform-games-1648123680371.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195602",
-          "author": "Victoria Kennedy",
-          "description": "After months (and months) of silence, Oscar Isaac has spoken more about the upcoming Metal Gear Solid film, in which the actor will be taking on the role of Solid Snake. \nIsaac chatted to IGN during his red-carpet appearance for Disney and Marvel's Moon Knight series. When asked if he had any updates on Solid Snake, Isaac replied, \"We're searching, we're searching like Solid Snake.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-oscar-isaac-gives-small-update-on-metal-gear-solid-film",
-          "publishedOn": "2022-03-24T11:57:00.000Z",
-          "wordCount": 1129,
-          "title": "Metal Gear Solid filmmakers are \"searching like Solid Snake\" for story, says Oscar Isaac",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-11-44/-1648122260056.jpg/EG11/resize/1200x-1/-1648122260056.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195597",
-          "author": "Ishraq Subhan",
-          "description": "AMD's brand-new upscaling technology, FidelityFX Super Resolution 2.0 (FSR 2.0), is heading to Xbox. \nThe chipmaker announced at GDC that FSR 2.0  \"will also be fully supported on Xbox and will be available in the Xbox GDK for registered developers to use in their games\" (thanks, The Verge). \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-amds-fsr-2-0-upscaling-tech-heads-to-xbox",
-          "publishedOn": "2022-03-24T11:47:00.000Z",
-          "wordCount": 914,
-          "title": "AMD's FSR 2.0 upscaling tech heads to Xbox",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-11-41/amds-fsr-2-0-upscaling-tech-heads-to-xbox-1648122113326.jpg/EG11/resize/1200x-1/amds-fsr-2-0-upscaling-tech-heads-to-xbox-1648122113326.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195596",
-          "author": "Ed Nightingale",
-          "description": "Amazon Games and Smilegate would \"consider\" a console port of Lost Ark, if fans wanted it.\nSpeaking to VG247, Amazon Games' franchise lead Soomin Park was asked about whether the game would be ported to Xbox and PlayStation - especially after the success of main rival Diablo 3.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-amazon-and-smilegate-would-consider-lost-ark-console-port",
-          "publishedOn": "2022-03-24T11:18:00.000Z",
-          "wordCount": 954,
-          "title": "Amazon and Smilegate would \"consider\" Lost Ark console port",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-11-17/amazon-and-smilegate-would-consider-lost-ark-console-port-1648120674387.jpg/EG11/resize/1200x-1/amazon-and-smilegate-would-consider-lost-ark-console-port-1648120674387.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195576",
-          "author": "Ishraq Subhan",
-          "description": "DICE has learned \"valuable lessons\" from Battlefield 2042's disastrous release.\nThe studio will be \"reverting a lot of the changes we made in Battlefield 2042\" according to an inside source (thanks, Xfire). \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-dice-learned-valuable-lessons-from-battlefield-2042-release",
-          "publishedOn": "2022-03-24T11:02:00.000Z",
-          "wordCount": 892,
-          "title": "DICE learned \"valuable lessons\" from Battlefield 2042 release",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-10-56/dice-learned-valuable-lessons-from-battlefield-2042-release-1648119394461.jpg/EG11/resize/1200x-1/dice-learned-valuable-lessons-from-battlefield-2042-release-1648119394461.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195579",
-          "author": "Victoria Kennedy",
-          "description": "New pictures taken on the set of HBO's upcoming The Last of Us adaptation have given fans their first look at Sam and Henry. \nThere have been a few leaked photos from the set in Canada over the last few months, but these have mostly been blurry and out of focus. However, a new photo has given fans their best look yet at protagonists Joel and Ellie, as well as supporting characters Sam and Henry. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-leaked-the-last-of-us-tv-show-images-give-first-look-at-sam-and-henry",
-          "publishedOn": "2022-03-24T11:01:00.000Z",
-          "wordCount": 1137,
-          "title": "Leaked The Last of Us TV show images give first look at Sam and Henry",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-10-40/-1648118413841.jpg/EG11/resize/1200x-1/-1648118413841.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2195583",
-          "author": "Ed Nightingale",
-          "description": "Kickstarter CEO Aziz Hasan has stepped down from his position, though he insists it's not due to blockchain backlash.\nSpeaking to Fast Company, Hasan said his decision to leave came after \"personal reflection\" around his creative work and desire to spend more time with family.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-24-kickstarter-ceo-steps-down-but-transition-to-blockchain-will-continue",
-          "publishedOn": "2022-03-24T10:54:00.000Z",
-          "wordCount": 1006,
-          "title": "Kickstarter CEO steps down but transition to blockchain will continue",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-24-10-47/-1648118821069.jpg/EG11/resize/1200x-1/-1648118821069.jpg"
         }
       ]
     }
