@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/04/zero-day-vulnerabilities-are-on-the-rise.html",
+          "author": null,
+          "description": "<p>Both <a href=\"https://googleprojectzero.blogspot.com/2022/04/the-more-you-know-more-you-know-you.html\">Google</a> and <a href=\"https://www.mandiant.com/resources/zero-days-exploited-2021\">Mandiant</a> are reporting a significant increase in the number of zero-day vulnerabilities reported in 2021.</p>\n<p>Google:</p>\n<blockquote><p>2021 included the detection and disclosure of 58 in-the-wild 0-days, the most ever recorded since Project Zero began tracking in mid-2014. That’s more than double the previous maximum of 28 detected in 2015 and especially stark when you consider that there were only 25 detected in 2020. We’ve tracked publicly known in-the-wild 0-day exploits in <a href=\"https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit#gid=0\">this spreadsheet</a> since mid-2014.</p>\n<p>While we often talk about the number of 0-day exploits used in-the-wild, what we’re actually discussing is the number of 0-day exploits detected and disclosed as in-the-wild. And that leads into our first conclusion: we believe the large uptick in in-the-wild 0-days in 2021 is due to increased detection and disclosure of these 0-days, rather than simply increased usage of 0-day exploits...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/04/zero-day-vulnerabilities-are-on-the-rise.html",
+          "publishedOn": "2022-04-27T18:40:22.000Z",
+          "wordCount": 1064,
+          "title": "Zero-Day Vulnerabilities Are on the Rise",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/04/sms-phishing-attacks-are-on-the-rise.html",
           "author": null,
           "description": "<p>SMS phishing attacks &#8212; annoyingly called &#8220;smishing&#8221; &#8212; are <a href=\"https://gizmodo.com/smishing-scams-are-on-the-rise-1848819274\">becoming more common</a>.</p>\n<p>I know that I have been receiving a <i>lot</i> of phishing SMS messages over the past few months. I am not getting the &#8220;Fedex package delivered&#8221; messages the article talks about. Mine are usually of the form: &#8220;thank you for paying your bill, here&#8217;s a free gift for you.&#8221;</p>",
@@ -394,16 +404,6 @@
           "wordCount": 444,
           "title": "Stalking with an Apple Watch",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/a-detailed-look-at-the-conti-ransomware-gang.html",
-          "author": null,
-          "description": "<p>Based on two years of <a href=\"https://www.wired.com/story/conti-leaks-ransomware-work-life/\">leaked messages</a>, 60,000 in all:</p>\n<blockquote><p>The Conti ransomware gang runs like any number of businesses around the world. It has multiple departments, from HR and administrators to coders and researchers. It has policies on how its hackers should process their code, and shares best practices to keep the group&#8217;s members hidden from law enforcement.</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/a-detailed-look-at-the-conti-ransomware-gang.html",
-          "publishedOn": "2022-03-29T11:02:36.000Z",
-          "wordCount": 387,
-          "title": "A Detailed Look at the Conti Ransomware Gang",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +412,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1850931",
+          "author": "Beth Mole",
+          "description": "\"In cases like this pandemic, good information is life-saving,\" WHO officials says.",
+          "link": "https://arstechnica.com/?p=1850931",
+          "publishedOn": "2022-04-27T22:30:52.000Z",
+          "wordCount": 1104,
+          "title": "Musk has “huge responsibility” to fight health misinfo on Twitter, WHO says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1228312741-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850906",
+          "author": "Kyle Orland",
+          "description": "\"Cloaking\" mitigation makes cheaters unable to see opponents, incoming bullets.",
+          "link": "https://arstechnica.com/?p=1850906",
+          "publishedOn": "2022-04-27T21:28:53.000Z",
+          "wordCount": 976,
+          "title": "Call of Duty cheaters are being struck blind by anti-cheat software",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/call-of-duty-warzone-01-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850890",
+          "author": "Dan Goodin",
+          "description": "Cyberattacks complement and are sometimes timed to military actions.",
+          "link": "https://arstechnica.com/?p=1850890",
+          "publishedOn": "2022-04-27T21:07:28.000Z",
+          "wordCount": 1110,
+          "title": "Russia wages “relentless and destructive” cyberattacks to bolster Ukraine invasion",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850814",
+          "author": "Samuel Axon",
+          "description": "Users can either purchase or rent tools and parts to fix the latest iPhones.",
+          "link": "https://arstechnica.com/?p=1850814",
+          "publishedOn": "2022-04-27T20:40:35.000Z",
+          "wordCount": 816,
+          "title": "Apple launches self-service repair program for iPhone users in the US",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Apple_Right-to-repair_Hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850861",
+          "author": "John Timmer",
+          "description": "A possible step toward mass-producing molecular-scale electronics.",
+          "link": "https://arstechnica.com/?p=1850861",
+          "publishedOn": "2022-04-27T20:24:39.000Z",
+          "wordCount": 1229,
+          "title": "Atomically thin electronics built using chemical reactions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1162915967-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850599",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has Nintendo gift cards, 1TB microSD cards, and a range of Roombas.",
+          "link": "https://arstechnica.com/?p=1850599",
+          "publishedOn": "2022-04-27T19:44:53.000Z",
+          "wordCount": 1938,
+          "title": "Today’s best deals: Apple’s 16-inch MacBook Pro, Google Nest devices, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/dealmaster425-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850725",
+          "author": "Scharon Harding",
+          "description": "We just don't know what the product is yet.",
+          "link": "https://arstechnica.com/?p=1850725",
+          "publishedOn": "2022-04-27T19:35:57.000Z",
+          "wordCount": 1171,
+          "title": "Belkin to release cable-free wireless charging tech this year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Screenshot-2022-04-27-141319-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850808",
+          "author": "Jon Brodkin",
+          "description": "Amid Twitter buyout, Musk says free speech is simply \"that which matches the law.\"",
+          "link": "https://arstechnica.com/?p=1850808",
+          "publishedOn": "2022-04-27T19:02:56.000Z",
+          "wordCount": 1042,
+          "title": "Elon Musk, Twitter’s next owner, provides his definition of “free speech”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/elon-musk-twitter-speech-juggle-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1850756",
+          "author": "Sam Machkovech",
+          "description": "Bethesda Launcher will shutter on May 11. Act now (or, honestly, later if you want).",
+          "link": "https://arstechnica.com/?p=1850756",
+          "publishedOn": "2022-04-27T18:51:21.000Z",
+          "wordCount": 1114,
+          "title": "So long, Bethesda Launcher: Here’s how to move its games to a Steam account",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/bethesda-launcher-listing-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1850797",
           "author": "Andrew Cunningham",
@@ -3916,6 +4006,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/adorable-dinosaur-theme-park-sim-parkasaurus-making-console-debut-on-switch-tomorrow",
+          "author": "Matt Wales",
+          "description": "Parkasuarus, WashBear Studio's thoroughly enjoyable dinosaur theme park sim, is making its console debut tomorrow, 28th April, as it brings its adorable management action to Switch.\r\n\n\r\nParkasaurus, for those yet to experience the game's vibrant, dino-infused spin on the classic theme park management formula, challenges players to build and run their very own dinosaur-flavoured tourist attraction - a task requiring them to hurtle back to the past to unearth new dinosaurs then build the perfect habitats to keep them happy, ensuring their specific terrain, water, food, privacy, and scenery needs are met.\r\n\n\r\nAnd on top of all that, there are the usual park management demands to content with, ranging from landscaping and staff wrangling to ensuring all guests' needs - be they food, entertainment, merchandise, or bowel related - are adequately catered for. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/adorable-dinosaur-theme-park-sim-parkasaurus-making-console-debut-on-switch-tomorrow",
+          "publishedOn": "2022-04-27T22:03:26.000Z",
+          "wordCount": 869,
+          "title": "Adorable dinosaur theme park sim Parkasaurus makes console debut on Switch tomorrow",
+          "imageUrl": "https://assets.reedpopcdn.com/adorable-dinosaur-theme-park-sim-parkasaurus-leaves-early-access-next-month-1595962531833.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/adorable-dinosaur-theme-park-sim-parkasaurus-leaves-early-access-next-month-1595962531833.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/disney-dreamlight-valley-is-a-free-to-play-village-life-sim-starring-a-bunch-of-classic-characters",
+          "author": "Matt Wales",
+          "description": "Thanks to the success of Stardew Valley and its ilk, you can barely move for video games insistently attempting to thrust you into some idyllic digital corner for a bout of wholesome pal-making or enthusiastic vegetable palpating these days, and now it's Disney's turn to get in on the action with its newly announced free-to-play village life sim Dreamlight Valley.\r\n\n\r\nThe set-up for Dreamlight Valley goes that, once upon a time, a bunch of Disney and Pixar characters all lived happily together in the idyllic land of the title - until, that is, a cataclysmic event known as the Forgetting stole everyone's memories. It's up to players, then, to explore and restore the kingdom (and its inhabitants' memories too), in an adventure that combines life-sim-style action with more traditional questing.\r\n\n\r\nAs Dreamlight Valley unfolds, players will be able to travel to exotic biomes beyond the village and befriend classic Disney and Pixar characters - each with their own story arcs, quests, and rewards - including the likes of Elsa and Anna in a snowy, Frozen-inspired kingdom, Ariel in a tropical corner of the world, and even the Lion King crew across a sunny savanna.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/disney-dreamlight-valley-is-a-free-to-play-village-life-sim-starring-a-bunch-of-classic-characters",
+          "publishedOn": "2022-04-27T20:27:24.000Z",
+          "wordCount": 995,
+          "title": "Disney unveils free-to-play village life sim starring a bunch of classic characters",
+          "imageUrl": "https://assets.reedpopcdn.com/disney_dreamlight_valley_042722-(2).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/disney_dreamlight_valley_042722-(2).jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-fest-2022-includes-option-to-set-the-events-difficulty-for-the-first-time",
+          "author": "Tom Phillips",
+          "description": "Pokémon Go Fest, the game's biggest annual summer bonanza, has now been fully detailed by developer Niantic. Fans can look forward to a new Mythical Pokémon, more Shiny species, and an intriguing tease for Alola's alien Ultra Beasts.\r\n\n\r\nSpecifically, today's announcement illuminates the event's June 4th and 5th components, which will be available to play wherever you are via a $15 ticket. \r\n\n\r\nAs previously announced, a subsequent finale event will then follow on 27th August - a bonus for those with a ticket. Lastly, there will be three in-person Go Fest events during July and August in Berlin, Seattle and Sapporo, ticketed separately. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-go-fest-2022-includes-option-to-set-the-events-difficulty-for-the-first-time",
+          "publishedOn": "2022-04-27T20:15:43.000Z",
+          "wordCount": 996,
+          "title": "Pokémon Go Fest 2022 includes option to set the event's difficulty for the first time",
+          "imageUrl": "https://assets.reedpopcdn.com/pokemon_ZQMM2nF.png/BROK/thumbnail/1600x900/format/jpg/quality/80/pokemon_ZQMM2nF.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/this-war-of-mine-final-cut-heading-to-playstation-5-and-xbox-series-xs-in-may",
+          "author": "Matt Wales",
+          "description": "Developer 11 Bit Studios' acclaimed survival game This War of Mine is heading to PlayStation 5, Xbox Series X/S, and Game Pass on 10th May in its enhanced and expanded Final Cut form.\nThis War of Mine: Final Cut, if you're unfamiliar, first launch for PC in 2019, building on the critically lauded core game's often harrowing side-scrolling survival action with a range of additions and improvements to mark its fifth anniversary.\nThese additions - which will all feature in the PlayStation 5, Xbox Series X/S, and Game Pass versions of Final Cut -  include 4K visuals and a corresponding UI upgrade, remastered versions of the original game's locations, the addition of new locations from This War of Mine's Stories DLC, a new classic scenario, a new character, plus new quests and events unfolding within the newly added Stories areas.\n Read more",
+          "link": "https://www.eurogamer.net/this-war-of-mine-final-cut-heading-to-playstation-5-and-xbox-series-xs-in-may",
+          "publishedOn": "2022-04-27T18:29:17.000Z",
+          "wordCount": 947,
+          "title": "This War of Mine: Final Cut heading to PlayStation 5 and Xbox Series X/S in May",
+          "imageUrl": "https://assets.reedpopcdn.com/this-war-of-mine-final-cut.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/this-war-of-mine-final-cut.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/call-of-dutys-anti-cheat-system-is-now-preventing-cheaters-from-seeing-opponents-in-game",
           "author": "Matt Wales",
@@ -8255,156 +8385,6 @@
           "wordCount": 1083,
           "title": "Sony insists quality of first-party games would suffer if they launched day one in new PS Plus",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-13-45/-1648557912273.jpg/EG11/resize/1200x-1/-1648557912273.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx",
-          "author": "Ed Nightingale",
-          "description": "Following months of unconfirmed reports, Sony has finally made its long-rumoured PlayStation Plus overhaul official.\nThe new service, which launches in June, combines features of both PlayStation Plus and PlayStation Now into one service with three distinct subscription tiers.\nThe three tiers are as follows:\n Read more",
-          "link": "https://www.eurogamer.net/sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx",
-          "publishedOn": "2022-03-29T12:23:00.000Z",
-          "wordCount": 960,
-          "title": "Sony's overhauled PS Plus service launches in June",
-          "imageUrl": "https://assets.reedpopcdn.com/sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx-1648556174939.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx-1648556174939.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196176",
-          "author": "Ed Nightingale",
-          "description": "Following months of unconfirmed reports, Sony has finally made its long-rumoured PlayStation Plus overhaul official.\nThe new service, which launches in June, combines features of both PlayStation Plus and PlayStation Now into one service with three distinct subscription tiers.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-28-sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx",
-          "publishedOn": "2022-03-29T12:23:00.000Z",
-          "wordCount": 1059,
-          "title": "Sony's overhauled PS Plus service launches in June",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-13-16/sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx-1648556174939.jpg/EG11/resize/1200x-1/sony-makes-its-playstation-plus-overhaul-official-and-its-launching-xx-1648556174939.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/rift-aparts-rivet-was-originally-going-to-be-called-ratchet-as-well",
-          "author": "Victoria Kennedy",
-          "description": "Insomniac Games' Ratchet and Clank: Rift Apart was a huge success for the company and the PlayStation 5. This is thanks to many things, but one stand out aspect of the game is undoubtedly Rivet, a fellow Lombax and all round awesome addition to the series. However, when workshopping ideas for Rivet, the team had a variety of names for her including... Ratchet. \nChatting at GDC (via IGN), Insomniac lead designer Mark Stuart said: \"For a while we switched to her just being named Ratchet. After all, she and Ratchet are technically dimensional counterparts. Ratchet is a non-gendered name.\"\nHowever, this soon made the game very confusing, so this idea was ultimately scrapped. \"For example: 'Ratchet needs to rescue Clank from Ratchet, who doesn't trust Ratchet and has a long history battling Nefarious,'\" explained Staurt.\n Read more",
-          "link": "https://www.eurogamer.net/rift-aparts-rivet-was-originally-going-to-be-called-ratchet-as-well",
-          "publishedOn": "2022-03-29T11:39:00.000Z",
-          "wordCount": 1173,
-          "title": "Rift Apart's Rivet was originally going to be called Ratchet as well",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648552157713.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648552157713.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196271",
-          "author": "Victoria Kennedy",
-          "description": "Insomniac Games' Ratchet and Clank: Rift Apart was a huge success for the company and the PlayStation 5. This is thanks to many things, but one stand out aspect of the game is undoubtedly Rivet, a fellow Lombax and all round awesome addition to the series. However, when workshopping ideas for Rivet, the team had a variety of names for her including... Ratchet. \nChatting at GDC (via IGN), Insomniac lead designer Mark Stuart said: \"For a while we switched to her just being named Ratchet. After all, she and Ratchet are technically dimensional counterparts. Ratchet is a non-gendered name.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-rift-aparts-rivet-was-originally-going-to-be-called-ratchet-as-well",
-          "publishedOn": "2022-03-29T11:39:00.000Z",
-          "wordCount": 1310,
-          "title": "Rift Apart's Rivet was originally going to be called Ratchet as well",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-12-09/-1648552157713.jpg/EG11/resize/1200x-1/-1648552157713.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196268",
-          "author": "Ed Nightingale",
-          "description": "Hood Outlaws & Legends on PS5 and PS4 leads the PS Plus lineup for April, according to a leak.\nFrench forum Dealabs has once again revealed the free games available for PS Plus subscribers.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-the-ps-plus-lineup-for-april-has-leaked",
-          "publishedOn": "2022-03-29T11:03:00.000Z",
-          "wordCount": 864,
-          "title": "The PS Plus lineup for April has leaked",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-11-53/-1648551229515.jpg/EG11/resize/1200x-1/-1648551229515.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/uncharted-fortune-hunter-is-shutting-down",
-          "author": "Victoria Kennedy",
-          "description": "Naughty Dog has announced its mobile spin off Uncharted: Fortune Hunter is shutting down. \nIn a tweet, the developer stated: \"As of today [28th March], in-game purchases of treasure maps and bags of orbs have been disabled, and the game is no longer available for download from the Apple app or Google Play store.\"\nHowever, the developer did affirm that while the game is retiring, those who own it already will be able to keep playing in offline mode right up until the point the app is removed completely from devices. \n Read more",
-          "link": "https://www.eurogamer.net/uncharted-fortune-hunter-is-shutting-down",
-          "publishedOn": "2022-03-29T10:44:00.000Z",
-          "wordCount": 843,
-          "title": "Uncharted: Fortune Hunter is shutting down",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648549898559.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648549898559.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196261",
-          "author": "Victoria Kennedy",
-          "description": "Naughty Dog has announced its mobile spin off Uncharted: Fortune Hunter is shutting down. \nIn a tweet, the developer stated: \"As of today [28th March], in-game purchases of treasure maps and bags of orbs have been disabled, and the game is no longer available for download from the Apple app or Google Play store.\"\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-uncharted-fortune-hunter-is-shutting-down",
-          "publishedOn": "2022-03-29T10:44:00.000Z",
-          "wordCount": 1020,
-          "title": "Uncharted: Fortune Hunter is shutting down",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-11-31/-1648549898559.jpg/EG11/resize/1200x-1/-1648549898559.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-warzone-map-rotation-isnt-possible-due-to-crazy-install-sizes",
-          "author": "Ed Nightingale",
-          "description": "A dev working on Call of Duty: Warzone has stated map rotation isn't possible because install sizes are \"crazy\".\nJosh Bridge, Call of Duty live operations lead, was chatting to streamer TeeP about whether Warzone map rotation could be supported (spotted by PC Gamer).\n\r\nWarzone's original Verdansk map was replaced in December 2021 by Caldera, but it seems map rotation won't be implemented.\n Read more",
-          "link": "https://www.eurogamer.net/call-of-duty-warzone-map-rotation-isnt-possible-due-to-crazy-install-sizes",
-          "publishedOn": "2022-03-29T10:29:00.000Z",
-          "wordCount": 804,
-          "title": "Call of Duty: Warzone map rotation isn't possible due to \"crazy\" install sizes",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648549208504.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648549208504.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196259",
-          "author": "Ed Nightingale",
-          "description": "A dev working on Call of Duty: Warzone has stated map rotation isn't possible because install sizes are \"crazy\".\nJosh Bridge, Call of Duty live operations lead, was chatting to streamer TeeP about whether Warzone map rotation could be supported (spotted by PC Gamer).\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-call-of-duty-warzone-map-rotation-isnt-possible-due-to-crazy-install-sizes",
-          "publishedOn": "2022-03-29T10:29:00.000Z",
-          "wordCount": 953,
-          "title": "Call of Duty: Warzone map rotation isn't possible due to \"crazy\" install sizes",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-11-20/-1648549208504.jpg/EG11/resize/1200x-1/-1648549208504.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-sonic-the-hedgehog-2-film-is-part-of-a-cinematic-universe",
-          "author": "Ed Nightingale",
-          "description": "Sonic the Hedgehog 2 is part of a \"cinematic universe\", according to one of the film's producers.\nIn production notes alongside the new release, producer Toby Ascher noted the first film was just the start.\n\"We're creating a Sonic cinematic universe, so we knew we were going to add characters, like Tails and Knuckles; new to the films but beloved by gamers all over the world,\" he said.\n Read more",
-          "link": "https://www.eurogamer.net/new-sonic-the-hedgehog-2-film-is-part-of-a-cinematic-universe",
-          "publishedOn": "2022-03-29T09:53:00.000Z",
-          "wordCount": 753,
-          "title": "New Sonic the Hedgehog 2 film is part of a cinematic universe",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648547063100.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648547063100.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196246",
-          "author": "Ed Nightingale",
-          "description": "Sonic the Hedgehog 2 is part of a \"cinematic universe\", according to one of the film's producers.\nIn production notes alongside the new release, producer Toby Ascher noted the first film was just the start.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-new-sonic-the-hedgehog-2-film-is-part-of-a-cinematic-universe",
-          "publishedOn": "2022-03-29T09:53:00.000Z",
-          "wordCount": 924,
-          "title": "New Sonic the Hedgehog 2 film is part of a cinematic universe",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-10-44/-1648547063100.jpg/EG11/resize/1200x-1/-1648547063100.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/forspoken-devs-are-listening-to-feedback-following-games-delay",
-          "author": "Victoria Kennedy",
-          "description": "The developers behind upcoming fantasy adventure Forspoken are listening to feedback and adjusting the game accordingly.\nIn a recent preview with Game Informer, creative producer Raio Mitsuno addressed the concerns many had about the dialogue, and its frequency, between protagonist Frey and her cuff companion (who is simply known as Cuff). \n\"Those kinds of things we're looking at in terms of fine-tuning the frequency, making sure that it's not to the point where it feels overwhelming, but we want to make sure it's timed nicely,\" said Mitsuno.\n Read more",
-          "link": "https://www.eurogamer.net/forspoken-devs-are-listening-to-feedback-following-games-delay",
-          "publishedOn": "2022-03-29T09:52:00.000Z",
-          "wordCount": 928,
-          "title": "Forspoken devs are listening to feedback following game's delay",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648546693863.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648546693863.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196241",
-          "author": "Victoria Kennedy",
-          "description": "The developers behind upcoming fantasy adventure Forspoken are listening to feedback and adjusting the game accordingly.\nIn a recent preview with Game Informer, creative producer Raio Mitsuno addressed the concerns many had about the dialogue, and its frequency, between protagonist Frey and her cuff companion (who is simply known as Cuff). \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-forspoken-devs-are-listening-to-feedback-following-games-delay",
-          "publishedOn": "2022-03-29T09:52:00.000Z",
-          "wordCount": 1055,
-          "title": "Forspoken devs are listening to feedback following game's delay",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-10-38/-1648546693863.jpg/EG11/resize/1200x-1/-1648546693863.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/apex-legends-comes-to-ps5-and-xbox-series-x-today",
-          "author": "Ed Nightingale",
-          "description": "PS5 and Xbox Series X/S owners will be able to play a native version of Apex Legends from today.\nThe update will add 4K output and HDR, as well as 60 fps, higher resolution maps, and greater level of detail distance (though not all the improvements are available on Xbox Series S).\nFurther additions coming soon include 120fps, more visual and audio improvements, and haptic feedback and adaptive triggers on PS5. \n Read more",
-          "link": "https://www.eurogamer.net/apex-legends-comes-to-ps5-and-xbox-series-x-today",
-          "publishedOn": "2022-03-29T09:23:00.000Z",
-          "wordCount": 809,
-          "title": "Apex Legends comes to PS5 and Xbox Series X today",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648545468323.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648545468323.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196237",
-          "author": "Ed Nightingale",
-          "description": "PS5 and Xbox Series X/S owners will be able to play a native version of Apex Legends from today.\nThe update will add 4K output and HDR, as well as 60 fps, higher resolution maps, and greater level of detail distance (though not all the improvements are available on Xbox Series S).\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-29-apex-legends-comes-to-ps5-and-xbox-series-x-today",
-          "publishedOn": "2022-03-29T09:23:00.000Z",
-          "wordCount": 1020,
-          "title": "Apex Legends comes to PS5 and Xbox Series X today",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-29-10-17/-1648545468323.jpg/EG11/resize/1200x-1/-1648545468323.jpg"
         }
       ]
     }
