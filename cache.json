@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-ten-foot-long-squid-washed-onto-japanese-shore-alive.html",
+          "author": null,
+          "description": "<p>This is <a href=\"https://mainichi.jp/english/articles/20220420/p2a/00m/0li/022000c\">rare</a>:</p>\n<blockquote><p>An about 3-meter-long giant squid was found stranded on a beach here on April 20, in what local authorities said was a rare occurrence.</p>\n<p>At around 10 a.m., a nearby resident spotted the squid at Ugu beach in Obama, Fukui Prefecture, on the Sea of Japan coast. According to the Obama Municipal Government, the squid was still alive when it was found. It is unusual for a giant squid to be washed ashore alive, officials said.</p>\n<p>The deep-sea creature will be transported to Echizen Matsushima Aquarium in the prefectural city of Sakai.</p></blockquote>\n<p>Sadly, I do not expect the giant squid to survive, certainly not long enough for me to fly there and see it. But if any Japanese readers can supply more information, I would very much appreciate it...</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/04/friday-squid-blogging-ten-foot-long-squid-washed-onto-japanese-shore-alive.html",
+          "publishedOn": "2022-04-29T21:08:34.000Z",
+          "wordCount": 804,
+          "title": "Friday Squid Blogging: Ten-Foot Long Squid Washed onto  Japanese Shore — ALIVE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/04/video-conferencing-apps-sometimes-ignore-the-mute-button.html",
           "author": null,
           "description": "<p>New research: &#8220;<a href=\"https://wiscprivacy.com/publication/vca_mute/\">Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In the post-pandemic era, video conferencing apps (VCAs) have converted previously private spaces &#8212; bedrooms, living rooms, and kitchens &#8212; into semi-public extensions of the office. And for the most part, users have accepted these apps in their personal space, without much thought about the permission models that govern the use of their personal data during meetings. While access to a device’s video camera is carefully controlled, little has been done to ensure the same level of privacy for accessing the microphone. In this work, we ask the question: what happens to the microphone data when a user clicks the mute button in a VCA? We first conduct a user study to analyze users&#8217; understanding of the permission model of the mute button. Then, using runtime binary analysis tools, we trace raw audio in many popular VCAs as it traverses the app from the audio driver to the network. We find fragmented policies for dealing with microphone data among VCAs &#8212; some continuously monitor the microphone input during mute, and others do so periodically. One app transmits statistics of the audio to its telemetry servers while the app is muted. Using network traffic that we intercept en route to the telemetry server, we implement a proof-of-concept background activity classifier and demonstrate the feasibility of inferring the ongoing background activity during a meeting &#8212; cooking, cleaning, typing, etc. We achieved 81.9% macro accuracy on identifying six common background activities using intercepted outgoing telemetry packets when a user is muted...</p></blockquote>",
@@ -404,16 +414,6 @@
           "wordCount": 507,
           "title": "Bypassing Two-Factor Authentication",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html",
-          "author": null,
-          "description": "<p>North Korean hackers have been <a href=\"https://arstechnica.com/information-technology/2022/03/north-korean-hackers-unleashed-chrome-0-day-exploit-on-hundreds-of-us-targets/\">exploiting</a> a zero-day in Chrome.</p>\n<blockquote><p>The flaw, tracked as CVE-2022-0609, was exploited by two separate North Korean hacking groups. Both groups deployed the same exploit kit on websites that either belonged to legitimate organizations and were hacked or were set up for the express purpose of serving attack code on unsuspecting visitors. One group was dubbed Operation Dream Job, and it targeted more than 250 people working for 10 different companies. The other group, known as AppleJeus, targeted 85 users.</p></blockquote>\n<p><a href=\"https://blog.google/threat-analysis-group/countering-threats-north-korea/\">Details</a>:</p>\n<blockquote><p>The attackers made use of an exploit kit that contained multiple stages and components in order to exploit targeted users. The attackers placed links to the exploit kit within hidden iframes, which they embedded on both websites they owned as well as some websites they compromised...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html",
-          "publishedOn": "2022-03-31T11:13:50.000Z",
-          "wordCount": 697,
-          "title": "Chrome Zero-Day from North Korea",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +422,36 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1851461",
+          "author": "Beth Mole",
+          "description": "In new data, CDC notes none of the first 9 cases had history of SARS-CoV-2 infection.",
+          "link": "https://arstechnica.com/?p=1851461",
+          "publishedOn": "2022-04-29T22:05:25.000Z",
+          "wordCount": 1215,
+          "title": "Details of 9 puzzling hepatitis cases rule out SARS-CoV-2 as culprit, CDC says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-151062565-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1851413",
+          "author": "John Timmer",
+          "description": "The mirror is now working with all five instruments, and limited only by physics.",
+          "link": "https://arstechnica.com/?p=1851413",
+          "publishedOn": "2022-04-29T19:49:07.000Z",
+          "wordCount": 697,
+          "title": "Webb’s mirror alignment is done—now it’s on to the instruments",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/webb_img_sharpness-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1851284",
+          "author": "Ron Amadeo",
+          "description": "Epic bought Bandcamp last month. Now Bandcamp is a weapon against app store owners.",
+          "link": "https://arstechnica.com/?p=1851284",
+          "publishedOn": "2022-04-29T19:30:38.000Z",
+          "wordCount": 1412,
+          "title": "Bandcamp says it can’t afford Google Play billing, Epic files injunction [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/epic-piggy-bank-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1851333",
           "author": "Jon Brodkin",
@@ -4006,6 +4036,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sifu-breaks-down-its-upcoming-difficulty-settings-in-new-preview-trailer",
+          "author": "Matt Wales",
+          "description": "We've known developer Sloclap's challenging kung-fu beat-'em-up Sifu would be getting much-requested difficulty settings for some time, but now, following the release of a new content roadmap earlier this week, Sloclap has offered a closer look at how they'll function when they arrive in a new update next Tuesday, 3rd May.\r\n\n\r\nAs we learned earlier this week, Sifu's new difficulty levels will come in three flavours - Student, Disciple, and Master - and Sloclap's latest preview trailer breaks each setting down in a little more detail. Disciple, for instance, will offer the \"classic Sifu experience\", and it's the option for those that want to continue playing the game as it is now.\nStudent, however, is designed for those wanting a slightly easier ride. It'll make the experience \"more forgiving but still challenging\", by increasing player health, making ageing more forgiving, and introducing weaker enemies with less aggressive AI that use simplified combos.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sifu-breaks-down-its-upcoming-difficulty-settings-in-new-preview-trailer",
+          "publishedOn": "2022-04-29T21:16:27.000Z",
+          "wordCount": 914,
+          "title": "Sifu breaks down its upcoming difficulty settings in new preview trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/absolver-studios-martial-arts-adventure-sifu-gets-february-2022-release-date-1629929319955.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/absolver-studios-martial-arts-adventure-sifu-gets-february-2022-release-date-1629929319955.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/viva-pinata-party-animals-and-yokus-island-express-lead-mays-xbox-games-with-gold",
           "author": "Matt Wales",
@@ -8035,146 +8075,6 @@
           "wordCount": 973,
           "title": "Fortnite sued over old dance emote",
           "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-14-32/fortnite-sued-over-old-dance-emote-1648733539939.jpg/EG11/resize/1200x-1/fortnite-sued-over-old-dance-emote-1648733539939.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-confirms-mii-are-included-in-nintendo-switch-sports",
-          "author": "Ed Nightingale",
-          "description": "Nintendo has shown its fan-favourite Mii characters back in Nintendo Switch Sports.\nWhen the game was announced back in February, many fans were perturbed by the new-look in-game characters, compared to the Miis used in Wii Sports.\nBut Miis will be playable, on top of a load of customisation options for the new characters to tweak their face, hair, and outfits.\n Read more",
-          "link": "https://www.eurogamer.net/nintendo-confirms-mii-are-included-in-nintendo-switch-sports",
-          "publishedOn": "2022-03-31T12:04:00.000Z",
-          "wordCount": 849,
-          "title": "Nintendo shows Mii characters in Nintendo Switch Sports",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648727733357.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648727733357.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196671",
-          "author": "Ed Nightingale",
-          "description": "Nintendo has shown its fan-favourite Mii characters back in Nintendo Switch Sports.\nWhen the game was announced back in February, many fans were perturbed by the new-look in-game characters, compared to the Miis used in Wii Sports.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-31-nintendo-confirms-mii-are-included-in-nintendo-switch-sports",
-          "publishedOn": "2022-03-31T12:04:00.000Z",
-          "wordCount": 994,
-          "title": "Nintendo shows Mii characters in Nintendo Switch Sports",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-12-55/-1648727733357.jpg/EG11/resize/1200x-1/-1648727733357.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/guerrilla-releases-another-horizon-forbidden-west-patch",
-          "author": "Victoria Kennedy",
-          "description": "Another new patch has been released for Horizon Forbidden West. (Please note some of the following fixes may contain story spoilers for the game.)\nAs with previous patches, this latest update continues to address bugs and improve the game's graphical performance. However, most excitingly for the completionists among us, it also addresses an issue preventing players from getting the 100 percent completion notice in their notebook. Huzzah!\nWhile Guerrilla is continuing to improve upon Horizon Forbidden West's graphical output, with this patch bringing improvements related to sharpness within the game, the team is continuing to make adjustments \"to the game's content with the goal to reduce visual shimmering.\" \n Read more",
-          "link": "https://www.eurogamer.net/guerrilla-releases-another-horizon-forbidden-west-patch",
-          "publishedOn": "2022-03-31T11:59:00.000Z",
-          "wordCount": 781,
-          "title": "Guerrilla releases another Horizon Forbidden West patch",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648727048622.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648727048622.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196665",
-          "author": "Victoria Kennedy",
-          "description": "Another new patch has been released for Horizon Forbidden West. (Please note some of the following fixes may contain story spoilers for the game.)\nAs with previous patches, this latest update continues to address bugs and improve the game's graphical performance. However, most excitingly for the completionists among us, it also addresses an issue preventing players from getting the 100 percent completion notice in their notebook. Huzzah!\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-31-guerrilla-releases-another-horizon-forbidden-west-patch",
-          "publishedOn": "2022-03-31T11:59:00.000Z",
-          "wordCount": 938,
-          "title": "Guerrilla releases another Horizon Forbidden West patch",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-12-44/-1648727048622.jpg/EG11/resize/1200x-1/-1648727048622.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fallout-writer-scott-bennie-dies-aged-61",
-          "author": "Tom Phillips",
-          "description": "Scott Bennie, a writer and contributor to the original Fallout, has died aged 61.\nBennie served as a designer, writer and producer of numerous games during his time at Interplay in the 1990s, including The Lord of the Rings, Starfleet Academy, plus Starfleet Command and its sequel. \nOn Fallout, Bennie memorably said his career had peaked with the popular naming of its canine companion, Dogmeat.\n Read more",
-          "link": "https://www.eurogamer.net/fallout-writer-scott-bennie-dies-aged-61",
-          "publishedOn": "2022-03-31T10:41:00.000Z",
-          "wordCount": 989,
-          "title": "Fallout writer Scott Bennie dies",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648722898727.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648722898727.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196644",
-          "author": "Tom Phillips",
-          "description": "Scott Bennie, a writer and contributor to the original Fallout, has died aged 61.\nBennie served as a designer, writer and producer of numerous games during his time at Interplay in the 1990s, including The Lord of the Rings, Starfleet Academy, plus Starfleet Command and its sequel. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-31-fallout-writer-scott-bennie-dies-aged-61",
-          "publishedOn": "2022-03-31T10:41:00.000Z",
-          "wordCount": 1200,
-          "title": "Fallout writer Scott Bennie dies",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-34/-1648722898727.jpg/EG11/resize/1200x-1/-1648722898727.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod",
-          "author": "Ed Nightingale",
-          "description": "A new Elden Ring-themed mod for Tekken 7 lets you duel as all the greats: namely potboy and lobster.\nModder Ultraboy has created the mod (available on Tekken Mods) that replaces various Tekken characters for new Elden Ring models.\n\r\nFor instance, Melina replaces Iidia, Malenia replaces Kunimitsu, and Ranni the Witch replaces Kazumi, as well as other bosses and player characters.\n Read more",
-          "link": "https://www.eurogamer.net/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod",
-          "publishedOn": "2022-03-31T10:21:00.000Z",
-          "wordCount": 951,
-          "title": "It's potboy vs lobster in this Elden Ring Tekken mod",
-          "imageUrl": "https://assets.reedpopcdn.com/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod-1648721836034.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod-1648721836034.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196635",
-          "author": "Ed Nightingale",
-          "description": "A new Elden Ring-themed mod for Tekken 7 lets you duel as all the greats: namely potboy and lobster.\nModder Ultraboy has created the mod (available on Tekken Mods) that replaces various Tekken characters for new Elden Ring models.\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-31-its-potboy-vs-lobster-in-this-elden-ring-tekken-mod",
-          "publishedOn": "2022-03-31T10:21:00.000Z",
-          "wordCount": 1152,
-          "title": "It's potboy vs lobster in this Elden Ring Tekken mod",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-17/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod-1648721836034.jpg/EG11/resize/1200x-1/its-potboy-vs-lobster-in-this-elden-ring-tekken-mod-1648721836034.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/curious-class-action-lawsuit-may-see-kids-suing-nintendo",
-          "author": "Tom Phillips",
-          "description": "Parents attempting to sue Nintendo are getting their kids involved in a class-action lawsuit. \nThe unusual legal situation has arisen as Nintendo and the parents tussle over the latter's ability to get the lawsuit off the ground (thanks, Axios).\nAnd, once again, it's the notorious problem of Nintendo Switch Joy-Con controller drift at the root of the issue.\n Read more",
-          "link": "https://www.eurogamer.net/curious-class-action-lawsuit-may-see-kids-suing-nintendo",
-          "publishedOn": "2022-03-31T10:15:00.000Z",
-          "wordCount": 749,
-          "title": "Curious class-action lawsuit may see kids suing Nintendo",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648721198213.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648721198213.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196632",
-          "author": "Tom Phillips",
-          "description": "Parents attempting to sue Nintendo are getting their kids involved in a class-action lawsuit. \nThe unusual legal situation has arisen as Nintendo and the parents tussle over the latter's ability to get the lawsuit off the ground (thanks, Axios).\nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-31-curious-class-action-lawsuit-may-see-kids-suing-nintendo",
-          "publishedOn": "2022-03-31T10:15:00.000Z",
-          "wordCount": 891,
-          "title": "Curious class-action lawsuit may see kids suing Nintendo",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-06/-1648721198213.jpg/EG11/resize/1200x-1/-1648721198213.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fallout-tv-adaptation-adds-ella-purnell-to-its-cast",
-          "author": "Victoria Kennedy",
-          "description": "Ella Purnell, famous for her work in Yellowjackets and Netflix's animated series Arcane, has joined the cast of Amazon's upcoming Fallout adaptation.\nAs reported by Variety, Purnell will be taking on a currently unspecified lead role in the upcoming series. However, sources close to the show have revealed Purnell's character will be \"upbeat and uncannily direct with an all-American can-do spirit. \n\"But an intensity in her eyes says she might just be a tiny bit dangerous.\"\n Read more",
-          "link": "https://www.eurogamer.net/fallout-tv-adaptation-adds-ella-purnell-to-its-cast",
-          "publishedOn": "2022-03-31T10:09:00.000Z",
-          "wordCount": 788,
-          "title": "Fallout TV adaptation adds Ella Purnell to its cast",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648721085151.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648721085151.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/article.php?article_id=2196627",
-          "author": "Victoria Kennedy",
-          "description": "Ella Purnell, famous for her work in Yellowjackets and Netflix's animated series Arcane, has joined the cast of Amazon's upcoming Fallout adaptation.\nAs reported by Variety, Purnell will be taking on a currently unspecified lead role in the upcoming series. However, sources close to the show have revealed Purnell's character will be \"upbeat and uncannily direct with an all-American can-do spirit. \nRead more",
-          "link": "https://www.eurogamer.net/articles/2022-03-31-fallout-tv-adaptation-adds-ella-purnell-to-its-cast",
-          "publishedOn": "2022-03-31T10:09:00.000Z",
-          "wordCount": 931,
-          "title": "Fallout TV adaptation adds Ella Purnell to its cast",
-          "imageUrl": "https://images.gnwcdn.com/2022/articles/2022-03-31-11-04/-1648721085151.jpg/EG11/resize/1200x-1/-1648721085151.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/russian-dev-of-loop-hero-encourages-players-to-pirate-game-due-to-sanctions",
-          "author": "Ed Nightingale",
-          "description": "UPDATE 31/3/22: Loop Hero publisher Devolver Digital has responded, confirming it supports Four Quarters encouraging pirating of its game by people affected by economic sanctions.\nA statement to PC Gamer reads: \"Devolver Digital fully supports Four Quarters as they navigate this incredibly difficult period. We've been communicating consistently with the team to help them wherever possible and were alerted of the statement ahead of time, which we back 100 percent.\"\nORIGINAL STORY 30/3/22: Four Quarters, the Russian independent studio behind Loop Hero, is encouraging players to pirate its game due to sanctions against Russia limiting its access to technology.\n Read more",
-          "link": "https://www.eurogamer.net/russian-dev-of-loop-hero-encourages-players-to-pirate-game-due-to-sanctions",
-          "publishedOn": "2022-03-31T09:51:00.000Z",
-          "wordCount": 855,
-          "title": "Russian studio behind Loop Hero encourages players to pirate game due to sanctions",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648631842558.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648631842558.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fortnite-raises-usd50m-for-ukraine-relief",
-          "author": "Tom Phillips",
-          "description": "UPDATE 28/3/22: Epic Games has now raised a staggering $100m for Ukraine from this season's Fortnite profits.\nThe news was shared via Twitter, along with a list of charities which will benefit from Epic's funds.\nAll of Fortnite's profits will continue to go towards humanitarian efforts in Ukraine for the remainder of this week - until the end of Sunday, 3rd April - meaning this total will still rise further.\n Read more",
-          "link": "https://www.eurogamer.net/fortnite-raises-usd50m-for-ukraine-relief",
-          "publishedOn": "2022-03-31T09:45:00.000Z",
-          "wordCount": 902,
-          "title": "Fortnite raises $50m for Ukraine relief",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648034292205.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648034292205.jpg"
         }
       ]
     }
