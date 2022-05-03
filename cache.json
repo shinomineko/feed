@@ -3746,6 +3746,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/05/03/dockershim-historical-context/",
+          "author": null,
+          "description": "Author: Kat Cosgrove\nDockershim has been removed as of Kubernetes v1.24, and this is a positive move for the project. However, context is important for fully understanding something, be it socially or in software development, and this deserves a more in-depth review. Alongside the dockershim removal in Kubernetes v1.24, we’ve seen some confusion (sometimes at a panic level) and dissatisfaction with this decision in the community, largely due to a lack of context around this removal. The decision to deprecate and eventually remove dockershim from Kubernetes was not made quickly or lightly. Still, it’s been in the works for so long that many of today’s users are newer than that decision, and certainly newer than the choices that led to the dockershim being necessary in the first place.\nSo wh…",
+          "link": "https://kubernetes.io/blog/2022/05/03/dockershim-historical-context/",
+          "publishedOn": "2022-05-03T00:00:00.000Z",
+          "wordCount": 3955,
+          "title": "Blog: Dockershim: The Historical Context",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/04/29/frontiers-fsgroups-and-frogs-the-kubernetes-1.23-release-interview/",
           "author": null,
           "description": "Author: Craig Box (Google)\nOne of the highlights of hosting the weekly Kubernetes Podcast from Google is talking to the release managers for each new Kubernetes version. The release team is constantly refreshing. Many working their way from small documentation fixes, step up to shadow roles, and then eventually lead a release.\nAs we prepare for the 1.24 release next week, in accordance with long-standing tradition, I'm pleased to bring you a look back at the story of 1.23. The release was led by Rey Lejano, a Field Engineer at SUSE. I spoke to Rey in December, as he was awaiting the birth of his first child.\nMake sure you subscribe, wherever you get your podcasts, so you hear all our stories from the Cloud Native community, including the story of 1.24 next week.\nThis transcript has been li…",
