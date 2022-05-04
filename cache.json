@@ -394,16 +394,6 @@
           "wordCount": 754,
           "title": "Hackers Using Fake Police Data Requests against Tech Companies",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/04/wyze-camera-vulnerability.html",
-          "author": null,
-          "description": "<p>Wyze <a href=\"https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure\">ignored a vulnerability</a> in its home security cameras for three years. Bitdefender, who discovered the vulnerability, let the company get away with it.</p>\n<blockquote><p>In case you&#8217;re wondering, no, that is not normal in the security community. While experts tell me that the concept of a &#8220;responsible disclosure timeline&#8221; is a little outdated and heavily depends on the situation, we&#8217;re generally measuring in <i>days</i>, not years. &#8220;The majority of researchers have policies where if they make a good faith effort to reach a vendor and don&#8217;t get a response, that they publicly disclose in 30 days,&#8221; Alex Stamos, director of the Stanford Internet Observatory and former chief security officer at Facebook, tells me...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/04/wyze-camera-vulnerability.html",
-          "publishedOn": "2022-04-04T11:13:59.000Z",
-          "wordCount": 482,
-          "title": "Wyze Camera Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +402,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1850924",
+          "author": "Jennifer Ouellette",
+          "description": "Residue analysis suggests it was a grenade, but can't completely rule out other uses.",
+          "link": "https://arstechnica.com/?p=1850924",
+          "publishedOn": "2022-05-03T22:47:47.000Z",
+          "wordCount": 1428,
+          "title": "Could this pottery shard be a 1,000-year-old hand grenade? Signs point to yes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/grenadeTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852038",
+          "author": "Beth Mole",
+          "description": "Omicron subvariants are evading vaccines and infection-derived protections.",
+          "link": "https://arstechnica.com/?p=1852038",
+          "publishedOn": "2022-05-03T22:05:39.000Z",
+          "wordCount": 1102,
+          "title": "BA.2.12.1 poised to become dominant in US, raising concern for future vaccines",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1395117095-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852009",
+          "author": "Jon Brodkin",
+          "description": "ISPs ordered to block the pirate websites \"by any technological means available.\"",
+          "link": "https://arstechnica.com/?p=1852009",
+          "publishedOn": "2022-05-03T21:47:39.000Z",
+          "wordCount": 1130,
+          "title": "Every ISP in the US has been ordered to block three pirate streaming services",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-pirate-website-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852022",
+          "author": "Dan Goodin",
+          "description": "Vulnerability in 3rd-party libraries can send devices users to malicious sites.",
+          "link": "https://arstechnica.com/?p=1852022",
+          "publishedOn": "2022-05-03T21:15:39.000Z",
+          "wordCount": 1208,
+          "title": "Gear from Netgear, Linksys, and 200 others has unpatched DNS poisoning flaw",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/malicious-website-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1851745",
+          "author": "Sam Machkovech",
+          "description": "Better online, but fails to exceed high bar set by popular Wii Sports originals.",
+          "link": "https://arstechnica.com/?p=1851745",
+          "publishedOn": "2022-05-03T20:24:07.000Z",
+          "wordCount": 1199,
+          "title": "Nintendo Switch Sports review: Wii would like something better than this",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Switch_NintendoSwitchSports_screen_06-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1851926",
           "author": "John Timmer",
@@ -3811,16 +3851,6 @@
           "wordCount": 1228,
           "title": "Review: Ryzen 5 5500 and 5600 can breathe new life into older AMD PCs",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/IMG_0209-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1844282",
-          "author": "Jon Brodkin",
-          "description": "Comcast's ordering website falsely stated that Internet service was available.",
-          "link": "https://arstechnica.com/?p=1844282",
-          "publishedOn": "2022-04-04T11:00:01.000Z",
-          "wordCount": 1442,
-          "title": "Comcast wanted man to pay $19,000 after falsely advertising service on his street",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/house-unconnected-internet-comcast-760x380.jpg"
         }
       ]
     },
@@ -3835,6 +3865,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/05/03/kubernetes-1-24-release-announcement/",
+          "author": null,
+          "description": "Kubernetes 1.24\nAuthors: Kubernetes 1.24 Release Team\nWe are excited to announce the release of Kubernetes 1.24, the first release of 2022!\nThis release consists of 46 enhancements: fourteen enhancements have graduated to stable,\nfifteen enhancements are moving to beta, and thirteen enhancements are entering alpha.\nAlso, two features have been deprecated, and two features have been removed.\nMajor Themes\nDockershim Removed from kubelet\nAfter its deprecation in v1.20, the dockershim component has been removed from the kubelet in Kubernetes v1.24.\nFrom v1.24 onwards, you will need to either use one of the other supported runtimes (such as containerd or CRI-O)\nor use cri-dockerd if you are relying on Docker Engine as your container runtime.\nFor more information about ensuring your cluster is r…",
+          "link": "https://kubernetes.io/blog/2022/05/03/kubernetes-1-24-release-announcement/",
+          "publishedOn": "2022-05-03T00:00:00.000Z",
+          "wordCount": 5034,
+          "title": "Blog: Kubernetes 1.24: Stargazer",
+          "imageUrl": "/images/blog/2022-05-03-kubernetes-release-1.24/kubernetes-1.24.png"
+        },
         {
           "id": "https://kubernetes.io/blog/2022/05/03/dockershim-historical-context/",
           "author": null,
@@ -3935,6 +3975,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/activision-urges-shareholders-to-vote-against-proposed-annual-harassment-and-discrimination-report",
+          "author": "Matt Wales",
+          "description": "Activision Blizzard has written to shareholders urging them to vote against against a New York State proposal that it should publish an annual report detailing the effectiveness and outcomes of its efforts to prevent abuse, harassment, and discrimination in its workplace. Similarly, it also wants shareholders to vote against a proposal to put an employee representative on its board.\r\n\n\r\nAs detailed in its latest shareholder filing, Activision Blizzard's board of directors is unanimously recommending shareholders vote against enacting the annual report, which would include several proposed metrics: the total number of pending sexual abuse, harassment or discrimination complaints the company is seeking to resolve through internal processes or ligation; details of the company's progress toward reducing the average time it takes to resolve sexual abuse, harassment or discrimination complaints; the amount of money it has spent settling disputes related to sexual abuse, harassment or discrimination, and finally pay and hours worked consolidated data.\r\n\n\r\nWhile this kind of proposed transparency might seem prudent given that Activision Blizzard has been rocked by shocking allegations around its workplace practices since last July, and remains embroiled in a number of lawsuits relating to those practices - including last year's State of California filing, which described the publisher as a \"breeding ground for harassment and discrimination against women\" - its board says it believes the proposal isn't \"in the best interests of the Company or its shareholders.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-urges-shareholders-to-vote-against-proposed-annual-harassment-and-discrimination-report",
+          "publishedOn": "2022-05-03T23:37:57.000Z",
+          "wordCount": 1131,
+          "title": "Activision urges shareholders to vote against proposed annual harassment and discrimination report",
+          "imageUrl": "https://assets.reedpopcdn.com/activision-blizzard-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-blizzard-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisofts-troubled-price-of-persia-sands-of-time-remake-has-switched-developer",
+          "author": "Matt Wales",
+          "description": "Ubisoft has revealed the development of its troubled Prince of Persia: Sands of Time remake - which was originally due to release in January last year - has been moved a new studio and will now release \"when it's ready\".\r\n\n\r\nPrior to today's announced, the Sands of Time remake was being developed by Ubisoft Pune and Mumbai, but the project has been dogged by setbacks since its unveiling in September 2020. Shortly after its announcement, Ubisoft moved its launch date from January 2021 to March that same year, but February brought a second delay, this time indefinitely, while the team worked on delivering \"a remake that feels fresh while remaining faithful to the original\".\r\n\n\r\nA subsequent update in June last year gave the Prince of Persia remake a revised launch window of 2022, and it's all been pretty quiet since then.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisofts-troubled-price-of-persia-sands-of-time-remake-has-switched-developer",
+          "publishedOn": "2022-05-03T20:17:52.000Z",
+          "wordCount": 903,
+          "title": "Ubisoft's troubled Price of Persia: Sands of Time remake has switched developer",
+          "imageUrl": "https://assets.reedpopcdn.com/prince-of-persia-sands-of-time-remake.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/prince-of-persia-sands-of-time-remake.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/stylish-boss-rush-hack-and-slasher-furi-is-getting-new-onnamusha-dlc",
+          "author": "Matt Wales",
+          "description": "Furi, the now six-year-old psychedelic boss rush extravaganza from developer The Game Bakers, is poised to receive a new lease of life later this month on 17th May with the arrival of its newly announced Onnamusha DLC.\r\n\n\r\nFuri - which The Game Bakers has previously described as a \"love letter to Japanese action games such as No More Heroes, Metal Gear Solid and Godhand\" - first released on PC in 2016, pitting its protagonist The Stranger against 12 incredibly stylish bosses. Each encounter played out very different - each boss requiring entirely new strategies to defeat - but it's all built around the game's streamlined one-on-one \"dash-and-slash\" action.\r\n\n\r\nOnnamusha, then, aims to freshen up Furi's six-year-old core by giving players a brand-new protagonist that can be used throughout the existing Story, Speedrun and Practice modes.\n Read more",
+          "link": "https://www.eurogamer.net/stylish-boss-rush-hack-and-slasher-furi-is-getting-new-onnamusha-dlc",
+          "publishedOn": "2022-05-03T19:37:19.000Z",
+          "wordCount": 862,
+          "title": "Stylish boss rush hack-and-slasher Furi is getting new Onnamusha DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/ss_2f7eda00edcb6fd8d9b170d8e9ecc8f37da5a27c.1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_2f7eda00edcb6fd8d9b170d8e9ecc8f37da5a27c.1920x1080.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/anti-grav-racing-sequel-redout-2-launches-later-this-month",
+          "author": "Matt Wales",
+          "description": "Redout 2, the sequel to 34BigThings's blisteringly fast, wonderfully stylish anti-grav racer, now has a release date and will be speeding onto Xbox, PlayStation, Switch, and PC on 26th May.\r\n\n\r\nBuilding on the acclaimed racing action of its 2016 predecessor, Redout 2 features 36 new tracks (plus mirror variants of each) which can be experienced in its 12-player online races or single-player career campaign - which promises \"hundreds\" of events from a variety of different modes, including the likes of Arena Races, Time Attacks, Last Man Standing, and Boss Races.\r\n\n\r\nElsewhere, the original game's extensive customisation options return, with players now able to start with one of 12 distinct chassis and then built on that from a selection of rocket engines, propulsors, stabilsers, rudders, magnets, intercoolers, flaps, wings, and spoilers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/anti-grav-racing-sequel-redout-2-launches-later-this-month",
+          "publishedOn": "2022-05-03T18:44:17.000Z",
+          "wordCount": 832,
+          "title": "Anti-grav racing sequel Redout 2 launches later this month",
+          "imageUrl": "https://assets.reedpopcdn.com/redout-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/redout-2.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/blizzards-new-warcraft-mobile-game-is-free-to-play-tower-offence-arclight-rumble",
           "author": "Matt Wales",
@@ -7654,96 +7734,6 @@
           "wordCount": 802,
           "title": "Over 20 years later, footage from an unreleased Gex  demo has shown up online",
           "imageUrl": "https://assets.reedpopcdn.com/gex-jr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gex-jr.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/chocobo-gp-gets-a-new-patch-following-troubled-launch",
-          "author": "Victoria Kennedy",
-          "description": "Square Enix has released a new patch for its Final Fantasy themed kart racing sim Chocobo GP.\nThis patch will finally address numerous bugs present in the game, including an issue where the game stopped progressing at the rankings screen at the end of a race or while matchmaking for the next race. \nIt will also attend to an issue where finishing in fourth place or higher was treated as being eliminated due to lag.\n Read more",
-          "link": "https://www.eurogamer.net/chocobo-gp-gets-a-new-patch-following-troubled-launch",
-          "publishedOn": "2022-04-04T12:03:18.000Z",
-          "wordCount": 838,
-          "title": "Chocobo GP gets a new patch following troubled launch",
-          "imageUrl": "https://assets.reedpopcdn.com/chocobogp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/chocobogp.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-ring-players-complete-no-damage-and-pacifist-runs",
-          "author": "Ed Nightingale",
-          "description": "Elden Ring players have moved beyond speedruns to find alternative ways to play.\r\n\n\r\nFirst up there’s Twitch streamer Seki, who not only completed the game in under three hours - an impressive feat alone - but did so without taking any damage.\r\n\n\r\nSeki’s run was the world’s first to do so - while streamer GinoMachino managed a no hit run on 13th March, Seki took no damage at all. That means completing the whole game without taking fall or poison damage, let alone getting hit.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-ring-players-complete-no-damage-and-pacifist-runs",
-          "publishedOn": "2022-04-04T11:55:03.000Z",
-          "wordCount": 813,
-          "title": "Elden Ring players complete no damage and pacifist runs",
-          "imageUrl": "https://assets.reedpopcdn.com/eldenring_08_4k.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eldenring_08_4k.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-plus-will-have-all-the-big-names-present-promises-jim-ryan",
-          "author": "Tom Phillips",
-          "description": "PlayStation boss Jim Ryan has been talking up his big new subscription offering, and the quality of games which will be available via the service.\r\n\n\r\nSpeaking via the official PlayStation Podcast, Ryan said that subscribers would be able to look forward to \"all the big names\" in the service's upcoming library of games.\r\n\n\r\nWhen asked to name more games set to be available, Ryan replied that Sony had \"massive publisher participation... We have all the big names present\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-plus-will-have-all-the-big-names-present-promises-jim-ryan",
-          "publishedOn": "2022-04-04T11:52:51.000Z",
-          "wordCount": 872,
-          "title": "PlayStation Plus will have \"all the big names present\", promises Jim Ryan",
-          "imageUrl": "https://assets.reedpopcdn.com/d06f2ea58af14c3828a688d7e0625fe7d6f5170d.png/BROK/thumbnail/1600x900/format/jpg/quality/80/d06f2ea58af14c3828a688d7e0625fe7d6f5170d.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-developer-acknowledges-infinite-player-frustrations",
-          "author": "Victoria Kennedy",
-          "description": "343 Industries has acknowledged the frustrations of its Halo Infinite community, however the team hopes the upcoming arrival of Season Two will fix some of the ongoing issues. \n343 community director Brian Jarrard took to Reddit over the weekend, where he revealed the Halo Infinite team is \"certainly not happy to be unable to meet player and community expectations\".\nHe also admitted, \"it's a difficult situation that's going to take the team time to work through\".\n Read more",
-          "link": "https://www.eurogamer.net/halo-developer-acknowledges-infinite-player-frustrations",
-          "publishedOn": "2022-04-04T11:50:48.000Z",
-          "wordCount": 897,
-          "title": "Halo developer acknowledges Infinite player frustrations",
-          "imageUrl": "https://assets.reedpopcdn.com/halo-reddit-update.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/halo-reddit-update.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-quietly-launches-the-division-2-mode-where-you-take-over-a-nuclear-power-plant",
-          "author": "Tom Phillips",
-          "description": "A new mode for The Division 2 sees players fighting to take back control of a nuclear power station which has been captured by enemy forces. \r\n\n\r\nUbisoft has not trumpeted the arrival of the new eight-player offering, dubbed Countdown, and it's easy to see why. The new mode has launched while the very real fight for control of Chernobyl power station has been in the headlines, during the ongoing Russian invasion of Ukraine. \r\n\n\r\nOf course, the mode has been in development for some time - and was not created in response to the real-world crisis. The timing, however, is unforunate. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/ubisoft-quietly-launches-the-division-2-mode-where-you-take-over-a-nuclear-power-plant",
-          "publishedOn": "2022-04-04T11:49:12.000Z",
-          "wordCount": 723,
-          "title": "Ubisoft quietly launches The Division 2 mode where you take over a nuclear power plant",
-          "imageUrl": "https://assets.reedpopcdn.com/adf1c17a8e1655558db382d54b76faf9.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/adf1c17a8e1655558db382d54b76faf9.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/kirby-has-won-a-grammy-award",
-          "author": "Ed Nightingale",
-          "description": "Kirby was among the big names to win at last night’s 64th Annual Grammy Awards.\r\n\n\r\nAs previously reported, arrangers Charlie Rosen and Jake Silverman were nominated for Best Arrangement, Instrumental or A Cappella for their Big Band arrangement of Meta Knight's Revenge from Kirby Superstar.\r\n\n\r\nIt means Nintendo’s little pink ball - or at least, Rosen and Silverman - is only the second ever video game winner at the awards.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/kirby-has-won-a-grammy-award",
-          "publishedOn": "2022-04-04T11:48:39.000Z",
-          "wordCount": 716,
-          "title": "Kirby has won a Grammy Award",
-          "imageUrl": "https://assets.reedpopcdn.com/kirby-and-the-forgotten-land-is-important-milestone-in-the-series-history-1648466452857.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kirby-and-the-forgotten-land-is-important-milestone-in-the-series-history-1648466452857.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-quietly-removes-ps-now-annual-offer-from-the-psn-store",
-          "author": "Ed Nightingale",
-          "description": "Sony has quietly removed an offer for PS Now in the wake of the announcement for its revamped PS Plus subscription.\r\n\n\r\n\r\nAn offer was previously available to purchase a year’s subscription to streaming service PS Now for $59.99 (on the US PSN). This was a particularly good deal as existing PS Now subscribers will automatically transfer to the Premium tier of the new PS Plus worth $119.99 a year.\r\n\n\r\nHowever, PS Now can currently only be purchased on a monthly basis (£8.99). Once the new PS Plus launches, PS Now will no longer be available as a standalone product so players will move to the equivalent tier at £13.49 monthly.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-quietly-removes-ps-now-annual-offer-from-the-psn-store",
-          "publishedOn": "2022-04-04T11:47:05.000Z",
-          "wordCount": 771,
-          "title": "Sony quietly removes PS Now annual offer from the PSN store",
-          "imageUrl": "https://assets.reedpopcdn.com/d06f2ea58af14c3828a688d7e0625fe7d6f5170d.png/BROK/thumbnail/1600x900/format/jpg/quality/80/d06f2ea58af14c3828a688d7e0625fe7d6f5170d.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/grand-theft-auto-5-boxed-dates-announced",
-          "author": "Victoria Kennedy",
-          "description": "Those looking to purchase a physical copy of Grand Theft Auto 5 for their PlayStation 5 or Xbox Series X/S will be able to so on 12th April, with pre orders available now.\nBoxed versions of GTA5 are retailing at £24.99 from outlets such as GAME in the UK (click here for the PS5 version and here for the Xbox Series X version). \nUnless you particularly want to have a boxed version of the game to add to your collection, however, it is worth noting that digital copies of GTA5 are considerably cheaper.\n Read more",
-          "link": "https://www.eurogamer.net/grand-theft-auto-5-boxed-dates-announced",
-          "publishedOn": "2022-04-04T11:42:42.000Z",
-          "wordCount": 881,
-          "title": "Grand Theft Auto 5 boxed dates announced",
-          "imageUrl": "https://assets.reedpopcdn.com/gta5-box-date.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gta5-box-date.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fortnite-now-lets-you-choose-to-play-with-building-on-or-off",
-          "author": "Tom Phillips",
-          "description": "The era of building being banned from Fortnite's core modes is over.\r\n\n\r\nNow, players can choose whether they want to play classic Solos, Duos, Trios or Squads playlists with building - or the option of No Builds Solos, Duos, Trios or Squads, as the game has offered over the past couple of weeks. \r\n\n\r\nIn those No Build modes, the game retains the Overshield mechanic introduced at the beginning of the season. But this is gone if you choose to play with building back re-enabled. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/fortnite-now-lets-you-choose-to-play-with-building-on-or-off",
-          "publishedOn": "2022-04-04T11:24:08.000Z",
-          "wordCount": 817,
-          "title": "Fortnite now lets you choose to play with building on or off",
-          "imageUrl": "https://assets.reedpopcdn.com/nobuild.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nobuild.jpg"
         }
       ]
     }
