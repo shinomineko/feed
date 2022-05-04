@@ -124,16 +124,6 @@
           "wordCount": 197,
           "title": "Childhood Toys",
           "imageUrl": "https://imgs.xkcd.com/comics/childhood_toys_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2602/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/linguistics_degree.png\" title=\"You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.\" alt=\"You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.\" />",
-          "link": "https://xkcd.com/2602/",
-          "publishedOn": "2022-04-05T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Linguistics Degree",
-          "imageUrl": "https://imgs.xkcd.com/comics/linguistics_degree_2x.png"
         }
       ]
     },
@@ -151,16 +141,6 @@
           "wordCount": 46,
           "title": "Mindlessness",
           "imageUrl": "https://www.monkeyuser.com/assets/images/2022/242-mindlessness.png"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2022/agi-debate/",
-          "author": null,
-          "description": "Extra Panel:",
-          "link": "https://www.monkeyuser.com/2022/agi-debate/",
-          "publishedOn": "2022-04-05T00:00:00.000Z",
-          "wordCount": 49,
-          "title": "AGI Debate",
-          "imageUrl": "https://www.monkeyuser.com/assets/images/2022/241-agi-debate.png"
         }
       ]
     },
@@ -175,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/05/new-sophisticated-malware.html",
+          "author": null,
+          "description": "<p>Mandiant is <a href=\"https://arstechnica.com/information-technology/2022/05/how-hackers-used-smarts-and-a-novel-iot-botnet-to-plunder-email-for-months/\">reporting</a> on a new botnet.</p>\n<blockquote><p>The group, which security firm Mandiant is calling UNC3524, has spent the past 18 months burrowing into victims&#8217; networks with unusual stealth. In cases where the group is ejected, it wastes no time reinfecting the victim environment and picking up where things left off. There are many keys to its stealth, including:</p>\n<ul>\n<li>The use of a unique backdoor Mandiant calls Quietexit, which runs on load balancers, wireless access point controllers, and other types of IoT devices that don&#8217;t support antivirus or endpoint detection. This makes detection through traditional means difficult.\n...</li></ul></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/05/new-sophisticated-malware.html",
+          "publishedOn": "2022-05-04T11:15:24.000Z",
+          "wordCount": 660,
+          "title": "New Sophisticated Malware",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/05/using-pupil-reflection-in-smartphone-camera-selfies.html",
           "author": null,
@@ -3721,56 +3711,6 @@
           "wordCount": 1189,
           "title": "Jeff Bezos and Amazon just hired everybody but SpaceX for Project Kuiper",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/50947043563_0fdf4c570f_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1845801",
-          "author": "Dan Goodin",
-          "description": "Hackers can exploit authentication bypass flaw to gain administrative control.",
-          "link": "https://arstechnica.com/?p=1845801",
-          "publishedOn": "2022-04-05T00:14:44.000Z",
-          "wordCount": 701,
-          "title": "Zyxel patches critical vulnerability that can allow Firewall and VPN hijacks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/digital-design-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1843641",
-          "author": "Jennifer Ouellette",
-          "description": "The work could lead to new types of ballooning sensors for atmospheric exploration.",
-          "link": "https://arstechnica.com/?p=1843641",
-          "publishedOn": "2022-04-04T23:39:35.000Z",
-          "wordCount": 1390,
-          "title": "No air currents required: Ballooning spiders rely on electric fields to generate lift",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/balloonTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1845744",
-          "author": "Beth Mole",
-          "description": "Reports of crowded quarantine centers and parents being separated from children.",
-          "link": "https://arstechnica.com/?p=1845744",
-          "publishedOn": "2022-04-04T21:49:46.000Z",
-          "wordCount": 852,
-          "title": "38,000 health workers dispatched to Shanghai as COVID outbreak worsens",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1389416788-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1845715",
-          "author": "Samuel Axon",
-          "description": "It has a few caveats, but it works as advertised.",
-          "link": "https://arstechnica.com/?p=1845715",
-          "publishedOn": "2022-04-04T21:11:10.000Z",
-          "wordCount": 884,
-          "title": "App lets you crank the new MacBook Pro’s brightness to over 1,000 nits",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Vivid-macOS-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1845717",
-          "author": "John Timmer",
-          "description": "The business incentives for winterization are small, the societal incentives huge.",
-          "link": "https://arstechnica.com/?p=1845717",
-          "publishedOn": "2022-04-04T20:49:01.000Z",
-          "wordCount": 1358,
-          "title": "Texas’ power failure: Limited chance for profits vs. huge social costs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-521023106-760x380.jpg"
         }
       ]
     },
@@ -3895,6 +3835,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/dont-hold-your-breath-for-more-earthbound-reggie-fils-aime-says",
+          "author": "Tom Phillips",
+          "description": "Former Nintendo of America president Reggie Fils-Aimé has said fans shouldn't hold their breath for a revival of the cult classic Mother/Earthbound series, including a long-awaited western release of Mother 3.\r\n\n\r\nSpeaking on the <a href=\"\r\nhttps://www.youtube.com/watch?v=vMuUGOXtX_U\">Kinda Funny podcast as part of a press tour for his new memoir Disrupting the Game, Fils-Aimé was asked about Nintendo franchises he was looking forward to - before Mother 3 was inevitably brought up in conversation.\r\n\n\r\n\"How long did it take until Earthbound and the Mother franchise came up? Don't hold your breath,\" Fils-Aimé - who departed Nintendo three years ago - said. \"Again, I'm not there, I don't know what's going on.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dont-hold-your-breath-for-more-earthbound-reggie-fils-aime-says",
+          "publishedOn": "2022-05-04T11:51:40.000Z",
+          "wordCount": 1152,
+          "title": "\"Don't hold your breath\" for more Earthbound, Reggie Fils-Aimé says",
+          "imageUrl": "https://assets.reedpopcdn.com/untitled-1-recovered.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/untitled-1-recovered.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/xbox-mobile-app-getting-instagram-style-makeover-with-new-stories-mode",
+          "author": "Victoria Kennedy",
+          "description": "A new update coming to Xbox's mobile app will introduce a shiny new stories mode.\n\"This month's update will bring you the activity feed on the Xbox app for iOS and Android in the form of stories. You will be able to create, share and view stories with your friends in the Xbox app and add priority tags for your console gaming experiences with Quality of Service (QoS) Tagging,\" Xbox wrote in a blog post yesterday.\n\"Stories lets you showcase your skills and keep up to date with your friends. You can share your favourite gaming moments including game clips, screenshots and achievements with your friends and the Xbox community.\"\n Read more",
+          "link": "https://www.eurogamer.net/xbox-mobile-app-getting-instagram-style-makeover-with-new-stories-mode",
+          "publishedOn": "2022-05-04T11:44:08.000Z",
+          "wordCount": 858,
+          "title": "Xbox mobile app getting Instagram-style makeover with new stories mode",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-app-user-stories-7164badc38c815e3618a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-app-user-stories-7164badc38c815e3618a.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/netflixs-new-sonic-cartoon-actor-receives-blessing-from-roger-craig-smith",
+          "author": "Ed Nightingale",
+          "description": "Canadian voice actor Deven Mack will play Sonic the Hedgehog in Sonic Prime and has received the blessing of Sonic's game voice actor.\r\n\n\r\nSonic Prime is a new Netflix animation revealed yesterday. Mack joins Roger Craig Smith as Sonic's game voice and Ben Schwartz as the film voice.\r\n\n\r\nMack shared a thank you video on Twitter following the response to his casting and noted that the other actors will maintain their roles.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflixs-new-sonic-cartoon-actor-receives-blessing-from-roger-craig-smith",
+          "publishedOn": "2022-05-04T11:43:12.000Z",
+          "wordCount": 1098,
+          "title": "Netflix's new Sonic cartoon actor receives blessing from Roger Craig Smith",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-2_cgliPwf.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-2_cgliPwf.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/hank-hill-and-peter-griffin-battle-it-out-in-apple-arcades-upcoming-kart-racer",
+          "author": "Victoria Kennedy",
+          "description": "We all love Mario Kart; it is a classic that has evolved and grown up with us and will surely continue to dominate various sales charts for many years to come. However, what if someone took this tied and tested formula, but then added in some of the classic 20th Television characters in place of Mario and co.? Well, we now have the answer. You would get Warped Kart Racers, Apple Arcade's upcoming karting game.\nIn Warped Kart Racers, players will be able to control one of 20 characters, including Hank from King of the Hill, Stan from American Dad! and Stewie from Family Guy to name but a few. In addition to these familiar faces, players will also recognise some familiar locales, as the maps that we could all soon be charging round are inspired by locations from \"fan-favourite episodes\".\nKeen karters will be able to take to the tracks in either Warped Kart Racers' single player campaign or take part in a chaotic 8-player multiplayer mode. In addition to this, you will also be able to take on daily challenges to unlock new characters, skins, karts and other customisation options. You can check out the trailer for Warped Kart Racers below.\n Read more",
+          "link": "https://www.eurogamer.net/hank-hill-and-peter-griffin-battle-it-out-in-apple-arcades-upcoming-kart-racer",
+          "publishedOn": "2022-05-04T10:49:29.000Z",
+          "wordCount": 925,
+          "title": "Hank Hill and Peter Griffin battle it out in Apple Arcade's upcoming kart racer",
+          "imageUrl": "https://assets.reedpopcdn.com/warped-kart-racers.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warped-kart-racers.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fans-call-for-nintendo-to-improve-switch-sports-naming-filter-and-add-a-reporting-function",
+          "author": "Ed Nightingale",
+          "description": "Nintendo Switch Sports released last week and already the game is being flooded with inappropriate user names.\r\n\n\r\nNintendo has added a filter to prevent obvious rude words, but many players are finding creative ways to circumvent the filter.\r\n\n\r\nPlayers on Reddit want Nintendo to amend the naming filter, or add a method of reporting inappropriate content.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fans-call-for-nintendo-to-improve-switch-sports-naming-filter-and-add-a-reporting-function",
+          "publishedOn": "2022-05-04T10:45:34.000Z",
+          "wordCount": 903,
+          "title": "Fans call for Nintendo to improve Switch Sports naming filter and add a reporting function",
+          "imageUrl": "https://assets.reedpopcdn.com/switch_sports.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/switch_sports.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/reggie-fils-aime-distances-himself-from-nintendo-contract-worker-reports",
+          "author": "Tom Phillips",
+          "description": "Former Nintendo of America boss Reggie Fils-Aimé has distanced himself from recent reports concerning contract workers at the company, and said the issues raised were not representative of his time in charge. \r\n\nLast month, a Nintendo of America staff member filed an official complaint concerning alleged company interference in unionisation efforts - though Nintendo itself later responded to say the employee had been fired for disclosure of confidential information.\n Still, in the last two weeks, IGN and Kotaku have both published comments from various current and former contract workers at Nintendo, with criticism raised for how the company differentiates between full-time and contract staff in terms of pay, benefits and a feeling of inclusion, and claims it lacked a solid progression path to becoming a permanent employee.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/reggie-fils-aime-distances-himself-from-nintendo-contract-worker-reports",
+          "publishedOn": "2022-05-04T10:35:40.000Z",
+          "wordCount": 1049,
+          "title": "Reggie Fils-Aimé distances himself from Nintendo contract worker reports",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/hitman-3-game-director-joins-crytek-to-lead-crysis-4-development",
+          "author": "Ed Nightingale",
+          "description": "Hitman 3 game director Mattias Engström has left IO Interactive and joined Crytek to lead development on Crysis 4.\r\n\n\r\nThe Crysis Twitter account shared the news: \"We are happy to announce that Mattias Engström, known for his work as Game Director for Hitman 3 at IO Interactive, joins the Crysis family as Game Director for the fourth installment in the Crysis franchise, starting this week.\"\r\n\n\r\nEngström worked across the Hitman trilogy, serving as level designer on the first two games before becoming game director for the third. He also worked as a level designer on Ubisoft's Far Cry 3 and Assassin's Creed: Revelations.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/hitman-3-game-director-joins-crytek-to-lead-crysis-4-development",
+          "publishedOn": "2022-05-04T10:08:36.000Z",
+          "wordCount": 885,
+          "title": "Hitman 3 game director joins Crytek to lead Crysis 4 development",
+          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-crysis-remastered-reveal-analysis-1587298628130.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-crysis-remastered-reveal-analysis-1587298628130.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/bungie-issues-statement-in-support-of-roe-v-wade-as-us-supreme-court-tries-to-overthrow-it",
+          "author": "Victoria Kennedy",
+          "description": "Destiny developer Bungie has spoken out in response to the Republican-backed US Supreme Court's plans to overthrow Roe v Wade, a key judgement which legalised abortion rights across the country.\n\"Standing up for reproductive choice and liberty is not a difficult decision to make, and Bungie remains dedicated to upholding these values,\" the developer tweeted earlier today.\nThen, in its official statement, Bungie called the leaked draft decision by the US Supreme Court to overturn Roe v. Wade a \"direct attack on human rights\".\n Read more",
+          "link": "https://www.eurogamer.net/bungie-issues-statement-in-support-of-roe-v-wade-as-us-supreme-court-tries-to-overthrow-it",
+          "publishedOn": "2022-05-04T10:07:16.000Z",
+          "wordCount": 956,
+          "title": "Bungie issues statement in support of Roe v Wade, as US Supreme Court tries to overthrow it",
+          "imageUrl": "https://assets.reedpopcdn.com/fr4ksdexeaetn-d.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fr4ksdexeaetn-d.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/activision-urges-shareholders-to-vote-against-proposed-annual-harassment-and-discrimination-report",
           "author": "Matt Wales",
