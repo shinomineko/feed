@@ -2,10 +2,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T18:27:26.620Z</updated>
+    <updated>2022-05-05T00:32:07.972Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.24: Volume Expansion Now A Stable Feature]]></title>
+        <id>https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/</id>
+        <link href="https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/"/>
+        <updated>2022-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Hemant Kumar (Red Hat)
+Volume expansion was introduced as a alpha feature in Kubernetes 1.8 and it went beta in 1.11 and with Kubernetes 1.24 we are excited to announce general availability(GA)
+of volume expansion.
+This feature allows Kubernetes users to simply edit their PersistentVolumeClaim objects and specify new size in PVC Spec and Kubernetes will automatically expand the volume
+using storage backend and also expand the underlying file system in-use by the Pod without requiring any downtime at all if possible.
+How to use volume expansion
+You can trigger expansion for a PersistentVolume by editing the spec field of a PVC, specifying a different
+(and larger) storage request. For example, given following PVC:
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+name: myclaim
+spe…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is what the Salisbury Plain looked like before Stonehenge]]></title>
+        <id>https://arstechnica.com/?p=1852278</id>
+        <link href="https://arstechnica.com/?p=1852278"/>
+        <updated>2022-05-04T23:39:46.000Z</updated>
+        <summary type="html"><![CDATA[The monument's builders didn't have to clear dense forests after all.]]></summary>
+        <author>
+            <name>Kiona N. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite unknowns, FDA officials make the case for annual fall COVID shots]]></title>
+        <id>https://arstechnica.com/?p=1852318</id>
+        <link href="https://arstechnica.com/?p=1852318"/>
+        <updated>2022-05-04T23:09:58.000Z</updated>
+        <summary type="html"><![CDATA[In JAMA viewpoint, FDA leaders say a fall booster decision should come next month.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is giving away 12 custom Xbox Series S to celebrate Star Wars Day]]></title>
+        <id>https://www.eurogamer.net/microsoft-is-giving-away-12-custom-xbox-series-s-consoles-to-celebrate-star-wars-day</id>
+        <link href="https://www.eurogamer.net/microsoft-is-giving-away-12-custom-xbox-series-s-consoles-to-celebrate-star-wars-day"/>
+        <updated>2022-05-04T22:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Today, 4th May, is Star Wars Day and Microsoft is celebrating the annual ode to George Lucas' iconic sci-fi odyssey by giving away 12 custom Xbox Series S consoles inspired by developer Traveller's Tales' recently released Lego Star Wars: The Skywalker Saga.
+
+
+Each of the 12 custom consoles features a unique colour scheme and design inspired by a different Lego-ised Star Wars character from across the nine Skywalker Saga movies. BB-8 is represented by an orange and grey Xbox Series S, for instance, while Boba Fett opts for orange and green, and Darth Vadar goes all-in on the black.
+
+
+The full list of characters emblazoned on the custom consoles is as follows: BB-8, Boba Fett, Chewbacca, Darth Maul, Darth Vader, Finn, Kylo Ren, Luke Skywalker, R2-D2, Rey, Stormtrooper, and Yoda. Additionally, all 12 custom consoles feature controller designs that match their chosen character-themed colour schemes.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bungie offers strong support for abortion rights amid Supreme Court leak]]></title>
+        <id>https://arstechnica.com/?p=1852295</id>
+        <link href="https://arstechnica.com/?p=1852295"/>
+        <updated>2022-05-04T21:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Destiny developer is one of a handful of tech companies speaking out.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Black widow” neutron star takes an hour to orbit the star it’s roasting]]></title>
+        <id>https://arstechnica.com/?p=1852255</id>
+        <link href="https://arstechnica.com/?p=1852255"/>
+        <updated>2022-05-04T21:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Once an hour, the side of a star bombarded by radiation comes into view.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New lawsuit alleges Activision CEO rushed through Microsoft acquisition to escape liability for wrongdoing]]></title>
+        <id>https://www.eurogamer.net/new-lawsuit-alleges-activision-ceo-rushed-through-microsoft-acquisition-to-escape-liability-for-wrongdoing</id>
+        <link href="https://www.eurogamer.net/new-lawsuit-alleges-activision-ceo-rushed-through-microsoft-acquisition-to-escape-liability-for-wrongdoing"/>
+        <updated>2022-05-04T20:55:19.000Z</updated>
+        <summary type="html"><![CDATA[A new lawsuit filed by New York City Employees' Retirement System has alleged Activision Blizzard CEO Bobby Kotick fast-tracked a takeover bid from Microsoft in order to escape liability for wrongdoing following a damning Wall Street Journal report claiming he'd known about sexual misconduct at the Call of Duty publisher "for years".
+
+
+Activision Blizzard has faced a relentless stream of shocking allegations relating to its workplace culture since last July, when a State of California lawsuit filing called the publisher "a breeding ground for harassment and discrimination against women". Building on that lawsuit, the Wall Street Journal published a report in November claiming Bobby Kotick had been aware of the allegations of sexual misconduct and mistreatment of female employees across many parts of the company "for years", but had failed to act on them or tell the board of directors and executives everything he knew.
+
+
+It's these claims relating to Kotick's behaviour that form the backbone of a new lawsuit filed by the New York City Employees' Retirement System and pension funds, which owns Activision shares. The filing (as spotted by Axios) aims to secure documentation Activision has reportedly so far refused to release so that the plaintiff can carry out an investigation into the board’s "failure to maintain a safe and non- discriminatory working environment for its (specifically minority and female) employees, and failure to take action in response to repeated, grave allegations of misconduct, discrimination, and harassment by Activision’s senior executives."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TurboTax forced to stop misleading “free, free, free” ads and pay back $141M]]></title>
+        <id>https://arstechnica.com/?p=1852232</id>
+        <link href="https://arstechnica.com/?p=1852232"/>
+        <updated>2022-05-04T20:19:35.000Z</updated>
+        <summary type="html"><![CDATA[4.4 million taxpayers to get refunds from Intuit in settlement with all 50 states.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla releases Firefox version 100 this week]]></title>
+        <id>https://arstechnica.com/?p=1852162</id>
+        <link href="https://arstechnica.com/?p=1852162"/>
+        <updated>2022-05-04T19:55:15.000Z</updated>
+        <summary type="html"><![CDATA[The big number came with a small update on desktop, Android, and iOS.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New lawsuit calls Kotick’s handling of Activision-Microsoft merger “inexcusable”]]></title>
+        <id>https://arstechnica.com/?p=1852222</id>
+        <link href="https://arstechnica.com/?p=1852222"/>
+        <updated>2022-05-04T19:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Shareholders want more corporate books opened in light of "disturbing allegations."]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Sonos is launching its own voice assistant in June]]></title>
+        <id>https://arstechnica.com/?p=1852213</id>
+        <link href="https://arstechnica.com/?p=1852213"/>
+        <updated>2022-05-04T19:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Voice assistant would help Sonos be less dependent on frenemies Amazon, Google.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Go is dead, and you can probably blame YouTube Premium]]></title>
+        <id>https://arstechnica.com/?p=1852110</id>
+        <link href="https://arstechnica.com/?p=1852110"/>
+        <updated>2022-05-04T18:21:04.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Go offered free offline videos, but now you'll need YouTube Premium.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discs vs. data: Are we helping the environment by streaming?]]></title>
         <id>https://arstechnica.com/?p=1850442</id>
@@ -10006,157 +10154,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The EVs will use Ultium batteries and include a sub-$30,000 EV for North America.]]></summary>
         <author>
             <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Online gets new Splatoon 2 custom icons]]></title>
-        <id>https://www.eurogamer.net/nintendo-switch-online-gets-new-splatoon-2-custom-icons</id>
-        <link href="https://www.eurogamer.net/nintendo-switch-online-gets-new-splatoon-2-custom-icons"/>
-        <updated>2022-04-05T12:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Splatoon 2 icons have come to Nintendo Switch Online.
-Last month saw Nintendo add a new missions and rewards section to its Switch Online service. Included here were a series of new icon elements from Animal Crossing: New Horizons and Super Mario Odyssey.
-Now, these icons have been refreshed for April, with NSO users now able to get their hands on a different selection of Animal Crossing themed icons (all based around islanders with April birthdays) as well as ones from Splatoon 2.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft is using a map of Preston to teach young people about flooding]]></title>
-        <id>https://www.eurogamer.net/minecraft-is-using-a-map-of-preston-to-teach-young-people-about-flooding</id>
-        <link href="https://www.eurogamer.net/minecraft-is-using-a-map-of-preston-to-teach-young-people-about-flooding"/>
-        <updated>2022-04-05T12:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Minecraft is being used to teach young people in schools about flooding.
-
-
-A new mod, named Rivercraft, has been created and is currently being tested in a school in Preston, as detailed by Microsoft.
-
-
-The mod was created in a collaboration between Minecraft, the Environment Agency and BlockBuilders, an organisation that specialises in digital youth engagement.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve "ramping up Steam Deck shipments"]]></title>
-        <id>https://www.eurogamer.net/valve-is-ramping-up-steam-deck-shipments</id>
-        <link href="https://www.eurogamer.net/valve-is-ramping-up-steam-deck-shipments"/>
-        <updated>2022-04-05T11:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Valve has revealed it is “ramping up Steam Deck shipments” now we are into the second quarter of the year.
-"Welcome to Q2! We've just sent out the first set of order emails to Q2 reservers (in order of reservation time)," the Valve team tweeted.
-"Starting today we're ramping up Steam Deck shipments and will be sending more order availability emails every week. Sometimes even twice a week!"
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwatch 2 concept art points to possible battle pass]]></title>
-        <id>https://www.eurogamer.net/overwatch-2-concept-art-points-to-possible-battle-pass</id>
-        <link href="https://www.eurogamer.net/overwatch-2-concept-art-points-to-possible-battle-pass"/>
-        <updated>2022-04-05T11:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Concept art for Overwatch 2 has raised the possibility that Blizzard's hero shooter sequel will include a battle pass. 
-
-
-A concept for the game's main menu, designed by Blizzard senior UI artist Jayson Kirby, has popped up online via Artstation (as spotted by Attack of the Fanboy).
-
-
-The image shows a new look for the game's homepage, complete with familiar options to access its hero roster, shop and challenges - but also a separate battle pass option. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Using Fake Police Data Requests against Tech Companies]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/04/hackers-using-fake-police-data-requests-against-tech-companies.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/04/hackers-using-fake-police-data-requests-against-tech-companies.html"/>
-        <updated>2022-04-05T11:04:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>Brian Krebs has a <a href="https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/">detailed post</a> about hackers using fake police data requests to trick companies into handing over data.</p>
-<blockquote><p>Virtually all major technology companies serving large numbers of users online have departments that routinely review and process such requests, which are typically granted as long as the proper documents are provided and the request appears to come from an email address connected to an actual police department domain name.</p>
-<p>But in certain circumstances ­&#8211; such as a case involving imminent harm or death &#8211;­ an investigating authority may make what’s known as an Emergency Data Request (EDR), which largely bypasses any official review and does not require the requestor to supply any court-approved documents...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Witcher recipe book being cooked up]]></title>
-        <id>https://www.eurogamer.net/official-witcher-recipe-book-being-cooked-up</id>
-        <link href="https://www.eurogamer.net/official-witcher-recipe-book-being-cooked-up"/>
-        <updated>2022-04-05T11:00:34.000Z</updated>
-        <summary type="html"><![CDATA[An official Witcher cookbook is currently proving and will be released from the oven later this year.
-
-
-Created by Anita Sarna and Karolina Krupecka of food blog Nerds' Kitchen (and Witcher Kitchen), it's officially licensed by CD Projekt Red and will feature 80 recipes inspired by Geralt’s travels in the games.
-
-
-The book will include "meticulously-researched, immersive recipes that give fans a taste of the distinct flavours a witcher might sample as he travels the countryside in search of monsters to slay and coin to earn," according to the pre-order page.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeff Bezos and Amazon just hired everybody but SpaceX for Project Kuiper]]></title>
-        <id>https://arstechnica.com/?p=1845305</id>
-        <link href="https://arstechnica.com/?p=1845305"/>
-        <updated>2022-04-05T11:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Huge contracts for United Launch Alliance, Arianespace, and Blue Origin.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abandoned's director speaks out following cancellation rumours]]></title>
-        <id>https://www.eurogamer.net/abandoneds-director-speaks-out-following-cancellation-rumours</id>
-        <link href="https://www.eurogamer.net/abandoneds-director-speaks-out-following-cancellation-rumours"/>
-        <updated>2022-04-05T10:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Following confusion over the project's future, the director of upcoming PS5 game Abandoned has spoken out about why developer Blue Box deleted various tweets about the game, the status of the game's prologue and his own "heartbreak" about the situation now surrounding the game's release.
-Speaking to IGN, Hasan Kahraman of Blue Box Game Studios said the developer had removed older tweets about the game in a bid to keep information surrounding Abandoned up to date. "Basically, the tweets were deleted because some of the concept has changed, and I figured maybe just deleting the tweet and then tweeting more relevant information would be a better idea - which was actually not a good idea," Kahraman said.
-"I have learned now just to keep them. Even if the information or concept changed, just keep the older information because people eventually will see for themselves what the difference is and then see what's more actual."
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Activision Blizzard staff strike as vaccine mandate removed]]></title>
-        <id>https://www.eurogamer.net/some-activision-blizzard-staff-strike-as-vaccine-mandate-removed</id>
-        <link href="https://www.eurogamer.net/some-activision-blizzard-staff-strike-as-vaccine-mandate-removed"/>
-        <updated>2022-04-05T10:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Activision Blizzard employees have taken part in a planned strike in protest at the company's recent decision to drop its requirement that in-office staff are vaccinated.
-
-
-Last week, the embattled World of Warcraft and Call of Duty maker announced it would no longer require office-based staff to have had Covid jabs, while encouraging a gradual return to in-person working over the coming months.
-
-
-The decision, announced in an email by Activision Blizzard exec Brian Bulatao, was immediately criticised by staff who said it risked employees who may be immunocompromised or who lived with others who are, and was poorly timed as the US faces up to Covid's current Omicron BA2 subvariant. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring's Radahn finally back to full strength]]></title>
-        <id>https://www.eurogamer.net/elden-rings-radahn-is-finally-back-to-full-strength</id>
-        <link href="https://www.eurogamer.net/elden-rings-radahn-is-finally-back-to-full-strength"/>
-        <updated>2022-04-05T10:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Elden Ring boss Radahn was accidentally nerfed in a patch, but now he's back to full strength.
-
-
-FromSoftware's previous patch for the game added new features like NPC icons and quests, as well as balance changes. But nerfing the infamous boss Starscourge Radahn was unintentional.
-
-
-Now a new patch is available that fixes "a bug in the balance adjustment of the boss Starscourge Radahn in update 1.03, in which the power of some attacks was unintentionally reduced".
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
