@@ -393,6 +393,66 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1852586",
+          "author": "Beth Mole",
+          "description": "Total excess deaths far exceed the reported deaths directly due to COVID-19.",
+          "link": "https://arstechnica.com/?p=1852586",
+          "publishedOn": "2022-05-05T22:02:38.000Z",
+          "wordCount": 864,
+          "title": "Pandemic killed 15M people in first 2 years, WHO excess death study finds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1341226201-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852407",
+          "author": "Sam Machkovech",
+          "description": "Shining example of why MCU should trust a singular filmmaker's vision.",
+          "link": "https://arstechnica.com/?p=1852407",
+          "publishedOn": "2022-05-05T20:59:27.000Z",
+          "wordCount": 1327,
+          "title": "Doctor Strange 2 review: Let Sam Raimi take you on a romp through Madness",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/drstrange2-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852527",
+          "author": "Jon Brodkin",
+          "description": "Settlement requires accurate speed claims and payment of nearly $9 million.",
+          "link": "https://arstechnica.com/?p=1852527",
+          "publishedOn": "2022-05-05T20:51:32.000Z",
+          "wordCount": 927,
+          "title": "Frontier lied about Internet speeds and “ripped off customers,” FTC says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/getty-slow-internet-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852470",
+          "author": "Samuel Axon",
+          "description": "Epic changed its mind about keeping Fortnite off of Xbox Cloud Gaming.",
+          "link": "https://arstechnica.com/?p=1852470",
+          "publishedOn": "2022-05-05T20:40:04.000Z",
+          "wordCount": 792,
+          "title": "Despite the Epic v. Apple battle, Fortnite is officially back on the iPhone",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/fortnite-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852404",
+          "author": "Scharon Harding",
+          "description": "HP, Acer announce first Chrome OS devices with up to eight x86 cores.",
+          "link": "https://arstechnica.com/?p=1852404",
+          "publishedOn": "2022-05-05T20:03:46.000Z",
+          "wordCount": 989,
+          "title": "AMD doubles the number of CPU cores it offers to Chromebooks",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/HP-Elite-c645-G2-Chromebook-Enterprise_WWAN_Rear-Left-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1852454",
+          "author": "Kyle Orland",
+          "description": "2016 app with a now-popular name now belongs to multi-billion dollar AppLovin.",
+          "link": "https://arstechnica.com/?p=1852454",
+          "publishedOn": "2022-05-05T19:45:06.000Z",
+          "wordCount": 1134,
+          "title": "Major mobile publisher buys Wordle! (but not the one you’re thinking of)",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/worlde-gamer-money-train-no-derp-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1852423",
           "author": "Jennifer Ouellette",
           "description": "\"History does not remember blood. It remembers names.\"",
@@ -3791,26 +3851,6 @@
           "wordCount": 933,
           "title": "This synthetic-fuel startup just got $75 million from Porsche",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/EX19U17ID0006_low-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1845557",
-          "author": "Eric Berger",
-          "description": "\"The world was standing on the brink of thermonuclear war.\"",
-          "link": "https://arstechnica.com/?p=1845557",
-          "publishedOn": "2022-04-06T11:32:58.000Z",
-          "wordCount": 1278,
-          "title": "That time when Soviet rocket scientists nearly nuked New York City",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/nuke-york-city-postcard-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1845746",
-          "author": "Sam Machkovech",
-          "description": "Speed, style, laughs, and surprises: Sonic holds on to all his golden rings this time.",
-          "link": "https://arstechnica.com/?p=1845746",
-          "publishedOn": "2022-04-06T11:15:49.000Z",
-          "wordCount": 953,
-          "title": "Sonic 2 film review: This year’s Super Mario film has a new bar to clear",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Screenshot-1743-760x380.png"
         }
       ]
     },
@@ -3825,6 +3865,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/05/06/storage-capacity-ga/",
+          "author": null,
+          "description": "Authors: Patrick Ohly (Intel)\nThe v1.24 release of Kubernetes brings storage capacity\ntracking as a generally available feature.\nProblems we have solved\nAs explained in more detail in the previous blog post about this\nfeature, storage capacity\ntracking allows a CSI driver to publish information about remaining\ncapacity. The kube-scheduler then uses that information to pick suitable nodes\nfor a Pod when that Pod has volumes that still need to be provisioned.\nWithout this information, a Pod may get stuck without ever being scheduled onto\na suitable node because kube-scheduler has to choose blindly and always ends up\npicking a node for which the volume cannot be provisioned because the\nunderlying storage system managed by the CSI driver does not have sufficient\ncapacity left.\nBecause CSI driv…",
+          "link": "https://kubernetes.io/blog/2022/05/06/storage-capacity-ga/",
+          "publishedOn": "2022-05-06T00:00:00.000Z",
+          "wordCount": 3816,
+          "title": "Blog: Storage Capacity Tracking reaches GA in Kubernetes 1.24",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/",
           "author": null,
@@ -3955,6 +4005,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/warframes-annual-tennocon-fan-event-returns-this-july-in-digital-only-form",
+          "author": "Matt Wales",
+          "description": "TennoCon, Warframe's annual fan event, is officially returning this summer in digital-only form, with developer Digital Extremes having now confirmed that all-day proceedings will be getting underway on 16th July.\r\n\n\r\nTennoCon has, of course, traditionally been a live, in-person event combining Warframe announcements, developer panels, and various community focused activities, but Digital Extremes made the decision to go online-only back in 2020 in reponse to the coronavirus pandemic, meaning this year's TennoCon will be its third fully digital show.\r\n\n\r\nUnfortunately, beyond that 16th July date, Digital Extremes is yet to share much in the ways of details about this year's TennoCon, only saying that the all-day event will feature \"exciting reveals\" from the team, alongside a community art show.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/warframes-annual-tennocon-fan-event-returns-this-july-in-digital-only-form",
+          "publishedOn": "2022-05-05T23:06:16.000Z",
+          "wordCount": 844,
+          "title": "Warframe's annual TennoCon fan event returns this July in digital-only form",
+          "imageUrl": "https://assets.reedpopcdn.com/warframe_Oh9GEhl.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warframe_Oh9GEhl.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/animal-splicing-tycoon-game-lets-build-a-zoo-is-getting-dinosaur-dlc",
+          "author": "Matt Wales",
+          "description": "If you're starting to tire of splicing up the same old animals into DNA hybrid monstrosities in park management sim Let's Build a Zoo, there's some potentially exciting news on the horizon: you'll soon be able to fancy up your adorably terrifying creations into something even more exotic when the game's newly announced Dinosaur Island DLC arrives on 23rd May.\r\n\n\r\nLet's Build a Zoo, if you're unfamiliar, takes the familiar framework of classic zoo tycoons as its starting point, tasking players with importing and breeding animals, managing staff, and fashioning an appealing park using scenery items, shops, and amenities in order to keep guests happy and the money rolling in.\r\n\n\r\nIt offers two main twists on that familiar formula, however; there's a morality system - giving players the choice between keeping everything above board or taking a more exploitative path - plus the aforementioned DNA splicing angle, enabling players to create and exhibit the likes of crocoducks, giraffephants, and chickow.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/animal-splicing-tycoon-game-lets-build-a-zoo-is-getting-dinosaur-dlc",
+          "publishedOn": "2022-05-05T22:01:06.000Z",
+          "wordCount": 865,
+          "title": "Animal-splicing tycoon game Let's Build a Zoo is getting dinosaur DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/lets-build-a-zoo-dinosaur-island.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lets-build-a-zoo-dinosaur-island.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/prey-and-jotun-valhalla-edition-are-next-weeks-free-epic-store-games",
+          "author": "Matt Wales",
+          "description": "Fans of quality freebies (so basically everyone then, I assume) are in for a treat next week as Prey and Jotunn join the lengthening list of games to be given away on the Epic Store.\r\n\n\r\nPrey, of course, is yet another winner from Arkane Studios, the developer behind the critically acclaimed likes of Dishonored and Deathloop. As with those series, Prey, which released back in 2017, falls squarely in the immersive sim genre, this time taking the studios' focus on open-ended traversal and player choice into outer space.\r\n\n\r\nHere, players take on the role of Morgan Yu and, after a memorably orchestrated opening sequence, find themselves onboard the space station Talos I somewhere in the year 2032. It's a gorgeously luxuriant setting - Eurogamer called it \"perhaps the grandest and most beautiful facility of its kind ever imagined for a game\" in its Recommended review - but all is not right.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/prey-and-jotun-valhalla-edition-are-next-weeks-free-epic-store-games",
+          "publishedOn": "2022-05-05T20:49:22.000Z",
+          "wordCount": 923,
+          "title": "Prey and Jotun: Valhalla Edition are next week's free Epic Store games",
+          "imageUrl": "https://assets.reedpopcdn.com/jotun_kFsSBih.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jotun_kFsSBih.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-mafia-game-reportedly-in-development-at-hangar-13",
+          "author": "Matt Wales",
+          "description": "Following the news that Haden Blackman, studio head and founder of Mafia 3's developer Hangar 13, is stepping down from the role after seven years, a new report has claimed a fourth instalment in the Mafia series is currently in early development at the studio.\nThat's according to Kotaku, which reports that newly appointed studio boss Nick Baynes is leading development on a brand-new Mafia game, codenamed Nero. The project is said to be a prequel to the Mafia trilogy - which would suggest a return to the prohibition era action of the very first Mafia game, if not even earlier.\nAdditionally, Hangar 13 will reportedly be ditching its Mafia 3 engine - used in the recent Mafia 1 remake - in favour of Unreal Engine 5. It may, however, be some time before either the studio or publisher 2K Games is ready to talk about the title, given it's still \"early in development\".\n Read more",
+          "link": "https://www.eurogamer.net/new-mafia-game-reportedly-in-development-at-hangar-13",
+          "publishedOn": "2022-05-05T19:25:23.000Z",
+          "wordCount": 865,
+          "title": "New Mafia game reportedly in development at Hangar 13",
+          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-mafia-definitive-edition-tech-review-1601562695222.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-mafia-definitive-edition-tech-review-1601562695222.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/fortnite-joins-xbox-cloud-gaming-giving-iphone-users-another-way-to-play",
           "author": "Tom Phillips",
@@ -7734,86 +7824,6 @@
           "wordCount": 933,
           "title": "Pokémon Go Mega Evolution looks to be getting a much-needed overhaul",
           "imageUrl": "https://assets.reedpopcdn.com/pokemon-go-mega-evolution_feature.png/BROK/thumbnail/1600x900/format/jpg/quality/80/pokemon-go-mega-evolution_feature.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/stardew-valley-follow-up-haunted-chocolatier-will-have-boss-battles",
-          "author": "Ed Nightingale",
-          "description": "Stardew Valley follow-up Haunted Chocolatier is set to have boss battles.\r\n\n\r\nIn a livestream interview with composing software Reason Studios, Stardew creator Eric Barone showed off some of the music from the forthcoming game (thanks PC Gamer). \r\n\n\r\nThat included a track called \"beeboss\", complete with buzzing melodies. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/stardew-valley-follow-up-haunted-chocolatier-will-have-boss-battles",
-          "publishedOn": "2022-04-06T11:51:27.000Z",
-          "wordCount": 961,
-          "title": "Stardew Valley follow-up Haunted Chocolatier will have boss battles",
-          "imageUrl": "https://assets.reedpopcdn.com/haunted-chocolatier-combat.png/BROK/thumbnail/1600x900/format/jpg/quality/80/haunted-chocolatier-combat.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/konami-details-efootball-2022-v10-update-due-next-week",
-          "author": "Tom Phillips",
-          "description": "Konami will attempt to salvage its struggling eFootball 2022 next week with the game's long-awaited v1.0.0 patch - which was originally set to arrive soon after launch last November.\r\n\n\r\neFootball - the new name for PES - arrived in a disastrous state late last year, despite Konami warning players it would arrive in extremely limited form akin to a demo. \r\n\n\r\nKonami insisted the game would evolve over time, but players have been left waiting months for this v1.0.0 update to arrive. In the meantime, eFootball's mobile spin-off was postponed, and the game's controversial premium player pack was pulled from sale.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/konami-details-efootball-2022-v10-update-due-next-week",
-          "publishedOn": "2022-04-06T11:50:15.000Z",
-          "wordCount": 943,
-          "title": "Konami details eFootball 2022 v1.0 update due next week",
-          "imageUrl": "https://assets.reedpopcdn.com/efootball-is-currently-the-worst-game-on-steam-according-to-user-reviews-1633081276646.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/efootball-is-currently-the-worst-game-on-steam-according-to-user-reviews-1633081276646.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/an-official-halo-cookbook-has-been-revealed",
-          "author": "Victoria Kennedy",
-          "description": "Get ready to cook up a feast worthy of a Spartan army, as 343 Industries has unveiled its new Halo cookbook.\n\"Time to upgrade your armoury right alongside your pantry,” the developer tweeted. \"Announcing the official Halo Cookbook from Insight Editions.\"\nAlong with a photo of the upcoming book, 343 also revealed Halo fans can preorder their copies now, with the book itself releasing this August.\n Read more",
-          "link": "https://www.eurogamer.net/an-official-halo-cookbook-has-been-revealed",
-          "publishedOn": "2022-04-06T11:12:06.000Z",
-          "wordCount": 946,
-          "title": "An official Halo cookbook has been revealed",
-          "imageUrl": "https://assets.reedpopcdn.com/halo-cook.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/halo-cook.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/shining-force-heroes-of-light-and-darkness-mobile-revival-cancelled",
-          "author": "Ed Nightingale",
-          "description": "Mobile game Shining Force: Heroes of Light and Darkness has been cancelled.\r\n\n\r\nSet for release in early 2022 when it was announced last year, it would have been the first new game in Sega's strategy series since 2009.\r\n\n\r\nIt was being developed by Hive, a Japanese subsidiary of Korean developer Vespa (the studio behind mobile role-player King's Raid) but development has ceased due to development costs and time required, according to Touch Arcade.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/shining-force-heroes-of-light-and-darkness-mobile-revival-cancelled",
-          "publishedOn": "2022-04-06T10:45:58.000Z",
-          "wordCount": 741,
-          "title": "Shining Force: Heroes of Light and Darkness mobile revival cancelled",
-          "imageUrl": "https://assets.reedpopcdn.com/shining-force-mobile.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/shining-force-mobile.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/lego-star-wars-the-skywalker-saga-off-to-a-decent-start-on-steam",
-          "author": "Tom Phillips",
-          "description": "New release Lego Star Wars: The Skywalker Saga has set fresh records for TT Games' Lego series on Steam. \r\n\n\r\nWhile not enough to trouble the likes of perenial Steam favourites, or rival the enormous Steam launch of Elden Ring, it is worth pointing out how good a launch Lego Star Wars has had compared to other games in the series.\r\n\n\r\nThe Skywalker Saga hit an 82,445 player peak on its launch day,  compared to numbers around the ~5000 player mark for Marvel Super Heroes, The Hobbit, Ninjago and Lord of the Rings (thanks, BenjiSales).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/lego-star-wars-the-skywalker-saga-off-to-a-decent-start-on-steam",
-          "publishedOn": "2022-04-06T10:44:35.000Z",
-          "wordCount": 842,
-          "title": "Lego Star Wars: The Skywalker Saga off to a decent start on Steam",
-          "imageUrl": "https://assets.reedpopcdn.com/lego-star-wars-skywalker-saga-codes-and-how-to-unlock-cheats.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-star-wars-skywalker-saga-codes-and-how-to-unlock-cheats.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/days-gone-director-joins-tomb-raider-studio-crystal-dynamics",
-          "author": "Victoria Kennedy",
-          "description": "Jeff Ross, one of the directors of PlayStation exclusive Days Gone, has announced he's joined Tomb Raider studio Crystal Dynamics.\nIn a tweet, Ross wrote: \"I'm excited to announce I now work at the amazing Crystal Dynamics as Design Director. \n\"That's all I can say other than I'm thrilled with the project, and especially the team of really wonderful people. I will become a Seattleite this summer.\"\n Read more",
-          "link": "https://www.eurogamer.net/days-gone-director-joins-tomb-raider-studio-crystal-dynamics",
-          "publishedOn": "2022-04-06T10:25:40.000Z",
-          "wordCount": 952,
-          "title": "Days Gone director joins Tomb Raider studio Crystal Dynamics",
-          "imageUrl": "https://assets.reedpopcdn.com/days-gone-tomb-raider.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/days-gone-tomb-raider.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-walking-away-from-ghost-recon-breakpoint-home-to-its-first-big-nft-experiment",
-          "author": "Tom Phillips",
-          "description": "Ghost Recon Breakpoint has recieved its final content update, Ubisoft has now announced. \nThe online tactical shooter first launched in October 2019 and was poorly received, though has been kept fresh with new content themed around Splinter Cell and Terminator, alongside more standard game improvements. \nBut more recently, it has become best known as the staging ground for Ubisoft Quartz, the company's highly-controversial experiment in NFTs. \n Read more",
-          "link": "https://www.eurogamer.net/ubisoft-walking-away-from-ghost-recon-breakpoint-home-to-its-first-big-nft-experiment",
-          "publishedOn": "2022-04-06T10:15:49.000Z",
-          "wordCount": 802,
-          "title": "Ubisoft walking away from Ghost Recon Breakpoint, home to its first big NFT experiment",
-          "imageUrl": "https://assets.reedpopcdn.com/next-weeks-gamescom-inside-xbox-promises-new-looks-at-ghost-recon-breakpoint-gears-5-more-1565808129048.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/next-weeks-gamescom-inside-xbox-promises-new-looks-at-ghost-recon-breakpoint-gears-5-more-1565808129048.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-horizon-forbidden-west-option-allows-for-instant-pick-up-of-resources",
-          "author": "Ed Nightingale",
-          "description": "Aloy can now instantly pick up resources in Horizon Forbidden West, after Guerrilla quietly added in the new feature.\r\n\n\r\nAvailable as a toggle in the options, players can now turn off pickup animations so that Aloy instantly grabs nearby resources, speeding up the flow of exploration considerably.\r\n\n\r\nIt seems the feature was added in the most recent patch, though it's strangely missing from the patch notes.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-horizon-forbidden-west-option-allows-for-instant-pick-up-of-resources",
-          "publishedOn": "2022-04-06T10:03:08.000Z",
-          "wordCount": 826,
-          "title": "New Horizon Forbidden West option allows for instant pick up of resources",
-          "imageUrl": "https://assets.reedpopcdn.com/horizon-forbidden-west-launches-2021-on-playstation-5-1592476523129.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/horizon-forbidden-west-launches-2021-on-playstation-5-1592476523129.jpg"
         }
       ]
     }
