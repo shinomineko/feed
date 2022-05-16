@@ -3520,16 +3520,6 @@
           "wordCount": 1300,
           "title": "The rise of brand-new, second-hand electric vehicles",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/used-teslas-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1848392",
-          "author": "Undark Magazine",
-          "description": "Questions linger as enzyme-based recycling technology is poised to go commercial.",
-          "link": "https://arstechnica.com/?p=1848392",
-          "publishedOn": "2022-04-16T11:15:33.000Z",
-          "wordCount": 1000,
-          "title": "Are microbes the future of recycling? It’s complicated",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/bottles-760x380.jpg"
         }
       ]
     },
@@ -3544,6 +3534,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/05/16/volume-populators-beta/",
+          "author": null,
+          "description": "Author:\nBen Swartzlander (NetApp)\nThe volume populators feature is now two releases old and entering beta! The AnyVolumeDataSouce feature\ngate defaults to enabled in Kubernetes v1.24, which means that users can specify any custom resource\nas the data source of a PVC.\nAn earlier blog article detailed how the\nvolume populators feature works. In short, a cluster administrator can install a CRD and\nassociated populator controller in the cluster, and any user who can create instances of\nthe CR can create pre-populated volumes by taking advantage of the populator.\nMultiple populators can be installed side by side for different purposes. The SIG storage\ncommunity is already seeing some implementations in public, and more prototypes should\nappear soon.\nCluster administrations are strongly encourag…",
+          "link": "https://kubernetes.io/blog/2022/05/16/volume-populators-beta/",
+          "publishedOn": "2022-05-16T00:00:00.000Z",
+          "wordCount": 3882,
+          "title": "Blog: Kubernetes 1.24: Volume Populators Graduate to Beta",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/05/13/grpc-probes-now-in-beta/",
           "author": null,
@@ -7743,36 +7743,6 @@
           "wordCount": 940,
           "title": "Ghost of Tsushima dev has stopped \"actively working\" on patches",
           "imageUrl": "https://assets.reedpopcdn.com/ghost_of_tsushima_background_block_01_ps4_en_21jul20.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ghost_of_tsushima_background_block_01_ps4_en_21jul20.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/try-the-elder-scrolls-online-for-free-right-now",
-          "author": "Vikki Blake",
-          "description": "If you've got some downtime in the next week or so, you may be interested to know that The Elder Scrolls Online is currently running a free play trial to whet your appetite ahead of its upcoming expansion, High Isle.\nFrom now until 26th April, players can jump into The Elder Scrolls Online and try it for free on PC via Steam, Xbox One, Xbox Series X, PS4, PS5, and Stadia, although the small print hints that the Stadia version is available \"only in limited territories\" and Xbox players will need Xbox Live Gold to play.\nYou'll get access to the ESO base game including four classes, 23 story zones, Battlegrounds and Alliance War PvP, \"and more\", plus the Morrowind DLC, Vvardenfell zone. You can even try the prologue quest for the upcoming High Isle expansion (thanks, NME).\n Read more",
-          "link": "https://www.eurogamer.net/try-the-elder-scrolls-online-for-free-right-now",
-          "publishedOn": "2022-04-16T12:09:01.000Z",
-          "wordCount": 916,
-          "title": "Try The Elder Scrolls Online for free right now",
-          "imageUrl": "https://assets.reedpopcdn.com/the-elder-scrolls-online.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-elder-scrolls-online.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/kojima-insists-kojima-productions-is-independent-after-posting-a-playstation-studios-banner-that-suggests-otherwise",
-          "author": "Vikki Blake",
-          "description": "Hideo Kojima has shot down rumours that Kojima Productions may be acquired by PlayStation.\r\n\nIt was Sony itself that sparked speculation after a ResetEra user noticed that the banner topping PlayStation Studios' website had been updated to include Sam Bridges from Kojima's Death Stranding game. \nThe banner also included a shot of Bluepoint's Demon's Soul remake, which was acquired by Sony last year. Despite the fervour, the banner has not been taken down, suggesting its change was neither premature nor accidental. \n Read more",
-          "link": "https://www.eurogamer.net/kojima-insists-kojima-productions-is-independent-after-posting-a-playstation-studios-banner-that-suggests-otherwise",
-          "publishedOn": "2022-04-16T11:45:57.000Z",
-          "wordCount": 893,
-          "title": "Kojima insists Kojima Productions is \"independent\" after posting a PlayStation Studios banner that suggests otherwise",
-          "imageUrl": "https://assets.reedpopcdn.com/life-after-konami-castlevania-lords-of-shadow-developer-mercurysteam-on-bad-reviews-hideo-kojima-and-turning-dracula-into-a-rat-147429431926.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/life-after-konami-castlevania-lords-of-shadow-developer-mercurysteam-on-bad-reviews-hideo-kojima-and-turning-dracula-into-a-rat-147429431926.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-is-reportedly-considering-adding-ads-to-free-to-play-games",
-          "author": "Vikki Blake",
-          "description": "Microsoft is reportedly considering adding advertisements to its free-to-play games.\r\n\n\r\nThat's according to Business Insider, which reports that Xbox is looking to offer advertisment revenue to \"developers who make free-to-play\" games.\r\n\n\r\n\r\n\"One of the sources speculated Microsoft isn’t currently interested in collecting a cut of ad revenue because it wants to provide more money-making opportunities to developers who make free-to-play games,\" the publication said, as transcribed by our sister site, VGC.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-is-reportedly-considering-adding-ads-to-free-to-play-games",
-          "publishedOn": "2022-04-16T11:07:06.000Z",
-          "wordCount": 821,
-          "title": "Microsoft is reportedly considering adding ads to free-to-play games",
-          "imageUrl": "https://assets.reedpopcdn.com/xbox-logo.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-logo.jpeg"
         }
       ]
     }

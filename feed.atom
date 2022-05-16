@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T18:27:27.586Z</updated>
+    <updated>2022-05-16T00:31:37.740Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.24: Volume Populators Graduate to Beta]]></title>
+        <id>https://kubernetes.io/blog/2022/05/16/volume-populators-beta/</id>
+        <link href="https://kubernetes.io/blog/2022/05/16/volume-populators-beta/"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author:
+Ben Swartzlander (NetApp)
+The volume populators feature is now two releases old and entering beta! The AnyVolumeDataSouce feature
+gate defaults to enabled in Kubernetes v1.24, which means that users can specify any custom resource
+as the data source of a PVC.
+An earlier blog article detailed how the
+volume populators feature works. In short, a cluster administrator can install a CRD and
+associated populator controller in the cluster, and any user who can create instances of
+the CR can create pre-populated volumes by taking advantage of the populator.
+Multiple populators can be installed side by side for different purposes. The SIG storage
+community is already seeing some implementations in public, and more prototypes should
+appear soon.
+Cluster administrations are strongly encourag…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salt and Sacrifice's "obligation to price match" sees prices rocket in some countries]]></title>
         <id>https://www.eurogamer.net/salt-and-sacrifices-obligation-to-price-match-sees-prices-rocket-in-some-countries</id>
@@ -10430,62 +10452,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Global chip shortage has triggered a surge in demand for prized, pricey used EVs.]]></summary>
         <author>
             <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try The Elder Scrolls Online for free right now]]></title>
-        <id>https://www.eurogamer.net/try-the-elder-scrolls-online-for-free-right-now</id>
-        <link href="https://www.eurogamer.net/try-the-elder-scrolls-online-for-free-right-now"/>
-        <updated>2022-04-16T12:09:01.000Z</updated>
-        <summary type="html"><![CDATA[If you've got some downtime in the next week or so, you may be interested to know that The Elder Scrolls Online is currently running a free play trial to whet your appetite ahead of its upcoming expansion, High Isle.
-From now until 26th April, players can jump into The Elder Scrolls Online and try it for free on PC via Steam, Xbox One, Xbox Series X, PS4, PS5, and Stadia, although the small print hints that the Stadia version is available "only in limited territories" and Xbox players will need Xbox Live Gold to play.
-You'll get access to the ESO base game including four classes, 23 story zones, Battlegrounds and Alliance War PvP, "and more", plus the Morrowind DLC, Vvardenfell zone. You can even try the prologue quest for the upcoming High Isle expansion (thanks, NME).
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kojima insists Kojima Productions is "independent" after posting a PlayStation Studios banner that suggests otherwise]]></title>
-        <id>https://www.eurogamer.net/kojima-insists-kojima-productions-is-independent-after-posting-a-playstation-studios-banner-that-suggests-otherwise</id>
-        <link href="https://www.eurogamer.net/kojima-insists-kojima-productions-is-independent-after-posting-a-playstation-studios-banner-that-suggests-otherwise"/>
-        <updated>2022-04-16T11:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Hideo Kojima has shot down rumours that Kojima Productions may be acquired by PlayStation.
-
-It was Sony itself that sparked speculation after a ResetEra user noticed that the banner topping PlayStation Studios' website had been updated to include Sam Bridges from Kojima's Death Stranding game. 
-The banner also included a shot of Bluepoint's Demon's Soul remake, which was acquired by Sony last year. Despite the fervour, the banner has not been taken down, suggesting its change was neither premature nor accidental. 
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are microbes the future of recycling? It’s complicated]]></title>
-        <id>https://arstechnica.com/?p=1848392</id>
-        <link href="https://arstechnica.com/?p=1848392"/>
-        <updated>2022-04-16T11:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Questions linger as enzyme-based recycling technology is poised to go commercial.]]></summary>
-        <author>
-            <name>Undark Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft is reportedly considering adding ads to free-to-play games]]></title>
-        <id>https://www.eurogamer.net/microsoft-is-reportedly-considering-adding-ads-to-free-to-play-games</id>
-        <link href="https://www.eurogamer.net/microsoft-is-reportedly-considering-adding-ads-to-free-to-play-games"/>
-        <updated>2022-04-16T11:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is reportedly considering adding advertisements to its free-to-play games.
-
-
-That's according to Business Insider, which reports that Xbox is looking to offer advertisment revenue to "developers who make free-to-play" games.
-
-
-
-"One of the sources speculated Microsoft isn’t currently interested in collecting a cut of ad revenue because it wants to provide more money-making opportunities to developers who make free-to-play games," the publication said, as transcribed by our sister site, VGC.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
