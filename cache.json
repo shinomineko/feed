@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/05/iphone-malware-that-operates-even-when-the-phone-is-turned-off.html",
+          "author": null,
+          "description": "<p>Researchers have <a href=\"https://arstechnica.com/information-technology/2022/05/researchers-devise-iphone-malware-that-runs-even-when-device-is-turned-off/\">demonstrated</a> iPhone malware that works even when the phone is fully shut down.</p>\n<blockquote><p>t turns out that the iPhone’s Bluetooth chip­ &#8212; which is key to making features like Find My work­ &#8212; has no mechanism for digitally signing or even encrypting the firmware it runs. Academics at Germany’s Technical University of Darmstadt figured out how to exploit this lack of hardening to run malicious firmware that allows the attacker to track the phone’s location or run new features when the device is turned off.</p>\n<p>[&#8230;]</p>\n<p>The research is the first &#8212; or at least among the first &#8212; to study the risk posed by chips running in low-power mode. Not to be confused with iOS&#8217;s low-power mode for conserving battery life, the low-power mode (LPM) in this research allows chips responsible for near-field communication, ultra wideband, and Bluetooth to run in a special mode that can remain on for 24 hours after a device is turned off...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/05/iphone-malware-that-operates-even-when-the-phone-is-turned-off.html",
+          "publishedOn": "2022-05-18T11:06:16.000Z",
+          "wordCount": 544,
+          "title": "iPhone Malware that Operates Even When the Phone Is Turned Off",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/05/attacks-on-managed-service-providers-expected-to-increase.html",
           "author": null,
           "description": "<p>CISA, NSA, FBI, and similar organizations in the other Five Eyes countries are <a href=\"https://www.cisa.gov/news/2022/05/11/joint-cybersecurity-advisory-protect-msp-providers-and-customers\">warning</a> that attacks on MSPs &#8212; as a vector to their customers &#8212; are likely to increase. No details about what this prediction is based on. Makes sense, though. The SolarWinds attack was incredibly successful for the Russian SVR, and a blueprint for future attacks.</p>\n<p><a href=\"https://thehill.com/policy/cybersecurity/3484950-federal-agencies-issue-warning-to-third-party-security-firms/\">News</a> <a href=\"https://www.cyberscoop.com/five-eyes-msp-cybersecurity-hacking-nation-state/\">articles</a>.</p>",
@@ -371,6 +381,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1854530",
+          "author": "Samuel Axon",
+          "description": "Still on Intel? Here's a quick primer on your options for an M1-based laptop.",
+          "link": "https://arstechnica.com/?p=1854530",
+          "publishedOn": "2022-05-18T11:45:35.000Z",
+          "wordCount": 606,
+          "title": "MacBook buying guide: The right M1 laptop for each use case",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/14-and-16-inch-MacBook-Pros-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1854518",
           "author": "Jennifer Ouellette",
@@ -3650,46 +3670,6 @@
           "wordCount": 1142,
           "title": "Logitech’s Lift is a vertical mouse that’s easier to grasp",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/angled-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849014",
-          "author": "Beth Mole",
-          "description": "Trump-appointed judge deemed \"not qualified\" argued that the CDC lacked authority.",
-          "link": "https://arstechnica.com/?p=1849014",
-          "publishedOn": "2022-04-18T23:38:15.000Z",
-          "wordCount": 1432,
-          "title": "“Wearing a mask cleans nothing:” Florida judge vacates CDC travel mask mandate",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1361602505-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1848980",
-          "author": "Dan Goodin",
-          "description": "Apple's landmark App Tracking Transparency may not be as tough as some people think.",
-          "link": "https://arstechnica.com/?p=1848980",
-          "publishedOn": "2022-04-18T21:10:19.000Z",
-          "wordCount": 1314,
-          "title": "Your iOS app may still be covertly tracking you, despite what Apple says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/smartphone-usage-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1848949",
-          "author": "Jonathan M. Gitlin",
-          "description": "The satellite images may be a boon to open source intelligence analysts.",
-          "link": "https://arstechnica.com/?p=1848949",
-          "publishedOn": "2022-04-18T19:38:32.000Z",
-          "wordCount": 686,
-          "title": "Russia’s military is on full display in Google Maps satellite view [Updated]",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Screen-Shot-2022-04-18-at-3.22.49-PM-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1848769",
-          "author": "Ron Amadeo",
-          "description": "The app and servers are dead. The CEO scrubbed his LinkedIn page. No one is responding.",
-          "link": "https://arstechnica.com/?p=1848769",
-          "publishedOn": "2022-04-18T19:00:46.000Z",
-          "wordCount": 1118,
-          "title": "Shameful: Insteon looks dead—just like its users’ smart homes",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/insta2-760x380.jpg"
         }
       ]
     },
@@ -3854,6 +3834,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/playstation_classic_shatter_is_getting_remastered",
+          "author": "Victoria Kennedy",
+          "description": "For those who had a PlayStation 3 in 2009, Shatter was a must play. Its block-busting gameplay was married with a slamming soundtrack that made it an ideal way to pass some time while waiting for the release of Fast and Furious and other classics of that year. However, if you didn't have the chance to bop along with this sci-fi puzzler then, now is your chance. \nYes, that's right, the game is getting remastered. And, not only that, it is also coming to even more consoles than before. In \"late 2022\", you will be able to play Shatter Remastered Deluxe on Windows and Mac for PC (via Steam), Nintendo Switch, PlayStation 4, PS5, Xbox One and Xbox Series X/S. You are, quite simply, spoiled for choice. \nYou can check out the announcement trailer for Shatter Remastered Deluxe below.\n Read more",
+          "link": "https://www.eurogamer.net/playstation_classic_shatter_is_getting_remastered",
+          "publishedOn": "2022-05-18T11:59:23.000Z",
+          "wordCount": 945,
+          "title": "PlayStation classic Shatter is getting remastered, coming late 2022",
+          "imageUrl": "https://assets.reedpopcdn.com/Shatter-screenshot_Hv1RwOV.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Shatter-screenshot_Hv1RwOV.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/horror-game-the-chant-drops-ps4-xbox-one-versions-for-october-launch",
+          "author": "Tom Phillips",
+          "description": "The Chant, a horror adventure set on a spooky spiritual retreat, has announced an October release window for PC, PlayStation 5 and Xbox Series X/S - but the game's previously-announced PS4 and Xbox One versions won't be joining them.\r\n\n\r\nThe Chant is the second game in as many weeks to prioritise its current-gen console launches, following the recent cancellation of Gotham Knights for PS4 and Xbox One. \r\n\nA fresh trailer has shown off the game's story, and confirmed its lack of current-gen consoles:\n Read more",
+          "link": "https://www.eurogamer.net/horror-game-the-chant-drops-ps4-xbox-one-versions-for-october-launch",
+          "publishedOn": "2022-05-18T11:41:32.000Z",
+          "wordCount": 807,
+          "title": "Horror game The Chant drops PS4, Xbox One versions for October launch",
+          "imageUrl": "https://assets.reedpopcdn.com/The-Chant_2022_05-16-22_001.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Chant_2022_05-16-22_001.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-11-not-shutting-down-despite-rumours",
+          "author": "Victoria Kennedy",
+          "description": "Final Fantasy 11's director has spoken out and put a stop to the rumours that the MMORPG is shutting down sometime this year.\nChatting in this week's Famitsu, Yoji Fujito revealed the game will not be shut down \"anytime soon\".\n\"Due to past comments, there may be some people who are worried that the game will be shutting down in 2022,\" Fujito stated (translated by siliconera). \"But I don't think you will have to be concerned about that happening anytime soon.\" \n Read more",
+          "link": "https://www.eurogamer.net/final-fantasy-11-not-shutting-down-despite-rumours",
+          "publishedOn": "2022-05-18T11:09:00.000Z",
+          "wordCount": 861,
+          "title": "Final Fantasy 11 not shutting down, despite rumours",
+          "imageUrl": "https://assets.reedpopcdn.com/FF11_3SLNNbl.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FF11_3SLNNbl.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/stranger-of-paradise-hair-issue-finally-fixed-two-months-after-release",
+          "author": "Ed Nightingale",
+          "description": "Square Enix has finally fixed a performance issue with Stranger of Paradise: Final Fantasy Origin, two months after its release.\r\n\n\r\nAs reported back in March, hair and fur textures were tanking the frame rate when played on PC - sometimes as low as 8FPS. Modders have released fixes which make all characters bald in a bid to alleviate the issue.\r\n\r\n\n\r\nNow an update has been released for the game, in which \"models for hair and fur associated with important characters have been revised to improve performance.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/stranger-of-paradise-hair-issue-finally-fixed-two-months-after-release",
+          "publishedOn": "2022-05-18T11:05:15.000Z",
+          "wordCount": 797,
+          "title": "Stranger of Paradise hair issue finally fixed two months after release",
+          "imageUrl": "https://assets.reedpopcdn.com/stranger-of-paradise-final-fantasy-origin-1648129884368.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stranger-of-paradise-final-fantasy-origin-1648129884368.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/indie-developer-thinks-disney-likely-ripped-off-doctor-strange-fight-scene-from-their-game",
+          "author": "Tom Phillips",
+          "description": "Solo developer Stephen Ddungu believes Disney and Marvel likely copied his indie game for an eye-catching fight sequence in the recent Doctor Strange in the Multiverse of Madness.\r\n\n\r\nDdungu has been chronicling his work on music-based JRPG Sword of Symphony via Tiktok, where footage of the game's combat system has notched up millions of views (thanks, Kotaku). \r\n\n\r\nHis game allows you to conjur glowing musical notes in mid-air and send them flinging towards an enemy. If you've seen the new Doctor Strange, you'll likely recognise that description - since a short sequence in the film sees Benedict Cumberbatch doing just that. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/indie-developer-thinks-disney-likely-ripped-off-doctor-strange-fight-scene-from-their-game",
+          "publishedOn": "2022-05-18T11:05:11.000Z",
+          "wordCount": 898,
+          "title": "Indie developer thinks Disney likely ripped off Doctor Strange fight scene from their game",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_JIIeCGb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_JIIeCGb.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-mario-series-isnt-diverse-enough-according-to-activision-blizzards-new-tool",
+          "author": "Ed Nightingale",
+          "description": "Following Activision Blizzard's reveal of its Diversity Space Tool, a video of a GDC 2017 presentation has resurfaced online.\r\n\n\r\nIn the video, presenters of the tool embarrassingly apply their findings to Nintendo's series.\r\n\n\r\nApparently the game lacks diversity in ability and sexual orientation, as the characters aren't disabled and are all presumed straight. How you can tell someone's sexual orientation just by looking at them is beyond me.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-mario-series-isnt-diverse-enough-according-to-activision-blizzards-new-tool",
+          "publishedOn": "2022-05-18T10:38:30.000Z",
+          "wordCount": 892,
+          "title": "The Mario series isn't diverse enough, according to Activision Blizzard's new tool",
+          "imageUrl": "https://assets.reedpopcdn.com/luigi-death-stare.png/BROK/thumbnail/1600x900/format/jpg/quality/80/luigi-death-stare.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/saudi-arabia-buys-5-of-nintendo",
+          "author": "Tom Phillips",
+          "description": "Five percent of Nintendo is now owned by Saudi Arabia's Public Investment Fund, a scheme set up by the country's highly-controversial Prince Mohammed bin Salman.\r\n\n\r\nThe investment means the PIF is now Nintendo's fifth-largest shareholder, Bloomberg reported this morning. \r\n\n\r\nIn response, Nintendo said it learned of the stake from news reports and declined to comment further. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/saudi-arabia-buys-5-of-nintendo",
+          "publishedOn": "2022-05-18T10:11:45.000Z",
+          "wordCount": 783,
+          "title": "Saudi Arabia buys 5% of Nintendo",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/bloober-refuses-to-comment-on-silent-hill-2-rumours",
+          "author": "Ed Nightingale",
+          "description": "Bloober Team has refused to comment on rumours it's working on a Silent Hill 2 remake.\r\n\n\r\nRumours surfaced earlier this week that a remake of the PS2 horror game was in the works, alongside other projects in the series.\r\n\n\r\nHowever, speaking to IGN at Polish games conference Digital Dragons, Bloober CEO Piotr Babieno said he cannot comment, but the studio hopes to make an announcement on future projects \"as soon as we can\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bloober-refuses-to-comment-on-silent-hill-2-rumours",
+          "publishedOn": "2022-05-18T09:53:15.000Z",
+          "wordCount": 977,
+          "title": "Bloober refuses to comment on Silent Hill 2 rumours",
+          "imageUrl": "https://assets.reedpopcdn.com/Silent-Hill-2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Silent-Hill-2.png"
+        },
         {
           "id": "https://www.eurogamer.net/theres-an-n64-demake-of-portal-in-the-works",
           "author": "Matt Wales",
