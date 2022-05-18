@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T18:27:44.284Z</updated>
+    <updated>2022-05-18T00:30:38.020Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.24: Prevent unauthorised volume mode conversion]]></title>
+        <id>https://kubernetes.io/blog/2022/05/18/prevent-unauthorised-volume-mode-conversion-alpha/</id>
+        <link href="https://kubernetes.io/blog/2022/05/18/prevent-unauthorised-volume-mode-conversion-alpha/"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Raunak Pradip Shah (Mirantis)
+Kubernetes v1.24 introduces a new alpha-level feature that prevents unauthorised users
+from modifying the volume mode of a PersistentVolumeClaim created from an
+existing VolumeSnapshot in the Kubernetes cluster.
+The problem
+The Volume Mode determines whether a volume
+is formatted into a filesystem or presented as a raw block device.
+Users can leverage the VolumeSnapshot feature, which has been stable since Kubernetes v1.20,
+to create a PersistentVolumeClaim (shortened as PVC) from an existing VolumeSnapshot in
+the Kubernetes cluster. The PVC spec includes a dataSource field, which can point to an
+existing VolumeSnapshot instance.
+Visit Create a PersistentVolumeClaim from a Volume Snapshot for more details.
+When leveraging the above capability, there is…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For All Mankind sets its alternate timeline sights on Mars in S3 trailer]]></title>
+        <id>https://arstechnica.com/?p=1854518</id>
+        <link href="https://arstechnica.com/?p=1854518"/>
+        <updated>2022-05-17T23:49:35.000Z</updated>
+        <summary type="html"><![CDATA["There is a primal urge in all of us to explore."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There's a fan-made N64 demake of Portal in the works]]></title>
+        <id>https://www.eurogamer.net/theres-an-n64-demake-of-portal-in-the-works</id>
+        <link href="https://www.eurogamer.net/theres-an-n64-demake-of-portal-in-the-works"/>
+        <updated>2022-05-17T22:57:15.000Z</updated>
+        <summary type="html"><![CDATA[From Elden Ring on Game Boy to that Advance Wars/Mass Effect mash-up, demakes are all the rage these days - and now it's classic first-person puzzler Portal's turn to get the retro port treatment, courtesy of a new fan project to rebuild it for N64.
+
+
+Portal, of course, released back in 2007 as part of Valve's legendary Orange Box collection, where it immediately wrought cake memes, Companion Cubes and iconic antagonist GLaDOS upon an unsuspecting world. It also proved to be an ingenious puzzler beneath all that - tasking players with manipulating portals to navigate increasingly devious challenges - and one that still holds up wonderfully today.
+
+
+The currently in-development Portal demake, officially known as Portal 64, is the work of developer James Lambert, and is ambitiously attempting to pack the entire experience of Valve's classic - memes, portals, puzzles, and all - down onto Nintendo hardware that preceded its release by over a decade.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA obliterates formula maker’s defense of contamination linked to baby deaths]]></title>
+        <id>https://arstechnica.com/?p=1854801</id>
+        <link href="https://arstechnica.com/?p=1854801"/>
+        <updated>2022-05-17T21:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Proposed consent decree with FDA will require Abbott to take corrective actions.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bungie says "there will never be a 'muzzle' big enough to stop us from standing up for what's right"]]></title>
+        <id>https://www.eurogamer.net/bungie-says-there-will-never-be-a-muzzle-big-enough-to-stop-us-from-standing-up-for-whats-right</id>
+        <link href="https://www.eurogamer.net/bungie-says-there-will-never-be-a-muzzle-big-enough-to-stop-us-from-standing-up-for-whats-right"/>
+        <updated>2022-05-17T21:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Following recent reports that Sony is refusing to approve any statements from PlayStation studios relating to reproductive rights, Bungie - whose acquisition by Sony was announced in February - has said "there will never be a 'muzzle' big enough to stop us from standing up for what's right".
+Bungie was one of the first studios to speak out in support of Roe v Wade, a key judgement which legalised abortion across the US, following recent reports the US Supreme Court was trying to overturn the ruling. At the time, the developer called the move a "direct attack on human rights", adding that "standing up for reproductive choice and liberty is not a difficult decision to make, and Bungie remains dedicated to upholding these values".
+However, in light of reports that Sony is refusing to authorise any public statements its PlayStation studios might want to make around the issue of reproductive rights, some Bungie fans have questioned whether the developer will still be able to express its opinion so freely once its acquisition by Sony is complete.
+ Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15.5 and macOS 12.4 bring updates to Podcasts, digital payments, and more]]></title>
+        <id>https://arstechnica.com/?p=1854776</id>
+        <link href="https://arstechnica.com/?p=1854776"/>
+        <updated>2022-05-17T20:28:39.000Z</updated>
+        <summary type="html"><![CDATA[tvOS, watchOS, HomePod, Studio Display, and Swift Playgrounds also got updates.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutant Year Zero dev unveils tactical RPG Miasma Chronicles, out next year]]></title>
+        <id>https://www.eurogamer.net/mutant-year-zero-developer-unveils-new-tactical-rpg-miasma-chronicles-for-release-next-year</id>
+        <link href="https://www.eurogamer.net/mutant-year-zero-developer-unveils-new-tactical-rpg-miasma-chronicles-for-release-next-year"/>
+        <updated>2022-05-17T20:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Developer The Bearded Ladies, the studio behind 2018's acclaimed turn-based strategy adventure Mutant Year Zero: Road to Eden, has unveiled Miasma Chronicles - a new tactical RPG that's heading to PC, Xbox Series X/S, and PS5 some time next year.
+
+
+Miasma Chronicles unfolds in a United States torn apart by a force known only as the Miasma, some time in the "not-too-distant future". Here, in the mining town of Sedentary, we meet our protagonist Elvis, a young man raised by a robotic older "brother" after being left by his mother. 
+
+
+Elvis, for reasons both unknown and extremely convenient as far as gameplay goes, has access to a mysterious glove that enables him to control Miasma - a device that'll almost certainly prove useful as the brothers set out across the post-apocalyptic wasteland in search of answers that might "change the course of human history forever."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google backtracks on legacy GSuite account shutdown, won’t take user emails]]></title>
+        <id>https://arstechnica.com/?p=1854600</id>
+        <link href="https://arstechnica.com/?p=1854600"/>
+        <updated>2022-05-17T19:39:42.000Z</updated>
+        <summary type="html"><![CDATA[Click this link to stop your GSuite account from being shut down! We're serious.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US road deaths increased by more than 10% in 2021]]></title>
+        <id>https://arstechnica.com/?p=1854729</id>
+        <link href="https://arstechnica.com/?p=1854729"/>
+        <updated>2022-05-17T19:15:51.000Z</updated>
+        <summary type="html"><![CDATA[NHTSA estimates that 42,915 people were killed in motor vehicle crashes in 2021.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s something seriously wrong with Homelander in The Boys S3 trailer]]></title>
+        <id>https://arstechnica.com/?p=1854516</id>
+        <link href="https://arstechnica.com/?p=1854516"/>
+        <updated>2022-05-17T18:56:19.000Z</updated>
+        <summary type="html"><![CDATA["I may be a superhero, but I'm also just a man who fell for the wrong woman."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dead by Daylight dating sim is real]]></title>
+        <id>https://www.eurogamer.net/the-dead-by-daylight-dating-sim-is-real</id>
+        <link href="https://www.eurogamer.net/the-dead-by-daylight-dating-sim-is-real"/>
+        <updated>2022-05-17T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The rumours are true: the Dead by Daylight dating sim is real.
+
+
+Hooked on You was announced during today's sixth anniversary livestream for the game and is due out later this summer.
+
+
+The interactive visual novel will allow players to flirt and date four of the game's iconic killers - The Huntress, The Spirit, The Trapper, and The Wraith - all presented in a sexy anime style.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead by Daylight's next chapter has been revealed]]></title>
+        <id>https://www.eurogamer.net/dead-by-daylights-next-chapter-has-been-revealed</id>
+        <link href="https://www.eurogamer.net/dead-by-daylights-next-chapter-has-been-revealed"/>
+        <updated>2022-05-17T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dead by Daylight developer Behaviour Interactive has announced the next chapter for the game and hinted at future content.
+
+
+Announced during today's sixth anniversary livestream, the next chapter will be named Roots of Dread and features a new killer, survivor and map. 
+
+
+Down the line there will also be another Resident Evil chapter, Attack on Titan costumes, and a  Dead by Daylight dating sim.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bohemia Interactive teases Arma 4, launches Cold War military shooter Arma Reforger]]></title>
+        <id>https://www.eurogamer.net/bohemia-interactive-teases-arma-4-launches-cold-war-military-shooter-arma-reforger</id>
+        <link href="https://www.eurogamer.net/bohemia-interactive-teases-arma-4-launches-cold-war-military-shooter-arma-reforger"/>
+        <updated>2022-05-17T18:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Developer Bohemia Interactive has, following an extensive leak over the weekend, officially unveiled Arma Reforger, the next step in its long-running first-person military shooter series. Described as the "first milestone on the long road to Arma 4", Reforger launches into PC and Xbox Series X/S early access today.
+
+
+Bohemia opened a lengthy livestream earlier today with confirmation that the long-awaited Arma 4 is in development (its predecessor, Arma 3, celebrates its 10th birthday next year), but the remainder of the stream's focus was very much on Reforger. It's being called a new standalone "platform" for the series, consisting of several key parts; there's a new engine, a new open-world sandbox, three gameplay modes, and integrated modding tools, enabling user to create and download mods directly in-game.
+
+
+Reforger's sandbox should be immediately familiar to fans of Bohemia's previous titles, taking the form of the Everon map seen in 2001's Operation Flashpoint: Cold War Crisis, albeit thoroughly reworked and reimagined using the developer's latest tech. As that might suggest, it marks a return to the Cold War era for the series, circa 1989, with Bohemia saying its keen to capture the atmosphere of the 80s across its 51 sq km map.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s best deals: iPad Air, recommended board games, and gaming mice]]></title>
+        <id>https://arstechnica.com/?p=1854278</id>
+        <link href="https://arstechnica.com/?p=1854278"/>
+        <updated>2022-05-17T18:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has popular Switch games, USB-C chargers, and Roku soundbars.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA reveals launch dates for Artemis I through the first half of 2023]]></title>
         <id>https://arstechnica.com/?p=1854522</id>
