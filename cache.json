@@ -124,16 +124,6 @@
           "wordCount": 197,
           "title": "Assigning Numbers",
           "imageUrl": "https://imgs.xkcd.com/comics/assigning_numbers_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2609/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/entwives.png\" title=\"No, we actually do have a woman who's basically part of our fellowship. She lives in Rivendell, you wouldn't know her.\" alt=\"No, we actually do have a woman who's basically part of our fellowship. She lives in Rivendell, you wouldn't know her.\" />",
-          "link": "https://xkcd.com/2609/",
-          "publishedOn": "2022-04-20T00:00:00.000Z",
-          "wordCount": 195,
-          "title": "Entwives",
-          "imageUrl": "https://imgs.xkcd.com/comics/entwives_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/05/websites-that-collect-your-data-as-you-type.html",
+          "author": null,
+          "description": "<p>A surprising number of websites include <a href=\"https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/\">JavaScript keyloggers</a> that collect everything you type as you type it, not just when you submit a form.</p>\n<blockquote><p>Researchers from KU Leuven, Radboud University, and University of Lausanne crawled and analyzed the top 100,000 websites, looking at scenarios in which a user is visiting a site while in the European Union and visiting a site from the United States. They found that 1,844 websites gathered an EU user&#8217;s email address without their consent, and a staggering 2,950 logged a US user&#8217;s email in some form. Many of the sites seemingly do not intend to conduct the data-logging but incorporate third-party marketing and analytics services that cause the behavior...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/05/websites-that-collect-your-data-as-you-type.html",
+          "publishedOn": "2022-05-19T11:23:50.000Z",
+          "wordCount": 567,
+          "title": "Websites that Collect Your Data as You Type",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/05/iphone-malware-that-operates-even-when-the-phone-is-turned-off.html",
           "author": null,
@@ -373,16 +373,6 @@
           "wordCount": 1521,
           "title": "Clever Cryptocurrency Theft",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/04/undetectable-backdoors-in-machine-learning-models.html",
-          "author": null,
-          "description": "<p>New paper: &#8220;<a href=\"https://arxiv.org/abs/2204.06974\">Planting Undetectable Backdoors in Machine Learning Models</a>:</p>\n<blockquote><p><b>Abstract</b>: Given the computational cost and technical expertise required to train machine learning models, users may delegate the task of learning to a service provider. We show how a malicious learner can plant an undetectable backdoor into a classifier. On the surface, such a backdoored classifier behaves normally, but in reality, the learner maintains a mechanism for changing the classification of any input, with only a slight perturbation. Importantly, without the appropriate &#8220;backdoor key&#8221;, the mechanism is hidden and cannot be detected by any computationally-bounded observer. We demonstrate two frameworks for planting undetectable backdoors, with incomparable guarantees. ...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/04/undetectable-backdoors-in-machine-learning-models.html",
-          "publishedOn": "2022-04-19T20:12:34.000Z",
-          "wordCount": 1134,
-          "title": "Undetectable Backdoors in Machine-Learning Models",
-          "imageUrl": null
         }
       ]
     },
@@ -391,6 +381,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1855140",
+          "author": "Andrew Cunningham",
+          "description": "Laptop also gets structural upgrades and an optional 2.5Gbps LAN module.",
+          "link": "https://arstechnica.com/?p=1855140",
+          "publishedOn": "2022-05-19T12:00:35.000Z",
+          "wordCount": 1133,
+          "title": "Modular, DIY-friendly Framework Laptop gets updated with 12th-gen Intel CPUs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/framework-hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1854908",
+          "author": "Scharon Harding",
+          "description": "HP Spectre laptops try out Intel discrete graphics, boosted webcams, new hues.",
+          "link": "https://arstechnica.com/?p=1854908",
+          "publishedOn": "2022-05-19T12:00:12.000Z",
+          "wordCount": 1227,
+          "title": "HP’s new Spectre laptops include options with Intel Arc, less noise",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Spectre-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1855115",
           "author": "Dan Goodin",
@@ -3660,56 +3670,6 @@
           "wordCount": 1083,
           "title": "Not quite Le Mans: 24-hour race won by molecule that traveled 1 micron",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Big-TEM-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849183",
-          "author": "Ars Contributors",
-          "description": "The nascent recycling industry needs to economically deconstruct lots of formats.",
-          "link": "https://arstechnica.com/?p=1849183",
-          "publishedOn": "2022-04-19T21:40:24.000Z",
-          "wordCount": 1045,
-          "title": "Lithium costs a lot of money—so why aren’t we recycling lithium batteries?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-453995111-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849069",
-          "author": "Samuel Axon",
-          "description": "Job listings revealed some details about Amazon's XR ambitions.",
-          "link": "https://arstechnica.com/?p=1849069",
-          "publishedOn": "2022-04-19T20:43:54.000Z",
-          "wordCount": 843,
-          "title": "Amazon is hiring to build an “advanced” and “magical” AR/VR product",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/03/swordofdamocles-640x215.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849194",
-          "author": "Dan Goodin",
-          "description": "Exploiting critical UEFI vulnerabilities could allow malware to hide in firmware.",
-          "link": "https://arstechnica.com/?p=1849194",
-          "publishedOn": "2022-04-19T20:26:05.000Z",
-          "wordCount": 960,
-          "title": "Hackers can infect >100 Lenovo models with unremovable malware. Are you patched?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/lenovo-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849164",
-          "author": "Jon Brodkin",
-          "description": "HiQ can keep scraping LinkedIn member profile data as court upholds injunction.",
-          "link": "https://arstechnica.com/?p=1849164",
-          "publishedOn": "2022-04-19T19:56:28.000Z",
-          "wordCount": 1140,
-          "title": "LinkedIn can’t use anti-hacking law to block web scraping, judges rule",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-linkedin-icon-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849171",
-          "author": "Beth Mole",
-          "description": "General Mills says it hasn't found evidence for illnesses as reports pile up.",
-          "link": "https://arstechnica.com/?p=1849171",
-          "publishedOn": "2022-04-19T19:03:40.000Z",
-          "wordCount": 848,
-          "title": "Thousands report vomiting, diarrhea after eating Lucky Charms cereal",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1392183595-760x380.jpeg"
         }
       ]
     },
@@ -3884,6 +3844,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/visit-post-apocalyptic-london-with-this-fallout-4-mod",
+          "author": "Ed Nightingale",
+          "description": "Today brings a look at gameplay for Fallout: London, the upcoming Fallout 4 PC mod that lets you explore the UK's post-apocalyptic capital.\r\n\n\r\nIt's planned to be about the size of the base game's Commonwealth map, making this a hugely ambitious piece of DLC.\r\n\n\r\n\"The mod encapsulates the gritty, adventurous nature of the Fallout games with a new world, factions, storylines, NPCs, weapons, creatures, and much more! This all comes together in a package tied with a uniquely British bow,\" reads the press release.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/visit-post-apocalyptic-london-with-this-fallout-4-mod",
+          "publishedOn": "2022-05-19T11:54:46.000Z",
+          "wordCount": 788,
+          "title": "Visit post-apocalyptic London with this Fallout 4 mod",
+          "imageUrl": "https://assets.reedpopcdn.com/11_EVEwMXV.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/11_EVEwMXV.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/god-of-war-and-the-simpsons-collide-in-hilarious-new-mod",
+          "author": "Victoria Kennedy",
+          "description": "A new mod for God of War shows off something I never imagined - but now I've seen it, I can't take my eyes off it: Homer and Bart Simpson stepping into the shoes of Kratos and Atreus. \nOh, and you know The Stranger (wink wink) we all meet at the beginning of the game - well, thanks to this mod, he becomes the Hi-diddly-hoing Ned Flanders.\nThe mod comes from Omega Fantasy (via IGN) and uses the character models from 2003's The Simpson's Hit and Run. And to be honest, if all this mod did was swap out God of War's characters for those from Hit and Run, it would have still been an incredibly amusing watch. \n Read more",
+          "link": "https://www.eurogamer.net/god-of-war-and-the-simpsons-collide-in-hilarious-new-mod",
+          "publishedOn": "2022-05-19T11:53:05.000Z",
+          "wordCount": 879,
+          "title": "God of War and The Simpsons collide in hilarious new mod",
+          "imageUrl": "https://assets.reedpopcdn.com/The-Simpsons-GoW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Simpsons-GoW.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/warzone-players-find-xp-glitch-in-king-kongs-testicles",
+          "author": "Ishraq Subhan",
+          "description": "Call of Duty Warzone's big Operation Monarch event, which sees the invasion of Caldera by King Kong and Godzilla, has been huge hit - with players finding ever more inventive ways to attack the great beasts.\r\n\n\r\nBut now, players have also found a questionable method of farming XP - in King Kong's private parts. \r\n\n\r\nA clip posted on the Warzone subreddit shows a player flying a helicopter toward's King Kong's giant testicles (which is easier said than done as Kong tends to crush anyone that heads towards him). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/warzone-players-find-xp-glitch-in-king-kongs-testicles",
+          "publishedOn": "2022-05-19T11:45:48.000Z",
+          "wordCount": 778,
+          "title": "Warzone players find XP glitch in King Kong's testicles",
+          "imageUrl": "https://assets.reedpopcdn.com/warzone-kong.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/warzone-kong.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/bungie-bolstering-efforts-to-maintain-safe-and-anti-racist-community-spaces",
+          "author": "Matt Wales",
+          "description": "Bungie has responded to the recent terrorist attack in Buffalo that resulted in the deaths of ten people and the injury of three others by announcing a new charity initiative and pledging to bolster its ongoing efforts \"to maintain safe and anti-racist spaces\" within its community.\r\n\n\r\n\"On Saturday, 14th May, a young white man drove hours from his home to a Black neighborhood in Buffalo, New York, and opened fire in a crowded supermarket, killing ten people and maiming three others,\" Bungie said in a statement. \"It has since been confirmed that this was an act of terror aimed at Black Americans and is being investigated as a hate crime. Our hearts go out to the victims of this tragedy, and anyone impacted by this act of violence.\"\r\n\n\r\nThe studio, in collaboration with its Black at Bungie inclusion club, has announced a number of initiatives in response to the attack. It will, for instance, donate all profits made through the sale of its Be Heard collectable pin over the next 12 months to the Southern Poverty Law Center - a charity whose work includes \"monitoring hate groups and other extremists throughout the United States and exposing their activities to the public, the media, and law enforcement.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bungie-bolstering-efforts-to-maintain-safe-and-anti-racist-community-spaces",
+          "publishedOn": "2022-05-19T11:42:36.000Z",
+          "wordCount": 1082,
+          "title": "Bungie says it will bolster efforts \"to maintain safe and anti-racist community spaces\"",
+          "imageUrl": "https://assets.reedpopcdn.com/bungie-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bungie-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ukraine-based-frogwares-given-mega-grant-by-epic-games",
+          "author": "Tom Phillips",
+          "description": "Sherlock Holmes and Sinking City developer Frogwares, which is based in Ukraine, has been given an \"Epic MegaGrant\" by Epic Games. \r\n\n\r\nThe undisclosed sum of money will go to employees to aid in their relocation to safer areas of the country, or elsewhere in Europe, and to maintain their financial stability going forward, Frogwares announced.\r\n\n\r\nThe funding package will also allow for Frogwares to supply its team with specialised equipment and migrate its data infrastructure.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ukraine-based-frogwares-given-mega-grant-by-epic-games",
+          "publishedOn": "2022-05-19T11:27:31.000Z",
+          "wordCount": 829,
+          "title": "Ukraine-based Frogwares given \"mega grant\" by Epic Games",
+          "imageUrl": "https://assets.reedpopcdn.com/-1648034292205_uvp92qt.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648034292205_uvp92qt.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-releases-first-ps5-bundle-with-horizon-forbidden-west",
+          "author": "Ed Nightingale",
+          "description": "Sony has released its first PlayStation 5 bundle that includes Horizon Forbidden West.\r\n\n\r\nThe bundle has been spotted across UK stores - though of course it's mostly sold out.\r\n\n\r\nReleased earlier this year, Horizon Forbidden West is Sony's current premiere title for the console, though it was somewhat overshadowed by the release of Elden Ring a week later. This bundle should help to boost the game's profile.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-releases-first-ps5-bundle-with-horizon-forbidden-west",
+          "publishedOn": "2022-05-19T11:03:40.000Z",
+          "wordCount": 822,
+          "title": "Sony releases first PS5 bundle with Horizon Forbidden West",
+          "imageUrl": "https://assets.reedpopcdn.com/ps5-horizon-fw-bundle.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps5-horizon-fw-bundle.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/battlefield-2042s-128-player-breakthrough-has-been-removed",
+          "author": "Ishraq Subhan",
+          "description": "EA DICE has removed the 128-player Breakthrough offering from Battlefield 2042 in its latest patch.\r\n\n\r\nUpdate 4.1, which released today, has made substantial changes to the game's All-Out Warfare playlists, which are available on current-gen consoles and PC. \r\n\n\r\nIn a blog post, DICE explained the removal of 128-player Breakthrough lobbies was necessary to increase \"the value and impact of an individual player\", as they currently were full of \"intensity and chaos\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/battlefield-2042s-128-player-breakthrough-has-been-removed",
+          "publishedOn": "2022-05-19T11:02:59.000Z",
+          "wordCount": 954,
+          "title": "Battlefield 2042's 128-player Breakthrough has been removed",
+          "imageUrl": "https://assets.reedpopcdn.com/battlefield-2042-review-dices-magic-fps-formula-gets-spread-too-thin-1637327275319.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield-2042-review-dices-magic-fps-formula-gets-spread-too-thin-1637327275319.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-york-attorney-general-announces-twitch-discord-investigation",
+          "author": "Tom Phillips",
+          "description": "Twitch and Discord will be investigated by the New York attorney general, for the part they played in the racially-motivated mass shooting in Buffalo.\r\n\n\r\nAttorney general Letitia James announced the investigation last night, in response to the attack which killed 10 people and wounded three more. \r\n\n\r\nThe perpetrator livestreamed the attack via Twitch for two minutes before the video was removed. Before the attack took place, he had posted numerous messages discussing and promoting his plans via Discord, as well as on the notorious imageboards 4chan and 8chan. All will now be part of James' invesitigation. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-york-attorney-general-announces-twitch-discord-investigation",
+          "publishedOn": "2022-05-19T10:02:54.000Z",
+          "wordCount": 813,
+          "title": "New York attorney general announces Twitch, Discord investigation",
+          "imageUrl": "https://assets.reedpopcdn.com/03cuomo-briefing-tish-james1-videoSixteenByNine3000-v2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/03cuomo-briefing-tish-james1-videoSixteenByNine3000-v2.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/creaks-developer-unveils-hand-crafted-dystopian-adventure-phonopolis",
           "author": "Matt Wales",
@@ -8183,36 +8223,6 @@
           "wordCount": 790,
           "title": "Elden Ring's fake wall fixed in latest patch",
           "imageUrl": "https://assets.reedpopcdn.com/elden-ring-screenshot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-screenshot.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/lego-builders-journey-brings-gorgeous-diorama-puzzling-to-ps5-and-ps4-from-today",
-          "author": "Matt Wales",
-          "description": "Lego Builder's Journey, the gorgeous diorama puzzler from developer Light Brick Studio, has made the leap from iOS to console, and is now available to purchase on PS4 and PS5.\nLego Builder's Journey, which originally launched as an Apple Arcade release toward the end of 2019, is, conceptually, a fairly simple thing, tasking players with building a path across a selection of beautifully presented Lego dioramas so their little Lego pal can push onward.\nEurogamer's Christian Donlan was quite taken with Lego Builder's Journey's breezy, tactile charms at the time, and spoke highly of its \"meditative, contemplative tapping and twisting and reworking and rethinking\" in his write up.\n Read more",
-          "link": "https://www.eurogamer.net/lego-builders-journey-brings-gorgeous-diorama-puzzling-to-ps5-and-ps4-from-today",
-          "publishedOn": "2022-04-19T22:51:44.000Z",
-          "wordCount": 792,
-          "title": "Lego Builder's Journey brings gorgeous diorama puzzling to PS5 and PS4 today",
-          "imageUrl": "https://assets.reedpopcdn.com/lego-builders-journey.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-builders-journey.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/marvels-avengers-next-playable-hero-is-jane-foster-the-mighty-thor",
-          "author": "Matt Wales",
-          "description": "It's been nearly five months since the troubled Marvel's Avengers last received a new playable character - the PlayStation-exclusive Spider-Man - but there's finally good news for those wondering when the drought might end: developer Crystal Dynamics has confirmed another superhero is on the way, this time in the form of Jane Foster, the Mighty Thor.\r\n\n\r\nDetails on Foster's video game iteration are limited at this early juncture in Crystal Dynamics' reveal, but the developer has confirmed the character will have \"a lot in common\" with the version of Thor already in-game. Don't expect a carbon copy, however; \"elements that are distinctly Jane\" are also promised for her eventual arrival.\r\n\n\r\nExactly when that might be, though, is unclear. Crystal Dynamic offered no timeline for the new playable character in its recent blog post, only confirming Foster will release as part of Marvel's Avengers' 2.5 update and that more details will be shared \"in the future\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/marvels-avengers-next-playable-hero-is-jane-foster-the-mighty-thor",
-          "publishedOn": "2022-04-19T20:31:49.000Z",
-          "wordCount": 1000,
-          "title": "Marvel's Avengers' next playable hero is Jane Foster, the Mighty Thor",
-          "imageUrl": "https://assets.reedpopcdn.com/crystal-dynamics-shows-off-fresh-marvels-avengers-gameplay-in-latest-livestream-1593030787177.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crystal-dynamics-shows-off-fresh-marvels-avengers-gameplay-in-latest-livestream-1593030787177.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fight-a-fishy-old-god-in-tiny-tinas-wonderlands-first-dlc-coiled-captors",
-          "author": "Matt Wales",
-          "description": "Gearbox has detailed Coiled Captors, the first DLC expansion for Borderlands spin-off Tiny Tina's Wonderlands, which will see players attempting to liberate an old god from its icy prison when it arrives this Thursday, 21st April.\r\n\n\r\nMore specifically, Coiled Captors sends players on an adventure deep inside an icy mountain - where they'll find \"wintery wastelands, arid ruins, and flooding caverns\" - and it's here they'll be tasked with freeing an old god from within the body of a mighty shark-like seawarg, via the time-honoured Borderlands tradition of killing it to death.\r\n\n\r\nGearbox describes Coiled Captors - which can be accessed via Vesper's first Mirror of Mystery - as a \"repayable dungeon challenge\", explaining that as well as dealing with fierce resistance from the snake-like members of the Coiled, a secretive sect that worships ancient gods, players will need to tackle the four powerful forms of the DLC's captive old god, Chums.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/fight-a-fishy-old-god-in-tiny-tinas-wonderlands-first-dlc-coiled-captors",
-          "publishedOn": "2022-04-19T18:54:59.000Z",
-          "wordCount": 939,
-          "title": "Fight a fishy old god in Tiny Tina's Wonderlands' first DLC Coiled Captors",
-          "imageUrl": "https://assets.reedpopcdn.com/tiny-tina-wonderlands-coiled-captors.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tiny-tina-wonderlands-coiled-captors.jpg"
         }
       ]
     }
