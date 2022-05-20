@@ -382,6 +382,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1855325",
+          "author": "Jon Brodkin",
+          "description": "Thomas argued that social networks are like common carriers.",
+          "link": "https://arstechnica.com/?p=1855325",
+          "publishedOn": "2022-05-19T19:48:06.000Z",
+          "wordCount": 1225,
+          "title": "Texas looks to a Clarence Thomas opinion to defend its social media law",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-clarence-thomas-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1855211",
+          "author": "Jennifer Ouellette",
+          "description": "Too many siblings and not enough timeline spells trouble in this Netflix series.",
+          "link": "https://arstechnica.com/?p=1855211",
+          "publishedOn": "2022-05-19T18:52:13.000Z",
+          "wordCount": 1643,
+          "title": "A time paradox births a “freaking Kugelblitz” in Umbrella Academy S3 trailer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/academy1-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1855218",
           "author": "Sam Machkovech",
           "description": "Yes, the Warner Bros. pastiche is weird. But its co-op arena battling is refined.",
@@ -3720,26 +3740,6 @@
           "wordCount": 1153,
           "title": "Garmin’s new Vívosmart 5 meets stiff competition with an empty bag of tricks",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/vivoactive-5-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849141",
-          "author": "Jonathan M. Gitlin",
-          "description": "A theater screen and recliner transform the backseat experience.",
-          "link": "https://arstechnica.com/?p=1849141",
-          "publishedOn": "2022-04-20T12:00:39.000Z",
-          "wordCount": 1116,
-          "title": "BMW’s 2023 7 Series will come with battery-electric or V8 power",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/P90458175_The_new_BMW_i7_xDrive60._European_model_shown-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1849226",
-          "author": "Ars Contributors",
-          "description": "A gold-plated racetrack and fuel from a scanning tunneling microscope.",
-          "link": "https://arstechnica.com/?p=1849226",
-          "publishedOn": "2022-04-20T11:00:43.000Z",
-          "wordCount": 1083,
-          "title": "Not quite Le Mans: 24-hour race won by molecule that traveled 1 micron",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Big-TEM-760x380.jpg"
         }
       ]
     },
@@ -3754,6 +3754,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/05/20/kubernetes-1-24-non-graceful-node-shutdown-alpha/",
+          "author": null,
+          "description": "Authors Xing Yang and Yassine Tijani (VMware)\nKubernetes v1.24 introduces alpha support for Non-Graceful Node Shutdown. This feature allows stateful workloads to failover to a different node after the original node is shutdown or in a non-recoverable state such as hardware failure or broken OS.\nHow is this different from Graceful Node Shutdown\nYou might have heard about the Graceful Node Shutdown capability of Kubernetes,\nand are wondering how the Non-Graceful Node Shutdown feature is different from that. Graceful Node Shutdown\nallows Kubernetes to detect when a node is shutting down cleanly, and handles that situation appropriately.\nA Node Shutdown can be \"graceful\" only if the node shutdown action can be detected by the kubelet ahead\nof the actual shutdown. However, there are cases where…",
+          "link": "https://kubernetes.io/blog/2022/05/20/kubernetes-1-24-non-graceful-node-shutdown-alpha/",
+          "publishedOn": "2022-05-20T00:00:00.000Z",
+          "wordCount": 4346,
+          "title": "Blog: Kubernetes 1.24: Introducing Non-Graceful Node Shutdown Alpha",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/05/18/prevent-unauthorised-volume-mode-conversion-alpha/",
           "author": null,
@@ -3914,6 +3924,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sea-of-thieves-is-calling-all-clue-hunters-as-its-first-narrative-mystery-goes-live",
+          "author": "Matt Wales",
+          "description": "Sea of Thieves' sixth season of content might be well reaching its end point, but developer Rare still has a little something up is sleeve before Season 7 arrives, and it's now inviting clue hunters to get stuck into a new \"multi-channel narrative experience\" it's calling Mysteries.\r\n\n\r\nMysteries were originally discussed back in January, when Rare laid out its plans for Sea of Thieves in 2022. The big gambit this year, if you're unaware, is an ongoing, season-spanning narrative that will progress across monthly in-game story episodes known as Adventures.\r\n\n\r\nIt's a promising idea that so far doesn't really seem to have found its footing, with Seas of Thieves' initial set of Adventures having felt decidedly undercooked, both in terms of their challenges and narrative presentation. But with three Adventures now under its belt, Rare is ready to launch the other major component of 2022's ambitious narrative plans: Mysteries.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sea-of-thieves-is-calling-all-clue-hunters-as-its-first-narrative-mystery-goes-live",
+          "publishedOn": "2022-05-19T21:35:00.000Z",
+          "wordCount": 990,
+          "title": "Sea of Thieves is calling all clue hunters as its first narrative Mystery goes live",
+          "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-mysteries-treasure-map.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-mysteries-treasure-map.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sims-4-still-seemingly-teasing-werewolves-as-two-new-kit-dlcs-announced",
+          "author": "Matt Wales",
+          "description": "EA has announced two new small-scale Kit expansions for The Sims 4 - one themed around evening fashion, the other around camping for kids - with both due to release on 26th May. Astute readers may note the word werewolf is yet to feature, despite previous teases from EA, but there's still some hope it seems...\r\n\n\r\nThe first of EA's newly announced expansions is the Moonlight Chic Kit, which appears to primarily focus its attention on new clothing options for your little digital pals, offering up new looks, designed by Parisian creator Paola Locatelli, said to be \"perfect for all the experiences a Sim will encounter during a night out on the town\".\r\n\n\r\nExpect \"slinky dresses, flowing shirts and smart jackets, all of which can be styled with sneakers for casual fun or dressed up with some silk and sparkles for a romantic date.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sims-4-still-seemingly-teasing-werewolves-as-two-new-kit-dlcs-announced",
+          "publishedOn": "2022-05-19T18:54:39.000Z",
+          "wordCount": 1064,
+          "title": "The Sims 4 still teasing werewolves as two new Kit DLCs announced",
+          "imageUrl": "https://assets.reedpopcdn.com/the-sims-4-little-campers.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sims-4-little-campers.jpeg"
+        },
         {
           "id": "https://www.eurogamer.net/marvel-snap-is-the-all-new-card-battler-from-ex-blizzard-hearthstone-boss-ben-brode",
           "author": "Tom Phillips",
@@ -8353,96 +8383,6 @@
           "wordCount": 932,
           "title": "Destiny fans hunt for hidden clue to Bungie's next game",
           "imageUrl": "https://assets.reedpopcdn.com/petra_in_spiders_den.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/petra_in_spiders_den.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/kim-kardashian-threatened-to-sue-roblox-over-sex-tape-clickbait",
-          "author": "Victoria Kennedy",
-          "description": "Kim Kardashian has threatened to sue Roblox, after her son discovered an image of the star's crying face within the game, as part of an ad which suggested it was for \"Kim's new sex tape\".\nIn a recent episode of The Kardashians (titled \"Burn Them All to the Fucking Ground\"), Kim was shown to be upset and confused when her son, Saint West, alerted her to his find. \nWhen Saint explained the ad was in a Roblox game, Kim immediately responded, \"Oh, it's a game? Then we're suing them if it's a game with my name and picture.\" Kim then stated that the ad in question claimed to have additional unreleased footage of her 2007 sex tape in it.\n Read more",
-          "link": "https://www.eurogamer.net/kim-kardashian-threatened-to-sue-roblox-over-sex-tape-clickbait",
-          "publishedOn": "2022-04-20T11:27:14.000Z",
-          "wordCount": 1109,
-          "title": "Kim Kardashian threatened to sue Roblox over \"sex tape\" clickbait",
-          "imageUrl": "https://assets.reedpopcdn.com/kk-roblox.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kk-roblox.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/lego-star-wars-the-skywalker-saga-adds-even-more-characters-today",
-          "author": "Tom Phillips",
-          "description": "Lego Star Wars: The Skywalker Saga already has more than 375 characters to choose from, but as of today there are now 12 more. \r\n\n\r\nThe next two character packs for the game - Rogue One and the Classic Characters Pack - are now available priced £2.49/$3, or as part of the game's £12/$15 Character Collection season pass. \r\n\n\r\nIncluded in the Rogue One pack are seven characters from the so-so prequel: Jyn Erso, Bodhi Rook, Cassian Andor (soon to get his own Disney+ spin-off), K-2SO, Chirrut Îmwe, Baze Malbus and Director Krennic.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/lego-star-wars-the-skywalker-saga-adds-even-more-characters-today",
-          "publishedOn": "2022-04-20T11:11:35.000Z",
-          "wordCount": 829,
-          "title": "Lego Star Wars: The Skywalker Saga adds even more characters today",
-          "imageUrl": "https://assets.reedpopcdn.com/legosw.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/legosw.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/marty-odonnell-and-microsofts-halo-music-lawsuit-amicably-resolved",
-          "author": "Tom Phillips",
-          "description": "Halo music composer Marty O'Donnell has said his lawsuit against Microsoft over unpaid royalties has now been \"amicably resolved\". \r\n\nEurogamer revealed details of the legal action from O'Donnell and fellow composer Mike Salvatori back in February, in which the pair claim they are owed credit and compensation for Microsoft's continued use of Halo music over the past two decades. \r\n\n\r\nAn upcoming court date had been set - something this new development sounds like it will now avoid. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/marty-odonnell-and-microsofts-halo-music-lawsuit-amicably-resolved",
-          "publishedOn": "2022-04-20T10:56:54.000Z",
-          "wordCount": 941,
-          "title": "Marty O'Donnell and Microsoft's Halo music lawsuit \"amicably resolved\"",
-          "imageUrl": "https://assets.reedpopcdn.com/untitled-1_Iu1JPzq.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/untitled-1_Iu1JPzq.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-ring-legend-let-me-solo-her-immortalised-as-a-mod",
-          "author": "Ed Nightingale",
-          "description": "Let Me Solo Her, Elden Ring's most famous player, is now available as a summon in a new mod.\r\n\n\r\nLet Me Solo Her rose to fame recently helping players defeat Malenia, one of the game's trickiest bosses. \r\n\n\r\nOnline, players can summon others to assist in their own game. Let Me Solo Her regularly left a summon sign outside the Malenia boss fight to aid players struggling with the battle - a testament to goodwill in the Elden Ring community.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-ring-legend-let-me-solo-her-immortalised-as-a-mod",
-          "publishedOn": "2022-04-20T10:55:28.000Z",
-          "wordCount": 901,
-          "title": "Elden Ring legend Let Me Solo Her immortalised as a mod",
-          "imageUrl": "https://assets.reedpopcdn.com/elden-ring_-_let-me-solo-her_-spirit-summon-mod!-1-18-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring_-_let-me-solo-her_-spirit-summon-mod!-1-18-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/mass-effect-and-advance-wars-demake-mash-up-looks-adorable",
-          "author": "Ed Nightingale",
-          "description": "What if Mass Effect merged with GBA strategy title Advance Wars?\r\n\n\r\nThat's the question answered by YouTube channel 64 Bits with its latest video that blends the two games together in a beautiful demake.\r\n\n\r\nThe video reimagines BioWare's classic sci-fi epic as a top-down strategy title. Sadly it's not actually playable, but it's wonderfully crafted.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mass-effect-and-advance-wars-demake-mash-up-looks-adorable",
-          "publishedOn": "2022-04-20T10:28:58.000Z",
-          "wordCount": 806,
-          "title": "Mass Effect and Advance Wars demake mash-up looks adorable",
-          "imageUrl": "https://assets.reedpopcdn.com/64-bits---mass-effect-demake-for-gba-4-20-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/64-bits---mass-effect-demake-for-gba-4-20-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-hit-by-worker-complaint-over-right-to-unionise",
-          "author": "Tom Phillips",
-          "description": "A Nintendo of America staff member has filed an official complaint concerning alleged company interference in unionisation efforts.\r\n\n\r\nBoth Nintendo and its hiring company Aston Carter are named in the complaint, uncovered by Axios, which was filed with the US National Labor Relations Board in Washington state, where Nintendo's North American business is headquartered. \r\n\n\r\nExact details of the complaint have not been made public, though the complaint highlights several general categories in which Nintendo and Aston Carter are alleged to have been at fault. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-hit-by-worker-complaint-over-right-to-unionise",
-          "publishedOn": "2022-04-20T10:28:25.000Z",
-          "wordCount": 749,
-          "title": "Nintendo hit by worker complaint over right to unionise",
-          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/gwent-spinoff-project-golden-nekker-not-coming-to-consoles-1",
-          "author": "Victoria Kennedy",
-          "description": "CD Projekt Red's Gwent spinoff game, codenamed Project Golden Nekker, will not be coming to consoles on its release.\nChatting to IGN, Gwent Comms lead Paweł Burza stated that the game would only be launching on PC, iOS, and Android, on an unspecified date later this year.\nThis is something game director Vladimir Tortsov reiterated during a This Week in Gwent stream, which is hosted by Burza.\n Read more",
-          "link": "https://www.eurogamer.net/gwent-spinoff-project-golden-nekker-not-coming-to-consoles-1",
-          "publishedOn": "2022-04-20T10:26:36.000Z",
-          "wordCount": 816,
-          "title": "Gwent spinoff Project Golden Nekker not coming to consoles",
-          "imageUrl": "https://assets.reedpopcdn.com/projectgoldennekker.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/projectgoldennekker.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/you-no-longer-need-a-playstation-5-to-update-a-dualsense-controller",
-          "author": "Victoria Kennedy",
-          "description": "PC gamers, this one is for you! If you prefer to use Sony's DualSense controller during your PC sessions, but a lack of PS5 console is holding you back from purchasing one, we have great news - you now no longer need to own a PlayStation 5 to update a DualSense controller. Huzzah!\n\"PC players can now update their DualSense wireless controller with the latest firmware from Windows 11 and select Windows 10 devices, without connecting to a PS5,\" Sony announced today. \nIn order to do this, you will need to download the Firmware updater for DualSense wireless controller app (catchy name) to your Windows PC. When this app is loaded, all you will then need to do to get all the latest updates on your controller is use a USB cable to connect said controller to your PC, and then just follow the on-screen instructions and you're away.\n Read more",
-          "link": "https://www.eurogamer.net/you-no-longer-need-a-playstation-5-to-update-a-dualsense-controller",
-          "publishedOn": "2022-04-20T09:57:52.000Z",
-          "wordCount": 960,
-          "title": "You no longer need a PlayStation 5 to update a DualSense controller",
-          "imageUrl": "https://assets.reedpopcdn.com/sony-ds.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sony-ds.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-rings-fake-wall-fixed-in-latest-patch",
-          "author": "Ed Nightingale",
-          "description": "Remember that fake wall that required 50 hits to disappear? The latest Elden Ring patch has now removed it.\r\n\n\r\nAs we previously reported, a wall in Volcano Manor was discovered that seemed to be a secret illusory wall, though it ultimately led nowhere particularly interesting.\r\n\r\n\n\r\nIt seems, though, that this was just a glitch after all. Souls YouTuber Zullie the Witch tested the wall after the new patch and found it no longer breaks.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-rings-fake-wall-fixed-in-latest-patch",
-          "publishedOn": "2022-04-20T09:53:05.000Z",
-          "wordCount": 790,
-          "title": "Elden Ring's fake wall fixed in latest patch",
-          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-screenshot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-screenshot.jpg"
         }
       ]
     }
