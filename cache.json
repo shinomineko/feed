@@ -3385,6 +3385,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/05/23/service-ip-dynamic-and-static-allocation/",
+          "author": null,
+          "description": "Author: Antonio Ojea (Red Hat)\nIn Kubernetes, Services are an abstract way to expose\nan application running on a set of Pods. Services\ncan have a cluster-scoped virtual IP address (using a Service of type: ClusterIP).\nClients can connect using that virtual IP address, and Kubernetes then load-balances traffic to that\nService across the different backing Pods.\nHow Service ClusterIPs are allocated?\nA Service ClusterIP can be assigned:\ndynamically\nthe cluster's control plane automatically picks a free IP address from within the configured IP range for type: ClusterIP Services.\nstatically\nyou specify an IP address of your choice, from within the configured IP range for Services.\n\nAcross your whole cluster, every Service ClusterIP must be unique.\nTrying to create a Service with a specific Clust…",
+          "link": "https://kubernetes.io/blog/2022/05/23/service-ip-dynamic-and-static-allocation/",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 3906,
+          "title": "Blog: Kubernetes 1.24: Avoid Collisions Assigning IP Addresses to Services",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/05/20/kubernetes-1-24-non-graceful-node-shutdown-alpha/",
           "author": null,
           "description": "Authors Xing Yang and Yassine Tijani (VMware)\nKubernetes v1.24 introduces alpha support for Non-Graceful Node Shutdown. This feature allows stateful workloads to failover to a different node after the original node is shutdown or in a non-recoverable state such as hardware failure or broken OS.\nHow is this different from Graceful Node Shutdown\nYou might have heard about the Graceful Node Shutdown capability of Kubernetes,\nand are wondering how the Non-Graceful Node Shutdown feature is different from that. Graceful Node Shutdown\nallows Kubernetes to detect when a node is shutting down cleanly, and handles that situation appropriately.\nA Node Shutdown can be \"graceful\" only if the node shutdown action can be detected by the kubelet ahead\nof the actual shutdown. However, there are cases where…",
@@ -7753,46 +7763,6 @@
           "wordCount": 1087,
           "title": "Ubisoft confirms that its upcoming PvP battle arena game \"Project Q\" is real",
           "imageUrl": "https://assets.reedpopcdn.com/projq.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/projq.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/eve-online-to-increase-monthly-subscriptions-because-of-global-trends",
-          "author": "Vikki Blake",
-          "description": "Eve Online subscriptions are going up, including the one-month charge, which is being increased for the first time since 2004.\nIn a blog post justifying the changes (thanks, PCGN), CCP says the uplift \"reflects global trends impacting general productions costs and accounts for years of inflation\" and have been introduced in order to \"continue investing in Eve Online’s evolution and growth\".\r\n\n\"Since Eve Online’s original launch back in 2003, together EVE’s developers and community have led the charge in evolving what sandbox MMOs can be,\" the post explains.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/eve-online-to-increase-monthly-subscriptions-because-of-global-trends",
-          "publishedOn": "2022-04-23T16:32:36.000Z",
-          "wordCount": 1006,
-          "title": "Eve Online to increase monthly subscriptions because of \"global trends\"",
-          "imageUrl": "https://assets.reedpopcdn.com/download_EOJ3pxK.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/download_EOJ3pxK.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/infinity-ward-goes-dark-ahead-of-a-rumoured-modern-warfare-2-announcement",
-          "author": "Vikki Blake",
-          "description": "An update to Call of Duty developer Infinity Ward's Twitter page has fans speculating that the team may be ready to announced a new Modern Warfare game.\r\n\nOn Friday, Infinity Ward switched out both its Twitter banner and profile icon which - at first blush, anyway - seemed to be solid black logos with no image or text. \r\n\nBrightened up, however, and eagle-eyed players think they've spotted fan-favourite character Ghost lurking in the background, sparking whispers that an announcement is imminent.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/infinity-ward-goes-dark-ahead-of-a-rumoured-modern-warfare-2-announcement",
-          "publishedOn": "2022-04-23T16:08:59.000Z",
-          "wordCount": 981,
-          "title": "Infinity Ward goes dark ahead of a rumoured Modern Warfare 2 announcement",
-          "imageUrl": "https://assets.reedpopcdn.com/-1631628690241.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1631628690241.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/god-of-war-ragnarok-is-still-on-track-for-2022-release",
-          "author": "Vikki Blake",
-          "description": "A member of  Santa Monica Studios' development team has confirmed that yes, God of War Ragnarok is still releasing later this year.\r\n\nConfirmation came via animation director Bruno Velazquez after a fan pressed for an update on Twitter.\r\n\nWhen asked to \"reassure us\" that the sequel \"will come this year 100 per cent\", Velazquez responded with a simple: \"Ragnarok is coming this year\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/god-of-war-ragnarok-is-still-on-track-for-2022-release",
-          "publishedOn": "2022-04-23T15:35:40.000Z",
-          "wordCount": 1017,
-          "title": "God of War Ragnarok is still on track for 2022 release",
-          "imageUrl": "https://assets.reedpopcdn.com/god-of-war-ragnarok-shares-first-gameplay-in-chilly-new-trailer-1631225612821.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-ragnarok-shares-first-gameplay-in-chilly-new-trailer-1631225612821.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/cd-projekt-is-considering-rolling-out-menstrual-leave-following-gogs-new-initiative",
-          "author": "Vikki Blake",
-          "description": "Following GOG's example, CD Projekt is reportedly considering introducing paid menstrual leave for its employees.\nIn recognition of the impact period pain has on some staff, at the time of the announcement GOG said the \"experimental\" leave \"breaks taboos\" and is \"yet another step towards making GOG an even more inclusive workplace\", but it won’t stop its \"continuous efforts to learn, reflect and improve on how we can do better for all of our team members\".\r\n\nGiven the initiative was announced at the start of April not everyone was convinced of the sincerity of the announcement, but Axios confirms the scheme was introduced following the personal experiences from inside GOG's own team.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/cd-projekt-is-considering-rolling-out-menstrual-leave-following-gogs-new-initiative",
-          "publishedOn": "2022-04-23T12:53:36.000Z",
-          "wordCount": 980,
-          "title": "CD Projekt is considering rolling out menstrual leave following GOG's new initiative",
-          "imageUrl": "https://assets.reedpopcdn.com/gog-didnt-tell-devs-about-its-new-refund-policy-and-many-are-worried-it-could-be-abused-1582906787551.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gog-didnt-tell-devs-about-its-new-refund-policy-and-many-are-worried-it-could-be-abused-1582906787551.jpg"
         }
       ]
     }

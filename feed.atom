@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T00:31:06.674Z</updated>
+    <updated>2022-05-23T06:28:10.578Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.24: Avoid Collisions Assigning IP Addresses to Services]]></title>
+        <id>https://kubernetes.io/blog/2022/05/23/service-ip-dynamic-and-static-allocation/</id>
+        <link href="https://kubernetes.io/blog/2022/05/23/service-ip-dynamic-and-static-allocation/"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Antonio Ojea (Red Hat)
+In Kubernetes, Services are an abstract way to expose
+an application running on a set of Pods. Services
+can have a cluster-scoped virtual IP address (using a Service of type: ClusterIP).
+Clients can connect using that virtual IP address, and Kubernetes then load-balances traffic to that
+Service across the different backing Pods.
+How Service ClusterIPs are allocated?
+A Service ClusterIP can be assigned:
+dynamically
+the cluster's control plane automatically picks a free IP address from within the configured IP range for type: ClusterIP Services.
+statically
+you specify an IP address of your choice, from within the configured IP range for Services.
+
+Across your whole cluster, every Service ClusterIP must be unique.
+Trying to create a Service with a specific Clust…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gloomhaven is finally coming to consoles]]></title>
         <id>https://www.eurogamer.net/gloomhaven-is-finally-coming-to-consoles</id>
@@ -10655,68 +10679,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dealmaster also has 1TB microSD cards, Roombas, and Apple's MacBook Pro.]]></summary>
         <author>
             <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eve Online to increase monthly subscriptions because of "global trends"]]></title>
-        <id>https://www.eurogamer.net/eve-online-to-increase-monthly-subscriptions-because-of-global-trends</id>
-        <link href="https://www.eurogamer.net/eve-online-to-increase-monthly-subscriptions-because-of-global-trends"/>
-        <updated>2022-04-23T16:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Eve Online subscriptions are going up, including the one-month charge, which is being increased for the first time since 2004.
-In a blog post justifying the changes (thanks, PCGN), CCP says the uplift "reflects global trends impacting general productions costs and accounts for years of inflation" and have been introduced in order to "continue investing in Eve Online’s evolution and growth".
-
-"Since Eve Online’s original launch back in 2003, together EVE’s developers and community have led the charge in evolving what sandbox MMOs can be," the post explains.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinity Ward goes dark ahead of a rumoured Modern Warfare 2 announcement]]></title>
-        <id>https://www.eurogamer.net/infinity-ward-goes-dark-ahead-of-a-rumoured-modern-warfare-2-announcement</id>
-        <link href="https://www.eurogamer.net/infinity-ward-goes-dark-ahead-of-a-rumoured-modern-warfare-2-announcement"/>
-        <updated>2022-04-23T16:08:59.000Z</updated>
-        <summary type="html"><![CDATA[An update to Call of Duty developer Infinity Ward's Twitter page has fans speculating that the team may be ready to announced a new Modern Warfare game.
-
-On Friday, Infinity Ward switched out both its Twitter banner and profile icon which - at first blush, anyway - seemed to be solid black logos with no image or text. 
-
-Brightened up, however, and eagle-eyed players think they've spotted fan-favourite character Ghost lurking in the background, sparking whispers that an announcement is imminent.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[God of War Ragnarok is still on track for 2022 release]]></title>
-        <id>https://www.eurogamer.net/god-of-war-ragnarok-is-still-on-track-for-2022-release</id>
-        <link href="https://www.eurogamer.net/god-of-war-ragnarok-is-still-on-track-for-2022-release"/>
-        <updated>2022-04-23T15:35:40.000Z</updated>
-        <summary type="html"><![CDATA[A member of  Santa Monica Studios' development team has confirmed that yes, God of War Ragnarok is still releasing later this year.
-
-Confirmation came via animation director Bruno Velazquez after a fan pressed for an update on Twitter.
-
-When asked to "reassure us" that the sequel "will come this year 100 per cent", Velazquez responded with a simple: "Ragnarok is coming this year".
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt is considering rolling out menstrual leave following GOG's new initiative]]></title>
-        <id>https://www.eurogamer.net/cd-projekt-is-considering-rolling-out-menstrual-leave-following-gogs-new-initiative</id>
-        <link href="https://www.eurogamer.net/cd-projekt-is-considering-rolling-out-menstrual-leave-following-gogs-new-initiative"/>
-        <updated>2022-04-23T12:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Following GOG's example, CD Projekt is reportedly considering introducing paid menstrual leave for its employees.
-In recognition of the impact period pain has on some staff, at the time of the announcement GOG said the "experimental" leave "breaks taboos" and is "yet another step towards making GOG an even more inclusive workplace", but it won’t stop its "continuous efforts to learn, reflect and improve on how we can do better for all of our team members".
-
-Given the initiative was announced at the start of April not everyone was convinced of the sincerity of the announcement, but Axios confirms the scheme was introduced following the personal experiences from inside GOG's own team.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
