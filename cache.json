@@ -3560,36 +3560,6 @@
           "wordCount": 1211,
           "title": "New Dell workstation laptops fit 128GB of DDR5 RAM on a single module",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/listing-3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850419",
-          "author": "Beth Mole",
-          "description": "An adenovirus remains the top suspect, but that still has experts puzzled.",
-          "link": "https://arstechnica.com/?p=1850419",
-          "publishedOn": "2022-04-25T22:44:15.000Z",
-          "wordCount": 1138,
-          "title": "Mysterious outbreak of hepatitis in children grows, first death reported",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-151062565-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850301",
-          "author": "Samuel Axon",
-          "description": "An effort to clean up search results has indie devs feeling dejected.",
-          "link": "https://arstechnica.com/?p=1850301",
-          "publishedOn": "2022-04-25T21:11:21.000Z",
-          "wordCount": 1062,
-          "title": "Apple will delist App Store apps that haven’t been updated recently",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/app-store-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850359",
-          "author": "Jon Brodkin",
-          "description": "Twitter sale to Musk needs shareholder approval, is expected to close in 2022.",
-          "link": "https://arstechnica.com/?p=1850359",
-          "publishedOn": "2022-04-25T19:02:28.000Z",
-          "wordCount": 965,
-          "title": "It’s happening: Elon Musk strikes deal to buy Twitter for $44 billion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-musk-760x380.jpg"
         }
       ]
     },
@@ -3604,6 +3574,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/05/25/contextual-logging/",
+          "author": null,
+          "description": "Authors: Patrick Ohly (Intel)\nThe Structured Logging Working\nGroup\nhas added new capabilities to the logging infrastructure in Kubernetes\n1.24. This blog post explains how developers can take advantage of those to\nmake log output more useful and how they can get involved with improving Kubernetes.\nStructured logging\nThe goal of structured\nlogging\nis to replace C-style formatting and the resulting opaque log strings with log\nentries that have a well-defined syntax for storing message and parameters\nseparately, for example as a JSON struct.\nWhen using the traditional klog text output format for structured log calls,\nstrings were originally printed with \\n escape sequences, except when\nembedded inside a struct. For structs, log entries could still span multiple\nlines, with no clean way to spl…",
+          "link": "https://kubernetes.io/blog/2022/05/25/contextual-logging/",
+          "publishedOn": "2022-05-25T00:00:00.000Z",
+          "wordCount": 4757,
+          "title": "Blog: Contextual Logging in Kubernetes 1.24",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/05/23/service-ip-dynamic-and-static-allocation/",
           "author": null,
@@ -3785,6 +3765,106 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/streets-of-rage-4-available-now-for-android-and-ios",
+          "author": "Victoria Kennedy",
+          "description": "Get your fists (and I suppose more importantly, your fingers) ready, as Streets of Rage 4 is now available on mobile. \nAs you'd expect from the Streets of Rage series, the game promises plenty of chaos, with 17 iconic characters and new fighting mechanics included.\nIts release on Android and iOS is marked by this brand-new trailer. It's laced with nostalgia, with the perfect synthwave backing track to get your blood pumping. You can check it out for yourself below.\n Read more",
+          "link": "https://www.eurogamer.net/streets-of-rage-4-available-now-for-android-and-ios",
+          "publishedOn": "2022-05-25T12:25:44.000Z",
+          "wordCount": 841,
+          "title": "Streets of Rage 4 available now for Android and iOS",
+          "imageUrl": "https://assets.reedpopcdn.com/image-(398).png/BROK/thumbnail/1600x900/format/jpg/quality/80/image-(398).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/spec-ops-the-line-developer-confirms-june-launch-for-the-cycle-frontier",
+          "author": "Tom Phillips",
+          "description": "The Cycle: Frontier, the next game from Spec Ops: The Line developer Yager, will launch on 8th June for PC via Steam and the Epic Games Store. \r\n\n\r\nWe've covered The Cycle: Frontier in the past as it went through a period of beta testing - when more than 900,000 people gave it a go, we've now learned.\n In short, it's a free-to-play first-person PvPvE extraction shooter set on an alien planet were a radioactive storm has wiped out most of the population. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/spec-ops-the-line-developer-confirms-june-launch-for-the-cycle-frontier",
+          "publishedOn": "2022-05-25T12:00:00.000Z",
+          "wordCount": 820,
+          "title": "Spec Ops: The Line developer confirms June launch for The Cycle: Frontier",
+          "imageUrl": "https://assets.reedpopcdn.com/TheCycleFrontier_Releaseannounce_screenshot_01.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/TheCycleFrontier_Releaseannounce_screenshot_01.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dream-daddy-devs-next-game-is-an-80s-psychological-horror",
+          "author": "Ed Nightingale",
+          "description": "Dream Daddy developer Game Grumps has a new psychological horror game in the works called Homebody.\r\n\n\r\nInspired by classic slasher films of the 1980s, it's a narrative-driven game that sees you escaping a house by solving puzzles, making dialogue decisions, and avoiding the killer.\r\n\n\r\nThat's an impossible feat at first, but repeated attempts at escape will put all the pieces together. And judging by the trailer below, its low-fi graphics only add to the horrifying atmosphere.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dream-daddy-devs-next-game-is-an-80s-psychological-horror",
+          "publishedOn": "2022-05-25T11:41:18.000Z",
+          "wordCount": 831,
+          "title": "Dream Daddy dev's next game is an 80s psychological horror",
+          "imageUrl": "https://assets.reedpopcdn.com/killer-1-1080.png/BROK/thumbnail/1600x900/format/jpg/quality/80/killer-1-1080.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/starfield-has-been-reimagined-by-a-fan-in-unreal-engine-5-and-its-out-of-this-world",
+          "author": "Victoria Kennedy",
+          "description": "Following the news of Starfield's delay into 2023, a team of creators have shared their vision for the game in Unreal Engine 5.\n\"We're so excited for Starfield we couldn't help but imagine this upcoming game in Unreal,\" the team shared on their YouTube channel (Enfant Terrible).\nThe footage may only be short, but it is absolutely gorgeous and packed with swelling music and sprawling, otherworldly, vistas. Enfant Terrible created this trailer (of sorts) by using \"footage from different Unreal Engine 5 reels and projects\" to imagine how Bethesda's \"Space Opera\" could look on its release.\n Read more",
+          "link": "https://www.eurogamer.net/starfield-has-been-reimagined-by-a-fan-in-unreal-engine-5-and-its-out-of-this-world",
+          "publishedOn": "2022-05-25T11:33:44.000Z",
+          "wordCount": 855,
+          "title": "Starfield has been reimagined by a fan in Unreal Engine 5, and it's out of this world",
+          "imageUrl": "https://assets.reedpopcdn.com/starfield-launches-november-2022-1623604098987.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starfield-launches-november-2022-1623604098987.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/twitch-could-soon-add-clips-of-bad-behaviour-to-streamer-bans",
+          "author": "Ed Nightingale",
+          "description": "Twitch could soon be changing its policy on offering specific reasons when a streamer is banned.\r\n\n\r\nCurrently, if a streamer is suspended or banned, they receive a notification that explains which rule has been broken but without further detail.\r\n\n\r\nThat leaves some streamers unaware of what behaviour broke the rules, or they can feign ignorance.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-could-soon-add-clips-of-bad-behaviour-to-streamer-bans",
+          "publishedOn": "2022-05-25T11:14:50.000Z",
+          "wordCount": 964,
+          "title": "Twitch could soon add clips of bad behaviour to streamer bans",
+          "imageUrl": "https://assets.reedpopcdn.com/twitch-blog-header-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-blog-header-(1).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/marvel-mmorpg-from-dc-universe-online-developer-daybreak-games-cancelled",
+          "author": "Victoria Kennedy",
+          "description": "Enad Global 7 (EG7) has announced the cancellation of Daybreak Games' Marvel MMORPG.\n\"Based on the re-evaluation of the development risk profile, size of investment, and the long-term product portfolio strategy for the group, the board has decided to change the development priorities and reallocate resources within the group to focus on alternative long-term projects,\" the company stated today. \nEG7 went on to reveal it had originally planned to invest more than SEK 500m (£40m) in this project over the coming few years.\n Read more",
+          "link": "https://www.eurogamer.net/marvel-mmorpg-from-dc-universe-online-developer-daybreak-games-cancelled",
+          "publishedOn": "2022-05-25T10:43:46.000Z",
+          "wordCount": 802,
+          "title": "Marvel MMORPG from DC Universe Online developer Daybreak Games cancelled",
+          "imageUrl": "https://assets.reedpopcdn.com/avengers_82Z8c29.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/avengers_82Z8c29.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/activision-blizzard-employees-form-anti-discrimination-committee-for-worker-rights",
+          "author": "Tom Phillips",
+          "description": "A new staff group within Activision Blizzard has been formed to fight for worker rights. \r\n\n\r\nThe Worker Committee Against Sex and Gender Discrimination has been founded by 12 current and former staff members, including high-profile ABetterABK member Jessica Gonzalez, and has presented a list of demands to embattled boss Bobby Kotick, The Washington Post reported.\r\n\n\r\nIssues raised include improvements to private breastfeeding areas, an end to undocumented meetings with HR, improved support for transgender employees, two weeks extra paid time off for parental leave (up to 12 weeks), and the need for independent investigations into allegations of discrimination.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-blizzard-employees-form-anti-discrimination-committee-for-worker-rights",
+          "publishedOn": "2022-05-25T10:37:05.000Z",
+          "wordCount": 1032,
+          "title": "Activision Blizzard employees form anti-discrimination committee for worker rights",
+          "imageUrl": "https://assets.reedpopcdn.com/activision-blizzard-suspends-new-sales-of-and-in-it-games-in-russia-1646504335638.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-blizzard-suspends-new-sales-of-and-in-it-games-in-russia-1646504335638.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dino-crisis-image-spotted-on-ps-plus-in-asia",
+          "author": "Ed Nightingale",
+          "description": "PS Plus subscribers in Asia have spotted artwork for PS1 classic Dino Crisis, suggesting it could be added to the service soon.\r\n\n\r\nCurrently, the game is not included in the catalogue, which - judging by its Asian launch this week - has fewer games than expected.\r\n\r\n\n\r\nHowever, users in Asia have spotted artwork of the lead character from Dino Crisis used as the cover for classic games, suggesting it could be added soon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dino-crisis-image-spotted-on-ps-plus-in-asia",
+          "publishedOn": "2022-05-25T10:12:55.000Z",
+          "wordCount": 820,
+          "title": "Dino Crisis image spotted on PS Plus in Asia",
+          "imageUrl": "https://assets.reedpopcdn.com/dino-crisis_KGeiWFR.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dino-crisis_KGeiWFR.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-playstation-plus-demos-are-different-lengths-depending-on-game",
+          "author": "Victoria Kennedy",
+          "description": "With Sony's new look PlayStation subscription service now in full swing in Asia, we are getting more and more snippets of information about what it actually offers. This includes a closer look at some of the game trials that are available through the service. However, this feature is not going to take a one size (or length) fits all approach. \nAs noticed by PSVortex, games such as Horizon: Forbidden West and Cyberpunk 2077 will have trials lasting five hours, which seems a fairly generous offering.\nMeanwhile, other titles such as the recently released Uncharted: Legacy of Thieves collection and WWE 2K22, only offer trials for two hours.\n Read more",
+          "link": "https://www.eurogamer.net/new-playstation-plus-demos-are-different-lengths-depending-on-game",
+          "publishedOn": "2022-05-25T09:57:16.000Z",
+          "wordCount": 930,
+          "title": "New PlayStation Plus demos are different lengths depending on game",
+          "imageUrl": "https://assets.reedpopcdn.com/uncharted-the-lost-legacy-screenshot-77.png/BROK/thumbnail/1600x900/format/jpg/quality/80/uncharted-the-lost-legacy-screenshot-77.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/real-life-polish-witcher-school-closes-amid-political-concerns-as-licence-is-pulled-by-cd-projekt-red",
+          "author": "Robert Purchese",
+          "description": "The Witcher School live-action role-play events in Poland, one of which I attended in 2016, have come to an end because of a contractual termination by CD Projekt Red over use of The Witcher name. The exact reasons why are potentially political but also unclear.\n5 Żywiołów (5 Elements), the company behind the events, alleges that CD Projekt Red pulled the licence because of a staff member's involvement with the ultra-conservative Polish Catholic organisation Ordo Iuris, which is anti-abortion, anti-LGBTQ+, and rejects the idea of gender equality.\nThe staff member in question, Ania Wawrzyniak, is the wife of 5 Żywiołów founder Dastin Wawrzyniak. And according to a Facebook post co-signed by brothers Dastin and Dominic Wawrzyniak, Ania worked as a lawyer for the company for around two years (between 2017 and 2019, they later specified).\n Read more",
+          "link": "https://www.eurogamer.net/real-life-polish-witcher-school-closes-amid-political-concerns-as-licence-is-pulled-by-cd-projekt-red",
+          "publishedOn": "2022-05-25T08:27:52.000Z",
+          "wordCount": 1108,
+          "title": "Real-life Polish Witcher School closes amid political concerns as licence is pulled by CD Projekt Red",
+          "imageUrl": "https://assets.reedpopcdn.com/witcher_school_bertie.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher_school_bertie.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/pokemon-like-mmo-temtem-will-leave-early-access-this-september",
           "author": "Matt Wales",
@@ -8094,36 +8174,6 @@
           "wordCount": 855,
           "title": "Super Mario Bros. film delayed to 2023",
           "imageUrl": "https://assets.reedpopcdn.com/chris-pratt-to-play-mario-in-super-mario-movie-1632443583011_L8oeILa.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/chris-pratt-to-play-mario-in-super-mario-movie-1632443583011_L8oeILa.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-5-finally-getting-variable-refresh-rate-support-this-week",
-          "author": "Matt Wales",
-          "description": "Sony has confirmed it'll finally start rolling out Variable Refresh Rate support to PlayStation 5 in the new few days, with patches to implement the feature across a variety of games - included Spider-Man and Resident Evil Village - set to follow \"in the coming weeks\".\r\n\n\r\nVRR dynamically syncs the refresh rate of HDMI 2.1 VRR-compatible TVs and PC monitors to the PlayStation 5's graphical output, helping, as Sony puts it in its announcement post, to minimise or eliminate visual artifacts, including frame pacing issues and screen tearing.\r\n\n\r\n\"Gameplay in many PS5 titles feels smoother as scenes render seamlessly, graphics look crisper, and input lag is reduced,\" it adds.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-5-finally-getting-variable-refresh-rate-support-this-week",
-          "publishedOn": "2022-04-25T21:50:12.000Z",
-          "wordCount": 843,
-          "title": "PlayStation 5 finally getting Variable Refresh Rate support this week",
-          "imageUrl": "https://assets.reedpopcdn.com/ratchet_eEGgFov.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ratchet_eEGgFov.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/theres-a-live-20th-anniversary-ace-attorney-concert-streaming-in-may",
-          "author": "Matt Wales",
-          "description": "Capcom's Ace Attorney series has some very good music (especially the one that goes dur-doo-dur-doo-dur-doo-dur-doo-dur-durr from the first Phoenix Wright game) and the publisher is celebrating that fact once again this year with a new live orchestral concert, being streamed across the internet in May.\nFollowing on from last year's similarly styled event, Capcom is poised to hold another Ace Attorney orchestra concert on 7th May at the Bunkamura Orchard Hall in Shibuya, Tokyo, this time in honour of the series' 20th anniversary.\nIf your interest is piqued, the official website has now revealed the full, series-spanning set list for the 20th anniversary concert (which you'll find below) and you can get a solid idea of what's in store by watching this 7-minute snippet from the 2021 show.\n Read more",
-          "link": "https://www.eurogamer.net/theres-a-live-20th-anniversary-ace-attorney-concert-streaming-in-may",
-          "publishedOn": "2022-04-25T21:19:15.000Z",
-          "wordCount": 1050,
-          "title": "There's a live 20th anniversary Ace Attorney concert streaming in May",
-          "imageUrl": "https://assets.reedpopcdn.com/phoenix-wright-objection.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/phoenix-wright-objection.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/telltales-the-walking-dead-started-life-as-a-left-4-dead-spin-off",
-          "author": "Matt Wales",
-          "description": "This weekend marked the tenth anniversary of Telltale Games' celebrated The Walking Dead series, and to mark the occasion, publisher Skybound Games has released a new mini-documentary bringing with it various behind-the-scenes treats, including early prototype footage, and even the revelation that Telltales' genre-defining adventure was at one point planned to be a Left 4 Dead spin-off.\r\n\n\r\nTelltale Games' The Walking Dead first released on 24th April 2012, and, over the course of Season 1's five critically acclaimed episodes, would establish not only the template for pretty much every one of the studio's releases from that point onward - blending real-time events and persistent choices - but a host of other narrative-driven adventures too, most notably the work of Life is Strange developer Dontnod.\r\n\n\r\nHowever, as revealed by The Walking Dead's season design and direction lead Jake Rodkin in the newly released mini-documentary, Telltale could have ended up with a very different zombie experience if it's original plans had come to pass, given the project started life as a pitch to do a narrative side-story within Valve's Left 4 Dead universe.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/telltales-the-walking-dead-started-life-as-a-left-4-dead-spin-off",
-          "publishedOn": "2022-04-25T18:54:03.000Z",
-          "wordCount": 945,
-          "title": "Telltale's The Walking Dead started life as a Left 4 Dead spin-off",
-          "imageUrl": "https://assets.reedpopcdn.com/the-walking-dead_9GGQhwW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-walking-dead_9GGQhwW.jpg"
         }
       ]
     }
