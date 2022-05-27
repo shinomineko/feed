@@ -3700,56 +3700,6 @@
           "wordCount": 1114,
           "title": "So long, Bethesda Launcher: Here’s how to move its games to a Steam account",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/bethesda-launcher-listing-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850797",
-          "author": "Andrew Cunningham",
-          "description": "Windows, Surface, Office, Xbox, and LinkedIn all earned more money than in 2021.",
-          "link": "https://arstechnica.com/?p=1850797",
-          "publishedOn": "2022-04-27T18:10:08.000Z",
-          "wordCount": 755,
-          "title": "Businesses are adopting Windows 11 more quickly than past versions, says Microsoft",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/microsoft-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850731",
-          "author": "Ron Amadeo",
-          "description": "It's probably only a few million units, but that's a big deal for Google hardware.",
-          "link": "https://arstechnica.com/?p=1850731",
-          "publishedOn": "2022-04-27T17:26:20.000Z",
-          "wordCount": 781,
-          "title": "Google calls the Pixel 6 “the fastest-selling Pixel ever”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/Pixel-6-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850383",
-          "author": "Jennifer Ouellette",
-          "description": "But they're still a long way from solemnly reciting Hamlet.",
-          "link": "https://arstechnica.com/?p=1850383",
-          "publishedOn": "2022-04-27T17:17:34.000Z",
-          "wordCount": 1125,
-          "title": "Staring death in the face: Chimpanzees are drawn to skulls of their own species",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/chimp1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850745",
-          "author": "Jonathan M. Gitlin",
-          "description": "For 2023, expect six sprint races and mandatory helmet cameras for all drivers.",
-          "link": "https://arstechnica.com/?p=1850745",
-          "publishedOn": "2022-04-27T16:45:24.000Z",
-          "wordCount": 902,
-          "title": "F1 cars in 2026 will have less drag and no MGU-H, FIA says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1393394767-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850582",
-          "author": "Sam Machkovech",
-          "description": "The original game held a wealth of surprises. Its meta-obsessed follow-up has even more.",
-          "link": "https://arstechnica.com/?p=1850582",
-          "publishedOn": "2022-04-27T16:00:00.000Z",
-          "wordCount": 1082,
-          "title": "Review: Stanley Parable: Ultra Deluxe is a mandatory game for comedy fans",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/stanley_parable_ud_04-760x380.jpg"
         }
       ]
     },
@@ -3764,6 +3714,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/05/27/maxunavailable-for-statefulset/",
+          "author": null,
+          "description": "Author: Mayank Kumar (Salesforce)\nKubernetes StatefulSets, since their introduction in\n1.5 and becoming stable in 1.9, have been widely used to run stateful applications. They provide stable pod identity, persistent\nper pod storage and ordered graceful deployment, scaling and rolling updates. You can think of StatefulSet as the atomic building\nblock for running complex stateful applications. As the use of Kubernetes has grown, so has the number of scenarios requiring\nStatefulSets. Many of these scenarios, require faster rolling updates than the currently supported one-pod-at-a-time updates, in the\ncase where you're using the OrderedReady Pod management policy for a StatefulSet.\nHere are some examples:\nI am using a StatefulSet to orchestrate a multi-instance, cache based application where t…",
+          "link": "https://kubernetes.io/blog/2022/05/27/maxunavailable-for-statefulset/",
+          "publishedOn": "2022-05-27T00:00:00.000Z",
+          "wordCount": 4500,
+          "title": "Blog: Kubernetes 1.24: Maximum Unavailable Replicas for StatefulSet",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/05/25/contextual-logging/",
           "author": null,
@@ -3930,16 +3890,6 @@
           "wordCount": 1713,
           "title": "How to Win in Cloud",
           "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2022/05/81143071_m.jpg"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=12509",
-          "author": "Corey Quinn",
-          "description": "Compared to many of its large tech company peers, Amazon has historically struggled with its relationship to Open Source. Google has Kubernetes, Chrome, the Go programming language, and a mountain more. Microsoft has gone from the bad old days of being generally obnoxious, to being the de facto stewards of everyone else's open source code by way of GitHub, as well as putting out Visual Studio Code, the TypeScript programming language, and a mountain more.\nThe post AWS’s Open Source Problem appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/awss-open-source-problem/",
-          "publishedOn": "2022-04-27T14:30:00.000Z",
-          "wordCount": 1407,
-          "title": "AWS’s Open Source Problem",
-          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2022/04/75635941_m.jpg"
         }
       ]
     },
@@ -8394,86 +8344,6 @@
           "wordCount": 947,
           "title": "This War of Mine: Final Cut heading to PlayStation 5 and Xbox Series X/S in May",
           "imageUrl": "https://assets.reedpopcdn.com/this-war-of-mine-final-cut.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/this-war-of-mine-final-cut.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-dutys-anti-cheat-system-is-now-preventing-cheaters-from-seeing-opponents-in-game",
-          "author": "Matt Wales",
-          "description": "As part of its ongoing war against cheaters, the team behind Call of Duty's server-side and kernel-level anti-cheat solution has announced it's implemented a new mitigation technique, known as Cloaking, that will prevent cheaters from seeing opponents during a match.\r\n\n\r\nAs explained in new blog post highlighting the latest developments for Call of Duty's Ricochet anti-cheat solution, Cloaking follows a similar philosophy to its previous Damage Shield initiative in that it's designed to \"give legitimate players a leg up on cheaters.\"\r\n\n\r\nWhile Damage Shield effectively turned on God Mode for all legitimate players when a cheater was detected in a match, Cloaking aims its focus squarely at the cheater, making it impossible for them to see opponents, bullets, and even sounds. \"Legitimate players, however,\" the post explains, \"can see cheaters impacted by cloaking (generally, they’ll be the players you see spinning in circles hollering, 'Who is shooting me?!') and can dole out in-game punishment.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-dutys-anti-cheat-system-is-now-preventing-cheaters-from-seeing-opponents-in-game",
-          "publishedOn": "2022-04-27T16:06:28.000Z",
-          "wordCount": 981,
-          "title": "Call of Duty's anti-cheat system is now preventing cheaters from seeing opponents in-game",
-          "imageUrl": "https://assets.reedpopcdn.com/call-of-duty-vanguard_kiHKiN8.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call-of-duty-vanguard_kiHKiN8.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/devil-may-cry-5-sales-pass-5m-worldwide",
-          "author": "Victoria Kennedy",
-          "description": "Capcom has announced that Devil May Cry 5 sales have now passed 5m.\n\"Cumulative worldwide sales of 'DMC5' have exceeded 5m units,\" the developer tweeted today (translated via Mp1st). \"Thank you for your support.\"\nIn light of this news, industry veteran Benji-Sales shared a comparison of how this stacks up to other games in the series. As it stands currently, the next best-selling entry is Devil May Cry 4, which has sold 4.8m units. \n Read more",
-          "link": "https://www.eurogamer.net/devil-may-cry-5-sales-pass-5m-worldwide",
-          "publishedOn": "2022-04-27T15:49:17.000Z",
-          "wordCount": 887,
-          "title": "Devil May Cry 5 sales pass 5m worldwide",
-          "imageUrl": "https://assets.reedpopcdn.com/dmc5_Zc06F2E.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dmc5_Zc06F2E.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-plus-and-now-owners-get-plus-premium-for-the-longer-of-their-two-subscriptions",
-          "author": "Tom Phillips",
-          "description": "PlayStation owners who have subscriptions to both PS Plus and PS Now will be upgraded to the fanciest PS Plus Premium tier for the longer of their two subscriptions, Sony has detailed. \r\n\n\r\nThis means anyone still with an active Now subscription who has also stacked a PS Plus sub for months (or even years) to come will get converted to Premium for as long as their existing Plus sub is set last.\r\n\n\r\nThe difficulty in taking advantage of this now is that Sony has stopped selling Now subscriptions - presumably to deter people who were previously not Now subscribers but who are after a bargain.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-plus-and-now-owners-get-plus-premium-for-the-longer-of-their-two-subscriptions",
-          "publishedOn": "2022-04-27T15:47:19.000Z",
-          "wordCount": 900,
-          "title": "PlayStation Plus and Now owners get Plus Premium for the longer of their two subscriptions",
-          "imageUrl": "https://assets.reedpopcdn.com/playstation-plus-logo.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation-plus-logo.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/twitch-may-reduce-the-revenue-split-for-its-partnered-streamers-according-to-reports",
-          "author": "Ed Nightingale",
-          "description": "Twitch is reportedly looking to make changes to its partner programme, which would include paying top streamers less with an adjusted revenue split.\r\n\n\r\nAt present the revenue split for partners is 50/50 for a tier one subscription, 60/40 at tier two, and 70/30 at tier three, in favour of the streamer. Some top Twitch partners have privately negotiated an alternative revenue split.\r\n\n\r\nHowever, according to a new report from Bloomberg, this revenue split may be pared down to a 50 percent cut across the board.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/twitch-may-reduce-the-revenue-split-for-its-partnered-streamers-according-to-reports",
-          "publishedOn": "2022-04-27T15:16:30.000Z",
-          "wordCount": 995,
-          "title": "Twitch may reduce the revenue split for its partnered streamers, according to reports",
-          "imageUrl": "https://assets.reedpopcdn.com/turkish-police-detain-40-suspects-in-twitch-money-laundering-scam-1641378909672.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/turkish-police-detain-40-suspects-in-twitch-money-laundering-scam-1641378909672.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dead-by-daylight-reveals-first-openly-lgbt-character-in-new-archive-story-content",
-          "author": "Ed Nightingale",
-          "description": "Dead by Daylight has revealed its first openly LGBT+ character.\r\n\n\r\nDevotion will be the 11th Tome added to the narrative Archive mode that will explore the background of existing survivor David King, as well as the memories of killers The Twins.\r\n\n\r\nDavid is a fan-favourite survivor, described by developer Behaviour as a \"hot-tempered ruffian with a penchant for a good scrap\". Many fans read the character as gay; now this new story content will make that a reality as his past struggles with identity are revealed.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dead-by-daylight-reveals-first-openly-lgbt-character-in-new-archive-story-content",
-          "publishedOn": "2022-04-27T15:00:00.000Z",
-          "wordCount": 1438,
-          "title": "Dead By Daylight reveals first openly LGBT+ character in new Archive story content",
-          "imageUrl": "https://assets.reedpopcdn.com/dbd_devotion_key-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dbd_devotion_key-art.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-sad-lore-hidden-within-elden-rings-song-of-the-bats",
-          "author": "Victoria Kennedy",
-          "description": "Those who have been exploring the Lands Between in Elden Ring over the last couple of months will have likely come across the game's singing bat enemies. These enemies have humanoid facial features and will attack when approached. However, these mysterious creatures are often heard before they are seen, as (as their name suggests) they sing a rather haunting song known as the Song of Lament.\nThis song is sung in Latin, adding to the mysterious aura that surrounds these bats. However, one player has recently discovered a translation of the bats' song and revealed its unsettling translation.\nTwitter user Chinchillazilla (via Screen Rant) wrote, \"just learned that the singing bats in Elden Ring are singing in Latin and their song is a huge bummer\". The user then went on leave a copy of the translated song for others to mull over.\n Read more",
-          "link": "https://www.eurogamer.net/the-sad-lore-hidden-within-elden-rings-song-of-the-bats",
-          "publishedOn": "2022-04-27T14:49:27.000Z",
-          "wordCount": 862,
-          "title": "The sad lore hidden within Elden Ring's song of the bats",
-          "imageUrl": "https://assets.reedpopcdn.com/er-bat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/er-bat.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-2-fan-uses-mods-to-try-and-change-the-games-story",
-          "author": "Victoria Kennedy",
-          "description": "One intrepid The Last of Us Part 2 player has gone above and beyond to answer the questions that, let’s be honest, we all still have even two years after its release. \nSpoiler warning: The Last of Us Part 2 plot and ending details follow.\nQuestions like, can you save Joel from death? Can you kill Abby in Santa Barbara? What happens if Abby jumps out of the car before being ambushed by the Scars? Basically, can you manipulate The Last of Us Part 2 to get a happier or different ending? These are things I need to know. \n Read more",
-          "link": "https://www.eurogamer.net/the-last-of-us-2-fan-uses-mods-to-try-and-change-the-games-story",
-          "publishedOn": "2022-04-27T13:25:20.000Z",
-          "wordCount": 972,
-          "title": "The Last of Us 2 fan uses mods to try and change the game's story",
-          "imageUrl": "https://assets.reedpopcdn.com/tlou2-ellie-space.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tlou2-ellie-space.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-creator-calls-out-square-enix-for-price-of-116k-ff6-statue",
-          "author": "Ed Nightingale",
-          "description": "Final Fantasy creator Hironobu Sakaguchi has called out Square Enix for the price of a new statue that costs just shy of $11.6k (1.48m yen).\r\n\n\r\nThe previously announced 1/6 scale figurine was revealed last weekend and is available globally as part of its Masterline series. It features Final Fantasy 6 character Terra riding Magitek armour.\r\n\n\r\nSakaguchi responded on Twitter saying \"Isn't this a bit much? Are you okay Square Enix?\", according to several translations shared by Kotaku.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-creator-calls-out-square-enix-for-price-of-116k-ff6-statue",
-          "publishedOn": "2022-04-27T13:16:37.000Z",
-          "wordCount": 883,
-          "title": "Final Fantasy creator calls out Square Enix for price of $11.6k FF6 statue",
-          "imageUrl": "https://assets.reedpopcdn.com/square-enix-masterline-final-fantasy-%E2%85%B5-1_6-scale_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BCvol.2-2-55-screenshot-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/square-enix-masterline-final-fantasy-%E2%85%B5-1_6-scale_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BCvol.2-2-55-screenshot-(1).png"
         }
       ]
     }
