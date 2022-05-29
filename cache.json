@@ -373,16 +373,6 @@
           "wordCount": 804,
           "title": "Friday Squid Blogging: Ten-Foot Long Squid Washed onto  Japanese Shore — ALIVE",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/04/video-conferencing-apps-sometimes-ignore-the-mute-button.html",
-          "author": null,
-          "description": "<p>New research: &#8220;<a href=\"https://wiscprivacy.com/publication/vca_mute/\">Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In the post-pandemic era, video conferencing apps (VCAs) have converted previously private spaces &#8212; bedrooms, living rooms, and kitchens &#8212; into semi-public extensions of the office. And for the most part, users have accepted these apps in their personal space, without much thought about the permission models that govern the use of their personal data during meetings. While access to a device’s video camera is carefully controlled, little has been done to ensure the same level of privacy for accessing the microphone. In this work, we ask the question: what happens to the microphone data when a user clicks the mute button in a VCA? We first conduct a user study to analyze users&#8217; understanding of the permission model of the mute button. Then, using runtime binary analysis tools, we trace raw audio in many popular VCAs as it traverses the app from the audio driver to the network. We find fragmented policies for dealing with microphone data among VCAs &#8212; some continuously monitor the microphone input during mute, and others do so periodically. One app transmits statistics of the audio to its telemetry servers while the app is muted. Using network traffic that we intercept en route to the telemetry server, we implement a proof-of-concept background activity classifier and demonstrate the feasibility of inferring the ongoing background activity during a meeting &#8212; cooking, cleaning, typing, etc. We achieved 81.9% macro accuracy on identifying six common background activities using intercepted outgoing telemetry packets when a user is muted...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/04/video-conferencing-apps-sometimes-ignore-the-mute-button.html",
-          "publishedOn": "2022-04-29T14:18:35.000Z",
-          "wordCount": 1054,
-          "title": "Video Conferencing Apps Sometimes Ignore the Mute Button",
-          "imageUrl": null
         }
       ]
     },
@@ -3550,86 +3540,6 @@
           "wordCount": 1412,
           "title": "Bandcamp says it can’t afford Google Play billing, Epic files injunction [Updated]",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/epic-piggy-bank-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851333",
-          "author": "Jon Brodkin",
-          "description": "Lawsuits allege USPS purchase of inefficient vehicles violates environmental law.",
-          "link": "https://arstechnica.com/?p=1851333",
-          "publishedOn": "2022-04-29T18:01:07.000Z",
-          "wordCount": 874,
-          "title": "USPS sued by states and environmental groups over purchase of 8.6 mpg trucks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/usps-new-mail-truck-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851305",
-          "author": "Kyle Orland",
-          "description": "The unique, logic-heavy combo of crosswords and kenken tickles my brain just right.",
-          "link": "https://arstechnica.com/?p=1851305",
-          "publishedOn": "2022-04-29T17:40:53.000Z",
-          "wordCount": 929,
-          "title": "So long Wordle—Knotwords is my new daily word-game obsession",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/20220429100940_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851303",
-          "author": "Jennifer Ouellette",
-          "description": "It's a visually stunning tribute to iconic opening credits of The Original Series.",
-          "link": "https://arstechnica.com/?p=1851303",
-          "publishedOn": "2022-04-29T17:12:52.000Z",
-          "wordCount": 806,
-          "title": "Opening credits for Star Trek: Strange New Worlds is giving us all the feels",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/credits1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851289",
-          "author": "Andrew Cunningham",
-          "description": "Native Apple Silicon support promises lower power use, faster startup times.",
-          "link": "https://arstechnica.com/?p=1851289",
-          "publishedOn": "2022-04-29T16:42:22.000Z",
-          "wordCount": 717,
-          "title": "GeForce Now adds Apple Silicon support, making it sort of possible to game on a Mac",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GeForce_NOW_Ecosystem-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850992",
-          "author": "K.E.D. Coan",
-          "description": "It will likely take more than pledges to make the chip industry sustainable.",
-          "link": "https://arstechnica.com/?p=1850992",
-          "publishedOn": "2022-04-29T16:19:36.000Z",
-          "wordCount": 1212,
-          "title": "Can semiconductor makers meet surging demands sustainably?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-10161933-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850911",
-          "author": "Jennifer Ouellette",
-          "description": "The technique is also useful for analyzing historic paintings and detecting skin cancer.",
-          "link": "https://arstechnica.com/?p=1850911",
-          "publishedOn": "2022-04-29T15:44:02.000Z",
-          "wordCount": 977,
-          "title": "Terahertz imaging reveals hidden inscription on 16th-century funerary cross",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/cross3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851265",
-          "author": "Jonathan M. Gitlin",
-          "description": "The coal millionaire says EVs are in short supply, so they don't need subsidies.",
-          "link": "https://arstechnica.com/?p=1851265",
-          "publishedOn": "2022-04-29T13:57:34.000Z",
-          "wordCount": 862,
-          "title": "Joe Manchin calls EV tax credits “ludicrous” in Senate hearing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1238863768-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1850762",
-          "author": "Eric Berger",
-          "description": "“For those that know rockets, this is a ridiculously hard thing.\"",
-          "link": "https://arstechnica.com/?p=1850762",
-          "publishedOn": "2022-04-29T13:28:33.000Z",
-          "wordCount": 1054,
-          "title": "After flying 150th Falcon 9, SpaceX continues to make efficiency gains",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/chart-1-760x380.jpg"
         }
       ]
     },
@@ -8134,76 +8044,6 @@
           "wordCount": 914,
           "title": "Sifu breaks down its upcoming difficulty settings in new preview trailer",
           "imageUrl": "https://assets.reedpopcdn.com/absolver-studios-martial-arts-adventure-sifu-gets-february-2022-release-date-1629929319955.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/absolver-studios-martial-arts-adventure-sifu-gets-february-2022-release-date-1629929319955.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/viva-pinata-party-animals-and-yokus-island-express-lead-mays-xbox-games-with-gold",
-          "author": "Matt Wales",
-          "description": "As we teeter on the cusp of a brand-new month, Microsoft has whipped out its announcement horn to regale Xbox Live Gold subscribers with news of May's Xbox Games With Gold, which this month include Yoku’s Island Express and Viva Piñata Party Animals.\r\n\n\r\nYoku’s Island Express, which will be available to download from 1st-31st May is a strange but successful blend of platforming and pinball that Eurogamer's Christian Donlan liked a lot when it released back in 2018, calling it a \"wild-spirited adventure to cherish.\"\r\n\n\r\nNext up, and available to download from 16th May to 15th June, is The Inner World: The Last Wind Monk. This one, developed by Studio Fizbin (responsible for last year's striking Minute of Islands), is a follow-up to acclaimed 2013 point-and-click adventure The Inner World, and once again follows young, flute-nosed adventurer Robert on a quest to save the world. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/viva-pinata-party-animals-and-yokus-island-express-lead-mays-xbox-games-with-gold",
-          "publishedOn": "2022-04-29T17:25:04.000Z",
-          "wordCount": 912,
-          "title": "Viva Piñata Party Animals and Yoku’s Island Express lead May's Xbox Games With Gold",
-          "imageUrl": "https://assets.reedpopcdn.com/viva-pinata-party-animals.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/viva-pinata-party-animals.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/monster-hunter-rise-promising-exciting-reveals-at-next-sunbreak-showcase-in-may",
-          "author": "Matt Wales",
-          "description": "Capcom's been taking the slow and steady approach to revealing more on Monster Hunter Rise's Sunbreak expansion since its initial unveiling last year, but now, with its 30th June release approaching, the news is coming faster, and the publisher is promising \"exciting reveals\" and more for its next digital event on Tuesday, 10th May.\r\n\n\r\nPrecisely what will feature remains a mystery, but, alongside those aforementioned \"exciting reveals\", Capcom is also promising new gameplay, a look at some new monsters, and other currently unspecified treats. If your interest is suitably piqued, proceedings kick off at 3pm in the UK/7am PDT on 10th May via Twitch, and Monster Hunter Rise: Sunbreak’s director, Yoshitake Suzuki, will be on presenting duties.\r\n\n\r\nCapcom’s previous Sunbreak digital event was a biggie, giving us a release date, a look at some new monsters, as well as an introduction to the expansion’s new hub area - the bustling port town of Elgado Outpost - and its new map, The Citadel. The latter promises to deliver a diverse range of biomes, including lush forests, icy mountains, and foggy swampland, with a huge ruined castle as its centrepiece - and we got an extended tour in a subsequent video.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/monster-hunter-rise-promising-exciting-reveals-at-next-sunbreak-showcase-in-may",
-          "publishedOn": "2022-04-29T15:59:41.000Z",
-          "wordCount": 985,
-          "title": "Monster Hunter Rise promising \"exciting reveals\" at next Sunbreak stream in May",
-          "imageUrl": "https://assets.reedpopcdn.com/monster-hunter-rise-sunbreak_yFPWUHb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/monster-hunter-rise-sunbreak_yFPWUHb.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-confirms-it-has-blocked-ability-to-extend-active-playstation-plus-subscriptions-until-premium-launches",
-          "author": "Tom Phillips",
-          "description": "Sony has confirmed it has removed the ability for existing PlayStation Plus subscribers to extend their subscription - blocking the ability for anyone to stack future membership via pre-paid cards - until the revamped service arrives in late June.\r\n\n\r\nThis week, PlayStation Plus subscribers found they were unable to redeem pre-paid voucher cards and extend their subscription time - even if it was about to run out. Bewildered customers were told the situation was \"temporary\", but not given further explanation.\r\n\n\r\nNow, Sony has updated its FAQ page for its upcoming PlayStation Plus changes and ackwnowledged the move - and said that, for now, you'll only be able to redeem pre-paid vouchers you have bought after your current Plus membership expires.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-confirms-it-has-blocked-ability-to-extend-active-playstation-plus-subscriptions-until-premium-launches",
-          "publishedOn": "2022-04-29T14:15:56.000Z",
-          "wordCount": 1224,
-          "title": "Sony confirms ability to extend active PlayStation Plus subscriptions blocked until Premium launch in June",
-          "imageUrl": "https://assets.reedpopcdn.com/playstation-plus-logo.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation-plus-logo.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/stardew-valley-modders-compete-over-grandpas-bed",
-          "author": "Ed Nightingale",
-          "description": "Stardew Valley players are competing in a meme to mod grandpa's bed.\r\n\n\r\nIf you're unfamiliar with the farming sim, the game opens with you inheriting land from your grandpa who has sadly passed away - shown in a brief scene at the start.\r\n\n\r\nHowever, modders are now altering the scene to show grandpa in a variety of new... situations.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/stardew-valley-modders-compete-over-grandpas-bed",
-          "publishedOn": "2022-04-29T14:14:44.000Z",
-          "wordCount": 774,
-          "title": "Stardew Valley modders compete over grandpa's bed",
-          "imageUrl": "https://assets.reedpopcdn.com/stardew-grandpa-pingpong.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/stardew-grandpa-pingpong.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/upcoming-indies-stray-and-cult-of-the-lamb-get-new-release-windows",
-          "author": "Victoria Kennedy",
-          "description": "New release windows have been revealed for several upcoming indie games, including Stray and Cult of the Lamb.\nIn a tweet from PlayStation, that also comes with a colourful teaser, the company revealed that Stray will be coming to consoles this summer. Previously we had been given an \"early 2022\" window but, given that we are now into Q2 and not been told a more concrete date, this new timeframe isn't exactly a surprise. \nAlong with Stray, We are OFK will also be releasing this summer. Meanwhile Cult of the Lamb, which was previously only slated for a release \"later this year\" will be coming our way this autumn.\n Read more",
-          "link": "https://www.eurogamer.net/upcoming-indies-stray-and-cult-of-the-lamb-get-new-release-windows",
-          "publishedOn": "2022-04-29T14:13:32.000Z",
-          "wordCount": 912,
-          "title": "Upcoming indies Stray and Cult of the Lamb get new release windows",
-          "imageUrl": "https://assets.reedpopcdn.com/stray_XlfRQmc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stray_XlfRQmc.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/skull-bones-test-footage-appears-online",
-          "author": "Ed Nightingale",
-          "description": "UPDATE 4pm UK: Ubisoft has acknowledged today leak of Skull and Bones test footage, and told fans to keep an eye on the horizon for official news. \nA short clip of footage from the game was posted by Ubisoft to Twitter this afternoon, hours after the leaked footage begain circulating. More on all that below.\nORIGINAL STORY 2.30pm UK:\r\nFootage of Ubisoft's unreleased pirate game Skull & Bones has leaked.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/skull-bones-test-footage-appears-online",
-          "publishedOn": "2022-04-29T13:26:42.000Z",
-          "wordCount": 948,
-          "title": "Skull & Bones test footage appears online",
-          "imageUrl": "https://assets.reedpopcdn.com/skull-and-bones.png/BROK/thumbnail/1600x900/format/jpg/quality/80/skull-and-bones.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/former-blizzard-versailles-employees-win-appeal-over-redundancies",
-          "author": "Victoria Kennedy",
-          "description": "After employees from Blizzard Versailles were made redundant in 2020, a move that preceded the studio's closure, those affected began a legal battle with the company. Now, staff that were made redundant have won their appeal.\nAs reported by French outlet Gamekult (via Gamesindustry.biz), an appeal court has invalidated the redundancies that led to the closure of the branch in 2020. As such, those looking to seek further legal actions will now potentially be entitled to \"further compensations, equivalent to a minimum of six months of salary\".\nBut while this is certainly still a victory in itself, it does not mean former Blizzard Versailles employees will find their positions reinstated in a different studio. \n Read more",
-          "link": "https://www.eurogamer.net/former-blizzard-versailles-employees-win-appeal-over-redundancies",
-          "publishedOn": "2022-04-29T12:55:39.000Z",
-          "wordCount": 880,
-          "title": "Former Blizzard Versailles employees win appeal over redundancies",
-          "imageUrl": "https://assets.reedpopcdn.com/blizzard_I4CSyWz.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blizzard_I4CSyWz.jpg"
         }
       ]
     }
