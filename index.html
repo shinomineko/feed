@@ -11,66 +11,43 @@
     <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
     <style>
-    :root {
-      /**
-       * Solarized Light
-       * Ethan Schoonover (modified by aramisgithub)
-       */
-      --base00: #fdf6e3;
-      --base01: #eee8d5;
-      --base02: #93a1a1;
-      --base03: #839496;
-      --base04: #657b83;
-      --base05: #586e75;
-      --base06: #073642;
-      --base07: #002b36;
-      --base08: #dc322f;
-      --base09: #cb4b16;
-      --base0A: #b58900;
-      --base0B: #859900;
-      --base0C: #2aa198;
-      --base0D: #268bd2;
-      --base0E: #6c71c4;
-      --base0F: #d33682;
-  
-      /**
-      * Typograph
-      */
-      --font-size-m: 1.6rem;
-      --font-size-s: 1.4rem;
-  
-      /**
-      * Components
-      */
-      --body-color: var(--base07);
-      --body-bg: var(--base01);
-  
-      --source-name-color: var(--base0D);
-      --source-name-hover-color: var(--base0D);
-  
-      --article-title-color: var(--base05);
-      --article-title-hover-color: var(--base0E);
-      --article-summary-hover-color: var(--base0D);
-  
-      --accordion-content-rail-color: var(--base01);
-      --accordion-content-hover-rail-color: var(--base0D);
-      --accordion-title-marker-color: var(--base01);
-      --accordion-title-hover-marker-color: var(--base0E);
-  
-      --card-bg: var(--base00);
-      --card-shadow: none;
-      --card-radius: 0;
-      --footer-link-hover-color: var(--base0D);
-    }
-  
-    .daily-heading {
-      padding-left: 0;
-    }
-  
-    .card {
-      border: 1px solid var(--base02);
-    }
-  </style>
+  :root {
+    /**
+     * Solarized Dark
+     * Ethan Schoonover (modified by aramisgithub)
+     */
+    --base00: #002b36;
+    --base01: #073642;
+    --base02: #586e75;
+    --base03: #657b83;
+    --base04: #839496;
+    --base05: #93a1a1;
+    --base06: #eee8d5;
+    --base07: #fdf6e3;
+    --base08: #dc322f;
+    --base09: #cb4b16;
+    --base0A: #b58900;
+    --base0B: #859900;
+    --base0C: #2aa198;
+    --base0D: #268bd2;
+    --base0E: #6c71c4;
+    --base0F: #d33682;
+
+    /**
+    * Components
+    */
+    --source-name-color: var(--base0C);
+  }
+
+  .daily-heading {
+    padding-left: 0;
+  }
+
+  .card {
+    border: 1px solid var(--base02);
+  }
+</style>
+
   </head>
 
   <body>
@@ -20823,149 +20800,10 @@ Read more</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-30 datetime="2022-04-30T15:55:45.000Z">2022-04-30</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-30 datetime="2022-04-30T15:55:45.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Eurogamer.net News Feed</button>
-                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/valve-confirms-blocked-steam-deck-installations-are-just-a-technical-issue"
-                        open
-                      >
-                        <summary class="article-expander__title">Valve confirms &quot;blocked&quot; Steam Deck installations are just a &quot;technical issue&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/valve-confirms-blocked-steam-deck-installations-are-just-a-technical-issue">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/steamdecknext-gensite.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steamdecknext-gensite.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>If you caught the rumour earlier this week that developers could prevent their games being downloaded on Steam Deck, worry not; turns out it was just an error.
-A tweet showed purported evidence that the recently-released Demon Gaze Extra had been specifically configured to prevent downloads to Steam Deck, which understandably worried early adopters of Valve&#x27;s new handheld system.
-
-Turns out it&#x27;s just a big misunderstanding, something Valve now suggests was &quot;accidental&quot;. It&#x27;s also promised to &quot;fix the issue&quot; with any other games that similarly prohibit Steam Deck installations.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/warzone-season-3-leads-to-virgin-medias-biggest-gaming-traffic-spike-on-record"
-                        open
-                      >
-                        <summary class="article-expander__title">Warzone Season 3 leads to Virgin Media&#x27;s &quot;biggest gaming traffic spike on record&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/warzone-season-3-leads-to-virgin-medias-biggest-gaming-traffic-spike-on-record">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/call_of_duty_vanguard_warzone_season_3-(28).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call_of_duty_vanguard_warzone_season_3-(28).jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Players rushing to get into Call of Duty Warzone Season 3 have seemingly contributed to Virgin Media O2&#x27;s &quot;biggest gaming traffic spike on record&quot;.
-
-Call of Duty Warzone Season 3 released at 5pm on Wednesday 27th April - albeit a day earlier for Vanguard players - and the rush of players downloading and jumping into the new season has purportedly resulted in internet provider Virgin Media&#x27;s busiest day of the year thus far - and its second-busiest since records began.
-
-According to our sister site VGC, the average Virgin Media customer downloaded 12.1GB of data between 4pm and midnight on 27th April - that&#x27;s up 29 per cent on the preceding week - whilst the busiest period of 8-10pm saw an uptick in data consumption, 11.9 per cent higher than usual and 23.8 per cent higher than the week before.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/it-looks-like-fifa-22-and-battlefield-2042-are-on-their-way-to-xbox-game-pass"
-                        open
-                      >
-                        <summary class="article-expander__title">It looks like FIFA 22 and Battlefield 2042 are on their way to Xbox Game Pass</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/it-looks-like-fifa-22-and-battlefield-2042-are-on-their-way-to-xbox-game-pass">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/copy_of_fifa22_revealscreens_g5_stamfordbridge_1920x1080_25102260ed97e4b67347.48426028.png/BROK/thumbnail/1600x900/format/jpg/quality/80/copy_of_fifa22_revealscreens_g5_stamfordbridge_1920x1080_25102260ed97e4b67347.48426028.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>An update on the Microsoft store intimates that Battlefield 2042 and FIFA 22 may be on the way to Xbox Game Pass.
-
-Whilst not formally confirmed by Microsoft nor Electronic Arts - so treat this as a rumour for now - both games now sport the Game Pass logo (thanks, XGP, via NME) on the former&#x27;s online store, suggesting they may get their debut on Microsoft&#x27;s subscription service next month. 
-
-As FIFA 22 was released in October 2021 and Battlefield 2042 in November, this means both games will only be around six months old should they indeed be joining Microsoft&#x27;s library of games soon.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Ars Technica</button>
-                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1851472"
-                        open
-                      >
-                        <summary class="article-expander__title">The weekend’s best deals: Beats, iPads, Samsung portable SSD, and more</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1851472">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/dealmaster427-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Dealmaster also has deals on Apple&#x27;s MacBook, Withings ScanWatch, Fire TV and more.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/2406072667">
-        <time id="build-timestamp" datetime="2022-05-30T00:31:51.787Z">2022-05-30T00:31:51.787Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/2406761259">
+        <time id="build-timestamp" datetime="2022-05-30T04:25:20.403Z">2022-05-30T04:25:20.403Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
