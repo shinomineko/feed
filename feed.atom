@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T06:27:21.004Z</updated>
+    <updated>2022-06-03T12:28:47.043Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What the simple mathematical abilities of animals can tell us about ourselves]]></title>
+        <id>https://arstechnica.com/?p=1857091</id>
+        <link href="https://arstechnica.com/?p=1857091"/>
+        <updated>2022-06-03T11:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Ars chats with UCL's Brian Butterworth about his new book Can Fish Count?.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch]]></title>
+        <id>https://arstechnica.com/?p=1856980</id>
+        <link href="https://arstechnica.com/?p=1856980"/>
+        <updated>2022-06-03T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA["We will have our own SpaceX in the next two years."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony’s latest State of Play: Street Fighter 6, Final Fantasy XVI, new PC ports]]></title>
         <id>https://arstechnica.com/?p=1857953</id>
@@ -11395,144 +11415,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dealmaster also has deals on Kindles, Google Nest, Roku, and more.]]></summary>
         <author>
             <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.24: Volume Expansion Now A Stable Feature]]></title>
-        <id>https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/</id>
-        <link href="https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/"/>
-        <updated>2022-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Hemant Kumar (Red Hat)
-Volume expansion was introduced as a alpha feature in Kubernetes 1.8 and it went beta in 1.11 and with Kubernetes 1.24 we are excited to announce general availability(GA)
-of volume expansion.
-This feature allows Kubernetes users to simply edit their PersistentVolumeClaim objects and specify new size in PVC Spec and Kubernetes will automatically expand the volume
-using storage backend and also expand the underlying file system in-use by the Pod without requiring any downtime at all if possible.
-How to use volume expansion
-You can trigger expansion for a PersistentVolume by editing the spec field of a PVC, specifying a different
-(and larger) storage request. For example, given following PVC:
-kind: PersistentVolumeClaim
-apiVersion: v1
-metadata:
-name: myclaim
-spe…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is what the Salisbury Plain looked like before Stonehenge]]></title>
-        <id>https://arstechnica.com/?p=1852278</id>
-        <link href="https://arstechnica.com/?p=1852278"/>
-        <updated>2022-05-04T23:39:46.000Z</updated>
-        <summary type="html"><![CDATA[The monument's builders didn't have to clear dense forests after all.]]></summary>
-        <author>
-            <name>Kiona N. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Despite unknowns, FDA officials make the case for annual fall COVID shots]]></title>
-        <id>https://arstechnica.com/?p=1852318</id>
-        <link href="https://arstechnica.com/?p=1852318"/>
-        <updated>2022-05-04T23:09:58.000Z</updated>
-        <summary type="html"><![CDATA[In JAMA viewpoint, FDA leaders say a fall booster decision should come next month.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft is giving away 12 custom Xbox Series S to celebrate Star Wars Day]]></title>
-        <id>https://www.eurogamer.net/microsoft-is-giving-away-12-custom-xbox-series-s-consoles-to-celebrate-star-wars-day</id>
-        <link href="https://www.eurogamer.net/microsoft-is-giving-away-12-custom-xbox-series-s-consoles-to-celebrate-star-wars-day"/>
-        <updated>2022-05-04T22:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Today, 4th May, is Star Wars Day and Microsoft is celebrating the annual ode to George Lucas' iconic sci-fi odyssey by giving away 12 custom Xbox Series S consoles inspired by developer Traveller's Tales' recently released Lego Star Wars: The Skywalker Saga.
-
-
-Each of the 12 custom consoles features a unique colour scheme and design inspired by a different Lego-ised Star Wars character from across the nine Skywalker Saga movies. BB-8 is represented by an orange and grey Xbox Series S, for instance, while Boba Fett opts for orange and green, and Darth Vadar goes all-in on the black.
-
-
-The full list of characters emblazoned on the custom consoles is as follows: BB-8, Boba Fett, Chewbacca, Darth Maul, Darth Vader, Finn, Kylo Ren, Luke Skywalker, R2-D2, Rey, Stormtrooper, and Yoda. Additionally, all 12 custom consoles feature controller designs that match their chosen character-themed colour schemes.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie offers strong support for abortion rights amid Supreme Court leak]]></title>
-        <id>https://arstechnica.com/?p=1852295</id>
-        <link href="https://arstechnica.com/?p=1852295"/>
-        <updated>2022-05-04T21:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Destiny developer is one of a handful of tech companies speaking out.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Black widow” neutron star takes an hour to orbit the star it’s roasting]]></title>
-        <id>https://arstechnica.com/?p=1852255</id>
-        <link href="https://arstechnica.com/?p=1852255"/>
-        <updated>2022-05-04T21:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Once an hour, the side of a star bombarded by radiation comes into view.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New lawsuit alleges Activision CEO rushed through Microsoft acquisition to escape liability for wrongdoing]]></title>
-        <id>https://www.eurogamer.net/new-lawsuit-alleges-activision-ceo-rushed-through-microsoft-acquisition-to-escape-liability-for-wrongdoing</id>
-        <link href="https://www.eurogamer.net/new-lawsuit-alleges-activision-ceo-rushed-through-microsoft-acquisition-to-escape-liability-for-wrongdoing"/>
-        <updated>2022-05-04T20:55:19.000Z</updated>
-        <summary type="html"><![CDATA[A new lawsuit filed by New York City Employees' Retirement System has alleged Activision Blizzard CEO Bobby Kotick fast-tracked a takeover bid from Microsoft in order to escape liability for wrongdoing following a damning Wall Street Journal report claiming he'd known about sexual misconduct at the Call of Duty publisher "for years".
-
-
-Activision Blizzard has faced a relentless stream of shocking allegations relating to its workplace culture since last July, when a State of California lawsuit filing called the publisher "a breeding ground for harassment and discrimination against women". Building on that lawsuit, the Wall Street Journal published a report in November claiming Bobby Kotick had been aware of the allegations of sexual misconduct and mistreatment of female employees across many parts of the company "for years", but had failed to act on them or tell the board of directors and executives everything he knew.
-
-
-It's these claims relating to Kotick's behaviour that form the backbone of a new lawsuit filed by the New York City Employees' Retirement System and pension funds, which owns Activision shares. The filing (as spotted by Axios) aims to secure documentation Activision has reportedly so far refused to release so that the plaintiff can carry out an investigation into the board’s "failure to maintain a safe and non- discriminatory working environment for its (specifically minority and female) employees, and failure to take action in response to repeated, grave allegations of misconduct, discrimination, and harassment by Activision’s senior executives."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TurboTax forced to stop misleading “free, free, free” ads and pay back $141M]]></title>
-        <id>https://arstechnica.com/?p=1852232</id>
-        <link href="https://arstechnica.com/?p=1852232"/>
-        <updated>2022-05-04T20:19:35.000Z</updated>
-        <summary type="html"><![CDATA[4.4 million taxpayers to get refunds from Intuit in settlement with all 50 states.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla releases Firefox version 100 this week]]></title>
-        <id>https://arstechnica.com/?p=1852162</id>
-        <link href="https://arstechnica.com/?p=1852162"/>
-        <updated>2022-05-04T19:55:15.000Z</updated>
-        <summary type="html"><![CDATA[The big number came with a small update on desktop, Android, and iOS.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New lawsuit calls Kotick’s handling of Activision-Microsoft merger “inexcusable”]]></title>
-        <id>https://arstechnica.com/?p=1852222</id>
-        <link href="https://arstechnica.com/?p=1852222"/>
-        <updated>2022-05-04T19:44:20.000Z</updated>
-        <summary type="html"><![CDATA[Shareholders want more corporate books opened in light of "disturbing allegations."]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Sonos is launching its own voice assistant in June]]></title>
-        <id>https://arstechnica.com/?p=1852213</id>
-        <link href="https://arstechnica.com/?p=1852213"/>
-        <updated>2022-05-04T19:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Voice assistant would help Sonos be less dependent on frenemies Amazon, Google.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
         </author>
     </entry>
 </feed>

@@ -59,6 +59,74 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-06-03 datetime="2022-06-03T11:35:13.000Z">2022-06-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-06-03 datetime="2022-06-03T11:35:13.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ars Technica</button>
+                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1857091"
+                        open
+                      >
+                        <summary class="article-expander__title">What the simple mathematical abilities of animals can tell us about ourselves</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1857091">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/fish-numbers-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Ars chats with UCL&#x27;s Brian Butterworth about his new book Can Fish Count?.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1856980"
+                        open
+                      >
+                        <summary class="article-expander__title">Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1856980">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/SLS-Mar-17-2022-1897-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&quot;We will have our own SpaceX in the next two years.&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-06-02 datetime="2022-06-02T23:51:18.000Z">2022-06-02</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-06-02 datetime="2022-06-02T23:51:18.000Z"></time>
           </button>
@@ -21367,315 +21435,12 @@ While this isn’t the largest application-layer attack we’ve seen, it is the 
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Kubernetes – Production-Grade Container Orchestration</button>
-                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/"
-                        open
-                      >
-                        <summary class="article-expander__title">Blog: Kubernetes 1.24: Volume Expansion Now A Stable Feature</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Author: Hemant Kumar (Red Hat)
-Volume expansion was introduced as a alpha feature in Kubernetes 1.8 and it went beta in 1.11 and with Kubernetes 1.24 we are excited to announce general availability(GA)
-of volume expansion.
-This feature allows Kubernetes users to simply edit their PersistentVolumeClaim objects and specify new size in PVC Spec and Kubernetes will automatically expand the volume
-using storage backend and also expand the underlying file system in-use by the Pod without requiring any downtime at all if possible.
-How to use volume expansion
-You can trigger expansion for a PersistentVolume by editing the spec field of a PVC, specifying a different
-(and larger) storage request. For example, given following PVC:
-kind: PersistentVolumeClaim
-apiVersion: v1
-metadata:
-name: myclaim
-spe…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-04 datetime="2022-05-04T23:39:46.000Z">2022-05-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-04 datetime="2022-05-04T23:39:46.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Ars Technica</button>
-                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852278"
-                        open
-                      >
-                        <summary class="article-expander__title">This is what the Salisbury Plain looked like before Stonehenge</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852278">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/stonehenge11-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The monument&#x27;s builders didn&#x27;t have to clear dense forests after all.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852318"
-                        open
-                      >
-                        <summary class="article-expander__title">Despite unknowns, FDA officials make the case for annual fall COVID shots</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852318">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1231789968-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In JAMA viewpoint, FDA leaders say a fall booster decision should come next month.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852295"
-                        open
-                      >
-                        <summary class="article-expander__title">Bungie offers strong support for abortion rights amid Supreme Court leak</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852295">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/d2woman-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Destiny developer is one of a handful of tech companies speaking out.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852255"
-                        open
-                      >
-                        <summary class="article-expander__title">“Black widow” neutron star takes an hour to orbit the star it’s roasting</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852255">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/image-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Once an hour, the side of a star bombarded by radiation comes into view.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852232"
-                        open
-                      >
-                        <summary class="article-expander__title">TurboTax forced to stop misleading “free, free, free” ads and pay back $141M</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852232">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-turbotax-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>4.4 million taxpayers to get refunds from Intuit in settlement with all 50 states.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852162"
-                        open
-                      >
-                        <summary class="article-expander__title">Mozilla releases Firefox version 100 this week</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852162">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/Firefox-760x380.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The big number came with a small update on desktop, Android, and iOS.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852222"
-                        open
-                      >
-                        <summary class="article-expander__title">New lawsuit calls Kotick’s handling of Activision-Microsoft merger “inexcusable”</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852222">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/activision-blizzard-toxic-waste-CA-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Shareholders want more corporate books opened in light of &quot;disturbing allegations.&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1852213"
-                        open
-                      >
-                        <summary class="article-expander__title">Report: Sonos is launching its own voice assistant in June</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1852213">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/sonos-beam-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Voice assistant would help Sonos be less dependent on frenemies Amazon, Google.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Eurogamer.net News Feed</button>
-                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/microsoft-is-giving-away-12-custom-xbox-series-s-consoles-to-celebrate-star-wars-day"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft is giving away 12 custom Xbox Series S to celebrate Star Wars Day</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/microsoft-is-giving-away-12-custom-xbox-series-s-consoles-to-celebrate-star-wars-day">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/lego-star-wars-xbox-series-s.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-star-wars-xbox-series-s.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Today, 4th May, is Star Wars Day and Microsoft is celebrating the annual ode to George Lucas&#x27; iconic sci-fi odyssey by giving away 12 custom Xbox Series S consoles inspired by developer Traveller&#x27;s Tales&#x27; recently released Lego Star Wars: The Skywalker Saga.
-
-
-Each of the 12 custom consoles features a unique colour scheme and design inspired by a different Lego-ised Star Wars character from across the nine Skywalker Saga movies. BB-8 is represented by an orange and grey Xbox Series S, for instance, while Boba Fett opts for orange and green, and Darth Vadar goes all-in on the black.
-
-
-The full list of characters emblazoned on the custom consoles is as follows: BB-8, Boba Fett, Chewbacca, Darth Maul, Darth Vader, Finn, Kylo Ren, Luke Skywalker, R2-D2, Rey, Stormtrooper, and Yoda. Additionally, all 12 custom consoles feature controller designs that match their chosen character-themed colour schemes.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/new-lawsuit-alleges-activision-ceo-rushed-through-microsoft-acquisition-to-escape-liability-for-wrongdoing"
-                        open
-                      >
-                        <summary class="article-expander__title">New lawsuit alleges Activision CEO rushed through Microsoft acquisition to escape liability for wrongdoing</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/new-lawsuit-alleges-activision-ceo-rushed-through-microsoft-acquisition-to-escape-liability-for-wrongdoing">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/activision-blizzard-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-blizzard-logo.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A new lawsuit filed by New York City Employees&#x27; Retirement System has alleged Activision Blizzard CEO Bobby Kotick fast-tracked a takeover bid from Microsoft in order to escape liability for wrongdoing following a damning Wall Street Journal report claiming he&#x27;d known about sexual misconduct at the Call of Duty publisher &quot;for years&quot;.
-
-
-Activision Blizzard has faced a relentless stream of shocking allegations relating to its workplace culture since last July, when a State of California lawsuit filing called the publisher &quot;a breeding ground for harassment and discrimination against women&quot;. Building on that lawsuit, the Wall Street Journal published a report in November claiming Bobby Kotick had been aware of the allegations of sexual misconduct and mistreatment of female employees across many parts of the company &quot;for years&quot;, but had failed to act on them or tell the board of directors and executives everything he knew.
-
-
-It&#x27;s these claims relating to Kotick&#x27;s behaviour that form the backbone of a new lawsuit filed by the New York City Employees&#x27; Retirement System and pension funds, which owns Activision shares. The filing (as spotted by Axios) aims to secure documentation Activision has reportedly so far refused to release so that the plaintiff can carry out an investigation into the board’s &quot;failure to maintain a safe and non- discriminatory working environment for its (specifically minority and female) employees, and failure to take action in response to repeated, grave allegations of misconduct, discrimination, and harassment by Activision’s senior executives.&quot;
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/2432888378">
-        <time id="build-timestamp" datetime="2022-06-03T06:27:20.944Z">2022-06-03T06:27:20.944Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/2434592272">
+        <time id="build-timestamp" datetime="2022-06-03T12:28:46.958Z">2022-06-03T12:28:46.958Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
