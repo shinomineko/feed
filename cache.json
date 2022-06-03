@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/06/remotely-controlling-touchscreens.html",
+          "author": null,
+          "description": "<p>Researchers <a href=\"https://thehackernews.com/2022/05/attackers-can-use-electromagnetic.html\">have demonstrated</a> controlling touchscreens at a distance, at least in a laboratory setting:</p>\n<blockquote><p>The core idea is to take advantage of the electromagnetic signals to execute basic touch events such as taps and swipes into targeted locations of the touchscreen with the goal of taking over remote control and manipulating the underlying device.</p>\n<p>The attack, which works from a distance of up to 40mm, hinges on the fact that <a href=\"https://en.wikipedia.org/wiki/Touchscreen#Capacitive\">capacitive touchscreens</a> are sensitive to EMI, leveraging it to inject electromagnetic signals into transparent electrodes that are built into the touchscreen so as to register them as touch events...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/remotely-controlling-touchscreens.html",
+          "publishedOn": "2022-06-02T20:59:09.000Z",
+          "wordCount": 870,
+          "title": "Remotely Controlling Touchscreens",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/06/clever-and-exploitable-windows-zero-day.html",
           "author": null,
           "description": "<p>Researchers have <a href=\"https://arstechnica.com/information-technology/2022/05/code-execution-0day-in-windows-has-been-under-active-exploit-for-7-weeks/\">reported</a> a still-unpatched Windows zero-day that is currently being exploited in the wild.</p>\n<p>Here&#8217;s the <a href=\"https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/\">advisory</a>, which includes a work-around until a patch is available.</p>",
@@ -373,16 +383,6 @@
           "wordCount": 441,
           "title": "15.3 Million Request-Per-Second DDoS Attack",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/05/new-sophisticated-malware.html",
-          "author": null,
-          "description": "<p>Mandiant is <a href=\"https://arstechnica.com/information-technology/2022/05/how-hackers-used-smarts-and-a-novel-iot-botnet-to-plunder-email-for-months/\">reporting</a> on a new botnet.</p>\n<blockquote><p>The group, which security firm Mandiant is calling UNC3524, has spent the past 18 months burrowing into victims&#8217; networks with unusual stealth. In cases where the group is ejected, it wastes no time reinfecting the victim environment and picking up where things left off. There are many keys to its stealth, including:</p>\n<ul>\n<li>The use of a unique backdoor Mandiant calls Quietexit, which runs on load balancers, wireless access point controllers, and other types of IoT devices that don&#8217;t support antivirus or endpoint detection. This makes detection through traditional means difficult.\n...</li></ul></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/05/new-sophisticated-malware.html",
-          "publishedOn": "2022-05-04T11:15:24.000Z",
-          "wordCount": 660,
-          "title": "New Sophisticated Malware",
-          "imageUrl": null
         }
       ]
     },
@@ -391,6 +391,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1857953",
+          "author": "Sam Machkovech",
+          "description": "More big teases of PlayStation VR2, though the headset doesn't have a release date.",
+          "link": "https://arstechnica.com/?p=1857953",
+          "publishedOn": "2022-06-02T23:51:18.000Z",
+          "wordCount": null,
+          "title": "Sony’s latest State of Play: Street Fighter 6, Final Fantasy XVI, new PC ports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857975",
+          "author": "Beth Mole",
+          "description": "FDA will review the vaccines June 15, but then the CDC needs to sign off.",
+          "link": "https://arstechnica.com/?p=1857975",
+          "publishedOn": "2022-06-02T23:11:45.000Z",
+          "wordCount": 1097,
+          "title": "June 21 is expected start date of COVID vaccination for kids under 5",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1400682862-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857816",
+          "author": "Scharon Harding",
+          "description": "HP Dev One is the first non-System76 computer offered with Pop!_OS.",
+          "link": "https://arstechnica.com/?p=1857816",
+          "publishedOn": "2022-06-02T23:00:33.000Z",
+          "wordCount": 863,
+          "title": "HP releases its $1,099 Linux laptop for developers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/HP_Dev_One_MineralSilver_NT_HDcam_nonFPR_PlanetBlue_CoreSet_OnWhite_FrontLeftOpen-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1855657",
+          "author": "Jennifer Ouellette",
+          "description": "Latest chemical \"forensic\" analysis finds telltale abundances of trace elements.",
+          "link": "https://arstechnica.com/?p=1855657",
+          "publishedOn": "2022-06-02T21:37:17.000Z",
+          "wordCount": 914,
+          "title": "Mysterious Hypatia stone might hold earliest evidence of Type Ia supernova",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/hypatia1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857926",
+          "author": "Eric Berger",
+          "description": "\"We will need additional missions from SpaceX to implement our strategy.\"",
+          "link": "https://arstechnica.com/?p=1857926",
+          "publishedOn": "2022-06-02T21:02:56.000Z",
+          "wordCount": 1034,
+          "title": "NASA just bought the rest of the space station crew flights from SpaceX",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/HD4ZFtJM-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857849",
+          "author": "Dan Goodin",
+          "description": "No patch yet for easy-to-hack access point that leaks data and exposes networks to hacks.",
+          "link": "https://arstechnica.com/?p=1857849",
+          "publishedOn": "2022-06-02T19:41:12.000Z",
+          "wordCount": 1065,
+          "title": "Meeting Owl videoconference device used by govs is a security disaster",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/meeting-owl-pro-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857869",
+          "author": "Jonathan M. Gitlin",
+          "description": "Ford thinks its distribution model costs $2,000 more per car than Tesla's.",
+          "link": "https://arstechnica.com/?p=1857869",
+          "publishedOn": "2022-06-02T18:40:22.000Z",
+          "wordCount": 794,
+          "title": "No more dealer markups: Ford wants to move to online-only sales for EVs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/All-New-Ford-E-Transit_Mustang-Mach-E_All-Electric-F-150-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857871",
+          "author": "Kyle Orland",
+          "description": "New game will focus on antagonist Solas, won't be coming before 2023.",
+          "link": "https://arstechnica.com/?p=1857871",
+          "publishedOn": "2022-06-02T18:28:30.000Z",
+          "wordCount": 784,
+          "title": "BioWare reveals Dreadwolf as the next Dragon Age title",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/dreadwolf-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1857789",
           "author": "Andrew Cunningham",
@@ -3765,6 +3845,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/dead-space-creators-sci-fi-horror-the-callisto-protocol-is-out-in-december",
+          "author": "Matt Wales",
+          "description": "Dead Space creator Glen Schofield's very Dead-Space-like sci-fi horror The Callisto Protocol finally has a release date and is heading to PS4, PS5, Xbox, and PC on 2nd December this year.\r\n\n\r\nThe Callisto Protocol, which was officially unveiled back in December 2020, is a third-person horror game set in 2320. Its action unfolds within the confines of the Black Iron prison colony on Jupiter's moon Callisto, and - needless to say - suffocating terror and \"terrifying secrets\" ensue.\r\n\n\r\nWe've only seen a single cinematic of The Callisto Protocol since its intriguing 2020 reveal, so it's nice to finally, properly see the thing in action courtesy of its brand-new release date trailer - which includes a smattering of gameplay - below. It looks like appropriately atmospheric, deliciously icky stuff - and, yes, not entirely dissimilar to Dead Space.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-space-creators-sci-fi-horror-the-callisto-protocol-is-out-in-december",
+          "publishedOn": "2022-06-02T23:06:59.000Z",
+          "wordCount": 823,
+          "title": "Dead Space creator's sci-fi horror The Callisto Protocol is out in December",
+          "imageUrl": "https://assets.reedpopcdn.com/callisto-protocol_31vq5TW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/callisto-protocol_31vq5TW.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/stray-launches-next-month-included-in-pricier-playstation-plus-tiers-on-day-one",
+          "author": "Tom Phillips",
+          "description": "Stray, everyone's favourite upcoming cyberpunk cat game, launches for PC, PlayStation 4 and PS5 on 19th July. That release date was confirmed this evening in a fresh trailer, showcased as part of Sony's latest State of Play. \r\n\n\r\nWe also learnt that Stray will be available at launch via the new, pricier PlayStation Plus tiers: Extra and Premium. \nIn Stray, you play as a cat abandoned in a futuristic Hong Kong-esque city populated by robots. Here's the new trailer:\n Read more",
+          "link": "https://www.eurogamer.net/stray-launches-next-month-included-in-pricier-playstation-plus-tiers-on-day-one",
+          "publishedOn": "2022-06-02T22:48:27.000Z",
+          "wordCount": 695,
+          "title": "Stray launches next month, included in pricier PlayStation Plus tiers on day one",
+          "imageUrl": "https://assets.reedpopcdn.com/stray_XlfRQmc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stray_XlfRQmc.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-16-will-release-in-summer-2023",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 16 finally has a release window of summer 2023.\r\n\n\r\nNaoki Yoshida introduced a new trailer for the game at the PlayStation State of Play you can watch below, which gave us a fresh look at the game's story and gameplay.\r\n\n\r\nIn particular it showcased the game's cast of summons, or Eikons as they're known, their names chanted in the music if you listen carefully: Phoenix, Titan, Garuda, Ramuh, Shiva, Odin, Bahamut, and Ifrit.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-16-will-release-in-summer-2023",
+          "publishedOn": "2022-06-02T22:46:47.000Z",
+          "wordCount": 897,
+          "title": "Final Fantasy 16 will release in summer 2023",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-11.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-11.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/psvr2s-horizon-call-of-the-mountain-shows-first-gameplay-as-new-forbidden-west-update-arrives",
+          "author": "Matt Wales",
+          "description": "Guerilla Games has offered a first proper look at Horizon Call of the Mountain for PSVR2, alongside news that a free update for Horizon Forbidden West on PS4 and PS5 is now available, adding an ultra hard difficulty, New Game+, and more.\r\n\n\r\nHorizon Call of the Mountain, which was announced back in January, is a first-person experience set the series' gorgeous, post-apocalypse world. It casts players as a new character -  Ryas, a former Shadow Carja Warrior who hopes to redeem himself by investigating a grave threat to the Sundom - and sets them on an adventure featuring main series protagonist Aloy and a host of other familiar faces.\r\n\n\r\nCall of the Mountain's new trailer, revealed during tonight's PlayStation State of Play, offers a first proper look at the game in action - including some of the activities players will be able to partake in using Sony's upgraded VR kit, such as archery and mountain climbing - and it would be an understatement to say it all looks spectacular indeed. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/psvr2s-horizon-call-of-the-mountain-shows-first-gameplay-as-new-forbidden-west-update-arrives",
+          "publishedOn": "2022-06-02T22:31:37.000Z",
+          "wordCount": 905,
+          "title": "PSVR2's Horizon Call of the Mountain gets first proper gameplay trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/horizon-call-of-the-mountain-announced-for-playstation-vr2-1641379400551.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/horizon-call-of-the-mountain-announced-for-playstation-vr2-1641379400551.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/street-fighter-6-launches-2023",
+          "author": "Tom Phillips",
+          "description": "UPDATE 3/6/22: Street Fighter 6 will also launch for PC via Steam and on Xbox Series X/S in addition to PlayStation 4 and 5, Capcom's own trailer for the game has now confirmed. \nThese extra platforms were not initially detailed during Sony's State of Play broadcast earlier this evening. \nORIGINAL STORY 2/6/22:\r\nCapcom has provided a quick first look at Street Fighter 6, which will launch for PlayStation 4 and PlayStation 5 in 2023. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/street-fighter-6-launches-2023",
+          "publishedOn": "2022-06-02T22:29:30.000Z",
+          "wordCount": 754,
+          "title": "Street Fighter 6 launches 2023",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_reHc4KB.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_reHc4KB.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/spider-man-remastered-swings-on-to-pc-in-august",
+          "author": "Ed Nightingale",
+          "description": "Spider-Man Remastered is coming to PC on 12th August.\r\n\n\r\nAnnounced at the PlayStation State of Play, Insomniac's superhero adventure was previously available as a console exclusive but will come to PC for the first time.\r\n\n\r\nIt's unknown if the Miles Morales follow-up will also be available in the future. [UPDATE: The PlayStation blog has now confirmed it will, this autumn.]\r\n \nRead more",
+          "link": "https://www.eurogamer.net/spider-man-remastered-swings-on-to-pc-in-august",
+          "publishedOn": "2022-06-02T22:20:35.000Z",
+          "wordCount": 667,
+          "title": "Spider-Man Remastered swings to PC in August, Miles Morales follows in autumn",
+          "imageUrl": "https://assets.reedpopcdn.com/marvels-spider-man-1533217236862.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels-spider-man-1533217236862.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/resident-evil-4-remake-announced-due-march-2023",
+          "author": "Tom Phillips",
+          "description": "Capcom has officially announced its long-awaited Resident Evil 4 remake, and provided a release date: 24th March 2023. \r\n\n\r\nThis reimagined version of Capcom's survival horror classic kicked off tonight's State of Play showcase with an eye-catching trailer. \r\n\n\r\nAs was to be expected, we saw numerous glimpses of Resident Evil 4-esque locations, though it was also made clear this is a somewhat different remake, with plenty that looked new. Here's that trailer:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/resident-evil-4-remake-announced-due-march-2023",
+          "publishedOn": "2022-06-02T22:11:36.000Z",
+          "wordCount": 797,
+          "title": "Resident Evil 4 remake with reimagined storyline for PC, PS5 and Xbox Series X/S due March 2023",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_qkgnwID.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_qkgnwID.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/watch-tonights-playstation-state-of-play-here-1",
+          "author": "Tom Phillips",
+          "description": "PlayStation has 30 minutes of annoucements for you tonight, and you can watch them all right here. \r\n\n\r\nSony's summer announcement show will include \"exciting reveals\" from the company's third-partner partners, we're told, plus a look at several games in development for PlayStation VR2.\r\n\n\r\nDoes this rule out an update on God of War, PlayStation's next big release? We'll have to wait and see. Boy, keep those fingers crossed it's still on track for 2022. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/watch-tonights-playstation-state-of-play-here-1",
+          "publishedOn": "2022-06-02T19:38:53.000Z",
+          "wordCount": 776,
+          "title": "Watch tonight's PlayStation State of Play here",
+          "imageUrl": "https://assets.reedpopcdn.com/FUQuJN7UYAEjCW0.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FUQuJN7UYAEjCW0.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/bioware-confirms-dragon-age-dreadwolf-as-name-of-next-game-in-fantasy-rpg-series",
+          "author": "Wesley Yin-Poole",
+          "description": "Dragon Age: Dreadwolf is the name of the next game in BioWare's fantasy role-playing series.\r\n\n\r\nIn a blog post, BioWare touched on the subtitle, which is an alias of Dragon Age: Inquisition party member Solas.\r\n\n\"Solas, the Dread Wolf,\" reads the official blurb. \"Some say he might be an ancient elven god, but some say not. Others say a betrayer of his people... or a saviour who now seeks to rescue them at the cost of your world.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bioware-confirms-dragon-age-dreadwolf-as-name-of-next-game-in-fantasy-rpg-series",
+          "publishedOn": "2022-06-02T19:29:19.000Z",
+          "wordCount": 884,
+          "title": "BioWare confirms Dragon Age: Dreadwolf as name of next game in fantasy RPG series",
+          "imageUrl": "https://assets.reedpopcdn.com/da.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/da.jpeg"
+        },
         {
           "id": "https://www.eurogamer.net/sonys-live-action-twisted-metal-series-casts-will-arnett-as-voice-of-sweet-tooth",
           "author": "Matt Wales",
@@ -8304,86 +8474,6 @@
           "wordCount": 938,
           "title": "Dying Light's Hellraider DLC set to receive its last ever update",
           "imageUrl": "https://assets.reedpopcdn.com/dl-hellraid-shotgun.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dl-hellraid-shotgun.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dont-hold-your-breath-for-more-earthbound-reggie-fils-aime-says",
-          "author": "Tom Phillips",
-          "description": "Former Nintendo of America president Reggie Fils-Aimé has said fans shouldn't hold their breath for a revival of the cult classic Mother/Earthbound series, including a long-awaited western release of Mother 3.\r\n\n\r\nSpeaking on the <a href=\"\r\nhttps://www.youtube.com/watch?v=vMuUGOXtX_U\">Kinda Funny podcast as part of a press tour for his new memoir Disrupting the Game, Fils-Aimé was asked about Nintendo franchises he was looking forward to - before Mother 3 was inevitably brought up in conversation.\r\n\n\r\n\"How long did it take until Earthbound and the Mother franchise came up? Don't hold your breath,\" Fils-Aimé - who departed Nintendo three years ago - said. \"Again, I'm not there, I don't know what's going on.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dont-hold-your-breath-for-more-earthbound-reggie-fils-aime-says",
-          "publishedOn": "2022-05-04T11:51:40.000Z",
-          "wordCount": 1152,
-          "title": "\"Don't hold your breath\" for more Earthbound, Reggie Fils-Aimé says",
-          "imageUrl": "https://assets.reedpopcdn.com/untitled-1-recovered.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/untitled-1-recovered.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-mobile-app-getting-instagram-style-makeover-with-new-stories-mode",
-          "author": "Victoria Kennedy",
-          "description": "A new update coming to Xbox's mobile app will introduce a shiny new stories mode.\n\"This month's update will bring you the activity feed on the Xbox app for iOS and Android in the form of stories. You will be able to create, share and view stories with your friends in the Xbox app and add priority tags for your console gaming experiences with Quality of Service (QoS) Tagging,\" Xbox wrote in a blog post yesterday.\n\"Stories lets you showcase your skills and keep up to date with your friends. You can share your favourite gaming moments including game clips, screenshots and achievements with your friends and the Xbox community.\"\n Read more",
-          "link": "https://www.eurogamer.net/xbox-mobile-app-getting-instagram-style-makeover-with-new-stories-mode",
-          "publishedOn": "2022-05-04T11:44:08.000Z",
-          "wordCount": 858,
-          "title": "Xbox mobile app getting Instagram-style makeover with new stories mode",
-          "imageUrl": "https://assets.reedpopcdn.com/xbox-app-user-stories-7164badc38c815e3618a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-app-user-stories-7164badc38c815e3618a.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflixs-new-sonic-cartoon-actor-receives-blessing-from-roger-craig-smith",
-          "author": "Ed Nightingale",
-          "description": "Canadian voice actor Deven Mack will play Sonic the Hedgehog in Sonic Prime and has received the blessing of Sonic's game voice actor.\r\n\n\r\nSonic Prime is a new Netflix animation revealed yesterday. Mack joins Roger Craig Smith as Sonic's game voice and Ben Schwartz as the film voice.\r\n\n\r\nMack shared a thank you video on Twitter following the response to his casting and noted that the other actors will maintain their roles.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/netflixs-new-sonic-cartoon-actor-receives-blessing-from-roger-craig-smith",
-          "publishedOn": "2022-05-04T11:43:12.000Z",
-          "wordCount": 1098,
-          "title": "Netflix's new Sonic cartoon actor receives blessing from Roger Craig Smith",
-          "imageUrl": "https://assets.reedpopcdn.com/sonic-2_cgliPwf.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-2_cgliPwf.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/hank-hill-and-peter-griffin-battle-it-out-in-apple-arcades-upcoming-kart-racer",
-          "author": "Victoria Kennedy",
-          "description": "We all love Mario Kart; it is a classic that has evolved and grown up with us and will surely continue to dominate various sales charts for many years to come. However, what if someone took this tied and tested formula, but then added in some of the classic 20th Television characters in place of Mario and co.? Well, we now have the answer. You would get Warped Kart Racers, Apple Arcade's upcoming karting game.\nIn Warped Kart Racers, players will be able to control one of 20 characters, including Hank from King of the Hill, Stan from American Dad! and Stewie from Family Guy to name but a few. In addition to these familiar faces, players will also recognise some familiar locales, as the maps that we could all soon be charging round are inspired by locations from \"fan-favourite episodes\".\nKeen karters will be able to take to the tracks in either Warped Kart Racers' single player campaign or take part in a chaotic 8-player multiplayer mode. In addition to this, you will also be able to take on daily challenges to unlock new characters, skins, karts and other customisation options. You can check out the trailer for Warped Kart Racers below.\n Read more",
-          "link": "https://www.eurogamer.net/hank-hill-and-peter-griffin-battle-it-out-in-apple-arcades-upcoming-kart-racer",
-          "publishedOn": "2022-05-04T10:49:29.000Z",
-          "wordCount": 925,
-          "title": "Hank Hill and Peter Griffin battle it out in Apple Arcade's upcoming kart racer",
-          "imageUrl": "https://assets.reedpopcdn.com/warped-kart-racers.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warped-kart-racers.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fans-call-for-nintendo-to-improve-switch-sports-naming-filter-and-add-a-reporting-function",
-          "author": "Ed Nightingale",
-          "description": "Nintendo Switch Sports released last week and already the game is being flooded with inappropriate user names.\r\n\n\r\nNintendo has added a filter to prevent obvious rude words, but many players are finding creative ways to circumvent the filter.\r\n\n\r\nPlayers on Reddit want Nintendo to amend the naming filter, or add a method of reporting inappropriate content.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/fans-call-for-nintendo-to-improve-switch-sports-naming-filter-and-add-a-reporting-function",
-          "publishedOn": "2022-05-04T10:45:34.000Z",
-          "wordCount": 903,
-          "title": "Fans call for Nintendo to improve Switch Sports naming filter and add a reporting function",
-          "imageUrl": "https://assets.reedpopcdn.com/switch_sports.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/switch_sports.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/reggie-fils-aime-distances-himself-from-nintendo-contract-worker-reports",
-          "author": "Tom Phillips",
-          "description": "Former Nintendo of America boss Reggie Fils-Aimé has distanced himself from recent reports concerning contract workers at the company, and said the issues raised were not representative of his time in charge. \r\n\nLast month, a Nintendo of America staff member filed an official complaint concerning alleged company interference in unionisation efforts - though Nintendo itself later responded to say the employee had been fired for disclosure of confidential information.\n Still, in the last two weeks, IGN and Kotaku have both published comments from various current and former contract workers at Nintendo, with criticism raised for how the company differentiates between full-time and contract staff in terms of pay, benefits and a feeling of inclusion, and claims it lacked a solid progression path to becoming a permanent employee.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/reggie-fils-aime-distances-himself-from-nintendo-contract-worker-reports",
-          "publishedOn": "2022-05-04T10:35:40.000Z",
-          "wordCount": 1049,
-          "title": "Reggie Fils-Aimé distances himself from Nintendo contract worker reports",
-          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/hitman-3-game-director-joins-crytek-to-lead-crysis-4-development",
-          "author": "Ed Nightingale",
-          "description": "Hitman 3 game director Mattias Engström has left IO Interactive and joined Crytek to lead development on Crysis 4.\r\n\n\r\nThe Crysis Twitter account shared the news: \"We are happy to announce that Mattias Engström, known for his work as Game Director for Hitman 3 at IO Interactive, joins the Crysis family as Game Director for the fourth installment in the Crysis franchise, starting this week.\"\r\n\n\r\nEngström worked across the Hitman trilogy, serving as level designer on the first two games before becoming game director for the third. He also worked as a level designer on Ubisoft's Far Cry 3 and Assassin's Creed: Revelations.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hitman-3-game-director-joins-crytek-to-lead-crysis-4-development",
-          "publishedOn": "2022-05-04T10:08:36.000Z",
-          "wordCount": 885,
-          "title": "Hitman 3 game director joins Crytek to lead Crysis 4 development",
-          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-crysis-remastered-reveal-analysis-1587298628130.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-crysis-remastered-reveal-analysis-1587298628130.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bungie-issues-statement-in-support-of-roe-v-wade-as-us-supreme-court-tries-to-overthrow-it",
-          "author": "Victoria Kennedy",
-          "description": "Destiny developer Bungie has spoken out in response to the Republican-backed US Supreme Court's plans to overthrow Roe v Wade, a key judgement which legalised abortion rights across the country.\n\"Standing up for reproductive choice and liberty is not a difficult decision to make, and Bungie remains dedicated to upholding these values,\" the developer tweeted earlier today.\nThen, in its official statement, Bungie called the leaked draft decision by the US Supreme Court to overturn Roe v. Wade a \"direct attack on human rights\".\n Read more",
-          "link": "https://www.eurogamer.net/bungie-issues-statement-in-support-of-roe-v-wade-as-us-supreme-court-tries-to-overthrow-it",
-          "publishedOn": "2022-05-04T10:07:16.000Z",
-          "wordCount": 956,
-          "title": "Bungie issues statement in support of Roe v Wade, as US Supreme Court tries to overthrow it",
-          "imageUrl": "https://assets.reedpopcdn.com/fr4ksdexeaetn-d.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fr4ksdexeaetn-d.jpg"
         }
       ]
     }
