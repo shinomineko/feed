@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2628/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/motion_blur.png\" title=\"I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.\" alt=\"I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.\" />",
+          "link": "https://xkcd.com/2628/",
+          "publishedOn": "2022-06-03T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Motion Blur",
+          "imageUrl": "https://imgs.xkcd.com/comics/motion_blur_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2627/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/types_of_scopes.png\" title=\"An x-ray gyroscope is used to determine exactly which toppings they included in the pita.\" alt=\"An x-ray gyroscope is used to determine exactly which toppings they included in the pita.\" />",
@@ -144,6 +154,26 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/06/friday-squid-blogging-more-on-the-mind-boggling-squid-genome.html",
+          "author": null,
+          "description": "<p>Octopus and squid genes are <a href=\"https://www.livescience.com/squid-octopus-genome-brains\">weird</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/friday-squid-blogging-more-on-the-mind-boggling-squid-genome.html",
+          "publishedOn": "2022-06-03T21:03:12.000Z",
+          "wordCount": 717,
+          "title": "Friday Squid Blogging: More on the “Mind Boggling” Squid Genome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/06/me-on-public-interest-tech.html",
+          "author": null,
+          "description": "<p>Back in November 2020, in the middle of the COVID-19 pandemic, I gave a virtual talk at the International Symposium on Technology and Society: &#8220;<a href=\"https://www.youtube.com/watch?v=HMsPUKizT3k\">The Story of the Internet and How it Broke Bad: A Call for Public-Interest Technologists</a>.&#8221; It was something I was really proud of, and it&#8217;s finally up on the net.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/me-on-public-interest-tech.html",
+          "publishedOn": "2022-06-03T19:01:46.000Z",
+          "wordCount": 472,
+          "title": "Me on Public-Interest Tech",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/06/remotely-controlling-touchscreens.html",
           "author": null,
@@ -373,16 +403,6 @@
           "wordCount": 1477,
           "title": "Corporate Involvement in International Cybersecurity Treaties",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/05/15-3-million-request-per-second-ddos-attack.html",
-          "author": null,
-          "description": "<p>Cloudflare is <a href=\"https://blog.cloudflare.com/15m-rps-ddos-attack/\">reporting</a> a large DDoS attack against an unnamed company &#8220;operating a crypto launchpad.&#8221;</p>\n<blockquote><p>While this isn&#8217;t the <a href=\"https://blog.cloudflare.com/cloudflare-thwarts-17-2m-rps-ddos-attack-the-largest-ever-reported/\">largest application-layer attack we&#8217;ve seen</a>, it is the largest we&#8217;ve seen over HTTP<strong>S</strong>. <a href=\"https://www.cloudflare.com/learning/ssl/what-is-https/\">HTTPS</a> DDoS attacks are more expensive in terms of required computational resources because of the higher cost of establishing a secure <a href=\"https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/\">TLS</a> encrypted connection. Therefore it costs the attacker more to launch the attack, and for the victim to mitigate it. We&#8217;ve seen very large attacks in the past over (unencrypted) HTTP, but this attack stands out because of the resources it required at its scale...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/05/15-3-million-request-per-second-ddos-attack.html",
-          "publishedOn": "2022-05-05T11:02:07.000Z",
-          "wordCount": 441,
-          "title": "15.3 Million Request-Per-Second DDoS Attack",
-          "imageUrl": null
         }
       ]
     },
@@ -391,6 +411,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1858307",
+          "author": "Dan Goodin",
+          "description": "Researchers who found vulnerability warn it's “dangerous and trivially exploited.”",
+          "link": "https://arstechnica.com/?p=1858307",
+          "publishedOn": "2022-06-03T23:41:13.000Z",
+          "wordCount": 748,
+          "title": "Critical Atlassian 0-day is under active exploit. You’re patched, right?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1858282",
+          "author": "Beth Mole",
+          "description": "Transmission may have been occurring for longer than previously thought.",
+          "link": "https://arstechnica.com/?p=1858282",
+          "publishedOn": "2022-06-03T22:36:10.000Z",
+          "wordCount": 937,
+          "title": "US officials monitoring over 400 people for monkeypox; 21 cases confirmed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151054421-e1653346027144-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1858208",
+          "author": "Jon Brodkin",
+          "description": "If signed by gov., bill would halt permits while state studies environmental impact.",
+          "link": "https://arstechnica.com/?p=1858208",
+          "publishedOn": "2022-06-03T20:26:26.000Z",
+          "wordCount": 898,
+          "title": "NY passes US-first moratorium on reviving fossil fuel plants to mine crypto",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/getty-bitcoin-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1858174",
+          "author": "Scharon Harding",
+          "description": "Governor Hochul still has to sign the bill.",
+          "link": "https://arstechnica.com/?p=1858174",
+          "publishedOn": "2022-06-03T20:04:19.000Z",
+          "wordCount": 1135,
+          "title": "New York state passes first electronics right-to-repair bill",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1301163452-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1858180",
+          "author": "Samuel Axon",
+          "description": "Get your updates about iOS, macOS, and more here on June 6 at 10 am Pacific.",
+          "link": "https://arstechnica.com/?p=1858180",
+          "publishedOn": "2022-06-03T19:11:44.000Z",
+          "wordCount": 661,
+          "title": "Liveblog: All the news from Apple’s WWDC 2022 keynote",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Apple-WWDC22-announcement-hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1858114",
+          "author": "Sam Machkovech",
+          "description": "Titular duo spacewalks, travels to future later this month. Heh, heh, \"titular.\"",
+          "link": "https://arstechnica.com/?p=1858114",
+          "publishedOn": "2022-06-03T18:43:07.000Z",
+          "wordCount": 1142,
+          "title": "Beavis and Butt-Head’s streaming-only return on June 23 is sci-fi for morons",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/b-bh-black-holes-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1857828",
+          "author": "Samuel Axon",
+          "description": "OS updates are a given, but we could see the M2 and new Macs, too.",
+          "link": "https://arstechnica.com/?p=1857828",
+          "publishedOn": "2022-06-03T18:13:23.000Z",
+          "wordCount": 1042,
+          "title": "What to expect at WWDC 2022: iOS 16, M2, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Apple-WWDC22-announcement-hero-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1858075",
           "author": "Jennifer Ouellette",
@@ -3540,26 +3630,6 @@
           "wordCount": 1014,
           "title": "Larry Ellison chips in a cool billion toward Musk’s Twitter takeover",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/ellison-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851436",
-          "author": "Jennifer Ouellette",
-          "description": "For 40 years, researchers deceived test subjects about the true purpose of the study.",
-          "link": "https://arstechnica.com/?p=1851436",
-          "publishedOn": "2022-05-05T11:20:40.000Z",
-          "wordCount": 1399,
-          "title": "What we can learn from the Tuskegee Syphilis Study, 50 years later",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/tuskagee3TOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1851849",
-          "author": "Scharon Harding",
-          "description": "Lenovo plays with textures and high-end parts for a new range of ultralight clamshells.",
-          "link": "https://arstechnica.com/?p=1851849",
-          "publishedOn": "2022-05-05T11:00:38.000Z",
-          "wordCount": 1386,
-          "title": "Lenovo’s new Slim laptops delight the digits with carbon and glass",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/9i-listing-760x380.jpg"
         }
       ]
     },
@@ -8164,116 +8234,6 @@
           "wordCount": 882,
           "title": "Nintendo changed Coconut Mall in Mario Kart 8 and fans want it reverted",
           "imageUrl": "https://assets.reedpopcdn.com/coconut-mall.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/coconut-mall.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/former-wwe-developer-yukes-announces-aew-fight-forever",
-          "author": "Tom Phillips",
-          "description": "Yuke's, the Japanese developer behind two decades of popular WWE games, has announced it is returning to the wrestling genre with new project AEW Fight Forever.\r\n\n\r\nThere's no word yet on a release date or platforms (beyond a vague promise of PC and consoles), but today's announcement and first look at development will likely be welcomed by fans who have missed Yuke's work over the past few years. \r\n\n\r\nYuke's final WWE game was 2018's WWE 2K19, before publisher 2K Sports gave Yuke's the boot and chose US outfit Visual Concepts to take control of the series instead - with decidedly poor results (so much so that WWE 2K21 was cancelled altogether).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/former-wwe-developer-yukes-announces-aew-fight-forever",
-          "publishedOn": "2022-05-05T11:42:03.000Z",
-          "wordCount": 757,
-          "title": "Former WWE developer Yuke's announces AEW Fight Forever",
-          "imageUrl": "https://assets.reedpopcdn.com/aew-fight-forever-%E2%80%93-development-update_-nyla-rose-reveal-thumbnail-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aew-fight-forever-%E2%80%93-development-update_-nyla-rose-reveal-thumbnail-2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-ring-calculator-is-invaluable-tool-for-magic-users",
-          "author": "Ed Nightingale",
-          "description": "Mages rejoice! There's now a fan-made calculator for Elden Ring that could prove invaluable.\r\n\n\r\nThe stats system in Elden Ring can be a little complex, balancing character stats, spell schools, and weapon types to work out how much damage you're actually doing.\r\n\n\r\nNow, though, there's a tool to do the maths for you. Praise the calculator!\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-ring-calculator-is-invaluable-tool-for-magic-users",
-          "publishedOn": "2022-05-05T11:33:48.000Z",
-          "wordCount": 739,
-          "title": "Elden Ring calculator is invaluable tool for magic users",
-          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-volcano-manor-cover.png/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-volcano-manor-cover.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/resident-evil-the-last-of-us-and-god-of-war-given-a-comic-book-makeover-by-rockstar-games-artist",
-          "author": "Victoria Kennedy",
-          "description": "A Rockstar Games artist has taken some of the most iconic games of today and given them a retro comic book inspired makeover. \nMark Scicluna, who worked as a senior illustrator and graphic designer on Red Dead Redemption 2, LA Noire Remastered and Bully Anniversary Edition, has created some amazing retro illustrations of other games outside of Rockstar (via GoombaStomp). These include everything from Metal Gear Solid to Crash Bandicoot.\nTaking inspiration from the likes of DC comics of old, these illustrations immediately evoke memories of a time since passed, but with a modern twist. My personal favourite is Dino Crisis – just look at the teeth on that triceratops!\n Read more",
-          "link": "https://www.eurogamer.net/resident-evil-the-last-of-us-and-god-of-war-given-a-comic-book-makeover-by-rockstar-games-artist",
-          "publishedOn": "2022-05-05T11:22:05.000Z",
-          "wordCount": 816,
-          "title": "Resident Evil, The Last of Us and God of War given a comic book makeover by Rockstar Games artist",
-          "imageUrl": "https://assets.reedpopcdn.com/resi-cominc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resi-cominc.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/neill-blomkamp-backed-gunzilla-games-announces-next-project",
-          "author": "Ishraq Subhan",
-          "description": "Gunzilla Games, the mysterious studio which opened at the end of 2020 with an impressive list of talent from a number of AAA games studios has finally shared more details about their first game. \r\n\n\r\nOff the Grid is a \"AAA Battle Royale third-person shooter\" set to release sometime in 2023 on PlayStation 5, Xbox Series X/S and PC. \r\n\n\r\nDepending on when in the year it releases, it just may well be the first next-gen only AAA first-person shooter in the market.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/neill-blomkamp-backed-gunzilla-games-announces-next-project",
-          "publishedOn": "2022-05-05T11:04:46.000Z",
-          "wordCount": 834,
-          "title": "Neill Blomkamp-backed Gunzilla Games announces next project",
-          "imageUrl": "https://assets.reedpopcdn.com/otg.png/BROK/thumbnail/1600x900/format/jpg/quality/80/otg.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-founding-family-likely-to-oppose-full-takeover-report-suggests",
-          "author": "Tom Phillips",
-          "description": "Ubisoft looks to be readying itself to fight off a potential future takeover bid, according to a new report.\nRecent details suggested Ubisoft was being circled by several private equity firms, and Ubisoft itself has addressed the possibility it will be bought during a recent investor briefing. \nNow, mergers and acquisitions site Dealreporter (via SeekingAlpha) has suggested Ubisoft's founding Guillemot family is looking to partner with one of these private equity firms while retaining  control of the company - a move designed to see off a full-scale takeover attempt by another party.\n Read more",
-          "link": "https://www.eurogamer.net/ubisoft-founding-family-likely-to-oppose-full-takeover-report-suggests",
-          "publishedOn": "2022-05-05T11:03:12.000Z",
-          "wordCount": 890,
-          "title": "Ubisoft founding family likely to oppose full takeover, report suggests",
-          "imageUrl": "https://assets.reedpopcdn.com/ubisoft-boss-says-considerable-progress-has-been-made-since-last-years-reports-of-sexual-harassment-1621875267380.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ubisoft-boss-says-considerable-progress-has-been-made-since-last-years-reports-of-sexual-harassment-1621875267380.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mafa-hangar-studio-head-stepping-down-after-seven-years",
-          "author": "Victoria Kennedy",
-          "description": "Haden Blackman, studio head and founder of Mafia 3's developer Hanger 13, is stepping down from the role after seven years. \nIn an internal email from 2K, the publisher wrote: \"Hello team, it's with mixed emotions that I share with you several leadership updates from Hangar 13. Haden Blackman is stepping down as Studio Head of Hangar 13 and is leaving the company to pursue his passion at a new endeavor.\n\"We are grateful for Haden's leadership in establishing Hangar 13, building and uniting teams in Novato, Brighton and Czech, and releasing multiple studio-defining Mafia games and collections. \n Read more",
-          "link": "https://www.eurogamer.net/mafa-hangar-studio-head-stepping-down-after-seven-years",
-          "publishedOn": "2022-05-05T10:40:10.000Z",
-          "wordCount": 855,
-          "title": "Mafia 3's Hanger 13 studio head is stepping down after seven years",
-          "imageUrl": "https://assets.reedpopcdn.com/mafia_3.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/mafia_3.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/theres-a-final-fantasy-14-version-of-heardle",
-          "author": "Ed Nightingale",
-          "description": "You've heard of Wordle. You've probably heard of Heardle. But have you heard of Final Fantasy 14 Heardle?\r\n\n\r\nFor the unfamiliar, Heardle is basically guess the intro: second by second you're given an extra chance to guess the song and share the result online in pretty coloured squares.\r\n\n\r\nApply that to the music of Square Enix's critically acclaimed MMORPG and you have Final Fantasy 14 Heardle.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/theres-a-final-fantasy-14-version-of-heardle",
-          "publishedOn": "2022-05-05T10:27:44.000Z",
-          "wordCount": 759,
-          "title": "There's a Final Fantasy 14 version of Heardle",
-          "imageUrl": "https://assets.reedpopcdn.com/final-fantasy-14-bard.png/BROK/thumbnail/1600x900/format/jpg/quality/80/final-fantasy-14-bard.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-an-hour-of-footage-from-ravenholm-arkanes-cancelled-half-life-game",
-          "author": "Ishraq Subhan",
-          "description": "An hour of new footage of Arkane Lyon's cancelled Half-Life 2 spinoff, Ravenholm, has been released courtesy of Noclip.\r\n\n\r\nThe YouTube channel, best known for its long-form documentaries covering the development of numerous games, both released and unreleased, uploaded the new footage which it recorded during a 2020 visit to Arkane Lyon. \r\n\n\r\n\"This footage is being made public as part of Noclip's mission to document and preserve the history of video games,\" wrote Noclip in the description of the video. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-an-hour-of-footage-from-ravenholm-arkanes-cancelled-half-life-game",
-          "publishedOn": "2022-05-05T10:22:56.000Z",
-          "wordCount": 750,
-          "title": "Here's an hour of footage from Ravenholm: Arkane's cancelled Half-Life game",
-          "imageUrl": "https://assets.reedpopcdn.com/screenshot-2022-05-05-hl2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/screenshot-2022-05-05-hl2.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/streaming-numbers-are-down-in-a-post-lockdown-world",
-          "author": "Ed Nightingale",
-          "description": "Streaming numbers are down across the board as the world opens up again post-lockdown.\r\n\n\r\nThat's according to the latest report from Streamlabs, which states that all platforms have seen a decline in growth in comparison to this time last year.\r\n\n\r\nThe Covid-19 pandemic is the main cause of both the rise and fall of streaming numbers. With more people working from home and spending less time on outdoor leisure activities, streaming viewership increased; now the world is opening up again, those numbers are declining.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/streaming-numbers-are-down-in-a-post-lockdown-world",
-          "publishedOn": "2022-05-05T10:21:02.000Z",
-          "wordCount": 830,
-          "title": "Streaming numbers are down in a post-lockdown world",
-          "imageUrl": "https://assets.reedpopcdn.com/twitch-and-other-video-platforms-must-take-new-measures-to-protect-users-1633517456568.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-and-other-video-platforms-must-take-new-measures-to-protect-users-1633517456568.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dying-light-gets-brand-new-dieselpunk-dlc",
-          "author": "Victoria Kennedy",
-          "description": "Yesterday we reported that Dying Light's Hellraider DLC was getting its final update. However, despite what was first assumed (by me at least), this is not the end of Techland's plans for its Zombie platformer. Rather, the company has announced a brand new Dieselpunk DLC, which is available from today (5th May).\n\"Go Back in Time with the New Dieselpunk DLC, discover historical Volkan Machines equipment crafted for world-class soldiers, and enjoy their unique design in Harran,\" the developer teased. This DLC comes with new gear, most notably a chainsaw known as the 'Gut Render' and a serrated sword known as the 'Flesh Ripper'. With these two weapons in your armoury, you will soon be slicing and dicing your way through those zombie hoards in a breeze.\nIf you prefer to be less up close and personal with your prey, perhaps the 'Greaser' firearm will be more your thing. In the words of Techland, this gun is the \"new definition of swiss cheese\". Of course, you could always just barrel through the advancing enemies with your new wheels, aka the 'Rugged Roadster'. Check out the blood-soaked trailer for this new DLC below.\n Read more",
-          "link": "https://www.eurogamer.net/dying-light-gets-brand-new-dieselpunk-dlc",
-          "publishedOn": "2022-05-05T10:00:44.000Z",
-          "wordCount": 870,
-          "title": "Dying Light gets brand new Dieselpunk DLC",
-          "imageUrl": "https://assets.reedpopcdn.com/dl-diesel.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dl-diesel.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/hitmans-voice-cast-on-playing-outsiders-absurd-humour-and-ios-future-with-bond",
-          "author": "Ed Nightingale",
-          "description": "\"They're outsiders,\" says Jane Perry. \"Maybe this is what draws the characters together, the sense of being not entirely comfortable in the skin that they're in or in the world that they find themselves in.\"\r\n\n\r\nPerry is discussing the relationship between Hitman's Agent 47, voiced by David Bateson, and his handler Diana Burnwood, who she voices. But she could also be talking about the actors themselves.\r\n\n\r\nFor both actors, auditioning for these roles was a serendipitous moment. Bateson had recently moved from London to Denmark, while Perry had moved from Canada to London: two actors living away from their native countries.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hitmans-voice-cast-on-playing-outsiders-absurd-humour-and-ios-future-with-bond",
-          "publishedOn": "2022-05-05T10:00:00.000Z",
-          "wordCount": 2104,
-          "title": "Hitman's voice cast on playing outsiders, absurd humour, and IO's future with Bond",
-          "imageUrl": "https://assets.reedpopcdn.com/hitman-3-agent47.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hitman-3-agent47.jpg"
         }
       ]
     }
