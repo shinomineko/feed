@@ -124,16 +124,6 @@
           "wordCount": 195,
           "title": "Maps",
           "imageUrl": "https://imgs.xkcd.com/comics/maps_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2616/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/deep_end.png\" title=\"Hey! No running in the back-arc basin!\" alt=\"Hey! No running in the back-arc basin!\" />",
-          "link": "https://xkcd.com/2616/",
-          "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Deep End",
-          "imageUrl": "https://imgs.xkcd.com/comics/deep_end_2x.png"
         }
       ]
     },
@@ -411,6 +401,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1857844",
+          "author": "John Timmer",
+          "description": "Is it a motorcycle? A dirt bike? An e-bike? Whatever category you choose, it's fun.",
+          "link": "https://arstechnica.com/?p=1857844",
+          "publishedOn": "2022-06-04T11:35:57.000Z",
+          "wordCount": 1069,
+          "title": "The Super73 R Series e-bike is expensive, heavy, and extremely fun",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/Screen-Shot-2022-06-03-at-4.39.17-PM-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1858307",
           "author": "Dan Goodin",
@@ -3510,66 +3510,6 @@
           "wordCount": 1066,
           "title": "SpaceX caps an incredibly busy month with a NASA crew landing Friday morning",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/52053945015_02d75052b5_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1852586",
-          "author": "Beth Mole",
-          "description": "Total excess deaths far exceed the reported deaths directly due to COVID-19.",
-          "link": "https://arstechnica.com/?p=1852586",
-          "publishedOn": "2022-05-05T22:02:38.000Z",
-          "wordCount": 864,
-          "title": "Pandemic killed 15M people in first 2 years, WHO excess death study finds",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1341226201-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1852407",
-          "author": "Sam Machkovech",
-          "description": "Shining example of why MCU should trust a singular filmmaker's vision.",
-          "link": "https://arstechnica.com/?p=1852407",
-          "publishedOn": "2022-05-05T20:59:27.000Z",
-          "wordCount": 1327,
-          "title": "Doctor Strange 2 review: Let Sam Raimi take you on a romp through Madness",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/drstrange2-listing-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1852527",
-          "author": "Jon Brodkin",
-          "description": "Settlement requires accurate speed claims and payment of nearly $9 million.",
-          "link": "https://arstechnica.com/?p=1852527",
-          "publishedOn": "2022-05-05T20:51:32.000Z",
-          "wordCount": 927,
-          "title": "Frontier lied about Internet speeds and “ripped off customers,” FTC says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/getty-slow-internet-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1852470",
-          "author": "Samuel Axon",
-          "description": "Epic changed its mind about keeping Fortnite off of Xbox Cloud Gaming.",
-          "link": "https://arstechnica.com/?p=1852470",
-          "publishedOn": "2022-05-05T20:40:04.000Z",
-          "wordCount": 792,
-          "title": "Despite the Epic v. Apple battle, Fortnite is officially back on the iPhone",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/fortnite-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1852404",
-          "author": "Scharon Harding",
-          "description": "HP, Acer announce first Chrome OS devices with up to eight x86 cores.",
-          "link": "https://arstechnica.com/?p=1852404",
-          "publishedOn": "2022-05-05T20:03:46.000Z",
-          "wordCount": 989,
-          "title": "AMD doubles the number of CPU cores it offers to Chromebooks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/HP-Elite-c645-G2-Chromebook-Enterprise_WWAN_Rear-Left-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1852454",
-          "author": "Kyle Orland",
-          "description": "2016 app with a now-popular name now belongs to multi-billion dollar AppLovin.",
-          "link": "https://arstechnica.com/?p=1852454",
-          "publishedOn": "2022-05-05T19:45:06.000Z",
-          "wordCount": 1134,
-          "title": "Major mobile publisher buys Wordle! (but not the one you’re thinking of)",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/worlde-gamer-money-train-no-derp-760x380.jpg"
         }
       ]
     },
@@ -3663,16 +3603,6 @@
           "wordCount": 4338,
           "title": "Blog: Kubernetes 1.24: gRPC container probes in beta",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/05/06/storage-capacity-ga/",
-          "author": null,
-          "description": "Authors: Patrick Ohly (Intel)\nThe v1.24 release of Kubernetes brings storage capacity\ntracking as a generally available feature.\nProblems we have solved\nAs explained in more detail in the previous blog post about this\nfeature, storage capacity\ntracking allows a CSI driver to publish information about remaining\ncapacity. The kube-scheduler then uses that information to pick suitable nodes\nfor a Pod when that Pod has volumes that still need to be provisioned.\nWithout this information, a Pod may get stuck without ever being scheduled onto\na suitable node because kube-scheduler has to choose blindly and always ends up\npicking a node for which the volume cannot be provisioned because the\nunderlying storage system managed by the CSI driver does not have sufficient\ncapacity left.\nBecause CSI driv…",
-          "link": "https://kubernetes.io/blog/2022/05/06/storage-capacity-ga/",
-          "publishedOn": "2022-05-06T00:00:00.000Z",
-          "wordCount": 3816,
-          "title": "Blog: Storage Capacity Tracking reaches GA in Kubernetes 1.24",
-          "imageUrl": null
         }
       ]
     },
@@ -3745,6 +3675,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sega-reveals-mega-drive-mini-2-and-it-will-include-50-mega-drive-and-mega-cd-games",
+          "author": "Vikki Blake",
+          "description": "Sega has unveiled Mega Drive Mini 2, its latest mini retro console.\r\n\nLast week, Sega hinted it had a big \"new project\" to share with us this week, teasing that the broadcast would reportedly include appearances from Hiroyuki Miyazaki and Yosuke Okunari. Given the guests, it wasn't a stretch to presume the secret new project may have something to do with a new Sega retro console - and it turns out that's exactly what Sega was teasing.\r\n\nAs yet, we don't have any information on English social media, but the reveal has been posted to Sega Japan's official YouTube channel, which you can check out below:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sega-reveals-mega-drive-mini-2-and-it-will-include-50-mega-drive-and-mega-cd-games",
+          "publishedOn": "2022-06-04T11:43:00.000Z",
+          "wordCount": 993,
+          "title": "Sega reveals Mega Drive Mini 2, and it will include 50 Mega Drive and Mega CD games",
+          "imageUrl": "https://assets.reedpopcdn.com/mega-drive-mini-2-reveal.png/BROK/thumbnail/1600x900/format/jpg/quality/80/mega-drive-mini-2-reveal.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/mario-strikers-battle-league-football-demo-multiplayer-sessions-go-live-this-weekend",
+          "author": "Vikki Blake",
+          "description": "Don't forget that if you downloaded the demo for Mario Strikers: Battle League Football last week - Nintendo's Mario-themed sports game - online multiplayer matches will be available this weekend.\r\n\nThe demo gives players their first taste of gameplay and the unique abilities of the game's 10 playable characters, but online team battles are only available during specific hour-long sessions throughout the weekend, with the next being at noon UK time.\r\n\nThe demo's available now to download if you have a Nintendo Switch Online Subscription (those without one can sign for a seven-day free trial). Online team battles allow you to team up with friends online to challenge others - with a maximum of four players per team across two consoles - as well as random competitors.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mario-strikers-battle-league-football-demo-multiplayer-sessions-go-live-this-weekend",
+          "publishedOn": "2022-06-04T10:36:00.000Z",
+          "wordCount": 913,
+          "title": "Mario Strikers: Battle League Football demo multiplayer sessions go live this weekend",
+          "imageUrl": "https://assets.reedpopcdn.com/mario_stikers_red_team.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario_stikers_red_team.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-will-not-be-at-gamescom-this-year",
+          "author": "Vikki Blake",
+          "description": "Back in March, Gamescom - the world's busiest annual game show - confirmed that it will return as an in-person event this year, running from 24th to 28th August at Cologne's Koelnmesse convention centre. Nintendo, however, will not be there. \r\n\nInstead of \"participating\" in Cologne, Nintendo states that \"instead, players will be able to try out the games for Nintendo Switch at numerous events throughout Germany\".\r\n\n\"Gamescom is a key event in Nintendo’s calendar of events,\" Nintendo said in a statement to Games Wirtschaft (thanks, VGC). \"This year, however, after careful consideration, we have decided against participating in Cologne.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-will-not-be-at-gamescom-this-year",
+          "publishedOn": "2022-06-04T09:42:00.000Z",
+          "wordCount": 944,
+          "title": "Nintendo will not be at Gamescom this year",
+          "imageUrl": "https://assets.reedpopcdn.com/gamescom-in-doubt-as-germany-extends-events-ban-through-august-1586964151076.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gamescom-in-doubt-as-germany-extends-events-ban-through-august-1586964151076.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/werewolves-are-finally-returning-to-the-sims-4",
+          "author": "Vikki Blake",
+          "description": "EA has finally confirmed that the Werewolf expansion is coming to The Sims 4.\r\n\nThe Sims 4 Werewolves Game Pack - which releases on Steam, Origin, and Xbox on 16th June - brings \"unique temperaments and abilities, be affected by the phase of the moon, and experience wolf-specific life events\".\r\n\nIt'll be welcomed news for Simmers who may have been disappointed that werewolves were not part of the recent update, despite EA teasing that werewolves might finally be making a return to the series for the first time since The Sims 3's Supernatural expansion.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/werewolves-are-finally-returning-to-the-sims-4",
+          "publishedOn": "2022-06-04T08:46:34.000Z",
+          "wordCount": 1009,
+          "title": "Werewolves are finally returning to The Sims 4",
+          "imageUrl": "https://assets.reedpopcdn.com/the-sims-4-werewolf.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sims-4-werewolf.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/dead-space-creators-sci-fi-horror-the-callisto-protocol-is-out-in-december",
           "author": "Matt Wales",
@@ -8054,46 +8024,6 @@
           "wordCount": 873,
           "title": "Blizzard hires new vice president of culture amid ongoing company controversies",
           "imageUrl": "https://assets.reedpopcdn.com/jm-blizz-culture-vp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jm-blizz-culture-vp.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/warframes-annual-tennocon-fan-event-returns-this-july-in-digital-only-form",
-          "author": "Matt Wales",
-          "description": "TennoCon, Warframe's annual fan event, is officially returning this summer in digital-only form, with developer Digital Extremes having now confirmed that all-day proceedings will be getting underway on 16th July.\r\n\n\r\nTennoCon has, of course, traditionally been a live, in-person event combining Warframe announcements, developer panels, and various community focused activities, but Digital Extremes made the decision to go online-only back in 2020 in reponse to the coronavirus pandemic, meaning this year's TennoCon will be its third fully digital show.\r\n\n\r\nUnfortunately, beyond that 16th July date, Digital Extremes is yet to share much in the ways of details about this year's TennoCon, only saying that the all-day event will feature \"exciting reveals\" from the team, alongside a community art show.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/warframes-annual-tennocon-fan-event-returns-this-july-in-digital-only-form",
-          "publishedOn": "2022-05-05T23:06:16.000Z",
-          "wordCount": 844,
-          "title": "Warframe's annual TennoCon fan event returns this July in digital-only form",
-          "imageUrl": "https://assets.reedpopcdn.com/warframe_Oh9GEhl.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warframe_Oh9GEhl.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/animal-splicing-tycoon-game-lets-build-a-zoo-is-getting-dinosaur-dlc",
-          "author": "Matt Wales",
-          "description": "If you're starting to tire of splicing up the same old animals into DNA hybrid monstrosities in park management sim Let's Build a Zoo, there's some potentially exciting news on the horizon: you'll soon be able to fancy up your adorably terrifying creations into something even more exotic when the game's newly announced Dinosaur Island DLC arrives on 23rd May.\r\n\n\r\nLet's Build a Zoo, if you're unfamiliar, takes the familiar framework of classic zoo tycoons as its starting point, tasking players with importing and breeding animals, managing staff, and fashioning an appealing park using scenery items, shops, and amenities in order to keep guests happy and the money rolling in.\r\n\n\r\nIt offers two main twists on that familiar formula, however; there's a morality system - giving players the choice between keeping everything above board or taking a more exploitative path - plus the aforementioned DNA splicing angle, enabling players to create and exhibit the likes of crocoducks, giraffephants, and chickow.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/animal-splicing-tycoon-game-lets-build-a-zoo-is-getting-dinosaur-dlc",
-          "publishedOn": "2022-05-05T22:01:06.000Z",
-          "wordCount": 865,
-          "title": "Animal-splicing tycoon game Let's Build a Zoo is getting dinosaur DLC",
-          "imageUrl": "https://assets.reedpopcdn.com/lets-build-a-zoo-dinosaur-island.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lets-build-a-zoo-dinosaur-island.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/prey-and-jotun-valhalla-edition-are-next-weeks-free-epic-store-games",
-          "author": "Matt Wales",
-          "description": "Fans of quality freebies (so basically everyone then, I assume) are in for a treat next week as Prey and Jotunn join the lengthening list of games to be given away on the Epic Store.\r\n\n\r\nPrey, of course, is yet another winner from Arkane Studios, the developer behind the critically acclaimed likes of Dishonored and Deathloop. As with those series, Prey, which released back in 2017, falls squarely in the immersive sim genre, this time taking the studios' focus on open-ended traversal and player choice into outer space.\r\n\n\r\nHere, players take on the role of Morgan Yu and, after a memorably orchestrated opening sequence, find themselves onboard the space station Talos I somewhere in the year 2032. It's a gorgeously luxuriant setting - Eurogamer called it \"perhaps the grandest and most beautiful facility of its kind ever imagined for a game\" in its Recommended review - but all is not right.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/prey-and-jotun-valhalla-edition-are-next-weeks-free-epic-store-games",
-          "publishedOn": "2022-05-05T20:49:22.000Z",
-          "wordCount": 923,
-          "title": "Prey and Jotun: Valhalla Edition are next week's free Epic Store games",
-          "imageUrl": "https://assets.reedpopcdn.com/jotun_kFsSBih.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jotun_kFsSBih.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-mafia-game-reportedly-in-development-at-hangar-13",
-          "author": "Matt Wales",
-          "description": "Following the news that Haden Blackman, studio head and founder of Mafia 3's developer Hangar 13, is stepping down from the role after seven years, a new report has claimed a fourth instalment in the Mafia series is currently in early development at the studio.\nThat's according to Kotaku, which reports that newly appointed studio boss Nick Baynes is leading development on a brand-new Mafia game, codenamed Nero. The project is said to be a prequel to the Mafia trilogy - which would suggest a return to the prohibition era action of the very first Mafia game, if not even earlier.\nAdditionally, Hangar 13 will reportedly be ditching its Mafia 3 engine - used in the recent Mafia 1 remake - in favour of Unreal Engine 5. It may, however, be some time before either the studio or publisher 2K Games is ready to talk about the title, given it's still \"early in development\".\n Read more",
-          "link": "https://www.eurogamer.net/new-mafia-game-reportedly-in-development-at-hangar-13",
-          "publishedOn": "2022-05-05T19:25:23.000Z",
-          "wordCount": 865,
-          "title": "New Mafia game reportedly in development at Hangar 13",
-          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-mafia-definitive-edition-tech-review-1601562695222.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-mafia-definitive-edition-tech-review-1601562695222.jpg"
         }
       ]
     }
