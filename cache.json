@@ -124,16 +124,6 @@
           "wordCount": 199,
           "title": "Angular Diameter Turnaround",
           "imageUrl": "https://imgs.xkcd.com/comics/angular_diameter_turnaround_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2621/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/mainly_known_for.png\" title=\"Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?\" alt=\"Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?\" />",
-          "link": "https://xkcd.com/2621/",
-          "publishedOn": "2022-05-18T00:00:00.000Z",
-          "wordCount": 199,
-          "title": "Mainly Known For",
-          "imageUrl": "https://imgs.xkcd.com/comics/mainly_known_for_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html",
+          "author": null,
+          "description": "<p>Interesting research: &#8220;<a href=\"https://ieeexplore.ieee.org/document/9581273\">Sponge Examples: Energy-Latency Attacks on Neural Networks</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> The high energy costs of neural network training and inference led to the use of acceleration hardware such as GPUs and TPUs. While such devices enable us to train large-scale neural networks in datacenters and deploy them on edge devices, their designers&#8217; focus so far is on average-case performance. In this work, we introduce a novel threat vector against neural networks whose energy consumption or decision latency are critical. We show how adversaries can exploit carefully-crafted sponge examples, which are inputs designed to maximise energy consumption and latency, to drive machine learning (ML) systems towards their worst-case performance. Sponge examples are, to our knowledge, the first denial-of-service attack against the ML components of such systems. We mount two variants of our sponge attack on a wide range of state-of-the-art neural network models, and find that language models are surprisingly vulnerable. Sponge examples frequently increase both latency and energy consumption of these models by a factor of 30×. Extensive experiments show that our new attack is effective across different hardware platforms (CPU, GPU and an ASIC simulator) on a wide range of different language tasks. On vision tasks, we show that sponge examples can be produced and a latency degradation observed, but the effect is less pronounced. To demonstrate the effectiveness of sponge examples in the real world, we mount an attack against Microsoft Azure&#8217;s translator and show an increase of response time from 1ms to 6s (6000×). We conclude by proposing a defense strategy: shifting the analysis of energy consumption in hardware from an average-case to a worst-case perspective...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html",
+          "publishedOn": "2022-06-16T11:02:36.000Z",
+          "wordCount": 615,
+          "title": "Attacking the Performance of Machine Learning Systems",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/06/m1-chip-vulnerability.html",
           "author": null,
@@ -3611,76 +3611,6 @@
           "wordCount": 606,
           "title": "MacBook buying guide: The right M1 laptop for each use case",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/14-and-16-inch-MacBook-Pros-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854518",
-          "author": "Jennifer Ouellette",
-          "description": "\"There is a primal urge in all of us to explore.\"",
-          "link": "https://arstechnica.com/?p=1854518",
-          "publishedOn": "2022-05-17T23:49:35.000Z",
-          "wordCount": 1061,
-          "title": "For All Mankind sets its alternate timeline sights on Mars in S3 trailer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/moonshow6CROP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854801",
-          "author": "Beth Mole",
-          "description": "Proposed consent decree with FDA will require Abbott to take corrective actions.",
-          "link": "https://arstechnica.com/?p=1854801",
-          "publishedOn": "2022-05-17T21:55:15.000Z",
-          "wordCount": 1312,
-          "title": "FDA obliterates formula maker’s defense of contamination linked to baby deaths",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1240647400-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854776",
-          "author": "Samuel Axon",
-          "description": "tvOS, watchOS, HomePod, Studio Display, and Swift Playgrounds also got updates.",
-          "link": "https://arstechnica.com/?p=1854776",
-          "publishedOn": "2022-05-17T20:28:39.000Z",
-          "wordCount": 875,
-          "title": "iOS 15.5 and macOS 12.4 bring updates to Podcasts, digital payments, and more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/IMG_0142-980x653-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854600",
-          "author": "Ron Amadeo",
-          "description": "Click this link to stop your GSuite account from being shut down! We're serious.",
-          "link": "https://arstechnica.com/?p=1854600",
-          "publishedOn": "2022-05-17T19:39:42.000Z",
-          "wordCount": 1146,
-          "title": "Google backtracks on legacy GSuite account shutdown, won’t take user emails",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/google-damaged-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854729",
-          "author": "Jonathan M. Gitlin",
-          "description": "NHTSA estimates that 42,915 people were killed in motor vehicle crashes in 2021.",
-          "link": "https://arstechnica.com/?p=1854729",
-          "publishedOn": "2022-05-17T19:15:51.000Z",
-          "wordCount": 791,
-          "title": "US road deaths increased by more than 10% in 2021",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/road-accident-seatbelt-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854516",
-          "author": "Jennifer Ouellette",
-          "description": "\"I may be a superhero, but I'm also just a man who fell for the wrong woman.\"",
-          "link": "https://arstechnica.com/?p=1854516",
-          "publishedOn": "2022-05-17T18:56:19.000Z",
-          "wordCount": 916,
-          "title": "There’s something seriously wrong with Homelander in The Boys S3 trailer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/boys3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854278",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has popular Switch games, USB-C chargers, and Roku soundbars.",
-          "link": "https://arstechnica.com/?p=1854278",
-          "publishedOn": "2022-05-17T18:32:54.000Z",
-          "wordCount": 1790,
-          "title": "Today’s best deals: iPad Air, recommended board games, and gaming mice",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/dealmaster051722-760x380.jpg"
         }
       ]
     },
@@ -3754,16 +3684,6 @@
           "publishedOn": "2022-05-20T00:00:00.000Z",
           "wordCount": 4346,
           "title": "Blog: Kubernetes 1.24: Introducing Non-Graceful Node Shutdown Alpha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/05/18/prevent-unauthorised-volume-mode-conversion-alpha/",
-          "author": null,
-          "description": "Author: Raunak Pradip Shah (Mirantis)\nKubernetes v1.24 introduces a new alpha-level feature that prevents unauthorised users\nfrom modifying the volume mode of a PersistentVolumeClaim created from an\nexisting VolumeSnapshot in the Kubernetes cluster.\nThe problem\nThe Volume Mode determines whether a volume\nis formatted into a filesystem or presented as a raw block device.\nUsers can leverage the VolumeSnapshot feature, which has been stable since Kubernetes v1.20,\nto create a PersistentVolumeClaim (shortened as PVC) from an existing VolumeSnapshot in\nthe Kubernetes cluster. The PVC spec includes a dataSource field, which can point to an\nexisting VolumeSnapshot instance.\nVisit Create a PersistentVolumeClaim from a Volume Snapshot for more details.\nWhen leveraging the above capability, there is…",
-          "link": "https://kubernetes.io/blog/2022/05/18/prevent-unauthorised-volume-mode-conversion-alpha/",
-          "publishedOn": "2022-05-18T00:00:00.000Z",
-          "wordCount": 3841,
-          "title": "Blog: Kubernetes 1.24: Prevent unauthorised volume mode conversion",
           "imageUrl": null
         }
       ]
@@ -3857,6 +3777,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/dice-changes-battlefield-2042s-playlists-for-week-two-of-zero-hour",
+          "author": "Ishraq Subhan",
+          "description": "DICE has updated Battlefield 2042's All-Out-Warfare playlists as part of week two of the game's first season: Zero Hour. \r\n\n\r\nBreakthrough on the season's new map Exposure will get a dedicated playlist alongside the dedicated Conquest playlist already available. \r\n\n\r\nThis will make it easier for players to play Breakthrough on Exposure, as its currently based on pure luck.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dice-changes-battlefield-2042s-playlists-for-week-two-of-zero-hour",
+          "publishedOn": "2022-06-16T10:47:35.000Z",
+          "wordCount": 843,
+          "title": "DICE changes Battlefield 2042's playlists for week two of Zero Hour",
+          "imageUrl": "https://assets.reedpopcdn.com/battlefield_zero_hour.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield_zero_hour.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendos-lawyers-hit-metroid-prime-music-youtuber",
+          "author": "Victoria Kennedy",
+          "description": "Another day, another case of Nintendo being Nintendo. This time, the company is cracking down on a YouTuber that uploaded covers of music from Metroid Prime to their channel.\nContent creator SynaMax revealed that nine of his videos have had to be taken down, after Nintendo sent in the big guns and flexed their legal muscles his way.\n\"On 31st May, a lawyer representing Nintendo called me and asked me to take down nine videos off the channel,\" SynaMax explained in a new video (spotted by VGC). \"I'm really disappointed in Nintendo that they would force me to take down these videos because they want compulsory licenses.\"\n Read more",
+          "link": "https://www.eurogamer.net/nintendos-lawyers-hit-metroid-prime-music-youtuber",
+          "publishedOn": "2022-06-16T10:45:42.000Z",
+          "wordCount": 973,
+          "title": "Nintendo's lawyers hit Metroid Prime music YouTuber",
+          "imageUrl": "https://assets.reedpopcdn.com/Mario-is-sad.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Mario-is-sad.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/our-open-zone-is-a-world-map-says-sonic-frontiers-director",
+          "author": "Ed Nightingale",
+          "description": "Sonic Frontiers director Morio Kishimoto has explained what the game's \"Open Zone\" structure really means.\r\n\n\r\nSpeaking to IGN, Kishimoto's comments somewhat clarify what separates Sonic Frontiers from open-world games.\r\n\n\r\n\"Level-based platformers often have a world map. Our Open Zone is a world map, only we've made it entirely playable,\" said Kishimoto.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/our-open-zone-is-a-world-map-says-sonic-frontiers-director",
+          "publishedOn": "2022-06-16T10:35:03.000Z",
+          "wordCount": 953,
+          "title": "\"Our Open Zone is a world map,\" says Sonic Frontiers director",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers_tPDEvos.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers_tPDEvos.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/redfalls-campaign-progress-is-only-tied-to-the-host-in-co-op",
+          "author": "Victoria Kennedy",
+          "description": "If you are looking to get your hands on Arkane's upcoming vampire riddled RPG to play with your nearest and dearest, here is a quick heads up: you will only be able to save any progress you make in Redfall's campaign if you are the host.\nSpeaking to IGN, Redfall game designer Harvey Smith revealed, \"whoever hosts the session, or whoever initiates the session... their progress is persistent for them. But [for] other people, it's not. In terms of what missions you've unlocked and such, the host, their progression matters.\"\nHe went on to explain, \"if you sign on with a friend and they're halfway through the game, and you play the second half of the game with them and then you need to go back and you want to play on your own, you'll be starting at the beginning of the campaign with a character\".\n Read more",
+          "link": "https://www.eurogamer.net/redfalls-campaign-progress-is-only-tied-to-the-host-in-co-op",
+          "publishedOn": "2022-06-16T09:57:29.000Z",
+          "wordCount": 950,
+          "title": "Redfall's campaign progress is only tied to the host in co-op",
+          "imageUrl": "https://assets.reedpopcdn.com/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/capcom-reactivates-previous-versions-of-resident-evil-pc-games-after-overwhelming-community-response",
+          "author": "Ed Nightingale",
+          "description": "Capcom has reactivated the previous versions of Resident Evil 2, 3, and 7 on PC, following player feedback.\r\n\n\r\nAfter the Capcom showcase, the publisher released a free upgrade across PS5, Xbox Series X/S, and PC, adding in ray-tracing, 4K support, and 3D audio.\r\n\n\r\nHowever, on PC the new version had increased minimum system requirements and was unable to revert back to the previous version, locking some players out of the game. This has now been reactivated.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/capcom-reactivates-previous-versions-of-resident-evil-pc-games-after-overwhelming-community-response",
+          "publishedOn": "2022-06-16T09:46:09.000Z",
+          "wordCount": 744,
+          "title": "Capcom reactivates previous versions of Resident Evil PC games after \"overwhelming community response\"",
+          "imageUrl": "https://assets.reedpopcdn.com/resident-evil-3s-remake-introduces-more-action-new-moves-and-meaner-enemies-1582625989038.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-3s-remake-introduces-more-action-new-moves-and-meaner-enemies-1582625989038.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/343-industries-apologises-for-offensive-juneteenth-cosmetic-name",
+          "author": "Ishraq Subhan",
+          "description": "Halo Infinite developer 343 Industries has apologised after releasing a cosmetic item in celebration of Juneteenth with an offensive name. \r\n\n\r\nThe offending item was an emblem which included a palette option called \"Bonobo\", which is the name of an endangered great ape.\r\n\n\r\nJuneteenth is an annual holiday in the United States to commemorate the emancipation of slaves in the country. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/343-industries-apologises-for-offensive-juneteenth-cosmetic-name",
+          "publishedOn": "2022-06-16T09:44:40.000Z",
+          "wordCount": 832,
+          "title": "343 Industries apologises for offensive Juneteenth cosmetic name",
+          "imageUrl": "https://assets.reedpopcdn.com/Halo-Infinite-Bobobo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Halo-Infinite-Bobobo.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/fifa-22-coming-to-ea-play-and-xbox-game-pass-ultimate-next-week",
           "author": "Matt Wales",
@@ -8626,66 +8606,6 @@
           "wordCount": 977,
           "title": "Bloober refuses to comment on Silent Hill 2 rumours",
           "imageUrl": "https://assets.reedpopcdn.com/Silent-Hill-2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Silent-Hill-2.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/theres-an-n64-demake-of-portal-in-the-works",
-          "author": "Matt Wales",
-          "description": "From Elden Ring on Game Boy to that Advance Wars/Mass Effect mash-up, demakes are all the rage these days - and now it's classic first-person puzzler Portal's turn to get the retro port treatment, courtesy of a new fan project to rebuild it for N64.\r\n\n\r\nPortal, of course, released back in 2007 as part of Valve's legendary Orange Box collection, where it immediately wrought cake memes, Companion Cubes and iconic antagonist GLaDOS upon an unsuspecting world. It also proved to be an ingenious puzzler beneath all that - tasking players with manipulating portals to navigate increasingly devious challenges - and one that still holds up wonderfully today.\r\n\n\r\nThe currently in-development Portal demake, officially known as Portal 64, is the work of developer James Lambert, and is ambitiously attempting to pack the entire experience of Valve's classic - memes, portals, puzzles, and all - down onto Nintendo hardware that preceded its release by over a decade.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/theres-an-n64-demake-of-portal-in-the-works",
-          "publishedOn": "2022-05-17T22:57:15.000Z",
-          "wordCount": 908,
-          "title": "There's a fan-made N64 demake of Portal in the works",
-          "imageUrl": "https://assets.reedpopcdn.com/portal-64.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/portal-64.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bungie-says-there-will-never-be-a-muzzle-big-enough-to-stop-us-from-standing-up-for-whats-right",
-          "author": "Matt Wales",
-          "description": "Following recent reports that Sony is refusing to approve any statements from PlayStation studios relating to reproductive rights, Bungie - whose acquisition by Sony was announced in February - has said \"there will never be a 'muzzle' big enough to stop us from standing up for what's right\".\nBungie was one of the first studios to speak out in support of Roe v Wade, a key judgement which legalised abortion across the US, following recent reports the US Supreme Court was trying to overturn the ruling. At the time, the developer called the move a \"direct attack on human rights\", adding that \"standing up for reproductive choice and liberty is not a difficult decision to make, and Bungie remains dedicated to upholding these values\".\nHowever, in light of reports that Sony is refusing to authorise any public statements its PlayStation studios might want to make around the issue of reproductive rights, some Bungie fans have questioned whether the developer will still be able to express its opinion so freely once its acquisition by Sony is complete.\n Read more",
-          "link": "https://www.eurogamer.net/bungie-says-there-will-never-be-a-muzzle-big-enough-to-stop-us-from-standing-up-for-whats-right",
-          "publishedOn": "2022-05-17T21:41:50.000Z",
-          "wordCount": 1207,
-          "title": "Bungie says \"there will never be a 'muzzle' big enough to stop us from standing up for what's right\"",
-          "imageUrl": "https://assets.reedpopcdn.com/bungie-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bungie-logo.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mutant-year-zero-developer-unveils-new-tactical-rpg-miasma-chronicles-for-release-next-year",
-          "author": "Matt Wales",
-          "description": "Developer The Bearded Ladies, the studio behind 2018's acclaimed turn-based strategy adventure Mutant Year Zero: Road to Eden, has unveiled Miasma Chronicles - a new tactical RPG that's heading to PC, Xbox Series X/S, and PS5 some time next year.\r\n\n\r\nMiasma Chronicles unfolds in a United States torn apart by a force known only as the Miasma, some time in the \"not-too-distant future\". Here, in the mining town of Sedentary, we meet our protagonist Elvis, a young man raised by a robotic older \"brother\" after being left by his mother. \r\n\n\r\nElvis, for reasons both unknown and extremely convenient as far as gameplay goes, has access to a mysterious glove that enables him to control Miasma - a device that'll almost certainly prove useful as the brothers set out across the post-apocalyptic wasteland in search of answers that might \"change the course of human history forever.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mutant-year-zero-developer-unveils-new-tactical-rpg-miasma-chronicles-for-release-next-year",
-          "publishedOn": "2022-05-17T20:22:27.000Z",
-          "wordCount": 853,
-          "title": "Mutant Year Zero dev unveils tactical RPG Miasma Chronicles, out next year",
-          "imageUrl": "https://assets.reedpopcdn.com/miasma-chronicles_1qFzKT4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/miasma-chronicles_1qFzKT4.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-dead-by-daylight-dating-sim-is-real",
-          "author": "Ed Nightingale",
-          "description": "The rumours are true: the Dead by Daylight dating sim is real.\r\n\n\r\nHooked on You was announced during today's sixth anniversary livestream for the game and is due out later this summer.\r\n\n\r\nThe interactive visual novel will allow players to flirt and date four of the game's iconic killers - The Huntress, The Spirit, The Trapper, and The Wraith - all presented in a sexy anime style.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-dead-by-daylight-dating-sim-is-real",
-          "publishedOn": "2022-05-17T18:45:00.000Z",
-          "wordCount": 897,
-          "title": "The Dead by Daylight dating sim is real",
-          "imageUrl": "https://assets.reedpopcdn.com/HookedOnYou_KeyArt.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/HookedOnYou_KeyArt.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dead-by-daylights-next-chapter-has-been-revealed",
-          "author": "Ed Nightingale",
-          "description": "Dead by Daylight developer Behaviour Interactive has announced the next chapter for the game and hinted at future content.\r\n\n\r\nAnnounced during today's sixth anniversary livestream, the next chapter will be named Roots of Dread and features a new killer, survivor and map. \r\n\n\r\nDown the line there will also be another Resident Evil chapter, Attack on Titan costumes, and a  Dead by Daylight dating sim.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dead-by-daylights-next-chapter-has-been-revealed",
-          "publishedOn": "2022-05-17T18:45:00.000Z",
-          "wordCount": 1282,
-          "title": "Dead by Daylight's next chapter has been revealed",
-          "imageUrl": "https://assets.reedpopcdn.com/Chap24_Keyart.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Chap24_Keyart.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/bohemia-interactive-teases-arma-4-launches-cold-war-military-shooter-arma-reforger",
-          "author": "Matt Wales",
-          "description": "Developer Bohemia Interactive has, following an extensive leak over the weekend, officially unveiled Arma Reforger, the next step in its long-running first-person military shooter series. Described as the \"first milestone on the long road to Arma 4\", Reforger launches into PC and Xbox Series X/S early access today.\r\n\n\r\nBohemia opened a lengthy livestream earlier today with confirmation that the long-awaited Arma 4 is in development (its predecessor, Arma 3, celebrates its 10th birthday next year), but the remainder of the stream's focus was very much on Reforger. It's being called a new standalone \"platform\" for the series, consisting of several key parts; there's a new engine, a new open-world sandbox, three gameplay modes, and integrated modding tools, enabling user to create and download mods directly in-game.\r\n\n\r\nReforger's sandbox should be immediately familiar to fans of Bohemia's previous titles, taking the form of the Everon map seen in 2001's Operation Flashpoint: Cold War Crisis, albeit thoroughly reworked and reimagined using the developer's latest tech. As that might suggest, it marks a return to the Cold War era for the series, circa 1989, with Bohemia saying its keen to capture the atmosphere of the 80s across its 51 sq km map.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bohemia-interactive-teases-arma-4-launches-cold-war-military-shooter-arma-reforger",
-          "publishedOn": "2022-05-17T18:44:55.000Z",
-          "wordCount": 1077,
-          "title": "Bohemia Interactive teases Arma 4, launches Cold War military shooter Arma Reforger",
-          "imageUrl": "https://assets.reedpopcdn.com/arma-reforger.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/arma-reforger.jpg"
         }
       ]
     }
