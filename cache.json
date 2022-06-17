@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/06/tracking-people-via-bluetooth-on-their-phones.html",
+          "author": null,
+          "description": "<p>We&#8217;ve always known that phones&#8212;and the people carrying them&#8212;can be uniquely identified from their Bluetooth signatures, and that we need security techniques to prevent that. This <a href=\"https://gizmodo.com/bluetooth-tracking-iphone-airtags-1849042375\">new research</a> shows that that&#8217;s not enough.</p>\n<blockquote><p>Computer scientists at the University of California San Diego proved in a <a href=\"https://cseweb.ucsd.edu/~schulman/docs/oakland22-bletracking.pdf\">study</a> published May 24 that <a href=\"https://www.eurekalert.org/news-releases/955287\">minute imperfections</a> in phones caused during manufacturing create a unique <a href=\"https://gizmodo.com/elon-musk-tesla-apple-airplay-carplay-audio-car-wifi-bl-1848996205\">Bluetooth beacon</a>, one that establishes a digital signature or fingerprint distinct from any other device. Though phones&#8217; Bluetooth uses cryptographic technology that limits trackability, using a radio receiver, these distortions in the Bluetooth signal can be discerned to track individual devices...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/tracking-people-via-bluetooth-on-their-phones.html",
+          "publishedOn": "2022-06-17T11:06:09.000Z",
+          "wordCount": 608,
+          "title": "Tracking People via Bluetooth on Their Phones",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html",
           "author": null,
           "description": "<p>Interesting research: &#8220;<a href=\"https://ieeexplore.ieee.org/document/9581273\">Sponge Examples: Energy-Latency Attacks on Neural Networks</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> The high energy costs of neural network training and inference led to the use of acceleration hardware such as GPUs and TPUs. While such devices enable us to train large-scale neural networks in datacenters and deploy them on edge devices, their designers&#8217; focus so far is on average-case performance. In this work, we introduce a novel threat vector against neural networks whose energy consumption or decision latency are critical. We show how adversaries can exploit carefully-crafted sponge examples, which are inputs designed to maximise energy consumption and latency, to drive machine learning (ML) systems towards their worst-case performance. Sponge examples are, to our knowledge, the first denial-of-service attack against the ML components of such systems. We mount two variants of our sponge attack on a wide range of state-of-the-art neural network models, and find that language models are surprisingly vulnerable. Sponge examples frequently increase both latency and energy consumption of these models by a factor of 30×. Extensive experiments show that our new attack is effective across different hardware platforms (CPU, GPU and an ASIC simulator) on a wide range of different language tasks. On vision tasks, we show that sponge examples can be produced and a latency degradation observed, but the effect is less pronounced. To demonstrate the effectiveness of sponge examples in the real world, we mount an attack against Microsoft Azure&#8217;s translator and show an increase of response time from 1ms to 6s (6000×). We conclude by proposing a defense strategy: shifting the analysis of energy consumption in hardware from an average-case to a worst-case perspective...</p></blockquote>",
@@ -422,6 +432,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1857924",
+          "author": "Eric Bangeman",
+          "description": "Mercedes makes a strong statement with its ultra-aerodynamic luxury BEV.",
+          "link": "https://arstechnica.com/?p=1857924",
+          "publishedOn": "2022-06-17T11:15:33.000Z",
+          "wordCount": 1176,
+          "title": "What range anxiety? The Mercedes-Benz EQS 580, reviewed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/eqs-3423-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1859925",
+          "author": "Ars Contributors",
+          "description": "Their magnetic fields—the strongest we've observed—could melt you from 1,000 km away.",
+          "link": "https://arstechnica.com/?p=1859925",
+          "publishedOn": "2022-06-17T10:45:26.000Z",
+          "wordCount": 1013,
+          "title": "Behold the Magnetar, nature’s ultimate superweapon",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-758305395-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1861471",
           "author": "Beth Mole",
@@ -3581,66 +3611,6 @@
           "wordCount": 1227,
           "title": "HP’s new Spectre laptops include options with Intel Arc, less noise",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Spectre-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855115",
-          "author": "Dan Goodin",
-          "description": "Security flaws in VMware and F5's BIG-IP are being exploited by malicious hackers.",
-          "link": "https://arstechnica.com/?p=1855115",
-          "publishedOn": "2022-05-18T22:58:35.000Z",
-          "wordCount": 1183,
-          "title": "2 vulnerabilities with 9.8 severity ratings are under exploit. A 3rd looms",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855120",
-          "author": "Beth Mole",
-          "description": "Kim blamed the outbreak on officials' \"non-positive attitude, slackness, and non-activity.\"",
-          "link": "https://arstechnica.com/?p=1855120",
-          "publishedOn": "2022-05-18T22:22:36.000Z",
-          "wordCount": 995,
-          "title": "North Korea’s COVID outbreak hits over 1.7M; WHO is “deeply concerned”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1395282993-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855074",
-          "author": "Samuel Axon",
-          "description": "The announcements were made to celebrate Global Accessibility Awareness Day.",
-          "link": "https://arstechnica.com/?p=1855074",
-          "publishedOn": "2022-05-18T21:24:40.000Z",
-          "wordCount": 977,
-          "title": "Apple details new iPhone features like door detection, live captions",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Apple-Accessibility-OS-features-2022-hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855057",
-          "author": "John Timmer",
-          "description": "An alternate explanation for why galaxies lacking dark matter are clustered.",
-          "link": "https://arstechnica.com/?p=1855057",
-          "publishedOn": "2022-05-18T20:38:08.000Z",
-          "wordCount": 1176,
-          "title": "A collision strips dark matter, starts star formation",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/image-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855053",
-          "author": "Jon Brodkin",
-          "description": "Texas law blatantly violates First Amendment, many groups tell the Supreme Court.",
-          "link": "https://arstechnica.com/?p=1855053",
-          "publishedOn": "2022-05-18T20:07:59.000Z",
-          "wordCount": 1101,
-          "title": "Texas social media law will cause “chaos” online, Supreme Court is told",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-texas-capitol-flag-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855035",
-          "author": "Beth Mole",
-          "description": "His early release reflects good behavior and completion of rehabilitation programs.",
-          "link": "https://arstechnica.com/?p=1855035",
-          "publishedOn": "2022-05-18T18:59:00.000Z",
-          "wordCount": 801,
-          "title": "Shkreli released from prison to halfway house after serving",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/02/Screen-Shot-2016-02-04-at-6.11.06-PM-640x215.png"
         }
       ]
     },
@@ -3797,6 +3767,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/elden-ring-player-defeats-margit-with-a-harp",
+          "author": "Ed Nightingale",
+          "description": "In perhaps the most impressive Elden Ring controller news to date, a harpist has hooked up her instrument to play FromSoftware's epic.\r\n\n\r\nIt's a project that began back in April when Anna Ellsworth posted a YouTube video explaining the process of turning her harp into a controller.\r\n\n\r\nSince then, she's beaten the dreaded Dark Souls pair Ornstein and Smough and has now turned to Elden Ring, most recently defeating Margit the Fell Omen.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/elden-ring-player-defeats-margit-with-a-harp",
+          "publishedOn": "2022-06-17T12:10:47.000Z",
+          "wordCount": 807,
+          "title": "Elden Ring player defeats Margit with… a harp",
+          "imageUrl": "https://assets.reedpopcdn.com/I-beat-Margit-the-Fell-Omen-with-my-harp!-0-22-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/I-beat-Margit-the-Fell-Omen-with-my-harp!-0-22-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/frostpunk-publisher-announces-deep-morally-ambiguous-narrative-driven-rpg-project-vitriol",
+          "author": "Matt Wales",
+          "description": "11 Bit Studios, the developer behind the acclaimed likes of This War of Mine and Frostpunk, has unveiled its latest publishing partnership, a \"deep, morally ambiguous narrative-driven RPG\" currently going by the codename Project Vitriol.\r\n\n\r\nWhile 11 Bit is publishing and assisting with Project Vitriol, the game is actually the work of Polish developer Fool's Theory - a \"collective of AAA veterans\" with previous credits on The Witcher 2 and 3. Its previous title, open-world RPG Seven: The Days Long Gone, released in 2017, and the studio has also lent support to the likes of Outriders and Divinity Original Sin 2.\r\n\n\r\nAs for Project Vitriol, 11 Bit Studios says the \"deep, morally ambiguous narrative-driven RPG\" is \"of a scale and scope not previously undertaken by the publisher\", and Fool's Theory CEO and project lead Jakub Rokosz had a little more to say as part of its announcement. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/frostpunk-publisher-announces-deep-morally-ambiguous-narrative-driven-rpg-project-vitriol",
+          "publishedOn": "2022-06-17T12:00:00.000Z",
+          "wordCount": 860,
+          "title": "Frostpunk publisher announces \"deep, morally ambiguous narrative-driven RPG\" Project Vitriol",
+          "imageUrl": "https://assets.reedpopcdn.com/project-vitriol.png/BROK/thumbnail/1600x900/format/jpg/quality/80/project-vitriol.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/sonic-origins-game-modes-detailed-in-fresh-trailer",
+          "author": "Ed Nightingale",
+          "description": "A new trailer for Sonic Origins has detailed its various game modes, including its museum of extra content.\r\n\n\r\nThe anniversary compilation will include a number of modes, including anniversary mode that features enhanced widescreen visuals and infinite lives, and classic mode that retains the original 4:3 presentation and limited lives.\r\n\n\r\nThat means Sonic Origins will include the first ever widescreen version of Sonic 3 & Knuckles.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonic-origins-game-modes-detailed-in-fresh-trailer",
+          "publishedOn": "2022-06-17T11:13:19.000Z",
+          "wordCount": 800,
+          "title": "Sonic Origins game modes detailed in fresh trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-origins_mqV0DGk.png/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-origins_mqV0DGk.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/ea-boss-andrew-wilson-sees-20m-annual-pay-cut",
+          "author": "Tom Phillips",
+          "description": "Andrew Wilson, boss of FIFA and Battlefield publisher EA, has seen his annual pay reduced to $19.9m, down from $39.2m previously.\r\n\n\r\nThe roughly $20m pay cut was signalled last summer, when EA acknowledged \"stockholder feedback\" from a non-binding but decisive say-on-pay vote. \r\n\n\r\nIn a nutshell, stockholders said EA's execs were being handed pay awards from the company money pot that were too large and too frequent. In response, EA said it would make \"substantial changes\" to the pay of executives.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-boss-andrew-wilson-sees-20m-annual-pay-cut",
+          "publishedOn": "2022-06-17T11:04:32.000Z",
+          "wordCount": 819,
+          "title": "EA boss Andrew Wilson sees $20m annual pay cut",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_cBmDVj6.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_cBmDVj6.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/unpacking-easter-egg-hides-cover-art-for-developers-next-game",
+          "author": "Tom Phillips",
+          "description": "Brilliant indie Unpacking has an Easter egg for developer Witchbeam's next game, the studio has now revealed. \r\n\n\r\nThe upcoming project, for now named \"TemPoPo\", is still under-wraps. But \"a pixel art rendition of the key art... existings somewhere inside Unpacking\", Witchbeam has said. \r\n\n\r\nThe developer dropped the hint in a new blog update, and noted that no one had found the Easter egg so far. Still, the expectation is that now this information is out there, it shouldn't be hard to discover. \"Let us know if you find it!\" Witchbeam concluded.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/unpacking-easter-egg-hides-cover-art-for-developers-next-game",
+          "publishedOn": "2022-06-17T10:16:59.000Z",
+          "wordCount": 775,
+          "title": "Unpacking Easter egg hides cover art for developer's next game",
+          "imageUrl": "https://assets.reedpopcdn.com/unpacking_game.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/unpacking_game.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-joel-and-ellie-take-on-the-perils-of-god-of-war-in-fan-crossover",
+          "author": "Victoria Kennedy",
+          "description": "A new fan made crossover sees The Last of Us' Joel and Ellie take on the snow-covered wilds of God of War. \nThis crossover is thanks to the hard work of Speclizer, who used mods from OmegaFantasy to swap out Kratos and Atreus for Joel and Ellie respectively (it was also OmegaFantasy that enabled The Simpsons to tootle on over to God of War last month). This was done to \"celebrate two amazing games coming out this year\".\nAnd its not just Joel and Ellie that we get to see in action. The Last of Us' David also shows up as the mysterious 'stranger' from the start of God of War, while the draugr have now become clickers. \n Read more",
+          "link": "https://www.eurogamer.net/the-last-of-us-joel-and-ellie-take-on-the-perils-of-god-of-war-in-fan-crossover",
+          "publishedOn": "2022-06-17T09:51:53.000Z",
+          "wordCount": 935,
+          "title": "The Last of Us' Joel and Ellie take on the perils of God of War in fan crossover",
+          "imageUrl": "https://assets.reedpopcdn.com/TLOUGOW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/TLOUGOW.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-snap-coming-to-nintendo-switch-online-expansion-pack-next-week",
+          "author": "Tom Phillips",
+          "description": "N64 classic Pokémon Snap will be added to the Nintendo Switch Online + Expansion Pack library next week, on Friday 24th June. \r\n\n\r\nThis is the game where you capture pictures of Pokémon, rather than capture the creatures themselves and force them to do your bidding. \r\n\n\r\nThere have been plenty of weird and wonderful Pokémon spin-offs over the years, but Snap holds a firm place as one of the best. Via an on-rails safari through Pokémon environments, you get to see the little critters mucking about in their natural habitats. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-snap-coming-to-nintendo-switch-online-expansion-pack-next-week",
+          "publishedOn": "2022-06-17T09:48:38.000Z",
+          "wordCount": 743,
+          "title": "Pokémon Snap coming to Nintendo Switch Online + Expansion Pack next week",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_posnyKG.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_posnyKG.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/leftover-ideas-for-returnal-could-be-used-in-housemarques-next-original-ip",
+          "author": "Ed Nightingale",
+          "description": "Some ideas left on the cutting room floor for Returnal could end up in Housemarque's next game.\r\n\n\r\nSpeaking to VGC, senior narrative designer Eevi Korhonen discussed the future of the studio and whether the story of Selene was finished.\r\n\n\r\n\"Returnal was so ambitious,\" Korhonen said. \"We dreamt super big, but we still had to leave so much on the cutting room floor. All of these ideas and narrative systems. I'm super excited to pick up those pieces and see how those fit our new IP story.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/leftover-ideas-for-returnal-could-be-used-in-housemarques-next-original-ip",
+          "publishedOn": "2022-06-17T09:45:14.000Z",
+          "wordCount": 935,
+          "title": "Leftover ideas for Returnal could be used in Housemarque's next original IP",
+          "imageUrl": "https://assets.reedpopcdn.com/returnals-latest-patch-has-another-crack-at-making-more-deceased-scouts-appear-1621530791129.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/returnals-latest-patch-has-another-crack-at-making-more-deceased-scouts-appear-1621530791129.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/v-rising-hits-2m-sold-in-first-month",
+          "author": "Tom Phillips",
+          "description": "Vampiric survival game V Rising has hit the 2m sales milestone since launching itself fangs-first onto Steam a month ago. \r\n\n\r\nThe game's early access version - a mix of base-building and crafting with multiplayer elements - has proven very popular, and positive reviews helped it hit 1m copies sold in just over a week. \r\n\n\r\n\"We at Stunlock are very proud of the amazing start V Rising has made since launching on Early Access,\"  Rickard Frisegård, boss of Swedish developer Stunklock said. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/v-rising-hits-2m-sold-in-first-month",
+          "publishedOn": "2022-06-17T09:21:26.000Z",
+          "wordCount": 758,
+          "title": "V Rising hits 2m sold in first month",
+          "imageUrl": "https://assets.reedpopcdn.com/vrising_art_3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/vrising_art_3.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/final-fantasy-7-crisis-core-remaster-coming-this-winter",
           "author": "Ed Nightingale",
@@ -8576,36 +8636,6 @@
           "wordCount": 813,
           "title": "New York attorney general announces Twitch, Discord investigation",
           "imageUrl": "https://assets.reedpopcdn.com/03cuomo-briefing-tish-james1-videoSixteenByNine3000-v2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/03cuomo-briefing-tish-james1-videoSixteenByNine3000-v2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/creaks-developer-unveils-hand-crafted-dystopian-adventure-phonopolis",
-          "author": "Matt Wales",
-          "description": "Amanita Design - the developer behind the acclaimed likes of Samorost, Machinarium, Creaks, and last year's surreal horror Happy Games - has unveiled its latest project: \"hand-crafted\" dystopian adventure Phonopolis.\nPhonopolis, which makes use of actual corrugated cardboard sets and a 12fps stop-motion animation style inspired by classic animated films, casts players as Felix, a thoughtful young man who must try and stop the titular city's authoritarian leader from playing the Absolute tone - an occurrence that would effectively cause Felix and his fellow citizens to lose their humanity.\nWhat follows is a story-driven puzzle adventure encompassing \"relatable, real-world themes\", including manipulation and individualism. That doesn't mean it'll be heavy going, though; Amanita says Phonopolis will explore its subject matter in a \"playful and light-hearted\" way.\n Read more",
-          "link": "https://www.eurogamer.net/creaks-developer-unveils-hand-crafted-dystopian-adventure-phonopolis",
-          "publishedOn": "2022-05-18T21:56:41.000Z",
-          "wordCount": 803,
-          "title": "Creaks developer unveils \"hand-crafted\" dystopian adventure Phonopolis",
-          "imageUrl": "https://assets.reedpopcdn.com/phonopolis.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/phonopolis.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/naughty-dogs-much-rumoured-the-last-of-us-remake-reportedly-launching-this-year",
-          "author": "Matt Wales",
-          "description": "Naughty Dog's much-rumoured, but as yet still unannounced, The Last of Us remake for PlayStation 5 will reportedly launch before the end of this year.\r\n\n\r\nWord of a PlayStation 5 remake for The Last of Us first surfaced in April 2021 when Bloomberg reported the project had initially been in the works at Sony's San Diego-based Visual Arts Service Group before Naughty Dog was asked to take over. Further evidence of the project's existence emerged earlier this year, when a member of Naughty Dog's QA team listed an \"unannounced remake\" on their resumé - a reference since removed.\r\n\n\r\nYet while there's still no official word on a Last of Us remake, rumours of the project continue to swirl, with ever-leaky GamesBeat reporter Jeff Grubb now claiming it's set for a 2022 release.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/naughty-dogs-much-rumoured-the-last-of-us-remake-reportedly-launching-this-year",
-          "publishedOn": "2022-05-18T20:59:32.000Z",
-          "wordCount": 886,
-          "title": "Naughty Dog's much-rumoured The Last of Us remake reportedly launching this year",
-          "imageUrl": "https://assets.reedpopcdn.com/the-last-of-us_w2T9RcH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-last-of-us_w2T9RcH.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/thunderful-has-three-unannounced-steamworld-games-in-the-works-alongside-headhunter",
-          "author": "Matt Wales",
-          "description": "Thunderful Games, the studio formed after the merger of developers Zoink and Image & Form, has confirmed it currently has four SteamWorld titles in the works, including the previously announced SteamWorld Headhunter.\r\n\n\r\nHeadhunter - a \"stylised and colourful, third-person co-op action adventure\" that was announced last November - initially looked like it would be the sixth entry in the celebrated series, following on from SteamWorld Tower Defense, SteamWorld Dig, SteamWorld Heist, SteamWorld Dig 2, and SteamWorld Quest. That may no longer be the case, however.\r\n\n\r\nAccording to Thunderful's latest earnings report (thanks IGN), Headhunter, which is now scheduled for a 2023 release, won't be the only SteamWorld title coming that year. An accompany release schedule reveals that Thunderful has three additional, currently unannounced SteamWorld games in development, with two of those also due in 2023.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/thunderful-has-three-unannounced-steamworld-games-in-the-works-alongside-headhunter",
-          "publishedOn": "2022-05-18T19:42:03.000Z",
-          "wordCount": 945,
-          "title": "Thunderful has three unannounced SteamWorld games in the works alongside Headhunter",
-          "imageUrl": "https://assets.reedpopcdn.com/steamworld-dig_G13IDWY.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steamworld-dig_G13IDWY.jpg"
         }
       ]
     }
