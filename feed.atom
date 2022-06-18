@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T06:27:10.814Z</updated>
+    <updated>2022-06-18T12:28:26.604Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mitochondria and the origin of eukaryotes]]></title>
+        <id>https://arstechnica.com/?p=1861310</id>
+        <link href="https://arstechnica.com/?p=1861310"/>
+        <updated>2022-06-18T11:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Were organelles a driving force or late addition in the evolution of cells like ours?]]></summary>
+        <author>
+            <name>Knowable Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday Squid Blogging: Signature Steamed Giant Squid with Thai Lime Sauce]]></title>
         <id>https://www.schneier.com/blog/archives/2022/06/friday-squid-blogging-signature-steamed-giant-squid-with-thai-lime-sauce.html</id>
@@ -11541,89 +11551,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A voltage fluctuation could cause the cars to roll away when parked.]]></summary>
         <author>
             <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular Diameter Turnaround]]></title>
-        <id>https://xkcd.com/2622/</id>
-        <link href="https://xkcd.com/2622/"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/angular_diameter_turnaround.png" title="Thank you to Katie Mack for teaching me about this effect, and to Janelle Shane for describing redshifts as 'like galaxies sinking into a pool of dilute blood,' which is how I'll see them from now on." alt="Thank you to Katie Mack for teaching me about this effect, and to Janelle Shane for describing redshifts as 'like galaxies sinking into a pool of dilute blood,' which is how I'll see them from now on." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.24: Introducing Non-Graceful Node Shutdown Alpha]]></title>
-        <id>https://kubernetes.io/blog/2022/05/20/kubernetes-1-24-non-graceful-node-shutdown-alpha/</id>
-        <link href="https://kubernetes.io/blog/2022/05/20/kubernetes-1-24-non-graceful-node-shutdown-alpha/"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors Xing Yang and Yassine Tijani (VMware)
-Kubernetes v1.24 introduces alpha support for Non-Graceful Node Shutdown. This feature allows stateful workloads to failover to a different node after the original node is shutdown or in a non-recoverable state such as hardware failure or broken OS.
-How is this different from Graceful Node Shutdown
-You might have heard about the Graceful Node Shutdown capability of Kubernetes,
-and are wondering how the Non-Graceful Node Shutdown feature is different from that. Graceful Node Shutdown
-allows Kubernetes to detect when a node is shutting down cleanly, and handles that situation appropriately.
-A Node Shutdown can be "graceful" only if the node shutdown action can be detected by the kubelet ahead
-of the actual shutdown. However, there are cases where…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea of Thieves is calling all clue hunters as its first narrative Mystery goes live]]></title>
-        <id>https://www.eurogamer.net/sea-of-thieves-is-calling-all-clue-hunters-as-its-first-narrative-mystery-goes-live</id>
-        <link href="https://www.eurogamer.net/sea-of-thieves-is-calling-all-clue-hunters-as-its-first-narrative-mystery-goes-live"/>
-        <updated>2022-05-19T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Sea of Thieves' sixth season of content might be well reaching its end point, but developer Rare still has a little something up is sleeve before Season 7 arrives, and it's now inviting clue hunters to get stuck into a new "multi-channel narrative experience" it's calling Mysteries.
-
-
-Mysteries were originally discussed back in January, when Rare laid out its plans for Sea of Thieves in 2022. The big gambit this year, if you're unaware, is an ongoing, season-spanning narrative that will progress across monthly in-game story episodes known as Adventures.
-
-
-It's a promising idea that so far doesn't really seem to have found its footing, with Seas of Thieves' initial set of Adventures having felt decidedly undercooked, both in terms of their challenges and narrative presentation. But with three Adventures now under its belt, Rare is ready to launch the other major component of 2022's ambitious narrative plans: Mysteries.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas looks to a Clarence Thomas opinion to defend its social media law]]></title>
-        <id>https://arstechnica.com/?p=1855325</id>
-        <link href="https://arstechnica.com/?p=1855325"/>
-        <updated>2022-05-19T19:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Thomas argued that social networks are like common carriers.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sims 4 still teasing werewolves as two new Kit DLCs announced]]></title>
-        <id>https://www.eurogamer.net/sims-4-still-seemingly-teasing-werewolves-as-two-new-kit-dlcs-announced</id>
-        <link href="https://www.eurogamer.net/sims-4-still-seemingly-teasing-werewolves-as-two-new-kit-dlcs-announced"/>
-        <updated>2022-05-19T18:54:39.000Z</updated>
-        <summary type="html"><![CDATA[EA has announced two new small-scale Kit expansions for The Sims 4 - one themed around evening fashion, the other around camping for kids - with both due to release on 26th May. Astute readers may note the word werewolf is yet to feature, despite previous teases from EA, but there's still some hope it seems...
-
-
-The first of EA's newly announced expansions is the Moonlight Chic Kit, which appears to primarily focus its attention on new clothing options for your little digital pals, offering up new looks, designed by Parisian creator Paola Locatelli, said to be "perfect for all the experiences a Sim will encounter during a night out on the town".
-
-
-Expect "slinky dresses, flowing shirts and smart jackets, all of which can be styled with sneakers for casual fun or dressed up with some silk and sparkles for a romantic date."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A time paradox births a “freaking Kugelblitz” in Umbrella Academy S3 trailer]]></title>
-        <id>https://arstechnica.com/?p=1855211</id>
-        <link href="https://arstechnica.com/?p=1855211"/>
-        <updated>2022-05-19T18:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Too many siblings and not enough timeline spells trouble in this Netflix series.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
         </author>
     </entry>
 </feed>
