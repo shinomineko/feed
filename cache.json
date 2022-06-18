@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/06/friday-squid-blogging-signature-steamed-giant-squid-with-thai-lime-sauce.html",
+          "author": null,
+          "description": "<p>From a <a href=\"https://singaporefoodie.com/saveur-thai-at-new-tech-park/\">restaurant</a> in Singapore. It&#8217;s not actually giant squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/friday-squid-blogging-signature-steamed-giant-squid-with-thai-lime-sauce.html",
+          "publishedOn": "2022-06-17T21:05:25.000Z",
+          "wordCount": 964,
+          "title": "Friday Squid Blogging: Signature Steamed Giant Squid with Thai Lime Sauce",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/06/tracking-people-via-bluetooth-on-their-phones.html",
           "author": null,
           "description": "<p>We&#8217;ve always known that phones&#8212;and the people carrying them&#8212;can be uniquely identified from their Bluetooth signatures, and that we need security techniques to prevent that. This <a href=\"https://gizmodo.com/bluetooth-tracking-iphone-airtags-1849042375\">new research</a> shows that that&#8217;s not enough.</p>\n<blockquote><p>Computer scientists at the University of California San Diego proved in a <a href=\"https://cseweb.ucsd.edu/~schulman/docs/oakland22-bletracking.pdf\">study</a> published May 24 that <a href=\"https://www.eurekalert.org/news-releases/955287\">minute imperfections</a> in phones caused during manufacturing create a unique <a href=\"https://gizmodo.com/elon-musk-tesla-apple-airplay-carplay-audio-car-wifi-bl-1848996205\">Bluetooth beacon</a>, one that establishes a digital signature or fingerprint distinct from any other device. Though phones&#8217; Bluetooth uses cryptographic technology that limits trackability, using a radio receiver, these distortions in the Bluetooth signal can be discerned to track individual devices...</p></blockquote>",
@@ -414,16 +424,6 @@
           "wordCount": 473,
           "title": "Bluetooth Flaw Allows Remote Unlocking of Digital Locks",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/05/websites-that-collect-your-data-as-you-type.html",
-          "author": null,
-          "description": "<p>A surprising number of websites include <a href=\"https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/\">JavaScript keyloggers</a> that collect everything you type as you type it, not just when you submit a form.</p>\n<blockquote><p>Researchers from KU Leuven, Radboud University, and University of Lausanne crawled and analyzed the top 100,000 websites, looking at scenarios in which a user is visiting a site while in the European Union and visiting a site from the United States. They found that 1,844 websites gathered an EU user&#8217;s email address without their consent, and a staggering 2,950 logged a US user&#8217;s email in some form. Many of the sites seemingly do not intend to conduct the data-logging but incorporate third-party marketing and analytics services that cause the behavior...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/05/websites-that-collect-your-data-as-you-type.html",
-          "publishedOn": "2022-05-19T11:23:50.000Z",
-          "wordCount": 567,
-          "title": "Websites that Collect Your Data as You Type",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +432,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1861657",
+          "author": "Beth Mole",
+          "description": "It may seem reassuring, but it still means a whole lot of people with long-term symptoms.",
+          "link": "https://arstechnica.com/?p=1861657",
+          "publishedOn": "2022-06-17T18:43:26.000Z",
+          "wordCount": 977,
+          "title": "Long COVID 20-50% less likely after omicron than delta in vaccinated people",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1241255176-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1861596",
+          "author": "Andrew Cunningham",
+          "description": "AMD's Radeon RX 6000 series GPUs, in particular, are easy to find below MSRP.",
+          "link": "https://arstechnica.com/?p=1861596",
+          "publishedOn": "2022-06-17T18:26:51.000Z",
+          "wordCount": 898,
+          "title": "As cryptocurrency tumbles, prices for new and used GPUs continue to fall",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/IMG_1295-1-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1861540",
           "author": "Scharon Harding",
@@ -3661,26 +3681,6 @@
           "wordCount": 1080,
           "title": "Today’s the day when Boeing’s Starliner takes to the skies. Probably",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Photo-May-18-3-55-30-PM-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855140",
-          "author": "Andrew Cunningham",
-          "description": "Laptop also gets structural upgrades and an optional 2.5Gbps LAN module.",
-          "link": "https://arstechnica.com/?p=1855140",
-          "publishedOn": "2022-05-19T12:00:35.000Z",
-          "wordCount": 1133,
-          "title": "Modular, DIY-friendly Framework Laptop gets updated with 12th-gen Intel CPUs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/framework-hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1854908",
-          "author": "Scharon Harding",
-          "description": "HP Spectre laptops try out Intel discrete graphics, boosted webcams, new hues.",
-          "link": "https://arstechnica.com/?p=1854908",
-          "publishedOn": "2022-05-19T12:00:12.000Z",
-          "wordCount": 1227,
-          "title": "HP’s new Spectre laptops include options with Intel Arc, less noise",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Spectre-760x380.jpg"
         }
       ]
     },
@@ -3837,6 +3837,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-quarry-reportedly-started-life-as-signature-stadia-title-before-google-downsized-its-gaming-operation",
+          "author": "Matt Wales",
+          "description": "Earlier this month, developer Supermassive released its sumputous slasher horror The Quarry on PlayStation, Xbox, and PC in collaboration with publisher 2K Games - but a new report has claimed the game was originally in development as a \"signature\" title for Stadia, before Google made the decision to downsize its gaming operation and send the project elsewhere.\r\n\n\r\nStadia, of course, launched to much fanfare in 2019, and part of Google's promise to early adopters was that the service would bring its own console-like exclusives from both first- and third-parties. To that end, Google established its own internal game development studio and signed deals with external developers, including Supermassive, as announced in 2020.\r\n\n\r\nThose plans, however, changed dramatically just 14 months after Stadia's high-profile arrival, with Google announcing a major rethink of its cloud streaming strategy following a less-than-stellar launch, which included the cancellation of all internal game development as it began prioritising selling its tech to third-parties.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-quarry-reportedly-started-life-as-signature-stadia-title-before-google-downsized-its-gaming-operation",
+          "publishedOn": "2022-06-17T21:04:06.000Z",
+          "wordCount": 890,
+          "title": "The Quarry reportedly started life as \"signature\" Stadia title before Google downsized its gaming operation",
+          "imageUrl": "https://assets.reedpopcdn.com/How-to-save-everyone-in-The-Quarry-and-get-the-everyone-lives-best-ending.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/How-to-save-everyone-in-The-Quarry-and-get-the-everyone-lives-best-ending.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-dutys-anti-cheat-system-is-now-taking-cheaters-weapons-away",
+          "author": "Matt Wales",
+          "description": "As part of its ongoing war against cheaters, the team behind Call of Duty's server-side and kernel-level anti-cheat solution, known as Ricochet, has unveiled a new mitigation technique that takes a player's weapons (and fists) away when the system identifies them as a cheater.\r\n\n\r\nWord of this latest mitigation technique comes via a new blog update detailing the current state of Call of Duty's anti-cheat solution, and follows previously revealed anti-cheat techniques Cloaking and Damage Shield.\r\n\n\r\nDamage Shield, Richochet's first major mitigation technique, essentially works by turning on God Mode for all legitimate players when a cheater is detected in-match. Cloaking, meanwhile, makes it impossible for detected cheaters to see opponents and bullets, or even hear sounds.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-dutys-anti-cheat-system-is-now-taking-cheaters-weapons-away",
+          "publishedOn": "2022-06-17T19:00:12.000Z",
+          "wordCount": 1099,
+          "title": "Call of Duty's anti-cheat system is now taking cheaters' weapons away",
+          "imageUrl": "https://assets.reedpopcdn.com/call_of_duty_vanguard_warzone_season_3-(28).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call_of_duty_vanguard_warzone_season_3-(28).jpg"
+        },
         {
           "id": "https://www.eurogamer.net/why-are-indie-games-obsessed-with-frogs-and-witches",
           "author": "Ed Nightingale",
@@ -8646,86 +8666,6 @@
           "wordCount": 865,
           "title": "The first episode of the new Pokémon Legends Arceus YouTube anime is here",
           "imageUrl": "https://assets.reedpopcdn.com/Pokemon-Anime.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Pokemon-Anime.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/visit-post-apocalyptic-london-with-this-fallout-4-mod",
-          "author": "Ed Nightingale",
-          "description": "Today brings a look at gameplay for Fallout: London, the upcoming Fallout 4 PC mod that lets you explore the UK's post-apocalyptic capital.\r\n\n\r\nIt's planned to be about the size of the base game's Commonwealth map, making this a hugely ambitious piece of DLC.\r\n\n\r\n\"The mod encapsulates the gritty, adventurous nature of the Fallout games with a new world, factions, storylines, NPCs, weapons, creatures, and much more! This all comes together in a package tied with a uniquely British bow,\" reads the press release.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/visit-post-apocalyptic-london-with-this-fallout-4-mod",
-          "publishedOn": "2022-05-19T11:54:46.000Z",
-          "wordCount": 788,
-          "title": "Visit post-apocalyptic London with this Fallout 4 mod",
-          "imageUrl": "https://assets.reedpopcdn.com/11_EVEwMXV.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/11_EVEwMXV.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/god-of-war-and-the-simpsons-collide-in-hilarious-new-mod",
-          "author": "Victoria Kennedy",
-          "description": "A new mod for God of War shows off something I never imagined - but now I've seen it, I can't take my eyes off it: Homer and Bart Simpson stepping into the shoes of Kratos and Atreus. \nOh, and you know The Stranger (wink wink) we all meet at the beginning of the game - well, thanks to this mod, he becomes the Hi-diddly-hoing Ned Flanders.\nThe mod comes from Omega Fantasy (via IGN) and uses the character models from 2003's The Simpson's Hit and Run. And to be honest, if all this mod did was swap out God of War's characters for those from Hit and Run, it would have still been an incredibly amusing watch. \n Read more",
-          "link": "https://www.eurogamer.net/god-of-war-and-the-simpsons-collide-in-hilarious-new-mod",
-          "publishedOn": "2022-05-19T11:53:05.000Z",
-          "wordCount": 879,
-          "title": "God of War and The Simpsons collide in hilarious new mod",
-          "imageUrl": "https://assets.reedpopcdn.com/The-Simpsons-GoW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Simpsons-GoW.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/warzone-players-find-xp-glitch-in-king-kongs-testicles",
-          "author": "Ishraq Subhan",
-          "description": "Call of Duty Warzone's big Operation Monarch event, which sees the invasion of Caldera by King Kong and Godzilla, has been huge hit - with players finding ever more inventive ways to attack the great beasts.\r\n\n\r\nBut now, players have also found a questionable method of farming XP - in King Kong's private parts. \r\n\n\r\nA clip posted on the Warzone subreddit shows a player flying a helicopter toward's King Kong's giant testicles (which is easier said than done as Kong tends to crush anyone that heads towards him). \r\n \nRead more",
-          "link": "https://www.eurogamer.net/warzone-players-find-xp-glitch-in-king-kongs-testicles",
-          "publishedOn": "2022-05-19T11:45:48.000Z",
-          "wordCount": 778,
-          "title": "Warzone players find XP glitch in King Kong's testicles",
-          "imageUrl": "https://assets.reedpopcdn.com/warzone-kong.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/warzone-kong.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bungie-bolstering-efforts-to-maintain-safe-and-anti-racist-community-spaces",
-          "author": "Matt Wales",
-          "description": "Bungie has responded to the recent terrorist attack in Buffalo that resulted in the deaths of ten people and the injury of three others by announcing a new charity initiative and pledging to bolster its ongoing efforts \"to maintain safe and anti-racist spaces\" within its community.\r\n\n\r\n\"On Saturday, 14th May, a young white man drove hours from his home to a Black neighborhood in Buffalo, New York, and opened fire in a crowded supermarket, killing ten people and maiming three others,\" Bungie said in a statement. \"It has since been confirmed that this was an act of terror aimed at Black Americans and is being investigated as a hate crime. Our hearts go out to the victims of this tragedy, and anyone impacted by this act of violence.\"\r\n\n\r\nThe studio, in collaboration with its Black at Bungie inclusion club, has announced a number of initiatives in response to the attack. It will, for instance, donate all profits made through the sale of its Be Heard collectable pin over the next 12 months to the Southern Poverty Law Center - a charity whose work includes \"monitoring hate groups and other extremists throughout the United States and exposing their activities to the public, the media, and law enforcement.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bungie-bolstering-efforts-to-maintain-safe-and-anti-racist-community-spaces",
-          "publishedOn": "2022-05-19T11:42:36.000Z",
-          "wordCount": 1082,
-          "title": "Bungie says it will bolster efforts \"to maintain safe and anti-racist community spaces\"",
-          "imageUrl": "https://assets.reedpopcdn.com/bungie-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bungie-logo.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ukraine-based-frogwares-given-mega-grant-by-epic-games",
-          "author": "Tom Phillips",
-          "description": "Sherlock Holmes and Sinking City developer Frogwares, which is based in Ukraine, has been given an \"Epic MegaGrant\" by Epic Games. \r\n\n\r\nThe undisclosed sum of money will go to employees to aid in their relocation to safer areas of the country, or elsewhere in Europe, and to maintain their financial stability going forward, Frogwares announced.\r\n\n\r\nThe funding package will also allow for Frogwares to supply its team with specialised equipment and migrate its data infrastructure.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ukraine-based-frogwares-given-mega-grant-by-epic-games",
-          "publishedOn": "2022-05-19T11:27:31.000Z",
-          "wordCount": 829,
-          "title": "Ukraine-based Frogwares given \"mega grant\" by Epic Games",
-          "imageUrl": "https://assets.reedpopcdn.com/-1648034292205_uvp92qt.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1648034292205_uvp92qt.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-releases-first-ps5-bundle-with-horizon-forbidden-west",
-          "author": "Ed Nightingale",
-          "description": "Sony has released its first PlayStation 5 bundle that includes Horizon Forbidden West.\r\n\n\r\nThe bundle has been spotted across UK stores - though of course it's mostly sold out.\r\n\n\r\nReleased earlier this year, Horizon Forbidden West is Sony's current premiere title for the console, though it was somewhat overshadowed by the release of Elden Ring a week later. This bundle should help to boost the game's profile.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-releases-first-ps5-bundle-with-horizon-forbidden-west",
-          "publishedOn": "2022-05-19T11:03:40.000Z",
-          "wordCount": 822,
-          "title": "Sony releases first PS5 bundle with Horizon Forbidden West",
-          "imageUrl": "https://assets.reedpopcdn.com/ps5-horizon-fw-bundle.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps5-horizon-fw-bundle.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/battlefield-2042s-128-player-breakthrough-has-been-removed",
-          "author": "Ishraq Subhan",
-          "description": "EA DICE has removed the 128-player Breakthrough offering from Battlefield 2042 in its latest patch.\r\n\n\r\nUpdate 4.1, which released today, has made substantial changes to the game's All-Out Warfare playlists, which are available on current-gen consoles and PC. \r\n\n\r\nIn a blog post, DICE explained the removal of 128-player Breakthrough lobbies was necessary to increase \"the value and impact of an individual player\", as they currently were full of \"intensity and chaos\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/battlefield-2042s-128-player-breakthrough-has-been-removed",
-          "publishedOn": "2022-05-19T11:02:59.000Z",
-          "wordCount": 954,
-          "title": "Battlefield 2042's 128-player Breakthrough has been removed",
-          "imageUrl": "https://assets.reedpopcdn.com/battlefield-2042-review-dices-magic-fps-formula-gets-spread-too-thin-1637327275319.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield-2042-review-dices-magic-fps-formula-gets-spread-too-thin-1637327275319.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-york-attorney-general-announces-twitch-discord-investigation",
-          "author": "Tom Phillips",
-          "description": "Twitch and Discord will be investigated by the New York attorney general, for the part they played in the racially-motivated mass shooting in Buffalo.\r\n\n\r\nAttorney general Letitia James announced the investigation last night, in response to the attack which killed 10 people and wounded three more. \r\n\n\r\nThe perpetrator livestreamed the attack via Twitch for two minutes before the video was removed. Before the attack took place, he had posted numerous messages discussing and promoting his plans via Discord, as well as on the notorious imageboards 4chan and 8chan. All will now be part of James' invesitigation. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-york-attorney-general-announces-twitch-discord-investigation",
-          "publishedOn": "2022-05-19T10:02:54.000Z",
-          "wordCount": 813,
-          "title": "New York attorney general announces Twitch, Discord investigation",
-          "imageUrl": "https://assets.reedpopcdn.com/03cuomo-briefing-tish-james1-videoSixteenByNine3000-v2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/03cuomo-briefing-tish-james1-videoSixteenByNine3000-v2.jpg"
         }
       ]
     }
