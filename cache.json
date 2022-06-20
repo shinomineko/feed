@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/06/hartzbleed-a-new-side-channel-attack.html",
+          "author": null,
+          "description": "<p>Hartzbleed is a new side-channel attack that works against a variety of microprocressors. Deducing cryptographic keys by analyzing power consumption has long been an attack, but it&#8217;s not generally viable because measuring power consumption is often hard. This <a href=\"https://arstechnica.com/information-technology/2022/06/researchers-exploit-new-intel-and-amd-cpu-flaw-to-steal-encryption-keys/\">new attack</a> measures power consumption by measuring time, making it easier to exploit.</p>\n<blockquote><p>The team discovered that dynamic voltage and frequency scaling (DVFS)&#8212;a power and thermal management feature added to every modern CPU&#8212;allows attackers to deduce the changes in power consumption by monitoring the time it takes for a server to respond to specific carefully made queries. The discovery greatly reduces what&#8217;s required. With an understanding of how the DVFS feature works, power side-channel attacks become much simpler timing attacks that can be done remotely...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/hartzbleed-a-new-side-channel-attack.html",
+          "publishedOn": "2022-06-20T11:23:53.000Z",
+          "wordCount": 863,
+          "title": "Hartzbleed: A New Side-Channel Attack",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/06/friday-squid-blogging-signature-steamed-giant-squid-with-thai-lime-sauce.html",
           "author": null,
           "description": "<p>From a <a href=\"https://singaporefoodie.com/saveur-thai-at-new-tech-park/\">restaurant</a> in Singapore. It&#8217;s not actually giant squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -402,6 +412,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1861479",
+          "author": "The Conversation",
+          "description": "Switching to renewables will only happen if gas prices remain expensive.",
+          "link": "https://arstechnica.com/?p=1861479",
+          "publishedOn": "2022-06-20T11:00:00.000Z",
+          "wordCount": 1959,
+          "title": "High fossil fuel prices are good for the planet—here’s how to keep it that way",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1861201",
+          "author": "Eric Berger",
+          "description": "\"Has nobody at NASA read the space policy?\"",
+          "link": "https://arstechnica.com/?p=1861201",
+          "publishedOn": "2022-06-20T10:45:18.000Z",
+          "wordCount": 1610,
+          "title": "We got a leaked look at NASA’s future Moon missions—and likely delays",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1861360",
           "author": "Undark Magazine",
@@ -3481,16 +3511,6 @@
           "wordCount": 1288,
           "title": "Google’s past failures were on full display at I/O 2022",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/14-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855398",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has discounts on Hulu memberships, AirPods, and LG OLED TVs.",
-          "link": "https://arstechnica.com/?p=1855398",
-          "publishedOn": "2022-05-21T21:17:43.000Z",
-          "wordCount": 2617,
-          "title": "The weekend’s best deals: Epic PC games sale, 1Password subscriptions, and more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/dealmaster052122-760x380.jpg"
         }
       ]
     },
@@ -3637,6 +3657,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sorry-elden-ring-players-most-of-its-song-lyrics-are-meaningless",
+          "author": "Ed Nightingale",
+          "description": "Elden Ring's soundtrack is full of choral chanting, but it turns out the lyrics aren't actually Latin.\r\n\n\r\nReddit user Magister Organi, a Latin student, has been diligently researching the lyrics used in the game's soundtrack and has confirmed the lyrics are in fact gibberish, despite many fans seeking hidden meanings.\r\n\r\n\n\r\nInstead, the lyrics are computer generated and adjusted to sound like an ancient language.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sorry-elden-ring-players-most-of-its-song-lyrics-are-meaningless",
+          "publishedOn": "2022-06-20T11:54:51.000Z",
+          "wordCount": 4292,
+          "title": "Sorry Elden Ring players, most of its song lyrics are meaningless",
+          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-screenshot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-screenshot.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/heroes-of-newerth-shuts-down-today",
+          "author": "Tom Phillips",
+          "description": "Once-popular MOBA Heroes of Newerth shuts down its servers today. \r\n\n\r\nToday's final day of operation was announced back in December, when developer Frostburn Studios set out a plan to sunset the game. \r\n\n\r\nThe ability to purchase Gold Coin currency was disabled last year, while new accounts were disabled on New Year's Eve. Today marks the official close-down date of Newerth's main services. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/heroes-of-newerth-shuts-down-today",
+          "publishedOn": "2022-06-20T11:32:09.000Z",
+          "wordCount": 4188,
+          "title": "Heroes of Newerth shuts down today",
+          "imageUrl": "https://assets.reedpopcdn.com/newerth_tdWuStb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/newerth_tdWuStb.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/diablo-immortal-chinese-release-delayed-just-days-before-launch",
+          "author": "Tom Phillips",
+          "description": "Diablo Immortal has had its high-profile Chinese release pulled, just four days before it was due to become available. \r\n\n\r\nBlizzard's free-to-play dungeon crawler was set to launch in China on 23rd June. Yesterday, that no longer became the case, as local publisher NetEase claimed in a brief statetement that it now needed to \"optimise\" the game's experience. \r\n\n\r\nThe last-minute delay has raised eyebrows, especially in the wake of headlines surrouding Diablo Immortal's monetisation practices. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/diablo-immortal-chinese-release-delayed-just-days-before-launch",
+          "publishedOn": "2022-06-20T11:14:55.000Z",
+          "wordCount": 4356,
+          "title": "Diablo Immortal Chinese release delayed just days before launch",
+          "imageUrl": "https://assets.reedpopcdn.com/DiabloImmortal_NecromancerGuide_Header.png/BROK/thumbnail/1600x900/format/jpg/quality/80/DiabloImmortal_NecromancerGuide_Header.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/am2r-team-reunite-for-okami-inspired-metroidvania-bo-path-of-the-teal-lotus",
+          "author": "Ed Nightingale",
+          "description": "Bō: Path of the Teal Lotus is a new Metroidvania in development from the team behind Another Metroid 2 Remake (AM2R).\r\n\n\r\nIt's influenced by Okami, Hollow Knight and Celeste (among others), as well as Studio Ghibli anime, and is inspired by Japanese folklore.\r\n\n\r\nPlayers will take the role of Bō, a Tentaihana (celestial blossom), who wields a shapeshifting bō staff and will gain mystical abilities throughout the game. Check out the trailer below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/am2r-team-reunite-for-okami-inspired-metroidvania-bo-path-of-the-teal-lotus",
+          "publishedOn": "2022-06-20T11:11:51.000Z",
+          "wordCount": 4191,
+          "title": "AM2R team reunite for Okami-inspired Metroidvania Bō: Path of the Teal Lotus",
+          "imageUrl": "https://assets.reedpopcdn.com/B%C5%8D_-Path-of-the-Teal-Lotus-Kickstarter-Launch-Trailer!-0-17-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/B%C5%8D_-Path-of-the-Teal-Lotus-Kickstarter-Launch-Trailer!-0-17-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/mario-odyssey-playable-with-10-players-in-new-multiplayer-mod",
+          "author": "Ed Nightingale",
+          "description": "Mario Odyssey is now playable with up to 10 players in online multiplayer thanks to a new mod.\r\n\n\r\nIt's been developed by CraftyBoss and is only playable on a modded Switch console using an unofficial ROM of the game.\r\n\n\r\n\"Have fun exploring kingdoms with friends, playing game modes, or beating the game as fast as possible!\" reads a description of the mod. \"This mod is still early in development, so expect bugs and un-refined aspects as we work hard to improve it and make the mod as polished as possible.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mario-odyssey-playable-with-10-players-in-new-multiplayer-mod",
+          "publishedOn": "2022-06-20T10:35:53.000Z",
+          "wordCount": 4239,
+          "title": "Mario Odyssey playable with 10 players in new multiplayer mod",
+          "imageUrl": "https://assets.reedpopcdn.com/Super-Mario-Odyssey-Online-Multiplayer-is-OUT-NOW-0-6-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Super-Mario-Odyssey-Online-Multiplayer-is-OUT-NOW-0-6-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/destiny-2-cheaters-agree-to-pay-bungie-135m",
+          "author": "Tom Phillips",
+          "description": "A group of Destiny 2 cheaters have agreed to settle ongoing litigation filed by developer Bungie, and pay $13.5m in damages. \r\n\n\r\nThe settlement means cheat company Elite Boss Tech and its various associates have accepted Bungie's claim its cheat software violated Destiny 2's user agreement. In return, Bungie has dropped other claims of its own TorrentFreak reported.\r\n\n\r\nThe $13.5m damages was calculated from the number of times Elite Boss Tech's software was downloaded - 6765. Each instance incurred its own individual $2k penalty.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/destiny-2-cheaters-agree-to-pay-bungie-135m",
+          "publishedOn": "2022-06-20T10:14:59.000Z",
+          "wordCount": 4324,
+          "title": "Destiny 2 cheaters agree to pay Bungie $13.5m",
+          "imageUrl": "https://assets.reedpopcdn.com/Destiny-2-new-season-header.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/Destiny-2-new-season-header.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dragons-dogma-reaches-highest-steam-peak-since-2016-release",
+          "author": "Ed Nightingale",
+          "description": "Dragon's Dogma has hit its highest concurrent player peak on Steam since it released back in 2016.\r\n\n\r\nThe news follows the recent Dragon's Dogma livestream, in which Dragon's Dogma 2 development was confirmed.\r\n\r\n\n\r\nSince then, the game has hit a new peak of 6582 concurrent players according to SteamDB. That's the highest number of concurrent players since hitting 27,368 when it was released six years ago.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dragons-dogma-reaches-highest-steam-peak-since-2016-release",
+          "publishedOn": "2022-06-20T10:04:03.000Z",
+          "wordCount": 4209,
+          "title": "Dragon's Dogma reaches highest Steam peak since 2016 release",
+          "imageUrl": "https://assets.reedpopcdn.com/dragons-dogma-dark-arisen_g2j3kSx.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dragons-dogma-dark-arisen_g2j3kSx.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/alice-madness-returns-has-been-quietly-removed-from-steam-again",
           "author": "Vikki Blake",
