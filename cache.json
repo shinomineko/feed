@@ -176,6 +176,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.schneier.com/blog/archives/2022/06/hertzbleed-a-new-side-channel-attack.html",
+          "author": null,
+          "description": "<p>Hertzbleed is a new side-channel attack that works against a variety of microprocressors. Deducing cryptographic keys by analyzing power consumption has long been an attack, but it&#8217;s not generally viable because measuring power consumption is often hard. This <a href=\"https://arstechnica.com/information-technology/2022/06/researchers-exploit-new-intel-and-amd-cpu-flaw-to-steal-encryption-keys/\">new attack</a> measures power consumption by measuring time, making it easier to exploit.</p>\n<blockquote><p>The team discovered that dynamic voltage and frequency scaling (DVFS)&#8212;a power and thermal management feature added to every modern CPU&#8212;allows attackers to deduce the changes in power consumption by monitoring the time it takes for a server to respond to specific carefully made queries. The discovery greatly reduces what&#8217;s required. With an understanding of how the DVFS feature works, power side-channel attacks become much simpler timing attacks that can be done remotely...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/hertzbleed-a-new-side-channel-attack.html",
+          "publishedOn": "2022-06-20T11:23:53.000Z",
+          "wordCount": 4154,
+          "title": "Hertzbleed: A New Side-Channel Attack",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/06/hartzbleed-a-new-side-channel-attack.html",
           "author": null,
           "description": "<p>Hartzbleed is a new side-channel attack that works against a variety of microprocressors. Deducing cryptographic keys by analyzing power consumption has long been an attack, but it&#8217;s not generally viable because measuring power consumption is often hard. This <a href=\"https://arstechnica.com/information-technology/2022/06/researchers-exploit-new-intel-and-amd-cpu-flaw-to-steal-encryption-keys/\">new attack</a> measures power consumption by measuring time, making it easier to exploit.</p>\n<blockquote><p>The team discovered that dynamic voltage and frequency scaling (DVFS)&#8212;a power and thermal management feature added to every modern CPU&#8212;allows attackers to deduce the changes in power consumption by monitoring the time it takes for a server to respond to specific carefully made queries. The discovery greatly reduces what&#8217;s required. With an understanding of how the DVFS feature works, power side-channel attacks become much simpler timing attacks that can be done remotely...</p></blockquote>",
@@ -404,16 +414,6 @@
           "wordCount": 732,
           "title": "The Justice Department Will No Longer Charge Security Researchers with Criminal Hacking",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/05/forging-australian-drivers.html",
-          "author": null,
-          "description": "<p>The New South Wales digital driver&#8217;s license has <a href=\"https://blog.dvuln.com/blogs/servicensw-digital-superbad\">multiple implementation flaws</a> that allow for easy forgeries.</p>\n<blockquote><p>This file is encrypted using AES-256-CBC encryption combined with Base64 encoding.</p>\n<p>A 4-digit application PIN (which gets set during the initial onboarding when a user first instals the application) is the encryption password used to protect or encrypt the licence data.</p>\n<p>The problem here is that an attacker who has access to the encrypted licence data (whether that be through accessing a phone backup, direct access to the device or remote compromise) could easily brute-force this 4-digit PIN by using a script that would try all 10,000 combinations&#8230;...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/05/forging-australian-drivers.html",
-          "publishedOn": "2022-05-23T11:09:25.000Z",
-          "wordCount": 563,
-          "title": "Forging Australian Driver’s Licenses",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +422,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1862113",
+          "author": "Beth Mole",
+          "description": "Small NIH study offers \"encouraging\" news for concerns about Paxlovid.",
+          "link": "https://arstechnica.com/?p=1862113",
+          "publishedOn": "2022-06-21T22:43:00.000Z",
+          "wordCount": 1669,
+          "title": "COVID rebounds: Immune responses may be reignited by cleanup of viral scraps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1862064",
+          "author": "Kyle Orland",
+          "description": "KOTOR II on Switch isn't the first game that players literally couldn't finish.",
+          "link": "https://arstechnica.com/?p=1862064",
+          "publishedOn": "2022-06-21T21:02:31.000Z",
+          "wordCount": 1875,
+          "title": "A brief history of (unintentionally) unbeatable games",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1862011",
+          "author": "Dan Goodin",
+          "description": "Fundamental flaws uncovered in Mega's encryption scheme show service can read your data.",
+          "link": "https://arstechnica.com/?p=1862011",
+          "publishedOn": "2022-06-21T21:00:15.000Z",
+          "wordCount": 1660,
+          "title": "Mega says it can’t decrypt your files. New POC exploit shows otherwise",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1862058",
+          "author": "Jon Brodkin",
+          "description": "Laid-off Tesla workers say WARN Act violation means Tesla owes them for back pay.",
+          "link": "https://arstechnica.com/?p=1862058",
+          "publishedOn": "2022-06-21T19:47:09.000Z",
+          "wordCount": 1943,
+          "title": "Lawsuit: Tesla broke US law by not providing 60-day notice before mass layoff",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1861998",
+          "author": "Andrew Cunningham",
+          "description": "Dedicated Nvidia RTX A5000 GPUs, 12th-gen Intel CPUs, and up to 128GB of DDR5.",
+          "link": "https://arstechnica.com/?p=1861998",
+          "publishedOn": "2022-06-21T19:08:52.000Z",
+          "wordCount": 1843,
+          "title": "Lenovo ThinkStation P360 Ultra crams 16 CPU cores and a GPU into a tiny desktop",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1861952",
+          "author": "Jennifer Ouellette",
+          "description": "The super-sized two-part season finale is basically a pair of feature films.",
+          "link": "https://arstechnica.com/?p=1861952",
+          "publishedOn": "2022-06-21T18:56:20.000Z",
+          "wordCount": 1823,
+          "title": "No hope for Hawkins? Trailer for Stranger Things S4 Part 2 is pretty bleak",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1861950",
           "author": "Eric Berger",
@@ -3581,16 +3641,6 @@
           "wordCount": 1037,
           "title": "Pfizer says 3-dose COVID vaccine for under 5s produces strong immune response",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/GettyImages-1235221438-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1853885",
-          "author": "Ron Amadeo",
-          "description": "All your favorite dead products from the past are back.",
-          "link": "https://arstechnica.com/?p=1853885",
-          "publishedOn": "2022-05-23T10:45:18.000Z",
-          "wordCount": 1288,
-          "title": "Google’s past failures were on full display at I/O 2022",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/14-760x380.jpg"
         }
       ]
     },
@@ -3716,6 +3766,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/blizzard-confirms-world-of-warcraft-dragonflight-expansion-is-out-this-year",
+          "author": "Matt Wales",
+          "description": "Following its conspicuously release-window-free unveiling back in April, Blizzard has now confirmed World of Warcraft's Dragonflight expansion will launch later this year.\r\n\n\r\nDragonflight, as detailed in Blizzard's April reveal stream, will give players access to the long-hidden ancestral home of dragonkind, known as the Dragon Isles, introducing four new areas - the Waking Shores starting zone, Ohn’ahran Plains, Azure Span, and Thaldraszus - complete with new dungeons and raids.\r\n\n\r\nDragonflight also adds the Dracthyr Evokers - a new playable race-class hybrid that can, depending on a players' chosen class specialisations, focus on either damage dealing or healing - plus a new skill-based flight system tied to customisable dragon companions.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/blizzard-confirms-world-of-warcraft-dragonflight-expansion-is-out-this-year",
+          "publishedOn": "2022-06-21T23:56:40.000Z",
+          "wordCount": 4676,
+          "title": "Blizzard confirms World of Warcraft Dragonflight expansion is out this year",
+          "imageUrl": "https://assets.reedpopcdn.com/world-of-warcraft-dragonflight_ULmcXlO.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/world-of-warcraft-dragonflight_ULmcXlO.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/activision-blizzard-shareholders-vote-to-publish-annual-abuse-harassment-and-discrimination-report",
+          "author": "Matt Wales",
+          "description": "Activision Blizzard shareholders have voted to approve a proposal that the company should publish an annual report detailing the effectiveness and outcomes of its efforts to prevent abuse, harassment, and discrimination in its workplace - a non-binding vote Activision has, as yet, only said it will \"carefully consider\".\r\n\n\r\nThe proposal, originally raised by New York State Comptroller Thomas DiNapoli in February, requested that Activision publically release an annual report detailing several key metrics: the total number of pending sexual abuse, harassment or discrimination complaints the company is seeking to resolve through internal processes or ligation; details of the company's progress toward reducing the average time it takes to resolve sexual abuse, harassment or discrimination complaints; the amount of money it has spent settling disputes related to sexual abuse, harassment or discrimination, and finally pay and hours worked consolidated data.\r\n\n\r\nWhile this kind of transparency might seem prudent given the shocking allegations that have surfaced in relation to Activision Blizzard's workplace practices over the last year, and given that the publisher remains embroiled in a number of lawsuits relating to those practices - including last July's State of California filing, which called the company a \"breeding ground for harassment and discrimination against women\" - the company's board of directors instead wrote to shareholders in May unanimously urging them to vote against the proposal. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-blizzard-shareholders-vote-to-publish-annual-abuse-harassment-and-discrimination-report",
+          "publishedOn": "2022-06-21T23:46:43.000Z",
+          "wordCount": 4650,
+          "title": "Activision Blizzard shareholders vote to publish annual abuse, harassment, and discrimination report",
+          "imageUrl": "https://assets.reedpopcdn.com/activision-blizzard-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-blizzard-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ocean-survival-adventure-raft-leaves-steam-early-access-after-five-years-of-development",
+          "author": "Matt Wales",
+          "description": "After more than five years of development, Redbeet Interactive's enormously enjoyable open water survival adventure Raft has just received its full version 1.0 release, bringing, among other things, the final chunk of its exploratory story campaign.\r\n\n\r\nRaft, if you're unfamiliar, first started to attract attention as a free prototype on itch.io back in 2016. Redbeet steadily expanded on that version's core survival loop - in which players start out on a tiny wooden raft in the middle of the ocean, hooking up foods, supplies, and building materials until their tiny vessel is a veritable sea-faring palace - in preparation for a commercial early access release on Steam, which finally arrived in 2018.\r\n\n\r\nSince then, Redbeet has continued to build on that early feature set, introducing the likes of online co-op, explorable islands, underwater reefs, crop growing, cooking, animal care, and even a full story campaign in which players can learn more about the flooded world.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ocean-survival-adventure-raft-leaves-steam-early-access-after-five-years-of-development",
+          "publishedOn": "2022-06-21T20:12:50.000Z",
+          "wordCount": 4528,
+          "title": "Ocean survival adventure Raft leaves Steam early access",
+          "imageUrl": "https://assets.reedpopcdn.com/raft_m6kSP8h.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/raft_m6kSP8h.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/planet-zoo-adds-five-endangered-animals-in-new-conservation-themed-dlc",
           "author": "Matt Wales",
@@ -8375,66 +8455,6 @@
           "wordCount": 836,
           "title": "Today is the last day you can add funds to your 3DS and Wii U using a credit card",
           "imageUrl": "https://assets.reedpopcdn.com/3ds-and-wii-u-eshop-purchases-end-in-march-2023-1645007926240_N569SVa.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/3ds-and-wii-u-eshop-purchases-end-in-march-2023-1645007926240_N569SVa.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-9-animated-series-will-reportedly-be-shown-this-week",
-          "author": "Ed Nightingale",
-          "description": "The Final Fantasy 9 animated series will be shown for the first time this week, following its reveal last year.\r\n\r\n\n\r\nThat's according to an interview in Animation Magazine with Bruno Danzel d'Aumont, VP of international licensing and marketing at the Paris-based animation studio Cyber Group Studios that's looking after the series.\r\n\n\r\nCyber Group will be showing a number of projects at the Licensing Expo in Las Vegas this week, including work on Final Fantasy 9.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-9-animated-series-will-reportedly-be-shown-this-week",
-          "publishedOn": "2022-05-23T11:45:13.000Z",
-          "wordCount": 778,
-          "title": "Final Fantasy 9 animated series will reportedly be shown this week",
-          "imageUrl": "https://assets.reedpopcdn.com/ff9_HRmZpqD.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ff9_HRmZpqD.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/more-games-seemingly-revealed-for-playstations-new-look-subscription-service",
-          "author": "Victoria Kennedy",
-          "description": "Sony has begun the rollout of its new look PlayStation Plus subscription service, with Asian markets being given the green for go from 24th May. And, along with this new beginning, some more games have been made available on the PlayStation store.\nThese games include the PlayStation 1 title Oddworld: Abe's Oddysee (which is retailed at RM 20.00, so about four pounds) and the PSP game Ridge Racer 2 (via ResetEra).\nThe sales page for Oddworld: Abe's Oddysee has revealed the game will now have newly added features, including \"up-rendering, rewind, quick save, and custom video filters.\"\n Read more",
-          "link": "https://www.eurogamer.net/more-games-seemingly-revealed-for-playstations-new-look-subscription-service",
-          "publishedOn": "2022-05-23T11:31:58.000Z",
-          "wordCount": 868,
-          "title": "More games seemingly revealed for PlayStation’s new look subscription service",
-          "imageUrl": "https://assets.reedpopcdn.com/playstation_plus_premium_games_list.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_plus_premium_games_list.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/tropical-adventure-tchia-delayed-into-2023",
-          "author": "Ed Nightingale",
-          "description": "Tropical adventure Tchia has been delayed until early 2023.\r\n\n\r\nThe last we saw of the game was at The Game Awards last year. It was originally set for a spring 2022 launch across PS4, PS5, and PC (Epic).\r\n\n\r\n\"This extra time will allow us to really polish every aspect of the game and flesh out all the little details that we know will make Tchia a really special experience,\" said the developers in a Twitter post.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/tropical-adventure-tchia-delayed-into-2023",
-          "publishedOn": "2022-05-23T11:22:14.000Z",
-          "wordCount": 741,
-          "title": "Tropical adventure Tchia delayed into 2023",
-          "imageUrl": "https://assets.reedpopcdn.com/tchia_screen_diving_G0QWitx.png/BROK/thumbnail/1600x900/format/jpg/quality/80/tchia_screen_diving_G0QWitx.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/horizon-forbidden-west-is-back-at-the-top-of-the-uk-physical-charts",
-          "author": "Ed Nightingale",
-          "description": "Horizon Forbidden West is back at the top of the UK physical charts three months after its release.\r\n\n\r\nSales of the game rose 94 percent week-on-week, largely thanks to a new PS5 bundle that includes the game with the console.\r\n\n\r\nFresh console stock also means other PS5 games have leapt into the charts: Gran Turismo 7 is back up to tenth place with a 38 percent sales rise, while Ratchet & Clank: Rift Apart re-enters at 15 with a 275 percent sales rise (thanks GamesIndustry.biz).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/horizon-forbidden-west-is-back-at-the-top-of-the-uk-physical-charts",
-          "publishedOn": "2022-05-23T10:43:37.000Z",
-          "wordCount": 781,
-          "title": "Horizon Forbidden West is back at the top of the UK physical charts",
-          "imageUrl": "https://assets.reedpopcdn.com/aloy-hfw.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aloy-hfw.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/pac-man-is-coming-to-fortnite",
-          "author": "Victoria Kennedy",
-          "description": "Fortnite's latest collaborative cross-over is going to be with none other than 80's icon Pac-Man.\nAn announcement on the Japanese Pac-Man website says that the collaboration between  Fortnite and Pac-Man will start from 2nd June.\nFrom then, players will be able to purchase items with a 'Pac-Man' motif. So, perhaps we won't be seeing entire Pac-Man skins gobbling their way through Fortnite's map next month, but time will tell. \n Read more",
-          "link": "https://www.eurogamer.net/pac-man-is-coming-to-fortnite",
-          "publishedOn": "2022-05-23T10:28:30.000Z",
-          "wordCount": 814,
-          "title": "Pac-Man is coming to Fortnite",
-          "imageUrl": "https://assets.reedpopcdn.com/fortnite-pacman.png/BROK/thumbnail/1600x900/format/jpg/quality/80/fortnite-pacman.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/ps-plus-will-have-crt-filter-and-other-visual-options",
-          "author": "Ed Nightingale",
-          "description": "Sony's revamped PS Plus subscription service launches in Asia this week and new details are already emerging.\r\n\n\r\nIt's been revealed that various visual options for PS1 games will be available, including multiple resolutions (native, 4:3 for 16:9, and stretched) as well as three filters: default, retro classic, and modern. \r\n\n\r\nRetro classic is essentially a CRT filter, meaning it's replicating the visuals of old TVs for that vintage feel.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ps-plus-will-have-crt-filter-and-other-visual-options",
-          "publishedOn": "2022-05-23T10:15:14.000Z",
-          "wordCount": 786,
-          "title": "PS Plus will reportedly have PS1 CRT filter and other visual options",
-          "imageUrl": "https://assets.reedpopcdn.com/playstation_plus_premium_games_list.png/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_plus_premium_games_list.png"
         }
       ]
     }
