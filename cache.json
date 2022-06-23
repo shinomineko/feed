@@ -124,16 +124,6 @@
           "wordCount": 197,
           "title": "Field Topology",
           "imageUrl": "https://imgs.xkcd.com/comics/field_topology_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2624/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/voyager_wires.png\" title=\"Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.\" alt=\"Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.\" />",
-          "link": "https://xkcd.com/2624/",
-          "publishedOn": "2022-05-25T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Voyager Wires",
-          "imageUrl": "https://imgs.xkcd.com/comics/voyager_wires_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/06/on-the-subversion-of-nist-by-the-nsa.html",
+          "author": null,
+          "description": "<p>Nadiya Kostyuk and Susan Landau wrote an interesting paper: &#8220;<a href=\"https://harvardnsj.org/wp-content/uploads/sites/13/2022/06/Vol13Iss2_Kostyuk-Landau_Dual-EC-DRGB.pdf\">Dueling Over DUAL_EC_DRBG: The Consequences of Corrupting a Cryptographic Standardization Process</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In recent decades, the U.S. National Institute of Standards and Technology (NIST), which develops cryptographic standards for non-national security agencies of the U.S. government, has emerged as the de facto international source for cryptographic standards. But in 2013, Edward Snowden disclosed that the National Security Agency had subverted the integrity of a NIST cryptographic standard­the Dual_EC_DRBG­enabling easy decryption of supposedly secured communications. This discovery reinforced the desire of some public and private entities to develop their own cryptographic standards instead of relying on a U.S. government process. Yet, a decade later, no credible alternative to NIST has emerged. NIST remains the only viable candidate for effectively developing internationally trusted cryptography standards...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/on-the-subversion-of-nist-by-the-nsa.html",
+          "publishedOn": "2022-06-23T11:05:08.000Z",
+          "wordCount": 968,
+          "title": "On the Subversion of NIST by the NSA",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/06/symbiote-backdoor-in-linux.html",
           "author": null,
@@ -432,6 +432,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1862357",
+          "author": "Samuel Axon",
+          "description": "The new Pro feels like a tease for the upcoming Air, though.",
+          "link": "https://arstechnica.com/?p=1862357",
+          "publishedOn": "2022-06-23T11:30:09.000Z",
+          "wordCount": 1805,
+          "title": "13-inch MacBook Pro review: Apple’s M2 is a worthy follow-up to the M1",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/apple-macbook-m2-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1862367",
           "author": "Beth Mole",
@@ -3481,76 +3491,6 @@
           "wordCount": 1086,
           "title": "Pfizer warns of “constant waves” of COVID as complacency grows",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1229552106-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1856217",
-          "author": "Dan Goodin",
-          "description": "Leak is latest bright light shined on China's persecution of ethnic minorities.",
-          "link": "https://arstechnica.com/?p=1856217",
-          "publishedOn": "2022-05-24T23:31:15.000Z",
-          "wordCount": 836,
-          "title": "Server hack yields harrowing images of life inside Chinese detention camps",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/xinjiangpolicefiles-tiger-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1856205",
-          "author": "John Timmer",
-          "description": "There's a contrast between what people search for and what reliable media provide.",
-          "link": "https://arstechnica.com/?p=1856205",
-          "publishedOn": "2022-05-24T23:01:50.000Z",
-          "wordCount": 1088,
-          "title": "What the public wants in COVID news vs. what the press provides",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1281315760-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1856182",
-          "author": "Samuel Axon",
-          "description": "It's the first triple-A video game set in Middle-earth since 2017.",
-          "link": "https://arstechnica.com/?p=1856182",
-          "publishedOn": "2022-05-24T22:22:31.000Z",
-          "wordCount": 923,
-          "title": "Big-budget The Lord of the Rings: Gollum video game gets a 2022 release date",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/ss_441a9b311278e61b64556c71c0faee2e892ff0fd.1920x1080-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1856074",
-          "author": "Jonathan M. Gitlin",
-          "description": "BMW's latest EV trades a few miles of range for more than 600 horsepower.",
-          "link": "https://arstechnica.com/?p=1856074",
-          "publishedOn": "2022-05-24T22:01:52.000Z",
-          "wordCount": 1155,
-          "title": "Dial M for more power, more handling: The 2023 BMW iX M60, tested",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/BMW-iX-M60-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1856126",
-          "author": "Andrew Cunningham",
-          "description": "Devs will get a chance to save one of Windows 11's most-ignorable features.",
-          "link": "https://arstechnica.com/?p=1856126",
-          "publishedOn": "2022-05-24T20:32:34.000Z",
-          "wordCount": 709,
-          "title": "Third-party widgets are coming to Windows 11, which might actually make them useful",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Build_Blog_Widgets_UPDATED-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1855941",
-          "author": "Sam Machkovech",
-          "description": "Old and new come together to surpass expectations, take our breath away.",
-          "link": "https://arstechnica.com/?p=1855941",
-          "publishedOn": "2022-05-24T20:09:29.000Z",
-          "wordCount": 1202,
-          "title": "Top Gun: Maverick spoiler-free review: A worthy return to the danger zone",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/topgunmaverick-listing-2-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1856138",
-          "author": "Jon Brodkin",
-          "description": "Tesla \"ambushed\" woman with one-sided arbitration agreement, judge writes.",
-          "link": "https://arstechnica.com/?p=1856138",
-          "publishedOn": "2022-05-24T19:51:36.000Z",
-          "wordCount": 924,
-          "title": "Judge: Tesla can’t force alleged sexual harassment victim into arbitration",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-tesla-factory-parking-lot-760x380.jpg"
         }
       ]
     },
@@ -3594,16 +3534,6 @@
           "publishedOn": "2022-05-27T00:00:00.000Z",
           "wordCount": 4500,
           "title": "Blog: Kubernetes 1.24: Maximum Unavailable Replicas for StatefulSet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/05/25/contextual-logging/",
-          "author": null,
-          "description": "Authors: Patrick Ohly (Intel)\nThe Structured Logging Working\nGroup\nhas added new capabilities to the logging infrastructure in Kubernetes\n1.24. This blog post explains how developers can take advantage of those to\nmake log output more useful and how they can get involved with improving Kubernetes.\nStructured logging\nThe goal of structured\nlogging\nis to replace C-style formatting and the resulting opaque log strings with log\nentries that have a well-defined syntax for storing message and parameters\nseparately, for example as a JSON struct.\nWhen using the traditional klog text output format for structured log calls,\nstrings were originally printed with \\n escape sequences, except when\nembedded inside a struct. For structs, log entries could still span multiple\nlines, with no clean way to spl…",
-          "link": "https://kubernetes.io/blog/2022/05/25/contextual-logging/",
-          "publishedOn": "2022-05-25T00:00:00.000Z",
-          "wordCount": 4757,
-          "title": "Blog: Contextual Logging in Kubernetes 1.24",
           "imageUrl": null
         }
       ]
@@ -3686,6 +3616,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/twitch-testing-new-ui-layout-to-boost-discoverability",
+          "author": "Ed Nightingale",
+          "description": "Twitch is testing a new UI layout intended to boost discoverability, but the reaction so far is mixed.\r\n\n\r\nAt present, viewing the different game categories on Twitch brings up a grid view of various streams that need to be clicked on individually to view.\r\n\n\r\nThe new version being tested adds a video at the top which auto-plays as users click through the grid of streams beneath, before choosing to join the stream or follow the streamer.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-testing-new-ui-layout-to-boost-discoverability",
+          "publishedOn": "2022-06-23T12:18:45.000Z",
+          "wordCount": 4522,
+          "title": "Twitch testing new UI layout to boost discoverability",
+          "imageUrl": "https://assets.reedpopcdn.com/twitch-blog-header-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-blog-header-(1).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/taiko-no-tatsujin-rhythm-festival-coming-to-nintendo-switch-this-october",
+          "author": "Victoria Kennedy",
+          "description": "Bandai Namco Europe has revealed Taiko no Tatsujin Rhythm Festival will be marching its way onto the Nintendo Switch on 14th October.\nAnd that's not all. The developer has also revealed that those who purchase the Taiko Drum Set edition will not only get the base game but the playable drums as well (ok, the clue was in the title with that one). \nYou can check out the trailer for Taiko no Tatsujin Rhythm Festival below.\n Read more",
+          "link": "https://www.eurogamer.net/taiko-no-tatsujin-rhythm-festival-coming-to-nintendo-switch-this-october",
+          "publishedOn": "2022-06-23T11:31:08.000Z",
+          "wordCount": 4524,
+          "title": "Taiko no Tatsujin Rhythm Festival coming to Nintendo Switch this October",
+          "imageUrl": "https://assets.reedpopcdn.com/01_Story.png/BROK/thumbnail/1600x900/format/jpg/quality/80/01_Story.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/kojima-productions-sells-peace-charm-for-ukrainian-refugees-in-japan",
+          "author": "Ed Nightingale",
+          "description": "Kojima Productions is selling peace charms to raise money for Ukrainian refugees in Japan.\r\n\n\r\nNamed the Ludens Peace Mark Unit after the Kojima mascot, the physical charm is made of metal and comes with a strap.\r\n\n\r\n\"All proceeds from the sale of this product will be donated directly to those who have evacuated from Ukraine to Japan,\" reads a description on the store page.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/kojima-productions-sells-peace-charm-for-ukrainian-refugees-in-japan",
+          "publishedOn": "2022-06-23T11:30:40.000Z",
+          "wordCount": 4367,
+          "title": "Kojima Productions sells peace charm for Ukrainian refugees in Japan",
+          "imageUrl": "https://assets.reedpopcdn.com/Kojima-Productions-Peace-Sign-Death-Stranding.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Kojima-Productions-Peace-Sign-Death-Stranding.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-exceeds-number-of-promised-playstation-plus-catalogue-games",
+          "author": "Tom Phillips",
+          "description": "Sony has exceeded the number of games made available as part of its PlayStation Plus Extra and Premium catalogues by a decent margin.\r\n\n\r\nFans had been eyeing the service's slow roll-out over the course of the past month through different countries around the world - until its final deployment in the UK and mainland Europe today. \r\n\n\r\nAhead of time, Sony had promised \"up to 400\" PlayStation 4 and PS5 games would be available to both PlayStation Plus Extra and Premium tier subscribers - though the initial launch in Asia fell well short. Eurogamer's list of PS4 and PS5 games available today comes to 429.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-exceeds-number-of-promised-playstation-plus-catalogue-games",
+          "publishedOn": "2022-06-23T11:20:13.000Z",
+          "wordCount": 4469,
+          "title": "Sony exceeds number of promised PlayStation Plus catalogue games",
+          "imageUrl": "https://assets.reedpopcdn.com/playstation_plus_premium_games_2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_plus_premium_games_2.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/what-if-elden-ring-was-a-snes-game",
+          "author": "Ed Nightingale",
+          "description": "Elden Ring has already inspired countless mods and fan videos, including a playable demake on a Game Boy.\r\n\r\n\r\n\n\r\nNow, Youtube channel 64 Bits has released a demake video of what Elden Ring would look like on a SNES. Spoiler: it looks fantastic.\r\n\n\r\nOf course, it takes a top-down viewpoint akin to classic RPGs (the video notes Secret of Mana, Terranigma, and Final Fantasy 6 as inspiration), with a cute little Tarnished defeating various iconic bosses with melee weapons and magic.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/what-if-elden-ring-was-a-snes-game",
+          "publishedOn": "2022-06-23T11:11:39.000Z",
+          "wordCount": 4407,
+          "title": "What if Elden Ring was a SNES game?",
+          "imageUrl": "https://assets.reedpopcdn.com/64-Bits---Elden-Ring-Demake-for-SNES-0-6-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/64-Bits---Elden-Ring-Demake-for-SNES-0-6-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/sonic-the-hedgehog-2-powers-past-400m-box-office-milestone",
+          "author": "Victoria Kennedy",
+          "description": "We know Sonic goes fast - he is, after all, a blue spikey blur of a hedgehog more often than not. But now, he has sped past one of his most impressive milestones yet and made Paramount a cool $400m at the box office. \nThe film is currently the eighth-biggest film launch worldwide this year, but, as Deadline reports, this place is likely to jump up a few notches with the film still to release in both Hong Kong and Japan. \nThese numbers are a pretty impressive sight, but perhaps not unexpected. After all, Sonic 2 reportedly enjoyed the greatest opening weekend for any video-game based movie ever on its release in April. \n Read more",
+          "link": "https://www.eurogamer.net/sonic-the-hedgehog-2-powers-past-400m-box-office-milestone",
+          "publishedOn": "2022-06-23T10:49:35.000Z",
+          "wordCount": 4636,
+          "title": "Sonic the Hedgehog 2 powers past $400m box office milestone",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-2-does-well-at-box-office.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-2-does-well-at-box-office.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/super-stardust-portable-quietly-joins-playstation-plus-premium-catalogue",
+          "author": "Tom Phillips",
+          "description": "PSP classic Super Stardust Portable has been quietly added to Sony's PlayStation Plus Premium games list, though is currently a little difficult to find. \r\n\n\r\nThe handheld shoot 'em-up, originally launched in 2008, can be found by searching directly for the title in the PlayStation Store (thanks to reddit user Turb0_Thunder).\r\n\n\r\nYou won't find it (yet) via the Classic Catalogue menu, although it's unclear if this is because it's not due to go live yet, or a deliberate secret. (Either way, PlayStation's store interface isn't the clearest to filter and search through.)\r\n \nRead more",
+          "link": "https://www.eurogamer.net/super-stardust-portable-quietly-joins-playstation-plus-premium-catalogue",
+          "publishedOn": "2022-06-23T10:05:10.000Z",
+          "wordCount": 4426,
+          "title": "Super Stardust Portable quietly joins PlayStation Plus Premium catalogue",
+          "imageUrl": "https://assets.reedpopcdn.com/playstation-plus-logo.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation-plus-logo.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-plus-premium-will-get-60hz-ntsc-options-in-future",
+          "author": "Tom Phillips",
+          "description": "PlayStation Plus Premium has finally completed its planned worldwide rollout, and arrived in the UK and mainland Europe today.\r\n\n\r\nHowever, many of its Classic Catalogue PlayStation 1 games are available only in their PAL 50Hz versions - a slower standard superceded by the NTSC 60Hz option available elsewhere. \r\n\n\r\nThis morning, Sony said it will provide \"NTSC options for a majority\" of these games in the future - though not detailed when or for which games.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-plus-premium-will-get-60hz-ntsc-options-in-future",
+          "publishedOn": "2022-06-23T09:43:42.000Z",
+          "wordCount": 4450,
+          "title": "PlayStation Plus Premium will get 60Hz NTSC options in future",
+          "imageUrl": "https://assets.reedpopcdn.com/playstation_plus_premium_games_1.png/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_plus_premium_games_1.png"
+        },
         {
           "id": "https://www.eurogamer.net/jane-fosters-mighty-thor-heads-to-marvels-avengers-next-week",
           "author": "Matt Wales",
@@ -8335,26 +8345,6 @@
           "wordCount": 1108,
           "title": "Real-life Polish Witcher School closes amid political concerns as licence is pulled by CD Projekt Red",
           "imageUrl": "https://assets.reedpopcdn.com/witcher_school_bertie.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher_school_bertie.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-like-mmo-temtem-will-leave-early-access-this-september",
-          "author": "Matt Wales",
-          "description": "Temtem, developer Crema's massively multiplayer riff on Pokémon, will be leaving early access and getting its full PS5, Xbox Series X/S, Switch, and PC release on 6th September.\r\n\n\r\nTemtem, you might recall, entered Steam early access back in January 2020, selling over half a million copies in its first month of release. Crema has been steadily expanded the game's core creature-collecting and battling action since then - introducing the likes of new Temtem, new islands to explore, and new social and competitive features, not to mention launching an early access version for PS5 - and update 1.0 is now finally in sight.\r\n\n\r\nAfter more than two years in early access, Temtem is already pretty feature rich, with its pre-release version including the bulk of its story campaign across the Airborne Archipelago, well over 100 Temtem to catch, co-op play, competitive multiplayer, clans, housing, trading, and tournaments. However, its final release promises a number of new additions.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-like-mmo-temtem-will-leave-early-access-this-september",
-          "publishedOn": "2022-05-24T20:40:12.000Z",
-          "wordCount": 866,
-          "title": "Pokémon-like MMO Temtem leaves early access this September",
-          "imageUrl": "https://assets.reedpopcdn.com/temtem-best-starter-type-chart.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/temtem-best-starter-type-chart.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-sims-4s-long-awaited-customisable-pronouns-feature-is-finally-here",
-          "author": "Matt Wales",
-          "description": "The Sims 4's long-awaited customisable pronouns feature has finally arrived - albeit in English only to begin with - and is available now as part of the game's latest update.\r\n\n\r\nDeveloper Maxis confirmed it was investigating ways to introduce expanded pronoun options to The Sims 4 last May - following a community petition signed by more than 22,000 people - and players got a first look at the feature's progress during a livestream earlier this year.\r\n\n\r\nAnd now, with some additional development time under its belt, Maxis has pushed the first iteration of its customisable pronouns feature - developed in conjunction with LGBTQ+ nonprofit organisations It Gets Better and GLAAD - live, delivering what it calls a further step \"in the direction of a more inclusive experience for Simmers\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-sims-4s-long-awaited-customisable-pronouns-feature-is-finally-here",
-          "publishedOn": "2022-05-24T19:05:47.000Z",
-          "wordCount": 1058,
-          "title": "The Sims 4's long-awaited customisable pronouns feature is finally here",
-          "imageUrl": "https://assets.reedpopcdn.com/maxis-shares-progress-update-and-first-look-at-the-sims-4s-customisable-pronouns-feature-1642627129508.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/maxis-shares-progress-update-and-first-look-at-the-sims-4s-customisable-pronouns-feature-1642627129508.jpg"
         }
       ]
     }
