@@ -7837,6 +7837,113 @@
           "imageUrl": "https://assets.reedpopcdn.com/BD1-pose.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/BD1-pose.jpg"
         }
       ]
+    },
+    {
+      "title": "The GitHub Blog",
+      "feedUrl": "https://github.blog/feed/",
+      "siteUrl": "https://github.blog",
+      "articles": [
+        {
+          "id": "https://github.blog/?p=65943",
+          "author": "Madison Oliver",
+          "description": "We’re excited to announce that the GitHub Advisory Database now includes curated security advisories on Erlang, Elixir, and more.",
+          "link": "https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/",
+          "publishedOn": "2022-06-27T20:24:52.000Z",
+          "wordCount": 1096,
+          "title": "GitHub Advisory Database now supports Erlang and Elixir packages!",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Product@2x-1.png"
+        },
+        {
+          "id": "https://github.blog/?p=65850",
+          "author": "Taylor Blau",
+          "description": "The open source Git project just released Git 2.37. Take a look at some of our highlights from the latest release.",
+          "link": "https://github.blog/2022-06-27-highlights-from-git-2-37/",
+          "publishedOn": "2022-06-27T18:01:23.000Z",
+          "wordCount": 2982,
+          "title": "Highlights from Git 2.37",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/git-2.37.png"
+        },
+        {
+          "id": "https://github.blog/?p=65852",
+          "author": "Martin Woodward",
+          "description": "To celebrate Maintainer Month, GitHub has invested an additional $500,000 to help sponsor the open source projects that it depends on.",
+          "link": "https://github.blog/2022-06-24-thank-you-to-our-maintainers/",
+          "publishedOn": "2022-06-24T15:32:25.000Z",
+          "wordCount": 1106,
+          "title": "Thank you to our maintainers",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/sponsors-june-23.png"
+        },
+        {
+          "id": "https://github.blog/?p=65827",
+          "author": "Tanmayee Kamath",
+          "description": "We’re releasing exciting functionalities that will enable organizations to confidently manage and scale with Codespaces.",
+          "link": "https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/",
+          "publishedOn": "2022-06-22T21:04:19.000Z",
+          "wordCount": 1420,
+          "title": "What’s new in Codespaces for Organizations",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Product-Policy-Enterprise@2x.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=65761",
+          "author": "Thomas Dohmke",
+          "description": "We’re making GitHub Copilot, an AI pair programmer that suggests code in your editor, generally available to all developers for $10 USD/month or $100 USD/year. It will also be free to use for verified students and maintainers of popular open source projects.",
+          "link": "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/",
+          "publishedOn": "2022-06-21T16:04:44.000Z",
+          "wordCount": 1346,
+          "title": "GitHub Copilot is generally available to all developers",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=65790",
+          "author": "Brittany O'Shea",
+          "description": "GitHub is excited to announce the release of CodeQL queries that implement the standards CERT C++ and AUTOSAR C++. These queries can aid developers looking to demonstrate ISO 26262 Part 6 process compliance.",
+          "link": "https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/",
+          "publishedOn": "2022-06-20T17:00:12.000Z",
+          "wordCount": 1431,
+          "title": "GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Security-Product-Open-Source@2x.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=65748",
+          "author": "Courtney Claessens",
+          "description": "Expand the completeness of your dependency graph by using the dependency submission API, which will create more comprehensive alerts on supply chain vulnerabilities",
+          "link": "https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/",
+          "publishedOn": "2022-06-17T19:00:48.000Z",
+          "wordCount": 1428,
+          "title": "Creating a more comprehensive dependency graph with build time detection",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Security-Product-Open-Source@2x.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=65633",
+          "author": "Michelle Mannering",
+          "description": "Each month, we highlight open source projects that have shipped major updates. These projects can include everything from world-changing technology to developer tooling, and weekend hobbies. We cover what the project is and some of their breaking changes. Read about the project, and browse their repositories. Without further ado, here are our top staff picks […]",
+          "link": "https://github.blog/2022-06-16-release-radar-may-2022/",
+          "publishedOn": "2022-06-16T22:05:03.000Z",
+          "wordCount": 1610,
+          "title": "Release Radar · May 2022 Edition",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Release-Radar-May-2022.jpg?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=65495",
+          "author": "Man Yue Mo",
+          "description": "In this post I’ll exploit CVE-2022-22057, a use-after-free in the Qualcomm gpu kernel driver, to gain root and disable SELinux from the untrusted app sandbox on a Samsung Z flip 3. I’ll look at various mitigations that are implemented on modern Android devices and how they affect the exploit.",
+          "link": "https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/",
+          "publishedOn": "2022-06-16T16:00:52.000Z",
+          "wordCount": 11098,
+          "title": "The Android kernel mitigations obstacle race",
+          "imageUrl": "https://github.blog/wp-content/uploads/2021/12/GitHub-security_teal-banner.png?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=65724",
+          "author": "Lee Reilly",
+          "description": "Git Merge, the conference dedicated to bringing the Git community together returns on September 14-15 in Chicago, Illinois.",
+          "link": "https://github.blog/2022-06-15-git-merge-2022/",
+          "publishedOn": "2022-06-16T00:29:33.000Z",
+          "wordCount": 882,
+          "title": "Git Merge 2022",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/173149362-1cf28de3-f47c-4335-976e-b6fe95cea471-1.png?fit=1200%2C630"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
