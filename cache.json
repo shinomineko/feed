@@ -124,16 +124,6 @@
           "wordCount": 199,
           "title": "Types of Scopes",
           "imageUrl": "https://imgs.xkcd.com/comics/types_of_scopes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2626/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/d65536.png\" title=\"They're robust against quantum attacks because it's hard to make a quantum system that large.\" alt=\"They're robust against quantum attacks because it's hard to make a quantum system that large.\" />",
-          "link": "https://xkcd.com/2626/",
-          "publishedOn": "2022-05-30T00:00:00.000Z",
-          "wordCount": 195,
-          "title": "d65536",
-          "imageUrl": "https://imgs.xkcd.com/comics/d65536_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/06/__trashed-2.html",
+          "author": null,
+          "description": "<p><a href=\"https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/\">Thought experiment story of someone</a> of someone who lost everything in a house fire, and now can&#8217;t log into anything:</p>\n<blockquote><p>But to get into my cloud, I need my password and 2FA. And even if I could convince the cloud provider to bypass that and let me in, the backup is secured with a password which is stored in&#8212;you guessed it&#8212;my Password Manager.</p>\n<p>I am in cyclic dependency hell. To get my passwords, I need my 2FA. To get my 2FA, I need my passwords.</p></blockquote>\n<p>It&#8217;s a one-in-a-million story, and one that&#8217;s hard to take into account in system design.</p>\n<blockquote><p>This is where we reach the limits of the &#8220;Code Is Law&#8221; movement...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/__trashed-2.html",
+          "publishedOn": "2022-06-28T11:22:17.000Z",
+          "wordCount": 1094,
+          "title": "When Security Locks You Out of Everything",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/06/2022-workshop-on-economics-and-information-security-weis.html",
           "author": null,
@@ -3396,6 +3396,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/fallout-4-pc-mod-fallout-london-gets-new-trailer-coming-2023",
+          "author": "Victoria Kennedy",
+          "description": "A new announcement trailer for Fallout: London is now here, revealing it will release sometime in 2023.\n\"Fallout: London is a DLC-sized mod for Bethesda's Fallout 4. As a continuation of the base game, the mod will allow the player to visit the previously unexplored post-apocalyptic environment of London,\" the description explains. \nThis mod will be a change from the rest of the Fallout series, as it will not take place in America. The developer hopes this will allow for users to explore \"new cultures which have not homogenised with their American counterparts\". It will also mean that players can dive on into \"pre-war European history, and the effects the Resource Wars had on the class structured society of pre-war Britain.\"\n Read more",
+          "link": "https://www.eurogamer.net/fallout-4-pc-mod-fallout-london-gets-new-trailer-coming-2023",
+          "publishedOn": "2022-06-28T12:00:45.000Z",
+          "wordCount": 4508,
+          "title": "Fallout 4 PC mod Fallout: London gets new trailer, coming 2023",
+          "imageUrl": "https://assets.reedpopcdn.com/Fallout-London.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Fallout-London.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/major-dead-by-daylight-changes-will-shake-up-gameplay",
+          "author": "Ed Nightingale",
+          "description": "Major changes are coming to Dead by Daylight, including an overhauled progression system and tweaked perks.\r\n\n\r\nThe aim is to shake up the current \"meta\" and re-balance the game, forcing players to consider new tactics and strategies.\r\n\n\r\nThe changes will be added in the forthcoming mid-chapter update for Chapter 24: Roots of Dread - that hits the public test build on 29th June and will be fully implemented in July.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/major-dead-by-daylight-changes-will-shake-up-gameplay",
+          "publishedOn": "2022-06-28T11:48:56.000Z",
+          "wordCount": 4641,
+          "title": "Major Dead by Daylight changes will shake up gameplay",
+          "imageUrl": "https://assets.reedpopcdn.com/dead-by-daylight-killers.png/BROK/thumbnail/1600x900/format/jpg/quality/80/dead-by-daylight-killers.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-wuxia-game-code-to-jin-yong-shows-the-power-of-unreal-engine-5",
+          "author": "Ed Nightingale",
+          "description": "Code: To Jin Yong is a new wuxia game being developed by the Tencent-owned Lightspeed Studios that shows the power of Unreal Engine 5.\r\n\n\r\nBased on a series of novels by Chinese novelist Jin Yong, the game will explore the iconic characters and environments of the books and TV adaptations from over the years.\r\n\n\r\nA proof of concept trailer has been released and it looks stunning.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-wuxia-game-code-to-jin-yong-shows-the-power-of-unreal-engine-5",
+          "publishedOn": "2022-06-28T10:56:18.000Z",
+          "wordCount": 4479,
+          "title": "New wuxia game Code: To Jin Yong shows the power of Unreal Engine 5",
+          "imageUrl": "https://assets.reedpopcdn.com/Code_-To-Jin-Yong---The-First-Unreal-Engine-5-Game-of-LightSpeed-Studios-2-5-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Code_-To-Jin-Yong---The-First-Unreal-Engine-5-Game-of-LightSpeed-Studios-2-5-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/skyrims-dragons-can-now-be-seen-in-16k-resolution-thanks-to-new-texture-mod-2",
+          "author": "Victoria Kennedy",
+          "description": "Skyrim has been around for quite the time, with many a new edition or various mod upgrades being made available in its 10 plus years on the market. However, we now also have a mod that covers any version of Skyrim that releases even further down the line (which, let's be honest, will likely happen).\nThe mod in question comes from Nexus Mods user xilamonstrr and brings Skyrim's big scaly dragons into super sharp focus. I am talking about seeing all the little details, right down to each beast's scars, in much, much, higher definition. \nAnd, while 16k may seem a touch excessive given that most games tend to opt for 1440p, xilamonstrr has a good reason for choosing this resolution. In short, the dragons in Skyrim are huge, and therefore their textures can get stretched more than the other enemies and entities in this world. \n Read more",
+          "link": "https://www.eurogamer.net/skyrims-dragons-can-now-be-seen-in-16k-resolution-thanks-to-new-texture-mod-2",
+          "publishedOn": "2022-06-28T10:51:19.000Z",
+          "wordCount": 4795,
+          "title": "Skyrim's dragons can now be seen in 16k resolution thanks to new texture mod",
+          "imageUrl": "https://assets.reedpopcdn.com/Skyrim-Dragon_nFjsehy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Skyrim-Dragon_nFjsehy.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/mario-rabbids-sparks-of-hope-release-date-appears-on-ubisoft-store",
+          "author": "Tom Phillips",
+          "description": "Ubisoft briefly published a 20th October release date for its promising-looking Nintendo Switch sequel Mario + Rabbids Sparks of Hope. \r\n\n\r\nThe company has yet to officially trumpet the date, but it was live for a while on Ubisoft's store (thanks, Gematsu) ahead of today's Nintendo Direct, which is scheduled for 2pm UK time. \r\n\n\r\nToday's announcement stream is set to feature third-party games for Nintendo Switch - of which Sparks of Hope is a prime example. It seems likely we'll see this made official then.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mario-rabbids-sparks-of-hope-release-date-appears-on-ubisoft-store",
+          "publishedOn": "2022-06-28T10:39:00.000Z",
+          "wordCount": 4340,
+          "title": "Mario + Rabbids Sparks of Hope release date appears on Ubisoft store",
+          "imageUrl": "https://assets.reedpopcdn.com/eurogamer_mariorabbids.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/eurogamer_mariorabbids.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-will-be-at-gamescom-2022-despite-other-no-shows",
+          "author": "Tom Phillips",
+          "description": "Ubisoft has said it will attend Gamescom 2022 - a show many other companies have said they will skip.\r\n\n\r\nA brief message posted to Ubisoft's Twitter last night revealed the publisher would be present at this August's Cologne-based convention, though did not detail what games might be on offer.\r\n\n\r\nUbisoft's decision comes after the recent pull-outs from Sony, Nintendo, Activision Blizzard and Take-Two, which have all chosen not to attend. Microsoft has yet to make an announcement - though it's unclear what it might bring.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-will-be-at-gamescom-2022-despite-other-no-shows",
+          "publishedOn": "2022-06-28T10:10:18.000Z",
+          "wordCount": 4462,
+          "title": "Ubisoft will be at Gamescom 2022, despite other no-shows",
+          "imageUrl": "https://assets.reedpopcdn.com/gamescom_ZbUsDnK.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gamescom_ZbUsDnK.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/free-pride-items-coming-to-two-point-campus-on-release",
+          "author": "Ed Nightingale",
+          "description": "Free in-game Pride items will be included in Two Point Campus when it releases on 9th August.\r\n\n\r\nThe item pack will include rainbow coloured items like rugs, bedding, flags and more, and will be free forever across all platforms.\r\n\n\r\nIn addition, Sega and Two Point Studios will today host a Twitch livestream of the game to raise awareness and funds for Mermaids - a charity supporting trans youth and their families.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/free-pride-items-coming-to-two-point-campus-on-release",
+          "publishedOn": "2022-06-28T10:07:27.000Z",
+          "wordCount": 4457,
+          "title": "Free Pride items coming to Two Point Campus on release",
+          "imageUrl": "https://assets.reedpopcdn.com/TPC---Pride-3.png/BROK/thumbnail/1600x900/format/jpg/quality/80/TPC---Pride-3.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/valve-set-to-boost-steam-deck-shipments-by-more-than-double",
+          "author": "Victoria Kennedy",
+          "description": "Valve will up the pace and ship more than twice as many Steam Decks in the coming months compared to last quarter.\n\"Hello! Some great news on the production front. We just sent the last batch of Q2 emails, and we'll start sending Q3 reservation emails on the 30th,\" the company announced.\n\"Production has picked up, and after today we'll be shipping more than double the number of Steam Decks every week!\"\n Read more",
+          "link": "https://www.eurogamer.net/valve-set-to-boost-steam-deck-shipments-by-more-than-double",
+          "publishedOn": "2022-06-28T09:57:59.000Z",
+          "wordCount": 4611,
+          "title": "Valve set to boost Steam Deck shipments by more than double",
+          "imageUrl": "https://assets.reedpopcdn.com/steam-deck_JWP4J9f.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam-deck_JWP4J9f.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/critically-panned-blade-runner-remaster-will-now-include-non-remastered-version-on-steam",
           "author": "Matt Wales",
