@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/06/zuorat-malware-is-targeting-routers.html",
+          "author": null,
+          "description": "<p><i>Wired</i> is <a href=\"https://www.wired.com/story/zuorat-trojan-malware-hacking-routers/\">reporting</a> on a new remote-access Trojan that is able to infect at least eighty different targets:</p>\n<blockquote><p>So far, researchers from Lumen Technologies&#8217; Black Lotus Labs say they&#8217;ve identified at least 80 targets infected by the stealthy malware, including routers made by Cisco, Netgear, Asus, and DrayTek. Dubbed ZuoRAT, the remote access Trojan is part of a broader hacking campaign that has existed since at least the fourth quarter of 2020 and continues to operate.</p>\n<p>The discovery of custom-built malware written for the MIPS architecture and compiled for small-office and home-office routers is significant, particularly given its range of capabilities. Its ability to enumerate all devices connected to an infected router and collect the DNS lookups and network traffic they send and receive and remain undetected is the hallmark of a highly sophisticated threat actor...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/06/zuorat-malware-is-targeting-routers.html",
+          "publishedOn": "2022-06-30T20:04:28.000Z",
+          "wordCount": 816,
+          "title": "ZuoRAT Malware Is Targeting Routers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/06/ecuadors-attempt-to-resettle-edward-snowden.html",
           "author": null,
           "description": "<p>Someone hacked the Ecuadorian embassy in Moscow and <a href=\"https://www.dailydot.com/debug/exclusive-hacked-documents-ecuadors-edward-snowden/\">found a document</a> related to Ecuador&#8217;s 2013 efforts to bring Edward Snowden there. If you remember, Snowden was traveling from Hong Kong to somewhere when the US revoked his passport, stranding him in Russia. In the document, Ecuador asks Russia to provide Snowden with safe passage to come to Ecuador.</p>\n<p>It&#8217;s hard  to believe this all happened almost ten years ago.</p>",
@@ -442,6 +452,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1863897",
+          "author": "Beth Mole",
+          "description": "The FDA calls for fall booster reformulation ahead of clear data on their benefits.",
+          "link": "https://arstechnica.com/?p=1863897",
+          "publishedOn": "2022-07-01T00:00:47.000Z",
+          "wordCount": 1939,
+          "title": "FDA calls for fall boosters against BA.4/5 as subvariants take over US",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1231789968-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1863877",
+          "author": "John Timmer",
+          "description": "Conservatives want to limit the ability of agencies to set new regulations.",
+          "link": "https://arstechnica.com/?p=1863877",
+          "publishedOn": "2022-06-30T23:00:54.000Z",
+          "wordCount": 2096,
+          "title": "How carbon emissions got caught up in a Supreme Court showdown",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-633165138-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1863868",
+          "author": "Dan Goodin",
+          "description": "SessionManager scours memory for passwords, does recon, and installs new tools.",
+          "link": "https://arstechnica.com/?p=1863868",
+          "publishedOn": "2022-06-30T21:57:06.000Z",
+          "wordCount": 1936,
+          "title": "Microsoft Exchange servers worldwide hit by stealthy new backdoor",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/cloud-computing-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1863832",
+          "author": "Andrew Cunningham",
+          "description": "Tool can also patch out the CPU, TPM, and Secure Boot install requirements.",
+          "link": "https://arstechnica.com/?p=1863832",
+          "publishedOn": "2022-06-30T20:45:20.000Z",
+          "wordCount": 1482,
+          "title": "USB installer tool removes Windows 11’s Microsoft account requirements (and more)",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/Screen-Shot-2022-06-30-at-4.07.10-PM-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1863835",
+          "author": "Jon Brodkin",
+          "description": "Starting today, small carriers must use STIR/SHAKEN Caller ID authentication tech.",
+          "link": "https://arstechnica.com/?p=1863835",
+          "publishedOn": "2022-06-30T20:19:46.000Z",
+          "wordCount": 1627,
+          "title": "FCC says it closed a loophole that many robocallers used to evade blocking",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/getty-caller-id-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1863690",
           "author": "Scharon Harding",
@@ -3471,26 +3531,6 @@
           "wordCount": 746,
           "title": "Buick revives the Electra as an electric SUV in 2024",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/buick-wildcat-ev-concept-003-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1857419",
-          "author": "Sam Machkovech",
-          "description": "Great ARPG-on-phone production values, hampered by terrible economic decisions.",
-          "link": "https://arstechnica.com/?p=1857419",
-          "publishedOn": "2022-06-01T12:00:23.000Z",
-          "wordCount": 1544,
-          "title": "Diablo Immortal impressions: A good smartphone game saddled with F2P nonsense",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Screenshot_20220526-092022-e1654050793607-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1857481",
-          "author": "Jonathan M. Gitlin",
-          "description": "Ammonia is already a widely used fertilizer, so the infrastructure is in place.",
-          "link": "https://arstechnica.com/?p=1857481",
-          "publishedOn": "2022-06-01T12:00:05.000Z",
-          "wordCount": 839,
-          "title": "World’s first ammonia-powered zero-emissions tractor starts testing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/AmogyTractorTestBryan-Banducci-1-760x380.jpg"
         }
       ]
     },
@@ -8134,136 +8174,6 @@
           "wordCount": 905,
           "title": "Prison Architect's next expansion Gangs announced",
           "imageUrl": "https://assets.reedpopcdn.com/PA-Gangs-Scaled.png/BROK/thumbnail/1600x900/format/jpg/quality/80/PA-Gangs-Scaled.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-legend-junichi-masuda-leaving-series-developer-game-freak",
-          "author": "Tom Phillips",
-          "description": "Junichi Masuda, a legendary figure in the creation and development of Pokémon, is leaving series developer Game Freak.\r\n\n\r\nMasuda was one of Game Freak's founding members, and over the years had worked on numerous games in the series, beginning as a programmer and composer for the original Pokémon Red and Blue. \r\n\n\r\nWith Pokémon Ruby and Sapphire, Masuda took over as game director - a post he held for numerous other entries such as Diamond and Pearl, Black and White, X and Y, and Let's Go Pikachu and Eevee.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-legend-junichi-masuda-leaving-series-developer-game-freak",
-          "publishedOn": "2022-06-01T12:27:18.000Z",
-          "wordCount": 890,
-          "title": "Pokémon legend Junichi Masuda leaving series developer Game Freak",
-          "imageUrl": "https://assets.reedpopcdn.com/masuda.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/masuda.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/darkest-dungeon-2-set-for-full-release-in-february-2023",
-          "author": "Ed Nightingale",
-          "description": "The developer of Darkest Dungeon 2 has shared a community update revealing its content plan and release date for version 1.0 of the game: February 2023.\r\n\n\r\nThe most recent game update, The Shroud of the Deep, had plenty of content, but the team is now working on its next batch following fan feedback.\r\n\n\r\nThere are three major areas the team will be focusing on: progression, relationships, and driving.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/darkest-dungeon-2-set-for-full-release-in-february-2023",
-          "publishedOn": "2022-06-01T11:55:49.000Z",
-          "wordCount": 897,
-          "title": "Darkest Dungeon 2 set for full release in February 2023",
-          "imageUrl": "https://assets.reedpopcdn.com/darkest-dungeon-2-is-going-3d-entering-early-access-next-year-1603312251466.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/darkest-dungeon-2-is-going-3d-entering-early-access-next-year-1603312251466.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/frogger-and-the-rumbling-ruins-hops-onto-apple-arcade-this-month",
-          "author": "Victoria Kennedy",
-          "description": "The new Frogger game from Konami will be hopping its way onto your iPhone, iPad, Mac, and Apple TV (via Apple Arcade) on 3rd June.\nFrogger and the Rumbling Ruins will unite players with the titular Frogger as he learns about the lost treasure of an ancient frog tribe (why are they ancient - your guess is as good as mine, but I'd say... maybe they croaked?). \nHowever, this is not all. Along with the promise of hidden riches, something else strange is going on, as \"an alarming number of froglets are disappearing around the world\". You can check out the new trailer for Frogger and the Rumbling Ruins below.\n Read more",
-          "link": "https://www.eurogamer.net/frogger-and-the-rumbling-ruins-hops-onto-apple-arcade-this-month",
-          "publishedOn": "2022-06-01T11:43:17.000Z",
-          "wordCount": 863,
-          "title": "Frogger and the Rumbling Ruins hops onto Apple Arcade this month",
-          "imageUrl": "https://assets.reedpopcdn.com/Frogger_LOGO_Masthead.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Frogger_LOGO_Masthead.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/18-european-countries-call-for-better-regulation-of-loot-boxes-following-new-report",
-          "author": "Ishraq Subhan",
-          "description": "A new report commissioned by the Norwegian Consumer Council has concluded that loot boxes in games are \"exploitative and predatory.\" \r\n\n\r\nConsumer protection agencies in 18 European countries have backed the report and called for better regulation of video games. \r\n\n\r\nThe report uses both FIFA 22 and Raid: Shadow Legends as case studies to demonstrate the \"wide arsenal of tricks to push consumers into spending as much time and money as possible exploiting consumers hope to receive the reward despite a miniscule chance and likelihood to do so\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/18-european-countries-call-for-better-regulation-of-loot-boxes-following-new-report",
-          "publishedOn": "2022-06-01T11:39:20.000Z",
-          "wordCount": 1004,
-          "title": "18 European countries call for better regulation of loot boxes following new report",
-          "imageUrl": "https://assets.reedpopcdn.com/evil_lootbox.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/evil_lootbox.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/activision-employee-wrongful-death-lawsuit-dropped",
-          "author": "Tom Phillips",
-          "description": "Parents of an Activision Blizzard employee who took her own life have dropped their lawsuit against the company.\r\n\n\r\nKerri Moynihan, a 32-year-old finance manager at Activision, died in 2017 while attending a company retreat. \r\n\n\r\nThe incident publicly came to light as part of California's still-ongoing lawsuit against Activision, filed last July,  which has alleged multiple instances of discrimination and misconduct at the company.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/activision-employee-wrongful-death-lawsuit-dropped",
-          "publishedOn": "2022-06-01T11:38:03.000Z",
-          "wordCount": 809,
-          "title": "Activision employee wrongful death lawsuit dropped",
-          "imageUrl": "https://assets.reedpopcdn.com/activision_blizzard_lawsuit_header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision_blizzard_lawsuit_header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-evercade-handheld-console-coming-this-winter",
-          "author": "Ed Nightingale",
-          "description": "A new Evercade handheld console will be released this winter: the Evercade EXP.\r\n\n\r\nIterating on the previous handheld, the slick white Evercade EXP features a faster processor on par with its home console equivalent Evercade VS, as well as a higher resolution screen, built-in WiFi, and a new pair of triggers.\r\n\n\r\nIn addition, Tate Mode will allow players to rotate the handheld for vertical play - the screen has been designed for this and the console includes extra buttons to accommodate the change in orientation.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-evercade-handheld-console-coming-this-winter",
-          "publishedOn": "2022-06-01T11:12:41.000Z",
-          "wordCount": 790,
-          "title": "New Evercade handheld console coming this winter",
-          "imageUrl": "https://assets.reedpopcdn.com/EVERCADE-EXP-005.png/BROK/thumbnail/1600x900/format/jpg/quality/80/EVERCADE-EXP-005.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/retro-game-forger-discovered-after-years-of-sales-equating-to-almost-100k",
-          "author": "Victoria Kennedy",
-          "description": "A skilled forger has been discovered after years of selling retro games and memorabilia to unsuspecting collectors. \nThe Big Box PC Game Collectors group has ousted Enrico Ricciardi after several members came forward with counterfeit copies of classic games which they had purchased from Ricciardi. \nThe group has now shared a public document (via Kotaku) detailing its investigation and subsequent evidence against Ricciardi. This document states: \"If you have received games from [Ricciardi], check them closely and compare with known originals. I advise to presume they are fake, because our investigation has unearthed quite a bit more alleged forgeries than real.\"\n Read more",
-          "link": "https://www.eurogamer.net/retro-game-forger-discovered-after-years-of-sales-equating-to-almost-100k",
-          "publishedOn": "2022-06-01T11:01:53.000Z",
-          "wordCount": 940,
-          "title": "Retro game forger discovered after years of sales equating to almost $100k",
-          "imageUrl": "https://assets.reedpopcdn.com/Retro-fake-Mystery.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Retro-fake-Mystery.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/tekken-7-now-the-best-selling-game-in-the-series",
-          "author": "Ed Nightingale",
-          "description": "Tekken 7 has now sold 9m copies worldwide, making it the highest selling game in the series.\r\n\n\r\nWhat's more, the series as a whole has now sold 53m copies.\r\n\n\r\nAs we reported last year, Tekken 7 had sold 7m copies - adding another 2m in the last year shows sales are still going strong.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/tekken-7-now-the-best-selling-game-in-the-series",
-          "publishedOn": "2022-06-01T10:45:02.000Z",
-          "wordCount": 786,
-          "title": "Tekken 7 now the best-selling game in the series",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_40faa5ba39563cb899f1ab2ddd2afbf8b451d52f.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_40faa5ba39563cb899f1ab2ddd2afbf8b451d52f.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-execs-individually-speak-out-on-womens-and-trans-rights",
-          "author": "Tom Phillips",
-          "description": "Respawn boss Vince Zampella and The Sims exec Lyndsay Pearson have issued statements supporting the rights of women and transgender people, as EA continues to be pressured by employees to make a wider statement of its own. \r\n\n\r\nThe remarks, posted publicly on Twitter overnight, reportedly follow an internal meeting within EA on LGBTQ+ issues, Kotaku reported. \r\n\n\r\nThere, the publisher was again asked by employees whether it would make a public statement on these issues - and reportedly again kept to its previous line that these topics were subject to different points of view across the company.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ea-execs-individually-speak-out-on-womens-and-trans-rights",
-          "publishedOn": "2022-06-01T10:31:56.000Z",
-          "wordCount": 1235,
-          "title": "EA execs individually speak out on women's and trans rights",
-          "imageUrl": "https://assets.reedpopcdn.com/ealogo_cZLswcg.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ealogo_cZLswcg.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/god-of-war-on-pc-now-has-amd-fsr-20-support",
-          "author": "Ishraq Subhan",
-          "description": "PC gamers rejoice!  God of War on PC has been updated to support AMD's FidelityFX Super Resolution (FSR) 2.0. \r\n\n\r\nFor those of you out of the loop, I highly recommend you give Digital Foundry's explainer a read, where Alex Battaglia explains it much more eloquently than I ever could. \r\n\n\r\nIn short, FSR 2.0 is a suite of image upscaling technologies which let your PC run the game at a lower internal resolution, which is then reconstructed to be close to indistinguishable from its native resolution. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/god-of-war-on-pc-now-has-amd-fsr-20-support",
-          "publishedOn": "2022-06-01T10:30:16.000Z",
-          "wordCount": 827,
-          "title": "God of War on PC now has AMD FSR 2.0 support",
-          "imageUrl": "https://assets.reedpopcdn.com/god_of_war_serpent_tZPAOHp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god_of_war_serpent_tZPAOHp.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-and-kingdom-hearts-producer-shinji-hashimoto-retires-from-square-enix",
-          "author": "Ed Nightingale",
-          "description": "Shinji Hashimoto has retired from Square Enix after almost 30 years at the company.\r\n\n\r\nHaving joined Squaresoft (as it was known)in 1995, Hashimoto later became the brand manager for the Final Fantasy series and co-creator of Kingdom Hearts.\r\n\n\r\nHe shared a message of his retirement on his Twitter, as well as a video message on the Square Enix account where he explained his love for meeting fans at events, something he's sadly been unable to do due to the COVID-19 pandemic.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-and-kingdom-hearts-producer-shinji-hashimoto-retires-from-square-enix",
-          "publishedOn": "2022-06-01T10:20:40.000Z",
-          "wordCount": 852,
-          "title": "Final Fantasy and Kingdom Hearts producer Shinji Hashimoto retires from Square Enix",
-          "imageUrl": "https://assets.reedpopcdn.com/hashimoto.png/BROK/thumbnail/1600x900/format/jpg/quality/80/hashimoto.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/konami-pulls-the-plug-on-super-bomberman-r-online",
-          "author": "Victoria Kennedy",
-          "description": "Super Bomberman R Online is now going offline. Konami has announced its plans to \"terminate the service\" on 1st December across all platforms. \nIn addition to this, Konami revealed that the sale of Bomber Coins and Premium Packs will end today (1st June), with the company asking for all unused Bomber Coins to be used \"before the end of the service\".\nKonami did not go into the specifics of why it has made this decision, only citing \"various circumstances\" as the catalyst for the service's closure.\n Read more",
-          "link": "https://www.eurogamer.net/konami-pulls-the-plug-on-super-bomberman-r-online",
-          "publishedOn": "2022-06-01T10:05:58.000Z",
-          "wordCount": 828,
-          "title": "Konami pulls the plug on Super Bomberman R Online",
-          "imageUrl": "https://assets.reedpopcdn.com/former-stadia-timed-exclusive-super-bomberman-online-heading-to-pc-and-consoles-soon-1615920176980_2X210Ug.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/former-stadia-timed-exclusive-super-bomberman-online-heading-to-pc-and-consoles-soon-1615920176980_2X210Ug.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/xboxs-latest-update-lets-you-reveal-secret-achievements",
-          "author": "Ishraq Subhan",
-          "description": "There's good news for all of you achivement hunters, as this month's Xbox dashboard update will let you reveal the details of secret achivements. \r\n\n\r\nThis should save quite a bit of time for completionists, who will no longer have to resort to Google in order to find the one pesky achievement that haunts your nightmares.\r\n\n\r\nTo find the hidden details, just open the Xbox Guide from within a game and go to Game Activity and then Achievements. After that, you just need to find the achievement you're after and manually select to unhide it.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xboxs-latest-update-lets-you-reveal-secret-achievements",
-          "publishedOn": "2022-06-01T10:01:47.000Z",
-          "wordCount": 808,
-          "title": "Xbox's latest update lets you reveal secret achievements",
-          "imageUrl": "https://assets.reedpopcdn.com/SecretAchievement-xbox.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/SecretAchievement-xbox.jpg"
         }
       ]
     },
@@ -8272,6 +8182,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog",
       "articles": [
+        {
+          "id": "https://github.blog/?p=66035",
+          "author": "Victoria Dye",
+          "description": "High-quality Git commits are the key to a maintainable and collaborative open- or closed-source project. Learn strategies to improve and use commits to streamline your development process.",
+          "link": "https://github.blog/2022-06-30-write-better-commits-build-better-projects/",
+          "publishedOn": "2022-06-30T19:34:33.000Z",
+          "wordCount": 4690,
+          "title": "Write Better Commits, Build Better Projects",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/header.png"
+        },
         {
           "id": "https://github.blog/?p=65939",
           "author": "Klint Finley",
