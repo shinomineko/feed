@@ -1,5 +1,5 @@
 # feed
 
-my usual rss feeds
+My usual RSS feeds
 
-credits to [osmosfeed](https://github.com/osmoscraft/osmosfeed)
+Credits to [osmosfeed](https://github.com/osmoscraft/osmosfeed)
