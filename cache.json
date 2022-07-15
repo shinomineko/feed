@@ -414,16 +414,6 @@
           "wordCount": 615,
           "title": "Attacking the Performance of Machine Learning Systems",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/06/m1-chip-vulnerability.html",
-          "author": null,
-          "description": "<p>This is a <a href=\"https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/\">new vulnerability</a> against Apple&#8217;s M1 chip. Researchers say that it is unpatchable.</p>\n<blockquote><p>Researchers from MIT’s Computer Science and Artificial Intelligence Laboratory, however, have created a novel hardware attack, which combines memory corruption and <a href=\"https://techcrunch.com/2020/03/10/new-flaw-in-intel-chips-lets-attackers-slip-their-own-data-into-secure-enclave/\">speculative execution</a> attacks to sidestep the security feature. The attack shows that pointer authentication can be defeated without leaving a trace, and as it utilizes a hardware mechanism, no software patch can fix it.</p>\n<p>The attack, appropriately called &#8220;Pacman,&#8221; works by &#8220;guessing&#8221; a pointer authentication code (PAC), a cryptographic signature that confirms that an app hasn’t been maliciously altered. This is done using speculative execution&#8212;a technique used by modern computer processors to speed up performance by speculatively guessing various lines of computation&#8212;to leak PAC verification results, while a hardware side-channel reveals whether or not the guess was correct...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/06/m1-chip-vulnerability.html",
-          "publishedOn": "2022-06-15T11:05:22.000Z",
-          "wordCount": 536,
-          "title": "M1 Chip Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +422,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1866989",
+          "author": "Beth Mole",
+          "description": "British investigation reveals thousands traveling across borders and paying huge sums.",
+          "link": "https://arstechnica.com/?p=1866989",
+          "publishedOn": "2022-07-14T23:12:30.000Z",
+          "wordCount": 2011,
+          "title": "Long COVID patients spend their life savings on unproven “blood washing”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1232157500-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1866920",
+          "author": "Ashley Belanger",
+          "description": "Amazon Ring gave police data without user consent 11 times so far in 2022.",
+          "link": "https://arstechnica.com/?p=1866920",
+          "publishedOn": "2022-07-14T21:34:48.000Z",
+          "wordCount": 1755,
+          "title": "Amazon finally admits giving cops Ring doorbell data without user consent",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1327334669-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1866908",
+          "author": "Dan Goodin",
+          "description": "Despite a significant Achilles' heel, mixers are seeing unprecedented demand.",
+          "link": "https://arstechnica.com/?p=1866908",
+          "publishedOn": "2022-07-14T20:57:23.000Z",
+          "wordCount": 1814,
+          "title": "Cryptocurrency flowing into “mixers” hits an all-time high. Wanna guess why?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/currency-mixer-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1866873",
+          "author": "Sam Machkovech",
+          "description": "New rewards program shuns blockchain; other Sony divisions have different NFT stances.",
+          "link": "https://arstechnica.com/?p=1866873",
+          "publishedOn": "2022-07-14T19:37:05.000Z",
+          "wordCount": 1812,
+          "title": "PlayStation’s new “digital collectibles” are definitely not NFTs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/ps-stars-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1866874",
+          "author": "WIRED",
+          "description": "Experiments between quantum and classical computers show term’s evolving meaning.",
+          "link": "https://arstechnica.com/?p=1866874",
+          "publishedOn": "2022-07-14T18:43:26.000Z",
+          "wordCount": 1749,
+          "title": "Quantum advantage showdowns have no clear winners",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Xanadu-Chips-4-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1866789",
           "author": "Ron Amadeo",
@@ -3486,6 +3526,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/aliens-is-getting-the-single-player-action-horror-treatment",
+          "author": "Matt Wales",
+          "description": "Developer Survios is teaming up with 20th Century Fox to create a new single-player, action-horror game based on the Alien franchise.\r\n\n\r\nDetails on the new venture - currently being referred to as \"Aliens\" - are pretty scarce right now, with Survios only saying it'll feature an original storyline set somewhere between the events of Alien and Aliens, with players taking on the role of a \"battle hardened veteran [with] a vendetta against the Xenomorphs\".\r\n\n\r\nGiven Survios' background as a primarily VR-focused developer - it's worked on the likes of Creed: Rise to Glory, The Walking Dead Onslaught, and Puzzle Bobble 3D: Vacation Odyssey - it won't be much of a surprise to hear its new Aliens project is also be getting the VR treatment. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/aliens-is-getting-the-single-player-action-horror-treatment",
+          "publishedOn": "2022-07-14T19:59:38.000Z",
+          "wordCount": 4489,
+          "title": "Aliens is getting the single-player, action-horror treatment",
+          "imageUrl": "https://assets.reedpopcdn.com/aliens_enDTlza.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aliens_enDTlza.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/eas-latest-skate-entry-is-live-service-free-to-play-game",
           "author": "Matt Wales",
@@ -7325,126 +7375,6 @@
           "wordCount": 932,
           "title": "Sony's Gran Turismo film adaptation plot and release date revealed",
           "imageUrl": "https://assets.reedpopcdn.com/GT-film-plot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GT-film-plot.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/psa-that-free-upgrade-for-resident-evil-7-biohazard-isnt-free-for-ps-plus-collection-users",
-          "author": "Victoria Kennedy",
-          "description": "Capcom announced its PS5 and Xbox Series X/S spruce-ups of Resident Evil 2, 3 and 7 as part of its showcase earlier this week. At the time of this announcement, Capcom revealed those yet to experience the games will be able to purchase the newly updated Xbox Series X/S and PS5 versions from their respective stores, but existing owners on Xbox One and PS4 would be able to grab the updates relevant to their platform at no additional cost.\nHowever, it now transpires this is not the case for those who got their hands on Resident Evil 7 through the PlayStation Plus Collection (something that is exclusive to the PS5).\nInstead, those who have been playing the game via the PS Plus Collection but also want to experience the game with its 4K resolution, \"high\" framerates, ray tracing, and 3D audio will need to purchase the game separately (via IGN).\n Read more",
-          "link": "https://www.eurogamer.net/psa-that-free-upgrade-for-resident-evil-7-biohazard-isnt-free-for-ps-plus-collection-users",
-          "publishedOn": "2022-06-15T12:00:16.000Z",
-          "wordCount": 879,
-          "title": "PSA: That free upgrade for Resident Evil 7 Biohazard isn't free for PS Plus Collection users",
-          "imageUrl": "https://assets.reedpopcdn.com/resi-7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resi-7.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-convergence-mod-on-the-way-for-elden-ring",
-          "author": "Ed Nightingale",
-          "description": "A new The Convergence mod is on the way for Elden Ring.\r\n\n\r\nThe Convergence Team - a group of three modders - created a celebrated mod for Dark Souls 3 that significantly altered the main game. It added new character classes, over 100 new spells, new rings, armours and weapons, new factions, and even new NPCs and bosses.\r\n\n\r\nIt looks like Elden Ring will be getting the same treatment.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-convergence-mod-on-the-way-for-elden-ring",
-          "publishedOn": "2022-06-15T11:56:39.000Z",
-          "wordCount": 754,
-          "title": "The Convergence mod on the way for Elden Ring",
-          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-convergence.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-convergence.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/a-return-for-lollipop-chainsaw-is-on-the-horizon",
-          "author": "Tom Phillips",
-          "description": "Lollipop Chainsaw, the over-the-top zombie game from No More Heroes creator Suda51, will be making a return. \r\n\n\r\nThat's according to Yoshimi Yasuda, the game's executive producer, who recently formed a fresh company to work on projects unknown. \r\n\n\r\nDoes this mean a re-release, a remaster or a sequel to the original Lollipop Chainsaw, which celebrates its 10th anniversary this week? Yasuda declined to mention. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/a-return-for-lollipop-chainsaw-is-on-the-horizon",
-          "publishedOn": "2022-06-15T11:34:50.000Z",
-          "wordCount": 829,
-          "title": "A return for Lollipop Chainsaw is on the horizon",
-          "imageUrl": "https://assets.reedpopcdn.com/Lollipop-Chainsaw---Launch-Trailer-thumbnail-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Lollipop-Chainsaw---Launch-Trailer-thumbnail-1.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/beat-saber-celebrates-fourth-anniversary-with-two-new-remixes",
-          "author": "Ed Nightingale",
-          "description": "VR rhythm game Beat Saber is celebrating its fourth anniversary with the release of two free remixes.\r\n\n\r\nThe remixes are of original tracks by Camellia and Toki.\r\n\n\r\n\"We promised you an anniversary gift, and here it is!\" said the developers in a tweet. Judging by the accompanying video, the difficulty has certainly ramped up.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/beat-saber-celebrates-fourth-anniversary-with-two-new-remixes",
-          "publishedOn": "2022-06-15T11:34:20.000Z",
-          "wordCount": 743,
-          "title": "Beat Saber celebrates fourth anniversary with two new remixes",
-          "imageUrl": "https://assets.reedpopcdn.com/beat-saber.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/beat-saber.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fresh-details-emerge-on-cancelled-kid-kirby-snes-game",
-          "author": "Victoria Kennedy",
-          "description": "Kid Kirby, originally planned for the SNES, is a cancelled Nintendo game we've previously known little of. Now, fresh details have come to light showing a little more of what could have been, had this project come to fruition. \nDetails shared by the Kid Kirby Archive Twitter include manual pages, a story overview and new renders, all of which were provided by writer Steve Hammond.\nFirst off, we have a render of King Dedede, a character only previously seen in much lower quality on a 1995 internal brochure. \n Read more",
-          "link": "https://www.eurogamer.net/fresh-details-emerge-on-cancelled-kid-kirby-snes-game",
-          "publishedOn": "2022-06-15T11:15:30.000Z",
-          "wordCount": 955,
-          "title": "Fresh details emerge on cancelled Kid Kirby SNES game",
-          "imageUrl": "https://assets.reedpopcdn.com/KK_bCQnoN3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/KK_bCQnoN3.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/a-harrowing-update-from-gsc-game-world-the-stalker-2-developer-based-in-ukraine",
-          "author": "Tom Phillips",
-          "description": "GSC Game World has provided a fresh update on its staff and the development of its upcoming project Stalker 2, amidst the ongoing Russian invasion of Ukraine. \r\n\n\r\nThe video, below, is a tough and often extraordinary watch - but one which details how life has changed for the game's team over the course of this year.\r\n\n\r\nMany GSC staff have now fled Ukraine, though others have been unable to. Here, those still in the country show their current living conditions, describe the destruction around them, and in some cases speak from the war's frontlines - where they have gone to fight for their country. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/a-harrowing-update-from-gsc-game-world-the-stalker-2-developer-based-in-ukraine",
-          "publishedOn": "2022-06-15T11:01:10.000Z",
-          "wordCount": 762,
-          "title": "A harrowing update from GSC Game World, the Stalker 2 developer based in Ukraine",
-          "imageUrl": "https://assets.reedpopcdn.com/S.T.A.L.K.E.R.-2-Dev-Diary_-Game-Development-During-the-War-0-50-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/S.T.A.L.K.E.R.-2-Dev-Diary_-Game-Development-During-the-War-0-50-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/goldeneye-007-documentary-goldenera-coming-27th-june",
-          "author": "Victoria Kennedy",
-          "description": "An upcoming feature-length documentary called GoldenEra will give nostalgic fans like me a closer look at the making of the Nintendo 64's iconic game GoldenEye 007. \nWithin this documentary, viewers will \"learn how a young and inexperienced team at UK development studio Rare were handed the James Bond licence, before making a game that would change the medium forever when it was released\". \nThis includes insights from the original GoldenEye 007 team, as well as those within the press that covered the game on its release (all the way back in 1997!) and saw their careers change as a result. It will also touch base with the many fans who played the game 25 years ago and discuss the resulting impact it had on them. \n Read more",
-          "link": "https://www.eurogamer.net/goldeneye-007-documentary-goldenera-coming-27th-june",
-          "publishedOn": "2022-06-15T11:00:00.000Z",
-          "wordCount": 896,
-          "title": "GoldenEye 007 documentary GoldenEra coming 27th June",
-          "imageUrl": "https://assets.reedpopcdn.com/GE-007.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GE-007.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/star-wars-kotor-2-dlc-coming-q3-2022",
-          "author": "Ed Nightingale",
-          "description": "Star Wars: Knights of the Old Republic 2: The Sith Lords is out now on Nintendo Switch and DLC is set for release in Q3 this year.\r\n\n\r\nThe Sith Lords Restored Content DLC will be available for free and adds in extra content that was cut from the original Xbox release of the game.\r\n\n\r\nHowever, the DLC won't be compatible with base game save files, explains developer Aspyr.\r\n\r\n \nRead more",
-          "link": "https://www.eurogamer.net/star-wars-kotor-2-dlc-coming-q3-2022",
-          "publishedOn": "2022-06-15T10:56:55.000Z",
-          "wordCount": 851,
-          "title": "Star Wars KOTOR 2 DLC coming Q3 2022",
-          "imageUrl": "https://assets.reedpopcdn.com/kotor2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/kotor2.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-quarrys-multiplayer-was-delayed-to-get-staff-and-online-server-out-of-ukraine",
-          "author": "Victoria Kennedy",
-          "description": "Last month, Supermassive Games announced its multiplayer component to The Quarry was delayed and would arrive separately from the game's release. At the time, the developer said this delay was to ensure it delivers \"the best possible experience\" to players on its eventual launch. However, it has now been revealed that, as with other games, this delay was also due to the ongoing war in Ukraine.\n\"We had a bit of a weird thing with the multiplayer because... part of our team is based out in the Ukraine... So, we had to delay the multiplayer because they had to move,\" The Quarry creative director Will Byles told IGN.\n\"We had to move the server from Kyiv up into Warsaw and those guys had to get out [of] there because it was obviously really dangerous.\"\n Read more",
-          "link": "https://www.eurogamer.net/the-quarrys-multiplayer-was-delayed-to-get-staff-and-online-server-out-of-ukraine",
-          "publishedOn": "2022-06-15T10:35:10.000Z",
-          "wordCount": 871,
-          "title": "The Quarry's multiplayer was delayed to get staff and online server out of Ukraine",
-          "imageUrl": "https://assets.reedpopcdn.com/The-Quarry-delay.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Quarry-delay.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nomura-trying-to-find-a-good-balance-of-final-fantasy-characters-in-kingdom-hearts-4",
-          "author": "Ed Nightingale",
-          "description": "Kingdom Hearts director Tetsuya Nomura has said his team is \"trying to find a good balance\" of Final Fantasy characters in Kingdom Hearts 4.\r\n\n\r\nSpeaking to Game Informer, Nomura discussed a number of details about the forthcoming entry in the long-running series.\r\n\n\r\nYet asked if Kingdom Hearts 4 will bring back cameos of Final Fantasy characters, Nomura gave some interesting insight into balancing the game's franchises.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nomura-trying-to-find-a-good-balance-of-final-fantasy-characters-in-kingdom-hearts-4",
-          "publishedOn": "2022-06-15T10:27:34.000Z",
-          "wordCount": 1087,
-          "title": "Nomura \"trying to find a good balance\" of Final Fantasy characters in Kingdom Hearts 4",
-          "imageUrl": "https://assets.reedpopcdn.com/kingdom-hearts-4-sora.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kingdom-hearts-4-sora.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/unannounced-fire-emblem-game-reportedly-detailed-online",
-          "author": "Tom Phillips",
-          "description": "Details of a new, unannounced Fire Emblem game have leaked online. \r\n\n\r\nThe project, an all-new Fire Emblem RPG in the works for Nintendo Switch, was discussed yesterday by Nintendo leaker Emily Rogers. Shortly after, screenshots purportedly showing an early version of the game were posted on reddit. \r\n\nEurogamer understands the project is real. We've contacted Nintendo for more.\n Read more",
-          "link": "https://www.eurogamer.net/unannounced-fire-emblem-game-reportedly-detailed-online",
-          "publishedOn": "2022-06-15T10:20:11.000Z",
-          "wordCount": 812,
-          "title": "Unannounced Fire Emblem game reportedly detailed online",
-          "imageUrl": "https://assets.reedpopcdn.com/V25fP8qHSjMonSAn95zZc9-1200-80.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/V25fP8qHSjMonSAn95zZc9-1200-80.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/seamless-space-travel-not-that-important-to-starfield-players-says-todd-howard",
-          "author": "Ed Nightingale",
-          "description": "Starfield won't let players fly seamlessly from the surface of planets to space.\r\n\n\r\nTodd Howard, the game's director, spoke to IGN and offered further details on the game - including the length of its main quest. \r\n\n\r\n\r\nHowever, when asked whether players can fly seamlessly to space, Howard said the feature is \"really just not that important to the player\" to justify the extra engineering work required.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/seamless-space-travel-not-that-important-to-starfield-players-says-todd-howard",
-          "publishedOn": "2022-06-15T10:06:20.000Z",
-          "wordCount": 753,
-          "title": "Seamless space travel \"not that important\" to Starfield players, says Todd Howard",
-          "imageUrl": "https://assets.reedpopcdn.com/starfield-landing.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starfield-landing.jpg"
         }
       ]
     },
