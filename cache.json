@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/07/friday-squid-blogging-squid-inks-fisherman.html",
+          "author": null,
+          "description": "<p>Short <a href=\"https://www.youtube.com/watch?v=mlNls6H5PkU\">video</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/07/friday-squid-blogging-squid-inks-fisherman.html",
+          "publishedOn": "2022-07-15T21:04:37.000Z",
+          "wordCount": 1159,
+          "title": "Friday Squid Blogging: Squid Inks Fisherman",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/07/san-francisco-police-want-real-time-access-to-private-surveillance-cameras.html",
           "author": null,
           "description": "<p>Surely no one could have predicted <a href=\"https://www.theregister.com/2022/07/11/san_francisco_police_private_security_cameras/\">this</a>:</p>\n<blockquote><p>The new proposal&#8212;championed by Mayor London Breed after November&#8217;s <a href=\"https://www.sfchronicle.com/bayarea/article/Bay-Area-s-wild-weekend-of-retail-crime-16642843.php\">wild weekend</a> of orchestrated burglaries and theft in the San Francisco Bay Area&#8212;would authorize the police department to use non-city-owned security cameras and camera networks to live monitor &#8220;significant events with public safety concerns&#8221; and ongoing felony or misdemeanor violations.</p>\n<p>Currently, the police can only request historical footage from private cameras related to specific times and locations, rather than blanket monitoring. Mayor Breed also complained the police can only use real-time feeds in emergencies involving &#8220;imminent danger of death or serious physical injury.&#8221;...</p></blockquote>",
@@ -414,16 +424,6 @@
           "wordCount": 608,
           "title": "Tracking People via Bluetooth on Their Phones",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html",
-          "author": null,
-          "description": "<p>Interesting research: &#8220;<a href=\"https://ieeexplore.ieee.org/document/9581273\">Sponge Examples: Energy-Latency Attacks on Neural Networks</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> The high energy costs of neural network training and inference led to the use of acceleration hardware such as GPUs and TPUs. While such devices enable us to train large-scale neural networks in datacenters and deploy them on edge devices, their designers&#8217; focus so far is on average-case performance. In this work, we introduce a novel threat vector against neural networks whose energy consumption or decision latency are critical. We show how adversaries can exploit carefully-crafted sponge examples, which are inputs designed to maximise energy consumption and latency, to drive machine learning (ML) systems towards their worst-case performance. Sponge examples are, to our knowledge, the first denial-of-service attack against the ML components of such systems. We mount two variants of our sponge attack on a wide range of state-of-the-art neural network models, and find that language models are surprisingly vulnerable. Sponge examples frequently increase both latency and energy consumption of these models by a factor of 30×. Extensive experiments show that our new attack is effective across different hardware platforms (CPU, GPU and an ASIC simulator) on a wide range of different language tasks. On vision tasks, we show that sponge examples can be produced and a latency degradation observed, but the effect is less pronounced. To demonstrate the effectiveness of sponge examples in the real world, we mount an attack against Microsoft Azure&#8217;s translator and show an increase of response time from 1ms to 6s (6000×). We conclude by proposing a defense strategy: shifting the analysis of energy consumption in hardware from an average-case to a worst-case perspective...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html",
-          "publishedOn": "2022-06-16T11:02:36.000Z",
-          "wordCount": 615,
-          "title": "Attacking the Performance of Machine Learning Systems",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +432,36 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1867291",
+          "author": "Beth Mole",
+          "description": "Though feds are making more vaccine available, it's not enough to keep up with demand.",
+          "link": "https://arstechnica.com/?p=1867291",
+          "publishedOn": "2022-07-15T22:21:51.000Z",
+          "wordCount": 1704,
+          "title": "US monkeypox cases hit 1,470; CDC says more coming, and we’re short on vaccines",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1408879341-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867141",
+          "author": "Samuel Axon",
+          "description": "The subscription model for mobile apps is paying off big time for some.",
+          "link": "https://arstechnica.com/?p=1867141",
+          "publishedOn": "2022-07-15T20:29:22.000Z",
+          "wordCount": 1480,
+          "title": "Thanks to subscriptions, iPhone apps finally made more money than games",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/app-store-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867152",
+          "author": "Ashley Belanger",
+          "description": "He'll still support his family, but swears the rest will go to philanthropy.",
+          "link": "https://arstechnica.com/?p=1867152",
+          "publishedOn": "2022-07-15T18:50:40.000Z",
+          "wordCount": 1979,
+          "title": "Amid global hellscape, Bill Gates to tank his wealth ranking, gives away $20B",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1183201315-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1867055",
           "author": "Andrew Cunningham",
@@ -3506,6 +3536,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sims-4-introducing-sexual-orientation-in-free-update-later-this-month",
+          "author": "Matt Wales",
+          "description": "Up until now, The Sims 4 has presented itself as an enthusisatically flexi-sexual world, where every Sim is open to at least considering all attempts to woo and WooHoo. That'll soon change, however, with an imminent update giving The Sims 4 players the opportunity to define their Sims' sexual orientations in a way that better reflects the real world.\r\n\n\r\nArriving as part of a free update accompanying The Sims 4's next major expansion, High School Years, which launches on 28th July, the feature will add a new Sexual Orientation tab to the game's Create-A-Sim screen. Here, player will have the opportunity to tinker with three settings that will impact how Sims interact with others in-game.\r\n\n\r\nThe first option enables players to choose whether a Sim is romantically attracted to men, women, both, or neither, meaning they'll turn down romantic advances made by Sims that don't fit that profile. Incidentally, while discussing the feature during its latest livestream, developer Maxis explained it's currently using gender binary terms (despite making strides to add more inclusive pronoun options) for technical reasons relating to how The Sims 4, which is built on eight-year-old architecture, currently handles gender behind the scenes. It notes, however, that it hopes to expand the feature to encompass more gender identities over time.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sims-4-introducing-sexual-orientation-in-free-update-later-this-month",
+          "publishedOn": "2022-07-15T20:44:42.000Z",
+          "wordCount": 4887,
+          "title": "Sims 4 introducing sexual orientation in free update later this month",
+          "imageUrl": "https://assets.reedpopcdn.com/the-sims-4-high-school-years_KYggSQm.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sims-4-high-school-years_KYggSQm.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/x-wing-devs-long-lost-xbox-fantasy-shooter-knights-of-decayden-unearthed-in-new-report",
           "author": "Matt Wales",
@@ -7265,76 +7305,6 @@
           "wordCount": 917,
           "title": "Mario Kart Tour Battle Mode content unearthed",
           "imageUrl": "https://assets.reedpopcdn.com/R-(14).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/R-(14).jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-updates-ps5-share-factory-studio-with-new-feature-to-personalise-clips",
-          "author": "Ed Nightingale",
-          "description": "Sony has updated its Share Factory Studio for PS5 with a new feature called Bits, which allows users to edit and personalise their gameplay clips.\r\n\n\r\nSaved clips can now be edited into an existing meme template, or you can create your own in a simple editor.\r\n\n\r\n\"Our goal with Bits is to make it super easy and fun for PlayStation gamers to create and share short-form gameplay videos for sharing cool achievements, jokes, stunts, and any other type of eye-catching content,\" reads a PlayStation Blog on the topic.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-updates-ps5-share-factory-studio-with-new-feature-to-personalise-clips",
-          "publishedOn": "2022-06-16T12:28:24.000Z",
-          "wordCount": 769,
-          "title": "Sony updates PS5 Share Factory Studio with new feature to personalise clips",
-          "imageUrl": "https://assets.reedpopcdn.com/ps5-bits.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ps5-bits.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/dice-changes-battlefield-2042s-playlists-for-week-two-of-zero-hour",
-          "author": "Ishraq Subhan",
-          "description": "DICE has updated Battlefield 2042's All-Out-Warfare playlists as part of week two of the game's first season: Zero Hour. \r\n\n\r\nBreakthrough on the season's new map Exposure will get a dedicated playlist alongside the dedicated Conquest playlist already available. \r\n\n\r\nThis will make it easier for players to play Breakthrough on Exposure, as its currently based on pure luck.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dice-changes-battlefield-2042s-playlists-for-week-two-of-zero-hour",
-          "publishedOn": "2022-06-16T10:47:35.000Z",
-          "wordCount": 843,
-          "title": "DICE changes Battlefield 2042's playlists for week two of Zero Hour",
-          "imageUrl": "https://assets.reedpopcdn.com/battlefield_zero_hour.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield_zero_hour.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendos-lawyers-hit-metroid-prime-music-youtuber",
-          "author": "Victoria Kennedy",
-          "description": "Another day, another case of Nintendo being Nintendo. This time, the company is cracking down on a YouTuber that uploaded covers of music from Metroid Prime to their channel.\nContent creator SynaMax revealed that nine of his videos have had to be taken down, after Nintendo sent in the big guns and flexed their legal muscles his way.\n\"On 31st May, a lawyer representing Nintendo called me and asked me to take down nine videos off the channel,\" SynaMax explained in a new video (spotted by VGC). \"I'm really disappointed in Nintendo that they would force me to take down these videos because they want compulsory licenses.\"\n Read more",
-          "link": "https://www.eurogamer.net/nintendos-lawyers-hit-metroid-prime-music-youtuber",
-          "publishedOn": "2022-06-16T10:45:42.000Z",
-          "wordCount": 973,
-          "title": "Nintendo's lawyers hit Metroid Prime music YouTuber",
-          "imageUrl": "https://assets.reedpopcdn.com/Mario-is-sad.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Mario-is-sad.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/our-open-zone-is-a-world-map-says-sonic-frontiers-director",
-          "author": "Ed Nightingale",
-          "description": "Sonic Frontiers director Morio Kishimoto has explained what the game's \"Open Zone\" structure really means.\r\n\n\r\nSpeaking to IGN, Kishimoto's comments somewhat clarify what separates Sonic Frontiers from open-world games.\r\n\n\r\n\"Level-based platformers often have a world map. Our Open Zone is a world map, only we've made it entirely playable,\" said Kishimoto.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/our-open-zone-is-a-world-map-says-sonic-frontiers-director",
-          "publishedOn": "2022-06-16T10:35:03.000Z",
-          "wordCount": 953,
-          "title": "\"Our Open Zone is a world map,\" says Sonic Frontiers director",
-          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers_tPDEvos.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers_tPDEvos.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/redfalls-campaign-progress-is-only-tied-to-the-host-in-co-op",
-          "author": "Victoria Kennedy",
-          "description": "If you are looking to get your hands on Arkane's upcoming vampire riddled RPG to play with your nearest and dearest, here is a quick heads up: you will only be able to save any progress you make in Redfall's campaign if you are the host.\nSpeaking to IGN, Redfall game designer Harvey Smith revealed, \"whoever hosts the session, or whoever initiates the session... their progress is persistent for them. But [for] other people, it's not. In terms of what missions you've unlocked and such, the host, their progression matters.\"\nHe went on to explain, \"if you sign on with a friend and they're halfway through the game, and you play the second half of the game with them and then you need to go back and you want to play on your own, you'll be starting at the beginning of the campaign with a character\".\n Read more",
-          "link": "https://www.eurogamer.net/redfalls-campaign-progress-is-only-tied-to-the-host-in-co-op",
-          "publishedOn": "2022-06-16T09:57:29.000Z",
-          "wordCount": 950,
-          "title": "Redfall's campaign progress is only tied to the host in co-op",
-          "imageUrl": "https://assets.reedpopcdn.com/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/capcom-reactivates-previous-versions-of-resident-evil-pc-games-after-overwhelming-community-response",
-          "author": "Ed Nightingale",
-          "description": "Capcom has reactivated the previous versions of Resident Evil 2, 3, and 7 on PC, following player feedback.\r\n\n\r\nAfter the Capcom showcase, the publisher released a free upgrade across PS5, Xbox Series X/S, and PC, adding in ray-tracing, 4K support, and 3D audio.\r\n\n\r\nHowever, on PC the new version had increased minimum system requirements and was unable to revert back to the previous version, locking some players out of the game. This has now been reactivated.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/capcom-reactivates-previous-versions-of-resident-evil-pc-games-after-overwhelming-community-response",
-          "publishedOn": "2022-06-16T09:46:09.000Z",
-          "wordCount": 744,
-          "title": "Capcom reactivates previous versions of Resident Evil PC games after \"overwhelming community response\"",
-          "imageUrl": "https://assets.reedpopcdn.com/resident-evil-3s-remake-introduces-more-action-new-moves-and-meaner-enemies-1582625989038.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-3s-remake-introduces-more-action-new-moves-and-meaner-enemies-1582625989038.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/343-industries-apologises-for-offensive-juneteenth-cosmetic-name",
-          "author": "Ishraq Subhan",
-          "description": "Halo Infinite developer 343 Industries has apologised after releasing a cosmetic item in celebration of Juneteenth with an offensive name. \r\n\n\r\nThe offending item was an emblem which included a palette option called \"Bonobo\", which is the name of an endangered great ape.\r\n\n\r\nJuneteenth is an annual holiday in the United States to commemorate the emancipation of slaves in the country. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/343-industries-apologises-for-offensive-juneteenth-cosmetic-name",
-          "publishedOn": "2022-06-16T09:44:40.000Z",
-          "wordCount": 832,
-          "title": "343 Industries apologises for offensive Juneteenth cosmetic name",
-          "imageUrl": "https://assets.reedpopcdn.com/Halo-Infinite-Bobobo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Halo-Infinite-Bobobo.jpg"
         }
       ]
     },
