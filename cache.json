@@ -404,26 +404,6 @@
           "wordCount": 1181,
           "title": "Hidden Anti-Cryptography Provisions in Internet Anti-Trust Bills",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/06/hertzbleed-a-new-side-channel-attack.html",
-          "author": null,
-          "description": "<p>Hertzbleed is a new side-channel attack that works against a variety of microprocressors. Deducing cryptographic keys by analyzing power consumption has long been an attack, but it&#8217;s not generally viable because measuring power consumption is often hard. This <a href=\"https://arstechnica.com/information-technology/2022/06/researchers-exploit-new-intel-and-amd-cpu-flaw-to-steal-encryption-keys/\">new attack</a> measures power consumption by measuring time, making it easier to exploit.</p>\n<blockquote><p>The team discovered that dynamic voltage and frequency scaling (DVFS)&#8212;a power and thermal management feature added to every modern CPU&#8212;allows attackers to deduce the changes in power consumption by monitoring the time it takes for a server to respond to specific carefully made queries. The discovery greatly reduces what&#8217;s required. With an understanding of how the DVFS feature works, power side-channel attacks become much simpler timing attacks that can be done remotely...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/06/hertzbleed-a-new-side-channel-attack.html",
-          "publishedOn": "2022-06-20T11:23:53.000Z",
-          "wordCount": 4154,
-          "title": "Hertzbleed: A New Side-Channel Attack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/06/hartzbleed-a-new-side-channel-attack.html",
-          "author": null,
-          "description": "<p>Hartzbleed is a new side-channel attack that works against a variety of microprocressors. Deducing cryptographic keys by analyzing power consumption has long been an attack, but it&#8217;s not generally viable because measuring power consumption is often hard. This <a href=\"https://arstechnica.com/information-technology/2022/06/researchers-exploit-new-intel-and-amd-cpu-flaw-to-steal-encryption-keys/\">new attack</a> measures power consumption by measuring time, making it easier to exploit.</p>\n<blockquote><p>The team discovered that dynamic voltage and frequency scaling (DVFS)&#8212;a power and thermal management feature added to every modern CPU&#8212;allows attackers to deduce the changes in power consumption by monitoring the time it takes for a server to respond to specific carefully made queries. The discovery greatly reduces what&#8217;s required. With an understanding of how the DVFS feature works, power side-channel attacks become much simpler timing attacks that can be done remotely...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/06/hartzbleed-a-new-side-channel-attack.html",
-          "publishedOn": "2022-06-20T11:23:53.000Z",
-          "wordCount": 863,
-          "title": "Hartzbleed: A New Side-Channel Attack",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +412,126 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1868065",
+          "author": "Beth Mole",
+          "description": "Cases, hospitalizations, ICU admissions, and even deaths are increasing.",
+          "link": "https://arstechnica.com/?p=1868065",
+          "publishedOn": "2022-07-19T22:11:08.000Z",
+          "wordCount": 1563,
+          "title": "BA.5 skyrockets in US, now accounting for 78% of cases",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1392398100-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867863",
+          "author": "Sam Machkovech",
+          "description": "June's Quake 4 giveaway followed by a slew of Heretic, Hexen ports on Windows 10.",
+          "link": "https://arstechnica.com/?p=1867863",
+          "publishedOn": "2022-07-19T21:22:35.000Z",
+          "wordCount": 2015,
+          "title": "As Microsoft-Activision merger nears, a classic FPS license reappears—for free",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/hexen-heretic-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867900",
+          "author": "Andrew Cunningham",
+          "description": "Set includes 2,532 pieces and flips open to reveal a 1980s living room.",
+          "link": "https://arstechnica.com/?p=1867900",
+          "publishedOn": "2022-07-19T20:23:41.000Z",
+          "wordCount": 1478,
+          "title": "Recapture the fun of the 1980s game crash with Lego’s $240 Atari 2600 replica",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/10306_Lifestyle_19-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867912",
+          "author": "Dan Goodin",
+          "description": "China-based Micodus has yet to patch critical vulnerabilities in MV720 GPS tracker.",
+          "link": "https://arstechnica.com/?p=1867912",
+          "publishedOn": "2022-07-19T20:13:27.000Z",
+          "wordCount": 1741,
+          "title": "Critical flaws in GPS tracker enable “disastrous” and “life-threatening” hacks",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/micodus-mv720-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867889",
+          "author": "Samuel Axon",
+          "description": "The redesign hits Android and streaming devices first, web and iOS later.",
+          "link": "https://arstechnica.com/?p=1867889",
+          "publishedOn": "2022-07-19T20:01:55.000Z",
+          "wordCount": 1487,
+          "title": "Amazon Prime Video finally gets a desperately needed redesign",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Amazon-Prime-Video-redesign-2022-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867886",
+          "author": "Ashley Belanger",
+          "description": "Documents show Homeland Security is tracking way more phone data than predicted.",
+          "link": "https://arstechnica.com/?p=1867886",
+          "publishedOn": "2022-07-19T19:56:09.000Z",
+          "wordCount": 1571,
+          "title": "DHS bought “shocking amount” of warrantless phone-tracking data, ACLU says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-511843190-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867614",
+          "author": "Jennifer Ouellette",
+          "description": "It's not just van der Waals forces—setae surface chemistry also plays a vital role.",
+          "link": "https://arstechnica.com/?p=1867614",
+          "publishedOn": "2022-07-19T19:21:01.000Z",
+          "wordCount": 2025,
+          "title": "Scientists gain fresh insight into the secret of how gecko feet stay sticky",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/gecko2B-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867746",
+          "author": "Ron Amadeo",
+          "description": "The Fold line is once again getting shorter and wider to better display phone apps.",
+          "link": "https://arstechnica.com/?p=1867746",
+          "publishedOn": "2022-07-19T18:17:52.000Z",
+          "wordCount": 1576,
+          "title": "Samsung Galaxy Z Fold 4 leaks, Samsung confirms August 10 launch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/34-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867814",
+          "author": "The Conversation",
+          "description": "US requires stronger regulation as previous efforts have fallen short.",
+          "link": "https://arstechnica.com/?p=1867814",
+          "publishedOn": "2022-07-19T18:04:46.000Z",
+          "wordCount": 1747,
+          "title": "To reduce algal blooms and dead zones, we need a strategy for farm pollution",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/erie_oli_2015209_lrg-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867816",
+          "author": "Jon Brodkin",
+          "description": "Judge schedules October trial, citing potential of \"irreparable harm\" to Twitter.",
+          "link": "https://arstechnica.com/?p=1867816",
+          "publishedOn": "2022-07-19T17:53:32.000Z",
+          "wordCount": 1654,
+          "title": "Musk loses attempt to delay Twitter trial until 2023 as judge expedites case",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-musk-twitter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867755",
+          "author": "Scharon Harding",
+          "description": "Alienware's latest consumer laptop displays hit unprecedented speeds.",
+          "link": "https://arstechnica.com/?p=1867755",
+          "publishedOn": "2022-07-19T17:01:00.000Z",
+          "wordCount": 1568,
+          "title": "Alienware debuts 480 Hz refresh rate with new 17-inch laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Alienwaer-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867759",
+          "author": "Jon Brodkin",
+          "description": "Netflix trials an extra home fee in some countries and extra member fee in others.",
+          "link": "https://arstechnica.com/?p=1867759",
+          "publishedOn": "2022-07-19T16:37:59.000Z",
+          "wordCount": 1740,
+          "title": "Netflix adds “extra home” fee, will block usage in other homes if you don’t pay",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-netflix-money-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1867739",
           "author": "Kyle Orland",
@@ -3361,26 +3461,6 @@
           "wordCount": 1737,
           "title": "Picasso‘s favorite pigment may one day recycle metals from your cell phone",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1861479",
-          "author": "The Conversation",
-          "description": "Switching to renewables will only happen if gas prices remain expensive.",
-          "link": "https://arstechnica.com/?p=1861479",
-          "publishedOn": "2022-06-20T11:00:00.000Z",
-          "wordCount": 1959,
-          "title": "High fossil fuel prices are good for the planet—here’s how to keep it that way",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1861201",
-          "author": "Eric Berger",
-          "description": "\"Has nobody at NASA read the space policy?\"",
-          "link": "https://arstechnica.com/?p=1861201",
-          "publishedOn": "2022-06-20T10:45:18.000Z",
-          "wordCount": 1610,
-          "title": "We got a leaked look at NASA’s future Moon missions—and likely delays",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png"
         }
       ]
     },
@@ -3460,6 +3540,16 @@
       "siteUrl": "https://alpinelinux.org/atom.xml",
       "articles": [
         {
+          "id": "https://alpinelinux.org/posts/Alpine-3.13.11-3.14.7-3.15.5-released.html",
+          "author": null,
+          "description": "Alpine 3.13.11, 3.14.7 and 3.15.5 released",
+          "link": "https://alpinelinux.org/posts/Alpine-3.13.11-3.14.7-3.15.5-released.html",
+          "publishedOn": "2022-07-19T00:00:00.000Z",
+          "wordCount": 85,
+          "title": "Alpine 3.13.11, 3.14.7 and 3.15.5 released",
+          "imageUrl": null
+        },
+        {
           "id": "https://alpinelinux.org/posts/Alpine-3.16.1-released.html",
           "author": null,
           "description": "Alpine 3.16.1 released",
@@ -3486,6 +3576,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/halo-infinite-head-of-design-jerry-hook-leading-new-netease-studio-jar-of-sparks",
+          "author": "Matt Wales",
+          "description": "Xbox veteran and Halo Infinite head of design Jerry Hook has unveiled his new \"AAA\" studio Jar of Sparks, a first-party developer for Chinese publisher NetEase that will focus on creating the \"next generation of narrative-driven action games\".\r\n\n\r\nHook, who announced his departure from 343 Industries and Microsoft back in May, has a long and notable career in the games industry, having joined the Xbox Live team in 2003. He would later take on an executive producer role at Microsoft after a brief sojourn at Bungie, gaining credits on numerous 343-Industries-developed titles including Halo 4 and Halo 5: Guardians.\r\n\n\r\nHook's new studio, Jar of Sparks, is based in Seattle and, according to NetEase's press release announcing the formation of the company, already boasts a \"team of industry veterans who have worked on some of the biggest franchises in video game history\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-infinite-head-of-design-jerry-hook-leading-new-netease-studio-jar-of-sparks",
+          "publishedOn": "2022-07-19T23:16:19.000Z",
+          "wordCount": 4607,
+          "title": "Halo Infinite head of design Jerry Hook leading new NetEase studio Jar of Sparks",
+          "imageUrl": "https://assets.reedpopcdn.com/jerry-hook.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jerry-hook.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/development-on-vampire-the-masquerade-bloodlines-2-continues-but-it-wont-be-at-this-years-pdxcon",
+          "author": "Matt Wales",
+          "description": "It's been a long and eventful road for Vampire: The Masquerade - Bloodlines 2, but despite its troubled development, which has included the removal of its original developer Hardsuit Labs, Paradox Interactive has popped up to assure fans that work continues on the project, although it won't be shown at the publisher's upcoming PDXCon.\r\n\n\r\nVampire: The Masquerade - Bloodlines 2, a sequel to developer Troika Games' much-loved 2004 cult-classic RPG, was initially announced for PC and consoles back in 2019, when it was expected to release the following year. Unfortunately, it didn't take long for the project to run into trouble and, later in 2019, Hardsuit Labs announced the first of several delays.\r\n\n\r\nBy the end of 2020, lead narrative designer Brian Mitsoda and creative director Ka'ai Cluney had been fired from their roles, senior narrative designer Cara Ellison had quit the project, and Paradox had revised Bloodlines 2's release date once more, pushing it into 2021. Then, things went from bad to worse; as 2021 got underway Paradox announced it had removed Hardsuit from the project, delayed the game indefinitely, and cancelled new pre-orders. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/development-on-vampire-the-masquerade-bloodlines-2-continues-but-it-wont-be-at-this-years-pdxcon",
+          "publishedOn": "2022-07-19T19:56:16.000Z",
+          "wordCount": 4808,
+          "title": "Development on Vampire: The Masquerade - Bloodlines 2 continues but it won't be at this year's PDXCon",
+          "imageUrl": "https://assets.reedpopcdn.com/vampire-bloodlines-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/vampire-bloodlines-2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/take-two-says-it-acknowledges-us-supreme-court-decision-on-roe-v-wade-is-significant-event",
+          "author": "Matt Wales",
+          "description": "Three weeks after the US Supreme Court overturned key legislation granting individuals the constitutional right to choose an abortion, Take-Two Interactive - which publishes the likes of Grand Theft Auto, Borderlands, BioShock, Mafia, and XCOM through its various subsidiaries - has issued a statement saying it \"acknowledges\" the decision \"is a significant event\".\r\n\n\r\nFollowing the Supreme Court's overturning of Roe v Wade at the end of June, publishers and developers around the world - including Microsoft, Ubisoft, EA, Bungie, Naughty Dog, Double Fine, and Bethesda - released statements in support of reproductive rights. Take-Two was one of the few major publishers, alongside Activision Blizzard, not to respond publicly to the news.\r\n\n\r\nThree weeks on, though, Take-Two has now released its own statement across a limited number of social media channels, including its own LinkedIn page and subsidiary Zynga's Twitter feed.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/take-two-says-it-acknowledges-us-supreme-court-decision-on-roe-v-wade-is-significant-event",
+          "publishedOn": "2022-07-19T19:05:40.000Z",
+          "wordCount": 4340,
+          "title": "Take-Two says it \"acknowledges\" US Supreme Court decision on Roe v. Wade is \"significant event\"",
+          "imageUrl": "https://assets.reedpopcdn.com/take-two-logo_KtNEo67.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/take-two-logo_KtNEo67.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/twitch-testing-integrated-charity-fundraising-feature-2",
+          "author": "Ed Nightingale",
+          "description": "Twitch is testing a new built-in charity fundraising tool to streamline charity streams on the platform.\r\n\n\r\nTwitch Charity will allow streamers to select a charity, set a fundraising goal and collect donations from subs and Bits all from within the creator dashboard. Twitch does not take a cut of donations or receive any tax incentives.\r\n\n\r\nThe US-only closed beta is available now for selected streamers and for a limited number of charities, with the aim to roll it out globally across the platform soon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-testing-integrated-charity-fundraising-feature-2",
+          "publishedOn": "2022-07-19T18:30:00.000Z",
+          "wordCount": 4457,
+          "title": "Twitch testing integrated charity fundraising feature",
+          "imageUrl": "https://assets.reedpopcdn.com/twitch-blog-header-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-blog-header-(1).png"
+        },
         {
           "id": "https://www.eurogamer.net/doom-designer-john-romero-working-on-new-fps-with-major-publisher",
           "author": "Matt Wales",
@@ -7335,76 +7465,6 @@
           "wordCount": 4207,
           "title": "There's a Nintendo Direct scheduled for this week",
           "imageUrl": "https://assets.reedpopcdn.com/xenoblade-chronicles-3.900x.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xenoblade-chronicles-3.900x.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sorry-elden-ring-players-most-of-its-song-lyrics-are-meaningless",
-          "author": "Ed Nightingale",
-          "description": "Elden Ring's soundtrack is full of choral chanting, but it turns out the lyrics aren't actually Latin.\r\n\n\r\nReddit user Magister Organi, a Latin student, has been diligently researching the lyrics used in the game's soundtrack and has confirmed the lyrics are in fact gibberish, despite many fans seeking hidden meanings.\r\n\r\n\n\r\nInstead, the lyrics are computer generated and adjusted to sound like an ancient language.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sorry-elden-ring-players-most-of-its-song-lyrics-are-meaningless",
-          "publishedOn": "2022-06-20T11:54:51.000Z",
-          "wordCount": 4292,
-          "title": "Sorry Elden Ring players, most of its song lyrics are meaningless",
-          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-screenshot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-screenshot.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heroes-of-newerth-shuts-down-today",
-          "author": "Tom Phillips",
-          "description": "Once-popular MOBA Heroes of Newerth shuts down its servers today. \r\n\n\r\nToday's final day of operation was announced back in December, when developer Frostburn Studios set out a plan to sunset the game. \r\n\n\r\nThe ability to purchase Gold Coin currency was disabled last year, while new accounts were disabled on New Year's Eve. Today marks the official close-down date of Newerth's main services. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/heroes-of-newerth-shuts-down-today",
-          "publishedOn": "2022-06-20T11:32:09.000Z",
-          "wordCount": 4188,
-          "title": "Heroes of Newerth shuts down today",
-          "imageUrl": "https://assets.reedpopcdn.com/newerth_tdWuStb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/newerth_tdWuStb.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/diablo-immortal-chinese-release-delayed-just-days-before-launch",
-          "author": "Tom Phillips",
-          "description": "Diablo Immortal has had its high-profile Chinese release pulled, just four days before it was due to become available. \r\n\n\r\nBlizzard's free-to-play dungeon crawler was set to launch in China on 23rd June. Yesterday, that no longer became the case, as local publisher NetEase claimed in a brief statetement that it now needed to \"optimise\" the game's experience. \r\n\n\r\nThe last-minute delay has raised eyebrows, especially in the wake of headlines surrouding Diablo Immortal's monetisation practices. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/diablo-immortal-chinese-release-delayed-just-days-before-launch",
-          "publishedOn": "2022-06-20T11:14:55.000Z",
-          "wordCount": 4356,
-          "title": "Diablo Immortal Chinese release delayed just days before launch",
-          "imageUrl": "https://assets.reedpopcdn.com/DiabloImmortal_NecromancerGuide_Header.png/BROK/thumbnail/1600x900/format/jpg/quality/80/DiabloImmortal_NecromancerGuide_Header.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/am2r-team-reunite-for-okami-inspired-metroidvania-bo-path-of-the-teal-lotus",
-          "author": "Ed Nightingale",
-          "description": "Bō: Path of the Teal Lotus is a new Metroidvania in development from the team behind Another Metroid 2 Remake (AM2R).\r\n\n\r\nIt's influenced by Okami, Hollow Knight and Celeste (among others), as well as Studio Ghibli anime, and is inspired by Japanese folklore.\r\n\n\r\nPlayers will take the role of Bō, a Tentaihana (celestial blossom), who wields a shapeshifting bō staff and will gain mystical abilities throughout the game. Check out the trailer below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/am2r-team-reunite-for-okami-inspired-metroidvania-bo-path-of-the-teal-lotus",
-          "publishedOn": "2022-06-20T11:11:51.000Z",
-          "wordCount": 4191,
-          "title": "AM2R team reunite for Okami-inspired Metroidvania Bō: Path of the Teal Lotus",
-          "imageUrl": "https://assets.reedpopcdn.com/B%C5%8D_-Path-of-the-Teal-Lotus-Kickstarter-Launch-Trailer!-0-17-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/B%C5%8D_-Path-of-the-Teal-Lotus-Kickstarter-Launch-Trailer!-0-17-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/mario-odyssey-playable-with-10-players-in-new-multiplayer-mod",
-          "author": "Ed Nightingale",
-          "description": "Mario Odyssey is now playable with up to 10 players in online multiplayer thanks to a new mod.\r\n\n\r\nIt's been developed by CraftyBoss and is only playable on a modded Switch console using an unofficial ROM of the game.\r\n\n\r\n\"Have fun exploring kingdoms with friends, playing game modes, or beating the game as fast as possible!\" reads a description of the mod. \"This mod is still early in development, so expect bugs and un-refined aspects as we work hard to improve it and make the mod as polished as possible.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mario-odyssey-playable-with-10-players-in-new-multiplayer-mod",
-          "publishedOn": "2022-06-20T10:35:53.000Z",
-          "wordCount": 4239,
-          "title": "Mario Odyssey playable with 10 players in new multiplayer mod",
-          "imageUrl": "https://assets.reedpopcdn.com/Super-Mario-Odyssey-Online-Multiplayer-is-OUT-NOW-0-6-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Super-Mario-Odyssey-Online-Multiplayer-is-OUT-NOW-0-6-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/destiny-2-cheaters-agree-to-pay-bungie-135m",
-          "author": "Tom Phillips",
-          "description": "A group of Destiny 2 cheaters have agreed to settle ongoing litigation filed by developer Bungie, and pay $13.5m in damages. \r\n\n\r\nThe settlement means cheat company Elite Boss Tech and its various associates have accepted Bungie's claim its cheat software violated Destiny 2's user agreement. In return, Bungie has dropped other claims of its own TorrentFreak reported.\r\n\n\r\nThe $13.5m damages was calculated from the number of times Elite Boss Tech's software was downloaded - 6765. Each instance incurred its own individual $2k penalty.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/destiny-2-cheaters-agree-to-pay-bungie-135m",
-          "publishedOn": "2022-06-20T10:14:59.000Z",
-          "wordCount": 4324,
-          "title": "Destiny 2 cheaters agree to pay Bungie $13.5m",
-          "imageUrl": "https://assets.reedpopcdn.com/Destiny-2-new-season-header.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/Destiny-2-new-season-header.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dragons-dogma-reaches-highest-steam-peak-since-2016-release",
-          "author": "Ed Nightingale",
-          "description": "Dragon's Dogma has hit its highest concurrent player peak on Steam since it released back in 2016.\r\n\n\r\nThe news follows the recent Dragon's Dogma livestream, in which Dragon's Dogma 2 development was confirmed.\r\n\r\n\n\r\nSince then, the game has hit a new peak of 6582 concurrent players according to SteamDB. That's the highest number of concurrent players since hitting 27,368 when it was released six years ago.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dragons-dogma-reaches-highest-steam-peak-since-2016-release",
-          "publishedOn": "2022-06-20T10:04:03.000Z",
-          "wordCount": 4209,
-          "title": "Dragon's Dogma reaches highest Steam peak since 2016 release",
-          "imageUrl": "https://assets.reedpopcdn.com/dragons-dogma-dark-arisen_g2j3kSx.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dragons-dogma-dark-arisen_g2j3kSx.jpg"
         }
       ]
     },
