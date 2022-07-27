@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/07/securing-open-source-software.html",
+          "author": null,
+          "description": "<p>Good <a href=\"https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards\">essay</a> arguing that open-source software is a critical national-security asset and needs to be treated as such:</p>\n<blockquote><p>Open source is at least as important to the economy, public services, and national security as proprietary code, but it lacks the same standards and safeguards. It bears the qualities of a public good and is as indispensable as national highways. Given open source&#8217;s value as a public asset, an institutional structure must be built that sustains and secures it.</p>\n<p>This is not a novel idea. Open-source code has been called the <a href=\"https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/\">&#8220;roads and bridges&#8221;...</a></p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/07/securing-open-source-software.html",
+          "publishedOn": "2022-07-27T12:03:57.000Z",
+          "wordCount": 864,
+          "title": "Securing Open-Source Software",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/07/apples-lockdown-mode-2.html",
           "author": null,
           "description": "<p>I haven&#8217;t written about Apple&#8217;s <a href=\"https://www.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/\">Lockdown Mode</a> yet, mostly because I haven&#8217;t delved into the details. This is how Apple describes it:</p>\n<blockquote><p>Lockdown Mode offers an extreme, optional level of security for the very few users who, because of who they are or what they do, may be personally targeted by some of the most sophisticated digital threats, such as those from NSO Group and other private companies developing state-sponsored mercenary spyware. Turning on Lockdown Mode in iOS 16, iPadOS 16, and macOS Ventura further hardens device defenses and strictly limits certain functionalities, sharply reducing the attack surface that potentially could be exploited by highly targeted mercenary spyware...</p></blockquote>",
@@ -392,6 +402,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1869349",
+          "author": "Andrew Cunningham",
+          "description": "VirtualBuddy and other apps make it pretty easy to run macOS on top of macOS.",
+          "link": "https://arstechnica.com/?p=1869349",
+          "publishedOn": "2022-07-27T11:00:11.000Z",
+          "wordCount": 1704,
+          "title": "How to use free virtualization apps to safely test the macOS Ventura betas",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/ventura-vm-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1869595",
           "author": "Dan Goodin",
@@ -3641,56 +3661,6 @@
           "wordCount": 1870,
           "title": "Not your grandpa’s ride—the 2023 Cadillac Lyriq, tested",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/Lyriq-listing-image-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863112",
-          "author": "Dan Goodin",
-          "description": "DDoSes aim to punish Baltic country's blockade of shipments to Kaliningrad.",
-          "link": "https://arstechnica.com/?p=1863112",
-          "publishedOn": "2022-06-27T21:52:13.000Z",
-          "wordCount": 1751,
-          "title": "Pro-Russia threat group Killnet is pummeling Lithuania with DDoS attacks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/data-flood-ddos-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863105",
-          "author": "John Timmer",
-          "description": "Program meant to lower demand pays home owners to use battery instead of the grid.",
-          "link": "https://arstechnica.com/?p=1863105",
-          "publishedOn": "2022-06-27T21:22:46.000Z",
-          "wordCount": 2017,
-          "title": "Tesla bundles battery users to make it look like lower power demand",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/image-4-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863071",
-          "author": "Beth Mole",
-          "description": "For now, a federal appeals court allowed Juul to stay on the market until a legal review.",
-          "link": "https://arstechnica.com/?p=1863071",
-          "publishedOn": "2022-06-27T19:37:43.000Z",
-          "wordCount": 1569,
-          "title": "On the brink of ruin, Juul files emergency petition to fight FDA ban",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1404506917-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863058",
-          "author": "Ron Amadeo",
-          "description": "Hangouts was the primary Google messaging app from 2013–2016.",
-          "link": "https://arstechnica.com/?p=1863058",
-          "publishedOn": "2022-06-27T19:27:52.000Z",
-          "wordCount": 1432,
-          "title": "Google Hangouts finally gets a shutdown date: November 2022",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GMail_HangoutsMobile_InlineImage.max-1000x1000-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863038",
-          "author": "Sam Machkovech",
-          "description": "We match good hardware-manufacturing news with a dive into Valve's public-facing data.",
-          "link": "https://arstechnica.com/?p=1863038",
-          "publishedOn": "2022-06-27T18:42:06.000Z",
-          "wordCount": 2020,
-          "title": "Steam Deck shipments “more than double” this week—so let’s estimate how many",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/grab-a-steam-deck-760x380.jpg"
         }
       ]
     },
@@ -3806,6 +3776,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/roblox-has-removed-its-oof-sound-of-death",
+          "author": "Victoria Kennedy",
+          "description": "The famous \"oof\" sound from Roblox, which was comically played whenever you met your maker, is no more. \r\n\n\r\nThe developer revealed its removal yesterday, stating that this is all is due to a \"licensing issue\". \r\n\n\r\nInstead, the company has now added a \"replacement default sound\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/roblox-has-removed-its-oof-sound-of-death",
+          "publishedOn": "2022-07-27T11:33:00.000Z",
+          "wordCount": 4559,
+          "title": "Roblox has removed its \"oof\" sound of death",
+          "imageUrl": "https://assets.reedpopcdn.com/KeyArt-Scene-Blog-Banner-Books-HD-1024x576.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/KeyArt-Scene-Blog-Banner-Books-HD-1024x576.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/eidos-montreal-founder-slams-square-enix-western-studio-decline-as-train-wreck-in-slow-motion",
+          "author": "Tom Phillips",
+          "description": "Stephane D'Astous, founder and former boss of Deus Ex developer Eidos Montreal, has described Square Enix's handling of its Western studios as a \"train wreck in slow motion\" in an explosive new interview. \r\n\n\r\nSpeaking to GamesIndustry.biz, D'Astous criticised Square Enix's past management of its various Western studios and suggested the recent sale of Eidos Montreal and Crystal Dynamics could have been motivated by a desire to court a buyout by PlayStation.\r\n\n\r\n\"It was a trajectory that could be predicted,\" D'Astous said, discussing the decline of Square Enix's Western studios, and Eidos Montreal in particular. \"I left because things were missing at head office. [Pre-Square Enix] Eidos has a great tradition of development teams, but they don't have superior knowledge of how to sell their games. And that was quite clear.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eidos-montreal-founder-slams-square-enix-western-studio-decline-as-train-wreck-in-slow-motion",
+          "publishedOn": "2022-07-27T11:30:59.000Z",
+          "wordCount": 4952,
+          "title": "Eidos Montreal founder slams decline of Square Enix's Western studios as \"train wreck in slow motion\"",
+          "imageUrl": "https://assets.reedpopcdn.com/deusex_28d5GMC.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/deusex_28d5GMC.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fans-flummoxed-by-nier-automata-secret-church-as-yoko-taro-responds",
+          "author": "Ed Nightingale",
+          "description": "The mystery of the church and secret door in Nier: Automata continues.\r\n\nYesterday we reported how reddit user sadfutago posted a video entering a previously unfound door that led to an unseen church area, leaving dataminers scratching their heads. Is this truly a new secret in the game, or an elaborate modded hoax?\r\n\r\n\n\r\nEven the team behind the game has shared the videos on Twitter, including the game's creator Yoko Taro.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fans-flummoxed-by-nier-automata-secret-church-as-yoko-taro-responds",
+          "publishedOn": "2022-07-27T10:46:56.000Z",
+          "wordCount": 4829,
+          "title": "Fans flummoxed by Nier: Automata secret church as Yoko Taro responds",
+          "imageUrl": "https://assets.reedpopcdn.com/nier-automata.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nier-automata.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-plus-essential-lineup-for-august-has-leaked",
+          "author": "Victoria Kennedy",
+          "description": "As regular as clockwork, Dealabs has leaked the upcoming PS Plus lineup for August.\r\n\n\r\nThe three titles reportedly coming to the PlayStation's new look Essential tier are Tony Hawk's Pro Skater 1+2 (PS4/5), Yakuza: Like A Dragon (PS4/5) and Little Nightmares (PS4).\r\n\n\r\nDealabs has consistently posted the correct PlayStation Plus titles in advance of Sony's formal announcement each month this year.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-plus-essential-lineup-for-august-has-leaked",
+          "publishedOn": "2022-07-27T10:41:05.000Z",
+          "wordCount": 4558,
+          "title": "PlayStation Plus Essential lineup for August has leaked",
+          "imageUrl": "https://assets.reedpopcdn.com/lad.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lad.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/meta-quest-2-getting-100-price-hike",
+          "author": "Tom Phillips",
+          "description": "Meta, formerly Facebook, has announced a major set of pricing changes to its Meta Quest 2 VR headsets, starting in August. \r\n\n\r\nBoth the 128GB and 256GB versions of the headset will rise in price by $100, Meta said in a statement last night, from $300 to $400, and from $400 to $500, respectively.\r\n\n\r\nThese are serious price increases - for the 128GB model, it represents a rise of 33 percent! - for hardware generally considered a good entry-level VR device. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/meta-quest-2-getting-100-price-hike",
+          "publishedOn": "2022-07-27T10:36:32.000Z",
+          "wordCount": 4450,
+          "title": "Meta Quest 2 getting $100 price hike",
+          "imageUrl": "https://assets.reedpopcdn.com/Apple-is-reportedly-not-interested-in-the-metaverse.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/Apple-is-reportedly-not-interested-in-the-metaverse.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/elden-ring-players-form-community-following-disappointment-in-imbalanced-pvp-mode",
+          "author": "Ed Nightingale",
+          "description": "Elden Ring players are disappointed with the game's PvP multiplayer and its lack of balance.\r\n\n\r\nOne group of fans have even put together a website, eldenringpvp.net, to voice their opinions (as spotted by Kotaku).\r\n\n\r\n\"Thank you to FromSoftware for providing some of the most unique and unrivalled multiplayer experiences in gaming! These experiences have cultivated massive communities around a shared love of your games.  However, with such an incomparable multiplayer come hurdles for both the players and developers alike. We aim to help both groups,\" reads a statement on the website.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/elden-ring-players-form-community-following-disappointment-in-imbalanced-pvp-mode",
+          "publishedOn": "2022-07-27T10:34:26.000Z",
+          "wordCount": 4607,
+          "title": "Elden Ring players form community following disappointment in imbalanced PvP mode",
+          "imageUrl": "https://assets.reedpopcdn.com/eldenring_08_4k.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eldenring_08_4k.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/multiversus-is-off-to-flying-start-on-steam",
+          "author": "Victoria Kennedy",
+          "description": "Warner Bros brawler MultiVersus has seen a strong start on Steam, following the arrival of its open beta yesterday.\r\n\n\r\nAt the time of writing, its player count is sitting at a comfortable 49,486, with a peak of 144,456 today.\r\n\n\r\nThese numbers currently put it ahead of other popular (although admittedly older) games such as Monster Hunter Rise, Destiny 2 and Fifa 22.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/multiversus-is-off-to-flying-start-on-steam",
+          "publishedOn": "2022-07-27T10:05:06.000Z",
+          "wordCount": 4472,
+          "title": "MultiVersus is off to flying start on Steam",
+          "imageUrl": "https://assets.reedpopcdn.com/WB-MV-WW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/WB-MV-WW.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/star-wars-knights-of-the-old-republic-remake-in-serious-trouble-and-delayed-indefinitely",
+          "author": "Wesley Yin-Poole",
+          "description": "Star Wars Knights of the Old Republic remake is \"in serious trouble\" and \"delayed indefinitely\", according to a new report.\r\n\nBloomberg said developer Aspyr fired the game's art director and design director this month, and told staff the hotly-anticipated remake is \"on pause\".\r\n\n\r\nThe dramatic decision comes after Aspyr, which has been working on the game for three years, demoed a vertical slice to Lucasfilm and publisher Sony at the end of June. Apparently Aspyr bosses told staff this demo \"wasn't where they wanted it to be\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/star-wars-knights-of-the-old-republic-remake-in-serious-trouble-and-delayed-indefinitely",
+          "publishedOn": "2022-07-27T08:55:52.000Z",
+          "wordCount": 4628,
+          "title": "Star Wars Knights of the Old Republic remake \"in serious trouble\" and \"delayed indefinitely\"",
+          "imageUrl": "https://assets.reedpopcdn.com/kotor_gKtaB9J.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kotor_gKtaB9J.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/john-cena-is-coming-to-fortnite",
           "author": "Tom Phillips",
@@ -7715,16 +7765,6 @@
           "wordCount": 4437,
           "title": "Critically panned Blade Runner remaster now includes non-remastered version on Steam",
           "imageUrl": "https://assets.reedpopcdn.com/blade-runner-enhanced-edition.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blade-runner-enhanced-edition.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/metroid-prime-1-remaster-reportedly-launching-for-switch-toward-the-end-of-this-year",
-          "author": "Matt Wales",
-          "description": "Whispers of a Metroid Prime remaster for Switch have been circulating for quite some time, but a new report has claimed Nintendo is finally almost ready to share the fruits of its labour, and will be releasing the long-rumoured game at the end of this year.\r\n\n\r\nThat's according to the persistently leaky Jeff Grubb, who shared the news on Giant Bomb's Game Mess Mornings show, saying he'd been told \"pretty definitively\" that an updated version of Metroid Prime 1 - what he referred to as Metroid Prime Remastered - was set to be one of Nintendo's \"big holiday games\" for 2022.\r\n\n\r\n\"In the past, this is something I'd heard was in the works,\" Grubb explained, \"they have things happening with that game. Now I’ve been told that their plans are to release that game this holiday - I think almost certainly to line up with the 20th anniversary in November.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/metroid-prime-1-remaster-reportedly-launching-for-switch-toward-the-end-of-this-year",
-          "publishedOn": "2022-06-27T21:40:11.000Z",
-          "wordCount": 4683,
-          "title": "Metroid Prime 1 remaster reportedly launching for Switch at end of this year",
-          "imageUrl": "https://assets.reedpopcdn.com/metroid-prime-developer-tells-of-intense-crunch-on-nintendo-classic-1631195344527.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/metroid-prime-developer-tells-of-intense-crunch-on-nintendo-classic-1631195344527.jpg"
         }
       ]
     },
@@ -7912,16 +7952,6 @@
           "wordCount": 1502,
           "title": "Improving Git protocol security on GitHub Enterprise Server",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Enterprise@2x.png?fit=2400%2C1260"
-        },
-        {
-          "id": "https://github.blog/?p=65943",
-          "author": "Madison Oliver",
-          "description": "We’re excited to announce that the GitHub Advisory Database now includes curated security advisories on Erlang, Elixir, and more.",
-          "link": "https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/",
-          "publishedOn": "2022-06-27T20:24:52.000Z",
-          "wordCount": 1096,
-          "title": "GitHub Advisory Database now supports Erlang and Elixir packages!",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Product@2x-1.png"
         }
       ]
     }
