@@ -124,16 +124,6 @@
           "wordCount": 229,
           "title": "The Universe by Scientific Field",
           "imageUrl": "https://imgs.xkcd.com/comics/the_universe_by_scientific_field_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2639/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/periodic_table_changes.png\" title=\"It's nice how the end of the periodic table is flush with the edge these days, so I think we should agree no one should find any new elements after #118 unless they discover a whole row at once.\" alt=\"It's nice how the end of the periodic table is flush with the edge these days, so I think we should agree no one should find any new elements after #118 unless they discover a whole row at once.\" />",
-          "link": "https://xkcd.com/2639/",
-          "publishedOn": "2022-06-29T00:00:00.000Z",
-          "wordCount": 225,
-          "title": "Periodic Table Changes",
-          "imageUrl": "https://imgs.xkcd.com/comics/periodic_table_changes_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/07/new-ufei-rootkit.html",
+          "author": null,
+          "description": "<p>Kaspersky is <a href=\"https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/\">reporting</a> on a new UFEI rootkit that survives reinstalling the operating system and replacing the hard drive. From an <a href=\"https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/\">article</a>:</p>\n<blockquote><p>The firmware compromises the UEFI, the low-level and highly opaque chain of firmware required to boot up nearly every modern computer. As the software that bridges a PC&#8217;s device firmware with its operating system, the UEFI&#8212;short for Unified Extensible Firmware Interface&#8212;is an OS in its own right. It&#8217;s located in an SPI-connected flash storage chip soldered onto the computer motherboard, making it difficult to inspect or patch the code. Because it&#8217;s the first thing to run when a computer is turned on, it influences the OS, security apps, and all other software that follows. ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/07/new-ufei-rootkit.html",
+          "publishedOn": "2022-07-28T11:16:52.000Z",
+          "wordCount": 706,
+          "title": "New UFEI Rootkit",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/07/securing-open-source-software.html",
           "author": null,
@@ -412,6 +412,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1869638",
+          "author": "Jonathan M. Gitlin",
+          "description": "Charging an EV is not nearly as complicated as people think.",
+          "link": "https://arstechnica.com/?p=1869638",
+          "publishedOn": "2022-07-28T11:01:56.000Z",
+          "wordCount": 1647,
+          "title": "You won’t be confused about electric vehicle charging after reading this",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/ev-chargrgers-feature-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1869699",
+          "author": "WIRED",
+          "description": "Exhaust contains a host of polluting particles, from soot to nitrogen oxides.",
+          "link": "https://arstechnica.com/?p=1869699",
+          "publishedOn": "2022-07-28T11:00:28.000Z",
+          "wordCount": 1763,
+          "title": "Carbon offsets alone won’t make flying climate-friendly",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1235800731-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1869888",
           "author": "Beth Mole",
@@ -3661,86 +3681,6 @@
           "wordCount": 1982,
           "title": "Couple bought home in Seattle, then learned Comcast Internet would cost $27,000",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/comcast-seattle-burning-money-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863305",
-          "author": "Dan Goodin",
-          "description": "Router-stalking ZuoRAT is likely the work of a sophisticated nation-state, researchers say.",
-          "link": "https://arstechnica.com/?p=1863305",
-          "publishedOn": "2022-06-29T00:01:54.000Z",
-          "wordCount": 1898,
-          "title": "A wide range of routers are under attack by new, unusually sophisticated malware",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/wireless-router-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863146",
-          "author": "Scharon Harding",
-          "description": "For the first time in almost 2 decades, Sony announced non-professional monitors.",
-          "link": "https://arstechnica.com/?p=1863146",
-          "publishedOn": "2022-06-28T23:16:05.000Z",
-          "wordCount": 1823,
-          "title": "Sony finally releases a 4K monitor you might actually want",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/tent-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863247",
-          "author": "Sam Machkovech",
-          "description": "But Kishi's 2020 model will be better for some users, and Razer's app still stinks.",
-          "link": "https://arstechnica.com/?p=1863247",
-          "publishedOn": "2022-06-28T22:36:30.000Z",
-          "wordCount": 1953,
-          "title": "Review: Razer Kishi V2 refines the “gamepad that clamps to phone” concept",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/kishi-v2-05-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863306",
-          "author": "Eric Berger",
-          "description": "\"We made incredible progress last week.\"",
-          "link": "https://arstechnica.com/?p=1863306",
-          "publishedOn": "2022-06-28T21:39:55.000Z",
-          "wordCount": 1501,
-          "title": "NASA aims to launch the SLS rocket in just 2 months",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/SLS-Apr-21-2022-8868-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863251",
-          "author": "Ashley Belanger",
-          "description": "Users are left unsure if their posts will be removed or left alone.",
-          "link": "https://arstechnica.com/?p=1863251",
-          "publishedOn": "2022-06-28T21:22:35.000Z",
-          "wordCount": 1749,
-          "title": "Facebook removed posts on abortion pills even when they didn’t break any rules",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1405530529-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863166",
-          "author": "Jonathan M. Gitlin",
-          "description": "Hyundai has translated the Prophecy concept into its curvaceous production car.",
-          "link": "https://arstechnica.com/?p=1863166",
-          "publishedOn": "2022-06-28T21:00:40.000Z",
-          "wordCount": 2010,
-          "title": "Here’s Hyundai’s next electric vehicle, the Ioniq 6 sedan",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/CE_Main-KV-01_Streamliner-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863125",
-          "author": "Kyle Orland",
-          "description": "Score inflation, a lack of search functions mar an interesting setup.",
-          "link": "https://arstechnica.com/?p=1863125",
-          "publishedOn": "2022-06-28T20:59:02.000Z",
-          "wordCount": 2083,
-          "title": "The best games on the Epic Games Store, as picked by players",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/egsreviews-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863152",
-          "author": "Ron Amadeo",
-          "description": "Please don't ask how the phone is actually related to the metaverse. Just go with it.",
-          "link": "https://arstechnica.com/?p=1863152",
-          "publishedOn": "2022-06-28T20:35:40.000Z",
-          "wordCount": 1815,
-          "title": "Rudderless HTC builds a “Metaverse” smartphone with NFTs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/10-760x380.jpg"
         }
       ]
     },
@@ -3856,6 +3796,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/zombies-make-a-return-to-call-of-duty-warzone-in-limited-time-mode",
+          "author": "Ishraq Subhan",
+          "description": "Zombies have returned to Call of Duty Warzone in a limited-time mode called Rebirth of the Dead.\r\n\n\r\nWhile we last saw zombies in the now blown-up Verdansk map, this time they will be invading Rebirth Island, which was first introduced with the release of Call of Duty Black Ops Cold War. \r\n\n\r\nThe new mode, developed by support studio Beenox, has had some significant changes from the previous mode to better fit into Rebirth Island's smaller map design.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/zombies-make-a-return-to-call-of-duty-warzone-in-limited-time-mode",
+          "publishedOn": "2022-07-28T11:46:27.000Z",
+          "wordCount": 4566,
+          "title": "Zombies make a return to Call of Duty: Warzone in limited-time mode",
+          "imageUrl": "https://assets.reedpopcdn.com/warzone-rebirth-of-the-dead.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warzone-rebirth-of-the-dead.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/rockstars-bully-gets-unreal-engine-5-fan-remake",
+          "author": "Victoria Kennedy",
+          "description": "Many have hoped Rockstar will one day release a Bully remake or sequel, but currently these hopes seem unlikely to bear fruit.\nNow, however, a fan has taken matters into their own hands, and remade a trailer for the game in Unreal Engine 5, bringing it into the modern age.\r\n\nYouTube channel TeaserPlays, a \"Graphics Designer studio\", has released its vision of Bully today (thanks, Dexerto).\n Read more",
+          "link": "https://www.eurogamer.net/rockstars-bully-gets-unreal-engine-5-fan-remake",
+          "publishedOn": "2022-07-28T11:40:38.000Z",
+          "wordCount": 4543,
+          "title": "Rockstar's Bully gets Unreal Engine 5 fan remake",
+          "imageUrl": "https://assets.reedpopcdn.com/bully-ue5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bully-ue5.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/you-can-now-use-classic-nintendo-switch-controllers-on-steam",
+          "author": "Ed Nightingale",
+          "description": "Steam now supports Nintendo's classic controllers released for the Switch.\r\n\n\r\nThe patch notes from Valve state: \"Added support for Nintendo Online classic controllers\". That means you can use your NES, SNES, Mega Drive, or N64 wireless controllers with PC games.\r\n\n\r\nIf you're looking to grab a controller, though, they're available exclusively on Nintendo's store for Nintendo Switch Online subscribers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/you-can-now-use-classic-nintendo-switch-controllers-on-steam",
+          "publishedOn": "2022-07-28T11:37:10.000Z",
+          "wordCount": 4338,
+          "title": "You can now use classic Nintendo Switch controllers on Steam",
+          "imageUrl": "https://assets.reedpopcdn.com/109045-nintendo-switch-online-nes-controllers-next-to-switch-1200x675.png/BROK/thumbnail/1600x900/format/jpg/quality/80/109045-nintendo-switch-online-nes-controllers-next-to-switch-1200x675.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-pokemon-centre-returns-to-london-in-august",
+          "author": "Liv Ngan",
+          "description": "After three years, the Pokémon Centre pop-up store will be returning to London in August.\r\n\n\r\nThe last time a pop-up was held in the UK was from 19th October to 15th November back in 2019 at Westfield Shepherd's Bush location.\r\n\n\r\nThis year, the pop-up will be held alongside the Pokémon World Championships at ExCeL London from 17th to 21st August. The Pokémon World Championships is an invite-only esports event run by The Pokémon Company, but the store will be open for anyone to attend.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-pokemon-centre-returns-to-london-in-august",
+          "publishedOn": "2022-07-28T11:25:23.000Z",
+          "wordCount": 4663,
+          "title": "The Pokémon Centre returns to London in August",
+          "imageUrl": "https://assets.reedpopcdn.com/-1572876017063.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/-1572876017063.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/death-is-coming-quickly-in-the-sims-4-after-update-adds-ageing-glitch",
+          "author": "Victoria Kennedy",
+          "description": "The death of a sim can be an emotional time. The Grim Reaper shows up with his scythe in hand, the family gathers around to send their loved one off, and a period of mourning descends upon the house. But, if a Sim has lived a good, long life, this can also be a chance for celebration in recognition of time well spent. \r\n\n\r\nHowever, a new glitch was accidentally introduced in a recent update for The Sims 4, and it is fast tracking this whole process. This means that some elderly sims have been dropping dead well before their time. As well as this, children are rapidly becoming teens, teens becoming young adults and so on.\r\n\n\r\nPlayers are reporting this all happening after a visit to create-a-sim (CAS), or during the loading screens. This is even when the game's \"Long Lifespan\" is enabled.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/death-is-coming-quickly-in-the-sims-4-after-update-adds-ageing-glitch",
+          "publishedOn": "2022-07-28T10:51:38.000Z",
+          "wordCount": 4679,
+          "title": "Death is coming quickly in The Sims 4, after update adds ageing glitch",
+          "imageUrl": "https://assets.reedpopcdn.com/15025610229_b7b1287c75_z.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/15025610229_b7b1287c75_z.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/diablo-immortal-passes-100m-revenue-after-just-eight-weeks",
+          "author": "Tom Phillips",
+          "description": "Blizzard and NetEase's Diablo Immortal has notched up $100m in player spending after two months, almost entirely without the game's Chinese market. \r\n\n\r\nThat's according to reliable app store analytics firm Sensor Tower, which compared Diablo Immortal's start to that of Pokémon Go (which took just two weeks to rake in $100m) and Fire Emblem Heroes (10 weeks). \r\n\n\r\nDiablo Immortal revenues now seem set to accelerate, since the app arrived belatedly in China this week.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/diablo-immortal-passes-100m-revenue-after-just-eight-weeks",
+          "publishedOn": "2022-07-28T10:01:15.000Z",
+          "wordCount": 4495,
+          "title": "Diablo Immortal passes $100m revenue after just eight weeks",
+          "imageUrl": "https://assets.reedpopcdn.com/Diablo-Immortal_0tejWnQ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Diablo-Immortal_0tejWnQ.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/why-does-the-nier-automata-secret-church-include-references-to-replicant",
+          "author": "Ed Nightingale",
+          "description": "New videos of the Nier secret church have been released that appear to reference Nier Replicant. The plot thickens!\r\n\n\r\nAs we've reported, reddit user sadfutago has been posting videos of a secret church area in Nier: Automata that has been previously unseen since it was released five years ago. Even Yoko Taro chimed in.\r\n\n\r\nNow they've posted new, extended videos to reddit with more gameplay of the church area. They show a different character - 9S - battling a \"black blocky guy\" the poster is struggling to beat, as well as new written dialogue in Japanese.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/why-does-the-nier-automata-secret-church-include-references-to-replicant",
+          "publishedOn": "2022-07-28T09:50:21.000Z",
+          "wordCount": 4757,
+          "title": "Why does the Nier: Automata secret church include references to Replicant?",
+          "imageUrl": "https://assets.reedpopcdn.com/nier_04.jpg.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nier_04.jpg.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ps5-finally-getting-support-for-1440p-monitors-and-folders",
+          "author": "Ishraq Subhan",
+          "description": "Sony is finally adding support for 1440p displays to the PlayStation 5, to the cheers of many players, particularly those on PC, with QHD monitors. \r\n\n\r\nThis has been a long requested feature by PS5 owners, and a feature that the Xbox Series X/S has supported since launch. \r\n\n\r\nThe feature is currently only available for users signed up to the beta firmware channel, but it should be released to all users very soon. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/ps5-finally-getting-support-for-1440p-monitors-and-folders",
+          "publishedOn": "2022-07-28T09:39:49.000Z",
+          "wordCount": 4411,
+          "title": "PS5 finally getting support for 1440p monitors and folders",
+          "imageUrl": "https://assets.reedpopcdn.com/ps5-1440p.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps5-1440p.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/you-can-take-your-cars-to-toy-town-after-gran-turismo-7s-new-update",
+          "author": "Martin Robinson",
+          "description": "Gran Turismo 7's July patch has squeaked in just before the month is up, bringing three new cars to the ever-expanding roster in the free update - and this update brings a little bit more besides. \nThe cars are a fine selection, led by another Skyline but a pretty special one at that - the Group 5 Skyline Super Silhouette, a brilliantly boxy racing beast that terrorised race tracks in the 80s. If you prefer your cars with a few more curves then there's a Maserati A6GCS/53 Spyder, an early example from the Italian manufacturer that established many of the styling cues that remain to this day. Finally there's a Porsche 918 Spyder, a hypercar that's been notable in its absence from recent Gran Turismo games. \nThat's all well and good, but the real star of the update is excused by the Tomica sponsorship carried on that Skyline Super Silhouette with an update to the Scapes photo mode allowing you to take your cars to toy towns and pose for snaps. It's not quite Forza Horizon 5: Hot Wheels, but it's a fun new feature nevertheless. \n Read more",
+          "link": "https://www.eurogamer.net/you-can-take-your-cars-to-toy-town-after-gran-turismo-7s-new-update",
+          "publishedOn": "2022-07-28T08:39:12.000Z",
+          "wordCount": 4456,
+          "title": "You can take your cars to toy town after Gran Turismo 7's new update",
+          "imageUrl": "https://assets.reedpopcdn.com/Tomica-Town-Scapes-Gran-Turismo-7-1.19-update-1024x576.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Tomica-Town-Scapes-Gran-Turismo-7-1.19-update-1024x576.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/wadjet-eye-shows-off-point-and-click-folk-horror-the-excavation-of-hobs-barrow",
           "author": "Matt Wales",
@@ -7765,16 +7795,6 @@
           "wordCount": 4549,
           "title": "Skull and Bones launch details appear online",
           "imageUrl": "https://assets.reedpopcdn.com/skull-and-bones.png/BROK/thumbnail/1600x900/format/jpg/quality/80/skull-and-bones.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonic-frontiers-shows-off-traditional-fast-paced-cyber-space-levels-in-new-trailer",
-          "author": "Matt Wales",
-          "description": "First impressions of Sonic Frontiers have, it's fair to say, been mixed - but Sega is forging ahead regardless, now offering a look at the game's rendition of Cyber Space, where more \"traditional, fast-paced\" Sonic stages can be found.\r\n\n\r\nRevealed during today's busy Nintendo Direct, Cyber Space is a mysterious digital realm that can be reached by uncovering ancient entrances around Starfall Islands - a cluster of landmasses incorporating Kronos Island, the lush area seen in Sonic Frontiers' divisive first trailers. \r\n\n\r\nIn order to unlock the Cyber Space entrances, players will first need to earn Portal Gears by solving puzzles and completing challenges around the \"open zone\" map. Once in Cyber Space, they can try their hand at \"traditional, fast-paced, speed running action platforming\" - linear stages more in line with classic Sonic action - earning Vault Keys required to progress further.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonic-frontiers-shows-off-traditional-fast-paced-cyber-space-levels-in-new-trailer",
-          "publishedOn": "2022-06-29T00:28:03.000Z",
-          "wordCount": 4622,
-          "title": "Sonic Frontiers shows off \"traditional, fast-paced\" Cyber Space levels in new trailer",
-          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers_tPDEvos.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers_tPDEvos.jpg"
         }
       ]
     },
