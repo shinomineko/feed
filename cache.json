@@ -124,16 +124,6 @@
           "wordCount": 223,
           "title": "Meta-Alternating Current",
           "imageUrl": "https://imgs.xkcd.com/comics/"
-        },
-        {
-          "id": "https://xkcd.com/2641/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/mouse_turbines.png\" title=\"It's sad seeing those videos of turbine blade being torn apart in high winds, but it's the only way they can disperse their seeds.\" alt=\"It's sad seeing those videos of turbine blade being torn apart in high winds, but it's the only way they can disperse their seeds.\" />",
-          "link": "https://xkcd.com/2641/",
-          "publishedOn": "2022-07-04T00:00:00.000Z",
-          "wordCount": 223,
-          "title": "Mouse Turbines",
-          "imageUrl": "https://imgs.xkcd.com/comics/mouse_turbines_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/08/surveillance-of-your-car.html",
+          "author": null,
+          "description": "<p>TheMarkup has an <a href=\"https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car\">extensive analysis</a> of connected vehicle data and the companies that are collecting it.</p>\n<blockquote><p>The Markup <a href=\"https://github.com/the-markup/vehicle-data-collection\">has identified 37 companies</a> that are part of the rapidly growing connected vehicle data industry that seeks to monetize such data in an environment with few regulations governing its sale or use.</p>\n<p>While many of these companies stress they are using aggregated or anonymized data, the unique nature of location and movement data increases the potential for violations of user privacy.</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/08/surveillance-of-your-car.html",
+          "publishedOn": "2022-08-02T11:49:11.000Z",
+          "wordCount": 652,
+          "title": "Surveillance of Your Car",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/08/ring-gives-videos-to-police-without-a-warrant-or-user-consent.html",
           "author": null,
@@ -3706,6 +3706,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/08/02/sig-docs-spotlight-2022/",
+          "author": null,
+          "description": "Author: Purneswar Prasad\nIntroduction\nThe official documentation is the go-to source for any open source project. For Kubernetes,\nit's an ever-evolving Special Interest Group (SIG) with people constantly putting in their efforts\nto make details about the project easier to consume for new contributors and users. SIG Docs publishes\nthe official documentation on kubernetes.io which includes,\nbut is not limited to, documentation of the core APIs, core architectural details, and CLI tools\nshipped with the Kubernetes release.\nTo learn more about the work of SIG Docs and its future ahead in shaping the community, I have summarised\nmy conversation with the co-chairs, Divya Mohan (DM),\nRey Lejano (RL) and Natali Vlatko (NV), who ran through the\nSIG's goals and how fellow contributors can help.\nA su…",
+          "link": "https://kubernetes.io/blog/2022/08/02/sig-docs-spotlight-2022/",
+          "publishedOn": "2022-08-02T00:00:00.000Z",
+          "wordCount": 4015,
+          "title": "Blog: Spotlight on SIG Docs",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/07/13/gateway-api-graduates-to-beta/",
           "author": null,
           "description": "Authors: Shane Utt (Kong), Rob Scott (Google), Nick Young (VMware), Jeff Apple (HashiCorp)\nWe are excited to announce the v0.5.0 release of Gateway API. For the first\ntime, several of our most important Gateway API resources are graduating to\nbeta. Additional, we are starting a new initiative to explore how Gateway API\ncan be used for mesh and introducing new experimental concepts such as URL\nrewrites. We'll cover all of this and more below.\nWhat is Gateway API?\nGateway API is a collection of resources centered around Gateway resources\n(which represent the underlying network gateways / proxy servers) to enable\nrobust Kubernetes service networking through expressive, extensible and\nrole-oriented interfaces that are implemented by many vendors and have broad\nindustry support.\nOriginally conc…",
@@ -3796,6 +3806,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/dont-expect-any-mortal-kombat-12-news-at-evo-2022",
+          "author": "Victoria Kennedy",
+          "description": "For those that were hoping to hear more about the next Mortal Kombat game at Evo, it looks like there is Sub Zero chance of that happening. \r\n\n\r\nNetherRealm's Ed Boon has shut down reports that the developer would be making an announcement at this year's fighting event.\r\n\n\r\n\"It's time for Street Fighter and other great fighting games to be in the sun,\" he tweeted earlier today. \"Let's enjoy that!\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dont-expect-any-mortal-kombat-12-news-at-evo-2022",
+          "publishedOn": "2022-08-02T11:36:57.000Z",
+          "wordCount": 4470,
+          "title": "Don't expect any Mortal Kombat 12 news at Evo 2022",
+          "imageUrl": "https://assets.reedpopcdn.com/MK-Johnny-Cage.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/MK-Johnny-Cage.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/diablo-immortal-launch-turns-around-two-year-trend-of-tumbling-blizzard-player-numbers",
+          "author": "Tom Phillips",
+          "description": "Diablo Immortal has stemmed the flow of falling Blizzard user numbers, and given the company a modest increase in monthly active engagement. \r\n\n\r\nHowever, Activision Blizzard's latest financial results show Blizzard active users have only recovered slightly - to where they were just over a year ago - and revenue remains down slightly year-on-year. \r\n\n\r\nAfter falling to 22 million monthly active users for the quarter ending in March 2022, Diablo Immortal has helped Blizzard back to 27 million for the quarter ending at the beginning of July.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/diablo-immortal-launch-turns-around-two-year-trend-of-tumbling-blizzard-player-numbers",
+          "publishedOn": "2022-08-02T11:32:02.000Z",
+          "wordCount": 4556,
+          "title": "Diablo Immortal launch turns around two-year trend of tumbling Blizzard player numbers",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered_t8PRpNe.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered_t8PRpNe.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/halo-infinites-open-world-was-significantly-scaled-back-compared-to-original-vision",
+          "author": "Ed Nightingale",
+          "description": "The open world of Halo Infinite was significantly scaled back compared to its original vision.\r\n\n\r\nThat's according to Joseph Staten, head of creative at 343 Industries, speaking on the Academy of Interactive Arts & Sciences podcast Game Maker's Notebook (thanks TechRadar).\r\n\n\r\nInfinite was the first open world Halo game so it's understandable there were several changes during development, but in particular the scope and biome variety were heavily revised.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-infinites-open-world-was-significantly-scaled-back-compared-to-original-vision",
+          "publishedOn": "2022-08-02T11:21:15.000Z",
+          "wordCount": 4617,
+          "title": "Halo Infinite's open world was significantly scaled back compared to original vision",
+          "imageUrl": "https://assets.reedpopcdn.com/halo_infinite_campaign_co_op_2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/halo_infinite_campaign_co_op_2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/hitman-3-has-a-monkey-island-easter-egg",
+          "author": "Victoria Kennedy",
+          "description": "A recent update for Hitman 3 added the tropical Ambrose Island map to the game. This map has a piratical theme, and so it is only fitting that Guybrush Threepwood from the Monkey Island series makes a showing on its shores.\r\n\n\r\nPlease note that there will be some spoilers for Hitman 3's Ambrose Island map below.\r\n\n\r\nIf you venture down from the Western Beach on Ambrose Island, you will come across a small nook in the coastline. Here, there is a gravestone set into the side of the cliff face. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/hitman-3-has-a-monkey-island-easter-egg",
+          "publishedOn": "2022-08-02T11:05:54.000Z",
+          "wordCount": 4670,
+          "title": "Hitman 3 has a Monkey Island Easter egg",
+          "imageUrl": "https://assets.reedpopcdn.com/mi-curse.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mi-curse.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisofts-ex-division-developer-boss-joins-playerunknown-productions",
+          "author": "Liv Ngan",
+          "description": "PlayerUnknown Productions has announced it has hired David Polfeldt as a senior advisor. \n\r\nPolfeldt was managing director of Ubisoft's Massive Entertainment for 12 years. He left the company earlier this year in March, as he felt that he wasn't \"the right manager for what the studio has become\". \nDuring his tenure at Massive Entertainment, Polfeldt worked on many of its leading titles and was part of the teams in charge of the delayed Avatar: Frontiers of Pandora and a mysterious open-world Star Wars project.\n Read more",
+          "link": "https://www.eurogamer.net/ubisofts-ex-division-developer-boss-joins-playerunknown-productions",
+          "publishedOn": "2022-08-02T10:44:10.000Z",
+          "wordCount": 4506,
+          "title": "Ubisoft's ex-Division developer boss joins PlayerUnknown Productions",
+          "imageUrl": "https://assets.reedpopcdn.com/David-Polfeldt-narbild-1920px.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/David-Polfeldt-narbild-1920px.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-fans-switch-off-in-their-millions",
+          "author": "Tom Phillips",
+          "description": "Call of Duty fans are switching off from the franchise, Activision's latest user figures suggest. \r\n\n\r\nMonthly active user data published by Activision shows player numbers have dipped over the past 12 months - from 127 million in June 2021 to just 94 million this year. \r\n\n\r\nThe details are part of a tough round of financial results for Activision Blizzard this quarter, despite the recent and highly-profitable launch of Diablo Immortal.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-fans-switch-off-in-their-millions",
+          "publishedOn": "2022-08-02T10:41:14.000Z",
+          "wordCount": 4489,
+          "title": "Call of Duty fans switch off in their millions",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered_eqB7Wmj.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered_eqB7Wmj.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/mega-drive-mini-2-will-have-tenth-of-previous-retro-consoles-supply",
+          "author": "Ed Nightingale",
+          "description": "Sega's Mega Drive Mini 2 console will only have a tenth of the supply compared to the previous retro console in North America.\r\n\n\r\nWhat's more, Western customers will need to purchase the console through Amazon Japan's storefront due to the ongoing semiconductor shortage, reports Polygon.\r\n\n\r\nThe console was originally intended as a Japan-only product, but \"by using Amazon's 'Japan Store' system, we found that at least a small number of units could be sold via Amazon.com, so a portion was allocated to make the North American version,\" says a Sega representative.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mega-drive-mini-2-will-have-tenth-of-previous-retro-consoles-supply",
+          "publishedOn": "2022-08-02T10:36:26.000Z",
+          "wordCount": 4319,
+          "title": "Mega Drive Mini 2 will have tenth of previous retro console's supply",
+          "imageUrl": "https://assets.reedpopcdn.com/mega-drive-mini-2-reveal.png/BROK/thumbnail/1600x900/format/jpg/quality/80/mega-drive-mini-2-reveal.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/marvels-spider-man-remastered-pc-price-drop-means-pre-order-customers-now-need-to-re-purchase-the-game",
+          "author": "Ed Nightingale",
+          "description": "Marvel's Spider-Man Remastered on Steam has been re-priced in a number of territories.\r\n\n\r\nSpecifically, this is affecting those who pre-purchased the game in the UK, as well as Australia, Israel, New Zealand, Norway, Poland, and Switzerland.\r\n\n\r\nThe new price is £49.99, down from £54.99. Customers will now need to cancel their pre-purchase of the game to receive a full refund and then pre-purchase the game again at the new price.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/marvels-spider-man-remastered-pc-price-drop-means-pre-order-customers-now-need-to-re-purchase-the-game",
+          "publishedOn": "2022-08-02T10:06:24.000Z",
+          "wordCount": 4376,
+          "title": "Marvel's Spider-Man Remastered PC price drop means pre-order customers now need to re-purchase the game",
+          "imageUrl": "https://assets.reedpopcdn.com/marvels-spider-man-1533217236862.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels-spider-man-1533217236862.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/how-real-and-virtual-racing-go-hand-in-hand-at-formula-e-esports",
+          "author": "Ed Nightingale",
+          "description": "This weekend the Formula E London E-Prix took place at the ExCel exhibition centre, the only top-level indoor and outdoor track in international motosport. It may not quite have the prestige of F1, but the sport is rapidly growing in popularity.\r\n\n\r\nAnd it's not just about electric cars, but virtual ones too. On Friday night the second Accelerate esports championship took centre stage at the London E-Prix. Streamed live on Twitch and YouTube, it saw drivers going head-to-head to win a share of €100,000.\r\n\n\r\nThe esports arm of Formula E grew during the pandemic and a need to engage racing fans online. Now that's shifted towards expanding the audience of the sport, enticing fans to watch the real E-Prix through a love of video games and esports.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/how-real-and-virtual-racing-go-hand-in-hand-at-formula-e-esports",
+          "publishedOn": "2022-08-02T09:00:00.000Z",
+          "wordCount": 5917,
+          "title": "How real and virtual racing go hand in hand at Formula E esports",
+          "imageUrl": "https://assets.reedpopcdn.com/accelerate-trophies.png/BROK/thumbnail/1600x900/format/jpg/quality/80/accelerate-trophies.png"
+        },
         {
           "id": "https://www.eurogamer.net/heres-how-sea-of-thieves-captaincy-features-will-work-in-this-weeks-massive-update",
           "author": "Matt Wales",
