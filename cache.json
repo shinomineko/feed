@@ -124,16 +124,6 @@
           "wordCount": 223,
           "title": "Cosmologist Gift",
           "imageUrl": "https://imgs.xkcd.com/comics/cosmologist_gift_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2642/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/meta_alternating_current.png\" title=\"It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.\" alt=\"It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.\" />",
-          "link": "https://xkcd.com/2642/",
-          "publishedOn": "2022-07-06T00:00:00.000Z",
-          "wordCount": 223,
-          "title": "Meta-Alternating Current",
-          "imageUrl": "https://imgs.xkcd.com/comics/"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/08/sike-broken.html",
+          "author": null,
+          "description": "<p><a href=\"https://sike.org/\">SIKE</a> is one of the new algorithms that NIST <a href=\"https://csrc.nist.gov/News/2022/pqc-candidates-to-be-standardized-and-round-4\">recently added</a> to the post-quantum cryptography competition.</p>\n<p>It was just <a href=\"https://eprint.iacr.org/2022/975.pdf\">broken</a>, really badly.</p>\n<blockquote><p>We present an efficient key recovery attack on the Supersingular Isogeny Diffie­-Hellman protocol (SIDH), based on a &#8220;glue-and-split&#8221; theorem due to Kani. Our attack exploits the existence of a small non-scalar endomorphism on the starting curve, and it also relies on the auxiliary torsion point information that Alice and Bob share during the protocol. Our Magma implementation breaks the instantiation SIKEp434, which aims at security level 1 of the Post-Quantum Cryptography standardization process currently ran by NIST, in about one hour on a single core...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/08/sike-broken.html",
+          "publishedOn": "2022-08-04T11:56:22.000Z",
+          "wordCount": 668,
+          "title": "SIKE Broken",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/08/drone-deliveries-into-prisons.html",
           "author": null,
@@ -3901,76 +3901,6 @@
           "wordCount": 2220,
           "title": "The cryptopocalypse is nigh! NIST rolls out new encryption standards to prepare",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/quantum-computing-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864392",
-          "author": "Beth Mole",
-          "description": "About 1 in 8 US deaths were from COVID-19 between March 2020 and October 2021.",
-          "link": "https://arstechnica.com/?p=1864392",
-          "publishedOn": "2022-07-05T22:38:11.000Z",
-          "wordCount": 1545,
-          "title": "COVID was the leading cause of death in Americans aged 45-54 in 2021",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1341226201-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864279",
-          "author": "Ron Amadeo",
-          "description": "Found-footage horror channel Local58TV isn't for kids, but YouTube disagrees.",
-          "link": "https://arstechnica.com/?p=1864279",
-          "publishedOn": "2022-07-05T22:14:14.000Z",
-          "wordCount": 1855,
-          "title": "YouTube flags horror video as “for kids,” won’t let creator change rating",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/6-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864291",
-          "author": "Jon Brodkin",
-          "description": "Tesla factory workers say they face \"daily racist epithets\" and other harassment.",
-          "link": "https://arstechnica.com/?p=1864291",
-          "publishedOn": "2022-07-05T21:47:21.000Z",
-          "wordCount": 1801,
-          "title": "Lawsuit: At Tesla, racial discrimination is “standard operating procedure”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-tesla-factory-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864227",
-          "author": "Sam Machkovech",
-          "description": "Arbitrary code execution, driven by four rapid-fire N64 gamepads, does wonders.",
-          "link": "https://arstechnica.com/?p=1864227",
-          "publishedOn": "2022-07-05T21:05:57.000Z",
-          "wordCount": 1823,
-          "title": "How Zelda fans changed the ending to Ocarina of Time on a vanilla N64",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/triforce-percent-sgdq-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864316",
-          "author": "Jonathan M. Gitlin",
-          "description": "The automaker blames supply chain issues and factory shutdowns.",
-          "link": "https://arstechnica.com/?p=1864316",
-          "publishedOn": "2022-07-05T19:40:12.000Z",
-          "wordCount": 1242,
-          "title": "Tesla deliveries drop by 18 percent in Q2 2022",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/0x0-DJI_0179-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864288",
-          "author": "Kyle Orland",
-          "description": "$49 million in estimated earnings so far shows why free-to-play is here to stay.",
-          "link": "https://arstechnica.com/?p=1864288",
-          "publishedOn": "2022-07-05T19:06:55.000Z",
-          "wordCount": 1694,
-          "title": "Diablo Immortal is bringing in over $1 million a day in microtransactions",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Screenshot_20220526-145204-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1864235",
-          "author": "Ashley Belanger",
-          "description": "Keeping giant tech companies like Apple or Google in check is top priority.",
-          "link": "https://arstechnica.com/?p=1864235",
-          "publishedOn": "2022-07-05T18:40:58.000Z",
-          "wordCount": 1768,
-          "title": "Landmark EU rules will finally put regulation of Big Tech to the test",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1098212314-760x380.jpg"
         }
       ]
     },
@@ -4086,6 +4016,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/multiversus-season-one-delayed-until-further-notice",
+          "author": "Victoria Kennedy",
+          "description": "The MultiVersus team has announced a delay to the platform fighter's first season.\r\n\n\r\nIn addition to this, the company has also delayed the arrival of Morty to the game.\r\n\n\r\n\"We know this might be disappointing for some and want to assure our Community that we are dedicated to delivering new and exciting content that delights players,\" the developer tweeted. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/multiversus-season-one-delayed-until-further-notice",
+          "publishedOn": "2022-08-04T12:11:06.000Z",
+          "wordCount": 4578,
+          "title": "MultiVersus season one delayed until further notice",
+          "imageUrl": "https://assets.reedpopcdn.com/mv-bb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mv-bb.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/twitch-streamer-beats-impossible-20k-halo-2-challenge",
+          "author": "Ishraq Subhan",
+          "description": "A Twitch streamer has achieved the impossible by completing the $20,000 (£16,400) Halo 2 challenge.\r\n\n\r\nThe challenge, set earlier this year by streamer Charlie \"Cr1tikal\" White, was that someone had to complete the entirety of the Halo 2 Anniversary campaign without dying on Legendary difficulty, with all \"Skull\" modifiers on. \r\n\n\r\nThe effect of the modifiers range from increasing the health of enemies to all enemies being permanently cloaked. The only modifier that must be kept off is \"Envy\" skull, which replaces Master Chief's torch with an active camouflage system (because that would make things too easy).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-streamer-beats-impossible-20k-halo-2-challenge",
+          "publishedOn": "2022-08-04T11:50:04.000Z",
+          "wordCount": 4506,
+          "title": "Twitch streamer beats \"impossible\" $20k Halo 2 challenge",
+          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-halo-2-anniversary-pc-master-chief-collection-analysis-1589989121269.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-halo-2-anniversary-pc-master-chief-collection-analysis-1589989121269.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/among-us-vr-beta-sign-up-is-live",
+          "author": "Liv Ngan",
+          "description": "You can now sign-up to the upcoming Among Us VR beta.\r\n\n\r\nA link to the process was provided alongside the announcement.\r\n\n\r\nThe VR version was first announced in December at The Game Awards, with speculations rising of a release date during this winter. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/among-us-vr-beta-sign-up-is-live",
+          "publishedOn": "2022-08-04T11:48:17.000Z",
+          "wordCount": 4443,
+          "title": "Among Us VR beta sign-up is live",
+          "imageUrl": "https://assets.reedpopcdn.com/among-us-vr_1vi3aVd.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/among-us-vr_1vi3aVd.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/rumours-suggest-new-iron-man-game-coming-from-ea",
+          "author": "Victoria Kennedy",
+          "description": "Rumours suggest EA is currently working on a new Iron Man video game.\r\n\n\r\nEarlier this year, Jeff Grubb reported that a Black Panther game was in the works with EA. Now, the loose-lipped journalist has shared that another Marvel project is also underway with the company.\r\n\n\r\nChatting as part of Giant Bomb's Game Mess Mornings stream, Grubb stated: \"[EA is] making that Black Panther game we spoke about... and [it's] making another Marvel game that's single player\". This comment was said in a rather throw away manner, but, of course, it was quickly picked up by the internet.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/rumours-suggest-new-iron-man-game-coming-from-ea",
+          "publishedOn": "2022-08-04T11:41:57.000Z",
+          "wordCount": 4524,
+          "title": "Rumours suggest new Iron Man game coming from EA",
+          "imageUrl": "https://assets.reedpopcdn.com/iron-man_aJ1y3LP.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/iron-man_aJ1y3LP.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dont-expect-a-new-nintendo-switch-model-this-financial-year-report",
+          "author": "Tom Phillips",
+          "description": "Nintendo won't launch another new Switch model during the current financial year, ending in March 2023. \r\n\n\r\nThat's according to a new Nikkei (paywall) report, which follows up on Nintendo's latest financial results issued earlier this week. \r\n\n\r\nDuring those results, Nintendo said it faced manufacturing issues due to component shortages. Speaking to Nikkei, Nintendo president Shuntaro Furukawa said that sorting these was now Nintendo's immediate goal. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/dont-expect-a-new-nintendo-switch-model-this-financial-year-report",
+          "publishedOn": "2022-08-04T11:41:08.000Z",
+          "wordCount": 4334,
+          "title": "Don't expect a new Nintendo Switch model this financial year - report",
+          "imageUrl": "https://assets.reedpopcdn.com/109045-nintendo-switch-online-nes-controllers-next-to-switch-1200x675.png/BROK/thumbnail/1600x900/format/jpg/quality/80/109045-nintendo-switch-online-nes-controllers-next-to-switch-1200x675.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/spider-man-remastered-will-be-playable-on-steam-deck",
+          "author": "Ed Nightingale",
+          "description": "Spider-Man Remastered, the PC release of Sony's PS5 game, will be playable on the Steam Deck.\r\n\n\r\nInsomniac confirmed the news in a tweet, noting the game is Steam Deck verified.\r\n\n\r\nIt means you can swing through New York City on the go... in actual New York City if you want.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/spider-man-remastered-will-be-playable-on-steam-deck",
+          "publishedOn": "2022-08-04T10:51:51.000Z",
+          "wordCount": 4308,
+          "title": "Spider-Man Remastered will be playable on Steam Deck",
+          "imageUrl": "https://assets.reedpopcdn.com/spider-man-remastered-pc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spider-man-remastered-pc.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsofts-new-windows-11-widget-connects-to-your-game-pass-library",
+          "author": "Ishraq Subhan",
+          "description": "Microsoft has revealed a new widget for Windows, showcasing the latest games available on PC Game Pass.\r\n\n\r\nIt's the first widget to be released for Windows 11 since the operating system was released in October 2021.\r\n\n\r\nThe widget is currently under preview and only available to Windows Insiders running the latest Windows 11 Preview Build. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsofts-new-windows-11-widget-connects-to-your-game-pass-library",
+          "publishedOn": "2022-08-04T10:46:45.000Z",
+          "wordCount": 4375,
+          "title": "Microsoft's new Windows 11 widget connects to your Game Pass library",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass-tv-streaming-rumor-gamesbeat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-game-pass-tv-streaming-rumor-gamesbeat.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/nba-2k23-bigs-up-authenticity-in-detailed-new-gameplay-breakdown",
           "author": "Matt Wales",
