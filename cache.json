@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2657/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/complex_vowels.png\" title=\"Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.\" alt=\"Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.\" />",
+          "link": "https://xkcd.com/2657/",
+          "publishedOn": "2022-08-10T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Complex Vowels",
+          "imageUrl": "https://imgs.xkcd.com/comics/complex_vowels_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2656/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/scientific_field_prefixes.png\" title=\"Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)\" alt=\"Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)\" />",
@@ -374,16 +384,6 @@
           "wordCount": 943,
           "title": "Post-Roe Privacy",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/07/security-vulnerabilities-in-hondas-keyless-entry-system.html",
-          "author": null,
-          "description": "<p>Honda vehicles from 2021 to 2022 are vulnerable to <a href=\"https://www.vice.com/en/article/z34xnw/hackers-say-they-can-unlock-and-start-honda-cars-remotely\">this attack</a>:</p>\n<blockquote><p>On Thursday, a security researcher who goes by Kevin2600 <a href=\"https://rollingpwn.github.io/rolling-pwn/\">published a technical report</a> and videos on a vulnerability that he claims allows anyone armed with a simple hardware device to steal the code to unlock Honda vehicles. Kevin2600, who works for cybersecurity firm Star-V Lab, dubbed the attack RollingPWN.</p>\n<p>[&#8230;]</p>\n<p>In a phone call, Kevin2600 explained that the attack relies on a weakness that allows someone using a software defined radio&#8212;<a href=\"https://greatscottgadgets.com/hackrf/\">such as HackRF</a>&#8212;to capture the code that the car owner uses to open the car, and then replay it so that the hacker can open the car as well. In some cases, he said, the attack can be performed from 30 meters (approximately 98 feet) away...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/07/security-vulnerabilities-in-hondas-keyless-entry-system.html",
-          "publishedOn": "2022-07-12T12:23:24.000Z",
-          "wordCount": 799,
-          "title": "Security Vulnerabilities in Honda’s Keyless Entry System",
-          "imageUrl": null
         }
       ]
     },
@@ -392,6 +392,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1872971",
+          "author": "Sam Machkovech",
+          "description": "After service's June revision, we review how poorly its \"classic\" library is going.",
+          "link": "https://arstechnica.com/?p=1872971",
+          "publishedOn": "2022-08-10T21:13:44.000Z",
+          "wordCount": 1988,
+          "title": "PlayStation Plus’ highest tier slams to an apparent halt on classic games",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/psplus-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872964",
+          "author": "Samuel Axon",
+          "description": "The technology has drawn scrutiny from privacy activists and politicians.",
+          "link": "https://arstechnica.com/?p=1872964",
+          "publishedOn": "2022-08-10T20:14:35.000Z",
+          "wordCount": 1451,
+          "title": "Amazon begins large-scale rollout of palm print-based payments",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-10-at-2.16.45-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1861820",
+          "author": "Jennifer Ouellette",
+          "description": "Visitor accounts, artwork describe exact locations of three mass graves",
+          "link": "https://arstechnica.com/?p=1861820",
+          "publishedOn": "2022-08-10T20:00:53.000Z",
+          "wordCount": 1561,
+          "title": "Were bones of Waterloo soldiers sold as fertilizer? It’s not yet case closed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/waterlooTOP-CROP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872985",
+          "author": "Jon Brodkin",
+          "description": "FCC: \"Nascent\" Starlink tech has capacity limits, may not deliver required speed.",
+          "link": "https://arstechnica.com/?p=1872985",
+          "publishedOn": "2022-08-10T19:23:03.000Z",
+          "wordCount": 1957,
+          "title": "FCC cancels Starlink’s $886 million grant from Ajit Pai’s mismanaged auction",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/getty-money-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872969",
+          "author": "The Conversation",
+          "description": "When it comes to echo chambers, TV trumps online.",
+          "link": "https://arstechnica.com/?p=1872969",
+          "publishedOn": "2022-08-10T18:59:45.000Z",
+          "wordCount": 1984,
+          "title": "It’s not just social media: Cable news has bigger effect on polarization",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/cable-news-724x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1872910",
           "author": "Jon Brodkin",
@@ -3951,56 +4001,6 @@
           "wordCount": 1344,
           "title": "Walmart is buying 4,500 electric delivery vehicles from Canoo",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Walmart-purchases-Canoo-LDV-for-last-mile-deliveries_web-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865772",
-          "author": "John Timmer",
-          "description": "In birds, brains that expand after birth appear to be linked to creative behavior.",
-          "link": "https://arstechnica.com/?p=1865772",
-          "publishedOn": "2022-07-12T11:30:32.000Z",
-          "wordCount": 1998,
-          "title": "Brain size vs. body size and the roots of intelligence",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-114386438-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865694",
-          "author": "WIRED",
-          "description": "Pro-Russian group Killnet targeting countries supporting Ukraine, declaring \"war.\"",
-          "link": "https://arstechnica.com/?p=1865694",
-          "publishedOn": "2022-07-12T11:00:14.000Z",
-          "wordCount": 1699,
-          "title": "Russian ‘hacktivists’ are causing trouble far beyond Ukraine",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865030",
-          "author": "Corey Gaskin",
-          "description": "Including a new low on the Apple Watch Series 7 and several sporty Garmin watches.",
-          "link": "https://arstechnica.com/?p=1865030",
-          "publishedOn": "2022-07-12T10:10:30.000Z",
-          "wordCount": 1723,
-          "title": "The 7 best Prime Day deals on smartwatches and fitness trackers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Ars-Technica-Apple-Watch-Series-7-Review-14-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865389",
-          "author": "Jeff Dunn",
-          "description": "Our top picks for ANC headphones and true wireless earbuds are as cheap as we've seen.",
-          "link": "https://arstechnica.com/?p=1865389",
-          "publishedOn": "2022-07-12T08:30:11.000Z",
-          "wordCount": 1671,
-          "title": "Prime Day’s best headphone deals include pairs we like from Sony, Beats, and Bose",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Bose-QC45-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1863699",
-          "author": "Jeff Dunn",
-          "description": "We've sorted through Amazon's annual garage sale to find the stuff that's worth your time.",
-          "link": "https://arstechnica.com/?p=1863699",
-          "publishedOn": "2022-07-12T07:50:37.000Z",
-          "wordCount": 1605,
-          "title": "All the best Amazon Prime Day 2022 deals we can find",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/APD22_FeatureIMG-760x380.jpg"
         }
       ]
     },
@@ -4146,6 +4146,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/microsoft-claims-sony-pays-developers-blocking-rights-to-keep-games-off-xbox-game-pass",
+          "author": "Matt Wales",
+          "description": "In a lengthy document submitted to the Brazilian government as part of its investigation into Microsoft's acquisition of Activision Blizzard, Microsoft has claimed Sony pays developers \"blocking rights\" to prevent games from appearing on Xbox Game Pass.\r\n\n\r\nThe accusation appears in a 27-page rebuttal of Sony's recent objections to Microsoft's Activision Blizzard buyout, made to Brazil's Administrative Council for Economic Defense (CADE) as part of its investigation. Much of Sony's argument had focused on Call of Duty - which it claimed had \"no rival\" and was \"so popular that it influences users' choice of console\" - with the PlayStation maker suggesting, among other things, that the inclusion of Call of Duty on Microsoft's Game Pass service would hamper its ability to compete.\r\n\n\r\nMicrosoft's response is as wide-ranging as Sony's initial objections, touching on everything from the fact it has previously managed to grow Game Pass without Activision Blizzard's titles - suggesting Call of Duty mightn't be quite as \"essential\" as Sony claims - to a reiteration of its assurances that it won't be making Call of Duty an Xbox console exclusive.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-claims-sony-pays-developers-blocking-rights-to-keep-games-off-xbox-game-pass",
+          "publishedOn": "2022-08-10T21:33:44.000Z",
+          "wordCount": 4576,
+          "title": "Microsoft claims Sony pays developers \"blocking rights\" to keep games off Xbox Game Pass",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-game-pass-logo.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/norwood-suite-devs-surreal-dice-chucker-betrayal-at-club-low-out-in-september",
           "author": "Matt Wales",
@@ -8475,76 +8485,6 @@
           "wordCount": 4363,
           "title": "Nintendo announces Kirby's Dream Buffet, launches this summer",
           "imageUrl": "https://assets.reedpopcdn.com/KirbysDreamBuffet_scrn_02.png/BROK/thumbnail/1600x900/format/jpg/quality/80/KirbysDreamBuffet_scrn_02.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/as-temperatures-soar-nintendo-issues-switch-heatwave-warning",
-          "author": "Tom Phillips",
-          "description": "Nintendo has issued a series of warnings for Switch owners using their consoles in the current hot weather. \r\n\n\r\nThe advice notes that the Switch should be used only in temperatures up to 35 degrees Celsius - so be careful in hot rooms, stuffy cars, or at the beach this weekend.\r\n\n\r\nLondon is set to hit 31 degrees outdoors today as the UK swelters through a scorching week, while The Met Office has issued an amber warning of \"extreme heat\" which is set to last until next Monday.\n Read more",
-          "link": "https://www.eurogamer.net/as-temperatures-soar-nintendo-issues-switch-heatwave-warning",
-          "publishedOn": "2022-07-12T11:36:24.000Z",
-          "wordCount": 4486,
-          "title": "As temperatures soar, Nintendo issues Switch heatwave warning",
-          "imageUrl": "https://assets.reedpopcdn.com/mario_usAlT5p.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario_usAlT5p.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/season-of-pride-2022-collection-launches-on-steam",
-          "author": "Ed Nightingale",
-          "description": "LGBT+ publisher MidBoss has launched the Season of Pride 2022 collection on Steam.\r\n\n\r\nThe collection includes some incredible games, including Celeste, If Found, Arcade Spirits, Sword of the Necromancer, Tell Me Why, Paradise Killer and Boyfriend Dungeon, as well as some lesser known indies.\r\n\n\r\nThere's also a list of forthcoming games to wishlist, such as Grid Force, A Long Journey to an Uncertain End, and Midboss's own Read Only Memories: Neurodiver.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/season-of-pride-2022-collection-launches-on-steam",
-          "publishedOn": "2022-07-12T11:21:25.000Z",
-          "wordCount": 4363,
-          "title": "Season of Pride 2022 collection launches on Steam",
-          "imageUrl": "https://assets.reedpopcdn.com/SoP2022_Screen.png/BROK/thumbnail/1600x900/format/jpg/quality/80/SoP2022_Screen.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-ring-publisher-bandai-namco-reportedly-hit-by-ransomware-attack",
-          "author": "Tom Phillips",
-          "description": "Bandai Namco, publisher of Dark Souls, Elden Ring and Soulcalibur, has reportedly been targeted by a ransomware attack. \r\n\n\r\nWord of the hack was surfaced by malware tracker vx-underground, which spotted a claim by notorious ransomware group ALPHV, otherwise known as BlackCat.\r\n\n\r\nA post by the group suggested it was poised to release data acquired from Bandai Namco's servers \"soon\" (thanks, Kotaku).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-ring-publisher-bandai-namco-reportedly-hit-by-ransomware-attack",
-          "publishedOn": "2022-07-12T11:04:54.000Z",
-          "wordCount": 4553,
-          "title": "Elden Ring publisher Bandai Namco reportedly hit by ransomware attack",
-          "imageUrl": "https://assets.reedpopcdn.com/bandai_9OeUstW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bandai_9OeUstW.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/slice-zombies-in-kingdom-the-blood-based-on-hit-korean-netflix-show",
-          "author": "Ed Nightingale",
-          "description": "A gameplay trailer for Kingdom: The Blood has been released, based on the hit Korean Netflix show.\r\n\n\r\nThe show is set in medieval Korea during a zombie apocalypse and focuses on prince Lee Chang attempting to investigate a mysterious illness afflicting the king.\r\n\n\r\nThe game, from developer Action Square, is an adaptation of the show set for release on PC and mobile globally.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/slice-zombies-in-kingdom-the-blood-based-on-hit-korean-netflix-show",
-          "publishedOn": "2022-07-12T10:39:00.000Z",
-          "wordCount": 4407,
-          "title": "Slice zombies in Kingdom: The Blood, based on hit Korean Netflix show",
-          "imageUrl": "https://assets.reedpopcdn.com/Kingdom_-The-Blood---Gameplay-Trailer-_-Work-in-Progress-1-21-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Kingdom_-The-Blood---Gameplay-Trailer-_-Work-in-Progress-1-21-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/age-of-empires-4-season-two-brings-new-event-and-gameplay-tweaks",
-          "author": "Ed Nightingale",
-          "description": "Season Two of strategy title Age of Empires 4 kicks off today with a big update. It's headlined by a new event, Age of Discovery, that brings plenty of rewards.\r\n\n\r\nElsewhere the season brings a plethora of bug fixes and balance changes to tweak gameplay.\r\n\n\r\nAge of Discovery is the first of two events this season and involves completing a number of tasks for unique items.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/age-of-empires-4-season-two-brings-new-event-and-gameplay-tweaks",
-          "publishedOn": "2022-07-12T10:19:08.000Z",
-          "wordCount": 4400,
-          "title": "Age of Empires 4 Season Two brings new event and gameplay tweaks",
-          "imageUrl": "https://assets.reedpopcdn.com/S2_Event1_Update_ageofempires4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/S2_Event1_Update_ageofempires4.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-dark-pictures-developer-supermassive-games-snapped-up-by-danish-firm",
-          "author": "Tom Phillips",
-          "description": "Supermassive Games, the British studio behind The Dark Pictures Anthology, Until Dawn and recent release The Quarry, is now fully owned by Copenhagen-based company Nordisk Games. \r\n\n\r\nThe Scandinavian outfit previously bought a 30.7 percent stake in Supermassive just over a year ago. There's no word on how much today's deal was worth.\r\n\n\r\nNordisk Games, part of the Egmont media group, also owns a small roster of other game developers, including the Stockholm-based Just Cause creator Avalanche Studios and Metroid Dread maker MercurySteam.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-dark-pictures-developer-supermassive-games-snapped-up-by-danish-firm",
-          "publishedOn": "2022-07-12T10:11:04.000Z",
-          "wordCount": 4597,
-          "title": "The Dark Pictures developer Supermassive Games snapped up by Danish firm",
-          "imageUrl": "https://assets.reedpopcdn.com/supermassives-second-dark-pictures-anthology-horror-little-hope-out-this-summer-1586905134025.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/supermassives-second-dark-pictures-anthology-horror-little-hope-out-this-summer-1586905134025.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-infinite-co-op-flight-test-still-aiming-to-release-this-week",
-          "author": "Ed Nightingale",
-          "description": "The co-op flight test for Halo Infinite is still due out this week, according to community manager Brian Jarrard.\r\n\n\r\nMany players expected it to launch yesterday, 11th July, but it's still not live. It should still arrive this week, though.\r\n\n\r\n\"The team is still working on our upcoming Halo Infinite network co-op Insider flight build. While we always said our 'target was the week of July 11', many sites reported it simply as 'starting July 11.' Still hoping for this week, but it will not start today,\" tweeted Jarrard yesterday.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/halo-infinite-co-op-flight-test-still-aiming-to-release-this-week",
-          "publishedOn": "2022-07-12T09:49:57.000Z",
-          "wordCount": 4514,
-          "title": "Halo Infinite co-op flight test still aiming to release this week",
-          "imageUrl": "https://assets.reedpopcdn.com/halo_infinite_campaign_co_op_3-(1).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/halo_infinite_campaign_co_op_3-(1).jpg"
         }
       ]
     },
