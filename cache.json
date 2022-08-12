@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/08/a-taxonomy-of-access-control.html",
+          "author": null,
+          "description": "<p>My personal definition of a brilliant idea is one that is immediately obvious once it&#8217;s explained, but no one has thought of it before. I can&#8217;t believe that no one has described this taxonomy of access control before Eyal Ittay laid it out in <a href=\"https://eprint.iacr.org/2021/1522.pdf\">this</a> paper. The paper is about cryptocurrency wallet design, but the ideas are more general. Ittay points out that a key&#8212;or an account, or anything similar&#8212;can be in one of four states:</p>\n<blockquote><p><b>safe</b> Only the user has access,<br />\n<b>loss</b> No one has access,<br />\n<b>leak</b> Both the user and the adversary have access, or<br />\n<b>theft</b> Only the adversary has access...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/08/a-taxonomy-of-access-control.html",
+          "publishedOn": "2022-08-12T11:38:10.000Z",
+          "wordCount": 833,
+          "title": "A Taxonomy of Access Control",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/08/hacking-starlink.html",
           "author": null,
           "description": "<p>This is the <a href=\"https://www.wired.com/story/starlink-internet-dish-hack/\">first</a>&#8212;of many, I assume&#8212;hack of Starlink. Leveraging a string of vulnerabilities, attackers can access the Starlink system and run custom code on the devices.</p>",
@@ -392,6 +402,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1872031",
+          "author": "Eric Berger",
+          "description": "\"One of the questions that we’re getting a lot is, 'How full are you guys?'\"",
+          "link": "https://arstechnica.com/?p=1872031",
+          "publishedOn": "2022-08-12T11:30:56.000Z",
+          "wordCount": 2003,
+          "title": "Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/mrm38601-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1841458",
+          "author": "Ron Amadeo",
+          "description": "Want a smartphone but don't want to spend $1,000? We've got you covered.",
+          "link": "https://arstechnica.com/?p=1841458",
+          "publishedOn": "2022-08-12T11:15:49.000Z",
+          "wordCount": 2399,
+          "title": "The best cheap Android phones",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Pixel6a-4-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1873355",
           "author": "Beth Mole",
@@ -3781,76 +3811,6 @@
           "wordCount": 1388,
           "title": "GM, EVgo, and Pilot will install 2,000 fast chargers at travel centers",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Lyriq-charging-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866587",
-          "author": "Jonathan M. Gitlin",
-          "description": "If every driver has a horror story about charging, adoption is going to stall.",
-          "link": "https://arstechnica.com/?p=1866587",
-          "publishedOn": "2022-07-13T23:20:08.000Z",
-          "wordCount": 1804,
-          "title": "Electric cars are doomed if fast charger reliability doesn’t get better",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Charging-at-Bath-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866721",
-          "author": "Beth Mole",
-          "description": "The two-dose, protein-subunit vaccine is intended for a primary series, not boosters.",
-          "link": "https://arstechnica.com/?p=1866721",
-          "publishedOn": "2022-07-13T22:41:27.000Z",
-          "wordCount": 1681,
-          "title": "Novavax’s COVID vaccine finally wins FDA authorization for use in unvaccinated",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1239006170-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866697",
-          "author": "Jon Brodkin",
-          "description": "Microsoft will be Netflix's exclusive \"advertising technology and sales partner.\"",
-          "link": "https://arstechnica.com/?p=1866697",
-          "publishedOn": "2022-07-13T21:09:00.000Z",
-          "wordCount": 1414,
-          "title": "Microsoft wins deal to serve ads on Netflix, edging out Comcast and Google",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/netflix-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866667",
-          "author": "John Timmer",
-          "description": "Over the span of three seconds, there were nine individual bursts.",
-          "link": "https://arstechnica.com/?p=1866667",
-          "publishedOn": "2022-07-13T20:24:50.000Z",
-          "wordCount": 1937,
-          "title": "Researchers zero in on the source of fast radio bursts",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/Magnetar_Still_FINAL_1080-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865033",
-          "author": "Corey Gaskin",
-          "description": "Other retailers still have stock of some of the better deals that've run dry on Amazon.",
-          "link": "https://arstechnica.com/?p=1865033",
-          "publishedOn": "2022-07-13T20:03:10.000Z",
-          "wordCount": 1694,
-          "title": "The best “Prime Day” deals that are still kicking at retailers other than Amazon",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Ars-Technica-Fitbit-Luxe-Activity-Tracker-Review-5-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866641",
-          "author": "Dan Goodin",
-          "description": "UEFI updates often require manual installation. Are you patched?",
-          "link": "https://arstechnica.com/?p=1866641",
-          "publishedOn": "2022-07-13T19:44:24.000Z",
-          "wordCount": 1453,
-          "title": "Vulnerabilities allowing permanent infections affect 70 Lenovo laptop models",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/ideapad-5-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866602",
-          "author": "Jon Brodkin",
-          "description": "New fees for websites and online applications would be a disaster, MEPs say.",
-          "link": "https://arstechnica.com/?p=1866602",
-          "publishedOn": "2022-07-13T19:32:01.000Z",
-          "wordCount": 1628,
-          "title": "EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/getty-euros-760x380.jpg"
         }
       ]
     },
@@ -3968,16 +3928,6 @@
           "wordCount": 1990,
           "title": "Alpine 3.16.1 released",
           "imageUrl": null
-        },
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-edge-signing-keys-rotated.html",
-          "author": null,
-          "description": "Alpine Linux edge signing keys rotated",
-          "link": "https://alpinelinux.org/posts/Alpine-edge-signing-keys-rotated.html",
-          "publishedOn": "2022-07-14T00:00:00.000Z",
-          "wordCount": 137,
-          "title": "Alpine Linux edge signing keys rotated",
-          "imageUrl": null
         }
       ]
     },
@@ -3986,6 +3936,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/unity-wins-contract-with-it-company-that-support-us-government",
+          "author": "Liv Ngan",
+          "description": "Unity, known for its popular game engine, revealed it has signed an \"exciting three-year multi-million dollar contract\" with CACI International in its latest financial results.\r\n\n\r\nCACI International, for context, is an IT company which provides technology to various US federal and state government agencies. \r\n\n\r\nMarc Whitten, senior vice president at Unity and general manager of Unity Create, explained Unity's role in the contract as \"defining human machine interfaces or HMI for aerospace applications and beyond\" in the company's follow-up earnings call, as reported by Bloomberg. \n Read more",
+          "link": "https://www.eurogamer.net/unity-wins-contract-with-it-company-that-support-us-government",
+          "publishedOn": "2022-08-12T12:12:20.000Z",
+          "wordCount": 4435,
+          "title": "Unity wins contract with IT company that support US government",
+          "imageUrl": "https://assets.reedpopcdn.com/U_Logo_Black_RGB.png/BROK/thumbnail/1600x900/format/jpg/quality/80/U_Logo_Black_RGB.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/cheat-maker-fires-back-at-bungie-after-destiny-2-copyright-infringement-case",
+          "author": "Ed Nightingale",
+          "description": "Destiny 2 cheat maker AimJunkies has fired back at Bungie, issuing subpoenas to obtain information to back up that its work isn't copyright infringement.\r\n\n\r\nEarlier this year, Bungie alleged copyright infringement and breach of contract against AimJunkies for its Destiny 2 \"hacks\", but the court dismissed much of the case.\r\n\r\n\n\r\nBungie was allowed more time to reinstate its case and a few weeks later alleged that AimJunkies had reverse-engineered and copied the software code for Destiny 2.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cheat-maker-fires-back-at-bungie-after-destiny-2-copyright-infringement-case",
+          "publishedOn": "2022-08-12T11:31:36.000Z",
+          "wordCount": 4500,
+          "title": "Cheat maker fires back at Bungie after Destiny 2 copyright infringement case",
+          "imageUrl": "https://assets.reedpopcdn.com/destiny-2-lightfall.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/destiny-2-lightfall.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-shoothouse-inspired-map-detailed-in-new-video",
+          "author": "Victoria Kennedy",
+          "description": "Infinity Ward, the team behind Modern Warfare 2, has given us all a little peek at a new map that is coming to the game. \r\n\n\r\nThe map, which is called Farm 18, was inspired by Modern Warefare's Shoothouse map.\r\n\n\r\n\"We tried to think of hidden training facilities, but it is also in an industrial cement factory,\" explained Geoff Smith, the director of multiplayer map design on Modern Warfare 2.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-shoothouse-inspired-map-detailed-in-new-video",
+          "publishedOn": "2022-08-12T10:59:11.000Z",
+          "wordCount": 4625,
+          "title": "Call of Duty: Modern Warfare 2 Shoothouse inspired map detailed in new video",
+          "imageUrl": "https://assets.reedpopcdn.com/modern-warfare-2_82IO1GP.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modern-warfare-2_82IO1GP.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/a-mobile-avatar-the-last-airbender-game-is-on-the-way",
+          "author": "Liv Ngan",
+          "description": "A new Avatar game has been announced. No, not that one. This is Avatar: Generations, based on the popular Nickelodeon animated series Avatar: The Last Airbender. (Your release date got pushed back? That's rough, buddy.)\r\n\n\r\nThe game is being developed by Square Enix London Mobile in partnership with Navigator Games, and is described as a \"free-to-play, RPG adventure\".\r\n\n\r\nAt release, the game will follow the main gang (Aang, Katara, Sokka, Toph, Suki, Zuko, Appa and Momo) across the storyline of the series. New stories are promised too, as well as \"fan-favourite locations, stories, and events in an open world\". Subsequent updates will feature other minor characters from The Last Airbender such as Avatar Kyoshi, as well as characters and storylines from Avatar: The Legend of Korra.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/a-mobile-avatar-the-last-airbender-game-is-on-the-way",
+          "publishedOn": "2022-08-12T10:29:41.000Z",
+          "wordCount": 4542,
+          "title": "A mobile Avatar: The Last Airbender game is on the way",
+          "imageUrl": "https://assets.reedpopcdn.com/Avatar-Generations---Key-Art-with-Logo--1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Avatar-Generations---Key-Art-with-Logo--1920x1080.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/splatoon-2-players-will-receive-bonuses-for-transferring-save-data-to-splatoon-3",
+          "author": "Ed Nightingale",
+          "description": "Splatoon 2 players will be given bonuses when transferring save data to Splatoon 3.\r\n\n\r\nNintendo's Splatoon 3 Direct earlier this week detailed what's new in the game, but a note on the official website states that save data can be transferred and players will receive in-game rewards for doing so.\r\n\r\n\n\r\nApparently \"five out of five Squid Research Lab scientists recommend transferring data from Splatoon 2 if you have it\". So that's that.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/splatoon-2-players-will-receive-bonuses-for-transferring-save-data-to-splatoon-3",
+          "publishedOn": "2022-08-12T10:13:03.000Z",
+          "wordCount": 4441,
+          "title": "Splatoon 2 players will receive bonuses for transferring save data to Splatoon 3",
+          "imageUrl": "https://assets.reedpopcdn.com/NSwitch_Splatoon3_04.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/NSwitch_Splatoon3_04.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/multiversus-season-one-gets-new-release-date",
+          "author": "Victoria Kennedy",
+          "description": "Following its recent delay, a new release date for Warner Bros.' Smash-like brawler MultiVersus' first season has been announced. \r\n\n\r\nWelcomely, the new release date is actually really soon. In fact, it is as soon as 15th August.\r\n\n\r\nThis also means that Morty will soon be joining the fray. His arrival to the game will be a little after season one's debut, with the new fighter now coming on 23rd August.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/multiversus-season-one-gets-new-release-date",
+          "publishedOn": "2022-08-12T09:57:16.000Z",
+          "wordCount": 4614,
+          "title": "MultiVersus Season One gets new release date",
+          "imageUrl": "https://assets.reedpopcdn.com/harley-mv.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/harley-mv.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/dino-park-management-sim-parkasaurus-goes-aquatic-today-with-new-sea-monsters-dlc",
           "author": "Matt Wales",
@@ -8295,16 +8305,6 @@
           "wordCount": 4302,
           "title": "Sega Genesis Mini 2 confirmed for North America",
           "imageUrl": "https://assets.reedpopcdn.com/SEGA-Genesis-Mini-2-_-Promotional-Video-0-20-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/SEGA-Genesis-Mini-2-_-Promotional-Video-0-20-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/her-story-and-telling-lies-devs-investigative-hollywood-horror-immortality-delayed-into-august",
-          "author": "Matt Wales",
-          "description": "Immortality: An Interactive Movie Trilogy - the upcoming Hollywood-inspired  investigative horror game from Her Story and Telling Lies creator Sam Barlow - has been delayed until 30th August to \"ensure the experience is as polished as possible\".\r\n\n\r\nImmortality, which was initially due to launch on 26th July, tells the story of Marissa Marcel, a (fictional) actress who filmed three movies over the course of her career - Ambrosio in 1968, Minsky in 1970, and Two of Everything in 1999 - none of which were ever released.\r\n\n\r\nAs with Barlow's previous titles, it's a story presented in non-linear fashion that players must slowly piece together themselves by scouring through reams of FMV video. But while Her Story featured faux police interview footage and Telling Lies chose \"hacked\" webcam video as its medium of choice, Immortality asks players to dig through an archive of film and behind-the-scenes footage - using a machine resembling an old-fashioned Moviola editing device - to find out what happened to Marissa Marcel.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/her-story-and-telling-lies-devs-investigative-hollywood-horror-immortality-delayed-into-august",
-          "publishedOn": "2022-07-13T18:50:05.000Z",
-          "wordCount": 4460,
-          "title": "Her Story and Telling Lies dev's investigative Hollywood horror Immortality delayed into August",
-          "imageUrl": "https://assets.reedpopcdn.com/telling-lies-creators-investigate-horror-immortality-gets-first-proper-reveal-1647458070939.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/telling-lies-creators-investigate-horror-immortality-gets-first-proper-reveal-1647458070939.jpg"
         }
       ]
     },
