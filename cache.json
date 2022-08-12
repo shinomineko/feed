@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/08/twitter-exposes-personal-information-for-5-4-million-accounts.html",
+          "author": null,
+          "description": "<p>Twitter <a href=\"https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts\">accidentally exposed</a> the personal information&#8212;including phone numbers and email addresses&#8212;for 5.4 million accounts. And someone was trying to sell this information.</p>\n<blockquote><p>In January 2022, we received a report through our <a href=\"https://help.twitter.com/en/rules-and-policies/reporting-security-vulnerabilities\">bug bounty program</a> of a vulnerability in Twitter&#8217;s systems. As a result of the vulnerability, if someone submitted an email address or phone number to Twitter&#8217;s systems, Twitter&#8217;s systems would tell the person what Twitter account the submitted email addresses or phone number was associated with, if any. This bug resulted from an update to our code in June 2021. When we learned about this, we immediately investigated and fixed it. At that time, we had no evidence to suggest someone had taken advantage of the vulnerability. ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/08/twitter-exposes-personal-information-for-5-4-million-accounts.html",
+          "publishedOn": "2022-08-12T14:13:25.000Z",
+          "wordCount": 1090,
+          "title": "Twitter Exposes Personal Information for 5.4 Million Accounts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/08/a-taxonomy-of-access-control.html",
           "author": null,
           "description": "<p>My personal definition of a brilliant idea is one that is immediately obvious once it&#8217;s explained, but no one has thought of it before. I can&#8217;t believe that no one has described this taxonomy of access control before Eyal Ittay laid it out in <a href=\"https://eprint.iacr.org/2021/1522.pdf\">this</a> paper. The paper is about cryptocurrency wallet design, but the ideas are more general. Ittay points out that a key&#8212;or an account, or anything similar&#8212;can be in one of four states:</p>\n<blockquote><p><b>safe</b> Only the user has access,<br />\n<b>loss</b> No one has access,<br />\n<b>leak</b> Both the user and the adversary have access, or<br />\n<b>theft</b> Only the adversary has access...</p></blockquote>",
@@ -402,6 +412,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1800798",
+          "author": "Andrew Cunningham",
+          "description": "Supported or not, new or old, this is everything you need to know.",
+          "link": "https://arstechnica.com/?p=1800798",
+          "publishedOn": "2022-08-12T18:00:31.000Z",
+          "wordCount": 2850,
+          "title": "How to upgrade to Windows 11, whether your PC is supported or not",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/DSC00361-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873393",
+          "author": "Jennifer Ouellette",
+          "description": "\"We're watching stellar evolution in real time.\"",
+          "link": "https://arstechnica.com/?p=1873393",
+          "publishedOn": "2022-08-12T17:28:56.000Z",
+          "wordCount": 1872,
+          "title": "Betelgeuse is bouncing back after blowing its top in 2019",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/betel2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873429",
+          "author": "Ron Amadeo",
+          "description": "Samsung hasn't changed the Galaxy Fold battery density for four years, and it shows.",
+          "link": "https://arstechnica.com/?p=1873429",
+          "publishedOn": "2022-08-12T17:12:26.000Z",
+          "wordCount": 1539,
+          "title": "Xiaomi clones the Galaxy Fold, makes it 40% thinner, adds a bigger battery",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/30-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873460",
+          "author": "Jon Brodkin",
+          "description": "Plan came after GOP complaints, but FEC says it doesn't violate ban on contributions.",
+          "link": "https://arstechnica.com/?p=1873460",
+          "publishedOn": "2022-08-12T16:55:02.000Z",
+          "wordCount": 1593,
+          "title": "US approves Google plan to let political emails bypass Gmail spam filter",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-spam-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873465",
+          "author": "The Conversation",
+          "description": "Scientists opposed whaling and secretly tracked its toll.",
+          "link": "https://arstechnica.com/?p=1873465",
+          "publishedOn": "2022-08-12T16:48:57.000Z",
+          "wordCount": 1646,
+          "title": "The Soviet Union once hunted endangered whales to the brink of extinction",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1205993604-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873396",
+          "author": "Scharon Harding",
+          "description": "Printer makers have a history of invasive practices that hurt user repairability, experience.",
+          "link": "https://arstechnica.com/?p=1873396",
+          "publishedOn": "2022-08-12T16:44:37.000Z",
+          "wordCount": 1811,
+          "title": "Epson’s bricked printers highlight the industry’s reparability problem",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-157481080-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873397",
+          "author": "Kevin Purdy",
+          "description": "Lee's ascendancy to Samsung chairman position key to \"vitalizing the economy.\"",
+          "link": "https://arstechnica.com/?p=1873397",
+          "publishedOn": "2022-08-12T15:45:42.000Z",
+          "wordCount": 1653,
+          "title": "Samsung heir pardoned due to South Korean economic needs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1242446915-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873372",
+          "author": "Sam Machkovech",
+          "description": "It's not just Stadia, either; non-Google streaming rivals also get featured.",
+          "link": "https://arstechnica.com/?p=1873372",
+          "publishedOn": "2022-08-12T14:04:02.000Z",
+          "wordCount": 1641,
+          "title": "Google adds instant cloud-streaming button to web searches for games",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/stadia-click-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1872031",
           "author": "Eric Berger",
@@ -3936,6 +4026,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-14s-buried-memory-patch-62-has-a-release-date",
+          "author": "Ed Nightingale",
+          "description": "Patch 6.2 for Final Fantasy 14 - named Buried Memory - will release on 23rd August.\r\n\n\r\nThe update will add a fresh batch of story missions, as well as a farming sim mode called Island Sanctuary.\r\n\n\r\nAn epic new trailer for the patch includes plenty of gameplay (and Endwalker story spoilers) from across the update, and some cute dancing Loporrits - moon bunnies for the uninitiated.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-14s-buried-memory-patch-62-has-a-release-date",
+          "publishedOn": "2022-08-12T14:42:19.000Z",
+          "wordCount": 4578,
+          "title": "Final Fantasy 14's Buried Memory Patch 6.2 has a release date",
+          "imageUrl": "https://assets.reedpopcdn.com/final-fantasy-14-buried-memory.png/BROK/thumbnail/1600x900/format/jpg/quality/80/final-fantasy-14-buried-memory.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/master-chief-beats-down-thugs-in-yakuza-0-mod",
+          "author": "Liv Ngan",
+          "description": "Play as Master Chief in Yakuza 0 thanks to the power of modder Kashiiera.\r\n\n\r\nThe mod, uploaded earlier this week, replaces usual protagonist Kiryu Kazuma with Halo's poster boy Master Chief. Specifically his incarnation in Halo 3.\r\n\n\r\nKashiiera is primarily a Halo modder as it's their favourite franchise, but they also love Yakuza and so worked hard to project Master Chief's model correctly onto Kiryu's to keep him looking as natural as possible.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/master-chief-beats-down-thugs-in-yakuza-0-mod",
+          "publishedOn": "2022-08-12T14:34:56.000Z",
+          "wordCount": 4515,
+          "title": "Master Chief beats down thugs in Yakuza 0 mod",
+          "imageUrl": "https://assets.reedpopcdn.com/master-chief-yakuza-0.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/master-chief-yakuza-0.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/blinnk-and-the-vacuum-of-space-is-a-vr-adventure-designed-for-autistic-players",
+          "author": "Victoria Kennedy",
+          "description": "An upcoming VR game from Changingday is specifically designed for autistic players, and will allow users to \"play at their own pace\" while \"[supporting] them through everyday experiences\".\r\n\n\r\nBlinnk and the Vacuum of Space starts off on the first day of your new job at Norp Corp. However, your new boss, a certain Mister Norp, is a hungry chap, with only one demand. You must bring him \"the greatest sandwich in the galaxy\".\r\n\n\r\nThis may all sound easy enough, I mean how hard can bread and filling be? Well, it turns out it can be a lot harder than you may expect, especially when robot companion Blinnk is involved. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/blinnk-and-the-vacuum-of-space-is-a-vr-adventure-designed-for-autistic-players",
+          "publishedOn": "2022-08-12T14:25:33.000Z",
+          "wordCount": 4641,
+          "title": "Blinnk and the Vacuum of Space is a VR adventure designed for autistic players",
+          "imageUrl": "https://assets.reedpopcdn.com/Copy-of-main_capsule.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Copy-of-main_capsule.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/capcom-announces-two-livestreams-for-tokyo-games-show-2022",
+          "author": "Ed Nightingale",
+          "description": "Capcom has announced it will have two livestream presentations as part of Tokyo Games Show this year.\r\n\n\r\nThe first will be on 15th September (3pm UK time) and will include \"all the latest Capcom news in our pre-recorded stream\".\r\n\n\r\nThe second will follow on 16th September and focus solely on Street Fighter 6.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/capcom-announces-two-livestreams-for-tokyo-games-show-2022",
+          "publishedOn": "2022-08-12T13:58:26.000Z",
+          "wordCount": 4453,
+          "title": "Capcom announces two livestreams for Tokyo Games Show 2022",
+          "imageUrl": "https://assets.reedpopcdn.com/street-fighter-6-key-art-2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/street-fighter-6-key-art-2.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/destiny-2-getting-weapon-balance-changes-as-lord-of-wolves-gets-nerfed",
+          "author": "Victoria Kennedy",
+          "description": "Bungie has detailed some of the changes that are coming to Destiny 2. \r\n\n\r\nIn its weekly blog post, or TWAB, the company explained some of the weapon balance changes players can expect, which includes buffing some of the game's under-utilised weapon archetypes.\r\n\n\r\nFor example, lightweight bows will get faster draw times as well as an increased \"perfect draw\" window to make things a bit easier for players. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/destiny-2-getting-weapon-balance-changes-as-lord-of-wolves-gets-nerfed",
+          "publishedOn": "2022-08-12T12:25:01.000Z",
+          "wordCount": 4603,
+          "title": "Destiny 2 getting weapon balance changes, as Lord of Wolves gets nerfed",
+          "imageUrl": "https://assets.reedpopcdn.com/destiny-2_LCuPQEF.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/destiny-2_LCuPQEF.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/unity-wins-contract-with-it-company-that-support-us-government",
           "author": "Liv Ngan",
