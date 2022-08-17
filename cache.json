@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/08/zoom-exploit-on-macos.html",
+          "author": null,
+          "description": "<p>This <a href=\"https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle\">vulnerability</a> was reported to Zoom last December:</p>\n<blockquote><p>The exploit works by targeting the installer for the Zoom application, which needs to run with special user permissions in order to install or remove the main Zoom application from a computer. Though the installer requires a user to enter their password on first adding the application to the system, Wardle found that an auto-update function then continually ran in the background with superuser privileges.</p>\n<p>When Zoom issued an update, the updater function would install the new package after checking that it had been cryptographically signed by Zoom. But a bug in how the checking method was implemented meant that giving the updater any file with the same name as Zoom&#8217;s signing certificate would be enough to pass the test&#8212;so an attacker could substitute any kind of malware program and have it be run by the updater with elevated privilege...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/08/zoom-exploit-on-macos.html",
+          "publishedOn": "2022-08-17T11:11:17.000Z",
+          "wordCount": 761,
+          "title": "Zoom Exploit on MacOS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/08/remotely-controlling-touchscreens-2.html",
           "author": null,
           "description": "<p>This is more of a demonstration than a real-world vulnerability, but researchers can use electromagnetic interference to <a href=\"https://ieeexplore.ieee.org/abstract/document/9833718\">remotely control touchscreens</a>.</p>\n<p>From a <a href=\"https://www.vice.com/en/article/g5vyq3/researchers-use-invisible-finger-to-remotely-control-touchscreens\">news article</a>:</p>\n<blockquote><p>It&#8217;s important to note that the attack has a few key limitations. Firstly, the hackers need to know the target&#8217;s phone passcode, or launch the attack while the phone is unlocked. Secondly, the victim needs to put the phone face down, otherwise the battery and motherboard will block the electromagnetic signal. Thirdly, the antenna array has to be no more than four centimeters (around 1.5 inches) away. For all these reasons the researchers themselves admit that the &#8220;invisible finger&#8221; technique is a proof of concept that at this point is far from being a threat outside of a university lab.  ...</p></blockquote>",
@@ -3791,76 +3801,6 @@
           "wordCount": 1571,
           "title": "Two companies join SpaceX in the race to Mars, with a launch possible in 2024",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/lander_2-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867655",
-          "author": "Ashley Belanger",
-          "description": "No major US cryptominers said they track energy use impacts on local residents.",
-          "link": "https://arstechnica.com/?p=1867655",
-          "publishedOn": "2022-07-18T22:22:08.000Z",
-          "wordCount": 1677,
-          "title": "Cryptomining boom has people’s energy bills skyrocketing; feds mull new rules",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1344299977-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867634",
-          "author": "WIRED",
-          "description": "Artists working with programs like DALL-E do more than push a button.",
-          "link": "https://arstechnica.com/?p=1867634",
-          "publishedOn": "2022-07-18T21:05:58.000Z",
-          "wordCount": 2057,
-          "title": "AI art is challenging the boundaries of curation",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867630",
-          "author": "Dan Goodin",
-          "description": "More than 500,000 malicious samples seen in campaign that installs web shells.",
-          "link": "https://arstechnica.com/?p=1867630",
-          "publishedOn": "2022-07-18T20:58:13.000Z",
-          "wordCount": 1489,
-          "title": "Servers running Digium Phones VoiP software are getting backdoored",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/fiber-optic-cables-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867564",
-          "author": "Ron Amadeo",
-          "description": "Google will have one payment app internationally, but not in the US, for some reason.",
-          "link": "https://arstechnica.com/?p=1867564",
-          "publishedOn": "2022-07-18T20:48:51.000Z",
-          "wordCount": 1719,
-          "title": "Google Wallet rolls out to users, will live alongside Google Pay in the US",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/32-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867596",
-          "author": "Samuel Axon",
-          "description": "M2 Pro and M2 Max will reportedly focus mostly on graphics improvements.",
-          "link": "https://arstechnica.com/?p=1867596",
-          "publishedOn": "2022-07-18T19:56:56.000Z",
-          "wordCount": 1489,
-          "title": "The MacBook Pro will get the M2 treatment as soon as this fall",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/16-inch-MacBook-Pro-MagSafe-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867604",
-          "author": "Kyle Orland",
-          "description": "Retailer is earning ~$25K/day on ~$1.1M/day in average trade volume.",
-          "link": "https://arstechnica.com/?p=1867604",
-          "publishedOn": "2022-07-18T19:24:34.000Z",
-          "wordCount": 1955,
-          "title": "Analysis: GameStop NFT trading slows in marketplace’s first week",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/gsnftweek.001-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867571",
-          "author": "Jon Brodkin",
-          "description": "Musk seeks forensic review of \"hundreds of billions of actions on Twitter.\"",
-          "link": "https://arstechnica.com/?p=1867571",
-          "publishedOn": "2022-07-18T18:32:52.000Z",
-          "wordCount": 1641,
-          "title": "Musk wants Twitter trial pushed to 2023 so he has time to analyze spam data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/elon-musk-twitter-speech-juggle-760x380.jpg"
         }
       ]
     },
@@ -3968,16 +3908,6 @@
           "wordCount": 85,
           "title": "Alpine 3.13.12, 3.14.8, 3.15.6 and 3.16.2 released",
           "imageUrl": null
-        },
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.13.11-3.14.7-3.15.5-released.html",
-          "author": null,
-          "description": "Alpine 3.13.11, 3.14.7 and 3.15.5 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.13.11-3.14.7-3.15.5-released.html",
-          "publishedOn": "2022-07-19T00:00:00.000Z",
-          "wordCount": 85,
-          "title": "Alpine 3.13.11, 3.14.7 and 3.15.5 released",
-          "imageUrl": null
         }
       ]
     },
@@ -3986,6 +3916,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ea-scores-own-goal-with-fifa-23-pricing-mix-up",
+          "author": "Victoria Kennedy",
+          "description": "EA has admitted it accidentally listed its most recent FIFA release on the Epic Games Store in India for a tiny 4.80 rupees. That is roughly 5p here in the UK.\r\n\n\r\nBut it doesn't end there. To add insult to injury, this listing wasn't simply for the standard copy of the game. It was, in fact, for the Ultimate Edition.\r\n\n\r\nAs noted by PC Gamer, this means those who purchased this version of the game at its mislisted price got it for a discount of 99.98 percent, as EA is honouring these purchases.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-scores-own-goal-with-fifa-23-pricing-mix-up",
+          "publishedOn": "2022-08-17T12:07:03.000Z",
+          "wordCount": 4549,
+          "title": "EA scores own goal with FIFA 23 pricing mix up",
+          "imageUrl": "https://assets.reedpopcdn.com/EA-own-goal-fifa-23.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/EA-own-goal-fifa-23.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-was-working-on-platform-agnostic-accessibility-controller-reggie-fils-aime-says",
+          "author": "Ed Nightingale",
+          "description": "Nintendo has used the Xbox adaptive controller as a starting point for its own accessibility controller.\r\n\n\r\nThat's according to ex-Nintendo of America boss Reggie Fils-Aimé, who hopes the company was still developing the platform-agnostic controller.\r\n\n\r\nXbox's controller was used \"as a jumping-off point to create something that would be platform-agnostic and adaptable by any consumer,\" he told Inverse.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-was-working-on-platform-agnostic-accessibility-controller-reggie-fils-aime-says",
+          "publishedOn": "2022-08-17T11:46:36.000Z",
+          "wordCount": 4409,
+          "title": "Nintendo was working on platform-agnostic accessibility controller, Reggie Fils-Aimé says",
+          "imageUrl": "https://assets.reedpopcdn.com/reggie.png/BROK/thumbnail/1600x900/format/jpg/quality/80/reggie.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/leaked-fallout-set-images-give-us-a-closer-look-at-tv-adaptation",
+          "author": "Victoria Kennedy",
+          "description": "A series of new images for the upcoming Fallout TV adaptation from Amazon have made their way online.\r\n\n\r\nThese images give us a good look at some of the show's set pieces, and, dare I say it, it's all looking cautiously optimistic. \r\n\n\r\nThis first set of images was shared by a former Bethesda employee, who goes by LoneVaultWanderer on Twitter. They show the inside of the series' vault, including a nursery, Vault 32 insignia and a Vault Boy poster warning of the outside world.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/leaked-fallout-set-images-give-us-a-closer-look-at-tv-adaptation",
+          "publishedOn": "2022-08-17T11:14:36.000Z",
+          "wordCount": 4676,
+          "title": "Leaked Fallout set images give us a closer look at TV adaptation",
+          "imageUrl": "https://assets.reedpopcdn.com/fallout-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fallout-leak.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fresh-report-alleges-sexist-workplace-at-nintendo-of-america",
+          "author": "Tom Phillips",
+          "description": "A report has detailed instances of sexual harassment at Nintendo of America, and a working environment where some women - particularly contract employees without full-time employment - felt pressured into silence.\r\n\n\r\nThe report, published by Kotaku, builds on allegations reported in the past about a divide between Nintendo's full-time and contracted staff, the latter of whom enjoy fewer perks and lack job security.\r\n\n\r\nNow, women who worked as contract employees have come forward to discuss some of the issues they faced in particular, such as instances of sexual harassment and unequal pay.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fresh-report-alleges-sexist-workplace-at-nintendo-of-america",
+          "publishedOn": "2022-08-17T11:04:20.000Z",
+          "wordCount": 4439,
+          "title": "Fresh report alleges sexist workplace at Nintendo of America",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fans-believe-death-stranding-may-soon-hit-pc-game-pass",
+          "author": "Ed Nightingale",
+          "description": "A change to the PC Game Pass Twitter profile picture has fans believing Death Stranding may be on the way.\r\n\n\r\nThe image, behind the PC Game Pass logo, is of a rugged landscape very similar to the Icelandic-inspired hills of Death Stranding.\r\n\n\r\nWhile Kojima Production's game was published by PlayStation for console release, the PC release was published by 505 Games - the Director's Cut was released earlier this year.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fans-believe-death-stranding-may-soon-hit-pc-game-pass",
+          "publishedOn": "2022-08-17T10:44:06.000Z",
+          "wordCount": 4411,
+          "title": "Fans believe Death Stranding may soon hit PC Game Pass",
+          "imageUrl": "https://assets.reedpopcdn.com/heres-nearly-an-hour-of-death-stranding-so-you-can-try-and-figure-out-whats-going-on-1568280938026.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/heres-nearly-an-hour-of-death-stranding-so-you-can-try-and-figure-out-whats-going-on-1568280938026.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-pre-orders-offer-eight-days-campaign-early-access",
+          "author": "Victoria Kennedy",
+          "description": "The powers that be at Call of Duty have announced that those who digitally preorder Modern Warfare 2 will be able to play through the game's campaign eight days before its official release.\r\n\n\r\nSo, instead of waiting until the 28th October to flex your muscles with Captain Price and co, you will be able to get a headstart on the 20th October instead. To accompany this news, we also got a bite-size trailer for the game's campaign, which you can see below.\r\n\n\r\nMeanwhile, in a new post, Activision states: \"This Campaign features missions in Europe, Asia, and the Americas, and is set to be an incredible experience on numerous levels: offshore sieges with underwater combat, all-out explosive assaults from 30,000 feet above enemy strongholds, and high-stakes, low-profile stealth missions in both plain sight and under the cover of darkness.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-pre-orders-offer-eight-days-campaign-early-access",
+          "publishedOn": "2022-08-17T10:25:13.000Z",
+          "wordCount": 4606,
+          "title": "Call of Duty: Modern Warfare 2 pre-orders offer eight days of campaign early access",
+          "imageUrl": "https://assets.reedpopcdn.com/modernwarfare2_Ja5Jbfk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modernwarfare2_Ja5Jbfk.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-series-struggling-to-adapt-to-industry-trends-says-yoshi-p",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 14 director and producer Naoki Yoshida has stated he believes the game series is \"struggling\" to adapt to industry trends and meet player expectations.\r\n\n\r\nSpeaking to Inverse, Yoshida discussed the future of the series.\r\n\r\n\n\r\n\"In terms of whether Final Fantasy is successfully adapting to industry trends, I believe the series is currently struggling,\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-series-struggling-to-adapt-to-industry-trends-says-yoshi-p",
+          "publishedOn": "2022-08-17T10:22:42.000Z",
+          "wordCount": 4516,
+          "title": "Final Fantasy series \"struggling\" to adapt to industry trends, says Yoshi P",
+          "imageUrl": "https://assets.reedpopcdn.com/Naoki-Yoshida-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/Naoki-Yoshida-(1).png"
+        },
         {
           "id": "https://www.eurogamer.net/shadow-warrior-devs-vampiric-cowboy-shooter-evil-west-delayed-into-november",
           "author": "Matt Wales",
@@ -8285,36 +8285,6 @@
           "wordCount": 4384,
           "title": "Oddworld: Soulstorm jumps onto Nintendo Switch",
           "imageUrl": "https://assets.reedpopcdn.com/oddworld-soulstorm-releases-bug-squashing-update-1617884973233.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/oddworld-soulstorm-releases-bug-squashing-update-1617884973233.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/lego-mighty-bowser-not-big-enough-for-you-heres-a-look-at-nintendos-14ft-version",
-          "author": "Matt Wales",
-          "description": "If you found yourself impressed by Lego's recently unveiled Mighty Bowser set but couldn't quite shake the feeling something was missing - say, around 13ft - then Nintendo has you covered. As part of San Diego Comic-Con, the company has constructed an absolute behemoth Mighty Bowser, measuring over 14ft tall.\r\n\n\r\nThe retail version of Mighty Bowser is, of course, already pretty sizeable, weighing in at 2,807 pieces, making it the largest Lego Mario adult set yet. However, the San Diego version absolutely crushes that like a sudden Thwomp to the bonce, utilising over 663,900 bricks to create its magnificent heft.\r\n\n\r\nAnd if that wasn't enough, the 14-ft tall version is even articulated, able to move its thumbs, shift its arms, swivel its head and eyes indepently, and waggle its eyebrows for good measure. You can see the (slightly intimidating) thing in action below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/lego-mighty-bowser-not-big-enough-for-you-heres-a-look-at-nintendos-14ft-version",
-          "publishedOn": "2022-07-18T22:03:31.000Z",
-          "wordCount": 4533,
-          "title": "Lego Mighty Bowser not big enough for you? Here's a look at Nintendo's 14ft version",
-          "imageUrl": "https://assets.reedpopcdn.com/lego-bowser-comic-con.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-bowser-comic-con.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/now-obsidians-inch-high-garden-adventure-grounded-is-getting-the-tv-treatment",
-          "author": "Matt Wales",
-          "description": "Just as Netflix's live-action Resident Evil series finds itself flung unceremoniously onto the 'disappointment' pile, news arrives of another video game being adapted for television - this time in the form of Obsidian's inch-high garden adventure Grounded.\r\n\n\r\nReleased into early access back in July 2020, Grounded adapts the familiar gathering-and-crafting survival formula into a rollicking family friendly adventure inspired by the likes of Honey, I Shrunk the Kids and A Bug's Life. Here, players are miniaturised and sent on a conspiracy laden escapade around their now-towering backyard, forced to fend off giant insects and other creatures as they explore, scavenge, and plot their escape.\r\n\n\r\nAccording to Deadline, Grounded's new television adaptation will follow the same basic premise, telling the story of four friends who, the summer before high school, find their plans to elevate their social standing upended after discovering shrinking technology that makes them two inches tall. \"Now the four shrunken friends must learn to survive in a towering backyard that's a jungle full of enormous predators,\" explains Deadline, \"and hiding a vast corporate conspiracy threatening their entire town.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/now-obsidians-inch-high-garden-adventure-grounded-is-getting-the-tv-treatment",
-          "publishedOn": "2022-07-18T20:55:09.000Z",
-          "wordCount": 4561,
-          "title": "Obsidian's inch-high garden adventure Grounded is getting the TV treatment",
-          "imageUrl": "https://assets.reedpopcdn.com/yakuza-kiwama-2-and-grounded-lead-a-busy-few-weeks-for-xbox-and-pc-game-pass-1594827306197.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/yakuza-kiwama-2-and-grounded-lead-a-busy-few-weeks-for-xbox-and-pc-game-pass-1594827306197.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fall-guys-gives-players-phallic-freebie-following-recent-cock-up",
-          "author": "Matt Wales",
-          "description": "Fall Guys players have a phallic treat awaiting them in their inventories right now, with developer Mediatonic handing out troublingly elongated Tall Guys to one and all following its recent, widely publicised cock-up.\r\n\n\r\nFall Guys' Tall Guys disemination doesn't, admittedly, appear to be directly related to the recent snafu - which saw players recieving snotty customer service responses after a bug in the game caused them to auto-buy cosmetics - but developer Mediatonic presumably won't say no to the positive publicity right now.\r\n\n\r\nOne look at the image accompanying Mediatonic's promise of a \"BIG surprise\" for all Fall Guys players on Twitter today makes it abundantly clear where the developer's mind was at the time, but the good (?) news is the actual in-game Tall Guys are marginally less phallic than they appear in their promo material - as you can see below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/fall-guys-gives-players-phallic-freebie-following-recent-cock-up",
-          "publishedOn": "2022-07-18T19:00:31.000Z",
-          "wordCount": 4518,
-          "title": "Fall Guys gives players phallic freebie following recent cock-up",
-          "imageUrl": "https://assets.reedpopcdn.com/fall-guys-tall-guy.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/fall-guys-tall-guy.jpeg"
         }
       ]
     },
