@@ -124,16 +124,6 @@
           "wordCount": 234,
           "title": "Physics Cost-Saving Tips",
           "imageUrl": "https://imgs.xkcd.com/comics/physics_cost_saving_tips_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2648/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/chemicals.png\" title=\"It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.\" alt=\"It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.\" />",
-          "link": "https://xkcd.com/2648/",
-          "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Chemicals",
-          "imageUrl": "https://imgs.xkcd.com/comics/chemicals_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/08/usb-rubber-ducky-attack-tool.html",
+          "author": null,
+          "description": "<p>The USB Rubber Ducky is getting <a href=\"https://www.theverge.com/23308394/usb-rubber-ducky-review-hack5-defcon-duckyscript\">better and better</a>.</p>\n<blockquote><p>Already, previous versions of the Rubber Ducky could carry out attacks like <a href=\"https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library/credentials/-RD-Credz-Plz\">creating a fake Windows pop-up box</a> to harvest a user&#8217;s login credentials or <a href=\"https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library/exfiltration/chrome-exfil\">causing Chrome to send all saved passwords to an attacker&#8217;s webserver</a>. But these attacks had to be carefully crafted for specific operating systems and software versions and lacked the flexibility to work across platforms.</p>\n<p>The newest Rubber Ducky aims to overcome these limitations. It ships with a major upgrade to the DuckyScript programming language, which is used to create the commands that the Rubber Ducky will enter into a target machine. While previous versions were mostly limited to writing keystroke sequences, DuckyScript 3.0 is a feature-rich language, letting users write functions, store variables, and use logic flow controls (i.e., if this&#8230; then that)...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/08/usb-rubber-ducky-attack-tool.html",
+          "publishedOn": "2022-08-18T11:45:45.000Z",
+          "wordCount": 824,
+          "title": "USB “Rubber Ducky” Attack Tool",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/08/zoom-exploit-on-macos.html",
           "author": null,
@@ -3831,76 +3831,6 @@
           "wordCount": 2122,
           "title": "Review: Microsoft’s Surface Laptop Go 2 has a lot of problems, but I like it anyway",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/IMG_0249-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1868065",
-          "author": "Beth Mole",
-          "description": "Cases, hospitalizations, ICU admissions, and even deaths are increasing.",
-          "link": "https://arstechnica.com/?p=1868065",
-          "publishedOn": "2022-07-19T22:11:08.000Z",
-          "wordCount": 1563,
-          "title": "BA.5 skyrockets in US, now accounting for 78% of cases",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1392398100-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867863",
-          "author": "Sam Machkovech",
-          "description": "June's Quake 4 giveaway followed by a slew of Heretic, Hexen ports on Windows 10.",
-          "link": "https://arstechnica.com/?p=1867863",
-          "publishedOn": "2022-07-19T21:22:35.000Z",
-          "wordCount": 2015,
-          "title": "As Microsoft-Activision merger nears, a classic FPS license reappears—for free",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/hexen-heretic-listing-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867900",
-          "author": "Andrew Cunningham",
-          "description": "Set includes 2,532 pieces and flips open to reveal a 1980s living room.",
-          "link": "https://arstechnica.com/?p=1867900",
-          "publishedOn": "2022-07-19T20:23:41.000Z",
-          "wordCount": 1478,
-          "title": "Recapture the fun of the 1980s game crash with Lego’s $240 Atari 2600 replica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/10306_Lifestyle_19-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867912",
-          "author": "Dan Goodin",
-          "description": "China-based Micodus has yet to patch critical vulnerabilities in MV720 GPS tracker.",
-          "link": "https://arstechnica.com/?p=1867912",
-          "publishedOn": "2022-07-19T20:13:27.000Z",
-          "wordCount": 1741,
-          "title": "Critical flaws in GPS tracker enable “disastrous” and “life-threatening” hacks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/micodus-mv720-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867889",
-          "author": "Samuel Axon",
-          "description": "The redesign hits Android and streaming devices first, web and iOS later.",
-          "link": "https://arstechnica.com/?p=1867889",
-          "publishedOn": "2022-07-19T20:01:55.000Z",
-          "wordCount": 1487,
-          "title": "Amazon Prime Video finally gets a desperately needed redesign",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Amazon-Prime-Video-redesign-2022-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867886",
-          "author": "Ashley Belanger",
-          "description": "Documents show Homeland Security is tracking way more phone data than predicted.",
-          "link": "https://arstechnica.com/?p=1867886",
-          "publishedOn": "2022-07-19T19:56:09.000Z",
-          "wordCount": 1571,
-          "title": "DHS bought “shocking amount” of warrantless phone-tracking data, ACLU says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-511843190-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867614",
-          "author": "Jennifer Ouellette",
-          "description": "It's not just van der Waals forces—setae surface chemistry also plays a vital role.",
-          "link": "https://arstechnica.com/?p=1867614",
-          "publishedOn": "2022-07-19T19:21:01.000Z",
-          "wordCount": 2025,
-          "title": "Scientists gain fresh insight into the secret of how gecko feet stay sticky",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/gecko2B-760x380.jpg"
         }
       ]
     },
@@ -4026,6 +3956,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/embracer-confirms-aaa-project-has-switched-studios-following-report-of-kotor-trouble",
+          "author": "Victoria Kennedy",
+          "description": "Earlier in the year, a report stated the Star Wars Knights of the Old Republic remake was \"in serious trouble\". So much trouble, in fact, the remake was said to be \"delayed indefinitely\".\nFollowing on from this, Embracer - parent company of developer Aspyr - has revealed that one of its AAA projects has transitioned to another studio within the group. \nWhile which project this is was not named in the company's Q1 interim report, informed speculation points to this being the troubled KOTOR remake.\n Read more",
+          "link": "https://www.eurogamer.net/embracer-confirms-aaa-project-has-switched-studios-following-report-of-kotor-trouble",
+          "publishedOn": "2022-08-18T11:49:20.000Z",
+          "wordCount": 4759,
+          "title": "Embracer confirms AAA project has switched studios, following report of KOTOR trouble",
+          "imageUrl": "https://assets.reedpopcdn.com/kotor_kQM9BLI.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kotor_kQM9BLI.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/just-cause-developer-spent-two-years-on-cancelled-iron-man-game",
+          "author": "Ishraq Subhan",
+          "description": "Just Cause developer Avalanche Studios was working on an Iron Man game for two years before the project was cancelled. \r\n\n\r\nIn an interview with MinnMax, Avalanche Studios co-founder Christofer Sundberg said that the developer was approached by Disney and Marvel in 2012 and began work on the game that year.\r\n\n\r\nHowever, things quickly went awry. According to Sundberg, Disney had shortened the development time by one year, which increased the development budget since the studio would need to hire 70-80 people to finish the game in time. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/just-cause-developer-spent-two-years-on-cancelled-iron-man-game",
+          "publishedOn": "2022-08-18T11:48:00.000Z",
+          "wordCount": 4576,
+          "title": "Just Cause developer spent two years on cancelled Iron Man game",
+          "imageUrl": "https://assets.reedpopcdn.com/iron-man_aJ1y3LP.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/iron-man_aJ1y3LP.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/anti-pride-spider-man-remastered-mod-removed",
+          "author": "Liv Ngan",
+          "description": "A mod which replaced the Pride flags with USA flags in Spider-Man Remastered has been removed from mod websites.\r\n\n\r\nThe modding community for Spider-Man Remastered has been pretty active since the game's release on PC last week, creating mods to change the pigeons into rats and all sorts of other fun character switches. However, one mod which caught attention has been more divisive.\r\n\n\r\nThe mod in question replaced any Pride flags that appeared in the game with the US flag. Uploaded on 15th August to Nexus Mods, it was removed by site staff on 17th August. A similar mod appeared on ModDB, which has also been removed.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/anti-pride-spider-man-remastered-mod-removed",
+          "publishedOn": "2022-08-18T11:31:53.000Z",
+          "wordCount": 4672,
+          "title": "Anti-Pride Spider-Man Remastered mod removed",
+          "imageUrl": "https://assets.reedpopcdn.com/spiderman-steam.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spiderman-steam.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/activisions-crash-bandicoot-developer-teasing-new-project",
+          "author": "Tom Phillips",
+          "description": "Toys for Bob, the Activision-owned development studio behind its Skylanders series, is teasing a new project. \r\n\n\r\nIn recent years, Toys for Bob has found fresh fame developing the Crash Bandicoot N.Sane Trilogy and Spyro Reignited Trilogy, before tackling the well-received Crash Bandicoot 4: It's About Time. \r\n\n\r\nSince then - like virtually every other Activision studio - Toys for Bob has been assisting on Call of Duty development, specifically on Warzone.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/activisions-crash-bandicoot-developer-teasing-new-project",
+          "publishedOn": "2022-08-18T11:23:11.000Z",
+          "wordCount": 4554,
+          "title": "Activision's Crash Bandicoot developer teasing new project",
+          "imageUrl": "https://assets.reedpopcdn.com/crash-brawler.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crash-brawler.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dead-island-2-story-details-release-date-and-screenshots-leak",
+          "author": "Victoria Kennedy",
+          "description": "A set of images from Dead Island 2, and the game's apparent release date, have leaked online.\r\n\n\r\nA new listing (which has since seen key details removed) was spotted on Amazon last night, with the release date stated to be 3rd February, 2023.\r\n\n\r\nAs shared by Wario64, the listing also included story details about the upcoming game. It will reportedly take place in Los Angeles, \"from the verdant suburbia of Beverly Hills to the quirky promenade of Venice Beach\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-island-2-story-details-release-date-and-screenshots-leak",
+          "publishedOn": "2022-08-18T10:04:49.000Z",
+          "wordCount": 4496,
+          "title": "Dead Island 2 story details, release date and screenshots leak",
+          "imageUrl": "https://assets.reedpopcdn.com/FaZzp8aUYAAGvVa.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FaZzp8aUYAAGvVa.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/embracer-group-acquiring-rights-to-lord-of-the-rings-and-hobbit-ip-plus-more",
+          "author": "Victoria Kennedy",
+          "description": "Embracer Group is to buy Middle-earth Enterprises, which will give the Swedish conglomerate the rights to JRR Tolkien's The Lord of the Rings and The Hobbit.\r\n\n\r\nIn a press release, Embracer discussed its process of buying Middle-earth Enterprises, although it did not disclose the sum of this deal, citing \"commercial reasons\" for this decision.\r\n\n\r\nThis deal will mean that Embracer will own the rights to motion pictures, video games, board games, merchandising, theme parks and stage productions relating to Tolkien's works.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/embracer-group-acquiring-rights-to-lord-of-the-rings-and-hobbit-ip-plus-more",
+          "publishedOn": "2022-08-18T08:30:43.000Z",
+          "wordCount": 4625,
+          "title": "Embracer Group acquiring rights to Lord of the Rings and Hobbit IP, plus more",
+          "imageUrl": "https://assets.reedpopcdn.com/lotr_aAkmB6y.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lotr_aAkmB6y.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/dying-light-2-teases-first-story-dlc-bloody-ties-in-new-trailer",
           "author": "Matt Wales",
@@ -8265,46 +8255,6 @@
           "wordCount": 4642,
           "title": "Stray gets off to a pawsome start on Steam",
           "imageUrl": "https://assets.reedpopcdn.com/stray-header_BOF1FcC.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stray-header_BOF1FcC.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-infinite-head-of-design-jerry-hook-leading-new-netease-studio-jar-of-sparks",
-          "author": "Matt Wales",
-          "description": "Xbox veteran and Halo Infinite head of design Jerry Hook has unveiled his new \"AAA\" studio Jar of Sparks, a first-party developer for Chinese publisher NetEase that will focus on creating the \"next generation of narrative-driven action games\".\r\n\n\r\nHook, who announced his departure from 343 Industries and Microsoft back in May, has a long and notable career in the games industry, having joined the Xbox Live team in 2003. He would later take on an executive producer role at Microsoft after a brief sojourn at Bungie, gaining credits on numerous 343-Industries-developed titles including Halo 4 and Halo 5: Guardians.\r\n\n\r\nHook's new studio, Jar of Sparks, is based in Seattle and, according to NetEase's press release announcing the formation of the company, already boasts a \"team of industry veterans who have worked on some of the biggest franchises in video game history\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/halo-infinite-head-of-design-jerry-hook-leading-new-netease-studio-jar-of-sparks",
-          "publishedOn": "2022-07-19T23:16:19.000Z",
-          "wordCount": 4607,
-          "title": "Halo Infinite head of design Jerry Hook leading new NetEase studio Jar of Sparks",
-          "imageUrl": "https://assets.reedpopcdn.com/jerry-hook.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jerry-hook.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/development-on-vampire-the-masquerade-bloodlines-2-continues-but-it-wont-be-at-this-years-pdxcon",
-          "author": "Matt Wales",
-          "description": "It's been a long and eventful road for Vampire: The Masquerade - Bloodlines 2, but despite its troubled development, which has included the removal of its original developer Hardsuit Labs, Paradox Interactive has popped up to assure fans that work continues on the project, although it won't be shown at the publisher's upcoming PDXCon.\r\n\n\r\nVampire: The Masquerade - Bloodlines 2, a sequel to developer Troika Games' much-loved 2004 cult-classic RPG, was initially announced for PC and consoles back in 2019, when it was expected to release the following year. Unfortunately, it didn't take long for the project to run into trouble and, later in 2019, Hardsuit Labs announced the first of several delays.\r\n\n\r\nBy the end of 2020, lead narrative designer Brian Mitsoda and creative director Ka'ai Cluney had been fired from their roles, senior narrative designer Cara Ellison had quit the project, and Paradox had revised Bloodlines 2's release date once more, pushing it into 2021. Then, things went from bad to worse; as 2021 got underway Paradox announced it had removed Hardsuit from the project, delayed the game indefinitely, and cancelled new pre-orders. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/development-on-vampire-the-masquerade-bloodlines-2-continues-but-it-wont-be-at-this-years-pdxcon",
-          "publishedOn": "2022-07-19T19:56:16.000Z",
-          "wordCount": 4808,
-          "title": "Development on Vampire: The Masquerade - Bloodlines 2 continues but it won't be at this year's PDXCon",
-          "imageUrl": "https://assets.reedpopcdn.com/vampire-bloodlines-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/vampire-bloodlines-2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/take-two-says-it-acknowledges-us-supreme-court-decision-on-roe-v-wade-is-significant-event",
-          "author": "Matt Wales",
-          "description": "Three weeks after the US Supreme Court overturned key legislation granting individuals the constitutional right to choose an abortion, Take-Two Interactive - which publishes the likes of Grand Theft Auto, Borderlands, BioShock, Mafia, and XCOM through its various subsidiaries - has issued a statement saying it \"acknowledges\" the decision \"is a significant event\".\r\n\n\r\nFollowing the Supreme Court's overturning of Roe v Wade at the end of June, publishers and developers around the world - including Microsoft, Ubisoft, EA, Bungie, Naughty Dog, Double Fine, and Bethesda - released statements in support of reproductive rights. Take-Two was one of the few major publishers, alongside Activision Blizzard, not to respond publicly to the news.\r\n\n\r\nThree weeks on, though, Take-Two has now released its own statement across a limited number of social media channels, including its own LinkedIn page and subsidiary Zynga's Twitter feed.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/take-two-says-it-acknowledges-us-supreme-court-decision-on-roe-v-wade-is-significant-event",
-          "publishedOn": "2022-07-19T19:05:40.000Z",
-          "wordCount": 4340,
-          "title": "Take-Two says it \"acknowledges\" US Supreme Court decision on Roe v. Wade is \"significant event\"",
-          "imageUrl": "https://assets.reedpopcdn.com/take-two-logo_KtNEo67.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/take-two-logo_KtNEo67.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/twitch-testing-integrated-charity-fundraising-feature-2",
-          "author": "Ed Nightingale",
-          "description": "Twitch is testing a new built-in charity fundraising tool to streamline charity streams on the platform.\r\n\n\r\nTwitch Charity will allow streamers to select a charity, set a fundraising goal and collect donations from subs and Bits all from within the creator dashboard. Twitch does not take a cut of donations or receive any tax incentives.\r\n\n\r\nThe US-only closed beta is available now for selected streamers and for a limited number of charities, with the aim to roll it out globally across the platform soon.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/twitch-testing-integrated-charity-fundraising-feature-2",
-          "publishedOn": "2022-07-19T18:30:00.000Z",
-          "wordCount": 4457,
-          "title": "Twitch testing integrated charity fundraising feature",
-          "imageUrl": "https://assets.reedpopcdn.com/twitch-blog-header-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-blog-header-(1).png"
         }
       ]
     },
