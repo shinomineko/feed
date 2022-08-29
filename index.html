@@ -83,6 +83,57 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-29 datetime="2022-08-29T00:00:00.000Z">2022-08-29</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-29 datetime="2022-08-29T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.25: CSI Inline Volumes have graduated to GA</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Jonathan Dobson (Red Hat)
+CSI Inline Volumes were introduced as an alpha feature in Kubernetes 1.15 and have been beta since 1.16. We are happy to announce that this feature has graduated to General Availability (GA) status in Kubernetes 1.25.
+CSI Inline Volumes are similar to other ephemeral volume types, such as configMap, downwardAPI and secret. The important difference is that the storage is provided by a CSI driver, which allows the use of ephemeral storage provided by third-party vendors. The volume is defined as part of the pod spec and follows the lifecycle of the pod, meaning the volume is created once the pod is scheduled and destroyed when the pod is destroyed.
+What&#x27;s new in 1.25?
+There are a couple of new bug fixes related to this feature in 1.25, and the CSIInlineVolum…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-28 datetime="2022-08-28T16:19:47.000Z">2022-08-28</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-28 datetime="2022-08-28T16:19:47.000Z"></time>
           </button>
@@ -6606,8 +6657,8 @@ A su…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/2944075582">
-        <time id="build-timestamp" datetime="2022-08-28T18:27:29.291Z">2022-08-28T18:27:29.291Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/2945141424">
+        <time id="build-timestamp" datetime="2022-08-29T00:32:53.548Z">2022-08-29T00:32:53.548Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

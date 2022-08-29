@@ -616,6 +616,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/",
+          "author": null,
+          "description": "Author: Jonathan Dobson (Red Hat)\nCSI Inline Volumes were introduced as an alpha feature in Kubernetes 1.15 and have been beta since 1.16. We are happy to announce that this feature has graduated to General Availability (GA) status in Kubernetes 1.25.\nCSI Inline Volumes are similar to other ephemeral volume types, such as configMap, downwardAPI and secret. The important difference is that the storage is provided by a CSI driver, which allows the use of ephemeral storage provided by third-party vendors. The volume is defined as part of the pod spec and follows the lifecycle of the pod, meaning the volume is created once the pod is scheduled and destroyed when the pod is destroyed.\nWhat's new in 1.25?\nThere are a couple of new bug fixes related to this feature in 1.25, and the CSIInlineVolum…",
+          "link": "https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/",
+          "publishedOn": "2022-08-29T00:00:00.000Z",
+          "wordCount": 3498,
+          "title": "Blog: Kubernetes 1.25: CSI Inline Volumes have graduated to GA",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/08/25/pod-security-admission-stable/",
           "author": null,
           "description": "Authors: Tim Allclair (Google), Sam Stoelinga (Google)\nThe release of Kubernetes v1.25 marks a major milestone for Kubernetes out-of-the-box pod security\ncontrols: Pod Security admission (PSA) graduated to stable, and Pod Security Policy (PSP) has been\nremoved.\nPSP was deprecated in Kubernetes v1.21,\nand no longer functions in Kubernetes v1.25 and later.\nThe Pod Security admission controller replaces PodSecurityPolicy, making it easier to enforce predefined\nPod Security Standards by\nsimply adding a label to a namespace. The Pod Security Standards are maintained by the K8s\ncommunity, which means you automatically get updated security policies whenever new\nsecurity-impacting Kubernetes features are introduced.\nWhat’s new since Beta?\nPod Security Admission hasn’t changed much since the Beta i…",

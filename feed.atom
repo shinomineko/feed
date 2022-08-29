@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T18:27:29.336Z</updated>
+    <updated>2022-08-29T00:32:53.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.25: CSI Inline Volumes have graduated to GA]]></title>
+        <id>https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/</id>
+        <link href="https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/"/>
+        <updated>2022-08-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Jonathan Dobson (Red Hat)
+CSI Inline Volumes were introduced as an alpha feature in Kubernetes 1.15 and have been beta since 1.16. We are happy to announce that this feature has graduated to General Availability (GA) status in Kubernetes 1.25.
+CSI Inline Volumes are similar to other ephemeral volume types, such as configMap, downwardAPI and secret. The important difference is that the storage is provided by a CSI driver, which allows the use of ephemeral storage provided by third-party vendors. The volume is defined as part of the pod spec and follows the lifecycle of the pod, meaning the volume is created once the pod is scheduled and destroyed when the pod is destroyed.
+What's new in 1.25?
+There are a couple of new bug fixes related to this feature in 1.25, and the CSIInlineVolum…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valve's testing an all-new Steam Mobile app]]></title>
         <id>https://www.eurogamer.net/valves-testing-an-all-new-steam-mobile-app</id>
