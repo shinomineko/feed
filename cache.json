@@ -253,6 +253,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1877105",
+          "author": "Beth Mole",
+          "description": "Officials are still determining the exact cause of death, which occurred August 28.",
+          "link": "https://arstechnica.com/?p=1877105",
+          "publishedOn": "2022-08-30T21:03:26.000Z",
+          "wordCount": 1467,
+          "title": "First US death linked to monkeypox reported in immunocompromised adult in Texas",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1415047428-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1877033",
+          "author": "Andrew Cunningham",
+          "description": "Logitech and Tencent have announced plans to make a streaming-focused portable.",
+          "link": "https://arstechnica.com/?p=1877033",
+          "publishedOn": "2022-08-30T19:52:46.000Z",
+          "wordCount": 1552,
+          "title": "Leaked Switch-esque portable from Logitech could be great for streaming, emulation",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/logitechggaming.0-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1877061",
+          "author": "Kyle Orland",
+          "description": "Subscribers got over 200 Xbox 360 games; previously claimed titles will still work.",
+          "link": "https://arstechnica.com/?p=1877061",
+          "publishedOn": "2022-08-30T19:44:33.000Z",
+          "wordCount": 1515,
+          "title": "Portal 2 ends 9 years of Xbox 360 “Games with Gold” freebies",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/4YPvYtD2rZqGcEPSvbZtLh-1200-80-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876703",
+          "author": "Jennifer Ouellette",
+          "description": "Someday, wood furniture could be shipped flat and then dried to form a final shape.",
+          "link": "https://arstechnica.com/?p=1876703",
+          "publishedOn": "2022-08-30T19:36:56.000Z",
+          "wordCount": 1591,
+          "title": "These self-morphing 3D wood shapes could be future of wood manufacturing",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/chair1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876978",
+          "author": "Dan Goodin",
+          "description": "Two of the simplest forms of evasion are surprisingly effective against EDRs.",
+          "link": "https://arstechnica.com/?p=1876978",
+          "publishedOn": "2022-08-30T19:04:28.000Z",
+          "wordCount": 1916,
+          "title": "Organizations are spending billions on malware defense that’s easy to bypass",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/malware-detection-bypass-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876968",
+          "author": "Scott K. Johnson",
+          "description": "How long that takes to play out is unclear.",
+          "link": "https://arstechnica.com/?p=1876968",
+          "publishedOn": "2022-08-30T18:54:26.000Z",
+          "wordCount": 1827,
+          "title": "Greenland may have already committed us to almost a foot of sea level rise",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/greenland_helheim_kanger_NASA_icebridge-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876963",
+          "author": "Jon Brodkin",
+          "description": "Tesla ordered to scrap shirt ban and notify workers that it violated US labor law.",
+          "link": "https://arstechnica.com/?p=1876963",
+          "publishedOn": "2022-08-30T18:04:23.000Z",
+          "wordCount": 1677,
+          "title": "Tesla’s ban on pro-union shirts is illegal and must be rescinded, NLRB rules",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/tesla-fremont-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1876955",
           "author": "Ashley Belanger",
           "description": "Researchers listed reasons why Twitter fails to moderate self-harm content.",
@@ -876,6 +946,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/08/31/cgroupv2-ga-1-25/",
+          "author": null,
+          "description": "Authors:: David Porter (Google), Mrunal Patel (Red Hat)\nKubernetes 1.25 brings cgroup v2 to GA (general availability), letting the\nkubelet use the latest container resource\nmanagement capabilities.\nWhat are cgroups?\nEffective resource management is a\ncritical aspect of Kubernetes. This involves managing the finite resources in\nyour nodes, such as CPU, memory, and storage.\ncgroups are a Linux kernel capability that establish resource management\nfunctionality like limiting CPU usage or setting memory limits for running\nprocesses.\nWhen you use the resource management capabilities in Kubernetes, such as configuring\nrequests and limits for Pods and containers,\nKubernetes uses cgroups to enforce your resource requests and limits.\nThe Linux kernel offers two versions of cgroups: cgroup v1 and cgr…",
+          "link": "https://kubernetes.io/blog/2022/08/31/cgroupv2-ga-1-25/",
+          "publishedOn": "2022-08-31T00:00:00.000Z",
+          "wordCount": 3766,
+          "title": "Blog: Kubernetes 1.25: cgroup v2 graduates to GA",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/08/29/csi-inline-volumes-ga/",
           "author": null,
           "description": "Author: Jonathan Dobson (Red Hat)\nCSI Inline Volumes were introduced as an alpha feature in Kubernetes 1.15 and have been beta since 1.16. We are happy to announce that this feature has graduated to General Availability (GA) status in Kubernetes 1.25.\nCSI Inline Volumes are similar to other ephemeral volume types, such as configMap, downwardAPI and secret. The important difference is that the storage is provided by a CSI driver, which allows the use of ephemeral storage provided by third-party vendors. The volume is defined as part of the pod spec and follows the lifecycle of the pod, meaning the volume is created once the pod is scheduled and destroyed when the pod is destroyed.\nWhat's new in 1.25?\nThere are a couple of new bug fixes related to this feature in 1.25, and the CSIInlineVolum…",
@@ -1046,6 +1126,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-sims-4s-latest-kit-dlcs-bring-kids-fashion-and-desert-inspired-furnishings",
+          "author": "Matt Wales",
+          "description": "Just over a month after the launch of The Sims 4's High School Years expansion, EA has announced another round of bite-sized Kit DLC releases, this time with a focus on children's wear and desert-inspired furnishings.\r\n\n\r\nBoth Kits launch next month, starting with The Sims 4 First Fits Kit on 1st September. This one's all about expanded child Sims' clothing options with a bunch of 'fashionable and cute' outfits, some of which you can see in the header image above. \r\n\n\r\n\"Dress child Sims in trendy looks that are perfect for birthday parties, the classroom or just hanging out with friends,\" explains EA. \"Start your child Sims on a lifetime of trend-setting fashion and allow them to express themselves with the kinds of leopard-print jackets, patterned leggings and colorful shades they’ll want to wear when they grow up.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-sims-4s-latest-kit-dlcs-bring-kids-fashion-and-desert-inspired-furnishings",
+          "publishedOn": "2022-08-30T22:57:49.000Z",
+          "wordCount": 4548,
+          "title": "The Sims 4's latest Kit DLCs bring kids' fashion and desert-inspired furnishings",
+          "imageUrl": "https://assets.reedpopcdn.com/the-sims-4-first-fits-kit.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sims-4-first-fits-kit.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/netflixs-cyberpunk-2077-anime-edgerunners-arrives-13th-september",
+          "author": "Matt Wales",
+          "description": "Netflix's animated Cyberpunk 2077 series, Edgerunners, is right around the corner, with the streaming service having now slapped it with a 13th September release date and celebrated the announcement with the launch of a \"NSFW\" trailer.\r\n\n\r\nAnnounced back in June 2020, Cyberpunk: Edgerunners is a 10-episode collaboration between Cyberpunk 2077 developer CD Projekt and Japanese animation studio Trigger (Little Witch Academia, Kill la Kill) that tells the story of a street kid trying to survive in the technology and body modification obsessed Night City.\r\n\n\r\n\"Having everything to lose,\" explains Netflix, \"he stays alive by becoming an Edgerunner - a mercenary outlaw also known as a cyberpunk.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflixs-cyberpunk-2077-anime-edgerunners-arrives-13th-september",
+          "publishedOn": "2022-08-30T20:10:52.000Z",
+          "wordCount": 4463,
+          "title": "Netflix's Cyberpunk 2077 anime Edgerunners arrives 13th September",
+          "imageUrl": "https://assets.reedpopcdn.com/cyberpunk-edgerunners-still_wAEBve8.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-edgerunners-still_wAEBve8.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/shovel-knight-dig-taking-players-down-an-down-an-ever-changing-chasm-of-mystery-from-september",
+          "author": "Matt Wales",
+          "description": "Spade-wielding platform hero Shovel Knight will be embarking on a brand-new adventure on 23rd September, when Shovel Knight Dig launches for Steam, Switch, and Apple Arcade.\r\n\n\r\nShovel Knight Dig, a collaboration between Yacht Club Games and UK studio Nitrome, feels like it's been a long time coming, having first been revealed all the way back in 2019 - when Yacht Club explained it would take players deep into an \"ever-changing chasm of mystery\".\r\n\n\r\nMore specifically, it'll pit Shovel Knight against Drill Knight and his digging crew in a quest that'll see adventurers jumping, slashing, and tunnelling their way downward through stages procedurally stitched together from \"thousands\" of level chunks in a bid to reach the bottom.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/shovel-knight-dig-taking-players-down-an-down-an-ever-changing-chasm-of-mystery-from-september",
+          "publishedOn": "2022-08-30T19:35:57.000Z",
+          "wordCount": 4430,
+          "title": "Shovel Knight Dig's \"ever-changing chasm of mystery\" opens in September",
+          "imageUrl": "https://assets.reedpopcdn.com/shovel-knight-dig.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/shovel-knight-dig.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/ubisofts-guitar-learning-subscription-service-rocksmith-arrives-next-week-on-pc",
           "author": "Matt Wales",
