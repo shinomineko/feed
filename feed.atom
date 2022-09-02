@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-02T00:31:09.740Z</updated>
+    <updated>2022-09-02T06:30:57.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Introducing COSI: Object Storage Management using Kubernetes APIs]]></title>
+        <id>https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/</id>
+        <link href="https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/"/>
+        <updated>2022-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Sidhartha Mani (Minio, Inc)
+This article introduces the Container Object Storage Interface (COSI), a standard for provisioning and consuming object storage in Kubernetes. It is an alpha feature in Kubernetes v1.25.
+File and block storage are treated as first class citizens in the Kubernetes ecosystem via Container Storage Interface (CSI). Workloads using CSI volumes enjoy the benefits of portability across vendors and across Kubernetes clusters without the need to change application manifests. An equivalent standard does not exist for Object storage.
+Object storage has been rising in popularity in recent years as an alternative form of storage to filesystems and block devices. Object storage paradigm promotes disaggregation of compute and storage. This is done by making data avail…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crusader Kings 3's Friends & Foes DLC adding over 100 new relationship-themed events next week]]></title>
         <id>https://www.eurogamer.net/crusader-kings-3s-friends-foes-dlc-adding-over-100-new-relationship-themed-events-next-week</id>

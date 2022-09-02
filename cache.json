@@ -1186,6 +1186,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/",
+          "author": null,
+          "description": "Authors: Sidhartha Mani (Minio, Inc)\nThis article introduces the Container Object Storage Interface (COSI), a standard for provisioning and consuming object storage in Kubernetes. It is an alpha feature in Kubernetes v1.25.\nFile and block storage are treated as first class citizens in the Kubernetes ecosystem via Container Storage Interface (CSI). Workloads using CSI volumes enjoy the benefits of portability across vendors and across Kubernetes clusters without the need to change application manifests. An equivalent standard does not exist for Object storage.\nObject storage has been rising in popularity in recent years as an alternative form of storage to filesystems and block devices. Object storage paradigm promotes disaggregation of compute and storage. This is done by making data avail…",
+          "link": "https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/",
+          "publishedOn": "2022-09-02T00:00:00.000Z",
+          "wordCount": 3779,
+          "title": "Blog: Introducing COSI: Object Storage Management using Kubernetes APIs",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/08/31/cgroupv2-ga-1-25/",
           "author": null,
           "description": "Authors:: David Porter (Google), Mrunal Patel (Red Hat)\nKubernetes 1.25 brings cgroup v2 to GA (general availability), letting the\nkubelet use the latest container resource\nmanagement capabilities.\nWhat are cgroups?\nEffective resource management is a\ncritical aspect of Kubernetes. This involves managing the finite resources in\nyour nodes, such as CPU, memory, and storage.\ncgroups are a Linux kernel capability that establish resource management\nfunctionality like limiting CPU usage or setting memory limits for running\nprocesses.\nWhen you use the resource management capabilities in Kubernetes, such as configuring\nrequests and limits for Pods and containers,\nKubernetes uses cgroups to enforce your resource requests and limits.\nThe Linux kernel offers two versions of cgroups: cgroup v1 and cgr…",
