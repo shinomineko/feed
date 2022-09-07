@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-06T18:27:47.090Z</updated>
+    <updated>2022-09-07T00:32:33.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes’s IPTables Chains Are Not API]]></title>
+        <id>https://kubernetes.io/blog/2022/09/07/iptables-chains-not-api/</id>
+        <link href="https://kubernetes.io/blog/2022/09/07/iptables-chains-not-api/"/>
+        <updated>2022-09-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Dan Winship (Red Hat)
+Some Kubernetes components (such as kubelet and kube-proxy) create
+iptables chains and rules as part of their operation. These chains
+were never intended to be part of any Kubernetes API/ABI guarantees,
+but some external components nonetheless make use of some of them (in
+particular, using KUBE-MARK-MASQ to mark packets as needing to be
+masqueraded).
+As a part of the v1.25 release, SIG Network made this declaration
+explicit: that (with one exception), the iptables chains that
+Kubernetes creates are intended only for Kubernetes’s own internal
+use, and third-party components should not assume that Kubernetes will
+create any specific iptables chains, or that those chains will contain
+any specific rules if they do exist.
+Then, in future releases, as part of KEP-31…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a thriving home on the back of a beast when The Wandering Village arrives next week]]></title>
+        <id>https://www.eurogamer.net/build-a-thriving-home-on-the-back-of-a-beast-when-the-wandering-village-arrives-next-week</id>
+        <link href="https://www.eurogamer.net/build-a-thriving-home-on-the-back-of-a-beast-when-the-wandering-village-arrives-next-week"/>
+        <updated>2022-09-06T23:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Stray Fawn's The Wandering Village - a city building sim set on the back of a giant, roaming creature - will be launching into Steam early access next Wednesday, 14th September.
+
+
+Announced last August, The Wandering Village tasks players with constructing a safe haven for a group of survivors in a dangerous, post-apocalyptic world. Its city building aspects might be familiar, but those are combined with resource management, rogue-like elements, and survival, all connected to the ever-moving creature, known as Onbu, the survivors now call home.
+
+
+"Forging a relationship between the villagers and Onbu might be challenging at times, as their interests often don’t align," Stray Fawn explains. "As a living creature, its unique body poses its own challenges for your village design. There's every chance a spike may have grown where villagers intended to place their kitchen, while a failed harvest may cause desperation and tempt villagers to draw blood from the creature for food."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerWash Simulator celebrates 3m players, opens nominations for next filthy addition]]></title>
+        <id>https://www.eurogamer.net/powerwash-simulator-celebrates-3m-players-opens-nominations-for-next-filthy-addition</id>
+        <link href="https://www.eurogamer.net/powerwash-simulator-celebrates-3m-players-opens-nominations-for-next-filthy-addition"/>
+        <updated>2022-09-06T22:14:53.000Z</updated>
+        <summary type="html"><![CDATA[PowerWash Simulator - developer FuturLab's wildly compelling dirt-busting squirt 'em up - is currently celebrating 3m million players having hoisted nozzles since the game's launch on Xbox and PC back in May. And that milestone coincides with the opening of nominations for the next filth-encrusted edifice to be added to the game.
+
+
+There's not much more to say on the 3m players front, which Futurlab announced on Twitter earlier today, other than to say its success is thoroughly well-deserved. Eurgamer's Robert Purchese - who wrote about the serene pleasures of PowerWash Simulator's sedate busywork in July - is far from the only member of the editorial team to have fallen in love with its daffy charms and compulsive rhythms.
+
+
+And if, like me, you've reached the end of PowerWash Simulator's gloriously ludicrous campaign and urgently require more things to blast back into the realms of cleanliness, the good news is FuturLab is currently working on new additions - with the developer currently taking suggestions for what should come next.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we learned driving VW’s new electric ID Buzz]]></title>
+        <id>https://arstechnica.com/?p=1878310</id>
+        <link href="https://arstechnica.com/?p=1878310"/>
+        <updated>2022-09-06T22:01:52.000Z</updated>
+        <summary type="html"><![CDATA[We've tested a European-spec Buzz, but the US models have to wait until 2024.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’ve finally seen Return To Monkey Island in action: looks great, full of laughs]]></title>
+        <id>https://arstechnica.com/?p=1878461</id>
+        <link href="https://arstechnica.com/?p=1878461"/>
+        <updated>2022-09-06T21:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Grossman, Gilbert talk to us while playing final build, tease a 32-year-old secret.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini-review: Dell’s XPS 15 9520 is a low-key improvement to an established design]]></title>
+        <id>https://arstechnica.com/?p=1875958</id>
+        <link href="https://arstechnica.com/?p=1875958"/>
+        <updated>2022-09-06T21:05:04.000Z</updated>
+        <summary type="html"><![CDATA[If previous XPS 15 models have turned you off, this one won't change your mind.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 5 and PS4 lead engineer Masayasu Ito is retiring from Sony]]></title>
+        <id>https://www.eurogamer.net/playstation-5-and-ps4-hardware-designer-masayasu-ito-is-retiring-from-sony</id>
+        <link href="https://www.eurogamer.net/playstation-5-and-ps4-hardware-designer-masayasu-ito-is-retiring-from-sony"/>
+        <updated>2022-09-06T20:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Masayasu Ito - Sony Interactive Entertainment's executive vice president of hardware engineering and operation, as well as lead engineer on both the PlayStation 4 and PlayStation 5 - is retiring on 1st October after 36 years with the company.
+
+
+Ito first joined Sony in 1986, where he initially worked on in-car audio equipment before joining the PlayStation division in 2000 to lead hardware engineering. Here, Ito oversaw the development of numerous key PlayStation products, including the PS3, the hugely successful PS4 - which went on to sell over 117 million units - and, starting in 2015, the PlayStation 5.
+
+
+Alongside Sony's flagship consoles, Ito also had a hand in many other notable PlayStation hardware releases, having created of the likes of the PSP, PS4 Pro, and PSVR headset.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 8K video footage showcases Titanic shipwreck in stunning detail]]></title>
+        <id>https://arstechnica.com/?p=1878462</id>
+        <link href="https://arstechnica.com/?p=1878462"/>
+        <updated>2022-09-06T20:22:37.000Z</updated>
+        <summary type="html"><![CDATA[OceanGate Expeditions shot the footage earlier this year with a manned submersible.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaked “shopping list” reveals Russia’s most “desperately” needed war tech]]></title>
+        <id>https://arstechnica.com/?p=1878539</id>
+        <link href="https://arstechnica.com/?p=1878539"/>
+        <updated>2022-09-06T20:12:01.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine says Russia's military arsenal has dwindled by nearly half.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC has obtained detailed broadband maps from ISPs for the first time ever]]></title>
+        <id>https://arstechnica.com/?p=1878520</id>
+        <link href="https://arstechnica.com/?p=1878520"/>
+        <updated>2022-09-06T19:39:03.000Z</updated>
+        <summary type="html"><![CDATA[FCC aims to release the most accurate US-wide broadband map to date in November.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome patches high-severity 0-day, its 6th this year]]></title>
+        <id>https://arstechnica.com/?p=1878531</id>
+        <link href="https://arstechnica.com/?p=1878531"/>
+        <updated>2022-09-06T19:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Security hole exists in a browser component known as Mojo.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brazil halts sales of charger-less iPhones, fines Apple $2.3 million]]></title>
         <id>https://arstechnica.com/?p=1878430</id>

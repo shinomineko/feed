@@ -323,6 +323,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1878310",
+          "author": "Jonathan M. Gitlin",
+          "description": "We've tested a European-spec Buzz, but the US models have to wait until 2024.",
+          "link": "https://arstechnica.com/?p=1878310",
+          "publishedOn": "2022-09-06T22:01:52.000Z",
+          "wordCount": 2082,
+          "title": "What we learned driving VW’s new electric ID Buzz",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ID-Buzz-first-drive-7-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878461",
+          "author": "Sam Machkovech",
+          "description": "Grossman, Gilbert talk to us while playing final build, tease a 32-year-old secret.",
+          "link": "https://arstechnica.com/?p=1878461",
+          "publishedOn": "2022-09-06T21:59:11.000Z",
+          "wordCount": 1853,
+          "title": "We’ve finally seen Return To Monkey Island in action: looks great, full of laughs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/monkey-island-grossman-gilbert-listing-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1875958",
+          "author": "Andrew Cunningham",
+          "description": "If previous XPS 15 models have turned you off, this one won't change your mind.",
+          "link": "https://arstechnica.com/?p=1875958",
+          "publishedOn": "2022-09-06T21:05:04.000Z",
+          "wordCount": 1611,
+          "title": "Mini-review: Dell’s XPS 15 9520 is a low-key improvement to an established design",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/IMG_0429-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878462",
+          "author": "Jennifer Ouellette",
+          "description": "OceanGate Expeditions shot the footage earlier this year with a manned submersible.",
+          "link": "https://arstechnica.com/?p=1878462",
+          "publishedOn": "2022-09-06T20:22:37.000Z",
+          "wordCount": 1990,
+          "title": "New 8K video footage showcases Titanic shipwreck in stunning detail",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/titanicTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878539",
+          "author": "Ashley Belanger",
+          "description": "Ukraine says Russia's military arsenal has dwindled by nearly half.",
+          "link": "https://arstechnica.com/?p=1878539",
+          "publishedOn": "2022-09-06T20:12:01.000Z",
+          "wordCount": 1558,
+          "title": "Leaked “shopping list” reveals Russia’s most “desperately” needed war tech",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1242971729-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878520",
+          "author": "Jon Brodkin",
+          "description": "FCC aims to release the most accurate US-wide broadband map to date in November.",
+          "link": "https://arstechnica.com/?p=1878520",
+          "publishedOn": "2022-09-06T19:39:03.000Z",
+          "wordCount": 1684,
+          "title": "FCC has obtained detailed broadband maps from ISPs for the first time ever",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878531",
+          "author": "Dan Goodin",
+          "description": "Security hole exists in a browser component known as Mojo.",
+          "link": "https://arstechnica.com/?p=1878531",
+          "publishedOn": "2022-09-06T19:26:44.000Z",
+          "wordCount": 1328,
+          "title": "Chrome patches high-severity 0-day, its 6th this year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/getty-chrome-logo-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1878430",
           "author": "Scharon Harding",
           "description": "Selling iPhones without chargers only passes burden on to the consumer, feds say.",
@@ -1596,6 +1666,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/09/07/iptables-chains-not-api/",
+          "author": null,
+          "description": "Author: Dan Winship (Red Hat)\nSome Kubernetes components (such as kubelet and kube-proxy) create\niptables chains and rules as part of their operation. These chains\nwere never intended to be part of any Kubernetes API/ABI guarantees,\nbut some external components nonetheless make use of some of them (in\nparticular, using KUBE-MARK-MASQ to mark packets as needing to be\nmasqueraded).\nAs a part of the v1.25 release, SIG Network made this declaration\nexplicit: that (with one exception), the iptables chains that\nKubernetes creates are intended only for Kubernetes’s own internal\nuse, and third-party components should not assume that Kubernetes will\ncreate any specific iptables chains, or that those chains will contain\nany specific rules if they do exist.\nThen, in future releases, as part of KEP-31…",
+          "link": "https://kubernetes.io/blog/2022/09/07/iptables-chains-not-api/",
+          "publishedOn": "2022-09-07T00:00:00.000Z",
+          "wordCount": 4119,
+          "title": "Blog: Kubernetes’s IPTables Chains Are Not API",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/",
           "author": null,
           "description": "Authors: Sidhartha Mani (Minio, Inc)\nThis article introduces the Container Object Storage Interface (COSI), a standard for provisioning and consuming object storage in Kubernetes. It is an alpha feature in Kubernetes v1.25.\nFile and block storage are treated as first class citizens in the Kubernetes ecosystem via Container Storage Interface (CSI). Workloads using CSI volumes enjoy the benefits of portability across vendors and across Kubernetes clusters without the need to change application manifests. An equivalent standard does not exist for Object storage.\nObject storage has been rising in popularity in recent years as an alternative form of storage to filesystems and block devices. Object storage paradigm promotes disaggregation of compute and storage. This is done by making data avail…",
@@ -1766,6 +1846,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/build-a-thriving-home-on-the-back-of-a-beast-when-the-wandering-village-arrives-next-week",
+          "author": "Matt Wales",
+          "description": "Stray Fawn's The Wandering Village - a city building sim set on the back of a giant, roaming creature - will be launching into Steam early access next Wednesday, 14th September.\r\n\n\r\nAnnounced last August, The Wandering Village tasks players with constructing a safe haven for a group of survivors in a dangerous, post-apocalyptic world. Its city building aspects might be familiar, but those are combined with resource management, rogue-like elements, and survival, all connected to the ever-moving creature, known as Onbu, the survivors now call home.\r\n\n\r\n\"Forging a relationship between the villagers and Onbu might be challenging at times, as their interests often don’t align,\" Stray Fawn explains. \"As a living creature, its unique body poses its own challenges for your village design. There's every chance a spike may have grown where villagers intended to place their kitchen, while a failed harvest may cause desperation and tempt villagers to draw blood from the creature for food.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/build-a-thriving-home-on-the-back-of-a-beast-when-the-wandering-village-arrives-next-week",
+          "publishedOn": "2022-09-06T23:14:21.000Z",
+          "wordCount": 4697,
+          "title": "Build a thriving home on the back of a beast when The Wandering Village arrives next week",
+          "imageUrl": "https://assets.reedpopcdn.com/the-wandering-village-turtle.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-wandering-village-turtle.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/powerwash-simulator-celebrates-3m-players-opens-nominations-for-next-filthy-addition",
+          "author": "Matt Wales",
+          "description": "PowerWash Simulator - developer FuturLab's wildly compelling dirt-busting squirt 'em up - is currently celebrating 3m million players having hoisted nozzles since the game's launch on Xbox and PC back in May. And that milestone coincides with the opening of nominations for the next filth-encrusted edifice to be added to the game.\r\n\n\r\nThere's not much more to say on the 3m players front, which Futurlab announced on Twitter earlier today, other than to say its success is thoroughly well-deserved. Eurgamer's Robert Purchese - who wrote about the serene pleasures of PowerWash Simulator's sedate busywork in July - is far from the only member of the editorial team to have fallen in love with its daffy charms and compulsive rhythms.\r\n\n\r\nAnd if, like me, you've reached the end of PowerWash Simulator's gloriously ludicrous campaign and urgently require more things to blast back into the realms of cleanliness, the good news is FuturLab is currently working on new additions - with the developer currently taking suggestions for what should come next.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/powerwash-simulator-celebrates-3m-players-opens-nominations-for-next-filthy-addition",
+          "publishedOn": "2022-09-06T22:14:53.000Z",
+          "wordCount": 4672,
+          "title": "PowerWash Simulator celebrates 3m players, opens nominations for next filthy addition",
+          "imageUrl": "https://assets.reedpopcdn.com/PowerWash-Simulator-Art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/PowerWash-Simulator-Art.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-5-and-ps4-hardware-designer-masayasu-ito-is-retiring-from-sony",
+          "author": "Matt Wales",
+          "description": "Masayasu Ito - Sony Interactive Entertainment's executive vice president of hardware engineering and operation, as well as lead engineer on both the PlayStation 4 and PlayStation 5 - is retiring on 1st October after 36 years with the company.\r\n\n\r\nIto first joined Sony in 1986, where he initially worked on in-car audio equipment before joining the PlayStation division in 2000 to lead hardware engineering. Here, Ito oversaw the development of numerous key PlayStation products, including the PS3, the hugely successful PS4 - which went on to sell over 117 million units - and, starting in 2015, the PlayStation 5.\r\n\n\r\nAlongside Sony's flagship consoles, Ito also had a hand in many other notable PlayStation hardware releases, having created of the likes of the PSP, PS4 Pro, and PSVR headset.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-and-ps4-hardware-designer-masayasu-ito-is-retiring-from-sony",
+          "publishedOn": "2022-09-06T20:43:49.000Z",
+          "wordCount": 4514,
+          "title": "PlayStation 5 and PS4 lead engineer Masayasu Ito is retiring from Sony",
+          "imageUrl": "https://assets.reedpopcdn.com/playstation_Rjwagv7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_Rjwagv7.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/assassins-creed-games-set-in-japan-and-16th-century-europe-reportedly-being-revealed-this-weekend",
           "author": "Matt Wales",
@@ -4421,7 +4531,7 @@
     {
       "title": "The GitHub Blog",
       "feedUrl": "https://github.blog/feed/",
-      "siteUrl": "https://github.blog",
+      "siteUrl": "https://github.blog/",
       "articles": [
         {
           "id": "https://github.blog/?p=66836",
