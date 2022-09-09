@@ -363,6 +363,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1879887",
+          "author": "Dan Goodin",
+          "description": "Blockchain analysis keeps getting better. Expect more seizures to come.",
+          "link": "https://arstechnica.com/?p=1879887",
+          "publishedOn": "2022-09-08T23:32:04.000Z",
+          "wordCount": 1647,
+          "title": "Feds claw back $30 million of cryptocurrency stolen by North Korean hackers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/cryptocurrency-heist-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1879703",
           "author": "Jennifer Ouellette",
           "description": "\"Lock the doors. Stay in your rooms. Everyone is in danger.\"",
@@ -2086,6 +2096,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/09/09/kms-v2-improvements/",
+          "author": null,
+          "description": "Authors: Anish Ramasekar, Rita Zhang, Mo Khan, and Xander Grzywinski (Microsoft)\nWith Kubernetes v1.25, SIG Auth is introducing a new v2alpha1 version of the Key Management Service (KMS) API. There are a lot of improvements in the works, and we're excited to be able to start down the path of a new and improved KMS!\nWhat is KMS?\nOne of the first things to consider when securing a Kubernetes cluster is encrypting persisted API data at rest. KMS provides an interface for a provider to utilize a key stored in an external key service to perform this encryption.\nEncryption at rest using KMS v1 has been a feature of Kubernetes since version v1.10, and is currently in beta as of version v1.12.\nWhat’s new in v2alpha1?\nWhile the original v1 implementation has been successful in helping Kubernetes us…",
+          "link": "https://kubernetes.io/blog/2022/09/09/kms-v2-improvements/",
+          "publishedOn": "2022-09-09T00:00:00.000Z",
+          "wordCount": 3568,
+          "title": "Blog: Kubernetes 1.25: KMS V2 Improvements",
+          "imageUrl": "https://mermaid.ink/img/pako:eNrNVD1v2zAQ_SsEC0GLkxgt2kEIvEQeCo8tOgkoTuTJIiyRypFMIwj67yUlxx-w0CLoUg0a7t29e3eP5MCFkcgzniSD0splbEhdjS2mGUtLsJiu2Bz4AaSgbNAGZGBpR6oF6p9MYyjmfvj08YvAzzH9CH3HV3eGq6qaqK6C6_U6HccxSQpt8dmjFpgr2BO0hWbh64CcEqoD7Rg6IW-jB18idMoivSAtwK3tGr9XeoHv1SFpaELKDF5R3W02p9qMBWHUd45RFGndnA-NY94qvWcH7FmtkIBE3c_gRPhGsEyWb3fsl3I1a4yAhu22u-XSC6Hn4lPNTEHYGofXHBd1iwJQ_q3zRY0AUeM7Ki93mQV5zpO-WKPtTHCcPZb0sGFDwYMnNVI8HAXPWMEfz53CmjYFX8Ul_1RyAs_Tsq_5BM5EBQetjQOnAnskCsxB1X1UQxod2ntlHibpdwc83LQ6DRU4x3GeDJugM5D-2eokYcITYThXJdbwogy9w8z8H23M_xcbbg04rVHL5VsWr3XGrDOEt8JAy6Ux45-veIvUgpLh8RpipODTOzUrl1iBb8IYhR5Dqu8kONxKFfrwrIJg6oqDd-ZbrwXPHHl8Szo-QMes8Tffb72O"
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/09/07/iptables-chains-not-api/",
           "author": null,
           "description": "Author: Dan Winship (Red Hat)\nSome Kubernetes components (such as kubelet and kube-proxy) create\niptables chains and rules as part of their operation. These chains\nwere never intended to be part of any Kubernetes API/ABI guarantees,\nbut some external components nonetheless make use of some of them (in\nparticular, using KUBE-MARK-MASQ to mark packets as needing to be\nmasqueraded).\nAs a part of the v1.25 release, SIG Network made this declaration\nexplicit: that (with one exception), the iptables chains that\nKubernetes creates are intended only for Kubernetes’s own internal\nuse, and third-party components should not assume that Kubernetes will\ncreate any specific iptables chains, or that those chains will contain\nany specific rules if they do exist.\nThen, in future releases, as part of KEP-31…",
@@ -2241,16 +2261,6 @@
           "wordCount": 2392,
           "title": "An Unexpected Love Letter to Azure",
           "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2022/08/81318442_m.jpg"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=12880",
-          "author": "Corey Quinn",
-          "description": "The frenzy of AWS product releases around re:Invent is terrible for its users. But upending AWS's cultural cornerstones would be even worse for customers.\nThe post I Was Wrong: Why AWS Can’t End the re:Invent Service Release Tidal Wave appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/why_amazon_cant_end_the_release_tidal_wave/",
-          "publishedOn": "2022-08-10T14:30:00.000Z",
-          "wordCount": 2547,
-          "title": "I Was Wrong: Why AWS Can’t End the re:Invent Service Release Tidal Wave",
-          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2022/08/45231860_m.jpg"
         }
       ]
     },
@@ -5491,16 +5501,6 @@
           "wordCount": 1246,
           "title": "The next step for LGTM.com: GitHub code scanning!",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/08/lgtm1.png"
-        },
-        {
-          "id": "https://github.blog/?p=66464",
-          "author": "Chris Patterson",
-          "description": "As GitHub Pages, home to 16 million websites, approaches its 15th anniversary, we’re excited to announce that all sites now build and deploy with GitHub Actions.",
-          "link": "https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/",
-          "publishedOn": "2022-08-10T16:00:29.000Z",
-          "wordCount": 1587,
-          "title": "GitHub Pages now uses Actions by default",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Engineering-Product@2x.png?fit=2400%2C1260"
         }
       ]
     },

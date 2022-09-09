@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-09T00:32:04.017Z</updated>
+    <updated>2022-09-09T06:29:40.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.25: KMS V2 Improvements]]></title>
+        <id>https://kubernetes.io/blog/2022/09/09/kms-v2-improvements/</id>
+        <link href="https://kubernetes.io/blog/2022/09/09/kms-v2-improvements/"/>
+        <updated>2022-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Anish Ramasekar, Rita Zhang, Mo Khan, and Xander Grzywinski (Microsoft)
+With Kubernetes v1.25, SIG Auth is introducing a new v2alpha1 version of the Key Management Service (KMS) API. There are a lot of improvements in the works, and we're excited to be able to start down the path of a new and improved KMS!
+What is KMS?
+One of the first things to consider when securing a Kubernetes cluster is encrypting persisted API data at rest. KMS provides an interface for a provider to utilize a key stored in an external key service to perform this encryption.
+Encryption at rest using KMS v1 has been a feature of Kubernetes since version v1.10, and is currently in beta as of version v1.12.
+What’s new in v2alpha1?
+While the original v1 implementation has been successful in helping Kubernetes us…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feds claw back $30 million of cryptocurrency stolen by North Korean hackers]]></title>
+        <id>https://arstechnica.com/?p=1879887</id>
+        <link href="https://arstechnica.com/?p=1879887"/>
+        <updated>2022-09-08T23:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain analysis keeps getting better. Expect more seizures to come.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The knives are out again in first teaser for Glass Onion]]></title>
         <id>https://arstechnica.com/?p=1879703</id>
@@ -7736,27 +7762,6 @@ Small addition to the product roadmap. pic.twitter.com/0janK7bylL
 — den (@DennisCode) August 11, 2022]]></summary>
         <author>
             <name>Engineering Festivus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Pages now uses Actions by default]]></title>
-        <id>https://github.blog/?p=66464</id>
-        <link href="https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/"/>
-        <updated>2022-08-10T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[As GitHub Pages, home to 16 million websites, approaches its 15th anniversary, we’re excited to announce that all sites now build and deploy with GitHub Actions.]]></summary>
-        <author>
-            <name>Chris Patterson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Was Wrong: Why AWS Can’t End the re:Invent Service Release Tidal Wave]]></title>
-        <id>https://www.lastweekinaws.com/?p=12880</id>
-        <link href="https://www.lastweekinaws.com/blog/why_amazon_cant_end_the_release_tidal_wave/"/>
-        <updated>2022-08-10T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The frenzy of AWS product releases around re:Invent is terrible for its users. But upending AWS's cultural cornerstones would be even worse for customers.
-The post I Was Wrong: Why AWS Can’t End the re:Invent Service Release Tidal Wave appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
         </author>
     </entry>
 </feed>
