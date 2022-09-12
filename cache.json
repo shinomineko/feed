@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/09/new-linux-cryptomining-malware.html",
+          "author": null,
+          "description": "<p>It&#8217;s <a href=\"https://www.theregister.com/2022/09/10/in_brief_security/\">pretty nasty</a>:</p>\n<blockquote><p>The malware was dubbed &#8220;<a href=\"https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux\">Shikitega</a>&#8221; for its extensive use of the popular Shikata Ga Nai polymorphic encoder, which allows the malware to &#8220;mutate&#8221; its code to avoid detection. Shikitega alters its code each time it runs through one of several decoding loops that AT&#038;T said each deliver multiple attacks, beginning with an ELF file that&#8217;s just 370 bytes.</p>\n<p>Shikitega also downloads Mettle, a Metasploit interpreter that gives the attacker the ability to control attached webcams and includes a sniffer, multiple reverse shells, process control, shell command execution and additional abilities to control the affected system...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/new-linux-cryptomining-malware.html",
+          "publishedOn": "2022-09-12T14:41:17.000Z",
+          "wordCount": 1921,
+          "title": "New Linux Cryptomining Malware",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-colossal-squid-in-new-zealand-museum.html",
           "author": null,
           "description": "<p>It&#8217;s in <a href=\"https://www.stuff.co.nz/timaru-herald/news/129735845/giant-squid-returns-to-timaru-for-new-exhibition\">Timaru</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -382,6 +392,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1880509",
+          "author": "Scharon Harding",
+          "description": "Roku OS 11.5 with \"Continue Watching\" also en route.",
+          "link": "https://arstechnica.com/?p=1880509",
+          "publishedOn": "2022-09-12T18:10:44.000Z",
+          "wordCount": 1696,
+          "title": "Roku announces a cheaper subwoofer, updates $30 Express streaming device",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/66237085-03f1-4779-a089-1f96736bc774-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880381",
+          "author": "Andrew Cunningham",
+          "description": "Intel's lineup will likely be competing with new GPUs from AMD and Nvidia soon.",
+          "link": "https://arstechnica.com/?p=1880381",
+          "publishedOn": "2022-09-12T17:52:36.000Z",
+          "wordCount": 1836,
+          "title": "Intel publishes Arc GPU specifications as their launch creeps ever-nearer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/arc-gpus-2-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880488",
+          "author": "Jon Brodkin",
+          "description": "Starlink says speed tests and $600 dish cost aren't good reasons to deny funding.",
+          "link": "https://arstechnica.com/?p=1880488",
+          "publishedOn": "2022-09-12T17:25:22.000Z",
+          "wordCount": 1593,
+          "title": "Starlink appeals FCC rejection of $886M grant, calls reversal “grossly unfair”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-starlink-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880382",
+          "author": "Ars Staff",
+          "description": "The vehicles it showed off at Monterey Car Week were far from production-ready",
+          "link": "https://arstechnica.com/?p=1880382",
+          "publishedOn": "2022-09-12T17:18:44.000Z",
+          "wordCount": 1785,
+          "title": "Remember Faraday Future? We rode in its new EV, and it wasn’t great",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Faraday-V03-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880438",
+          "author": "Kevin Purdy",
+          "description": "It's the first time genuine iPhone batteries have cost more than $70 since 2017.",
+          "link": "https://arstechnica.com/?p=1880438",
+          "publishedOn": "2022-09-12T17:11:34.000Z",
+          "wordCount": 1375,
+          "title": "Apple raises iPhone 14 battery costs above pre-Batterygate levels",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone_13_battery-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880442",
+          "author": "Ron Amadeo",
+          "description": "Plus: Wild rumors say the phone might launch before the end of the year.",
+          "link": "https://arstechnica.com/?p=1880442",
+          "publishedOn": "2022-09-12T16:47:19.000Z",
+          "wordCount": 1449,
+          "title": "Get your first look at the OnePlus 11 Pro and its round camera bump",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/5-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880346",
+          "author": "Benj Edwards",
+          "description": "Smaller art communities are banning image synthesis amid a wider art ethics debate.",
+          "link": "https://arstechnica.com/?p=1880346",
+          "publishedOn": "2022-09-12T16:36:10.000Z",
+          "wordCount": 1816,
+          "title": "Flooded with AI-generated images, some art communities ban them completely",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880383",
+          "author": "Eric Berger",
+          "description": "There were no passengers on board this flight carrying scientific instruments.",
+          "link": "https://arstechnica.com/?p=1880383",
+          "publishedOn": "2022-09-12T15:39:52.000Z",
+          "wordCount": 1606,
+          "title": "After Blue Origin’s rocket explodes, its spacecraft makes a dramatic escape",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/LIVE-Blue-Origin-New-Shepard-23-Cargo-Launch-1-23-0-screenshot-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880419",
+          "author": "Financial Times",
+          "description": "Streaming giant will launch three new mobile games next year based on Ubisoft hits.",
+          "link": "https://arstechnica.com/?p=1880419",
+          "publishedOn": "2022-09-12T15:14:25.000Z",
+          "wordCount": 1623,
+          "title": "Netflix partners with Ubisoft to bolster fledgling gaming division",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/valiant-hearts-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1866485",
           "author": "Ars Contributors",
@@ -2535,6 +2635,136 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/halo-studio-boss-bonnie-ross-announces-departure-from-microsoft",
+          "author": "Matt Wales",
+          "description": "Bonnie Ross, the founder and head of Halo developer 343 Industries, has announced her departure from the studio and Microsoft.\r\n\n\r\nRoss, who also serves as Microsoft corporate vice president, has been the head of 343 Industries for 15 years, having established the studio - specifically to take over development of the Halo franchise from Bungie - back in 2007.\r\n\n\r\nAnnouncing her departure from 343 in a statement shared on Twitter, Ross explained, \"While I had hoped to stay with Halo until we released the Winter Update, I am letting you know I will be leaving 343 and attending a family medical issue\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-studio-boss-bonnie-ross-announces-departure-from-microsoft",
+          "publishedOn": "2022-09-12T18:04:10.000Z",
+          "wordCount": 4655,
+          "title": "Halo studio boss Bonnie Ross announces departure from Microsoft",
+          "imageUrl": "https://assets.reedpopcdn.com/343-logo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/343-logo.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/prison-architect-getting-big-free-quality-of-life-update-on-xbox-and-pc-today",
+          "author": "Matt Wales",
+          "description": "Paradox has revealed a big free quality of life update for prison management sim Prison Architect - aptly known as the Free for Life update - which launches today on Xbox and PC.\r\n\n\r\nFree for Life is, according to Paradox, focussed on implementing the Prison Architect community's most requested features so \"players can spend more time managing their compound rather than navigating menus\".\r\n\n\r\nTo that end, it brings a range of enhancements, including an improved scheduler and prison log - the latter enabling players to more easily check inmates' activities, as well as \"uncover misconducts ahead of time and keep track of who gets released, reformed, or reoffended\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/prison-architect-getting-big-free-quality-of-life-update-on-xbox-and-pc-today",
+          "publishedOn": "2022-09-12T16:43:35.000Z",
+          "wordCount": 4623,
+          "title": "Prison Architect getting big free quality of life update on Xbox and PC today",
+          "imageUrl": "https://assets.reedpopcdn.com/prison-architect-free-for-life.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/prison-architect-free-for-life.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/eurogamer-newscast-ubisoft-forward-assassins-creed-infinity-mirage-project-red-hexe",
+          "author": "Tom Phillips",
+          "description": "Ubisoft has announced an array of new Assassin's Creed games, and Eurogamer has exclusive details on how Ubisoft's flagship franchise will be shaken up by the arrival of its ambitious new Infinity platform, which will redefine the scope and ongoing story of future releases.\r\n\nOutside of the Animus, this past weekend was also a major moment for Ubisoft itself, as it emerged from a period of relative silence following a bruising few years of scandal, takeover rumours, and further discontent surrounding its NFT plans. If you missed it, I spoke with Ubisoft boss Yves Guillmot about all of that.\nUbisoft Forward seemed aptly named, with a look over the horizon to a brighter future for the company. But questions remain - as Tom Phillips, Ed Nightingale, Victoria Kennedy and Liv Ngan discuss.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eurogamer-newscast-ubisoft-forward-assassins-creed-infinity-mirage-project-red-hexe",
+          "publishedOn": "2022-09-12T16:35:30.000Z",
+          "wordCount": 4421,
+          "title": "Ubisoft moves forwards, bets big on Assassin's Creed",
+          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/netflixs-the-witcher-season-three-has-wrapped-filming",
+          "author": "Ed Nightingale",
+          "description": "The third season of Netflix's The Witcher show has now wrapped filming.\r\n\n\r\nGeralt himself, Henry Cavill, shared a special message with the cast and crew on the last day.\r\n\n\r\n\"What a season this has been! I just wanted to thank you all for your determination and dedication through a tough shoot,\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflixs-the-witcher-season-three-has-wrapped-filming",
+          "publishedOn": "2022-09-12T15:41:40.000Z",
+          "wordCount": 4459,
+          "title": "Netflix's The Witcher season three has wrapped filming",
+          "imageUrl": "https://assets.reedpopcdn.com/geralts-looking-buff-in-photos-for-the-witcher-season-2-1601981128755.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/geralts-looking-buff-in-photos-for-the-witcher-season-2-1601981128755.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-clears-up-confusion-over-listing-which-claimed-assassins-creed-mirage-had-real-gambling",
+          "author": "Tom Phillips",
+          "description": "Ubisoft has reassured fans concerned over listings for Assassin's Creed Mirage which stated it would include \"Real Gambling\", as part of \"Adults Only\" and \"18+\" ratings for the title. \r\n\n\r\nAt the time of writing, a US Xbox store listing still warns that Mirage contains \"Intense Violence, Blood and Gore, Sexual Themes, Partial Nudity, Real Gambling\", and lists it as having received the rare Adults Only 18+ label from the ESRB, the US' ratings board.\r\n\n\r\nA UK listing similarly mentions \"Real Gambling\", alongside \"Extreme Violence\", and lists it with a PEGI 18+ rating.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-clears-up-confusion-over-listing-which-claimed-assassins-creed-mirage-had-real-gambling",
+          "publishedOn": "2022-09-12T15:04:56.000Z",
+          "wordCount": 4591,
+          "title": "Ubisoft clears up confusion over listing which claimed Assassin's Creed Mirage had \"real gambling\"",
+          "imageUrl": "https://assets.reedpopcdn.com/mirage_I8wzLTO.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mirage_I8wzLTO.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fall-guys-season-two-goes-out-of-this-world-on-15th-september",
+          "author": "Liv Ngan",
+          "description": "Fall Guys developer Mediatonic has revealed details and the launch date for its space-themed season two.\r\n\nSeason one was called Free For All, and was (obviously) related to the free-to-play soft relaunch Fall Guys had back in June.\r\n\nSeason two is titled Satellite Scramble, and is all about (you guessed it) space!\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fall-guys-season-two-goes-out-of-this-world-on-15th-september",
+          "publishedOn": "2022-09-12T15:03:16.000Z",
+          "wordCount": 4713,
+          "title": "Fall Guys season two goes out of this world on 15th September",
+          "imageUrl": "https://assets.reedpopcdn.com/fgss02-keyart-logonocopy-16x9-1920x1080-1920x1080-8cb8104d0508.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fgss02-keyart-logonocopy-16x9-1920x1080-1920x1080-8cb8104d0508.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/toem-adds-new-region-to-celebrate-first-anniversary",
+          "author": "Ed Nightingale",
+          "description": "A brand new region has been added to photography game Toem to celebrate its one year anniversary.\r\n\n\r\nBasto is the game's biggest region yet and will be filled with new quests, secrets, minigames, and animals to photograph.\r\n\n\r\nThe update will be added for free from 16th September on Steam, arriving on PlayStation 5 and Switch soon after.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/toem-adds-new-region-to-celebrate-first-anniversary",
+          "publishedOn": "2022-09-12T14:34:09.000Z",
+          "wordCount": 4437,
+          "title": "Toem adds new region to celebrate first anniversary",
+          "imageUrl": "https://assets.reedpopcdn.com/TOEM_thumbnail-no-logo-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/TOEM_thumbnail-no-logo-(1).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/looks-like-the-offices-dunder-mifflin-is-in-the-last-of-us-part-1",
+          "author": "Victoria Kennedy",
+          "description": "Following its release earlier this month, numerous fans have been sharing their incredible finds in The Last of Us Part 1. This has included small changes within the cinematics to the various interactive props found throughout the game's post-apocalyptic setting.\r\n\n\r\nNow, however, one player has shared what seems to be none other than Dunder Mifflin from NBC's mockumentary The Office tucked away in Part 1. \r\n\n\r\nAs shown in the clip below, you can see Joel taking shelter from his enemies in a seemingly ordinary office. However, on closer inspection, there is something familiar about its layout. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/looks-like-the-offices-dunder-mifflin-is-in-the-last-of-us-part-1",
+          "publishedOn": "2022-09-12T14:11:26.000Z",
+          "wordCount": 4695,
+          "title": "Looks like The Office's Dunder Mifflin is in The Last of Us Part 1",
+          "imageUrl": "https://assets.reedpopcdn.com/m-scott-the-office.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/m-scott-the-office.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-direct-announced-for-tomorrow",
+          "author": "Tom Phillips",
+          "description": "A new 40-minute Nintendo Direct presentation will be broadcast tomorrow, Tuesday 13th September, at 3pm UK time.\r\n\n\r\nWe've been waiting a while for an update from Nintendo on the company's end of 2022 plans - as well as a sneak peek into 2023. Over the summer, we've heard various updates on new projects in a rather piecemeal fashion. And now the autumn's first big launch - Splatoon 3 - has arrived. \r\n\n\r\nSo, what do we expect? Well, the Direct is well-timed to coincide with Tokyo Games Show later this week, where third-party publishers will be in attendance to demo upcoming Switch games. We're also hoping to hear more about Nintendo's own plans. Rumours abound of an update on Zelda and Metroid.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-direct-announced-for-tomorrow",
+          "publishedOn": "2022-09-12T14:03:39.000Z",
+          "wordCount": 4592,
+          "title": "Full-fat Nintendo Direct announced for tomorrow",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/square-enix-joins-the-oasys-blockchain",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy publisher Square Enix has joined the Oasys blockchain.\r\n\n\r\nThe company is now a node validator, claiming to be building an \"environmentally friendly, proof of stake\" blockchain.\r\n\n\r\nOasys will launch later this year, reports GamesIndustry.biz, with 21 node validators to begin with and more added over time.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/square-enix-joins-the-oasys-blockchain",
+          "publishedOn": "2022-09-12T13:32:39.000Z",
+          "wordCount": 4447,
+          "title": "Square Enix joins the Oasys blockchain",
+          "imageUrl": "https://assets.reedpopcdn.com/re_3-1_cloud-Ik7XJHi8D.png/BROK/thumbnail/1600x900/format/jpg/quality/80/re_3-1_cloud-Ik7XJHi8D.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/square-enix-got-a-good-laugh-out-of-the-reactions-to-last-months-forspoken-trailer",
+          "author": "Martin Robinson",
+          "description": "Square Enix's Forspoken has been doing the rounds for a while - the second game built on the Luminous Engine that made its debut with Final Fantasy 15, it was at the forefront of the PlayStation 5's reveal when it was known as Project Athia and has had various public showings ahead of its release early next year, but perhaps its most impactful came after a trailer was posted on social media last month and was met with a rough response online, the dialogue becoming the butt of internet jokes.\r\n\n\r\n\"It was unexpected to see the reactions to the social media post,\" Forspoken's creative producer Raio Mitsuo told us after a recent opportunity to go hands-on with the game. \"Basically, we used existing footage from previous trailers and put something together as a social media post. And yeah, it went kind of viral in a way - that's not the direction that we thought it was going to go! But I have to admit, some of the memes are actually pretty funny, so I got a good laugh out of it. \r\n\n\r\n\"But, you know, for us, it's not something that we're concerned with. We're obviously leaving a lot of information on the table, because we're taking dialogue and scenes out of context. Forspoken is a very narrative driven game. It's a very story based game. We don't want to ruin the experience in our marketing campaign. We're being very selective about what to use to generate interest and sometimes without that information about what led up to that moment, or what was the character's state of mind, we're leaving the audience the full freedom to interpret lines in any way they want. It's just one of those challenges that come naturally when trying to find ways to show the game without telling the full story, because we definitely don't want to reveal that.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/square-enix-got-a-good-laugh-out-of-the-reactions-to-last-months-forspoken-trailer",
+          "publishedOn": "2022-09-12T13:18:19.000Z",
+          "wordCount": 5086,
+          "title": "Square Enix 'got a good laugh' out of the reactions to last month's Forspoken trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/Forspoken_Worlds_Collide_Screenshot_12.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Forspoken_Worlds_Collide_Screenshot_12.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fortnite-confirms-next-season-title-as-goo-themed-teasers-leak",
+          "author": "Tom Phillips",
+          "description": "Epic Games has confirmed the first details of Fortnite's next season, which will see elements of its battle royale Island consumed by chrome-coloured goo.\r\n\n\r\nThe new season, which is due to launch this Sunday, 18th September, will be titled \"Paradise\" - though looks to be anything but. \r\n\n\r\nOver the weekend, a series of social media teases set to go live officially this week were pounced on by fans, after being found early.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fortnite-confirms-next-season-title-as-goo-themed-teasers-leak",
+          "publishedOn": "2022-09-12T12:51:29.000Z",
+          "wordCount": 4628,
+          "title": "Fortnite confirms next season title, as goo-themed teasers leak",
+          "imageUrl": "https://assets.reedpopcdn.com/fortnite_8ghHvdn.png/BROK/thumbnail/1600x900/format/jpg/quality/80/fortnite_8ghHvdn.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-developer-announces-marvel-game",
+          "author": "Tom Phillips",
+          "description": "Niantic, the maker of Pokémon Go, has announced Marvel World of Heroes - a new smartphone AR game set to launch globally in 2023.\r\n\n\r\nWorld of Heroes looks to be the latest in a line of games from Niantic with the company's usual focus on outdoor play - and another big license for it to adapt. \r\n\n\r\nDetails of the game remain thin on the ground, though a press release claims it will be \"the first Marvel game where players become their own unique Marvel Super Hero\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-go-developer-announces-marvel-game",
+          "publishedOn": "2022-09-12T12:49:43.000Z",
+          "wordCount": 4562,
+          "title": "Pokémon Go developer announces Marvel game",
+          "imageUrl": "https://assets.reedpopcdn.com/marvel_LsZCHy7.png/BROK/thumbnail/1600x900/format/jpg/quality/80/marvel_LsZCHy7.png"
+        },
         {
           "id": "https://www.eurogamer.net/masahiro-sakurai-now-has-over-400k-subscribers-on-youtube",
           "author": "Liv Ngan",
