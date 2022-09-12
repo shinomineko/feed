@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T18:27:41.125Z</updated>
+    <updated>2022-09-12T00:31:30.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Announcing the Auto-refreshing Official Kubernetes CVE Feed]]></title>
+        <id>https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/</id>
+        <link href="https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/"/>
+        <updated>2022-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Pushkar Joglekar (VMware)
+A long-standing request from the Kubernetes community has been to have a
+programmatic way for end users to keep track of Kubernetes security issues
+(also called "CVEs", after the database that tracks public security issues across
+different products and vendors). Accompanying the release of Kubernetes v1.25,
+we are excited to announce availability of such
+a feed as an alpha
+feature. This blog will cover the background and scope of this new service.
+Motivation
+With the growing number of eyes on Kubernetes, the number of CVEs related to
+Kubernetes have increased. Although most CVEs that directly, indirectly, or
+transitively impact Kubernetes are regularly fixed, there is no single place for
+the end users of Kubernetes to programmatically subscribe or pull the…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's our first look at The Division Heartland's gameplay]]></title>
         <id>https://www.eurogamer.net/heres-our-first-look-at-the-division-heartlands-gameplay</id>

@@ -2336,6 +2336,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/",
+          "author": null,
+          "description": "Author: Pushkar Joglekar (VMware)\nA long-standing request from the Kubernetes community has been to have a\nprogrammatic way for end users to keep track of Kubernetes security issues\n(also called \"CVEs\", after the database that tracks public security issues across\ndifferent products and vendors). Accompanying the release of Kubernetes v1.25,\nwe are excited to announce availability of such\na feed as an alpha\nfeature. This blog will cover the background and scope of this new service.\nMotivation\nWith the growing number of eyes on Kubernetes, the number of CVEs related to\nKubernetes have increased. Although most CVEs that directly, indirectly, or\ntransitively impact Kubernetes are regularly fixed, there is no single place for\nthe end users of Kubernetes to programmatically subscribe or pull the…",
+          "link": "https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/",
+          "publishedOn": "2022-09-12T00:00:00.000Z",
+          "wordCount": 3240,
+          "title": "Blog: Announcing the Auto-refreshing Official Kubernetes CVE Feed",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/09/09/kms-v2-improvements/",
           "author": null,
           "description": "Authors: Anish Ramasekar, Rita Zhang, Mo Khan, and Xander Grzywinski (Microsoft)\nWith Kubernetes v1.25, SIG Auth is introducing a new v2alpha1 version of the Key Management Service (KMS) API. There are a lot of improvements in the works, and we're excited to be able to start down the path of a new and improved KMS!\nWhat is KMS?\nOne of the first things to consider when securing a Kubernetes cluster is encrypting persisted API data at rest. KMS provides an interface for a provider to utilize a key stored in an external key service to perform this encryption.\nEncryption at rest using KMS v1 has been a feature of Kubernetes since version v1.10, and is currently in beta as of version v1.12.\nWhat’s new in v2alpha1?\nWhile the original v1 implementation has been successful in helping Kubernetes us…",
