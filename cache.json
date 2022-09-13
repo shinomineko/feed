@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/09/fbi-seizes-stolen-cryptocurrencies.html",
+          "author": null,
+          "description": "<p>The <i>Wall Street Journal</i> is <a href=\"https://www.wsj.com/articles/u-s-recovers-over-30-million-in-cryptocurrency-stolen-by-north-korean-hackers-11662648600\">reporting</a> that the FBI has recovered over $30 million in cryptocurrency stolen by North Korean hackers earlier this year. It&#8217;s only a fraction of the $540 million stolen, but it&#8217;s something.</p>\n<blockquote><p>The Axie Infinity recovery represents a shift in law enforcement&#8217;s ability to trace funds through a web of so-called crypto addresses, the virtual accounts where cryptocurrencies are stored. These addresses can be created quickly without them being linked to a cryptocurrency company that could freeze the funds.</p>\n<p>In its effort to mask the stolen crypto, Lazarus Group used more than 12,000 different addresses, according to Chainalysis. Unlike bank transactions that happen through private networks, movement between crypto accounts is visible to the world on the blockchain...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/fbi-seizes-stolen-cryptocurrencies.html",
+          "publishedOn": "2022-09-13T11:51:39.000Z",
+          "wordCount": 707,
+          "title": "FBI Seizes Stolen Cryptocurrencies",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/new-linux-cryptomining-malware.html",
           "author": null,
           "description": "<p>It&#8217;s <a href=\"https://www.theregister.com/2022/09/10/in_brief_security/\">pretty nasty</a>:</p>\n<blockquote><p>The malware was dubbed &#8220;<a href=\"https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux\">Shikitega</a>&#8221; for its extensive use of the popular Shikata Ga Nai polymorphic encoder, which allows the malware to &#8220;mutate&#8221; its code to avoid detection. Shikitega alters its code each time it runs through one of several decoding loops that AT&#038;T said each deliver multiple attacks, beginning with an ELF file that&#8217;s just 370 bytes.</p>\n<p>Shikitega also downloads Mettle, a Metasploit interpreter that gives the attacker the ability to control attached webcams and includes a sniffer, multiple reverse shells, process control, shell command execution and additional abilities to control the affected system...</p></blockquote>",
@@ -2634,16 +2644,6 @@
           "wordCount": 9638,
           "title": "Blog: Stargazing, solutions and staycations: the Kubernetes 1.24 release interview",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/08/15/meet-our-contributors-china-ep-03/",
-          "author": null,
-          "description": "Authors & Interviewers: Avinesh Tripathi, Debabrata Panigrahi, Jayesh Srivastava, Priyanka Saggu, Purneswar Prasad, Vedant Kakde\nHello, everyone 👋\nWelcome back to the third edition of the \"Meet Our Contributors\" blog post series for APAC.\nThis post features four outstanding contributors from China, who have played diverse leadership and community roles in the upstream Kubernetes project.\nSo, without further ado, let's get straight to the article.\nAndy Zhang\nAndy Zhang currently works for Microsoft China at the Shanghai site. His main focus is on Kubernetes storage drivers. Andy started contributing to Kubernetes about 5 years ago.\nHe states that as he is working in Azure Kubernetes Service team and spends most of his time contributing to the Kubernetes community project. Now he is the mai…",
-          "link": "https://kubernetes.io/blog/2022/08/15/meet-our-contributors-china-ep-03/",
-          "publishedOn": "2022-08-15T00:00:00.000Z",
-          "wordCount": 3467,
-          "title": "Blog: Meet Our Contributors - APAC (China region)",
-          "imageUrl": null
         }
       ]
     },
@@ -2705,6 +2705,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/forza-horizon-5-character-customisation-now-includes-hearing-aids",
+          "author": "Liv Ngan",
+          "description": "Forza Horizon 5's latest update, live from today, is packed to the boot with new additions.\r\n\nThe update, titled Horizon Road Trip, features lots of customisation options, new weekly events that'll roll out until October, and extra car models.\r\n\nDeveloper Playground Games is continuing its commitment to diverse representation by adding a hearing aid option to its customer charactisation.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/forza-horizon-5-character-customisation-now-includes-hearing-aids",
+          "publishedOn": "2022-09-13T12:22:31.000Z",
+          "wordCount": 4613,
+          "title": "Forza Horizon 5 character customisation now includes hearing aids",
+          "imageUrl": "https://assets.reedpopcdn.com/forza-horizon-5-sept-update.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/forza-horizon-5-sept-update.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/a-fix-for-splatoon-3-connection-issues-is-on-its-way",
+          "author": "Liv Ngan",
+          "description": "Nintendo is working on a patch to addresss Splatoon 3's connection issues.\nSplatoon 3 is being enjoyed worldwide, topping the UK boxed charts and smashing the record for the best Switch game launch in Japan.\r\n\nUnfortunately, some fans have been unable to join ink with the fun thanks to a number of connection issues.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/a-fix-for-splatoon-3-connection-issues-is-on-its-way",
+          "publishedOn": "2022-09-13T10:55:05.000Z",
+          "wordCount": 4522,
+          "title": "A fix for Splatoon 3 connection issues is on its way",
+          "imageUrl": "https://assets.reedpopcdn.com/Splatoon3_illu_03.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Splatoon3_illu_03.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/a-steam-phishing-scam-is-baiting-players-with-tournament-play",
+          "author": "Ed Nightingale",
+          "description": "Steam users beware: there's a new browser-in-the-browser phishing scam technique that's baiting players with the promise of tournament play.\r\n\n\r\nGroup-IB has published a new report on the topic, illustrating how a new campaign is targeting professional gamers (spotted by PCGamer).\r\n\n\r\nThe campaign imitates browser pages within Steam with fake direct messages inviting players to join tournaments. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/a-steam-phishing-scam-is-baiting-players-with-tournament-play",
+          "publishedOn": "2022-09-13T10:35:13.000Z",
+          "wordCount": 4390,
+          "title": "A Steam phishing scam is baiting players with tournament play",
+          "imageUrl": "https://assets.reedpopcdn.com/steam_plCF6d2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam_plCF6d2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/unreleased-meta-quest-pro-hardware-turns-up-in-hotel",
+          "author": "Tom Phillips",
+          "description": "Facebook parent company Meta is yet to reveal its long-awaited high-end VR headset - but photos and videos of a prototype are now available online. \r\n\n\r\nAn early sample of the device, apparently left behind by accident, was recently discovered by hotel worker Ramiro Cardenas - after he responded to complaints of a pile of rubbish left in a bag in a corridor.\r\n\n\r\nCardenas, a VR fan, quickly realised what the device actually was - and promptly posted a series of photos and videos on the internet.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/unreleased-meta-quest-pro-hardware-turns-up-in-hotel",
+          "publishedOn": "2022-09-13T10:19:31.000Z",
+          "wordCount": 4352,
+          "title": "Unreleased Meta Quest Pro hardware turns up in hotel",
+          "imageUrl": "https://assets.reedpopcdn.com/Zzvjd5deZN5NvGWVwtEbXb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Zzvjd5deZN5NvGWVwtEbXb.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/babylons-fall-binned-after-less-than-a-year",
+          "author": "Tom Phillips",
+          "description": "Square Enix and PlatinumGames are binning off their beleagured live service game Babylon's Fall. \r\n\n\r\nFuture updates planned for the game have been scrapped, and its servers will go dark on 28th February next year. After that, you will no longer be able to log in and play.\r\n\n\r\nBabylon's Fall only launched in March this year, but has struggled to attract players from the get-go. Square Enix confirmed it was pulling the plug this morning, and said it would run a final season of content from November until the game goes dark.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/babylons-fall-binned-after-less-than-a-year",
+          "publishedOn": "2022-09-13T09:48:58.000Z",
+          "wordCount": 4672,
+          "title": "Babylon's Fall binned after less than a year",
+          "imageUrl": "https://assets.reedpopcdn.com/babylons-fall-is-off-to-a-bad-start-on-steam-1646394284384.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/babylons-fall-is-off-to-a-bad-start-on-steam-1646394284384.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/cd-projekt-fully-committed-to-developing-the-cyberpunk-ip",
+          "author": "Ed Nightingale",
+          "description": "CD Projekt is \"totally, fully committed\" to developing the Cyberpunk IP further, despite Phantom Liberty confirmed as the game's only expansion.\r\n\r\n\n\r\nMichał Nowakowski, CD Projekt's vice president of business development, confirmed the news during a recent earnings call (thanks IGN).\r\n\r\n\n\r\n\"We decided to develop one major expansion for Cyberpunk, which is going to take advantage of all the capabilities of the new-gen consoles,\" said Nowakowski. \"Having said that, we're totally, fully committed to developing the Cyberpunk IP further, beyond this particular Cyberpunk expansion.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cd-projekt-fully-committed-to-developing-the-cyberpunk-ip",
+          "publishedOn": "2022-09-13T09:44:16.000Z",
+          "wordCount": 4572,
+          "title": "CD Projekt \"fully committed\" to developing the Cyberpunk IP",
+          "imageUrl": "https://assets.reedpopcdn.com/Cyberpunk-2077_-Phantom-Liberty-%E2%80%94-Official-Teaser-0-29-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Cyberpunk-2077_-Phantom-Liberty-%E2%80%94-Official-Teaser-0-29-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/ea-and-dynasty-warriors-dev-koei-tecmo-working-on-the-next-great-hunting-game",
+          "author": "Wesley Yin-Poole",
+          "description": "EA and the people behind the Dynasty Warriors series are working together on a brand new game in the Monster Hunter style.\r\n\n\r\nKoei Tecmo and its studio Omega Force, which is also behind the Hyrule Warriors games for Nintendo, are working with EA on \"the next great hunting game\", EA said in a note to press this morning.\r\n\n\r\nIt's described as an original intellectual property, and a \"truly AAA experience\" based in fantasy feudal Japan. More information will be announced later this month, EA added. Concept art is below:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-and-dynasty-warriors-dev-koei-tecmo-working-on-the-next-great-hunting-game",
+          "publishedOn": "2022-09-13T07:57:09.000Z",
+          "wordCount": 4500,
+          "title": "EA and Dynasty Warriors dev Koei Tecmo working on \"the next great hunting game\"",
+          "imageUrl": "https://assets.reedpopcdn.com/conceptart_EMBARGO_SEPT_12_3PM_PST_11PM_GMT_UK.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/conceptart_EMBARGO_SEPT_12_3PM_PST_11PM_GMT_UK.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sonys-latest-state-of-play-digital-showcase-airs-tomorrow-with-news-on-10-games",
           "author": "Matt Wales",
@@ -6567,16 +6637,6 @@
           "publishedOn": "2022-08-17T00:00:00.000Z",
           "wordCount": 54,
           "title": "Kubernetes",
-          "imageUrl": "https://cdn.festivus.dev/festivusdev/header.jpg"
-        },
-        {
-          "id": "https://festivus.dev/javascript/",
-          "author": null,
-          "description": "JavaScript Kramer tries to explain how JavaScript works to Jerry and George. George is surprised to find out that his car runs JavaScript.\nJavaScript. pic.twitter.com/YnPslr8g68\n— den (@DennisCode) August 16, 2022",
-          "link": "https://festivus.dev/javascript/",
-          "publishedOn": "2022-08-15T00:00:00.000Z",
-          "wordCount": 53,
-          "title": "JavaScript",
           "imageUrl": "https://cdn.festivus.dev/festivusdev/header.jpg"
         }
       ]
