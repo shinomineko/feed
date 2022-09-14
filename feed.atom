@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T00:32:06.640Z</updated>
+    <updated>2022-09-14T06:37:13.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.25: PodHasNetwork condition for pods]]></title>
+        <id>https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/</id>
+        <link href="https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/"/>
+        <updated>2022-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author:
+Deep Debroy (Apple)
+Kubernetes 1.25 introduces Alpha support for a new kubelet-managed pod condition
+in the status field of a pod: PodHasNetwork. The kubelet, for a worker node,
+will use the PodHasNetwork condition to accurately surface the initialization
+state of a pod from the perspective of pod sandbox creation and network
+configuration by a container runtime (typically in coordination with CNI
+plugins). The kubelet starts to pull container images and start individual
+containers (including init containers) after the status of the PodHasNetwork
+condition is set to True. Metrics collection services that report latency of
+pod initialization from a cluster infrastructural perspective (i.e. agnostic of
+per container characteristics like image size or payload) can utilize the
+PodHasNe…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breach of software maker used to backdoor as many as 200,000 servers]]></title>
         <id>https://arstechnica.com/?p=1881102</id>
@@ -10056,28 +10078,6 @@ Kubernetes. pic.twitter.com/SEt6wVklmq
         <summary type="html"><![CDATA[<p>This is more of a demonstration than a real-world vulnerability, but researchers can use electromagnetic interference to <a href="https://ieeexplore.ieee.org/abstract/document/9833718">remotely control touchscreens</a>.</p>
 <p>From a <a href="https://www.vice.com/en/article/g5vyq3/researchers-use-invisible-finger-to-remotely-control-touchscreens">news article</a>:</p>
 <blockquote><p>It&#8217;s important to note that the attack has a few key limitations. Firstly, the hackers need to know the target&#8217;s phone passcode, or launch the attack while the phone is unlocked. Secondly, the victim needs to put the phone face down, otherwise the battery and motherboard will block the electromagnetic signal. Thirdly, the antenna array has to be no more than four centimeters (around 1.5 inches) away. For all these reasons the researchers themselves admit that the &#8220;invisible finger&#8221; technique is a proof of concept that at this point is far from being a threat outside of a university lab.  ...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The next step for LGTM.com: GitHub code scanning!]]></title>
-        <id>https://github.blog/?p=66506</id>
-        <link href="https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/"/>
-        <updated>2022-08-15T15:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Today, GitHub code scanning has all of LGTM.com’s key features—and more! The time has therefore come to announce the plan for the gradual deprecation of LGTM.com.]]></summary>
-        <author>
-            <name>Bas van Schaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$23 Million YouTube Royalties Scam]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html"/>
-        <updated>2022-08-15T14:14:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>Scammers were able to convince YouTube that other peoples&#8217; music was their own. They <a href="https://mashable.com/article/youtube-copyright-royalties-heist">successfully stole $23 million</a> before they were caught.</p>
-<p>No one knows how common this scam is, and how much money total is being stolen in this way. Presumably this is not an uncommon fraud.</p>
-<blockquote><p>While the size of the heist and the breadth of the scheme may be very unique, it&#8217;s certainly a situation that many YouTube content creators have faced before. YouTube&#8217;s Content ID system, meant to help creators, has been weaponized by bad faith actors in order to make money off content that isn&#8217;t theirs. While some false claims are just mistakes caused by automated systems, the MediaMuv case is a perfect example of how fraudsters are also purposefully taking advantage of digital copyright rules...</p></blockquote>]]></summary>
         <author>
             <name>Schneier on Security</name>
         </author>

@@ -394,16 +394,6 @@
           "wordCount": 1775,
           "title": "Remotely Controlling Touchscreens",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html",
-          "author": null,
-          "description": "<p>Scammers were able to convince YouTube that other peoples&#8217; music was their own. They <a href=\"https://mashable.com/article/youtube-copyright-royalties-heist\">successfully stole $23 million</a> before they were caught.</p>\n<p>No one knows how common this scam is, and how much money total is being stolen in this way. Presumably this is not an uncommon fraud.</p>\n<blockquote><p>While the size of the heist and the breadth of the scheme may be very unique, it&#8217;s certainly a situation that many YouTube content creators have faced before. YouTube&#8217;s Content ID system, meant to help creators, has been weaponized by bad faith actors in order to make money off content that isn&#8217;t theirs. While some false claims are just mistakes caused by automated systems, the MediaMuv case is a perfect example of how fraudsters are also purposefully taking advantage of digital copyright rules...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html",
-          "publishedOn": "2022-08-15T14:14:53.000Z",
-          "wordCount": 1681,
-          "title": "$23 Million YouTube Royalties Scam",
-          "imageUrl": null
         }
       ]
     },
@@ -2755,6 +2745,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/",
+          "author": null,
+          "description": "Author:\nDeep Debroy (Apple)\nKubernetes 1.25 introduces Alpha support for a new kubelet-managed pod condition\nin the status field of a pod: PodHasNetwork. The kubelet, for a worker node,\nwill use the PodHasNetwork condition to accurately surface the initialization\nstate of a pod from the perspective of pod sandbox creation and network\nconfiguration by a container runtime (typically in coordination with CNI\nplugins). The kubelet starts to pull container images and start individual\ncontainers (including init containers) after the status of the PodHasNetwork\ncondition is set to True. Metrics collection services that report latency of\npod initialization from a cluster infrastructural perspective (i.e. agnostic of\nper container characteristics like image size or payload) can utilize the\nPodHasNe…",
+          "link": "https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/",
+          "publishedOn": "2022-09-14T00:00:00.000Z",
+          "wordCount": 3585,
+          "title": "Blog: Kubernetes 1.25: PodHasNetwork condition for pods",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/",
           "author": null,
@@ -7151,16 +7151,6 @@
           "wordCount": 5532,
           "title": "2022 Transparency Report: January to June",
           "imageUrl": "https://github.blog/wp-content/uploads/2019/03/BlogHeaders_Aligned_POLICY_1008x602_x2.png?fit=2016%2C1204"
-        },
-        {
-          "id": "https://github.blog/?p=66506",
-          "author": "Bas van Schaik",
-          "description": "Today, GitHub code scanning has all of LGTM.com’s key features—and more! The time has therefore come to announce the plan for the gradual deprecation of LGTM.com.",
-          "link": "https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/",
-          "publishedOn": "2022-08-15T15:00:07.000Z",
-          "wordCount": 1246,
-          "title": "The next step for LGTM.com: GitHub code scanning!",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/08/lgtm1.png"
         }
       ]
     },

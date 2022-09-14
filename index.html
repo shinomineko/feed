@@ -83,6 +83,65 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-14 datetime="2022-09-14T00:00:00.000Z">2022-09-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-14 datetime="2022-09-14T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.25: PodHasNetwork condition for pods</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author:
+Deep Debroy (Apple)
+Kubernetes 1.25 introduces Alpha support for a new kubelet-managed pod condition
+in the status field of a pod: PodHasNetwork. The kubelet, for a worker node,
+will use the PodHasNetwork condition to accurately surface the initialization
+state of a pod from the perspective of pod sandbox creation and network
+configuration by a container runtime (typically in coordination with CNI
+plugins). The kubelet starts to pull container images and start individual
+containers (including init containers) after the status of the PodHasNetwork
+condition is set to True. Metrics collection services that report latency of
+pod initialization from a cluster infrastructural perspective (i.e. agnostic of
+per container characteristics like image size or payload) can utilize the
+PodHasNe…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-13 datetime="2022-09-13T23:34:47.000Z">2022-09-13</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-13 datetime="2022-09-13T23:34:47.000Z"></time>
           </button>
@@ -19093,93 +19152,10 @@ It’s important to note that the attack has a few key limitations. Firstly, the
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-15 datetime="2022-08-15T15:00:07.000Z">2022-08-15</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-15 datetime="2022-08-15T15:00:07.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >The GitHub Blog</button>
-                  <a class="source-heading__link" href="https://github.blog/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://github.blog/?p&#x3D;66506"
-                        open
-                      >
-                        <summary class="article-expander__title">The next step for LGTM.com: GitHub code scanning!</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://github.blog/wp-content/uploads/2022/08/lgtm1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Today, GitHub code scanning has all of LGTM.com’s key features—and more! The time has therefore come to announce the plan for the gradual deprecation of LGTM.com.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Schneier on Security</button>
-                  <a class="source-heading__link" href="https://www.schneier.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html"
-                        open
-                      >
-                        <summary class="article-expander__title">$23 Million YouTube Royalties Scam</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Scammers were able to convince YouTube that other peoples’ music was their own. They successfully stole $23 million before they were caught.
-No one knows how common this scam is, and how much money total is being stolen in this way. Presumably this is not an uncommon fraud.
-While the size of the heist and the breadth of the scheme may be very unique, it’s certainly a situation that many YouTube content creators have faced before. YouTube’s Content ID system, meant to help creators, has been weaponized by bad faith actors in order to make money off content that isn’t theirs. While some false claims are just mistakes caused by automated systems, the MediaMuv case is a perfect example of how fraudsters are also purposefully taking advantage of digital copyright rules...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/3049329935">
-        <time id="build-timestamp" datetime="2022-09-14T00:32:06.580Z">2022-09-14T00:32:06.580Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/3050639438">
+        <time id="build-timestamp" datetime="2022-09-14T06:37:13.014Z">2022-09-14T06:37:13.014Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
