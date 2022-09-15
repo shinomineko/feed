@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/09/relay-attack-against-teslas.html",
+          "author": null,
+          "description": "<p>Nice <a href=\"https://jalopnik.com/teslas-hackers-have-found-another-unauthorized-access-v-1849535920\">work</a>:</p>\n<blockquote><p>Radio relay attacks are technically complicated to execute, but conceptually easy to understand: attackers simply extend the range of your existing key using what is essentially a high-tech walkie-talkie. One thief stands near you while you&#8217;re in the grocery store, intercepting your key&#8217;s transmitted signal with a radio transceiver. Another stands near your car, with another transceiver, taking the signal from their friend and passing it on to the car. Since the car and the key can now talk, through the thieves&#8217; range extenders, the car has no reason to suspect the key isn&#8217;t inside&#8212;and fires right up...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/relay-attack-against-teslas.html",
+          "publishedOn": "2022-09-15T15:28:52.000Z",
+          "wordCount": 1081,
+          "title": "Relay Attack against Teslas",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/upcoming-speaking-engagements-23.html",
           "author": null,
           "description": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I&#8217;m speaking as part of a Geneva Centre for Security Policy course on <a href=\"https://www.gcsp.ch/courses/cyber-security-context-international-security\">Cyber Security in the Context of International Security</a>, online, on September 22, 2022.</li>\n<li>I&#8217;m speaking at <a href=\"https://www.avantec.ch/inside/\">IT-Security INSIDE 2022</a> in Zurich, Switzerland, on September 22, 2022.</li>\n</ul>\n<p>The list is maintained on <a href=\"https://www.schneier.com/events/\">this page</a>.</p>",
@@ -402,6 +412,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1881649",
+          "author": "Kevin Purdy",
+          "description": "Electron-based Teams apps can be easily mined for tokens and used for phishing.",
+          "link": "https://arstechnica.com/?p=1881649",
+          "publishedOn": "2022-09-15T17:27:30.000Z",
+          "wordCount": 1601,
+          "title": "Microsoft Teams stores cleartext auth tokens, won’t be quickly patched",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/50779003257_d5ef47f87d_o-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881404",
+          "author": "Samuel Axon",
+          "description": "The dream of the '90s is alive on Discord.",
+          "link": "https://arstechnica.com/?p=1881404",
+          "publishedOn": "2022-09-15T17:20:01.000Z",
+          "wordCount": 1414,
+          "title": "Discord’s new feature looks a bit like Internet forums—with a dash of Reddit",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/discord-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881627",
+          "author": "Ron Amadeo",
+          "description": "The group has launched several successful projects, but now it's focusing on AI.",
+          "link": "https://arstechnica.com/?p=1881627",
+          "publishedOn": "2022-09-15T17:09:00.000Z",
+          "wordCount": 1504,
+          "title": "More Google cost cutting cancels half of the Area 120 projects",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/13-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881588",
+          "author": "Benj Edwards",
+          "description": "Adept's ACT-1 has learned how to automate complex UI tasks in web apps using an AI model.",
+          "link": "https://arstechnica.com/?p=1881588",
+          "publishedOn": "2022-09-15T16:52:22.000Z",
+          "wordCount": 1750,
+          "title": "New AI assistant can browse, search, and use web apps like a human",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/act1_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881665",
+          "author": "Jon Brodkin",
+          "description": "Ethereum replaces proof-of-work with proof-of-stake, making miners unnecessary.",
+          "link": "https://arstechnica.com/?p=1881665",
+          "publishedOn": "2022-09-15T16:39:52.000Z",
+          "wordCount": 1908,
+          "title": "Ethereum completes the “Merge,” which ends mining and cuts energy use by 99.95%",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-blockchain-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881710",
+          "author": "WIRED",
+          "description": "Yurii Shchyhol gives a rare interview about the state of the online conflict with Russia.",
+          "link": "https://arstechnica.com/?p=1881710",
+          "publishedOn": "2022-09-15T16:34:58.000Z",
+          "wordCount": 1609,
+          "title": "Ukraine’s cyberwar chief sounds like he’s winning",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/yuri-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881626",
+          "author": "John Timmer",
+          "description": "DNA may enable computation in storage on massive data sets.",
+          "link": "https://arstechnica.com/?p=1881626",
+          "publishedOn": "2022-09-15T16:28:34.000Z",
+          "wordCount": 1795,
+          "title": "Why are hard drive companies investing in DNA data storage?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1352375746-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881623",
+          "author": "Ashley Belanger",
+          "description": "Seesaw has declined to say how many accounts were spammed with Goatse.",
+          "link": "https://arstechnica.com/?p=1881623",
+          "publishedOn": "2022-09-15T15:57:04.000Z",
+          "wordCount": 1684,
+          "title": "Hack of popular parent-teacher app left users wide open to infamous shock image [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1266301908-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881611",
+          "author": "Jonathan M. Gitlin",
+          "description": "Now that there's an industry standard, automakers are starting to deploy the tech.",
+          "link": "https://arstechnica.com/?p=1881611",
+          "publishedOn": "2022-09-15T15:34:05.000Z",
+          "wordCount": 1517,
+          "title": "Easier than a plug: Wireless EV charging gets ready for prime time",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/WiTricity-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1881544",
           "author": "Beth Mole",
@@ -2916,6 +3016,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/09/15/app-rollout-features-reach-stable/",
+          "author": null,
+          "description": "Authors: Ravi Gudimetla (Apple), Filip Křepinský (Red Hat), Maciej Szulik (Red Hat)\nThis blog describes the two features namely minReadySeconds for StatefulSets and maxSurge for DaemonSets that SIG Apps is happy to graduate to stable in Kubernetes 1.25.\nSpecifying minReadySeconds slows down a rollout of a StatefulSet, when using a RollingUpdate value in .spec.updateStrategy field, by waiting for each pod for a desired time.\nThis time can be used for initializing the pod (e.g. warming up the cache) or as a delay before acknowledging the pod.\nmaxSurge allows a DaemonSet workload to run multiple instances of the same pod on a node during a rollout when using a RollingUpdate value in .spec.updateStrategy field.\nThis helps to minimize the downtime of the DaemonSet for consumers.\nThese features …",
+          "link": "https://kubernetes.io/blog/2022/09/15/app-rollout-features-reach-stable/",
+          "publishedOn": "2022-09-15T00:00:00.000Z",
+          "wordCount": 3508,
+          "title": "Blog: Kubernetes 1.25: Two Features for Apps Rollouts Graduate to Stable",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/",
           "author": null,
           "description": "Author:\nDeep Debroy (Apple)\nKubernetes 1.25 introduces Alpha support for a new kubelet-managed pod condition\nin the status field of a pod: PodHasNetwork. The kubelet, for a worker node,\nwill use the PodHasNetwork condition to accurately surface the initialization\nstate of a pod from the perspective of pod sandbox creation and network\nconfiguration by a container runtime (typically in coordination with CNI\nplugins). The kubelet starts to pull container images and start individual\ncontainers (including init containers) after the status of the PodHasNetwork\ncondition is set to True. Metrics collection services that report latency of\npod initialization from a cluster infrastructural perspective (i.e. agnostic of\nper container characteristics like image size or payload) can utilize the\nPodHasNe…",
@@ -3105,6 +3215,146 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-warzone-20-gets-a-release-date-and-an-all-new-third-person-mode",
+          "author": "Martin Robinson",
+          "description": "Following tonight's big Call of Duty blowout we finally have a release date for the much-anticipated Warzone 2.0 - plus we've plenty more details on what to expect. \r\n\n\r\nWarzone 2.0 is set to launch on 16th November, some two weeks after the launch of Modern Warfare 2 on 28th October. The pair will share the same engine, a first for the Call of Duty franchise and one that should ensure parity and a more consistent feature set - all of which makes this feel like something of a new dawn for the series. Warzone 2.0 introduces the new desert map of Al Mazrah, plus some of its own twists on the battle royale formula such as multiple circles appearing in certain end-game scenarios. It'll also feature a new AI faction, with Strong Holds harbouring loot patrolled by NPCs, and a tweaked Gulag system. There will also be a new sandbox mode called DMZ, and while details remain slim it does indeed sound like Warzone's take on Escape from Tarkov. \r\n\n\r\nLike other popular battle royale titles it will also feature a third-person view - something entirely new for Warzone 2.0, and an addition that will likely be the subject of some debate. Third-person playlists will also be available in Modern Warfare 2, harking back to the third-person mode that was available in the original Call of Duty: Modern Warfare 2 back in 2009.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-warzone-20-gets-a-release-date-and-an-all-new-third-person-mode",
+          "publishedOn": "2022-09-15T18:00:29.000Z",
+          "wordCount": 4758,
+          "title": "Call of Duty: Warzone 2.0 gets a release date and an all-new third person mode",
+          "imageUrl": "https://assets.reedpopcdn.com/modern-warfare-2-visual-3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modern-warfare-2-visual-3.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/lego-bricktales-still-gorgeous-gets-an-october-release-date",
+          "author": "Matt Wales",
+          "description": "Lego Bricktales, the beautiful diorama-based puzzler from developer ClockStone, finally has a release date and will be coming to Switch, Xbox, PlayStation, and PC on 12th October.\r\n\n\r\nAnnounced back in March, Lego Bricktales sees players traversing five gorgeous, brick-based dioramas - a lush jungle, sun-drenched desert, bustling city corner, medieval castle, and tropical island - as they, with the assistant of a cute robot pal, embark on a quest to help their grandfather reinvigorate his rundown amusement park.\r\n\n\r\nThe ensuing adventure offers a blend of puzzling and questing based around Lego Bricktales' brick-by-brick building mechanic, challenging players to come up with a solution to a particular task at hand by building something from a limited number of bricks - a bridge to cross a river, for instance, or a flyable, physics-based gyrocopter.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lego-bricktales-still-gorgeous-gets-an-october-release-date",
+          "publishedOn": "2022-09-15T17:57:04.000Z",
+          "wordCount": 4582,
+          "title": "Lego Bricktales still gorgeous, gets an October release date",
+          "imageUrl": "https://assets.reedpopcdn.com/lego-bricktales_EvdhQFZ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-bricktales_EvdhQFZ.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/acclaimed-southern-gothic-mystery-norco-coming-to-consoles-next-month",
+          "author": "Matt Wales",
+          "description": "Norco, the acclaimed southern gothic adventure from developer Geography of Robots, will be making the jump from PC to PlayStation and Xbox next month, arriving on 20th October.\r\n\n\r\nNorco unfolds in the \"sinking suburbs and verdant industrial swamps\" of a surreal, future South Louisiana, where players - in the role of a rebellious teenage girl - embark on a quest to find their brother, Blake, missing after the death of their mother.\r\n\n\r\nWhat follows is ostensibly a point-and-click adventure, but one that aims in all sorts of directions, with Eurogamer's Chris Tapsell somewhat futilely summing it up as a \"text-adventure, turn-based party battler, boat-navigating... poem... puzzler?\" in his review.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/acclaimed-southern-gothic-mystery-norco-coming-to-consoles-next-month",
+          "publishedOn": "2022-09-15T17:09:15.000Z",
+          "wordCount": 4539,
+          "title": "Acclaimed southern gothic mystery Norco coming to consoles next month",
+          "imageUrl": "https://assets.reedpopcdn.com/norco-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/norco-art.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/street-fighter-6-will-have-a-closed-beta-in-october",
+          "author": "Liv Ngan",
+          "description": "Capcom just announced the dates for Street Fighter 6's upcoming closed beta test.\r\n\nThe dates were shown as part of Capcom's Tokyo Game Show livestream event earlier today, which also included a new look at parts of the game and some returning fighters.\r\n\nSeries veterans Ken, Blanka, Dhalsim and E. Honda were all confirmed as returning characters to the roster. Footage of the Battle Hub showed a game centre full of arcade cabinets for players to compete against one another.\n Read more",
+          "link": "https://www.eurogamer.net/street-fighter-6-will-have-a-closed-beta-in-october",
+          "publishedOn": "2022-09-15T16:32:15.000Z",
+          "wordCount": 4592,
+          "title": "Street Fighter 6 will have a closed beta in October",
+          "imageUrl": "https://assets.reedpopcdn.com/street-fighter-6-key-art-2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/street-fighter-6-key-art-2.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/eurogamer-newscast-nintendo-direct-playstation-yakuza-microsoft-disappointment",
+          "author": "Tom Phillips",
+          "description": "We're back again this week for another Eurogamer Newscast, focusing on the recent Nintendo Direct and PlayStation State of Play, plus the week's big news on the Yakuza franchise and what's next from Xbox Game Pass. It's been a busy week - full of Zelda, Pikmin, God of War and Yakuza 8 - but some corners of the internet are disappointed.\r\n\n\r\nTrue, we didn't see some of the things we had expected might materialise. This week was not when we saw Wind Waker on Switch, Silent Hill on PlayStation, or got some kind of assurance Nintendo remembered what Metroid even was. But that's not to say there isn't plenty to look forward to.\r\n\nJoin Tom Phillips, Victoria Kennedy, Ishraq Subhan and Liv Ngan for our Zelda: Tears of the Kingdom theories, thoughts on new Switch hardware, and our expert opinion on where to start with Yakuza.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eurogamer-newscast-nintendo-direct-playstation-yakuza-microsoft-disappointment",
+          "publishedOn": "2022-09-15T15:38:22.000Z",
+          "wordCount": 4596,
+          "title": "Were Nintendo Direct and PlayStation State of Play a disappointment?",
+          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/naughty-dog-confirms-uncharted-legacy-of-thieves-pc-release-date",
+          "author": "Victoria Kennedy",
+          "description": "We had heard the rumours, thanks to an accidental leak from the Epic Games Store, but now Naughty Dog has officially confirmed that the Uncharted: Legacy of Thieves collection for PC will be arriving on 19th October.\r\n\n\r\nAlong with this news, we also have a new trailer (see below) and more details about the game's graphical adjustments and customisation options, among others.\r\n\n\r\nNaughty Dog has now revealed the PC specs for this release, which can be seen in the image below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/naughty-dog-confirms-uncharted-legacy-of-thieves-pc-release-date",
+          "publishedOn": "2022-09-15T15:33:30.000Z",
+          "wordCount": 4544,
+          "title": "Naughty Dog confirms Uncharted: Legacy of Thieves PC release date",
+          "imageUrl": "https://assets.reedpopcdn.com/swimming-drake.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/swimming-drake.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-giving-microsoft-control-of-activision-games-like-call-of-duty-has-major-negative-implications",
+          "author": "Ishraq Subhan",
+          "description": "UPDATE 5pm UK: In a statement to Eurogamer, a Microsoft spokesperson has addressed Sony's statement: \"It makes zero business sense for Microsoft to remove Call of Duty from PlayStation given its market leading console position.\"\r\n\nORIGINAL STORY 4.45pm UK: \r\nSony says it \"welcomes the announcement\" by the UK's Competition and Markets Authority that it will further investigate Microsoft's acquisition of Activision Blizzard. \r\n\n\r\nIn a statement to GamesIndustry.Biz, the platform holder said that \"by giving Microsoft control of Activision games like Call of Duty, this deal would have major negative implications for gamers and the future of the gaming industry\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-giving-microsoft-control-of-activision-games-like-call-of-duty-has-major-negative-implications",
+          "publishedOn": "2022-09-15T15:21:57.000Z",
+          "wordCount": 4619,
+          "title": "Sony: \"Giving Microsoft control of Activision games like Call of Duty\" has \"major negative implications\"",
+          "imageUrl": "https://assets.reedpopcdn.com/microsoft_1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/microsoft_1920x1080.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-resident-evil-village-dlc-trailer-reveals-roses-mysterious-power",
+          "author": "Victoria Kennedy",
+          "description": "At the conclusion of Resident Evil Village, it was teased that Ethan Winters' now teenage daughter could wield some impressive powers. What exactly these powers were was never disclosed, with Rose revealing that \"even Chris\" didn't know the full extent of what she could do thanks to her brush with the megamycete. \r\n\n\r\nHowever, a new trailer for Village's The Winter's Expansion DLC has shown off more from its new story, Shadows of Rose, including what these powers are.\r\n\n\r\nShared as part of Capcom's Tokyo Game Show presentation, this trailer reveals that Rose is actually able to freeze her enemies. So, very name appropriate.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-resident-evil-village-dlc-trailer-reveals-roses-mysterious-power",
+          "publishedOn": "2022-09-15T15:03:31.000Z",
+          "wordCount": 4600,
+          "title": "New Resident Evil Village DLC trailer reveals Rose's mysterious power",
+          "imageUrl": "https://assets.reedpopcdn.com/rose-resi-village.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rose-resi-village.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/343-backtracks-on-adding-a-premium-currency-to-halo-mcc",
+          "author": "Ishraq Subhan",
+          "description": "343 Industries has announced that it will not be adding purchasable Spartan Points into Halo: The Master Chief Collection. \r\n\nBack in June, 343 discussed the idea of introducing Spartan Points, a premium currency to unlock items within the game.\r\n\n\r\nThe idea was that given there are over 1000 customisation items in MCC which were added over the years, it could be overwhelming for new players or those who only hop into the game occasionally. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/343-backtracks-on-adding-a-premium-currency-to-halo-mcc",
+          "publishedOn": "2022-09-15T14:40:00.000Z",
+          "wordCount": 4624,
+          "title": "343 backtracks on adding a premium currency to Halo MCC",
+          "imageUrl": "https://assets.reedpopcdn.com/halo-mcc.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/halo-mcc.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/capcom-announces-resident-evil-4-remake-last-gen-version-for-ps4-but-not-xbox-one",
+          "author": "Tom Phillips",
+          "description": "Capcom has announced a last-gen PlayStation 4 version of its upcoming Resident Evil 4 remake - but will still skip the Xbox One. \r\n\n\r\nThe long-rumoured Resi 4 remake was finally unveiled back in June, and was initially announced for just PC, PlayStation 5 and Xbox Series X/S.\r\n\n\r\nToday, during a Tokyo Games Show livestream, Capcom said it had been working on securing a last-gen version of the game as well - and it had done so, but only for PS4.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/capcom-announces-resident-evil-4-remake-last-gen-version-for-ps4-but-not-xbox-one",
+          "publishedOn": "2022-09-15T14:36:34.000Z",
+          "wordCount": 4497,
+          "title": "Capcom announces Resident Evil 4 remake last-gen version for PS4, but not Xbox One",
+          "imageUrl": "https://assets.reedpopcdn.com/Resident-Evil-4-Remake-4-2985914099/BROK/thumbnail/1600x900/format/jpg/quality/80/Resident-Evil-4-Remake-4-2985914099"
+        },
+        {
+          "id": "https://www.eurogamer.net/discord-update-adds-forum-channels-to-community-servers",
+          "author": "Victoria Kennedy",
+          "description": "Forum channels have been added to Discord's community servers.\r\n\n\r\nThis new feature will allow users to create \"dedicated spaces for each new topic of discussion,\" Discord explains.\r\n\n\r\n\"You'll be able to see everything people are chatting about before you jump in, allowing you to engage in an existing discussion - or start a new one - without worrying about breaking up or getting in the way of other ongoing conversations.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/discord-update-adds-forum-channels-to-community-servers",
+          "publishedOn": "2022-09-15T14:06:44.000Z",
+          "wordCount": 4537,
+          "title": "Discord update adds forum channels to community servers",
+          "imageUrl": "https://assets.reedpopcdn.com/image-(110).png/BROK/thumbnail/1600x900/format/jpg/quality/80/image-(110).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/howlongtobeat-has-been-integrated-into-xbox-app-on-pc",
+          "author": "Liv Ngan",
+          "description": "A new update for the Xbox app on PC has added official integration of website HowLongToBeat.\r\n\nIf you haven't used it before, HowLongToBeat is a community run website where people can log how long it took them to beat a certain game. The times are then averaged to provide a rough estimate of the game's expected length.\r\n\nIt's by no means sound scientifically, but it's a nifty way of ballparking how much time you might need to finish a game's story before you commit to playing (or buying) it.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/howlongtobeat-has-been-integrated-into-xbox-app-on-pc",
+          "publishedOn": "2022-09-15T13:49:39.000Z",
+          "wordCount": 4577,
+          "title": "HowLongToBeat has been integrated into the Xbox app on PC",
+          "imageUrl": "https://assets.reedpopcdn.com/howlongtobeat-85b83b3d852698a22666.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/howlongtobeat-85b83b3d852698a22666.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/modern-warfare-2s-gunsmith-20-is-more-customisable-than-ever-before",
+          "author": "Ishraq Subhan",
+          "description": "Infinity Ward has shared new details on Call of Duty: Modern Warfare 2's Gunsmith, dubbed \"Gunsmith 2.0.\" \r\n\n\r\nGunsmith was first introduced in Call of Duty: Modern Warfare (2019) as a replacement of the attachment system used in preceding titles, and it's been used in every game since. \r\n\n\r\nThe system allows players to customise their weapons in greater detail, with multiple attachments, optics and of course, skins. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/modern-warfare-2s-gunsmith-20-is-more-customisable-than-ever-before",
+          "publishedOn": "2022-09-15T13:23:57.000Z",
+          "wordCount": 4626,
+          "title": "Modern Warfare 2's Gunsmith 2.0 is more customisable than ever before",
+          "imageUrl": "https://assets.reedpopcdn.com/Gunsmith-2.0-_-Call-of-Duty_-Modern-Warfare_-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Gunsmith-2.0-_-Call-of-Duty_-Modern-Warfare_-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/sable-coming-to-playstation-5-along-with-new-content-and-features",
+          "author": "Victoria Kennedy",
+          "description": "Coming-of-age title Sable is making its way to PlayStation 5 by the \"end of this year\", publisher Raw Fury has announced.\r\n\n\r\nOn its release, players will receive new content including a fishing mini game and an angler mask. There will also be the chance to add various fish and insects to your Vivarium. \r\n\n\r\nMeanwhile, developer Shedworks has said, thanks to the PS5's DualSense controller, riding over the game's sand dunes will be \"as immersive as ever\" with this release.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sable-coming-to-playstation-5-along-with-new-content-and-features",
+          "publishedOn": "2022-09-15T13:13:56.000Z",
+          "wordCount": 4545,
+          "title": "Sable coming to PlayStation 5, along with new content and features",
+          "imageUrl": "https://assets.reedpopcdn.com/Sable_Banner_NoLogo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Sable_Banner_NoLogo.png"
+        },
         {
           "id": "https://www.eurogamer.net/production-on-season-2-of-paramounts-halo-adaptation-has-begun",
           "author": "Victoria Kennedy",
