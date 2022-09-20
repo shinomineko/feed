@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-19T18:28:17.434Z</updated>
+    <updated>2022-09-20T00:33:32.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Big gaming companies get DHS help to keep players from becoming terrorists]]></title>
+        <id>https://arstechnica.com/?p=1882731</id>
+        <link href="https://arstechnica.com/?p=1882731"/>
+        <updated>2022-09-19T22:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Researchers target online gaming companies like Activision and Roblox.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple plans a fix for “grinding,” “vibrating” iPhone 14 Pro Max cameras next week]]></title>
+        <id>https://arstechnica.com/?p=1882678</id>
+        <link href="https://arstechnica.com/?p=1882678"/>
+        <updated>2022-09-19T19:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Bug is most likely an issue with the optical image stabilization system.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After strong interest, VW plans to build 130,000 ID Buzzes a year]]></title>
+        <id>https://arstechnica.com/?p=1882707</id>
+        <link href="https://arstechnica.com/?p=1882707"/>
+        <updated>2022-09-19T19:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Production of the EV for European customers has already begun in Hannover.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14 teardown: One key change makes it much easier to repair]]></title>
+        <id>https://arstechnica.com/?p=1882610</id>
+        <link href="https://arstechnica.com/?p=1882610"/>
+        <updated>2022-09-19T19:39:58.000Z</updated>
+        <summary type="html"><![CDATA[iFixit calls it the biggest redesign since the iPhone X—but only on the inside.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI software helps bust image fraud in academic papers]]></title>
+        <id>https://arstechnica.com/?p=1882596</id>
+        <link href="https://arstechnica.com/?p=1882596"/>
+        <updated>2022-09-19T19:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Proofig and ImageTwin software help detect fudged "Western blot" image data in academic papers.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub]]></title>
+        <id>https://github.blog/?p=67109</id>
+        <link href="https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/"/>
+        <updated>2022-09-19T19:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Three new Campus Experts are joining the fall 2022 batch of the MLH Fellowship to work with open source maintainers and get real-world experience.]]></summary>
+        <author>
+            <name>Ashley Bass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden calls pandemic “over” despite pathetic booster rates and new variants]]></title>
+        <id>https://arstechnica.com/?p=1882677</id>
+        <link href="https://arstechnica.com/?p=1882677"/>
+        <updated>2022-09-19T19:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Biden's "over" comment highlights our complicated, precarious pandemic status.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 steps to convince your boss to send you to GitHub Universe]]></title>
         <id>https://github.blog/?p=67147</id>
@@ -118,6 +188,18 @@ Rockstar said it hoped the hack would have no impact on its live services - such
 <blockquote><p>CBP&#8217;s inspection of people&#8217;s phones, laptops, tablets and other electronic devices as they enter the country has long been a controversial practice that the agency has defended as a low-impact way to pursue possible security threats and determine an individual&#8217;s &#8220;intentions upon entry&#8221; into the U.S. But the revelation that thousands of agents have access to a searchable database without public oversight is a new development in what privacy advocates and some lawmakers warn could be an infringement of Americans&#8217; Fourth Amendment rights against unreasonable searches and seizures...</p></blockquote>]]></summary>
         <author>
             <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.25: Local Storage Capacity Isolation Reaches GA]]></title>
+        <id>https://kubernetes.io/blog/2022/09/19/local-storage-capacity-isolation-ga/</id>
+        <link href="https://kubernetes.io/blog/2022/09/19/local-storage-capacity-isolation-ga/"/>
+        <updated>2022-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Jing Xu (Google)
+Local ephemeral storage capacity isolation was introduced as a alpha feature in Kubernetes 1.7 and it went beta in 1.9. With Kubernetes 1.25 we are excited to announce general availability(GA) of this feature.
+Pods use ephemeral local storage for scratch space, caching, and logs. The lifetime of local ephemeral storage does not extend beyond the life of the individual pod. It is exposed to pods using the container’s writable layer, logs directory, and EmptyDir volumes. Before this feature was introduced, there were issues related to the lack of local storage accounting and isolation, such as Pods not knowing how much local storage is available and being unable to request guaranteed local storage. Local storage is a best-effort resource and pods can be evicted due t…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
         </author>
     </entry>
     <entry>
@@ -12095,54 +12177,6 @@ Read more]]></summary>
 Though details are light - more will be revealed in an upcoming livestream set for 21st August - we do learn more about new a 1 Health and 3 Speed Attacker Grim, a Singaporean with one goal: "to get the job done".
 
 "Grim's experience in the EOD taught him how easily things can blow up when a target's position and proximity is unknown," Ubisoft teases in a blog update. "That's where the Kawan Hive Launcher comes in, with no reload and a low fire rate the launcher allows for versatile gameplay, using Intel-Gathering and Area Denial to counter roamers, make entry, and protect objectives.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega is now turning Space Channel 5 and Comix Zone into movies]]></title>
-        <id>https://www.eurogamer.net/sega-is-now-turning-space-channel-5-and-comix-zone-into-movies</id>
-        <link href="https://www.eurogamer.net/sega-is-now-turning-space-channel-5-and-comix-zone-into-movies"/>
-        <updated>2022-08-21T11:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Sega is giving two more of its classic titles the movie treatment: Space Channel 5 and Comix Zone.
-
-No doubt inspired by the runaway success of the Sonic movies, Sega looks set to adapt the two games alongside Picturestart, which is also working on the upcoming Borderlands movie (which is seemingly now in post-production).
-
-Dance game Space Channel 5 will be retitled Channel 5 and, according to Hollywood Reporter, "tell the story of a hapless fast-food worker who is recruited by a freedom reporter from the future to save the world from aliens using the one thing that unites all people on the planet: our love of silly viral dances". 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New job ad hints that Netflix is "rapidly expanding new gaming offerings"]]></title>
-        <id>https://www.eurogamer.net/new-job-ad-says-netflix-is-rapidly-expanding-new-gaming-offerings</id>
-        <link href="https://www.eurogamer.net/new-job-ad-says-netflix-is-rapidly-expanding-new-gaming-offerings"/>
-        <updated>2022-08-21T10:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Netflix is looking to "rapidly expand" the "new gaming offerings" available on its cloud gaming service.
-
-That's according to a new job advertisement put out by the company that seeks a new senior software engineer with "experience with game development".
-
-As well as finding someone with all the necessary coding skills, Netflix hopes the new recruit will also have some experience in "Unity or Unreal game engines" and says it is "rapidly expanding new gaming offerings" on its global streaming service. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Fantasy 14 hopes this poster will persuade you to "voluntarily return" any "accidental" lottery deposits]]></title>
-        <id>https://www.eurogamer.net/final-fantasy-14-hopes-this-poster-will-persuade-you-to-voluntarily-return-any-accidental-lottery-deposits</id>
-        <link href="https://www.eurogamer.net/final-fantasy-14-hopes-this-poster-will-persuade-you-to-voluntarily-return-any-accidental-lottery-deposits"/>
-        <updated>2022-08-21T10:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Final Fantasy 14 is hoping that a cute poster will persuade players to "voluntarily return" any mistaken housing lottery deposits.
-
-In a broader update about the 6.2 patch, the Final Fantasy 14 development team finally confirmed plans "to address a recent issue with the housing lottery system".
-
-"An NPC by which players may voluntarily return the deposit they were accidentally refunded has been added," the update states, above an image of three cute apology posters starring Namazu and Lalafell.
  
 Read more]]></summary>
         <author>

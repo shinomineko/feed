@@ -403,6 +403,66 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1882731",
+          "author": "Ashley Belanger",
+          "description": "Researchers target online gaming companies like Activision and Roblox.",
+          "link": "https://arstechnica.com/?p=1882731",
+          "publishedOn": "2022-09-19T22:08:02.000Z",
+          "wordCount": 2417,
+          "title": "Big gaming companies get DHS help to keep players from becoming terrorists",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1391417006-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882678",
+          "author": "Andrew Cunningham",
+          "description": "Bug is most likely an issue with the optical image stabilization system.",
+          "link": "https://arstechnica.com/?p=1882678",
+          "publishedOn": "2022-09-19T19:53:21.000Z",
+          "wordCount": 1386,
+          "title": "Apple plans a fix for “grinding,” “vibrating” iPhone 14 Pro Max cameras next week",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone-14-pro-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882707",
+          "author": "Jonathan M. Gitlin",
+          "description": "Production of the EV for European customers has already begun in Hannover.",
+          "link": "https://arstechnica.com/?p=1882707",
+          "publishedOn": "2022-09-19T19:48:28.000Z",
+          "wordCount": 1324,
+          "title": "After strong interest, VW plans to build 130,000 ID Buzzes a year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ID-Buzzes-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882610",
+          "author": "Samuel Axon",
+          "description": "iFixit calls it the biggest redesign since the iPhone X—but only on the inside.",
+          "link": "https://arstechnica.com/?p=1882610",
+          "publishedOn": "2022-09-19T19:39:58.000Z",
+          "wordCount": 1550,
+          "title": "iPhone 14 teardown: One key change makes it much easier to repair",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iPhone-14-middle-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882596",
+          "author": "Benj Edwards",
+          "description": "Proofig and ImageTwin software help detect fudged \"Western blot\" image data in academic papers.",
+          "link": "https://arstechnica.com/?p=1882596",
+          "publishedOn": "2022-09-19T19:32:47.000Z",
+          "wordCount": 1471,
+          "title": "AI software helps bust image fraud in academic papers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/western_blot_3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882677",
+          "author": "Beth Mole",
+          "description": "Biden's \"over\" comment highlights our complicated, precarious pandemic status.",
+          "link": "https://arstechnica.com/?p=1882677",
+          "publishedOn": "2022-09-19T19:15:09.000Z",
+          "wordCount": 1807,
+          "title": "Biden calls pandemic “over” despite pathetic booster rates and new variants",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1243237881-760x380.jpeg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1882617",
           "author": "Jon Brodkin",
           "description": "Group claims to \"give a voice\" to small firms while fighting bills opposed by Apple.",
@@ -3395,6 +3455,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/09/19/local-storage-capacity-isolation-ga/",
+          "author": null,
+          "description": "Author: Jing Xu (Google)\nLocal ephemeral storage capacity isolation was introduced as a alpha feature in Kubernetes 1.7 and it went beta in 1.9. With Kubernetes 1.25 we are excited to announce general availability(GA) of this feature.\nPods use ephemeral local storage for scratch space, caching, and logs. The lifetime of local ephemeral storage does not extend beyond the life of the individual pod. It is exposed to pods using the container’s writable layer, logs directory, and EmptyDir volumes. Before this feature was introduced, there were issues related to the lack of local storage accounting and isolation, such as Pods not knowing how much local storage is available and being unable to request guaranteed local storage. Local storage is a best-effort resource and pods can be evicted due t…",
+          "link": "https://kubernetes.io/blog/2022/09/19/local-storage-capacity-isolation-ga/",
+          "publishedOn": "2022-09-19T00:00:00.000Z",
+          "wordCount": 3802,
+          "title": "Blog: Kubernetes 1.25: Local Storage Capacity Isolation Reaches GA",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/09/15/app-rollout-features-reach-stable/",
           "author": null,
@@ -8324,36 +8394,6 @@
           "wordCount": 4661,
           "title": "This new Attacker puts the Swarm in Rainbow Six Siege's upcoming Operation Brutal Swarm",
           "imageUrl": "https://assets.reedpopcdn.com/R6_live_Y7S3_BRUTALSWARM_Teaser_KeyArt.png/BROK/thumbnail/1600x900/format/jpg/quality/80/R6_live_Y7S3_BRUTALSWARM_Teaser_KeyArt.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/sega-is-now-turning-space-channel-5-and-comix-zone-into-movies",
-          "author": "Vikki Blake",
-          "description": "Sega is giving two more of its classic titles the movie treatment: Space Channel 5 and Comix Zone.\r\n\nNo doubt inspired by the runaway success of the Sonic movies, Sega looks set to adapt the two games alongside Picturestart, which is also working on the upcoming Borderlands movie (which is seemingly now in post-production).\r\n\nDance game Space Channel 5 will be retitled Channel 5 and, according to Hollywood Reporter, \"tell the story of a hapless fast-food worker who is recruited by a freedom reporter from the future to save the world from aliens using the one thing that unites all people on the planet: our love of silly viral dances\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/sega-is-now-turning-space-channel-5-and-comix-zone-into-movies",
-          "publishedOn": "2022-08-21T11:15:59.000Z",
-          "wordCount": 4630,
-          "title": "Sega is now turning Space Channel 5 and Comix Zone into movies",
-          "imageUrl": "https://assets.reedpopcdn.com/SC5VR-screen01-800x450.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/SC5VR-screen01-800x450.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-job-ad-says-netflix-is-rapidly-expanding-new-gaming-offerings",
-          "author": "Vikki Blake",
-          "description": "Netflix is looking to \"rapidly expand\" the \"new gaming offerings\" available on its cloud gaming service.\r\n\nThat's according to a new job advertisement put out by the company that seeks a new senior software engineer with \"experience with game development\".\r\n\nAs well as finding someone with all the necessary coding skills, Netflix hopes the new recruit will also have some experience in \"Unity or Unreal game engines\" and says it is \"rapidly expanding new gaming offerings\" on its global streaming service. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-job-ad-says-netflix-is-rapidly-expanding-new-gaming-offerings",
-          "publishedOn": "2022-08-21T10:58:41.000Z",
-          "wordCount": 4558,
-          "title": "New job ad hints that Netflix is \"rapidly expanding new gaming offerings\"",
-          "imageUrl": "https://assets.reedpopcdn.com/netflix_mobile_videojogos.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/netflix_mobile_videojogos.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-14-hopes-this-poster-will-persuade-you-to-voluntarily-return-any-accidental-lottery-deposits",
-          "author": "Vikki Blake",
-          "description": "Final Fantasy 14 is hoping that a cute poster will persuade players to \"voluntarily return\" any mistaken housing lottery deposits.\r\n\nIn a broader update about the 6.2 patch, the Final Fantasy 14 development team finally confirmed plans \"to address a recent issue with the housing lottery system\".\r\n\n\"An NPC by which players may voluntarily return the deposit they were accidentally refunded has been added,\" the update states, above an image of three cute apology posters starring Namazu and Lalafell.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-14-hopes-this-poster-will-persuade-you-to-voluntarily-return-any-accidental-lottery-deposits",
-          "publishedOn": "2022-08-21T10:34:50.000Z",
-          "wordCount": 4686,
-          "title": "Final Fantasy 14 hopes this poster will persuade you to \"voluntarily return\" any \"accidental\" lottery deposits",
-          "imageUrl": "https://assets.reedpopcdn.com/2bb3b97e66c5560c4d761742c2757e6a47ce0c51_4.png/BROK/thumbnail/1600x900/format/jpg/quality/80/2bb3b97e66c5560c4d761742c2757e6a47ce0c51_4.png"
         }
       ]
     },
@@ -8362,6 +8402,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=67109",
+          "author": "Ashley Bass",
+          "description": "Three new Campus Experts are joining the fall 2022 batch of the MLH Fellowship to work with open source maintainers and get real-world experience.",
+          "link": "https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/",
+          "publishedOn": "2022-09-19T19:15:58.000Z",
+          "wordCount": 1761,
+          "title": "Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/09/mlhfellowship1.png?fit=1600%2C800"
+        },
         {
           "id": "https://github.blog/?p=67147",
           "author": "Kedasha Kerr",
