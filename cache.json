@@ -124,16 +124,6 @@
           "wordCount": 232,
           "title": "Tetherball Configurations",
           "imageUrl": "https://imgs.xkcd.com/comics/tetherball_configurations_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2662/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/physics_safety_tip.png\" title=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" alt=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" />",
-          "link": "https://xkcd.com/2662/",
-          "publishedOn": "2022-08-22T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Physics Safety Tip",
-          "imageUrl": "https://imgs.xkcd.com/comics/physics_safety_tip_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/09/credit-card-fraud-that-bypasses-2fa.html",
+          "author": null,
+          "description": "<p>Someone in the UK is stealing <a href=\"https://www.bbc.com/news/uk-england-london-62809151\">smartphones and credit cards</a> from people who have stored them in gym lockers, and is using the two items in combination to commit fraud:</p>\n<blockquote><p>Phones, of course, can be made inaccessible with the use of passwords and face or fingerprint unlocking. And bank cards can be stopped.</p>\n<p>But the thief has a method which circumnavigates those basic safety protocols.</p>\n<p>Once they have the phone and the card, they register the card on the relevant bank&#8217;s app on their own phone or computer. Since it is the first time that card will have been used on the new device, a one-off security passcode is demanded...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/credit-card-fraud-that-bypasses-2fa.html",
+          "publishedOn": "2022-09-20T11:29:41.000Z",
+          "wordCount": 903,
+          "title": "Credit Card Fraud That Bypasses 2FA",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/09/large-scale-collection-of-cell-phone-data-at-us-borders.html",
           "author": null,
@@ -3584,16 +3584,6 @@
           "wordCount": 4551,
           "title": "Blog: Kubernetes v1.25: Combiner",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/08/22/sig-storage-spotlight/",
-          "author": null,
-          "description": "Author: Frederico Muñoz (SAS)\nSince the very beginning of Kubernetes, the topic of persistent data and how to address the requirement of stateful applications has been an important topic. Support for stateless deployments was natural, present from the start, and garnered attention, becoming very well-known. Work on better support for stateful applications was also present from early on, with each release increasing the scope of what could be run on Kubernetes.\nMessage queues, databases, clustered filesystems: these are some examples of the solutions that have different storage requirements and that are, today, increasingly deployed in Kubernetes. Dealing with ephemeral and persistent storage, local or remote, file or block, from many different vendors, while considering how to provide the …",
-          "link": "https://kubernetes.io/blog/2022/08/22/sig-storage-spotlight/",
-          "publishedOn": "2022-08-22T00:00:00.000Z",
-          "wordCount": 4689,
-          "title": "Blog: Spotlight on SIG Storage",
-          "imageUrl": null
         }
       ]
     },
@@ -3655,6 +3645,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/fbi-investigating-hacker-who-claimed-to-have-breached-rockstar-and-uber",
+          "author": "Tom Phillips",
+          "description": "The hacker who claimed responsibility for this weekend's enormous leak of Grand Theft Auto 6 material is now being investigated by the FBI. \r\n\n\r\nThe same attacker also said they were behind last week's high-profile hack of ride app Uber, which has provided an update on its own investigations.\r\n\n\r\n\"There are also reports over the weekend that this same actor breached video game maker Rockstar Games,\" Uber wrote in a newly-updated blog. \"We are in close coordination with the FBI and US Department of Justice on this matter and will continue to support their efforts.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fbi-investigating-hacker-who-claimed-to-have-breached-rockstar-and-uber",
+          "publishedOn": "2022-09-20T12:02:54.000Z",
+          "wordCount": 4583,
+          "title": "FBI investigate hacker allegedly behind Rockstar GTA 6 leak",
+          "imageUrl": "https://assets.reedpopcdn.com/gta_ulNGkq1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gta_ulNGkq1.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/valve-making-early-start-on-q4-steam-deck-reservations-as-it-beats-production-estimates-again",
+          "author": "Victoria Kennedy",
+          "description": "For those of you still waiting to get your hands on one of Valve's portable Steam Deck PCs, there is good news. \r\n\n\r\nValve has announced it has \"beaten [its] own estimates yet again\" thanks to \"increased production\". \r\n\n\r\nAs a result, it has now sent out all its emails to those in the Q3 bracket of reservations, and is now getting a headstart on those in Q4. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/valve-making-early-start-on-q4-steam-deck-reservations-as-it-beats-production-estimates-again",
+          "publishedOn": "2022-09-20T11:48:39.000Z",
+          "wordCount": 4518,
+          "title": "Valve making early start on Q4 Steam Deck reservations, as it beats production estimates again",
+          "imageUrl": "https://assets.reedpopcdn.com/steam-deck-header_YnN40c9.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam-deck-header_YnN40c9.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/butterfly-soup-2-out-next-month",
+          "author": "Liv Ngan",
+          "description": "Developer Brianna Lei has announced a sequel to her 2017 game Butterfly Soup, and it's out next month.\r\n\nButterfly Soup 2 is due to launch on 29th October, and will follow the four main characters a few months after the original story.\r\n\nWe've previously featured Butterfly Soup in a piece by Natalie Flores on the humanisation of queer women through humour in games, and Butterfly Soup has this in spades.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/butterfly-soup-2-out-next-month",
+          "publishedOn": "2022-09-20T11:29:14.000Z",
+          "wordCount": 4586,
+          "title": "Butterfly Soup 2 out next month",
+          "imageUrl": "https://assets.reedpopcdn.com/butterfly-soup-2-title.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/butterfly-soup-2-title.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/resident-evil-village-dlc-will-conclude-the-winters-family-saga",
+          "author": "Victoria Kennedy",
+          "description": "Resident Evil Village's Shadows of Rose DLC will serve as Capcom's final act for the Winters family, the publisher has said.\r\n\n\r\nTalking to IGN, Director Kento Kinoshita stated Capcom is \"creating the Shadows of Rose story to conclude the Winters family saga.\"\r\n\n\r\nThis means any future entries to the series will likely introduce us to a new set of characters or bring back some older faces from the previous generations of games - though Capcom itself is tight-lipped on any further details.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/resident-evil-village-dlc-will-conclude-the-winters-family-saga",
+          "publishedOn": "2022-09-20T11:14:09.000Z",
+          "wordCount": 4625,
+          "title": "Resident Evil Village DLC will conclude \"the Winters family saga\"",
+          "imageUrl": "https://assets.reedpopcdn.com/resi-village-screen-winters-fam-walking-away.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resi-village-screen-winters-fam-walking-away.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ea-boss-says-questions-over-call-of-duty-exclusivity-tremendous-opportunity-for-battlefield",
+          "author": "Tom Phillips",
+          "description": "EA boss Andrew Wilson has suggested the ongoing drama surrounding the future of Call of Duty is \"a tremendous opportunity\" for his company's beleagured Battlefield franchise.\r\n\n\r\nWilson issued the comment at a financial event organised by Goldman Sachs (transcribed by Seeking Alpha), where he contrasted Call of Duty's situation with that of Battlefield - the latter of which, he boasted, was \"platform agnostic\".\r\n\n\r\n\"In a world where there may be questions over the future of Call of Duty and what platforms that might be on or might not be on, being platform agnostic and completely cross-platform with Battlefield, I think is a tremendous opportunity,\" Wilson said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-boss-says-questions-over-call-of-duty-exclusivity-tremendous-opportunity-for-battlefield",
+          "publishedOn": "2022-09-20T11:12:36.000Z",
+          "wordCount": 4823,
+          "title": "Questions over Call of Duty exclusivity \"tremendous opportunity\" for Battlefield, EA boss says",
+          "imageUrl": "https://assets.reedpopcdn.com/EGS_Battlefield2042GoldEdition_DICE_Editions_S1_2560x1440-98e3508c62e4d57c1ab8c109b49016a2_2560x1440-98e3508c62e4d57c1ab8c109b49016a2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/EGS_Battlefield2042GoldEdition_DICE_Editions_S1_2560x1440-98e3508c62e4d57c1ab8c109b49016a2_2560x1440-98e3508c62e4d57c1ab8c109b49016a2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-will-no-longer-allow-social-media-logins-for-nintendo-accounts",
+          "author": "Liv Ngan",
+          "description": "Nintendo will be discontinuing social media logins into Nintendo Accounts and the Image Share service on 3DS and Wii U consoles next month.\nNintendo has slowly been dropping support for the 3DS and Wii U, and most notably will close the eShop storefronts for both on 27th March 2023.\r\n\nSocial media logins to a Nintendo Account and the Image Share service are the next features that Nintendo is dropping support for.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-will-no-longer-allow-social-media-logins-for-nintendo-accounts",
+          "publishedOn": "2022-09-20T10:46:18.000Z",
+          "wordCount": 4573,
+          "title": "Nintendo will no longer allow social media logins for Nintendo Accounts",
+          "imageUrl": "https://assets.reedpopcdn.com/3ds-family.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/3ds-family.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks-again",
+          "author": "Victoria Kennedy",
+          "description": "More leaked footage from Diablo 4 has found its way onto the internet, adding to the blizzard being faced by Blizzard.\r\n\n\r\nAs with previous leaks from August, this footage appears to have originated from the ongoing Friend and Family beta version of the game - something that is labelled as a \"private test build\". \r\n\n\r\nThe latest leaks were uploaded to reddit and show a total of 43 minutes of gameplay footage. This  work-in-progress  footage includes the map, various cosmetic options and a variety of attacks - though is all subject to change before the release of the full game.\n Read more",
+          "link": "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks-again",
+          "publishedOn": "2022-09-20T10:39:30.000Z",
+          "wordCount": 4586,
+          "title": "Blizzard battling Diablo 4 leaks again",
+          "imageUrl": "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-reportedly-making-playstation-5-with-removable-disc-drive",
+          "author": "Tom Phillips",
+          "description": "A PlayStation 5 with a detachable disc drive is reportedly in the works by Sony for launch around September next year.\r\n\n\r\nThe report, by Insider Gaming, suggests the console will otherwise have near-identical hardware to current PS5 models, with the only difference being the removable drive itself, and an extra USB-C port for it to plug in.\r\n\n\r\nThere's also the suggestion this new console will be sold both on its own and with the detachable disc drive included. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-reportedly-making-playstation-5-with-removable-disc-drive",
+          "publishedOn": "2022-09-20T10:25:14.000Z",
+          "wordCount": 4488,
+          "title": "Sony reportedly making PlayStation 5 with removable disc drive",
+          "imageUrl": "https://assets.reedpopcdn.com/ps5-console.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ps5-console.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/youtuber-slips-up-reveals-he-was-behind-insider-twitter-account-which-leaked-ubisoft-details-and-more",
+          "author": "Tom Phillips",
+          "description": "YouTuber Dan Allen has apologised after it became apparent he was behind a Twitter account which had recently leaked details of Ubisoft's Forward presentation, alongside other industry details. \r\n\n\r\nAllen recently gathered some online clout around the fact he had posted, under the alias The Real Insider, details of the various Assassin's Creed games Ubisoft was set to announce during its event last week. \r\n\n\r\nHow did Allen know these details? He had been pre-briefed by Ubisoft itself on the contents of its presentation under embargo - which he then promptly ignored and wrote anonymously about on the internet. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/youtuber-slips-up-reveals-he-was-behind-insider-twitter-account-which-leaked-ubisoft-details-and-more",
+          "publishedOn": "2022-09-20T10:02:04.000Z",
+          "wordCount": 4609,
+          "title": "YouTuber slips up, reveals he was behind \"Insider\" Twitter account which leaked Ubisoft details and more",
+          "imageUrl": "https://assets.reedpopcdn.com/mirage_I8wzLTO.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mirage_I8wzLTO.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/rockstar-acknowledges-gargantuan-grand-theft-auto-6-leak",
           "author": "Tom Phillips",
