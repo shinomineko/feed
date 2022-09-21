@@ -3616,6 +3616,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/09/21/kubernetes-1-25-use-secrets-while-expanding-csi-volumes-on-node-alpha/",
+          "author": null,
+          "description": "Author: Humble Chirammal (Red Hat), Louis Koo (deeproute.ai)\nKubernetes v1.25, released earlier this month, introduced a new feature\nthat lets your cluster expand storage volumes, even when access to those\nvolumes requires a secret (for example: a credential for accessing a SAN fabric)\nto perform node expand operation. This new behavior is in alpha and you\nmust enable a feature gate (CSINodeExpandSecret) to make use of it.\nYou must also be using CSI\nstorage; this change isn't relevant to storage drivers that are built in to Kubernetes.\nTo turn on this new, alpha feature, you enable the CSINodeExpandSecret feature\ngate for the kube-apiserver and kubelet, which turns on a mechanism to send secretRef\nconfiguration as part of NodeExpansion by the CSI drivers thus make use of\nthe same to perfor…",
+          "link": "https://kubernetes.io/blog/2022/09/21/kubernetes-1-25-use-secrets-while-expanding-csi-volumes-on-node-alpha/",
+          "publishedOn": "2022-09-21T00:00:00.000Z",
+          "wordCount": 3910,
+          "title": "Blog: Kubernetes 1.25: Use Secrets for Node-Driven Expansion of CSI Volumes",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/09/19/local-storage-capacity-isolation-ga/",
           "author": null,
           "description": "Author: Jing Xu (Google)\nLocal ephemeral storage capacity isolation was introduced as a alpha feature in Kubernetes 1.7 and it went beta in 1.9. With Kubernetes 1.25 we are excited to announce general availability(GA) of this feature.\nPods use ephemeral local storage for scratch space, caching, and logs. The lifetime of local ephemeral storage does not extend beyond the life of the individual pod. It is exposed to pods using the container’s writable layer, logs directory, and EmptyDir volumes. Before this feature was introduced, there were issues related to the lack of local storage accounting and isolation, such as Pods not knowing how much local storage is available and being unable to request guaranteed local storage. Local storage is a best-effort resource and pods can be evicted due t…",
@@ -8524,136 +8534,6 @@
           "wordCount": 4404,
           "title": "Monster Hunter Rise now sold over 11m copies",
           "imageUrl": "https://assets.reedpopcdn.com/monster-hunter-rise-sunbreak_1ueDaM8.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/monster-hunter-rise-sunbreak_1ueDaM8.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-planning-gravity-rush-film-report",
-          "author": "Tom Phillips",
-          "description": "PlayStation is planning to adapt the excellent Gravity Rush into a movie, it has been reported. \r\n\nDeadline states that the Japan Studio title is the latest to be added to a long, long line of projects in the works at  PlayStation Productions.\r\n\n\r\nSo far, director Anna Mastro (who helmed Disney+ series Secret Society of Second Born Royals) and script writer Emily Jerome (Panopticon) are attached.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-planning-gravity-rush-film-report",
-          "publishedOn": "2022-08-22T17:00:51.000Z",
-          "wordCount": 4409,
-          "title": "PlayStation planning Gravity Rush film - report",
-          "imageUrl": "https://assets.reedpopcdn.com/Gravity-Rush-2-Art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Gravity-Rush-2-Art.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-game-awards-returns-this-december",
-          "author": "Tom Phillips",
-          "description": "The Game Awards 2022 will be held on 8th December, it has been announced.\r\n\n\r\nThe video game industry's annual winter trailer fest, which also includes some awards, will broadcast live from the Microsoft Theater in Los Angeles, and be livestreamed online.\r\n\n\r\nThis year's show will include a new category for Best Adaptation, which will award \"shows, movies, books, podcasts, comics and more\" which \"authentically adapt\" video game source material.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-game-awards-returns-this-december",
-          "publishedOn": "2022-08-22T16:40:22.000Z",
-          "wordCount": 4403,
-          "title": "The Game Awards returns this December",
-          "imageUrl": "https://assets.reedpopcdn.com/Faxty7eXoAcN12v.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Faxty7eXoAcN12v.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/minecraft-steve-regrows-beard-after-more-than-a-decade",
-          "author": "Tom Phillips",
-          "description": "Minecraft's default player skin Steve has finally regrown its original beard, after 13 years.\r\n\n\r\nDeveloper Mojang has updated the character designs for both Steve and Alex for the first time in over a decade. The changes add extra 3D elements to both of their blocky models - and return Steve's OG face fuzz.\r\n\n\r\nSteve's beard was lost back in 2009, as part of a move to make Minecraft's default skin more gender-neutral. It wasn't until 2014 that the ponytailed Alex made an appearance.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/minecraft-steve-regrows-beard-after-more-than-a-decade",
-          "publishedOn": "2022-08-22T16:02:48.000Z",
-          "wordCount": 4447,
-          "title": "Minecraft Steve regrows beard after more than a decade",
-          "imageUrl": "https://assets.reedpopcdn.com/fhcobthx6wi91.png/BROK/thumbnail/1600x900/format/jpg/quality/80/fhcobthx6wi91.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/latest-return-to-monkey-island-clip-shines-light-on-new-hint-system",
-          "author": "Victoria Kennedy",
-          "description": "Another Monday, another Return to Monkey Island clip for us all to pore over.\r\n\n\r\nThe latest clip from creator Ron Gilbert shows the game's new streamlined UI, with prompts appearing on-screen as hero Guybrush Threepwood explores the Scumm Bar on Melee Island.\r\n\n\r\nWhen the cursor moves across the screen in this clip, messages such as \"Time to talk to the pirate leaders\" and \"Smells good in there\" pop up. The interactions shown do not appear intrusive, and seem to offer a clever way of keeping the story moving along.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/latest-return-to-monkey-island-clip-shines-light-on-new-hint-system",
-          "publishedOn": "2022-08-22T15:46:10.000Z",
-          "wordCount": 4665,
-          "title": "Latest Return to Monkey Island clip shines light on streamlined UI",
-          "imageUrl": "https://assets.reedpopcdn.com/return-to-monkey-island-hint.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/return-to-monkey-island-hint.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/streamer-completes-elden-ring-one-handed-level-one-run",
-          "author": "Ed Nightingale",
-          "description": "Twitch streamer Miss Mikkaa has beaten Elden Ring single-handedly.\r\n\n\r\nNo really - she's beaten all Remembrances with just one hand and at level one.\r\n\n\r\nAnd that includes the formidable Malenia.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/streamer-completes-elden-ring-one-handed-level-one-run",
-          "publishedOn": "2022-08-22T15:23:09.000Z",
-          "wordCount": 4541,
-          "title": "Streamer completes Elden Ring one-handed level one run",
-          "imageUrl": "https://assets.reedpopcdn.com/Elden_Ring_Screenshot_07.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Elden_Ring_Screenshot_07.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/tintin-game-to-adapt-cigars-of-the-pharaoh",
-          "author": "Tom Phillips",
-          "description": "A video game version of Tintin classic Cigars of the Pharaoh will launch for PC, plus Nintendo Switch, PlayStation and Xbox consoles in 2023. \r\n\n\r\nThe project will adapt one of the best early Tintin comic books, from a time when the young reporter (and Snowy the dog) were not yet accompanied by sidekick Captain Haddock. \r\n\n\r\nThe project - developed by Madrid-based adventure game maker Pendulo Studios, and published by French company Microids - was first mentioned by Microids back in April 2020, before all went quiet. We've been waiting to hear more ever since. Now, here's a teaser trailer:\r\n \nRead more",
-          "link": "https://www.eurogamer.net/tintin-game-to-adapt-cigars-of-the-pharaoh",
-          "publishedOn": "2022-08-22T15:11:17.000Z",
-          "wordCount": 4465,
-          "title": "Tintin game to adapt Cigars of the Pharaoh",
-          "imageUrl": "https://assets.reedpopcdn.com/thumbnail_image003.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/thumbnail_image003.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/cities-skylines-gets-pedestrianisation-in-new-plazas-and-promenades-expansion",
-          "author": "Matt Wales",
-          "description": "Paradox Interactive has unveiled new Cities Skylines expansion Plazas and Promenades expansion, coming to PC, Xbox, and PlayStation \"soon\".\r\n\n\r\nPlazas and Promenades - the 11th major expansion for developer Colossal Order's acclaimed city builder - brings a new pedestrianisation focus to the game, giving budding urban planners the tools needed to add pedestrian-only streets, pedestrian zones, and zone-specific policies.\r\n\n\r\nThe latter include the likes of Slow Driving (which implements a 20mph speed limit for all non-highway roads within a pedestrian zone), Sugar Ban (which increases citizen lifespan at the expense of happiness), and Music (increasing happiness but also increasing noise pollution).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/cities-skylines-gets-pedestrianisation-in-new-plazas-and-promenades-expansion",
-          "publishedOn": "2022-08-22T15:00:00.000Z",
-          "wordCount": 4476,
-          "title": "Cities Skylines gets pedestrianisation in new Plazas and Promenades expansion",
-          "imageUrl": "https://assets.reedpopcdn.com/cities-skylines-plazas-and-promenades.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cities-skylines-plazas-and-promenades.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-shuts-down-marvel-blade-game-gossip",
-          "author": "Tom Phillips",
-          "description": "Ubisoft has denied reports it is making a game based on Marvel's infamous vampire hunter Blade. \r\n\n\r\nThe reports were sparked by photos - originally posted to Instagram back in July - that showed actors in Ubisoft-branded mo-cap suits apparently working on a Marvel project.\r\n\n\r\nThe images resurfaced yesterday thanks to YouTuber and regular Ubisoft leaker JorRaptor, who pointed out a clapperboard which listed director Bassam Tariq - who is also directing Marvel's 2023 Blade reboot.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ubisoft-shuts-down-marvel-blade-game-gossip",
-          "publishedOn": "2022-08-22T14:42:39.000Z",
-          "wordCount": 4554,
-          "title": "Ubisoft shuts down Marvel Blade game gossip",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_rCtmCjM.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_rCtmCjM.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/trans-twitch-streamer-keffals-in-hiding-after-doxxing-attack-follows-swatting-incident",
-          "author": "Ed Nightingale",
-          "description": "Trans Twitch streamer Clara \"Keffals\" Sorrenti has been doxxed following a swatting incident earlier this month.\r\n\n\r\nSorrenti posted a video after the event describing how she was \"terrorised\" by police when they arrived at her home with assault rifles.\r\n\n\r\nShe's since moved to a hotel but has now been doxxed by a transphobic hate group known as Kiwi Farms.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/trans-twitch-streamer-keffals-in-hiding-after-doxxing-attack-follows-swatting-incident",
-          "publishedOn": "2022-08-22T14:41:33.000Z",
-          "wordCount": 4773,
-          "title": "Trans Twitch streamer Keffals in hiding after doxxing attack follows swatting incident",
-          "imageUrl": "https://assets.reedpopcdn.com/Things-have-escalated.-Now-i'm-in-hiding.-0-2-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Things-have-escalated.-Now-i'm-in-hiding.-0-2-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-wordle-starter-suggested-by-the-new-york-times",
-          "author": "Victoria Kennedy",
-          "description": "WordleBot, The New York Times' own official \"daily Wordle companion\", has suggested a new starting word for us all to try. \r\n\n\r\nAs noted by The Verge, WordleBot now lists 'Slate' as the optimal starting word. \r\n\n\r\nPreviously, 'Crane' was the New York Times' favourite starting suggestion, however this has been given the boot in favour of the 'S' and 'T' inclusive 'Slate'. This makes sense, as 'S' and 'T' are two of the most commonly occurring letters throughout our dictionary. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-wordle-starter-suggested-by-the-new-york-times",
-          "publishedOn": "2022-08-22T14:33:57.000Z",
-          "wordCount": 4521,
-          "title": "New Wordle starter suggested by The New York Times",
-          "imageUrl": "https://assets.reedpopcdn.com/Wordle_vuTKbAL.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Wordle_vuTKbAL.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mega-drive-mini-2-gets-european-release-date-as-full-game-catalogue-announced",
-          "author": "Victoria Kennedy",
-          "description": "Sega has announced the European release date for its Mega Drive Mini 2.\r\n\n\r\nFor those in Europe who are keen to get their hands on the mini retro console, you will be able to do so from the 27th October. If you are keeping track, this is the same day as the Genesis Mini 2 in North America. \r\n\n\r\nTo accompany this release date announcement, Sega has also lifted the lid on all the games that will be available on the console. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/mega-drive-mini-2-gets-european-release-date-as-full-game-catalogue-announced",
-          "publishedOn": "2022-08-22T13:48:57.000Z",
-          "wordCount": 4515,
-          "title": "Mega Drive Mini 2 gets European release date, as full game catalogue announced",
-          "imageUrl": "https://assets.reedpopcdn.com/nighttrap.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nighttrap.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-black-myth-wukong-trailer-resurfaces-misogynistic-comments-from-developer",
-          "author": "Ed Nightingale",
-          "description": "A new gameplay trailer has been released for Black Myth: Wukong.\r\n\n\r\nThe game grew to prominence when it was revealed in 2020, showcasing its Soulslike gameplay and basis on Chinese novel Journey To The West.\r\n\n\r\nHowever, the new trailer has also resurfaced criticism of the game's developer for misogynistic views.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-black-myth-wukong-trailer-resurfaces-misogynistic-comments-from-developer",
-          "publishedOn": "2022-08-22T13:43:06.000Z",
-          "wordCount": 4507,
-          "title": "New Black Myth: Wukong trailer prompts fans to resurface misogynistic comments from developer",
-          "imageUrl": "https://assets.reedpopcdn.com/Black-Myth_-Wukong-8-Minute-Exclusive-Gameplay-_-4K-RTX-ON---World-Premiere-7-58-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Black-Myth_-Wukong-8-Minute-Exclusive-Gameplay-_-4K-RTX-ON---World-Premiere-7-58-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/fans-believe-new-pokemon-is-a-pre-evolution-of-scarlet-and-violets-legendaries",
-          "author": "Victoria Kennedy",
-          "description": "Over the weekend, we got a look at a brand new Pokémon. \nThis new addition is Cyclizar, and it was featured as part of a new trailer for the upcoming Pokémon Scarlet and Pokémon Violet, shown during the closing ceremony of this year's Pokémon World Championships. \nThe trailer, which you can watch below, shows Cyclizar with motorbike-esque appendages that are very similar to fellow bipedal reptile-like legendary Koraidon. It also shows off a new move called \"Shed Tail\", which allows players to create a substitute and then \"swap places with a party Pokémon in waiting\". \n Read more",
-          "link": "https://www.eurogamer.net/fans-believe-new-pokemon-is-a-pre-evolution-of-scarlet-and-violets-legendaries",
-          "publishedOn": "2022-08-22T12:56:44.000Z",
-          "wordCount": 4746,
-          "title": "Fans believe new Pokémon is a pre-evolution of Scarlet and Violet's Legendaries",
-          "imageUrl": "https://assets.reedpopcdn.com/pokemon_ce1vcaz.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pokemon_ce1vcaz.jpg"
         }
       ]
     },
