@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2675/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/pilot_priority_list.png\" title=\"CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram\" alt=\"CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram\" />",
+          "link": "https://xkcd.com/2675/",
+          "publishedOn": "2022-09-21T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "Pilot Priority List",
+          "imageUrl": "https://imgs.xkcd.com/comics/pilot_priority_list_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2674/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/everyday_carry.png\" title=\"Someday I just know I'm going to encounter a problem that requires 500 flashlights and 700 knives with weird holes in them, and on that day I won't be caught unprepared.\" alt=\"Someday I just know I'm going to encounter a problem that requires 500 flashlights and 700 knives with weird holes in them, and on that day I won't be caught unprepared.\" />",
@@ -394,16 +404,6 @@
           "wordCount": 2497,
           "title": "Mudge Files Whistleblower Complaint against Twitter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/08/signal-phone-numbers-exposed-in-twilio-hack.html",
-          "author": null,
-          "description": "<p>Twilio was hacked earlier this month, and the phone numbers of 1,900 Signal users <a href=\"https://techcrunch.com/2022/08/15/signal-phone-number-exposed-twilio/\">were</a> <a href=\"https://support.signal.org/hc/en-us/articles/4850133017242\">exposed</a>:</p>\n<blockquote><p>Here&#8217;s what our users need to know:</p>\n<ul>\n<li>All users can rest assured that their message history, contact lists, profile information, whom they&#8217;d blocked, and other personal data remain private and secure and were not affected.\n<li>For about 1,900 users, an attacker could have attempted to re-register their number to another device or learned that their number was registered to Signal. This attack has since been shut down by Twilio. 1,900 users is a very small percentage of Signal&#8217;s total users, meaning that most were not affected...</li></li></ul></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/08/signal-phone-numbers-exposed-in-twilio-hack.html",
-          "publishedOn": "2022-08-23T11:30:40.000Z",
-          "wordCount": 4971,
-          "title": "Signal Phone Numbers Exposed in Twilio Hack",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +412,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1883626",
+          "author": "Sam Machkovech",
+          "description": "The darkest Star Wars series yet takes too long to establish positive momentum.",
+          "link": "https://arstechnica.com/?p=1883626",
+          "publishedOn": "2022-09-21T23:26:55.000Z",
+          "wordCount": 1750,
+          "title": "Andor first impressions: Star Wars inches toward the best of modern adult TV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/andor-listing-02-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883513",
+          "author": "Benj Edwards",
+          "description": "Getty sidesteps potential legal problems from unresolved rights and ethics issues.",
+          "link": "https://arstechnica.com/?p=1883513",
+          "publishedOn": "2022-09-21T22:32:35.000Z",
+          "wordCount": 1840,
+          "title": "Fearing copyright issues, Getty Images bans AI-generated artwork",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_image_ban_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883453",
+          "author": "Ron Amadeo",
+          "description": "Is your local Wi-Fi infrastructure ready for a portable cloud gaming device?",
+          "link": "https://arstechnica.com/?p=1883453",
+          "publishedOn": "2022-09-21T20:26:48.000Z",
+          "wordCount": 1870,
+          "title": "Logitech builds Android-powered Steam Deck clone for portable cloud gaming",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chrome_FDXzc6UawJ-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882442",
+          "author": "Jennifer Ouellette",
+          "description": "MICROSCOPE experiment measured accelerations of free-falling objects in space.",
+          "link": "https://arstechnica.com/?p=1882442",
+          "publishedOn": "2022-09-21T20:13:08.000Z",
+          "wordCount": 1847,
+          "title": "Einstein wins again: Space satellite confirms weak equivalence principle",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/micro2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883512",
+          "author": "John Timmer",
+          "description": "It's often cheaper to build and run solar than to buy gas for an existing plant.",
+          "link": "https://arstechnica.com/?p=1883512",
+          "publishedOn": "2022-09-21T19:57:42.000Z",
+          "wordCount": 1520,
+          "title": "US installs record solar capacity as prices keep falling",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/image-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883452",
+          "author": "Ashley Belanger",
+          "description": "UN wants companies to help fund recovery in nations hit worst by climate change.",
+          "link": "https://arstechnica.com/?p=1883452",
+          "publishedOn": "2022-09-21T19:32:08.000Z",
+          "wordCount": 1851,
+          "title": "UN chief asks wealthy nations to impose windfall taxes on fossil fuel industry",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1242837780-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883481",
+          "author": "Dan Goodin",
+          "description": "As DDoSes continue to innovate, their attacks grow ever bigger.",
+          "link": "https://arstechnica.com/?p=1883481",
+          "publishedOn": "2022-09-21T19:15:20.000Z",
+          "wordCount": 1560,
+          "title": "The record-setting DDoSes keep coming, with no end in sight",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/data-flood-ddos-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1882974",
           "author": "Samuel Axon",
@@ -3955,6 +4025,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10",
+          "author": "Matt Wales",
+          "description": "Developer Asobo has released its latest Sim Update for the majestic Microsoft Flight Simulator, this one bringing, among other things, long-awaited DLSS support for PC.\r\n\n\r\nAlongside DLSS anti-aliasing and upscaling, Asobo says Sim Update 10 should deliver \"stability, performance, and memory usage\" improvements for those using Flight Simulator's in-development Direct X12 support - although it notes the new memory allocator will only be activated once Nvidia's next GPU driver is released.\r\n\n\r\nElsewhere in today's update, moving boats in the world now have a wake effect on PC, there's a new cloud layer system - said to provide \"more vertical precision at low altitudes to better reflect the various cloud altitudes and thickness close to the ground\" - plus a number of quality of life features for Flight Simulator's VFR map.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10",
+          "publishedOn": "2022-09-21T22:06:36.000Z",
+          "wordCount": 4602,
+          "title": "Flight Simulator gets long-awaited DLSS support for PC in today's Sim Update 10",
+          "imageUrl": "https://assets.reedpopcdn.com/microsoft-flight-simulator_j9kN89e.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/microsoft-flight-simulator_j9kN89e.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/picross-s8-coming-to-switch-next-week-with-four-player-local-multiplayer",
+          "author": "Matt Wales",
+          "description": "Developer Jupiter has unveiled an eighth mainline instalment for its mighty Picross puzzle series on Switch, its big new addition being multiplayer support for up to four player when it launches next week. Furthermore, multiplayer and touchscreen support are reportedly being added to all previous Switch instalments at the same time.\r\n\n\r\nPicross S8, as this newest entry is known, follows the same familiar formula as its predecessors - each stage requiring players to complete a picture on a grid by solving numerical clues indicating which squares must be filled in - but adds a bit of spice to proceedings by letting four players put their heads together to tackle each challenge.\r\n\n\r\nAccording to the official Picross website, it's local multiplayer only (the trailer suggests there's a score-based component despite everyone working co-operatively to complete the same puzzle), and each player will need their own controller to participate. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/picross-s8-coming-to-switch-next-week-with-four-player-local-multiplayer",
+          "publishedOn": "2022-09-21T21:12:19.000Z",
+          "wordCount": 4572,
+          "title": "Picross S8 coming to Switch next week with four-player local multiplayer",
+          "imageUrl": "https://assets.reedpopcdn.com/picross-s8-cropped.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/picross-s8-cropped.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/gearbox-calls-tiny-tinas-wonderlands-a-great-victory-more-experiences-coming",
+          "author": "Matt Wales",
+          "description": "Gearbox has called the release of Borderlands spin-off Tiny Tina's Wonderlands a \"great victory\" for the studio, saying its success means it \"now clearly [has] a new franchise on its hands\", with more \"experiences\" already in development.\r\n\n\r\nTiny Tina's Wonderlands released back in March, taking the tabletop-inspired action of Borderlands 2's much-loved DLC episode Tiny Tina's Assault on Dragon Keep and building it out into a full-length game of first-person fantasy adventuring.\r\n\n\r\nIt was generally well-received by critics on release - Eurogamer called it \"endearing\" despite its \"hodgepodge design\" - and it's apparently been enough of a commercial success that Gearbox is now eager to do more.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/gearbox-calls-tiny-tinas-wonderlands-a-great-victory-more-experiences-coming",
+          "publishedOn": "2022-09-21T20:19:17.000Z",
+          "wordCount": 4634,
+          "title": "Gearbox calls Tiny Tina's Wonderlands a \"great victory\", more in development",
+          "imageUrl": "https://assets.reedpopcdn.com/tiny-tina-unicorn.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tiny-tina-unicorn.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dark-souls-3s-pc-servers-have-gone-offline-again",
+          "author": "Matt Wales",
+          "description": "A month after Dark Souls 3's Steam servers were finally bought online following more than seven months of downtime, they're offline again, with publisher Bandai Namco confirming it's currently \"investigating\" the issue.\r\n\n\r\nThe Dark Souls server woes began in January, when Bandai Namco was forced to disable servers for all Dark Souls games following reports of serious security concerns. Although the publisher described the situation as 'temporary' at the time, it took over seven months for a fix to be deployed, with Dark Souls 3's servers finally coming back online at the end of August.\r\n\n\r\nUnfortunately, the celebrations have been short-lived, and the game's PvP servers are, as of yesterday, once again unavailable, preventing players from accessing any of its online features.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dark-souls-3s-pc-servers-have-gone-offline-again",
+          "publishedOn": "2022-09-21T18:32:00.000Z",
+          "wordCount": 4601,
+          "title": "Dark Souls 3's PC servers have gone offline again",
+          "imageUrl": "https://assets.reedpopcdn.com/dark-souls-3-now-runs-at-60fps-on-xbox-series-x-s-thanks-to-fps-boost-1625675086983.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dark-souls-3-now-runs-at-60fps-on-xbox-series-x-s-thanks-to-fps-boost-1625675086983.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/voice-chat-noise-suppression-comes-to-xbox-one-and-pc-in-latest-xbox-update",
           "author": "Matt Wales",
@@ -8834,126 +8944,6 @@
           "wordCount": 4727,
           "title": "New Tomb Raider Anniversary mod adds Angel of Darkness assets to the game",
           "imageUrl": "https://assets.reedpopcdn.com/lara-croft-angel-of-darkness-mod-anniversary.png/BROK/thumbnail/1600x900/format/jpg/quality/80/lara-croft-angel-of-darkness-mod-anniversary.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/yakuza-creator-quit-sega-because-he-didnt-want-to-become-ceo",
-          "author": "Liv Ngan",
-          "description": "Toshihiro Nagoshi has discussed the new project he's working on and the reason for his departure from Sega.\nNagoshi, known as the father of the Super Monkey Ball and Yakuza series, left Sega in 2021 after 32 years at the company to join Chinese technology company NetEase. He later announced Nagoshi Studio, a subsidiary under NetEase Games, which would allow him to \"do something different\".\nIn an interview with German gaming site 4Players, Nagoshi said it had not been creative differences that had led him to leave Sega, but that during his last few years at the company he was promoted to executive and management roles - something he wasn't interested in.\n Read more",
-          "link": "https://www.eurogamer.net/yakuza-creator-quit-sega-because-he-didnt-want-to-become-ceo",
-          "publishedOn": "2022-08-23T11:57:17.000Z",
-          "wordCount": 4482,
-          "title": "Yakuza creator quit Sega because he didn't \"want to become CEO\"",
-          "imageUrl": "https://assets.reedpopcdn.com/nagoshi_ubpGqxN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nagoshi_ubpGqxN.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mount-and-blade-2-bannerlord-coming-to-playstation-xbox-this-october",
-          "author": "Victoria Kennedy",
-          "description": "Taleworlds Entertainment has revealed that Mount and Blade 2: Bannerlord - a swords and shields battler with no fantasy elements - will be coming to PlayStation 4, PS5, Xbox One and Xbox Series X/S on 25th October.\r\n\n\r\nIn addition to this, and following its stint in early access, the game will also get its full release on PC at the same time. \r\n\nTo accompany this news, here is a new trailer for you to enjoy.\n Read more",
-          "link": "https://www.eurogamer.net/mount-and-blade-2-bannerlord-coming-to-playstation-xbox-this-october",
-          "publishedOn": "2022-08-23T11:34:26.000Z",
-          "wordCount": 4685,
-          "title": "Mount and Blade 2: Bannerlord coming to PlayStation, Xbox this October",
-          "imageUrl": "https://assets.reedpopcdn.com/image-(58).png/BROK/thumbnail/1600x900/format/jpg/quality/80/image-(58).png"
-        },
-        {
-          "id": "https://www.eurogamer.net/embracer-stock-price-falls-following-saints-row-reviews",
-          "author": "Tom Phillips",
-          "description": "Disappointing Saints Row reviews have hit publisher Embracer's stock price.\r\n\n\r\nToday's launch of the Saints Row reboot has been seen as the first big test for Embracer's AAA studio talent, following the company's enormous and still-ongoing spree of acquisitions over the past couple of years. \r\n\n\r\nBut yesterday's Saints Row embargo lift was met with a lacklustre response from many outlets. Eurogamer's own review stated the game \"won't set the world alight\", but noted that it still holds some \"pleasant surprises\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/embracer-stock-price-falls-following-saints-row-reviews",
-          "publishedOn": "2022-08-23T11:31:28.000Z",
-          "wordCount": 4526,
-          "title": "Embracer stock price falls following Saints Row reviews",
-          "imageUrl": "https://assets.reedpopcdn.com/Saints-Row_20220818214030.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Saints-Row_20220818214030.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-rings-voiceless-goldmask-has-a-voice-after-all",
-          "author": "Ed Nightingale",
-          "description": "It turns out Elden Ring character Goldmask does in fact have a voice line after all.\r\n\n\r\nThe character is a mere husk of a man with a golden mask on his face. He's so enlightened he doesn't ever speak and instead just points towards the towering Erdtree with a \"...\".\r\n\n\r\nExcept, thanks to datamining, he does actually have a voice line hidden away in the Network Test version of the game.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-rings-voiceless-goldmask-has-a-voice-after-all",
-          "publishedOn": "2022-08-23T10:59:46.000Z",
-          "wordCount": 4504,
-          "title": "Elden Ring's voiceless Goldmask has a voice after all",
-          "imageUrl": "https://assets.reedpopcdn.com/Goldmask-Cut-Dialogue---Elden-Ring-0-30-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Goldmask-Cut-Dialogue---Elden-Ring-0-30-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/20m-brawlers-have-already-battled-it-out-in-multiversus",
-          "author": "Victoria Kennedy",
-          "description": "New figures reveal that Warner Bros. has welcomed over 20 million brawlers to MultiVersus, doubling its numbers since the start of August.\r\n\n\r\nIn an interview with GamesBeat, Warner Bros. Interactive Entertainment's president David Haddad said:\r\n\n\r\n\"We had a fantastic first half of the year, really driven by the results of Lego Star Wars: The Skywalker Saga. And we're so excited to get off to such a great start in the second half with MultiVersus.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/20m-brawlers-have-already-battled-it-out-in-multiversus",
-          "publishedOn": "2022-08-23T10:41:06.000Z",
-          "wordCount": 4631,
-          "title": "20m brawlers have already battled it out in MultiVersus",
-          "imageUrl": "https://assets.reedpopcdn.com/taz-multiversus.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/taz-multiversus.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/masahiro-sakurai-shares-final-smash-bros-ultimate-screenshot",
-          "author": "Ed Nightingale",
-          "description": "Super Smash Bros Ultimate director Masahiro Sakurai has shared his final daily screenshot.\r\n\n\r\nSince December 2019, Sakurai has been sharing screenshots from the debug version of the game each day.\r\n\n\r\nEarlier this month he noted he'd soon be running out of screenshots. Now that day has come.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/masahiro-sakurai-shares-final-smash-bros-ultimate-screenshot",
-          "publishedOn": "2022-08-23T10:34:41.000Z",
-          "wordCount": 4489,
-          "title": "Masahiro Sakurai shares final Smash Bros Ultimate screenshot",
-          "imageUrl": "https://assets.reedpopcdn.com/heres-where-you-can-watch-the-nintendo-uk-versus-super-smash-bros-ultimate-invitational-later-today-1532874196266.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/heres-where-you-can-watch-the-nintendo-uk-versus-super-smash-bros-ultimate-invitational-later-today-1532874196266.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/disgaea-7-announced-for-next-year",
-          "author": "Liv Ngan",
-          "description": "Disgaea 7 has just been announced by developer Nippon Ichi Software for Nintendo Switch, PlayStation 4 and PS5.\nFirst details of the game were published by the PlayStation Japan blog, which also shared a fresh announcement trailer, below.\r\n\nThe setting for Disgaea 7 is a world called the Hinomoto Netherworld Cluster, which is heavily inspired by Japanese history and culture. \n Read more",
-          "link": "https://www.eurogamer.net/disgaea-7-announced-for-next-year",
-          "publishedOn": "2022-08-23T10:31:20.000Z",
-          "wordCount": 4433,
-          "title": "Disgaea 7 announced for next year",
-          "imageUrl": "https://assets.reedpopcdn.com/Disgaea-7_2022_08-23-22_061.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Disgaea-7_2022_08-23-22_061.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-narrows-playstation-vr2-launch-window",
-          "author": "Tom Phillips",
-          "description": "We now have a slightly better idea when PlayStation VR2 will arrive: in \"early 2023\". \r\n\n\r\nA 2023 launch had been speculated based on recent reports eyeing Sony's financial forecast and production pipeline. \r\n\n\r\nAs for when exactly \"early 2023\" will mean... Sony is staying schtum for now. We also still have no idea how much the headset itself will cost.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-narrows-playstation-vr2-launch-window",
-          "publishedOn": "2022-08-23T10:16:17.000Z",
-          "wordCount": 4332,
-          "title": "Sony narrows PlayStation VR2 launch window",
-          "imageUrl": "https://assets.reedpopcdn.com/ps-vr2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps-vr2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/psa-its-time-to-remove-unauthorised-items-from-your-elden-ring-inventory",
-          "author": "Ed Nightingale",
-          "description": "PSA: If you have any unauthorised items in your Elden Ring inventory, you may want to get rid of them sharpish.\r\n\n\r\nAs noted in the latest patch, unauthorised items will be given [ERROR] in the name to identify them, which may lead to a warning or penalty on your account.\r\n\r\n\n\r\nThe game's official Twitter account notes that this process will start \"within a few days\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/psa-its-time-to-remove-unauthorised-items-from-your-elden-ring-inventory",
-          "publishedOn": "2022-08-23T10:13:52.000Z",
-          "wordCount": 4470,
-          "title": "PSA: It's time to remove unauthorised items from your Elden Ring inventory",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_e80a907c2c43337e53316c71555c3c3035a1343e.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_e80a907c2c43337e53316c71555c3c3035a1343e.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/steam-deck-production-outperforms-valve-estimates-as-shipping-ramps-up",
-          "author": "Victoria Kennedy",
-          "description": "There's good news for some customers waiting to hear more about their Steam Deck reservations.\r\n\n\r\nThe latest from Valve states production on the handheld PC has \"outperformed [the company's] estimates\", a result of which has meant that some with \"Q4\" reservations may well get their deck sooner than expected.\r\n\n\r\nValve's Lawrence Yang tweeted: \"Hi all, a few of you may have received an order email for your 'Q4 window' Steam Deck reservation today. This wasn't a mistake! \r\n \nRead more",
-          "link": "https://www.eurogamer.net/steam-deck-production-outperforms-valve-estimates-as-shipping-ramps-up",
-          "publishedOn": "2022-08-23T09:58:52.000Z",
-          "wordCount": 4467,
-          "title": "Steam Deck production outperforms Valve estimates, as shipping ramps up",
-          "imageUrl": "https://assets.reedpopcdn.com/SD-Valve.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/SD-Valve.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonic-frontiers-trailer-reveals-november-release-date",
-          "author": "Tom Phillips",
-          "description": "A new Sonic Frontiers trailer has been spotted, with an 8th November release date attached.\r\n\n\r\nWe were expecting to see more of Sonic Frontiers at Gamescom's Opening Night Live ceremony tonight. Instead, a Japanese trailer briefly popped up this morning - though it has now been pulled offline.\r\n\nRegardless, the internet never forgets. And, as shared by Nibel, the 8th November release date is now out in the wild.\n Read more",
-          "link": "https://www.eurogamer.net/sonic-frontiers-trailer-reveals-november-release-date",
-          "publishedOn": "2022-08-23T09:55:37.000Z",
-          "wordCount": 4415,
-          "title": "Sonic Frontiers trailer reveals November release date",
-          "imageUrl": "https://assets.reedpopcdn.com/3980172-sonicfrontiers_FOqmpgI.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/3980172-sonicfrontiers_FOqmpgI.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/monster-hunter-rise-now-sold-over-11m-copies",
-          "author": "Ed Nightingale",
-          "description": "Monster Hunter Rise has now sold over 11m copies across Switch and PC.\r\n\n\r\nRecent sales of the game have been driven by a bundle with brand new expansion Sunbreak,  Capcom said in a press release.\r\n\n\r\nMoreover, Sunbreak alone has sold 4m copies worldwide since its release at the end of June.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/monster-hunter-rise-now-sold-over-11m-copies",
-          "publishedOn": "2022-08-23T09:55:30.000Z",
-          "wordCount": 4404,
-          "title": "Monster Hunter Rise now sold over 11m copies",
-          "imageUrl": "https://assets.reedpopcdn.com/monster-hunter-rise-sunbreak_1ueDaM8.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/monster-hunter-rise-sunbreak_1ueDaM8.jpg"
         }
       ]
     },
@@ -8962,6 +8952,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=67209",
+          "author": "Alexis Wales",
+          "description": "On September 16, GitHub Security learned that threat actors were targeting GitHub users with a phishing campaign by impersonating CircleCI to harvest user credentials and two-factor codes. While GitHub itself was not affected, the campaign has impacted many victim organizations.",
+          "link": "https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/",
+          "publishedOn": "2022-09-21T21:49:50.000Z",
+          "wordCount": 1261,
+          "title": "Security alert: new phishing campaign targets GitHub users",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security@2x.png"
+        },
         {
           "id": "https://github.blog/?p=67194",
           "author": "Toya East",
