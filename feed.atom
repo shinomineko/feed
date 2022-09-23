@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T00:38:03.707Z</updated>
+    <updated>2022-09-23T06:33:11.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Impressions: Shovel Knight Dig is my new roguelite gaming addiction]]></title>
+        <id>https://arstechnica.com/?p=1883870</id>
+        <link href="https://arstechnica.com/?p=1883870"/>
+        <updated>2022-09-23T00:07:06.000Z</updated>
+        <summary type="html"><![CDATA[The modern-retro goodness of Shovel Knight returns with a refreshing take on roguelites.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.25: CustomResourceDefinition Validation Rules Graduate to Beta]]></title>
+        <id>https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/</id>
+        <link href="https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/"/>
+        <updated>2022-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Joe Betz (Google), Cici Huang (Google), Kermit Alexander (Google)
+In Kubernetes 1.25, Validation rules for CustomResourceDefinitions (CRDs) have graduated to Beta!
+Validation rules make it possible to declare how custom resources are validated using the Common Expression Language (CEL). For example:
+apiVersion: apiextensions.k8s.io/v1
+kind: CustomResourceDefinition
+ ...
+ openAPIV3Schema:
+ type: object
+ properties:
+ spec:
+ type: object
+ x-kubernetes-validations:
+ - rule: "self.minReplicas <= self.replicas && self.replicas <= self.maxReplicas"
+ message: "replicas should be in the range minReplicas..maxReplicas."
+ properties:
+ replicas:
+ type: integer
+ ...
+
+
+Validation rules support a wide range of use cases. To get a sense of some of the capabilities, let's look at a few examples:
+V…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The case of the murdered mummies: “virtual autopsy” reveals fatal injuries]]></title>
         <id>https://arstechnica.com/?p=1880352</id>
@@ -12699,201 +12740,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The big catch is that it has to be at roughly the boiling point of water to work.]]></summary>
         <author>
             <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use déjà vu to bridge realities in hard sci-fi psychological thriller The Gap]]></title>
-        <id>https://www.eurogamer.net/use-deja-vu-to-bridge-realities-in-hard-sci-fi-psychological-thriller-the-gap</id>
-        <link href="https://www.eurogamer.net/use-deja-vu-to-bridge-realities-in-hard-sci-fi-psychological-thriller-the-gap"/>
-        <updated>2022-08-24T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[An intriguing-sounding psychological thriller called The Gap was announced during the Future Games Show this evening.
-It's described as a hard sci-fi first-person narrative game set in 2045, not that the sci-fi elements are particularly apparent from the debut trailer. This shows you, a neuroscientist called Joshua Hayes, waking up on the floor of presumably your own apartment, with a voice - and written messages on the walls - telling you not to trust anyone. But you can't remember what is going on.
-Hayes suffers from a rare genetic disorder that affects his memory, so the focus in the game is trying to recover those memories by re-experiencing them. The catalyst for this is déjà vu, triggered by objects that act like a bridge to a parallel reality to experience memories again. But there's tragedy hiding in your past, too.
- Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex imposes password reset after hackers steal data for >15 million users]]></title>
-        <id>https://arstechnica.com/?p=1875864</id>
-        <link href="https://arstechnica.com/?p=1875864"/>
-        <updated>2022-08-24T17:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Intruders access personal information for the majority of its 30 million users.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Far out”: Apple confirms iPhone-focused launch event on September 7]]></title>
-        <id>https://arstechnica.com/?p=1875846</id>
-        <link href="https://arstechnica.com/?p=1875846"/>
-        <updated>2022-08-24T16:52:30.000Z</updated>
-        <summary type="html"><![CDATA[New iPhones and Apple Watches reportedly on tap, while iPads and Macs will wait.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comedian George Lopez sues Pandora for $5.5M for “brazen” copyright infringement]]></title>
-        <id>https://arstechnica.com/?p=1875815</id>
-        <link href="https://arstechnica.com/?p=1875815"/>
-        <updated>2022-08-24T16:40:58.000Z</updated>
-        <summary type="html"><![CDATA[A federal court will begin reviewing the case by the end of this month.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everywhere developer responds to "NFT/Crypto" speculation, following vague game reveal]]></title>
-        <id>https://www.eurogamer.net/everywhere-developer-defends-nftcrypto-job-postings-after-vague-game-reveal</id>
-        <link href="https://www.eurogamer.net/everywhere-developer-defends-nftcrypto-job-postings-after-vague-game-reveal"/>
-        <updated>2022-08-24T16:15:14.000Z</updated>
-        <summary type="html"><![CDATA[The developer of Everywhere, the new project from former Grand Theft Auto producer Leslie Benzies, has issued a statement in response to reports highlighting the fact it is currently hiring for multiple positions related to the blockchain.
-
-
-Build A Rocket Boy, which is based in Edinburgh, currently lists three positions based on blockchain development on its website, including a senior backend programmer, smart contract developer and test engineer.
-
-
-Is Everywhere a blockchain game? Does it include NFTs? What, actually, is Everywhere? These questions were all floating around the internet this morning, after a particularly vague reveal for the game last night during Gamescom's Opening Night Live ceremony, where we saw a trailer for the title that gave little away. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel sees huge sales growth, has 2% of North American market]]></title>
-        <id>https://arstechnica.com/?p=1875791</id>
-        <link href="https://arstechnica.com/?p=1875791"/>
-        <updated>2022-08-24T16:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Google's hardware division is still shockingly small, but it's making progress.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentiment preview: Obsidian’s historical, religiously charged murder mystery]]></title>
-        <id>https://arstechnica.com/?p=1875731</id>
-        <link href="https://arstechnica.com/?p=1875731"/>
-        <updated>2022-08-24T16:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Lead dev on Obsidian's first game since Microsoft acquisition: "We can do this now."]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gamescom Opening Night Live special]]></title>
-        <id>https://www.eurogamer.net/eurogamer-newscast-gamescom-opening-night-live-special</id>
-        <link href="https://www.eurogamer.net/eurogamer-newscast-gamescom-opening-night-live-special"/>
-        <updated>2022-08-24T15:46:13.000Z</updated>
-        <summary type="html"><![CDATA[This week on the Eurogamer Newscast, we're picking out our favourite bits - and not so favourites - from this week's big Gamescom Opening Night Live showcase. 
-
-It's a relatively quiet year for Gamescom - though it is lovely to see the show back on its feet and filled with sweaty attendees - and it's fair to say this was reflected in last night's showings. We got a big reveal for Dead Island 2 - which is not set on an island - and a release date for Return to Monkey Island, but otherwise, surprises were thin on the ground, and there were a lot of CGI trailers.
-
-
-Those aside, and ignoring Kojima shilling his podcast, we still got an array of interesting games to look forward to over the next 12 months, even if not all of them were AAA-sized or from franchises you might have heard of. I particularly liked the look of Moonbreaker, Atlus Fallen and Where Winds Meet, games I'd never heard of before last night. But what did everyone else think? Tom Phillips, Ed Nightingale, Victoria Kennedy and Liv Ngan discuss.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox's Phil Spencer wants to see fewer platform exclusives, more cross-play in future]]></title>
-        <id>https://www.eurogamer.net/xboxs-phil-spencer-wants-to-see-fewer-platform-exclusives-more-cross-play-in-future</id>
-        <link href="https://www.eurogamer.net/xboxs-phil-spencer-wants-to-see-fewer-platform-exclusives-more-cross-play-in-future"/>
-        <updated>2022-08-24T15:27:15.000Z</updated>
-        <summary type="html"><![CDATA[Xbox boss Phil Spencer has said he'd like to see more game releases that are not tied down to one specific platform, which will in turn allow for more cross-play opportunities.
-
-
-Chatting to Bloomberg, Spencer stated that platform exclusives are something we were all going to see "less and less of" in future, as he hopes for an industry that encourages people to feel safe and included "regardless of what device" they play on.
-
-
-Spencer said he also wanted to see more cross-play possibilties on the market. "Maybe you happen in your household to buy an Xbox and I buy a PlayStation and our kids want to play together and they can't because we bought the wrong piece of plastic to plug into our television," he explained. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denuvo may start appearing in Switch games]]></title>
-        <id>https://www.eurogamer.net/denuvo-may-start-appearing-in-switch-games</id>
-        <link href="https://www.eurogamer.net/denuvo-may-start-appearing-in-switch-games"/>
-        <updated>2022-08-24T15:04:09.000Z</updated>
-        <summary type="html"><![CDATA[The company behind controversial anti-piracy software Denuvo has announced an "innovative solution" to the piracy of Nintendo Switch games on PC.
-Irdeto today published a press release about its Nintendo Switch Emulator Protection solution, as a call to developers and publishers who may be interested in including it with their games. In its statement, Irdeto targets not only first-party and second-party Switch games, but ports of PC games too.
-
-"Nintendo consoles have long suffered from piracy issues and the Switch is no different," the company wrote. "Even if a game is protected against piracy on its PC version, the released version on Switch can be emulated from day one and played on PC, therefore bypassing the strong protections offered on the PC version."
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legendary F1 car added to Gran Turismo 7 in August update]]></title>
-        <id>https://www.eurogamer.net/legendary-f1-car-added-to-gran-turismo-7-in-august-update</id>
-        <link href="https://www.eurogamer.net/legendary-f1-car-added-to-gran-turismo-7-in-august-update"/>
-        <updated>2022-08-24T14:57:11.000Z</updated>
-        <summary type="html"><![CDATA[The August update for Gran Turismo 7 is now available, adding a legendary F1 car.
-
-
-The McLaren MP4/4 marked the end of the Turbo era and was driven by Ayrton Senna in 1988 to win the drivers' championship. It's now available to drive in-game.
-
-
-Three other cars have also been included: the Pontiac GTO 'The Judge' '69, the Porsche Cayman GT4 '16, and the De Tomaso Mangusta (Christian Dior).
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie to end controversial deletions of older Destiny 2 expansions]]></title>
-        <id>https://www.eurogamer.net/bungie-to-end-controversial-deletions-of-older-destiny-2-expansions</id>
-        <link href="https://www.eurogamer.net/bungie-to-end-controversial-deletions-of-older-destiny-2-expansions"/>
-        <updated>2022-08-24T14:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Bungie has announced it will ditch its practice of ritually shedding past Destiny 2 expansions.
-
-
-No content will be lost from expansions from this point forward, Bungie pledged last night during its packed Destiny 2 announcement livestream.
-
-
-However, the game's fabled Content Vault will still continue to gobble up some stuff, including season content beyond its expansion's launch year.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Is Responsible for My Surprise Bill]]></title>
-        <id>https://www.lastweekinaws.com/?p=12940</id>
-        <link href="https://www.lastweekinaws.com/blog/sagemaker_is_responsible_for_my_surprise_bill/"/>
-        <updated>2022-08-24T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting an AWS surprise bill for Amazon SageMaker Canvas is a strange and concerning occurrence for The Duckbill Group's Chief Cloud Economist.
-The post Amazon SageMaker Is Responsible for My Surprise Bill appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Techland highlights changes coming to Dying Light 2 Stay Human]]></title>
-        <id>https://www.eurogamer.net/techland-highlights-changes-coming-to-dying-light-2-stay-human</id>
-        <link href="https://www.eurogamer.net/techland-highlights-changes-coming-to-dying-light-2-stay-human"/>
-        <updated>2022-08-24T13:48:34.000Z</updated>
-        <summary type="html"><![CDATA[In its first Community Update, Techland has revealed changes coming to Dying Light 2 Stay Human.
-
-
-So far the improvements are mainly visual. A new Colour Grading option has been added that allows players to change to a "gritty" look similar to the 2019 gameplay presentations.
-
-
-Other visual improvements include new screen space ambient occlusion implementation, image clarity improvements including temporal anti-aliasing and texture filtering, and the ability to toggle Chromatic Aberration.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
