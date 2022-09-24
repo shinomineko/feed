@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-another-giant-squid-washes-up-on-new-zealand-beach.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.livescience.com/giant-squid-new-zealand-beach\">This</a> <a href=\"https://www.natureworldnews.com/articles/53053/20220912/tourists-find-13-foot-giant-deep-sea-squid-carcass-beached.htm\">one</a> has chewed-up tentacles.</p>\n<p>(Note that this is a different squid than the one that <a href=\"https://www.schneier.com/blog/archives/2022/08/friday-squid-blogging-14-foot-giant-squid-washes-ashore-in-cape-town.html\">recently washed up</a> on a South African beach.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-another-giant-squid-washes-up-on-new-zealand-beach.html",
+          "publishedOn": "2022-09-23T21:32:56.000Z",
+          "wordCount": 789,
+          "title": "Friday Squid Blogging: Another Giant Squid Washes Up on New Zealand Beach",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/leaking-screen-information-on-zoom-calls-through-reflections-in-eyeglasses.html",
           "author": null,
           "description": "<p>Okay, it&#8217;s an obscure threat. But people are <a href=\"https://www.theregister.com/2022/09/17/glasses_reflections_zoom/\">researching it</a>:</p>\n<blockquote><p>Our models and experimental results in a controlled lab setting show it is possible to reconstruct and recognize with over 75 percent accuracy on-screen texts that have heights as small as 10 mm with a 720p webcam.&#8221; That corresponds to 28 pt, a font size commonly used for headings and small headlines.</p>\n<p>[&#8230;]</p>\n<p>Being able to read reflected headline-size text isn&#8217;t quite the privacy and security problem of being able to read smaller 9 to 12 pt fonts. But this technique is expected to provide access to smaller font sizes as high-resolution webcams become more common...</p></blockquote>",
@@ -394,16 +404,6 @@
           "wordCount": 996,
           "title": "Security and Cheap Complexity",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/08/man-in-the-middle-phishing-attack.html",
-          "author": null,
-          "description": "<p>Here&#8217;s a <a href=\"https://arstechnica.com/information-technology/2022/07/microsoft-details-phishing-campaign-that-can-hijack-mfa-protected-accounts/\">phishing campaign</a> that uses a man-in-the-middle attack to defeat multi-factor authentication:</p>\n<blockquote><p>Microsoft observed a campaign that inserted an attacker-controlled proxy site between the account users and the work server they attempted to log into. When the user entered a password into the proxy site, the proxy site sent it to the real server and then relayed the real server&#8217;s response back to the user. Once the authentication was completed, the threat actor stole the session cookie the legitimate site sent, so the user doesn&#8217;t need to be reauthenticated at every new page visited. The campaign began with a phishing email with an HTML attachment leading to the proxy server...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/08/man-in-the-middle-phishing-attack.html",
-          "publishedOn": "2022-08-25T11:45:17.000Z",
-          "wordCount": 2276,
-          "title": "Man-in-the-Middle Phishing Attack",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +412,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1884284",
+          "author": "Andrew Cunningham",
+          "description": "A new version of the GeForce Experience software will fix the issue.",
+          "link": "https://arstechnica.com/?p=1884284",
+          "publishedOn": "2022-09-23T22:44:10.000Z",
+          "wordCount": 1278,
+          "title": "GeForce GPUs are slowing down after installing the Windows 11 2022 Update",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_1568-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884140",
+          "author": "Eric Berger",
+          "description": "Space agency officials seem OK with leaving the rocket out in a tropical storm.",
+          "link": "https://arstechnica.com/?p=1884140",
+          "publishedOn": "2022-09-23T21:06:42.000Z",
+          "wordCount": 1933,
+          "title": "NASA seems to be in full “send it” mode for the Artemis I mission",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Image-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884201",
+          "author": "Ashley Belanger",
+          "description": "Since 2015, crashes involving Amazon vehicles have killed more than 75 people.",
+          "link": "https://arstechnica.com/?p=1884201",
+          "publishedOn": "2022-09-23T20:50:59.000Z",
+          "wordCount": 2077,
+          "title": "Amazon hires unsafe trucking firms twice as often as peers, WSJ finds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1387165772-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884104",
+          "author": "Benj Edwards",
+          "description": "Hobbyist and IEEE editor Stephen Cass upgrades a broken laptop from 1983.",
+          "link": "https://arstechnica.com/?p=1884104",
+          "publishedOn": "2022-09-23T20:13:32.000Z",
+          "wordCount": 1600,
+          "title": "39-year-old Radio Shack laptop gets new CPU, keeps original screen",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/trs80_model100_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884070",
+          "author": "Dan Goodin",
+          "description": "For 2nd time in 4 years, Amazon loses control of its IP space in BGP hijacking.",
+          "link": "https://arstechnica.com/?p=1884070",
+          "publishedOn": "2022-09-23T18:04:11.000Z",
+          "wordCount": 1565,
+          "title": "How 3 hours of inaction from Amazon cost cryptocurrency holders $235,000",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884083",
+          "author": "Jon Brodkin",
+          "description": "Starlink capacity limits hit users—SpaceX says more satellites will make it faster.",
+          "link": "https://arstechnica.com/?p=1884083",
+          "publishedOn": "2022-09-23T17:57:20.000Z",
+          "wordCount": 1937,
+          "title": "Starlink is getting a lot slower as more people use it, speed tests show",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/starlink-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1884067",
           "author": "Sam Machkovech",
@@ -3921,56 +3981,6 @@
           "wordCount": 1800,
           "title": "Amazon to close US telehealth service as it shifts sector ambitions",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/amazoncare-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876040",
-          "author": "Sam Machkovech",
-          "description": "United States escapes the price hike, which ranges between 3-13% around the world.",
-          "link": "https://arstechnica.com/?p=1876040",
-          "publishedOn": "2022-08-25T12:08:56.000Z",
-          "wordCount": 1804,
-          "title": "Sony raises PlayStation 5 console prices in many regions, effective immediately",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/ps5-price-listing-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1875918",
-          "author": "Scharon Harding",
-          "description": "An option for power workers seeking deeper contrast without Mini LED or OLED prices.",
-          "link": "https://arstechnica.com/?p=1875918",
-          "publishedOn": "2022-08-25T12:00:52.000Z",
-          "wordCount": 1553,
-          "title": "HP’s new Thunderbolt 4 monitor uses contrast-rich IPS Black tech",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/listing-6-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1875810",
-          "author": "Scharon Harding",
-          "description": "There's a gimmick or two, but it's also one of the highest-specced AIOs around.",
-          "link": "https://arstechnica.com/?p=1875810",
-          "publishedOn": "2022-08-25T12:00:41.000Z",
-          "wordCount": 1862,
-          "title": "HP’s 5K ultrawide all-in-one has workhorse specs, dual magnetic webcams",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/bottom-bezel-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1875865",
-          "author": "Samuel Axon",
-          "description": "New iPhones and Watches: you bet. New Macs and iPads? Probably not.",
-          "link": "https://arstechnica.com/?p=1875865",
-          "publishedOn": "2022-08-25T11:30:00.000Z",
-          "wordCount": 1714,
-          "title": "What to expect from Apple’s September 7 “Far Out” event",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/IMG_3234-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1875388",
-          "author": "Eric Berger",
-          "description": "\"I still don't know to this day if my boss, Charlie, was in on the whole deal.\"",
-          "link": "https://arstechnica.com/?p=1875388",
-          "publishedOn": "2022-08-25T11:00:25.000Z",
-          "wordCount": 2188,
-          "title": "Former NASA official on trying to stop SLS: “There was just such visible hostility”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-88904468-760x380.jpg"
         }
       ]
     },
@@ -8864,106 +8874,6 @@
           "wordCount": 4367,
           "title": "Sony reluctantly raises PS5 price, but knows it can get away with it",
           "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/crypt-of-the-necrodancer-gets-standalone-rhythm-game-spin-off",
-          "author": "Ed Nightingale",
-          "description": "Crypt of the NecroDancer is getting a new standalone rhythm game spin-off.\r\n\n\r\nLast month developer Brace Yourself Games updated its game for the first time in five years and teased that something new was on the way.\r\n\n\r\nAnd now we know: Rift of the NecroDancer, available to wishlist now on Steam.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/crypt-of-the-necrodancer-gets-standalone-rhythm-game-spin-off",
-          "publishedOn": "2022-08-25T11:29:26.000Z",
-          "wordCount": 4474,
-          "title": "Crypt of the NecroDancer gets standalone rhythm game spin-off",
-          "imageUrl": "https://assets.reedpopcdn.com/rift-of-the-necrodancer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rift-of-the-necrodancer.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-5-tournaments-to-get-open-beta",
-          "author": "Tom Phillips",
-          "description": "Tournaments - a feature of the PlayStation 4 since 2016 - will finally be available to try on PS5 soon via a public beta. \r\n\n\r\nSony has announced an \"all-new on-console tournament experience\" coming to PS5 \"in the coming weeks, in select countries\" - and you can see some of its new look just above.\r\n\n\r\nWhen implemented, the feature will allow you to join competitions for prizes and leaderboard bragging rights, with easy access from the PS5 Control Center and Game Hub.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-5-tournaments-to-get-open-beta",
-          "publishedOn": "2022-08-25T11:12:36.000Z",
-          "wordCount": 4333,
-          "title": "PlayStation 5 tournaments to get open beta",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled_jHtxt2p.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled_jHtxt2p.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-vr2-playable-at-tokyo-game-show-via-resident-evil-village",
-          "author": "Liv Ngan",
-          "description": "Capcom has announced that Resident Evil Village for PlayStation VR 2 will be playable at Tokyo Game Show this year - the first time Sony's new headset will be available to try publicly.\r\n\nThe VR mode for Village, available only on PS5, was first announced during Sony's State of Play showcase in June. \nCapcom had already announced it will be at Tokyo Game Show, but it's now revealed that a demo for Village on PlayStation VR 2 will be there next month.\n Read more",
-          "link": "https://www.eurogamer.net/playstation-vr2-playable-at-tokyo-game-show-via-resident-evil-village",
-          "publishedOn": "2022-08-25T11:10:03.000Z",
-          "wordCount": 4535,
-          "title": "PlayStation VR2 playable at Tokyo Game Show via Resident Evil Village",
-          "imageUrl": "https://assets.reedpopcdn.com/resident-evil-village-vr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-village-vr.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/japanese-sonic-frontiers-players-receive-special-v-tuber-dlc-costumes",
-          "author": "Ed Nightingale",
-          "description": "Lucky Sonic Frontiers players in Japan will receive special V-Tuber DLC costumes.\r\n\n\r\nSega has revealed a collaboration with Hololive VTuber Inugami Korone, which changes Sonic's glove and shoe designs as well as the appearance of the in-game mascot Coco.\r\n\n\r\nThe DLC was posted on reddit, though it's unclear if this will also feature elsewhere.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/japanese-sonic-frontiers-players-receive-special-v-tuber-dlc-costumes",
-          "publishedOn": "2022-08-25T11:03:31.000Z",
-          "wordCount": 4532,
-          "title": "Japanese Sonic Frontiers players receive special V-Tuber DLC costumes",
-          "imageUrl": "https://assets.reedpopcdn.com/Sonic-Frontiers---Story-Trailer-1-15-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Sonic-Frontiers---Story-Trailer-1-15-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/steam-hosts-ukrainian-games-festival-to-mark-countrys-independence-day",
-          "author": "Victoria Kennedy",
-          "description": "The Ukrainian Games Festival is currently being hosted on Steam.\r\n\n\r\nThis festival is being presented by Indie Cup, with the support of the Ukrainian Indie Developers community. \r\n\n\r\nHere, you will find broadcasts for a variety of games made by Ukrainian developers, as well as deals on titles such as The Testament of Sherlock Holmes by Frogwares and Stalker: Shadow of Chernobyl by GSC Games World.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/steam-hosts-ukrainian-games-festival-to-mark-countrys-independence-day",
-          "publishedOn": "2022-08-25T10:50:55.000Z",
-          "wordCount": 4556,
-          "title": "Steam hosts Ukrainian Games Festival to mark country's independence day",
-          "imageUrl": "https://assets.reedpopcdn.com/Ukrainian-Games-Festival.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Ukrainian-Games-Festival.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/efootball-2023-out-today-with-ac-milan-and-inter-in-tow",
-          "author": "Wesley Yin-Poole",
-          "description": "Konami has released eFootball 2023 across PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S, PC and mobile.\r\n\n\r\neFootball's second year kicks off as an update to the existing free-to-play game, with the summer's transfers reflected in team lineups.\r\n\n\r\neFootball 2023 sees the return of officially-licensed Italian clubs AC Milan and Inter, as well as the addition of Liga BBVA MX, which brings all 18 Mexican clubs, their players and the Estadio Azteca to the game.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/efootball-2023-out-today-with-ac-milan-and-inter-in-tow",
-          "publishedOn": "2022-08-25T10:44:38.000Z",
-          "wordCount": 4395,
-          "title": "eFootball 2023 out today, with AC Milan and Inter in tow",
-          "imageUrl": "https://assets.reedpopcdn.com/milan-main.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/milan-main.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/looks-like-square-enix-is-opening-a-new-studio-in-the-west",
-          "author": "Ed Nightingale",
-          "description": "Square Enix may be opening a new studio in the west, shortly after selling its previous western studios to Embracer.\r\n\n\r\nStudio Onoma is part of an application on the Canadian Trademarks Database, with the applicant Square Enix Newco.\r\n\n\r\nAccording to the application, Studio Onoma will both develop and publish video game software, in addition to working on merchandise like strategy guides, posters, clothing, toys, and action figures.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/looks-like-square-enix-is-opening-a-new-studio-in-the-west",
-          "publishedOn": "2022-08-25T10:14:41.000Z",
-          "wordCount": 4349,
-          "title": "Looks like Square Enix is opening a new studio in the west",
-          "imageUrl": "https://assets.reedpopcdn.com/final-fantasy-intergrade.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/final-fantasy-intergrade.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-new-fear-effect-is-a-third-person-cover-shooter",
-          "author": "Wesley Yin-Poole",
-          "description": "Fear Effect Reinvented just re-emerged with its first gameplay trailer - and the promise of a release date sooner than we think.\r\n\n\r\nThe video below shows off how different this new Fear Effect looks and plays compared to the originals. \r\n\nSquare Enix announced Fear Effect Reinvented back in 2017 with a release window of 2018. Obviously that sailed by.\n Read more",
-          "link": "https://www.eurogamer.net/the-new-fear-effect-is-a-third-person-cover-shooter",
-          "publishedOn": "2022-08-25T10:09:02.000Z",
-          "wordCount": 4449,
-          "title": "The new Fear Effect is a third-person cover shooter",
-          "imageUrl": "https://assets.reedpopcdn.com/fear-effect_h2f9Zr7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fear-effect_h2f9Zr7.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dark-souls-3-servers-are-finally-back-online",
-          "author": "Liv Ngan",
-          "description": "FromSoftware has finally managed to get Dark Souls 3 back online, seven months after PC PvP servers had to be shut down.\nBack in January, PC servers for all Dark Souls games were shuttered due to security issues - and remained down for months. In July, at the 183 day mark, there were signs that Dark Souls 3 could be back online soon - but still no fix.\nNow, at well over 200 days, the PC servers for Dark Souls 3 are now live again. Rejoice!\n Read more",
-          "link": "https://www.eurogamer.net/dark-souls-3-servers-are-finally-back-online",
-          "publishedOn": "2022-08-25T10:04:12.000Z",
-          "wordCount": 4433,
-          "title": "Dark Souls 3 servers are finally back online",
-          "imageUrl": "https://assets.reedpopcdn.com/dark-souls-3_AZwYmNn.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dark-souls-3_AZwYmNn.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-5-price-increase-announced-by-30-in-uk",
-          "author": "Tom Phillips",
-          "description": "Sony has increased the PlayStation 5 price, effective immediately, in most markets around the world. \r\n\n\r\nThe console's cost will rise by £30 in the UK and €50 in Europe, to £480/€550, or £390/€450 for the console's disc-less digital version.\r\n\n\r\nElsewhere around the world, Japan, China, Australia, Mexico and Canada will also see price rises. But the US will not see a price rise at this time.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-5-price-increase-announced-by-30-in-uk",
-          "publishedOn": "2022-08-25T08:03:19.000Z",
-          "wordCount": 4686,
-          "title": "PlayStation 5 price increase announced, by £30 in UK",
-          "imageUrl": "https://assets.reedpopcdn.com/ps5-vrr-notext.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps5-vrr-notext.jpg"
         }
       ]
     },
