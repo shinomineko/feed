@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/09/leaking-passwords-through-the-spellchecker.html",
+          "author": null,
+          "description": "<p>Sometimes browser spellcheckers <a href=\"https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/\">leak passwords</a>:</p>\n<blockquote><p>When using major web browsers like Chrome and Edge, your form data is transmitted to Google and Microsoft, respectively, should enhanced spellcheck features be enabled.</p>\n<p>Depending on the website you visit, the form data may itself include PII­&#8212;including but not limited to Social Security Numbers (SSNs)/Social Insurance Numbers (SINs), name, address, email, date of birth (DOB), contact information, bank and payment information, and so on.</p></blockquote>\n<p>The solution is to only use the spellchecker options that keep the data on your computer&#8212;and don&#8217;t send it into the cloud...</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/leaking-passwords-through-the-spellchecker.html",
+          "publishedOn": "2022-09-26T11:08:57.000Z",
+          "wordCount": 734,
+          "title": "Leaking Passwords through the Spellchecker",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-another-giant-squid-washes-up-on-new-zealand-beach.html",
           "author": null,
           "description": "<p><a href=\"https://www.livescience.com/giant-squid-new-zealand-beach\">This</a> <a href=\"https://www.natureworldnews.com/articles/53053/20220912/tourists-find-13-foot-giant-deep-sea-squid-carcass-beached.htm\">one</a> has chewed-up tentacles.</p>\n<p>(Note that this is a different squid than the one that <a href=\"https://www.schneier.com/blog/archives/2022/08/friday-squid-blogging-14-foot-giant-squid-washes-ashore-in-cape-town.html\">recently washed up</a> on a South African beach.)</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -3761,16 +3771,6 @@
           "wordCount": 1699,
           "title": "The final countdown begins for NASA’s hulking new rocket",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/SLS-Rollout-June-6-2022-9782-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876456",
-          "author": "Jeff Dunn",
-          "description": "Dealmaster also has HyperX gaming headsets, the Google Chromecast, and the Xbox Series S.",
-          "link": "https://arstechnica.com/?p=1876456",
-          "publishedOn": "2022-08-27T19:06:08.000Z",
-          "wordCount": 2822,
-          "title": "The weekend’s best deals: Apple iPad, MacBook Pro, OLED TVs, and more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/dealmaster082722-760x380.jpg"
         }
       ]
     },
@@ -3965,6 +3965,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/marvel-has-no-plans-for-video-game-mcu",
+          "author": "Tom Phillips",
+          "description": "There are no plans for Marvel's many upcoming video game projects to form any kind of connected universe, the comic book maker has said. \r\n\n\r\nMarvel exec Bill Rosemann set the record straight as part of a GamesIndustry.biz interview, which comes after a succession of announcements for upcoming Iron Man, Black Panther and Wolverine  games.\r\n\n\r\n\"The world is, amazingly, very familiar and accepting of the multiverse,\" Rosemann said. \"We have all these different realities. Now they're all real, and we want to give everyone the freedom to tell their story. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/marvel-has-no-plans-for-video-game-mcu",
+          "publishedOn": "2022-09-26T11:36:12.000Z",
+          "wordCount": 4627,
+          "title": "Marvel has no plans for video game MCU",
+          "imageUrl": "https://assets.reedpopcdn.com/amy-hennig-marvel.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/amy-hennig-marvel.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/suspected-grand-theft-auto-6-hacker-set-for-court",
+          "author": "Tom Phillips",
+          "description": "The 17-year-old from Oxfordshire believed to have been behind the recent gargantuan leak of Grand Theft Auto 6 was set to appear in court in London over the weekend. \r\n\n\r\nThe unamed teen has been charged with two counts of computer misuse, as well as two counts of breaching bail conditions. \r\n\n\r\nThese latter charges likely refer to the teen's previous run-in with police over hacking charges - when they were suspected of breaching both Microsoft and Samsung earlier in the year. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/suspected-grand-theft-auto-6-hacker-set-for-court",
+          "publishedOn": "2022-09-26T11:11:55.000Z",
+          "wordCount": 4688,
+          "title": "Suspected Grand Theft Auto 6 hacker set for court",
+          "imageUrl": "https://assets.reedpopcdn.com/_70019062_gta5_rockstar_high.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/_70019062_gta5_rockstar_high.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/survival-comes-to-ikea-in-indie-horror-game-the-store-is-closed",
+          "author": "Victoria Kennedy",
+          "description": "We have all been there. Ikea - the shop that takes you through a convoluted one-way system as you see mock-ups of rooms full of all you could ever need for your own home, and then before you know it you have purchased 100 tealights and a packet of meatballs.\r\n\n\r\nBut what if you were to throw a load of zombie-like monsters into this experience, and then proceed to turn out the lights, leaving the exit near impossible to find? Well, one developer has decided to answer that question in its upcoming game: The Store is closed.\r\n\n\r\nThe Store is Closed is a haunting mash-up of Endnight Games' The Forest (which incidentally saw its sequel, Sons of the Forest, recently delayed) and the humdrum of everyday life, and comes from indie developer Ziggy (thanks, PCGamesN). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/survival-comes-to-ikea-in-indie-horror-game-the-store-is-closed",
+          "publishedOn": "2022-09-26T10:45:52.000Z",
+          "wordCount": 4756,
+          "title": "Survival comes to Ikea in indie horror game The Store is Closed",
+          "imageUrl": "https://assets.reedpopcdn.com/the-store-is-closed.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-store-is-closed.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-is-heading-to-manchester-for-an-art-experience",
+          "author": "Liv Ngan",
+          "description": "A Pokémon event called Art through the Ages will be open in Manchester next month.\r\n\nThe art experience was teased on the Pokémon UK Twitter yesterday, inviting visitors to The Trafford Centre to join in a community art project.\r\n\nThose stopping by gained more information on Art through the Ages - which has now been detailed officially.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-is-heading-to-manchester-for-an-art-experience",
+          "publishedOn": "2022-09-26T10:38:33.000Z",
+          "wordCount": 4537,
+          "title": "Pokémon is heading to Manchester for an art experience",
+          "imageUrl": "https://assets.reedpopcdn.com/FdklSeiXEAEQA-e.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FdklSeiXEAEQA-e.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/wo-long-fallen-dynasty-wont-have-difficulty-options",
+          "author": "Ed Nightingale",
+          "description": "Wo Long: Fallen Dynasty will only have one difficulty level.\r\n\n\r\nAs with Team Ninja's previous Nioh games, Wo Long is a Soulslike game that thrives on challenge. Many players subsequently feel the games are too difficult and inaccessible.\r\n\n\r\nSpeaking to MP1st, producer Masaaki Yamagiwa defended Team Ninja's decision to stick with one difficulty.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/wo-long-fallen-dynasty-wont-have-difficulty-options",
+          "publishedOn": "2022-09-26T10:36:09.000Z",
+          "wordCount": 4621,
+          "title": "Wo Long: Fallen Dynasty won't have difficulty options",
+          "imageUrl": "https://assets.reedpopcdn.com/apps.16911.13901979263236523.9631715e-aa1d-40af-91dc-abcff61f7a9f.e51994a3-a79a-44f5-b326-58a2b82ca746.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/apps.16911.13901979263236523.9631715e-aa1d-40af-91dc-abcff61f7a9f.e51994a3-a79a-44f5-b326-58a2b82ca746.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/silent-hill-game-rating-spotted-in-south-korea",
+          "author": "Ed Nightingale",
+          "description": "A rating for a new Silent Hill game has been spotted in South Korea.\r\n\n\r\nSilent Hill: The Short Message has been rated by The Game Rating and Administration Committee of Korea, as spotted by Gematsu.\r\n\n\r\nPlatforms have not been specified, but the publisher is listed as UNIANA, which publishes Konami games in the country - eFootball 2023 was also included in this crop of ratings.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/silent-hill-game-rating-spotted-in-south-korea",
+          "publishedOn": "2022-09-26T10:09:41.000Z",
+          "wordCount": 4496,
+          "title": "Silent Hill game rating spotted in South Korea",
+          "imageUrl": "https://assets.reedpopcdn.com/Silent-Hill-Rated-Korea_09-26-22.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Silent-Hill-Rated-Korea_09-26-22.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/classic-halo-3-map-the-pit-coming-to-halo-infinite",
+          "author": "Wesley Yin-Poole",
+          "description": "Classic Halo 3 multiplayer map The Pit is on the way to Halo Infinite, Microsoft has announced.\r\n\n\r\nThe remake of The Pit, considered by some to be one of the greatest Halo multiplayer maps of all time, is built using Halo Infinite's new Forge tools, which come out this November in beta form a year after Halo Infinite launched.\r\n\n\r\nThe video below gives us a glimpse at The Pit's new look in Halo Infinite (it looks very different!):\r\n \nRead more",
+          "link": "https://www.eurogamer.net/classic-halo-3-map-the-pit-coming-to-halo-infinite",
+          "publishedOn": "2022-09-26T10:07:17.000Z",
+          "wordCount": 4478,
+          "title": "Classic Halo 3 map The Pit coming to Halo Infinite",
+          "imageUrl": "https://assets.reedpopcdn.com/The-Pit.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Pit.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime",
+          "author": "Wesley Yin-Poole",
+          "description": "There's an Onimusha anime in the works for Netflix, Capcom has announced.\r\n\n\r\nThis adaptation of Capcom's dormant samurai action series is produced by Sublimation Inc., the same company that handled the Dragon's Dogma series that was streamed on Netflix in 2020, and is directed by Takashi Miike (Audition, Ichi the Killer, 13 Assassins).\r\n\n\r\nDetails are scarce, but Capcom said the anime has \"3DCG\" animated characters with hand-drawn backgrounds. Protagonist Miyamoto Musashi is modeled on Toshihiro Mifune, the Japanese actor famous for appearing in multiple Akira Kurosawa films who died 25 years ago.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime",
+          "publishedOn": "2022-09-26T08:21:29.000Z",
+          "wordCount": 4464,
+          "title": "Here's our first look at Netflix's Onimusha anime",
+          "imageUrl": "https://assets.reedpopcdn.com/onimusha.jfif/BROK/thumbnail/1600x900/format/jpg/quality/80/onimusha.jfif"
+        },
         {
           "id": "https://www.eurogamer.net/bfi-announces-a-10-year-plan-designed-to-support-the-moving-image-including-games",
           "author": "Vikki Blake",
