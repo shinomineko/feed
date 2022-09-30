@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2679/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/quantified_self.png\" title=\"It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.\" alt=\"It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.\" />",
+          "link": "https://xkcd.com/2679/",
+          "publishedOn": "2022-09-30T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Quantified Self",
+          "imageUrl": "https://imgs.xkcd.com/comics/quantified_self_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2678/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/wing_lift.png\" title=\"Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.\" alt=\"Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.\" />",
@@ -165,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/09/security-vulnerabilities-in-covert-cia-websites.html",
+          "author": null,
+          "description": "<p>Back in 2018, we learned that covert system of websites that the CIA used for communications was <a href=\"https://news.yahoo.com/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html/\">compromised by</a>&#8212;at least&#8212;China and Iran, and that the blunder caused a bunch of arrests, imprisonments, and executions. We&#8217;re <a href=\"https://www.reuters.com/investigates/special-report/usa-spies-iran/\">now learning</a> that the CIA is still &#8220;using an irresponsibly secured system for asset communication.&#8221;</p>\n<p>Citizen Lab did the <a href=\"https://citizenlab.ca/2022/09/statement-on-the-fatal-flaws-found-in-a-defunct-cia-covert-communications-system/\">research</a>:</p>\n<blockquote><p>Using only a single website, as well as publicly available material such as historical internet scanning results and the Internet Archive&#8217;s Wayback Machine, we identified a network of 885 websites and have high confidence that the United States (US) Central Intelligence Agency (CIA) used these sites for covert communication...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/security-vulnerabilities-in-covert-cia-websites.html",
+          "publishedOn": "2022-09-30T14:19:16.000Z",
+          "wordCount": 998,
+          "title": "Security Vulnerabilities in Covert CIA Websites",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/09/differences-in-app-security-privacy-based-on-country.html",
           "author": null,
@@ -412,6 +432,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1885554",
+          "author": "Ron Amadeo",
+          "description": "If Google really wants more secure extensions, why not just police the store better?",
+          "link": "https://arstechnica.com/?p=1885554",
+          "publishedOn": "2022-09-30T16:55:17.000Z",
+          "wordCount": 1720,
+          "title": "Chrome’s new ad-blocker-limiting extension platform will launch in 2023",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/5619516786_c3823debf8_o-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885857",
+          "author": "Benj Edwards",
+          "description": "Tech will allow Willis' doppelgänger to continue working despite language disorder diagnosis.",
+          "link": "https://arstechnica.com/?p=1885857",
+          "publishedOn": "2022-09-30T16:35:13.000Z",
+          "wordCount": 1631,
+          "title": "Deepfake Bruce Willis may be the next Hollywood star, and he’s OK with that",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/deepfake_bruce_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885832",
+          "author": "Jennifer Ouellette",
+          "description": "\"Picture your mind as a cabinet where you lock up your darkest thoughts...\"",
+          "link": "https://arstechnica.com/?p=1885832",
+          "publishedOn": "2022-09-30T16:07:32.000Z",
+          "wordCount": 1663,
+          "title": "Savor the sinister delights of del Toro’s Cabinet of Curiosities trailer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/cabinet5-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878321",
+          "author": "Kevin Purdy",
+          "description": "Gmail, the service? Not bad. Gmail, the website? Eh. Time for a real client.",
+          "link": "https://arstechnica.com/?p=1878321",
+          "publishedOn": "2022-09-30T15:32:58.000Z",
+          "wordCount": 1435,
+          "title": "The best Mac desktop clients for Gmail aficionados",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/mac-email-clients-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885873",
+          "author": "WIRED",
+          "description": "After decades of warnings, group figured out how to hijack virtualization software.",
+          "link": "https://arstechnica.com/?p=1885873",
+          "publishedOn": "2022-09-30T15:22:12.000Z",
+          "wordCount": 1417,
+          "title": "Mystery hackers are “hyperjacking” targets for insidious spying",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/keyboard-mirror-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885842",
+          "author": "Financial Times",
+          "description": "Supporters of $44 billion bid included Larry Ellison and podcaster Joe Rogan.",
+          "link": "https://arstechnica.com/?p=1885842",
+          "publishedOn": "2022-09-30T14:23:51.000Z",
+          "wordCount": 1766,
+          "title": "Texts show roll call of tech figures tried to help Elon Musk in Twitter deal",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/elon-musk-twitter-speech-juggle-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1885499",
           "author": "Ars Contributors",
@@ -4041,16 +4121,6 @@
           "wordCount": 2163,
           "title": "NASA will pay Boeing more than twice as much as SpaceX for crew seats",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258250868_d3ffed72fd_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876903",
-          "author": "Scharon Harding",
-          "description": "A bigger screen, better specs, and more fitting OS could finally make foldable PCs a thing.",
-          "link": "https://arstechnica.com/?p=1876903",
-          "publishedOn": "2022-09-01T04:00:57.000Z",
-          "wordCount": 1713,
-          "title": "Hands-on: Lenovo’s second foldable PC addresses the first’s biggest problems",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/listing-7-760x380.jpg"
         }
       ]
     },
@@ -4235,6 +4305,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/eurogamer-newscast-google-stadia-destined-for-failure",
+          "author": "Tom Phillips",
+          "description": "This week on the Eurogamer Newscast we're discussing the failure of Stadia, and why Google's cloud gaming gamble struggled from the start.\r\n\n\r\nThe announcement of Stadia's demise came as a shock to some - including many developers with titles only weeks from launch - yet still feels like it was on the cards for some time. After a rocky launch and the closure of Google's internal game development studios, what future did Stadia have left? Eurogamer editor-in-chief Martin Robinson weighed in earlier today with his thoughts.\r\n\nCould Stadia have been a success? What does this all mean for game preservation? And if Google failed, with all of its billions, what future does cloud gaming have elsewhere? Tom Phillips, Ed Nightingale, and Liv Ngan share their thoughts.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eurogamer-newscast-google-stadia-destined-for-failure",
+          "publishedOn": "2022-09-30T16:08:10.000Z",
+          "wordCount": 4389,
+          "title": "Was Google Stadia always destined for failure?",
+          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-a-fan-trailer-for-a-super-mario-remake-with-chris-pratt",
+          "author": "Liv Ngan",
+          "description": "A lifelong Nintendo fan has decided to make a realistic Super Mario Bros remake, and posted a movie-style trailer on YouTube to document their most recent update.\r\n\nThe YouTuber, who has uploaded their videos to the channel Re-Imagined Games, started work on the remake over two months ago.\r\n\nIn order to create the game, they've had to learn Unreal Engine 5 with zero experience in video game development.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-a-fan-trailer-for-a-super-mario-remake-with-chris-pratt",
+          "publishedOn": "2022-09-30T15:25:51.000Z",
+          "wordCount": 4568,
+          "title": "Here's a fan trailer for a Super Mario \"remake\" with Chris Pratt",
+          "imageUrl": "https://assets.reedpopcdn.com/Chris-Pratt---Super-Mario-Remake---TRAILER-0-21-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Chris-Pratt---Super-Mario-Remake---TRAILER-0-21-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/onrush-losing-online-features-in-november",
+          "author": "Ed Nightingale",
+          "description": "Racing game OnRush will lose its online features on 30th November.\r\n\n\r\nEA's Online Services Shutdown page has been updated with the addition.\r\n\n\r\n\"Thanks to everyone who has supported our game - it's been a RUSH,\" it reads. \"With player numbers in online modes dropping to low levels, we will be shutting down the servers from 30th November 2022. For OnRush fans who want to continue playing, offline modes will continue to be available.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/onrush-losing-online-features-in-november",
+          "publishedOn": "2022-09-30T15:13:41.000Z",
+          "wordCount": 4431,
+          "title": "OnRush losing online features in November",
+          "imageUrl": "https://assets.reedpopcdn.com/onrush-review-an-eccentric-and-excellent-spin-on-the-arcade-racer-1528182643827.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/onrush-review-an-eccentric-and-excellent-spin-on-the-arcade-racer-1528182643827.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/google-reportedly-turned-down-a-stadia-exclusive-death-stranding-successor",
+          "author": "Ed Nightingale",
+          "description": "Google reportedly turned down a Stadia exclusive follow-up to Hideo Kojima's Death Stranding.\r\n\n\r\nAccording to a new report from 9to5google, the project received initial approval but as it was intended to be a strictly single-player experience (instead of the asynchronous multiplayer in Death Stranding), the Kojima collaboration was cancelled as Google believed there was no longer a market for solo games.\r\n\r\n\n\r\nDespite reaching the early stages of development, the project was reportedly cancelled by Stadia's general manager Phil Harrison in mid 2020 following the first mockups.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/google-reportedly-turned-down-a-stadia-exclusive-death-stranding-successor",
+          "publishedOn": "2022-09-30T15:00:44.000Z",
+          "wordCount": 4552,
+          "title": "Google reportedly turned down a Stadia-exclusive Death Stranding successor",
+          "imageUrl": "https://assets.reedpopcdn.com/death-strandings-pc-release-delayed-to-july-1587477176631.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/death-strandings-pc-release-delayed-to-july-1587477176631.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/meta-quest-3-leak-includes-design-files-and-specs",
+          "author": "Liv Ngan",
+          "description": "Leaked files containing information on Meta Quest 3 have surfaced online.\r\n\nThe leak comes from YouTuber Brad Lynch, known as SadlyItsBradley, who posts videos on VR and AR.  \r\n\nThe headset which Lynch detailed in his video \"This is the Meta Quest 3\" is a different headset to the Meta Quest Pro that was found in a hotel and unboxed earlier this month.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/meta-quest-3-leak-includes-design-files-and-specs",
+          "publishedOn": "2022-09-30T14:59:02.000Z",
+          "wordCount": 4415,
+          "title": "Meta Quest 3 leak includes design files and specs",
+          "imageUrl": "https://assets.reedpopcdn.com/THIS-is-the-Meta-Quest-3-0-49-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/THIS-is-the-Meta-Quest-3-0-49-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/jett-the-far-shore-getting-free-campaign-expansion-next-year",
+          "author": "Ed Nightingale",
+          "description": "JETT: The Far Shore is set to receive a new free campaign expansion in early 2023.\r\n\n\r\nCalled Given Time, the campaign will take place three years after the events of the main game.\r\n\n\r\nThe sci-fi game from developer Superbrothers A/V was released a year ago on PlayStation consoles and PC, but if you're yet to play it a demo will be available as part of Steam's Next Fest from 3rd October.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/jett-the-far-shore-getting-free-campaign-expansion-next-year",
+          "publishedOn": "2022-09-30T14:03:58.000Z",
+          "wordCount": 4533,
+          "title": "JETT: The Far Shore getting free campaign expansion next year",
+          "imageUrl": "https://assets.reedpopcdn.com/jett-far-shore.png/BROK/thumbnail/1600x900/format/jpg/quality/80/jett-far-shore.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/bioware-shares-dragon-age-dreadwolf-codex-entries",
+          "author": "Tom Phillips",
+          "description": "Dragon Age developer BioWare has shared a few new snippets from the upcoming and long-awaited Dreadwolf, in the form of a few fresh codex entries. \r\n\n\r\nThese tidbits are not meant to tease any particular storyline from Dreadwolf, but are included in a blog post detailing how BioWare's writing team works together to build Dragon Age's expansive world. \r\n\n\r\nThe first codex entry presented here comes from a character's diary - someone who, if we had to guess, is likely one of your new companions. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/bioware-shares-dragon-age-dreadwolf-codex-entries",
+          "publishedOn": "2022-09-30T13:20:57.000Z",
+          "wordCount": 4703,
+          "title": "BioWare shares Dragon Age: Dreadwolf codex entries",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered-Recovered_KnaYZo4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered-Recovered_KnaYZo4.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/twitch-testing-feature-for-viewers-to-pay-up-to-100-to-highlight-a-message",
+          "author": "Ed Nightingale",
+          "description": "Twitch is testing a feature where viewers can pay up to $100 to highlight a message in chat.\r\n\n\r\nElevated Chat, as it's known, is currently a limited time experiment for four weeks only available for select streamers.\r\n\n\r\nIt allows viewers to pay to \"elevate\" their message in chat, either pinned to the top of chat or at the bottom of the video player. Varying payment amounts allows for various amounts of time for elevation.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-testing-feature-for-viewers-to-pay-up-to-100-to-highlight-a-message",
+          "publishedOn": "2022-09-30T12:31:34.000Z",
+          "wordCount": 4531,
+          "title": "Twitch testing feature for viewers to pay up to $100 to highlight a message",
+          "imageUrl": "https://assets.reedpopcdn.com/twitch-logo-1024x577.webp/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-logo-1024x577.webp"
+        },
         {
           "id": "https://www.eurogamer.net/bayonetta-switch-physical-edition-delayed-in-uk-and-europe",
           "author": "Ed Nightingale",
