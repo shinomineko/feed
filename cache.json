@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-breeding-the-oval-squid.html",
+          "author": null,
+          "description": "<p>Japanese scientists are trying to <a href=\"https://www3.nhk.or.jp/nhkworld/en/news/20220913_09/\">breed</a> the oval squid in captivity.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-breeding-the-oval-squid.html",
+          "publishedOn": "2022-09-30T21:17:18.000Z",
+          "wordCount": 797,
+          "title": "Friday Squid Blogging: Breeding the Oval Squid",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/security-vulnerabilities-in-covert-cia-websites.html",
           "author": null,
           "description": "<p>Back in 2018, we learned that covert system of websites that the CIA used for communications was <a href=\"https://news.yahoo.com/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html/\">compromised by</a>&#8212;at least&#8212;China and Iran, and that the blunder caused a bunch of arrests, imprisonments, and executions. We&#8217;re <a href=\"https://www.reuters.com/investigates/special-report/usa-spies-iran/\">now learning</a> that the CIA is still &#8220;using an irresponsibly secured system for asset communication.&#8221;</p>\n<p>Citizen Lab did the <a href=\"https://citizenlab.ca/2022/09/statement-on-the-fatal-flaws-found-in-a-defunct-cia-covert-communications-system/\">research</a>:</p>\n<blockquote><p>Using only a single website, as well as publicly available material such as historical internet scanning results and the Internet Archive&#8217;s Wayback Machine, we identified a network of 885 websites and have high confidence that the United States (US) Central Intelligence Agency (CIA) used these sites for covert communication...</p></blockquote>",
@@ -414,16 +424,6 @@
           "wordCount": 1060,
           "title": "Montenegro is the Victim of a Cyberattack",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/09/clever-phishing-scam-uses-legitimate-paypal-messages.html",
-          "author": null,
-          "description": "<p>Brian Krebs is <a href=\"https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/\">reporting</a> on a clever PayPal phishing scam that uses legitimate PayPal messaging.</p>\n<p>Basically, the scammers use the PayPal invoicing system to send the email. The email lists a phone number to dispute the charge, which is not PayPal and quickly turns into a request to download and install a remote-access tool.</p>",
-          "link": "https://www.schneier.com/blog/archives/2022/09/clever-phishing-scam-uses-legitimate-paypal-messages.html",
-          "publishedOn": "2022-09-01T12:18:04.000Z",
-          "wordCount": 609,
-          "title": "Clever Phishing Scam Uses Legitimate PayPal Messages",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +432,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1886094",
+          "author": "Eric Berger",
+          "description": "Managers will assess the scope of work to perform while in the VAB.",
+          "link": "https://arstechnica.com/?p=1886094",
+          "publishedOn": "2022-09-30T22:06:57.000Z",
+          "wordCount": 1809,
+          "title": "Florida’s Space Coast on track after Ian, set for 3 launches in 3 days",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/52313776524_019c3c3357_k-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886112",
+          "author": "Kyle Orland",
+          "description": "Visual novel insider says \"school setting\" may have caused concern for Valve.",
+          "link": "https://arstechnica.com/?p=1886112",
+          "publishedOn": "2022-09-30T21:50:39.000Z",
+          "wordCount": 1742,
+          "title": "Nintendoes what Valve don’t: Game barred from Steam will launch on Switch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chaoshead1-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886060",
+          "author": "Sam Machkovech",
+          "description": "\"Summoning Salt\" left with little understanding on where auto-moderation line is drawn.",
+          "link": "https://arstechnica.com/?p=1886060",
+          "publishedOn": "2022-09-30T21:08:42.000Z",
+          "wordCount": 1727,
+          "title": "YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/mega-man-2-death-sprite-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885973",
+          "author": "Kevin Purdy",
+          "description": "One firmware push could let Stadia fans keep their favorite wireless controller.",
+          "link": "https://arstechnica.com/?p=1885973",
+          "publishedOn": "2022-09-30T20:22:11.000Z",
+          "wordCount": 1753,
+          "title": "Stadia controllers could become e-waste unless Google issues Bluetooth update",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/Stadia-9-of-9-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886065",
+          "author": "Dan Goodin",
+          "description": "Microsoft said it's working on an accelerated schedule to roll out a patch.",
+          "link": "https://arstechnica.com/?p=1886065",
+          "publishedOn": "2022-09-30T20:01:42.000Z",
+          "wordCount": 1683,
+          "title": "High-severity Microsoft Exchange 0-day under attack threatens 220,000 servers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/zeroday-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885831",
+          "author": "Scharon Harding",
+          "description": "USB-IF drops 12-year-old USB branding representing 5Gbps and faster speeds.",
+          "link": "https://arstechnica.com/?p=1885831",
+          "publishedOn": "2022-09-30T18:12:48.000Z",
+          "wordCount": 1886,
+          "title": "USB-IF says goodbye to confusing SuperSpeed USB branding",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-954976090-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885952",
+          "author": "Ashley Belanger",
+          "description": "Meta called content \"safe\" that UK judge found \"impossible to watch.\"",
+          "link": "https://arstechnica.com/?p=1885952",
+          "publishedOn": "2022-09-30T18:04:58.000Z",
+          "wordCount": 1861,
+          "title": "Coroner lists Instagram algorithm as contributing cause of UK teen’s death [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-537460890-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885899",
+          "author": "Andrew Cunningham",
+          "description": "AMD previewed new OpenGL drivers for consumer Radeon GPUs earlier this year.",
+          "link": "https://arstechnica.com/?p=1885899",
+          "publishedOn": "2022-09-30T17:56:29.000Z",
+          "wordCount": 1653,
+          "title": "Rewritten OpenGL drivers make AMD’s GPUs “up to 72%” faster in some pro apps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/795377-AMD-W6800-front-1920x600-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885954",
+          "author": "Jon Brodkin",
+          "description": "Execs \"weaponized eBay security department\" over news reports the CEO disliked.",
+          "link": "https://arstechnica.com/?p=1885954",
+          "publishedOn": "2022-09-30T17:46:27.000Z",
+          "wordCount": 1763,
+          "title": "Ex-eBay security execs imprisoned for stalking journalists who cover eBay",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-james-baugh-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1885554",
           "author": "Ron Amadeo",
@@ -9094,106 +9184,6 @@
           "wordCount": 4624,
           "title": "Upcoming RTS Men of War 2 delayed into 2023",
           "imageUrl": "https://assets.reedpopcdn.com/men-of-war-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/men-of-war-2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-will-join-xbox-game-pass-but-still-launch-on-playstation-same-day",
-          "author": "Tom Phillips",
-          "description": "Xbox boss Phil Spencer has issued a new blog post detailing plans for Call of Duty and other Activision Blizzard franchises, following today's announcement from the UK's Competition and Markets Authority that it will scrutinise the deal in detail.\r\n\n\r\nAs you would expect, Call of Duty, Overwatch and Diablo will be made available via Xbox Game Pass, Spencer said, if and when Microsoft's $68bn buyout of Activision Blizzard is completed.\r\n\n\r\nSpencer also made the guarantee that Xbox was \"committed to making the same version of Call of Duty available on PlayStation on the same day the game launches elsewhere\".  \r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-will-join-xbox-game-pass-but-still-launch-on-playstation-same-day",
-          "publishedOn": "2022-09-01T12:07:42.000Z",
-          "wordCount": 4925,
-          "title": "Call of Duty will join Xbox Game Pass, but still launch on PlayStation same day",
-          "imageUrl": "https://assets.reedpopcdn.com/phil_Qui2AiV.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/phil_Qui2AiV.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/uks-competition-regulator-to-undertake-in-depth-investigation-of-microsoft-activision-deal",
-          "author": "Ishraq Subhan",
-          "description": "The UK's Competition and Markets Authority has concluded its initial investigation of Microsoft's acquisition of Activision Blizzard, making the decision that the deal requires a more in-depth \"phase 2\" investigation. \r\n\n\r\nIn its report, the CMA has determined that the deal will be \"giving rise to a realistic prospect of a substantial lessening of competition in gaming consoles, multi-game subscription services, and cloud gaming services.\"\r\n\n\r\nCrucially, the CMA decided the deal would have a large impact on the success of rival platforms: \"Evidence consistently pointed towards ABK's content, especially Call of Duty, as being important and capable of making a material difference to the success of rivals' gaming platforms.\" \r\n \nRead more",
-          "link": "https://www.eurogamer.net/uks-competition-regulator-to-undertake-in-depth-investigation-of-microsoft-activision-deal",
-          "publishedOn": "2022-09-01T11:38:31.000Z",
-          "wordCount": 5110,
-          "title": "UK's competition regulator to undertake in-depth investigation of Microsoft-Activision deal",
-          "imageUrl": "https://assets.reedpopcdn.com/activision-blizzard-suspends-new-sales-of-and-in-it-games-in-russia-1646504335638.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-blizzard-suspends-new-sales-of-and-in-it-games-in-russia-1646504335638.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-tchia-gameplay-trailer-gives-us-a-tour-of-the-gorgeous-tropical-island",
-          "author": "Victoria Kennedy",
-          "description": "A new trailer for Tchia has been released, giving us a closer look at the game's tropical, New Caledonia-inspired setting. \r\n\n\r\nThis trailer is narrated by the game's director, Phil Crifo, and takes us from the island's high peaks to the bottom of its azure ocean. Along the way, we are shown various methods of getting around the island in action. This includes things such as Tchia catapulting herself from the tops of trees and then gliding her way through the sky.\r\n\n\r\nWe also get another look at the game's soul-jumping ability, which allows Tchia to quickly hop into the body of almost any animal or inanimate object she can find. This proves useful when she comes across the Maano, the game's \"strange fabric creatures\" that have invaded Tchia's home. In this case, she becomes a lantern, before later on becoming a coconut. You can see the trailer for yourself below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-tchia-gameplay-trailer-gives-us-a-tour-of-the-gorgeous-tropical-island",
-          "publishedOn": "2022-09-01T11:32:16.000Z",
-          "wordCount": 4552,
-          "title": "New Tchia gameplay trailer gives us a tour of the gorgeous tropical island",
-          "imageUrl": "https://assets.reedpopcdn.com/tchia_eCnK66x.png/BROK/thumbnail/1600x900/format/jpg/quality/80/tchia_eCnK66x.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-contains-some-naughty-stuff",
-          "author": "Ishraq Subhan",
-          "description": "As we reach closer to Call of Duty: Modern Warfare 2's October release date, national content rating boards have been reviewing the game for classification. \r\n\n\r\nThe Australian Classification Board has jumped the gun and published its classification early, and it makes for a humorous read.  \r\n\n\r\nThe ACB warns that the game depicts \"tracking and killing of numerous opponents, with resulting examples of blood and injury detail.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-contains-some-naughty-stuff",
-          "publishedOn": "2022-09-01T11:05:33.000Z",
-          "wordCount": 4658,
-          "title": "Call of Duty: Modern Warfare 2 contains some naughty stuff",
-          "imageUrl": "https://assets.reedpopcdn.com/Ghost-MW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Ghost-MW.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/steam-decks-most-played-game-in-august-was-vampire-survivors",
-          "author": "Liv Ngan",
-          "description": "Valve has announced the top 10 games played on Steam Deck in August, plus another milestone it has reached.\nThings are looking smooth for Steam Deck right now. Production is doing well, outperforming Valve's estimates, and people are finally getting their hands on a unit.\nTo round off August, Valve has revealed the 10 most played games on Steam Deck during the month.\n Read more",
-          "link": "https://www.eurogamer.net/steam-decks-most-played-game-in-august-was-vampire-survivors",
-          "publishedOn": "2022-09-01T10:56:31.000Z",
-          "wordCount": 4850,
-          "title": "Steam Deck's most played game in August was Vampire Survivors",
-          "imageUrl": "https://assets.reedpopcdn.com/steam_OojAiMY.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam_OojAiMY.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/looks-like-biomutant-will-be-making-a-switch-debut-this-october",
-          "author": "Victoria Kennedy",
-          "description": "A new listing implies that Biomutant will be getting a Switch release this October.\r\n\n\r\nThe listing, spotted by GoNintendo, can be found on Portuguese site Gaming Replay. It includes a price (54,99 €), Switch box cover art, and a release date - 25th October.\r\n\n\r\nWhile nothing has been officially announced by developer Experiment 101, a Switch edition of the game has long been rumoured to be coming eventually.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/looks-like-biomutant-will-be-making-a-switch-debut-this-october",
-          "publishedOn": "2022-09-01T10:38:42.000Z",
-          "wordCount": 4603,
-          "title": "Looks like Biomutant will be making a Switch debut this October",
-          "imageUrl": "https://assets.reedpopcdn.com/biomutant-switch.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/biomutant-switch.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/third-game-in-yoko-taros-voice-of-cards-series-out-this-month",
-          "author": "Ed Nightingale",
-          "description": "Voice of Cards: The Beasts of Burden has a release date: 13th September across Switch, PS4 and PC (Steam).\r\n\n\r\nIt's the third game in Square Enix's Voice of Cards series that presents a turn-based RPG entirely through cards.\r\n\n\r\nThe series is created by NieR's Yoko Taro, which is why there's DLC for the game based on mobile game NieR Re[in]carnation.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/third-game-in-yoko-taros-voice-of-cards-series-out-this-month",
-          "publishedOn": "2022-09-01T10:34:57.000Z",
-          "wordCount": 4521,
-          "title": "Third game in Yoko Taro's Voice of Cards series out this month",
-          "imageUrl": "https://assets.reedpopcdn.com/voice-of-cards-beasts-of-burden.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/voice-of-cards-beasts-of-burden.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-xbox-app-is-getting-a-major-upgrade-to-its-search",
-          "author": "Ishraq Subhan",
-          "description": "The Xbox mobile app for iOS and Android is getting a major upgrade to its search engine.\r\n\n\r\nThe update, which is available right now for beta users, improves the algorithm that powers game searches. \r\n\n\r\nSearch for games on the Xbox app has been notoriously bad up until this point, igniting the console wars between PlayStation and Xbox fans since the PlayStation is relatively good at finding what you want. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-xbox-app-is-getting-a-major-upgrade-to-its-search",
-          "publishedOn": "2022-09-01T10:32:01.000Z",
-          "wordCount": 4515,
-          "title": "The Xbox app is getting a major upgrade to its search",
-          "imageUrl": "https://assets.reedpopcdn.com/xbox-app-user-stories-7164badc38c815e3618a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-app-user-stories-7164badc38c815e3618a.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/assassins-creed-mirage-artwork-surfaces-online",
-          "author": "Tom Phillips",
-          "description": "Promotional artwork for the still-unannounced Assassin's Creed Mirage has popped up online, apparently from Ubisoft's own store. \r\n\n\r\nThe image, shared on Twitter by Assassin's Creed fansite The Codex Network, appears to be for some kind of bonus quest. It shows a hooded Assassin hero armed with the series' iconic hidden blade weapon, facing down the silhouette of an enemy with a curved sword. \r\n\n\r\nSetting a story mission around the famous fable of The Forty Thieves would mirror other such bonus quests offered by Ubisoft in the past, such as a Beowulf-themed story for Assassin's Creed Valhalla.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/assassins-creed-mirage-artwork-surfaces-online",
-          "publishedOn": "2022-09-01T10:16:07.000Z",
-          "wordCount": 4480,
-          "title": "Assassin's Creed Mirage artwork surfaces online",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered-Recovered.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered-Recovered.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bomb-rush-cyberfunk-delayed-to-2023",
-          "author": "Ed Nightingale",
-          "description": "Bomb Rush Cyberfunk, the indie spiritual successor to Jet Set Radio, has been delayed until summer 2023.\r\n\n\r\nIt was originally intended to release this year.\r\n\n\r\nDeveloper Team Reptile is taking extra time to increase the quality of the game.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bomb-rush-cyberfunk-delayed-to-2023",
-          "publishedOn": "2022-09-01T10:06:27.000Z",
-          "wordCount": 4549,
-          "title": "Bomb Rush Cyberfunk delayed to 2023",
-          "imageUrl": "https://assets.reedpopcdn.com/bomb-rush-cyberfunk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bomb-rush-cyberfunk.jpg"
         }
       ]
     },
