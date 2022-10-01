@@ -124,16 +124,6 @@
           "wordCount": 232,
           "title": "Artemis Quote",
           "imageUrl": "https://imgs.xkcd.com/comics/artemis_quote_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2667/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/first_internet_interaction.png\" title=\"To that stranger on the KOOL Tree House chat room, I gotta hand it to you: You were, ultimately, not wrong.\" alt=\"To that stranger on the KOOL Tree House chat room, I gotta hand it to you: You were, ultimately, not wrong.\" />",
-          "link": "https://xkcd.com/2667/",
-          "publishedOn": "2022-09-02T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "First Internet Interaction",
-          "imageUrl": "https://imgs.xkcd.com/comics/first_internet_interaction_2x.png"
         }
       ]
     },
@@ -432,6 +422,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1885902",
+          "author": "Knowable Magazine",
+          "description": "Modern hunter-gatherers offer insight into how our distant ancestors ate.",
+          "link": "https://arstechnica.com/?p=1885902",
+          "publishedOn": "2022-10-01T12:05:40.000Z",
+          "wordCount": 1777,
+          "title": "Our ancestors ate a Paleo diet. It had carbs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/hadza-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885880",
+          "author": "WIRED",
+          "description": "Illumina just announced a machine that can crack genomes twice as fast.",
+          "link": "https://arstechnica.com/?p=1885880",
+          "publishedOn": "2022-10-01T11:17:17.000Z",
+          "wordCount": 1712,
+          "title": "The era of fast, cheap genome sequencing is here",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/genome1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1886068",
           "author": "Benj Edwards",
@@ -4181,46 +4191,6 @@
           "wordCount": 1311,
           "title": "Breaking down how USB4 goes where no USB standard has gone before",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/usb4-explainer-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877863",
-          "author": "Dan Goodin",
-          "description": "Group that pulled off successful attack on PyPI has humble origins.",
-          "link": "https://arstechnica.com/?p=1877863",
-          "publishedOn": "2022-09-01T23:11:49.000Z",
-          "wordCount": 1542,
-          "title": "Actors behind PyPI supply chain attack have been active since late 2021",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877759",
-          "author": "Ashley Belanger",
-          "description": "Fog Reveal is \"almost invisible\" when attempting to search for it online.",
-          "link": "https://arstechnica.com/?p=1877759",
-          "publishedOn": "2022-09-01T22:56:33.000Z",
-          "wordCount": 1889,
-          "title": "Cops wanted to keep mass surveillance app secret; privacy advocates refused",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1282593515-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877265",
-          "author": "Scharon Harding",
-          "description": "Lenovo dangles a platform-agnostic carrot in front of AR hopefuls.",
-          "link": "https://arstechnica.com/?p=1877265",
-          "publishedOn": "2022-09-01T21:56:58.000Z",
-          "wordCount": 1675,
-          "title": "Lenovo announces consumer AR glasses that can tether to iPhones",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/listing-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877733",
-          "author": "Jon Brodkin",
-          "description": "Users won't get refunds for hidden fee, but deal in Conn. imposes other conditions.",
-          "link": "https://arstechnica.com/?p=1877733",
-          "publishedOn": "2022-09-01T20:03:36.000Z",
-          "wordCount": 1846,
-          "title": "State forces Frontier to stop charging $7 “Internet Infrastructure Surcharge”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/frontier-van-760x380.jpg"
         }
       ]
     },
@@ -4333,16 +4303,6 @@
           "publishedOn": "2022-09-07T00:00:00.000Z",
           "wordCount": 4119,
           "title": "Blog: Kubernetes’s IPTables Chains Are Not API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/",
-          "author": null,
-          "description": "Authors: Sidhartha Mani (Minio, Inc)\nThis article introduces the Container Object Storage Interface (COSI), a standard for provisioning and consuming object storage in Kubernetes. It is an alpha feature in Kubernetes v1.25.\nFile and block storage are treated as first class citizens in the Kubernetes ecosystem via Container Storage Interface (CSI). Workloads using CSI volumes enjoy the benefits of portability across vendors and across Kubernetes clusters without the need to change application manifests. An equivalent standard does not exist for Object storage.\nObject storage has been rising in popularity in recent years as an alternative form of storage to filesystems and block devices. Object storage paradigm promotes disaggregation of compute and storage. This is done by making data avail…",
-          "link": "https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/",
-          "publishedOn": "2022-09-02T00:00:00.000Z",
-          "wordCount": 3779,
-          "title": "Blog: Introducing COSI: Object Storage Management using Kubernetes APIs",
           "imageUrl": null
         }
       ]
@@ -9064,36 +9024,6 @@
           "wordCount": 4729,
           "title": "G2 Esports announces new all-female League of Legends team",
           "imageUrl": "https://assets.reedpopcdn.com/hel-g2-LoL.png/BROK/thumbnail/1600x900/format/jpg/quality/80/hel-g2-LoL.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/crusader-kings-3s-friends-foes-dlc-adding-over-100-new-relationship-themed-events-next-week",
-          "author": "Matt Wales",
-          "description": "Paradox Interactive's acclaimed Medieval grand strategy game Crusader Kings 3 is set to make its historical tapestry a little richer next Thursday, 8th September, with the arrival of the Friends and Foes Event Pack DLC, promising over a hundred new events.\r\n\n\r\nThese new player-driven stories, which can be encountered throughout ordinary play, all have relationships at their heart, but not necessarily the positive kind. One the one hand, players can \"uncover novel ways to become pals with those [they] hold dear or even achieve the coveted best friend status\", but on the other, Paradox says players should \"be prepared for ever more dangerous rivals, sharpening their vengeful knives to get back at you.\"\r\n\n\r\nStories are at the heart of Crusader Kings 3, so more narrative options are always welcome, but those uninterested in laying down cash for the Friends & Foes Event Pack will also have something to look forward to - a number of additional free features and changes will be arriving simultaneously as part of the new 1.7 Bastion Update.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/crusader-kings-3s-friends-foes-dlc-adding-over-100-new-relationship-themed-events-next-week",
-          "publishedOn": "2022-09-01T23:13:34.000Z",
-          "wordCount": 4643,
-          "title": "Crusader Kings 3's Friends & Foes DLC adding over 100 new relationship-themed events next week",
-          "imageUrl": "https://assets.reedpopcdn.com/crusader-kings-3s-next-update-will-let-you-torture-people-with-your-awful-poetry-1614716640197.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crusader-kings-3s-next-update-will-let-you-torture-people-with-your-awful-poetry-1614716640197.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonic-frontiers-three-minute-explainer-video-is-probably-how-sega-should-have-started",
-          "author": "Matt Wales",
-          "description": "It's fair to say that eyebrows were both raised and furrowed when Sega first shared footage of Sonic Frontiers back in June, but its latest trailer - a three-minute overview video breaking down the various features and gameplay flow of Sonic's latest adventure - offers the clearest explanation yet of how things will unfold come its launch on 8th November if you're still a little puzzled by the whole thing.\r\n\n\r\nGranted, Sega's plentiful, if scattershot, drip-feed of information over the last few months means none of the information in today's trailer is particularly new, but it's certainly more digestible - and understandable - than trying to mentally scoop together a picture of Sonic Frontiers from countless previews and reveals.\r\n\n\r\nThe gist, then, is that having somehow found his way into a strange dimension known as Cyber Space, Sonic escapes to Kronos - one of the Starfall Islands where players will be able to embark on Frontiers' non-linear \"open zone\" gameplay. Here, high-speed exploration and puzzling are the order of the day, with successful puzzling unlocking items that'll increase Sonic's power and defence and revealing new parts of each map.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonic-frontiers-three-minute-explainer-video-is-probably-how-sega-should-have-started",
-          "publishedOn": "2022-09-01T21:47:18.000Z",
-          "wordCount": 4628,
-          "title": "Sonic Frontiers' new three-minute explainer video is probably how Sega should have started",
-          "imageUrl": "https://assets.reedpopcdn.com/Sonic-Frontiers---Story-Trailer-0-17-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Sonic-Frontiers---Story-Trailer-0-17-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/looks-like-gremlins-gizmo-is-joining-multiversus-next-week",
-          "author": "Matt Wales",
-          "description": "Warner Bros. is teasing the imminent arrival of Gremlins' adorable mogwai Gizmo to its free-to-play crossover fighter MultiVersus, with the company's announcement pointing to a release next Tuesday, 6th September.\r\n\n\r\nAlthough Warner Bros. is yet to officially namecheck Gizmo, a teaser trailer released today on Twitter shows a pair of very Gizmo-like hands and eyes popping out of the distinctive box used to transport the character in Gremlins and Gremlins 2: The New Batch.\r\n\n\r\nWhat makes the Gizmo tease particularly interesting is that (despite his inclusion in the playable roster having been leaked earlier this year) the only Gremlins character so for officially confirmed for MultiVersus is Gizmo's arch-nemesis Stripe.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/looks-like-gremlins-gizmo-is-joining-multiversus-next-week",
-          "publishedOn": "2022-09-01T19:11:15.000Z",
-          "wordCount": 4553,
-          "title": "Looks like Gremlins' Gizmo is joining MultiVersus next week",
-          "imageUrl": "https://assets.reedpopcdn.com/multiversus-gizmo-tease.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/multiversus-gizmo-tease.jpg"
         }
       ]
     },
