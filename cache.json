@@ -4021,16 +4021,6 @@
           "wordCount": 2522,
           "title": "Years after shuttle, NASA rediscovers the perils of liquid hydrogen",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Artemis-I-LA1-Aug-2022-3042-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878008",
-          "author": "Jeff Dunn",
-          "description": "Dealmaster includes MacBook Pros, OLED TVs, AirPods Max, video games freebies, and more.",
-          "link": "https://arstechnica.com/?p=1878008",
-          "publishedOn": "2022-09-03T18:01:24.000Z",
-          "wordCount": 2483,
-          "title": "All the best Labor Day tech deals we can find this weekend",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/dealmaster090322-760x380.jpg"
         }
       ]
     },
@@ -4045,6 +4035,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/10/03/userns-alpha/",
+          "author": null,
+          "description": "Authors: Rodrigo Campos (Microsoft), Giuseppe Scrivano (Red Hat)\nKubernetes v1.25 introduces the support for user namespaces.\nThis is a major improvement for running secure workloads in\nKubernetes. Each pod will have access only to a limited subset of the\navailable UIDs and GIDs on the system, thus adding a new security\nlayer to protect from other pods running on the same system.\nHow does it work?\nA process running on Linux can use up to 4294967296 different UIDs and\nGIDs.\nUser namespaces is a Linux feature that allows mapping a set of users\nin the container to different users in the host, thus restricting what\nIDs a process can effectively use.\nFurthermore, the capabilities granted in a new user namespace do not\napply in the host initial namespaces.\nWhy is it important?\nThere are mainly t…",
+          "link": "https://kubernetes.io/blog/2022/10/03/userns-alpha/",
+          "publishedOn": "2022-10-03T00:00:00.000Z",
+          "wordCount": 3347,
+          "title": "Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/09/29/enforce-immutability-using-cel/",
           "author": null,
@@ -8764,56 +8764,6 @@
           "wordCount": 4706,
           "title": "These stunning Elden Ring art books are releasing in November - but only in Japan",
           "imageUrl": "https://assets.reedpopcdn.com/y_6310433b407d1.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/y_6310433b407d1.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-your-chance-to-wear-one-of-randy-pitchfords-shirts",
-          "author": "Vikki Blake",
-          "description": "Gearbox CEO Randy Pitchford is auctioning off his selection of \"loud shirts\" to support \"a developer scholarship\".\r\n\nA tweet posted by the official Gearbox account links to a week-long auction which currently features 47 lots. At the time of writing, all have active bids on them, although it's impossible how much for, as every one is a \"blind bid\".\r\n\n\"Gearbox fans may have noticed the loud shirts worn by our head honcho over the years,\" Gearbox tweeted. \"Now these shirts can be yours!\n Read more",
-          "link": "https://www.eurogamer.net/heres-your-chance-to-wear-one-of-randy-pitchfords-shirts",
-          "publishedOn": "2022-09-03T16:56:37.000Z",
-          "wordCount": 4620,
-          "title": "Here's your chance to wear one of Randy Pitchford's shirts",
-          "imageUrl": "https://assets.reedpopcdn.com/a-frustrating-hour-with-randy-pitchford-1437663148168.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/a-frustrating-hour-with-randy-pitchford-1437663148168.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/apex-legends-averaged-more-players-in-august-2022-than-ever-before",
-          "author": "Vikki Blake",
-          "description": "Apex Legends has set another record, setting a new minimum daily peak count of 329,041 players on Steam last month.\r\n\nAs that only reflects the number of players on Steam and doesn't account for the thousands of players hot-dropping on console, too, it's a significant milestone for Respawn's fan-favourite battle royale, and is further bolstered by the shooter's recently revised concurrent player peak, which was also broken earlier this month.\r\n\nAs evidenced on SteamDB and spotted by PCGN, in July, the minimum daily peak was 311,275, but in August jumped to 329,041 players. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/apex-legends-averaged-more-players-in-august-2022-than-ever-before",
-          "publishedOn": "2022-09-03T16:34:26.000Z",
-          "wordCount": 4745,
-          "title": "Apex Legends averaged more players in August 2022 than ever before",
-          "imageUrl": "https://assets.reedpopcdn.com/vantage-apex-legends_Q8H7PuL.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/vantage-apex-legends_Q8H7PuL.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/some-diablo-immortal-players-who-used-third-party-eternal-orbs-resellers-now-cant-play-the-game",
-          "author": "Vikki Blake",
-          "description": "Diablo Immortal players who purchased Eternal Orbs via third-party sellers with real money have had their purchases revoked, leaving them with in-game debts.\r\n\nAs one of the key currencies in the game, Eternal Orbs are crucial to progression, and are bought with real money. However, players who have forked out for Eternal Orbs via third-party sellers - no doubt in a bid to try and save a bit of money; in-game, they cost £0.89 GBP ($0.99 USD) for 60 all the way up to £89.99 GBP ($99.99 USD) for 7200 - have had their Orbs revoked.\r\n\nWhile there's little doubt that the Eternal Orbs were sold contrary to Blizzard's ToS and most players likely knew that going in, it's had a devastating impact on some players and led to significant deficits that will prevent them from fully participating in the game until the \"debt\" is cleared.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/some-diablo-immortal-players-who-used-third-party-eternal-orbs-resellers-now-cant-play-the-game",
-          "publishedOn": "2022-09-03T15:51:14.000Z",
-          "wordCount": 4730,
-          "title": "Some Diablo Immortal players who used third-party Eternal Orbs resellers now can't play the game",
-          "imageUrl": "https://assets.reedpopcdn.com/diabloimmortal_JIsfENZ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diabloimmortal_JIsfENZ.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/striking-distance-studios-ceo-posts-then-deletes-a-tweet-thought-by-some-to-promote-crunch-culture",
-          "author": "Vikki Blake",
-          "description": "Striking Distance Studios' founder Glen Schofield has deleted a tweet deemed by some to have promoted \"crunch\" culture in games development.\r\n\nIn a tweet posted earlier today, Schofield - whose team is currently working on the upcoming sci-fi horror, The Callisto Protocol - talked about working 12-15 hours a day, six-seven days a week, and working over lunch and dinner, justifying it by saying \"you do it because you love it\".\r\n\n\"I only talk about the game during an event,\" Schofield said in the since deleted tweet. \"We [are] working six-seven days a week, nobody's forcing us.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/striking-distance-studios-ceo-posts-then-deletes-a-tweet-thought-by-some-to-promote-crunch-culture",
-          "publishedOn": "2022-09-03T15:26:44.000Z",
-          "wordCount": 4815,
-          "title": "Striking Distance Studios' CEO posts, then deletes, a tweet thought by some to promote crunch culture",
-          "imageUrl": "https://assets.reedpopcdn.com/callisto-protocol.png/BROK/thumbnail/1600x900/format/jpg/quality/80/callisto-protocol.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/supermassives-next-game-will-be-another-horror-equivalent-in-size-to-the-quarry",
-          "author": "Vikki Blake",
-          "description": "The Quarry developer Supermassive has confirmed it's already commenced work on its next game and yes, it's going to be the \"same sort of horror\" as its predecessors.\r\n\nIn an interview with our friends at VGC, studio director Will Byles said that while he wasn't sure \"how far [the team] could stretch the teen horror thing out further\", another horror is on the way in either 2025 or 2026, and it will be the equivalent size of The Quarry rather than follow the episodic format of its anthology series, Dark Pictures.\r\n\n“We’ve started working on [the next game],” studio director Will Byles told VGC. \"I can’t really tell you very much at all about it, but we have started. Again, it’s the same sort of horror genre, we’re sticking to that. It’s equivalent in size to The Quarry… and that’s about as much as I can say without giving too much away.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/supermassives-next-game-will-be-another-horror-equivalent-in-size-to-the-quarry",
-          "publishedOn": "2022-09-03T13:05:23.000Z",
-          "wordCount": 4872,
-          "title": "Supermassive's next game will be another horror \"equivalent in size\" to The Quarry",
-          "imageUrl": "https://assets.reedpopcdn.com/QUARRY-SITE.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/QUARRY-SITE.jpg"
         }
       ]
     },
