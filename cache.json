@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/10/detecting-deepfake-audio-by-modeling-the-human-acoustic-tract.html",
+          "author": null,
+          "description": "<p>This is <a href=\"https://www.usenix.org/conference/usenixsecurity22/presentation/blue\">interesting research</a>:</p>\n<blockquote><p>In this paper, we develop a new mechanism for detecting audio deepfakes using techniques from the field of articulatory phonetics. Specifically, we apply fluid dynamics to estimate the arrangement of the human vocal tract during speech generation and show that deepfakes often model impossible or highly-unlikely anatomical arrangements. When parameterized to achieve 99.9% precision, our detection mechanism achieves a recall of 99.5%, correctly identifying all but one deepfake sample in our dataset.</p></blockquote>\n<p>From an <a href=\"https://theconversation.com/deepfake-audio-has-a-tell-researchers-use-fluid-dynamics-to-spot-artificial-imposter-voices-189104\">article...</a></p>",
+          "link": "https://www.schneier.com/blog/archives/2022/10/detecting-deepfake-audio-by-modeling-the-human-acoustic-tract.html",
+          "publishedOn": "2022-10-03T11:25:45.000Z",
+          "wordCount": 897,
+          "title": "Detecting Deepfake Audio by Modeling the Human Acoustic Tract",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/09/friday-squid-blogging-breeding-the-oval-squid.html",
           "author": null,
           "description": "<p>Japanese scientists are trying to <a href=\"https://www3.nhk.or.jp/nhkworld/en/news/20220913_09/\">breed</a> the oval squid in captivity.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -4011,16 +4021,6 @@
           "wordCount": 1413,
           "title": "Examining the game industry’s hidden impacts on climate change",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/crt-ocean-games-climate-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878188",
-          "author": "Eric Berger",
-          "description": "\"Every time we saw a leak, it pretty quickly exceeded our flammability limits.\"",
-          "link": "https://arstechnica.com/?p=1878188",
-          "publishedOn": "2022-09-03T22:38:27.000Z",
-          "wordCount": 2522,
-          "title": "Years after shuttle, NASA rediscovers the perils of liquid hydrogen",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Artemis-I-LA1-Aug-2022-3042-760x380.jpg"
         }
       ]
     },
@@ -4205,6 +4205,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sony-aims-to-make-2m-playstation-vr2-units-by-march",
+          "author": "Liv Ngan",
+          "description": "Sony is reportedly planning to make 2m units of its upcoming PlayStation VR2 headset by March.\r\n\nThat's according to Bloomberg, which has reported that mass production of the headset began last month.\r\n\nThese high production figures show Sony has an \"ambitious\" roadmap ahead of the VR2's release, it was said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-aims-to-make-2m-playstation-vr2-units-by-march",
+          "publishedOn": "2022-10-03T12:09:13.000Z",
+          "wordCount": 4539,
+          "title": "Sony aims to make 2m PlayStation VR2 units by March",
+          "imageUrl": "https://assets.reedpopcdn.com/psvr2_GuHwWPJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/psvr2_GuHwWPJ.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-5-has-been-jailbroken-modder-claims",
+          "author": "Tom Phillips",
+          "description": "High-profile mod maker Lance McDonald has released footage of what looks to be a working PlayStation 5 exploit that leaves the console \"jailbroken\". \r\n\n\r\nMcDonald's video appears to show custom code being read by a PS5 through an exploit in its online User Guide. Once run, the console is able to access debug settings and then install the infamous PT demo - which is, of course, no longer available under normal circumstances.\r\n\n\r\nSo, how bad is this for Sony? Well, for now, the use of this exploit is limited. Reportedly this method is still \"fairly unstable\" and offers \"read/write access, but no execute\" - so you could download the PT demo, for example, but not yet play it.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-has-been-jailbroken-modder-claims",
+          "publishedOn": "2022-10-03T12:02:57.000Z",
+          "wordCount": 4478,
+          "title": "PlayStation 5 has been jailbroken, modder claims",
+          "imageUrl": "https://assets.reedpopcdn.com/playstation_Rjwagv7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_Rjwagv7.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/destiny-2-and-hitman-developers-respond-to-google-stadia-shutdown",
+          "author": "Victoria Kennedy",
+          "description": "Last week, Google announced it will shut down its cloud gaming service Stadia in January. While Google confirmed it will refund all Stadia hardware purchases made through the Google Store, as well as all game and add-on content purchases made through the Stadia store, users have been left concerned about their in-game data. \r\n\n\r\nThankfully, developers are trying to ensure these players are not going to see their efforts wasted when Stadia ultimately closes its doors.\r\n\n\r\nSharing an update on Twitter, Hitman developer IO Interactive announced it was currently \"looking into ways\" for its Google Stadia fans to \"continue [their] Hitman experience on other platforms\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/destiny-2-and-hitman-developers-respond-to-google-stadia-shutdown",
+          "publishedOn": "2022-10-03T11:59:49.000Z",
+          "wordCount": 4780,
+          "title": "Destiny 2 and Hitman developers respond to Google Stadia shutdown",
+          "imageUrl": "https://assets.reedpopcdn.com/agent-47_gT8Labl.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/agent-47_gT8Labl.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/beyond-good-evil-2-overtakes-guinness-record-holder-duke-nukem-forever-as-game-longest-in-development",
+          "author": "Tom Phillips",
+          "description": "The long-awaited sequel to Beyond Good & Evil has overtaken Duke Nukem Forever as the game with the longest-ever development period. \r\n\n\r\nDuke Nukem Forever, which finally released in 2011, previously held the Guinness World Record for the longest development period for a video game project, at just over 14 years. \r\n\n\r\nBut Beyond Good & Evil 2 has now beaten that, as noted on Twitter by GamesIndustry.biz's Brendan Sinclair. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/beyond-good-evil-2-overtakes-guinness-record-holder-duke-nukem-forever-as-game-longest-in-development",
+          "publishedOn": "2022-10-03T11:19:57.000Z",
+          "wordCount": 4728,
+          "title": "Beyond Good & Evil 2 overtakes Guinness record holder Duke Nukem Forever as game longest in development",
+          "imageUrl": "https://assets.reedpopcdn.com/shot4_bge2.jpg.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/shot4_bge2.jpg.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/crystal-dynamics-wants-your-thoughts-on-legacy-of-kain",
+          "author": "Victoria Kennedy",
+          "description": "For those of you keen to hear more about the future of the Legacy of Kain series, this will be right up your street.\r\n\n\r\nDeveloper Crystal Dynamics has released a survey asking its fans what they would most like to see if the series was to make a come back. \r\n\n\r\nThis survey (which you can complete yourself by following this link) asks about preferred platforms, whether users would like to see a reboot, remake or sequel to the Legacy of Kain series, and what it is about vampire games that captures your attention, among other things.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/crystal-dynamics-wants-your-thoughts-on-legacy-of-kain",
+          "publishedOn": "2022-10-03T11:11:18.000Z",
+          "wordCount": 4829,
+          "title": "Crystal Dynamics wants your thoughts on Legacy of Kain",
+          "imageUrl": "https://assets.reedpopcdn.com/leg-of-kain.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/leg-of-kain.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-stars-rumoured-to-have-exclusive-invitation-only-tier",
+          "author": "Liv Ngan",
+          "description": "An exclusive membership tier for PlayStation Stars, Sony's new console customer loyalty programme, has been glimpsed.\r\n\nThe service has already launched in Asia and is set to be rolled out in Europe on 13th October. \r\n\nDataminers have found references both in the PlayStation mobile app and the PlayStation website to a fifth membership level called Diamond.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-stars-rumoured-to-have-exclusive-invitation-only-tier",
+          "publishedOn": "2022-10-03T10:43:47.000Z",
+          "wordCount": 4507,
+          "title": "PlayStation Stars rumoured to have exclusive invitation-only tier",
+          "imageUrl": "https://assets.reedpopcdn.com/ps-stars-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps-stars-release.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-horizon-forbidden-west-content-teased-by-actor-lance-reddick",
+          "author": "Victoria Kennedy",
+          "description": "Lance Reddick, the man behind Horizon's Sylens, has teased upcoming content for Forbidden West.\r\n\n\r\nIn a now-deleted tweet, the actor shared a short video of himself \"hard at work\" doing \"face capture\". \r\n\n\r\nReddick captioned this tweet: \"... in a session for [Horizon Forbidden West]\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-horizon-forbidden-west-content-teased-by-actor-lance-reddick",
+          "publishedOn": "2022-10-03T10:21:49.000Z",
+          "wordCount": 4674,
+          "title": "New Horizon Forbidden West content teased by actor Lance Reddick",
+          "imageUrl": "https://assets.reedpopcdn.com/sylens.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sylens.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-boss-flew-to-brussels-to-appeal-microsoft-call-of-duty-deal-in-person",
+          "author": "Tom Phillips",
+          "description": "Boss of PlayStation Jim Ryan travelled to Brussels to meet EU regulators in person to discuss Microsoft's impending Activision Blizzard purchase.\r\n\n\r\nRyan has been vocal in his criticism of the proposed $68bn deal, which would see Xbox own the Call of Duty publisher.\r\n\nDealreporter (via VGC) reports that Ryan flew to Europe on 8th September to meet regulators and express his concerns face-to-face.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-boss-flew-to-brussels-to-appeal-microsoft-call-of-duty-deal-in-person",
+          "publishedOn": "2022-10-03T10:16:42.000Z",
+          "wordCount": 4638,
+          "title": "PlayStation boss reportedly flew to Brussels to appeal Microsoft Call of Duty deal in person",
+          "imageUrl": "https://assets.reedpopcdn.com/jimryan_8wEwFvv.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jimryan_8wEwFvv.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works",
+          "author": "Victoria Kennedy",
+          "description": "New reports claim a remaster of Guerrilla's Horizon Zero Dawn is currently in the works for the PS5. \r\n\n\r\nOriginally revealed by MP1st, this remaster will allegedly bring Zero Dawn closer in terms of visuals to its successor, Forbidden West. \r\n\n\r\nWhile, at the time of writing, it is unclear whether this is a \"from the ground up\" remake of the 2017 title, it is claimed that this version of Zero Dawn will see new character models, improvements to the game's lighting system and animations, and \"overhauled textures\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works",
+          "publishedOn": "2022-10-03T08:22:48.000Z",
+          "wordCount": 4727,
+          "title": "Horizon Zero Dawn PlayStation 5 remaster reportedly in the works",
+          "imageUrl": "https://assets.reedpopcdn.com/hzd.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hzd.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/new-world-players-have-clocked-up-5691-million-in-game-hours-over-the-last-year",
           "author": "Vikki Blake",
