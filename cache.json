@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2680/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/battery_life.png\" title=\"It's okay, I'm at 10%, so I'm good for another month or two.\" alt=\"It's okay, I'm at 10%, so I'm good for another month or two.\" />",
+          "link": "https://xkcd.com/2680/",
+          "publishedOn": "2022-10-03T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Battery Life",
+          "imageUrl": "https://imgs.xkcd.com/comics/battery_life_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2679/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/quantified_self.png\" title=\"It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.\" alt=\"It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.\" />",
@@ -4165,6 +4175,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/10/04/introducing-kueue/",
+          "author": null,
+          "description": "Authors: Abdullah Gharaibeh (Google), Aldo Culquicondor (Google)\nWhether on-premises or in the cloud, clusters face real constraints for resource usage, quota, and cost management reasons. Regardless of the autoscalling capabilities, clusters have finite capacity. As a result, users want an easy way to fairly and\nefficiently share resources.\nIn this article, we introduce Kueue,\nan open source job queueing controller designed to manage batch jobs as a single unit.\nKueue leaves pod-level orchestration to existing stable components of Kubernetes.\nKueue natively supports the Kubernetes Job\nAPI and offers hooks for integrating other custom-built APIs for batch jobs.\nWhy Kueue?\nJob queueing is a key feature to run batch workloads at scale in both on-premises and cloud environments. The main goal…",
+          "link": "https://kubernetes.io/blog/2022/10/04/introducing-kueue/",
+          "publishedOn": "2022-10-04T00:00:00.000Z",
+          "wordCount": 4479,
+          "title": "Blog: Introducing Kueue",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/10/03/userns-alpha/",
           "author": null,
@@ -8984,56 +9004,6 @@
           "wordCount": 4512,
           "title": "Elden Ring manga turns the game into a farce",
           "imageUrl": "https://assets.reedpopcdn.com/elden-ring-manga-cover.png/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-manga-cover.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/konami-renews-its-suikoden-trademark",
-          "author": "Vikki Blake",
-          "description": "Konami's much-talked about \"unannounced game\" could be a new Suikoden title.\r\n\nA renewed trademark for the game – filed back in July, but only recently spotted – has popped up in Mexico, leading some to speculate that if Konami's upcoming TGS spot doesn't involve Castlevania, Metal Geat Solid, or Silent Hill, then it just may be about a new installment of the classic RPG series.\r\n\nThe filing – spotted by posters on Reddit and shared at ResetEra – tells us that the filing was made at the end of July and… well, not much else, actually. But it's certainly coincidental timing, isn't it, particularly as the last main Suikoden title released way back in 2006.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/konami-renews-its-suikoden-trademark",
-          "publishedOn": "2022-09-04T17:12:09.000Z",
-          "wordCount": 4601,
-          "title": "Konami renews its Suikoden trademark",
-          "imageUrl": "https://assets.reedpopcdn.com/the-revival-of-suikoden-2-142391050065.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-revival-of-suikoden-2-142391050065.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-infinite-players-find-a-way-to-add-split-screen-co-op",
-          "author": "Vikki Blake",
-          "description": "Earlier this week, 343 Industries confirmed that split-screen local co-op in Halo Infinite has been cancelled outright - so players are now doing it themselves. \r\n\n\"In order to improve and accelerate ongoing live service development - and to better address player feedback and quality of life updates - we have reallocated studio resources and are no longer working on local campaign split-screen co-op,\" 343 said at the time, dashing the hopes of players who'd been patiently waiting to couch co-op the campaign with pals.\r\n\nNow, however, it seems that players have found a menu glitch that permits them to add up to three additional local co-op players to their system; all you need is an Xbox Series S or X and a pal online, and this helpful walkthrough. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/halo-infinite-players-find-a-way-to-add-split-screen-co-op",
-          "publishedOn": "2022-09-04T16:43:07.000Z",
-          "wordCount": 4742,
-          "title": "Halo Infinite players find a way to add split-screen co-op",
-          "imageUrl": "https://assets.reedpopcdn.com/halo_infinite_campaign_co_op_3-(1).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/halo_infinite_campaign_co_op_3-(1).jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/wizards-of-the-coast-apologises-for-offensive-racial-stereotypes-in-dungeons-dragons",
-          "author": "Vikki Blake",
-          "description": "Wizards of the Coast has apologised for a Dungeons & Dragons update that included \"offensive material\" and racial stereotypes about a race called Hadozee. \r\n\nThe company said it had \"failed you, our players and our fans\", would remove the offensive material \"effective immediately\", and stated that it was \"truly sorry\".\r\n\n\"We wanted to acknowledge and own the inclusion of offensive material within our recent Spelljammer: Adventures in Space content. We failed you, our players and our fans, and we are truly sorry,\" the company said in a statement.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/wizards-of-the-coast-apologises-for-offensive-racial-stereotypes-in-dungeons-dragons",
-          "publishedOn": "2022-09-04T15:30:04.000Z",
-          "wordCount": 4712,
-          "title": "Wizards of the Coast apologises for \"offensive\" \"racial stereotypes\" in Dungeons & Dragons",
-          "imageUrl": "https://assets.reedpopcdn.com/Meta-ShareImage.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/Meta-ShareImage.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/acclaimed-league-of-legends-animated-show-arcane-wins-an-emmy-for-outstanding-animated-program",
-          "author": "Vikki Blake",
-          "description": "Fan-favourite League of Legends animated spin-off Arcane has won an Emmy for Outstanding Animated Program.\r\n\nThe show beat The Simpsons, Rick and Morty, What If…?, and Bob's Burgers to secure the award. It is the first streaming series to win in that category.\r\n\n\"Honoured doesn’t even begin to describe how we feel about winning the Emmy for Outstanding Animated Program,\" the show's official Twitter account posted earlier today.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/acclaimed-league-of-legends-animated-show-arcane-wins-an-emmy-for-outstanding-animated-program",
-          "publishedOn": "2022-09-04T15:07:37.000Z",
-          "wordCount": 4707,
-          "title": "Acclaimed League of Legends animated show Arcane wins an Emmy for Outstanding Animated Program",
-          "imageUrl": "https://assets.reedpopcdn.com/riot-games-invests-heavily-in-animator-of-brilliant-league-of-legends-show-arcane-1647258082967.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/riot-games-invests-heavily-in-animator-of-brilliant-league-of-legends-show-arcane-1647258082967.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-mortuary-assistant-is-getting-a-companion-piece-movie-adaptation",
-          "author": "Vikki Blake",
-          "description": "The Mortuary Assistant is the latest video game to be getting the silver screen treatment. \r\n\nThe indie horror - which has been a huge hit since it launched at the beginning of August - was reportedly plucked for an adaptation before the full game released earlier this month. \r\n\nDirector Jeremiah Kipp says the film will be a \"companion piece\" to the game, and Kipp hopes to \"retain the minimalist setting in and around the mortuary, the fascination with the process of embalming, and the nerve-shredding terror of the gameplay\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-mortuary-assistant-is-getting-a-companion-piece-movie-adaptation",
-          "publishedOn": "2022-09-04T13:36:36.000Z",
-          "wordCount": 4678,
-          "title": "The Mortuary Assistant is getting a \"companion piece\" movie adaptation",
-          "imageUrl": "https://assets.reedpopcdn.com/mortuary_assistant.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mortuary_assistant.jpg"
         }
       ]
     },
