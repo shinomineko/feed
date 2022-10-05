@@ -423,6 +423,46 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1886630",
+          "author": "Jennifer Ouellette",
+          "description": "Alain Aspect, John Clauser, and Anton Zeilinger pioneered quantum information science.",
+          "link": "https://arstechnica.com/?p=1886630",
+          "publishedOn": "2022-10-04T22:36:59.000Z",
+          "wordCount": 1910,
+          "title": "2022 Nobel Physics Prize goes to seminal tests of spooky action at a distance",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/nobel-winners-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886485",
+          "author": "Benj Edwards",
+          "description": "Sega's famously boxy 1993 arcade game gets a fan-powered Stable Diffusion refresh.",
+          "link": "https://arstechnica.com/?p=1886485",
+          "publishedOn": "2022-10-04T20:48:44.000Z",
+          "wordCount": 1584,
+          "title": "Begone, polygons: 1993’s Virtua Fighter gets smoothed out by AI",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/virtua_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886817",
+          "author": "Jon Brodkin",
+          "description": "ISPs apparently blocking VLC website due to gov't order, but it's not clear why.",
+          "link": "https://arstechnica.com/?p=1886817",
+          "publishedOn": "2022-10-04T19:44:54.000Z",
+          "wordCount": 1762,
+          "title": "VideoLAN threatens to sue India gov’t as ISPs keep blocking VLC website",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/getty-vlc-media-player-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886829",
+          "author": "Ashley Belanger",
+          "description": "Experts say policymakers mostly ignore Google's transparency reports.",
+          "link": "https://arstechnica.com/?p=1886829",
+          "publishedOn": "2022-10-04T19:36:46.000Z",
+          "wordCount": 1712,
+          "title": "Rights holders got Google to remove 6 billion links from Search over 10 years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1201034887-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1886758",
           "author": "Jonathan M. Gitlin",
           "description": "All the goodies from the sedan plus more headroom and an optional third row.",
@@ -4231,36 +4271,6 @@
           "wordCount": 1909,
           "title": "European space chief “cannot see” a return to cooperation with Russia",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/NHQ202108250002_medium-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878074",
-          "author": "Undark Magazine",
-          "description": "Blending Māori knowledge into federally funded crayfish research makes for better science.",
-          "link": "https://arstechnica.com/?p=1878074",
-          "publishedOn": "2022-09-05T12:00:15.000Z",
-          "wordCount": 1746,
-          "title": "In New Zealand, conservation is buoyed by Indigenous knowledge",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-169271255-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1875954",
-          "author": "Andrew Cunningham",
-          "description": "The best ThinkPad qualities are sadly diluted, but performance is excellent.",
-          "link": "https://arstechnica.com/?p=1875954",
-          "publishedOn": "2022-09-05T11:45:43.000Z",
-          "wordCount": 1863,
-          "title": "Review: Lenovo’s ThinkPad Z13 is a bit weird, but Ryzen 6000 is fantastic",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_0394-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878052",
-          "author": "The Conversation",
-          "description": "A study on the consequences of becoming a monk related to evolutionary fitness.",
-          "link": "https://arstechnica.com/?p=1878052",
-          "publishedOn": "2022-09-05T11:30:05.000Z",
-          "wordCount": 1991,
-          "title": "Celibacy has surprising evolutionary advantages, according to new research",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/24036583308_8b20f23117_o-760x380.jpg"
         }
       ]
     },
@@ -4275,6 +4285,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/",
+          "author": null,
+          "description": "Authors (in alphabetical order): Cailyn Edwards (Shopify), Pushkar Joglekar (VMware), Rey Lejano (SUSE) and Rory McCune (DataDog)\nWe expect the brand new Third Party Security Audit of Kubernetes will be\npublished later this month (Oct 2022).\nIn preparation for that, let's look at the state of findings that were made\npublic as part of the last third party security audit of\n2019\nthat was based on Kubernetes v1.13.4.\nMotivation\nCraig Ingram has graciously attempted over the years to keep track of the\nstatus of the findings reported in the last audit in this issue:\nkubernetes/kubernetes#81146.\nThis blog post will attempt to dive deeper into this, address any gaps\nin tracking and become a point in time summary of the state of the\nfindings reported from 2019.\nThis article should also help reader…",
+          "link": "https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/",
+          "publishedOn": "2022-10-05T00:00:00.000Z",
+          "wordCount": 3934,
+          "title": "Blog: Current State: 2019 Third Party Security Audit of Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/10/04/introducing-kueue/",
           "author": null,
@@ -4455,6 +4475,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/blizzard-says-overwatch-2-servers-experiencing-mass-ddos-attack",
+          "author": "Matt Wales",
+          "description": "Blizzard says Overwatch 2's servers are experiencing a \"mass DDoS attack\", preventing players from accessing the newly launched game.\r\n\n\r\nPlayers have reported unexpected server errors and difficulties joining Overwatch 2 games throughout the evening following today's free-to-play launch, with some claiming to be experiencing queues of as many as 40,000 other players.\r\n\n\r\nAn earlier tweet by Blizzard boss Mike Ybarra acknowledged today's server woes but gave no indication they might be the result of anything other that launch day teething troubles, only thanking players for their patience and pledging to \"get [them] into the fun\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/blizzard-says-overwatch-2-servers-experiencing-mass-ddos-attack",
+          "publishedOn": "2022-10-04T22:03:07.000Z",
+          "wordCount": 4565,
+          "title": "Blizzard says Overwatch 2 servers experiencing \"mass DDoS attack\"",
+          "imageUrl": "https://assets.reedpopcdn.com/Overwatch-2-beta-release-date-and-time%2C-and-how-to-sign-up-for-Overwatch-2-beta.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Overwatch-2-beta-release-date-and-time%2C-and-how-to-sign-up-for-Overwatch-2-beta.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/tequila-works-confirms-stadia-exclusive-gylt-is-going-multiplatorm-next-year",
+          "author": "Matt Wales",
+          "description": "Tequila Works, the developer behind the likes of the sublime Rime and intriguing VR murder-mystery The Invisible Hours, has confirmed its formerly Stadia-exclusive action-adventure Gylt will be going multiplatform next year.\r\n\n\r\nGylt, an enjoyably surreal horror yarn that follows the adventures of a young girl in search of her missing cousin, launched exclusively on Stadia back in 2019. And while Tequila Works did at one point suggest a multiplatform release might eventually be on the cards, it's remained resolutely Stadia-bound in the years since.\r\n\n\r\nHowever, following last week's announcement that Google will be shutting down Stadia on 18th January next year - a move that prompted questions as to what might happen to the cloud gaming service's handful of remaining exclusives - Tequila Works has confirmed Gylt will finally be getting a multiplatform release some time in 2023.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/tequila-works-confirms-stadia-exclusive-gylt-is-going-multiplatorm-next-year",
+          "publishedOn": "2022-10-04T20:22:38.000Z",
+          "wordCount": 4596,
+          "title": "Tequila Works confirms Stadia-exclusive Gylt is going multiplatform next year",
+          "imageUrl": "https://assets.reedpopcdn.com/gylt-review-stadia-exclusive-is-genuinely-unsettling-lite-horror-1575539834879.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gylt-review-stadia-exclusive-is-genuinely-unsettling-lite-horror-1575539834879.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/cd-projekt-co-founder-marcin-iwinski-steps-down-from-joint-ceo-role",
+          "author": "Matt Wales",
+          "description": "CD Projekt co-founder Marcin Iwiński has announced he'll be stepping down from his joint-CEO role - a position he's held at the company for nearly 30 years - before the end of 2022.\r\n\n\r\n\"I am beginning a brand-new personal chapter at CD Projekt,\" Iwiński wrote in a statement shared following the company's latest investor meeting, \"as I will submit my candidacy for the role of Chairman of the Supervisory Board, leaving behind my joint-CEO role. By the end of 2022, I'll hand over my duties to my colleagues from the board.\"\r\n\n\r\n\"For me this is a huge moment,\" Iwiński continued. \"I've been at CD Projekt for almost 30 years and I have seen it go from a handful of passion-driven rebels to an internationally recognised developer of story-driven role-playing games loved by millions globally. Back when Michał Kiciński and I founded the company, I don't think either of us would have been able to imagine this incredible journey, not even in our wildest dreams.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cd-projekt-co-founder-marcin-iwinski-steps-down-from-joint-ceo-role",
+          "publishedOn": "2022-10-04T18:53:23.000Z",
+          "wordCount": 4709,
+          "title": "CD Projekt co-founder Marcin Iwiński steps down from joint-CEO role",
+          "imageUrl": "https://assets.reedpopcdn.com/cd-projekt-co-founder.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cd-projekt-co-founder.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sony-says-its-playstation-games-wont-release-on-pc-for-at-least-a-year",
           "author": "Matt Wales",
@@ -9174,96 +9224,6 @@
           "wordCount": 4649,
           "title": "Elden Ring mod adds Lord of the Rings' Sauron to the fight",
           "imageUrl": "https://assets.reedpopcdn.com/sauron-lotr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sauron-lotr.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/perfect-dark-not-in-trouble-microsoft-says-despite-crystal-dynamics-involvement",
-          "author": "Ed Nightingale",
-          "description": "Matt Booty, Head of Microsoft Studios, has assured fans that The Initiative's Perfect Dark game is in good shape despite working with Crystal Dynamics.\r\n\n\r\nSpeaking at PAX West last week, Booty discussed the increased prevalence of multiple developers working together on new games.\r\n\n\r\n\"How we make games is evolving,\" said Booty. \"The idea of a single team under one roof really doesn't happen that often anymore.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/perfect-dark-not-in-trouble-microsoft-says-despite-crystal-dynamics-involvement",
-          "publishedOn": "2022-09-05T12:02:29.000Z",
-          "wordCount": 4550,
-          "title": "Perfect Dark not in trouble, Microsoft says, despite Crystal Dynamics' involvement",
-          "imageUrl": "https://assets.reedpopcdn.com/Perfect-Dark---Official-Announce-Trailer---The-Game-Awards-2020-1-50-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Perfect-Dark---Official-Announce-Trailer---The-Game-Awards-2020-1-50-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/watch-crash-bandicoot-get-his-groove-on-in-this-fan-made-mini-game-remake",
-          "author": "Liv Ngan",
-          "description": "An upcoming Crash Bandicoot fan game will bring the dancefloor to Wumpa Island in a remake of one of the series' lesser-known mini-games.\nCrash'N'Dance is being developed by indie dev Fierce the Bandit, who posted a short video of their current progress.\r\n\nThe fan-made project is a rhythm game where players must hit button prompts in time to the music. Fake Crash will pop up on the screen sporadically in an attempt to distract you, but if you're successful, Crash will perform his signature boogie and get a shiny crystal. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/watch-crash-bandicoot-get-his-groove-on-in-this-fan-made-mini-game-remake",
-          "publishedOn": "2022-09-05T11:41:19.000Z",
-          "wordCount": 4655,
-          "title": "Watch Crash Bandicoot get his groove on in this fan-made mini-game remake",
-          "imageUrl": "https://assets.reedpopcdn.com/JP_CNK.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/JP_CNK.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bioshock-infinite-steam-update-adds-new-launcher-to-upset-of-its-community",
-          "author": "Victoria Kennedy",
-          "description": "A recent \"Quality of Life\" update for Bioshock Infinite on Steam has added a new launcher, which includes a \"Store to purchase new content\".\nThis update went live over the weekend, and also added an in-game account linking option.\nHowever, despite being labelled as a \"quality of life\" update, this move by publisher 2K has left some fans unhappy, with several stating the game is now broken.\n Read more",
-          "link": "https://www.eurogamer.net/bioshock-infinite-steam-update-adds-new-launcher-to-upset-of-its-community",
-          "publishedOn": "2022-09-05T11:24:45.000Z",
-          "wordCount": 4543,
-          "title": "Bioshock Infinite Steam update adds new launcher, to upset of its community",
-          "imageUrl": "https://assets.reedpopcdn.com/bio-i.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bio-i.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-division-heartland-details-pop-up-on-ubisoft-store",
-          "author": "Tom Phillips",
-          "description": "Details of Heartland, the upcoming free-to-play The Division spin-off, have popped up via Ubisoft's own store. \r\n\n\r\nA listing for The Division Heartland is still available, with its client listed as available to download on PC \"soon\".\r\n\n\r\nThe store page also hosts various screenshots of the under-wraps shooter, and describes it as a \"free-to-play survival-action multiplayer shooter set in small-town Middle America\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-division-heartland-details-pop-up-on-ubisoft-store",
-          "publishedOn": "2022-09-05T11:24:39.000Z",
-          "wordCount": 4418,
-          "title": "The Division Heartland details pop up on Ubisoft store",
-          "imageUrl": "https://assets.reedpopcdn.com/61166bd10d253c389c2e3020-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/61166bd10d253c389c2e3020-1.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/retro-studios-unreleased-zelda-project-was-an-experiment-gone-wrong",
-          "author": "Ed Nightingale",
-          "description": "It turns out that Retro Studios' Zelda project progressed to the point where it had working gameplay - but it just wasn't very good.\r\n\n\r\nRetro Studios - the developer behind the Metroid Prime series - was long-rumoured to have worked on a canned Zelda game and in 2020 concept art of the project was discovered.\r\n\r\n\n\r\nNow, YouTube channel Did You Know Gaming has uncovered more information about the project.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/retro-studios-unreleased-zelda-project-was-an-experiment-gone-wrong",
-          "publishedOn": "2022-09-05T11:17:15.000Z",
-          "wordCount": 4743,
-          "title": "Retro Studios' unreleased Zelda project was \"an experiment gone wrong\"",
-          "imageUrl": "https://assets.reedpopcdn.com/artwork-reveals-cancelled-the-legend-of-zelda-project-starring-sheik-1588762077038_Px8wVnY.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/artwork-reveals-cancelled-the-legend-of-zelda-project-starring-sheik-1588762077038_Px8wVnY.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/beware-splatoon-3-story-details-have-leaked-online",
-          "author": "Liv Ngan",
-          "description": "Splatoon 3 has already leaked online, including major spoilers for the game's story mode.\r\n\nWe won't be posting any spoilers here so if you want to stay spoiler-free before the game's official release, be wary when searching for Splatoon 3 on YouTube or social media.\r\n\nSplatoon 3 will release on 9th September, but leaks were being posted online almost a week before that date.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/beware-splatoon-3-story-details-have-leaked-online",
-          "publishedOn": "2022-09-05T10:48:45.000Z",
-          "wordCount": 4494,
-          "title": "Beware, Splatoon 3 story details have leaked online",
-          "imageUrl": "https://assets.reedpopcdn.com/NSwitch_Splatoon3_05.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/NSwitch_Splatoon3_05.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/assassins-creed-mirage-to-recreate-unitys-crowds-latest-leak-suggests",
-          "author": "Tom Phillips",
-          "description": "The next Assassin's Creed game, set in Baghdad, will feature crowds of people on its streets for the first time since the widely-panned Paris-set Unity.\r\n\n\r\nThat's according to a fresh round of leaked information on the upcoming Assassin's Creed Mirage from well-established Ubisoft leaker j0hnathan, who has now had his Twitter account suspended.\r\n\n\r\nAmong those details includes the fact that Baghdad will be divided into four separate zones, each with a boss to defeat, but also be surrounded by a desert area, oases and rivers.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/assassins-creed-mirage-to-recreate-unitys-crowds-latest-leak-suggests",
-          "publishedOn": "2022-09-05T10:34:26.000Z",
-          "wordCount": 4625,
-          "title": "Assassin's Creed Mirage to recreate Unity's crowds, latest leak suggests",
-          "imageUrl": "https://assets.reedpopcdn.com/FblO14_WAAAbGEP.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FblO14_WAAAbGEP.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/rick-and-morty-head-to-the-nine-realms-in-god-of-war-ragnarok-promo-1",
-          "author": "Victoria Kennedy",
-          "description": "In anticipation of God of War Ragnarök's release, a new promo starring Rick and Morty has been revealed.\nAmerican adult-oriented nighttime cable television channel Adult Swim shared the new ad on its Rick and Morty social feeds. The clip shows eccentric scientist Rick shaving his head and branding himself with Kratos' iconic red facial tattoo. He then proceeds to hand his grandson Morty a toy bow and arrow, before shoving him through a portal to the Nine Realms.\nHere, Rick gets his hands on Kratos' Leviathan Axe and \"other unannounced upgrades\" as Morty tries to fend for himself (rather unsuccessfully) in the hostile world he suddenly finds himself in. It ends with Rick finding a boat, informing the overpowered Morty that he will have to row as Rick doesn't want to get his new axe wet. You can watch it for yourself below.\n Read more",
-          "link": "https://www.eurogamer.net/rick-and-morty-head-to-the-nine-realms-in-god-of-war-ragnarok-promo-1",
-          "publishedOn": "2022-09-05T10:34:06.000Z",
-          "wordCount": 4530,
-          "title": "Rick and Morty head to the Nine Realms in God of War Ragnarök promo",
-          "imageUrl": "https://assets.reedpopcdn.com/image-(74).png/BROK/thumbnail/1600x900/format/jpg/quality/80/image-(74).png"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-ring-manga-turns-the-game-into-a-farce",
-          "author": "Ed Nightingale",
-          "description": "A new Elden Ring manga reimagines the game as a comedy.\r\n\n\r\nOr maybe your playthrough was a comedy all along? There's certainly a farcical element to all the constant dying.\r\n\n\r\nThe manga comes courtesy of Kadokawa - FromSoftware's parent company and a huge publisher of manga.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-ring-manga-turns-the-game-into-a-farce",
-          "publishedOn": "2022-09-05T10:33:25.000Z",
-          "wordCount": 4512,
-          "title": "Elden Ring manga turns the game into a farce",
-          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-manga-cover.png/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-manga-cover.png"
         }
       ]
     },
