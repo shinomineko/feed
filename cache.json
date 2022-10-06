@@ -148,7 +148,18 @@
       "title": "turnoff.us - geek comic site",
       "feedUrl": "https://turnoff.us/feed.xml",
       "siteUrl": "http://turnoff.us/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://turnoff.us/geek/technical-debt",
+          "author": null,
+          "description": "turnoff.us is a geek comic site. Comics about Programming Languages, Web, Cloud, Linux, etc.",
+          "link": "http://turnoff.us/geek/technical-debt",
+          "publishedOn": "2022-10-06T17:00:00.000Z",
+          "wordCount": 386,
+          "title": "technical debt",
+          "imageUrl": "http://turnoff.us/image/en/tech-debt.jpeg"
+        }
+      ]
     },
     {
       "title": "Schneier on Security",
@@ -422,6 +433,206 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1887605",
+          "author": "Kevin Purdy",
+          "description": "Power sequence bugs cause damaging flickers on built-in displays. Update now.",
+          "link": "https://arstechnica.com/?p=1887605",
+          "publishedOn": "2022-10-06T17:36:19.000Z",
+          "wordCount": 1518,
+          "title": "Linux kernel 5.19.2 code could cause permanent damage to some laptop displays",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/IMG_0281-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887540",
+          "author": "Jennifer Ouellette",
+          "description": "Adafruit tested its wireless haptic communication system with a juicy slab of pork butt.",
+          "link": "https://arstechnica.com/?p=1887540",
+          "publishedOn": "2022-10-06T17:09:06.000Z",
+          "wordCount": 1507,
+          "title": "Adafruit’s Cheekmate gets to the bottom (ahem) of chess cheating controversy",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/chess2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887635",
+          "author": "Andrew Cunningham",
+          "description": "Table Football set includes a handy, if macabre, compartment for extra heads.",
+          "link": "https://arstechnica.com/?p=1887635",
+          "publishedOn": "2022-10-06T16:41:43.000Z",
+          "wordCount": 1472,
+          "title": "$250 Lego foosball table includes a whopping 22 minifigs, actually works",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego-foosball-1-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887613",
+          "author": "Kyle Orland",
+          "description": "Those who have linked a Battle.net account can now avoid the \"SMS Protect\" system.",
+          "link": "https://arstechnica.com/?p=1887613",
+          "publishedOn": "2022-10-06T16:28:52.000Z",
+          "wordCount": 1931,
+          "title": "Blizzard scales back Overwatch 2’s controversial phone number requirement",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/overwatch-2-4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887539",
+          "author": "Ron Amadeo",
+          "description": "The hardware looks just like a smart display, but the software is different.",
+          "link": "https://arstechnica.com/?p=1887539",
+          "publishedOn": "2022-10-06T16:13:42.000Z",
+          "wordCount": 1516,
+          "title": "Google shows off the Pixel Tablet dock—it doubles as a smart display",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/chrome_PwsTABc47b-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887530",
+          "author": "Jonathan M. Gitlin",
+          "description": "Kevin and Lukas Czinger have a new way of making cars, and it's starting to catch on.",
+          "link": "https://arstechnica.com/?p=1887530",
+          "publishedOn": "2022-10-06T15:58:40.000Z",
+          "wordCount": 1517,
+          "title": "This car company set new track records to prove its 3D printing tech",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/QUAIL22to_004563-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887584",
+          "author": "Jon Brodkin",
+          "description": "Debt financing a key sticking point in talks to end litigation and finish merger.",
+          "link": "https://arstechnica.com/?p=1887584",
+          "publishedOn": "2022-10-06T15:38:47.000Z",
+          "wordCount": 1457,
+          "title": "Twitter seeks assurances that Musk won’t break merger agreement again",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-musk-twitter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887551",
+          "author": "Ashley Belanger",
+          "description": "Former security chief may be first exec found guilty of hiding a data breach.",
+          "link": "https://arstechnica.com/?p=1887551",
+          "publishedOn": "2022-10-06T15:11:37.000Z",
+          "wordCount": 1589,
+          "title": "Ex-Uber security chief convicted of hiding hack from federal regulators",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1358244601-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886799",
+          "author": "Ron Amadeo",
+          "description": "Google prices itself way above Apple and Samsung, with slower hardware.",
+          "link": "https://arstechnica.com/?p=1886799",
+          "publishedOn": "2022-10-06T14:45:16.000Z",
+          "wordCount": 1769,
+          "title": "The Pixel Watch is official: $349, good looks, and a four-year-old SoC",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GooglePixelWatchSKUs-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886601",
+          "author": "Ron Amadeo",
+          "description": "They get aluminum camera bars and a \"gen 2\" Tensor chip that hasn't changed much.",
+          "link": "https://arstechnica.com/?p=1886601",
+          "publishedOn": "2022-10-06T14:45:09.000Z",
+          "wordCount": 1891,
+          "title": "Google’s Pixel 7 is official, with wider 17-country rollout",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887208",
+          "author": "Kevin Purdy",
+          "description": "An explainer on how Matter and Thread work and how they might actually help.",
+          "link": "https://arstechnica.com/?p=1887208",
+          "publishedOn": "2022-10-06T14:37:41.000Z",
+          "wordCount": 1712,
+          "title": "IoT harmony? What Matter and Thread really mean for your smart home",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/matter_home_line-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887260",
+          "author": "Timothy B. Lee",
+          "description": "I learned a lot ordering a donut and a muffin from delivery robots.",
+          "link": "https://arstechnica.com/?p=1887260",
+          "publishedOn": "2022-10-06T14:00:17.000Z",
+          "wordCount": 1908,
+          "title": "The robot takeout revolution is closer than you think",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/kiwibot_with_scooter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887511",
+          "author": "Financial Times",
+          "description": "There are better options than destroying used hard drives in the name of data security.",
+          "link": "https://arstechnica.com/?p=1887511",
+          "publishedOn": "2022-10-06T13:23:20.000Z",
+          "wordCount": 1712,
+          "title": "Why Big Tech shreds millions of storage devices it could reuse",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/shredding-3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887401",
+          "author": "WIRED",
+          "description": "Key is whether the gene-editing technology can stop the virus from replicating.",
+          "link": "https://arstechnica.com/?p=1887401",
+          "publishedOn": "2022-10-06T12:00:24.000Z",
+          "wordCount": 1466,
+          "title": "A bold effort to cure HIV—using Crispr",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/hiv-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887417",
+          "author": "Sam Machkovech",
+          "description": "We can't say much yet, but its size may clarify who this $1,599-and-up GPU isn't for.",
+          "link": "https://arstechnica.com/?p=1887417",
+          "publishedOn": "2022-10-05T23:26:37.000Z",
+          "wordCount": 1917,
+          "title": "We are currently testing the Nvidia RTX 4090—let us show you its heft",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/rtx4090-unboxing-listing-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887431",
+          "author": "Beth Mole",
+          "description": "With subvariant soup simmering, OG BA.5 kicks off fall COVID surge.",
+          "link": "https://arstechnica.com/?p=1887431",
+          "publishedOn": "2022-10-05T23:02:30.000Z",
+          "wordCount": 1744,
+          "title": "Fall COVID surge begins in Europe—and US outlook already looks rough",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1243314770-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887214",
+          "author": "John Timmer",
+          "description": "There's a lot to the recent firing, most of it centered on how to best serve students.",
+          "link": "https://arstechnica.com/?p=1887214",
+          "publishedOn": "2022-10-05T22:07:12.000Z",
+          "wordCount": 1893,
+          "title": "Did an NYU professor get fired because students hate organic chem?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-157692561-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887240",
+          "author": "Dan Goodin",
+          "description": "Lazarus is latest group to pull off \"bring your own vulnerable device\" attack.",
+          "link": "https://arstechnica.com/?p=1887240",
+          "publishedOn": "2022-10-05T21:23:30.000Z",
+          "wordCount": 1735,
+          "title": "No fix in sight for mile-wide loophole plaguing a key Windows defense for years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887195",
+          "author": "Jennifer Ouellette",
+          "description": "It's like The Ref meets Mel Gibson's Fat Man, with a side of John Wick.",
+          "link": "https://arstechnica.com/?p=1887195",
+          "publishedOn": "2022-10-05T20:47:11.000Z",
+          "wordCount": 1813,
+          "title": "You better watch out for David Harbour’s badass Santa in Violent Night trailer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/violentTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887178",
+          "author": "Benj Edwards",
+          "description": "Not to be outdone by Meta, Google's AI generator can output 1280x768 HD video at 24 fps.",
+          "link": "https://arstechnica.com/?p=1887178",
+          "publishedOn": "2022-10-05T20:42:54.000Z",
+          "wordCount": 1591,
+          "title": "Google’s newest AI generator creates HD video from text prompts",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/imagen_teddy_bear_1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1887079",
           "author": "Ron Amadeo",
@@ -4375,6 +4586,176 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/stadias-elder-scrolls-online-players-will-be-able-to-transfer-their-saves-to-pc",
+          "author": "Matt Wales",
+          "description": "Following last week's news that Google is pulling the plug on its Stadia cloud gaming service early next year, Bethesda has confirmed all Elder Scrolls Online players using the platform will be able to transfer their accounts to PC.\r\n\n\r\n\"Since the news of Stadia shutting down,\" the company wrote in a statement shared on Twitter, \"Bethesda Softworks and ZeniMax Online Studios have been discussing the next steps for our Elder Scrolls Online Stadia players and we appreciate your patience\".\r\n\n\r\n\"We are happy to share that our Stadia players will be able to transfer their ESO accounts to PC,\" it continued, \"bringing with them all of their progress, including but not limited to existing characters, purchased items, achievements, and inventory. Since Stadia players already play ESO on our PC servers, all of their friends and guilds will be waiting for them once they complete the transfer.\" Bethesda says it'll be sharing details on how to make the transfer soon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/stadias-elder-scrolls-online-players-will-be-able-to-transfer-their-saves-to-pc",
+          "publishedOn": "2022-10-06T17:14:13.000Z",
+          "wordCount": 4689,
+          "title": "Stadia's Elder Scrolls Online players will be able to transfer their saves to PC",
+          "imageUrl": "https://assets.reedpopcdn.com/stadia_kMGlaui.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stadia_kMGlaui.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/humankinds-first-major-expansion-together-we-rule-gets-november-release-date",
+          "author": "Matt Wales",
+          "description": "Together We Rule, the first major expansion for developer Amplitude Studios' historical 4X strategy game Humankind, has been given a 9th November release date - and there's free play weekend for the base game starting today too.\r\n\n\r\nTogether We Rule follows the release of two smaller, culture-focused DLC packs for Humankind - one themed around Africa, the other Latin America - and introduces diplomacy and espionage features intended to \"help players see the world in a new light and resolve conflicts differently\".\r\n\n\r\nThese include the new Congress of Humankind - giving players the means to vote and decide on global doctrines and arbitrate international conflicts - as well as the new Embassy Quarter. The latter can be used to sign mutually beneficial agreements with other empires or force them into taking specific actions through Leverage - a special currency generated by the expansion's new Agent units that can be spent to infiltrate, sabotage, and disinform other empires.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/humankinds-first-major-expansion-together-we-rule-gets-november-release-date",
+          "publishedOn": "2022-10-06T17:00:00.000Z",
+          "wordCount": 4670,
+          "title": "Humankind's first major expansion Together We Rule gets November release date",
+          "imageUrl": "https://assets.reedpopcdn.com/humankind-together-we-rule.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/humankind-together-we-rule.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/prison-architects-spooky-next-expansion-undead-announced",
+          "author": "Victoria Kennedy",
+          "description": "The eighth expansion for Prison Architect, known as Undead, is on its way to PC, Xbox One and PlayStation 4, just in time for Halloween.\r\n\n\r\nUpon its 11th October release, this expansion will bring a whole new element to your gameplay: Survival against some heinous zombies.\r\n\n\r\n\"Just in time for spooky season, Undead adds a mix of survival and horror to Prison Architect that will put Wardens' management skills to the test,\" said game director Gaz Wright. \"Grappling with the task of survival is no easy feat, as it introduces an extra layer of complexity and pressure to management gameplay.\" You can see a little teaser for this expansion below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/prison-architects-spooky-next-expansion-undead-announced",
+          "publishedOn": "2022-10-06T16:03:26.000Z",
+          "wordCount": 4606,
+          "title": "Prison Architect's spooky next expansion Undead announced",
+          "imageUrl": "https://assets.reedpopcdn.com/Prison-Architect_Undead_KeyArt.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Prison-Architect_Undead_KeyArt.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/battlefield-2042-finally-gets-its-first-live-service-event-the-liquidators",
+          "author": "Ishraq Subhan",
+          "description": "When EA released Battlefield 2042 almost 11 months ago, the promise of a live service Battlefield game filled brim with a constant stream of content updates was one of the key selling points.\r\n\n\r\nIn fact, the live service model was supposed to be used as a substitute for the traditional story campaign, where in-game events would fill in the lore of the new climate-change ridden world.\r\n\n\r\nBut all of that was postponed thanks to dire state of the game at launch. Now almost a year since launch and two seasons later, we finally have our first in-season event and new game mode. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/battlefield-2042-finally-gets-its-first-live-service-event-the-liquidators",
+          "publishedOn": "2022-10-06T16:01:32.000Z",
+          "wordCount": 4550,
+          "title": "Battlefield 2042 finally gets its first live service event, The Liquidators",
+          "imageUrl": "https://assets.reedpopcdn.com/Battlefield-2042-_-Season-2_-The-Liquidators-Event-Trailer-0-13-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Battlefield-2042-_-Season-2_-The-Liquidators-Event-Trailer-0-13-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/three-mysterious-pokemon-icons-seem-to-reveal-yet-more-violetscarlet-species",
+          "author": "Ed Nightingale",
+          "description": "A handful of new, unannounced Pokémon have been spotted in the latest trailer.\r\n\n\r\nEarlier today, The Pokémon Company released a new trailer for Pokémon Scarlet and Violet that included around 14 minutes of gameplay.\r\n\n\r\nBut at around the 7.17 mark, just as one trainer enters the town of Artazon, a number of new 'mon can be seen on the minimap at the bottom right of the screen.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/three-mysterious-pokemon-icons-seem-to-reveal-yet-more-violetscarlet-species",
+          "publishedOn": "2022-10-06T16:00:21.000Z",
+          "wordCount": 4555,
+          "title": "Three mysterious Pokémon icons seem to reveal yet more Violet and Scarlet species",
+          "imageUrl": "https://assets.reedpopcdn.com/%5BUK%5D-Jump-into-a-Paldean-Journey-_-Pok%C3%A9mon-Scarlet-and-Pok%C3%A9mon-Violet-13-37-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/%5BUK%5D-Jump-into-a-Paldean-Journey-_-Pok%C3%A9mon-Scarlet-and-Pok%C3%A9mon-Violet-13-37-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/fall-guys-star-trek-crossover-lets-you-dress-as-spock-and-worf",
+          "author": "Tom Phillips",
+          "description": "Boistrous bean battle royale Fall Guys is adding Star Trek skins so you can dress as Spock, Worf and Uhura.\r\n\n\r\nA USS Enterprise backpack and Beam Me Up celebration will also be available. \r\n\n\r\nIt sounds like all of the above will be available via the game's store, save for Spock - you'll get him with Fall Guys' current season pass, alongside a Borg mask. I have to say, I really love these designs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fall-guys-star-trek-crossover-lets-you-dress-as-spock-and-worf",
+          "publishedOn": "2022-10-06T15:35:55.000Z",
+          "wordCount": 4507,
+          "title": "Fall Guys Star Trek crossover lets you dress as Spock and Worf",
+          "imageUrl": "https://assets.reedpopcdn.com/fallguys_hYGF05h.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fallguys_hYGF05h.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/starbreeze-makes-its-return-to-publishing",
+          "author": "Ishraq Subhan",
+          "description": "Swedish video game company Starbreeze has announced its return to publishing with an agreement signed with development studio Walking Tree Games to publish its upcoming game: The Tribe Must Survive.\r\n\n\r\nStarbreeze, best known for its development of the Payday series, fell from grace following the disastrous launch of Overkill's The Walking Dead on Steam back in 2018.\r\n\n\r\nThe game's failure led to severe financial issues and the exit of the company's boss Bo Andersson. Wesley Yin-Poole produced a full-length feature on the company's collapse in 2019 which I recommend you give a thorough read if you want the full context. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/starbreeze-makes-its-return-to-publishing",
+          "publishedOn": "2022-10-06T15:31:18.000Z",
+          "wordCount": 4555,
+          "title": "Starbreeze makes its return to publishing",
+          "imageUrl": "https://assets.reedpopcdn.com/tribe-must-survive-key-art.png/BROK/thumbnail/1600x900/format/jpg/quality/80/tribe-must-survive-key-art.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/spider-man-remastered-on-pc-adds-option-to-link-psn-account",
+          "author": "Ed Nightingale",
+          "description": "An update to Spider-Man Remastered on PC lets players link their Steam and PlayStation Network accounts.\r\n\n\r\nDoing so will unlock the Resilient Suit and Concussive Blast Gadget in-game, as well as two skill points. Players will also receive news, updates and offers from PlayStation Studios on PC or PlayStation platforms.\r\n\n\r\nSpider-Man Remastered is the first PlayStation game on PC to offer this option, though it looks like Trophy support isn't included. It's unclear if previous games will also be updated with this feature, or if it will be included in future releases like Uncharted: Legacy of Thieves.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/spider-man-remastered-on-pc-adds-option-to-link-psn-account",
+          "publishedOn": "2022-10-06T15:18:21.000Z",
+          "wordCount": 4548,
+          "title": "Spider-Man Remastered on PC adds option to link PSN account",
+          "imageUrl": "https://assets.reedpopcdn.com/spiderman_MDzjc1o.png/BROK/thumbnail/1600x900/format/jpg/quality/80/spiderman_MDzjc1o.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/looks-like-pet-petting-is-coming-to-disney-dreamlight-valley",
+          "author": "Victoria Kennedy",
+          "description": "For those who have been immersing themselves in Disney Dreamlight Valley's cosy content over the last few weeks or so, well, it looks like it could be about to get a whole lot cosier.\r\n\n\r\nA survey on the official Twitter feed has asked fans if they would like to be \"able to interact with [their] animal companions?\"\r\n\n\r\nThere are then three options presented for you to choose from. These are: \"Yes\", \"YES\" (an important use of all capital letters there for emphasis) or \"Yes (in the next update)!\" \r\n \nRead more",
+          "link": "https://www.eurogamer.net/looks-like-pet-petting-is-coming-to-disney-dreamlight-valley",
+          "publishedOn": "2022-10-06T15:09:59.000Z",
+          "wordCount": 4685,
+          "title": "Looks like pet petting is coming to Disney Dreamlight Valley",
+          "imageUrl": "https://assets.reedpopcdn.com/DDV-Moana.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/DDV-Moana.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/you-can-play-dead-by-daylight-for-free-this-halloween",
+          "author": "Ed Nightingale",
+          "description": "As part of its Halloween season, Dead by Daylight will be free to play for the last weekend in October.\r\n\n\r\nThat's from 27th October to 1st November, but there's more happening in the horror game all month in its Haunted by Daylight season, including outfits and a new tome.\r\n\n\r\nThat tome is called Malevolence and will include memories for Killer Ghost Face and Survivor Mikaela Reid.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/you-can-play-dead-by-daylight-for-free-this-halloween",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 4557,
+          "title": "You can play Dead by Daylight for free this Halloween",
+          "imageUrl": "https://assets.reedpopcdn.com/Haunted-By-Daylight-Official-Key-Art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Haunted-By-Daylight-Official-Key-Art.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/eurogamer-newscast-cdprojekt-plans-witcher-cyberpunk-ambitious",
+          "author": "Tom Phillips",
+          "description": "This week on the Eurogamer Newscast we're discussing the avalance of announcements to come from CD Projekt Red, maker of The Witcher series and Cyberpunk 2077.\r\n\n\r\nTaking a leaf out of Ubisoft's recent playbook - when it lay the entirety of its Assassin's Creed plans on the table - CD Projekt Red has done similar, discussing projects which we'll see release across the whole of the next decade. There's going to be a new trilogy of new Witcher games, a Cyberpunk sequel, a new IP and various other spin-offs - though there was no word on Cyberpunk's standalone multiplayer portion, and still no firm date for The Witcher 3's long-awaited current-gen console update.\r\n\nWith questions still to answer about what we'd known was coming, how likely is it we'll see any of these fresh projects soon? And if not, why announce them now? Tom Phillips, Ed Nightingale, Victoria Kennedy and Ishraq Subhan share their thoughts.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eurogamer-newscast-cdprojekt-plans-witcher-cyberpunk-ambitious",
+          "publishedOn": "2022-10-06T14:42:45.000Z",
+          "wordCount": 4545,
+          "title": "Are CD Projekt's Cyberpunk and Witcher plans too ambitious?",
+          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-the-first-trailer-for-need-for-speed-unbound",
+          "author": "Ishraq Subhan",
+          "description": "After months of speculation, leaks and rumours, EA has finally revealed the next installment of the Need for Speed in a swanky new trailer. \r\n\n\r\nNeed for Speed Unbound is lush with an anime aesthetic that's combined with the grungy street racing vibes of early Need for Speed games. \r\n\n\r\nThe trailer features American rapper A$AP Rocky, who is heard narrating in the beginning of the trailer before finishing off with what appears to be a brand-new track from the rapper. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-the-first-trailer-for-need-for-speed-unbound",
+          "publishedOn": "2022-10-06T14:23:36.000Z",
+          "wordCount": 4535,
+          "title": "Here's the first trailer for Need for Speed Unbound",
+          "imageUrl": "https://assets.reedpopcdn.com/Need-for-Speed-Unbound---Official-Reveal-Trailer-(ft.-A%24AP-Rocky)-0-21-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Need-for-Speed-Unbound---Official-Reveal-Trailer-(ft.-A%24AP-Rocky)-0-21-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsofts-proposed-acquisition-of-activision-blizzard-approved-in-brazil",
+          "author": "Victoria Kennedy",
+          "description": "Brazil has approved Microsoft's proposed acquisition of Activision Blizzard.\r\n\n\r\nIn new documentation issued by the country's Administrative Council for Economic Defence (CADE) on Wednesday, the regulator stated it has approved of this deal \"without restrictions\".\r\n\n\r\nAlong with this approval, CADE did touch on the more high-profile elements of this proposed acquisition, including Activision's Call of Duty franchise - a franchise which has recently felt like it's been caught up in a custody battle between Xbox and PlayStation. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsofts-proposed-acquisition-of-activision-blizzard-approved-in-brazil",
+          "publishedOn": "2022-10-06T14:21:29.000Z",
+          "wordCount": 4745,
+          "title": "Microsoft's proposed acquisition of Activision Blizzard approved in Brazil",
+          "imageUrl": "https://assets.reedpopcdn.com/brazil-COD.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/brazil-COD.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/genshin-impact-devs-dont-want-to-create-excessive-anxiety-with-more-endgame-content",
+          "author": "Jessica Orr",
+          "description": "Genshin Impact developer miHoYo has said it does not want to add further endgame content similar to the Spiral Abyss because of the \"excessive anxiety\" it could create for players.\r\n\n\r\nSpiral Abyss is the only true endgame content for players at high Adventure Ranks. In a recent Gamespot interview, a miHoYo spokesperson was asked if there were plans to release more permanent endgame content in the \"same vein\".\r\n\n\r\n\"The Spiral Abyss is one of the most effective ways [for] players [to] test out their party composition and combat strength,\" miHoYo replied. \"If we design another type of permanent endgame that is similar to the Spiral Abyss, it might end up creating excessive anxiety for our players - not everyone is interested in Musk Reef.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/genshin-impact-devs-dont-want-to-create-excessive-anxiety-with-more-endgame-content",
+          "publishedOn": "2022-10-06T14:13:50.000Z",
+          "wordCount": 4809,
+          "title": "Genshin Impact devs don't want to \"create excessive anxiety\" with more endgame content",
+          "imageUrl": "https://assets.reedpopcdn.com/Genshin-Impact-Zhongli-best-build-elemental-skill-shield.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Genshin-Impact-Zhongli-best-build-elemental-skill-shield.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-scarlet-and-violet-trailer-shows-off-auto-battling-lets-go-feature",
+          "author": "Ed Nightingale",
+          "description": "The Pokémon Company has released a new gameplay trailer for the forthcoming Pokémon Scarlet and Violet, with 14 minutes of footage.\r\n\n\r\nThe trailer follows four different Trainers as they explore the Paldean region, showing the variety of adventuring available.\r\n\n\r\nMost significant is the game's Let's Go feature that allows partner Pokémon to be sent off to battle others alone in the world, or gather items, which should make grinding much smoother.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-scarlet-and-violet-trailer-shows-off-auto-battling-lets-go-feature",
+          "publishedOn": "2022-10-06T13:51:31.000Z",
+          "wordCount": 4759,
+          "title": "Pokémon Scarlet and Violet trailer shows off auto-battling Let's Go feature",
+          "imageUrl": "https://assets.reedpopcdn.com/Jump-into-a-Paldean-Journey-_-Pok%C3%A9mon-Scarlet-and-Pok%C3%A9mon-Violet-8-44-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Jump-into-a-Paldean-Journey-_-Pok%C3%A9mon-Scarlet-and-Pok%C3%A9mon-Violet-8-44-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2s-campaign-entangles-task-force-141-in-the-bloody-war-on-drugs",
+          "author": "Ishraq Subhan",
+          "description": "Activision has released its first gameplay trailer of the upcoming Call of Duty: Modern Warfare 2, which gives us our first glimpse of the first-person shooter's campaign.\r\n\n\r\nThe trailer largely confirms the rumours and leaks of the past few months which suggested the campaign would involve the global War on Drugs. \r\n\n\r\nTask Force 141 is deployed in an unnamed South American country, as it seeks out a terrorist that appears to be allied with drug traffickers. Essentially, the story entangles the War on Terror with the War on Drugs. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2s-campaign-entangles-task-force-141-in-the-bloody-war-on-drugs",
+          "publishedOn": "2022-10-06T13:46:44.000Z",
+          "wordCount": 4626,
+          "title": "Call of Duty: Modern Warfare 2's campaign entangles Task Force 141 in the bloody War on Drugs",
+          "imageUrl": "https://assets.reedpopcdn.com/MWII-Launch-Gameplay-Trailer-_-Call-of-Duty_-Modern-Warfare-II-0-16-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/MWII-Launch-Gameplay-Trailer-_-Call-of-Duty_-Modern-Warfare-II-0-16-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-trailer-which-lists-dead-space-remake-for-ps4-is-a-mistake",
+          "author": "Tom Phillips",
+          "description": "A PlayStation trailer listing that suggested EA Motive's upcoming Dead Space remake will launch for PS4 as well as PS5 is a mistake, Eurogamer understands. \r\n\n\r\nEA's latest trailer for the game was published today on PlayStation's official YouTube channel for Latin America, which has 664,000 subscribers, and wrongly labels the revived survival horror as coming to both PS4 and PS5. \r\n\n\r\nThe listing sparked fan speculation and media reports that the game was also quietly being developed for PS4 and Xbox One.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-trailer-which-lists-dead-space-remake-for-ps4-is-a-mistake",
+          "publishedOn": "2022-10-06T13:46:34.000Z",
+          "wordCount": 4488,
+          "title": "PlayStation trailer which lists Dead Space remake for PS4 is a mistake",
+          "imageUrl": "https://assets.reedpopcdn.com/Dead-Space-Official-Gameplay-Trailer-0-38-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Dead-Space-Official-Gameplay-Trailer-0-38-screenshot.png"
+        },
         {
           "id": "https://www.eurogamer.net/stadia-fans-trying-hard-to-stop-their-controllers-from-becoming-e-waste",
           "author": "Ishraq Subhan",
@@ -9072,6 +9453,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=67596",
+          "author": "Eric Tooley",
+          "description": "Cross-platform apps built with the popular Flutter toolkit can now benefit from Dependabot alerts.",
+          "link": "https://github.blog/2022-10-06-githubs-supply-chain-security-features-now-support-dart/",
+          "publishedOn": "2022-10-06T18:00:44.000Z",
+          "wordCount": 1266,
+          "title": "GitHub’s supply chain security features now support Dart",
+          "imageUrl": "https://github.blog/wp-content/uploads/2021/12/github-security_orange-banner.png"
+        },
         {
           "id": "https://github.blog/?p=67439",
           "author": "Lee Reilly",
