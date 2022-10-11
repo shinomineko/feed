@@ -124,16 +124,6 @@
           "wordCount": 236,
           "title": "What If? 2 Flowchart",
           "imageUrl": "https://imgs.xkcd.com/comics/what_if_2_flowchart_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2671/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/rotation.png\" title=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" alt=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" />",
-          "link": "https://xkcd.com/2671/",
-          "publishedOn": "2022-09-12T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Rotation",
-          "imageUrl": "https://imgs.xkcd.com/comics/rotation_2x.png"
         }
       ]
     },
@@ -176,6 +166,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/10/inserting-a-backdoor-into-a-machine-learning-system.html",
+          "author": null,
+          "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2210.00108\">ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks</a>, by Tim Clifford, Ilia Shumailov, Yiren Zhao, Ross Anderson, and Robert Mullins:</p>\n<blockquote><p><b>Abstract</b>: Early backdoor attacks against machine learning set off an arms race in attack and defence development. Defences have since appeared demonstrating some ability to detect backdoors in models or even remove them. These defences work by inspecting the training data, the model, or the integrity of the training procedure. In this work, we show that backdoors can be added during compilation, circumventing any safeguards in the data preparation and model training stages. As an illustration, the attacker can insert weight-based backdoors during the hardware compilation step that will not be detected by any training or data-preparation process. Next, we demonstrate that some backdoors, such as ImpNet, can only be reliably detected at the stage where they are inserted and removing them anywhere else presents a significant challenge. We conclude that machine-learning model security requires assurance of provenance along the entire technical pipeline, including the data, model architecture, compiler, and hardware specification...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/10/inserting-a-backdoor-into-a-machine-learning-system.html",
+          "publishedOn": "2022-10-11T12:18:01.000Z",
+          "wordCount": 822,
+          "title": "Inserting a Backdoor into a Machine-Learning System",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/10/complex-impersonation-story.html",
           "author": null,
@@ -433,6 +433,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1888850",
+          "author": "Corey Gaskin",
+          "description": "Our top picks for ANC headphones and true wireless earbuds match record low prices.",
+          "link": "https://arstechnica.com/?p=1888850",
+          "publishedOn": "2022-10-11T12:00:10.000Z",
+          "wordCount": 2000,
+          "title": "Amazon’s best headphone deals include pairs we like from Sony, Beats, and Bose",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Noise-cancelling-headphones-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1888606",
+          "author": "Corey Gaskin",
+          "description": "We've sorted through Amazon's pre-holiday sale to find the stuff that's worth your time.",
+          "link": "https://arstechnica.com/?p=1888606",
+          "publishedOn": "2022-10-11T07:00:12.000Z",
+          "wordCount": 3142,
+          "title": "All the best Amazon Prime Early Access deals we can find",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/prime-day-dm-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1888603",
           "author": "Doug Johnson",
@@ -4285,16 +4305,6 @@
           "wordCount": 3585,
           "title": "Blog: Kubernetes 1.25: PodHasNetwork condition for pods",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/",
-          "author": null,
-          "description": "Author: Pushkar Joglekar (VMware)\nA long-standing request from the Kubernetes community has been to have a\nprogrammatic way for end users to keep track of Kubernetes security issues\n(also called \"CVEs\", after the database that tracks public security issues across\ndifferent products and vendors). Accompanying the release of Kubernetes v1.25,\nwe are excited to announce availability of such\na feed as an alpha\nfeature. This blog will cover the background and scope of this new service.\nMotivation\nWith the growing number of eyes on Kubernetes, the number of CVEs related to\nKubernetes have increased. Although most CVEs that directly, indirectly, or\ntransitively impact Kubernetes are regularly fixed, there is no single place for\nthe end users of Kubernetes to programmatically subscribe or pull the…",
-          "link": "https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/",
-          "publishedOn": "2022-09-12T00:00:00.000Z",
-          "wordCount": 3240,
-          "title": "Blog: Announcing the Auto-refreshing Official Kubernetes CVE Feed",
-          "imageUrl": null
         }
       ]
     },
@@ -4356,6 +4366,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/atari-will-hold-rollercoaster-tycoon-rights-for-another-decade",
+          "author": "Ed Nightingale",
+          "description": "Atari will hold the rights to RollerCoaster Tycoon for another 10 years.\r\n\n\r\nThe licence extension is with franchise creator Chris Sawyer.\r\n\n\r\nAtari will \"seek to develop new titles, expand digital and physical distribution, and explore brand and merchandising collaborations\" as part of a long-term plan, the publisher announced today.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/atari-will-hold-rollercoaster-tycoon-rights-for-another-decade",
+          "publishedOn": "2022-10-11T12:17:04.000Z",
+          "wordCount": 4426,
+          "title": "Atari will hold RollerCoaster Tycoon rights for another decade",
+          "imageUrl": "https://assets.reedpopcdn.com/RollerCoaster-Tycoon-Classic-Trailer-0-12-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/RollerCoaster-Tycoon-Classic-Trailer-0-12-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/lady-dimitrescu-will-be-a-tad-smaller-in-resident-evil-villages-mercenaries-dlc",
+          "author": "Liv Ngan",
+          "description": "Capcom had to make Lady Dimitrescu a tiny bit shorter for the upcoming Resident Evil Village DLC.\r\n\nAs part of The Winter's Expansion DLC, out on 28th October, Mercenaries mode will be getting more content, and we'll finally be able to play as the lady herself.\r\n\nBut in order to accomodate her stature, the development team had to make a small compromise on her height.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lady-dimitrescu-will-be-a-tad-smaller-in-resident-evil-villages-mercenaries-dlc",
+          "publishedOn": "2022-10-11T11:47:08.000Z",
+          "wordCount": 4645,
+          "title": "Lady Dimitrescu will be a tad smaller in Resident Evil Village's Mercenaries DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/resident_evil_village_lady_dimitrescu.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident_evil_village_lady_dimitrescu.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/overwatch-2-suffers-another-ddos-attack-and-character-roster-bugs",
+          "author": "Victoria Kennedy",
+          "description": "Following Overwatch 2's fairly shambolic release that involved targeted DDoS attacks, Blizzard has reported interruptions this week to Battle.net via a further DDOS attack, causing login issues. \r\n\n\r\nIn addition, Overwatch 2's character roster has had to be downsized a tad to allow Blizzard to \"iron out a few bugs\". Unfortunately for the developer, however, this has created a new bug of its own, resulting in even more characters becoming inaccessible for some Overwatch 2 players.\r\n\n\r\nOn the official customer support Twitter account, Blizzard addressed the DDoS attack faced by Battle.net yesterday. This has reportedly now all been dealt with, however it managed to cause widespread issues for players of both Overwatch 2 and Call of Duty: Modern Warfare.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/overwatch-2-suffers-another-ddos-attack-and-character-roster-bugs",
+          "publishedOn": "2022-10-11T11:10:46.000Z",
+          "wordCount": 4928,
+          "title": "Overwatch 2 suffers another DDoS attack and character roster bugs",
+          "imageUrl": "https://assets.reedpopcdn.com/ow2-bugs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ow2-bugs.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-switch-firmware-update-lets-you-take-screenshots-in-the-switch-online-app",
+          "author": "Liv Ngan",
+          "description": "You can now take screenshots inside the Nintendo Switch Online application on your console, thanks to the latest Nintendo Switch firmware update.\r\n\nThe previous Switch firmware update was back in March, and finally added folders for organising games.\r\n\nThe update for version 15.0.0 is available now to download.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-switch-firmware-update-lets-you-take-screenshots-in-the-switch-online-app",
+          "publishedOn": "2022-10-11T10:50:18.000Z",
+          "wordCount": 4463,
+          "title": "Nintendo Switch firmware update lets you take screenshots in the Switch Online app",
+          "imageUrl": "https://assets.reedpopcdn.com/600x338_nso_savedata.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/600x338_nso_savedata.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sonic-frontiers-will-receive-free-monster-hunter-dlc",
+          "author": "Ed Nightingale",
+          "description": "Sonic Frontiers will have free Monster Hunter DLC a week after its release.\r\n\n\r\nThis is the first DLC announced for Sega's open zone adventure, a collaboration with Capcom's hugely successful hunting series.\r\n\n\r\nIt will launch on 14th November and include two costumes for Sonic: Rathalos and Felyne Rathalos.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonic-frontiers-will-receive-free-monster-hunter-dlc",
+          "publishedOn": "2022-10-11T10:40:35.000Z",
+          "wordCount": 4571,
+          "title": "Sonic Frontiers will receive free Monster Hunter DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers-mh2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers-mh2.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/2k-confirms-some-personal-data-obtained-in-recent-data-breach",
+          "author": "Ed Nightingale",
+          "description": "Following a data breach last month, 2K has now confirmed that some personal data has been recorded.\r\n\n\r\nHackers were able to gain access to the company's support desk, impersonating official communication.\r\n\n\r\nThe publisher is now emailing those affected, confirming that some personal data was recorded but there's \"no indication\" that financial information has been compromised.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/2k-confirms-some-personal-data-obtained-in-recent-data-breach",
+          "publishedOn": "2022-10-11T10:18:35.000Z",
+          "wordCount": 4428,
+          "title": "2K confirms some personal data obtained in recent data breach",
+          "imageUrl": "https://assets.reedpopcdn.com/2k-logo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/2k-logo.png"
+        },
         {
           "id": "https://www.eurogamer.net/square-enix-montreal-is-now-studio-onoma-following-embracer-acquisition",
           "author": "Matt Wales",
