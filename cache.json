@@ -177,6 +177,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/10/digital-license-plates.html",
+          "author": null,
+          "description": "<p>California just <a href=\"https://www.theregister.com/2022/10/11/california_digital_license_plates/\">legalized</a> digital license plates, which seems like a solution without a problem.</p>\n<blockquote><p>The Rplate can reportedly function in extreme temperatures, has some customization features, and is managed via Bluetooth using a smartphone app. Rplates are also equipped with an LTE antenna, which can be used to push updates, change the plate if the vehicle is reported stolen or lost, and notify vehicle owners if their car may have been stolen.</p>\n<p>Perhaps most importantly to the average car owner, Reviver said Rplate owners can renew their registration online through the Reviver mobile app...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/10/digital-license-plates.html",
+          "publishedOn": "2022-10-13T11:19:06.000Z",
+          "wordCount": 1248,
+          "title": "Digital License Plates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/10/recovering-passwords-by-measuring-residual-heat.html",
           "author": null,
           "description": "<p>Researchers have used thermal cameras and ML guessing techniques to <a href=\"https://dl.acm.org/doi/pdf/10.1145/3563693\">recover passwords</a> from measuring the residual heat left by fingers on keyboards. From the abstract:</p>\n<blockquote><p>We detail the implementation of ThermoSecure and make a dataset of 1,500 thermal images of keyboards with heat traces resulting from input publicly available. Our first study shows that ThermoSecure successfully attacks 6-symbol, 8-symbol, 12-symbol, and 16-symbol passwords with an average accuracy of 92%, 80%, 71%, and 55% respectively, and even higher accuracy when thermal images are taken within 30 seconds. We found that typing behavior significantly impacts vulnerability to thermal attacks, where hunt-and-peck typists are more vulnerable than fast typists (92% vs 83% thermal attack success if performed within 30 seconds). The second study showed that the keycaps material has a statistically significant effect on the effectiveness of thermal attacks: ABS keycaps retain the thermal trace of users presses for a longer period of time, making them more vulnerable to thermal attacks, with a 52% average attack accuracy compared to 14% for keyboards with PBT keycaps...</p></blockquote>",
@@ -4192,66 +4202,6 @@
           "wordCount": 1812,
           "title": "Sampling BMW’s greatest hits shows what’s missing from its modern cars",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ideal-bmw-ev-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881102",
-          "author": "Dan Goodin",
-          "description": "Hack of FishPig distribution server used to install Rekoobe on customer systems.",
-          "link": "https://arstechnica.com/?p=1881102",
-          "publishedOn": "2022-09-13T23:34:47.000Z",
-          "wordCount": 1792,
-          "title": "Breach of software maker used to backdoor as many as 200,000 servers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881100",
-          "author": "Beth Mole",
-          "description": "The list includes mainly low- and middle-income countries, plus Israel and the UK.",
-          "link": "https://arstechnica.com/?p=1881100",
-          "publishedOn": "2022-09-13T23:06:05.000Z",
-          "wordCount": 1847,
-          "title": "US officially added to WHO’s list of poliovirus outbreak countries",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/GettyImages-1071128750-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881084",
-          "author": "John Timmer",
-          "description": "When it gets too hot, it unrolls a reflective material to block absorption of light.",
-          "link": "https://arstechnica.com/?p=1881084",
-          "publishedOn": "2022-09-13T21:39:53.000Z",
-          "wordCount": 1915,
-          "title": "Device passively registers temperature, switches from heating to cooling",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-13-at-5.04.11-PM-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881040",
-          "author": "Jon Brodkin",
-          "description": "Musk wants out, but shareholders approve $54.20-per-share purchase agreement.",
-          "link": "https://arstechnica.com/?p=1881040",
-          "publishedOn": "2022-09-13T20:03:01.000Z",
-          "wordCount": 1751,
-          "title": "Twitter shareholders approve the $44B merger Musk is trying to get out of",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-twitter-logo-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1880993",
-          "author": "Jonathan M. Gitlin",
-          "description": "With up to 3.9 miles/kWh, vehicle-to-load, and very fast charging, there's a lot to like.",
-          "link": "https://arstechnica.com/?p=1880993",
-          "publishedOn": "2022-09-13T18:44:11.000Z",
-          "wordCount": 1616,
-          "title": "Who said sedans were dead? The 2023 Genesis G80 Electrified, tested",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Genesis-G80-Electrified-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1880846",
-          "author": "Ron Amadeo",
-          "description": "Loon's laser communications and networking software get new life as Aalyria.",
-          "link": "https://arstechnica.com/?p=1880846",
-          "publishedOn": "2022-09-13T18:31:40.000Z",
-          "wordCount": 1804,
-          "title": "Google spinoff Aalyria salvages Project Loon technology for the US military",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/62fc2965c159e9325f90e79d_aalyria-spacetime-software-defined-network-760x380.jpg"
         }
       ]
     },
@@ -4355,16 +4305,6 @@
           "wordCount": 3508,
           "title": "Blog: Kubernetes 1.25: Two Features for Apps Rollouts Graduate to Stable",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/",
-          "author": null,
-          "description": "Author:\nDeep Debroy (Apple)\nKubernetes 1.25 introduces Alpha support for a new kubelet-managed pod condition\nin the status field of a pod: PodHasNetwork. The kubelet, for a worker node,\nwill use the PodHasNetwork condition to accurately surface the initialization\nstate of a pod from the perspective of pod sandbox creation and network\nconfiguration by a container runtime (typically in coordination with CNI\nplugins). The kubelet starts to pull container images and start individual\ncontainers (including init containers) after the status of the PodHasNetwork\ncondition is set to True. Metrics collection services that report latency of\npod initialization from a cluster infrastructural perspective (i.e. agnostic of\nper container characteristics like image size or payload) can utilize the\nPodHasNe…",
-          "link": "https://kubernetes.io/blog/2022/09/14/pod-has-network-condition/",
-          "publishedOn": "2022-09-14T00:00:00.000Z",
-          "wordCount": 3585,
-          "title": "Blog: Kubernetes 1.25: PodHasNetwork condition for pods",
-          "imageUrl": null
         }
       ]
     },
@@ -4436,6 +4376,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/activision-blizzard-hit-with-another-sexual-harassment-lawsuit",
+          "author": "Victoria Kennedy",
+          "description": "Another sexual harassment lawsuit has been filed against Activision Blizzard.\r\n\n\r\nThis latest complaint, filed in Los Angeles by a former employee of the company referred to as Jane Doe, targets both the Call of Duty maker itself and the employee's former manager, Miguel Vega. \r\n\nDoe is seeking unspecified compensatory and punitive damages against the company and her ex-manager. In addition to this, Doe has demanded the removal of Bobby Kotick as CEO, as part of the lawsuit.\n Read more",
+          "link": "https://www.eurogamer.net/activision-blizzard-hit-with-another-sexual-harassment-lawsuit",
+          "publishedOn": "2022-10-13T12:24:27.000Z",
+          "wordCount": 4755,
+          "title": "Activision Blizzard hit with another sexual harassment lawsuit",
+          "imageUrl": "https://assets.reedpopcdn.com/activisionblizzard_U2SNU1I.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activisionblizzard_U2SNU1I.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/commonwealth-games-makes-u-turn-on-esports",
+          "author": "Ishraq Subhan",
+          "description": "Esports will not feature in the 2026 Commonwealth Games, which are due to be held in Victoria, Australia. \r\n\n\r\nThe surprising U-turn comes after esports were piloted at the 2022 Games held in Birmingham. \r\n\n\r\nThe pilot was co-funded by the Commonwealth Games Federation (GF) and the Global Esports Federation (GEF). At the time, the CGF called the pilot a success and expected esports to be held at future Games. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/commonwealth-games-makes-u-turn-on-esports",
+          "publishedOn": "2022-10-13T12:05:59.000Z",
+          "wordCount": 4435,
+          "title": "Commonwealth Games makes U-turn on esports",
+          "imageUrl": "https://assets.reedpopcdn.com/CGF-and-GEF-scaled.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/CGF-and-GEF-scaled.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/lab-grown-brain-cells-have-learnt-how-to-play-pong",
+          "author": "Liv Ngan",
+          "description": "Researchers have taught lab-grown brain cells how to play Pong.\nScientists at Australian company Cortical Labs, which which conducts research into the use of biology in AI, reported their findings yesterday in Neuron, a peer-reviewed neuroscience journal.\r\n\nTheir paper, titled \"In vitro neurons learn and exhibit sentience when embodied in a simulated game-world\", claimed the cultivated brain showed \"apparent learning  within five minutes of real-time gameplay\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lab-grown-brain-cells-have-learnt-how-to-play-pong",
+          "publishedOn": "2022-10-13T11:59:42.000Z",
+          "wordCount": 4537,
+          "title": "Lab-grown brain cells have learnt how to play Pong",
+          "imageUrl": "https://assets.reedpopcdn.com/pong-thumbnail.png/BROK/thumbnail/1600x900/format/jpg/quality/80/pong-thumbnail.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-elden-ring-patch-adds-separate-damage-scaling-in-multiplayer",
+          "author": "Ed Nightingale",
+          "description": "A fresh patch is now available for Elden Ring that adds separate damage scaling for PvP.\r\n\n\r\nThat means balance adjustments when playing against others online, such as increased stamina attack power and a decrease in the power of Ashes of War.\r\n\n\r\nThese adjustments do not affect single-player or cooperative play.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-elden-ring-patch-adds-separate-damage-scaling-in-multiplayer",
+          "publishedOn": "2022-10-13T11:26:53.000Z",
+          "wordCount": 4561,
+          "title": "New Elden Ring patch adds separate damage scaling in multiplayer",
+          "imageUrl": "https://assets.reedpopcdn.com/elden-ring-world-tree.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-world-tree.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-5-hits-2m-uk-sales-at-same-pace-as-ps3-despite-higher-price",
+          "author": "Ed Nightingale",
+          "description": "Sony has now sold 2m units of its PlayStation 5 console in the UK, despite a recent price hike.\r\n\n\r\nIt took 98 weeks to reach this number, in-line with sales of the PS3 and making it the joint fourth fastest-selling console in the UK.\r\n\n\r\nSince launch, the console has been hampered with stock shortage issues and remains in high demand. That's despite a price increase for UK consumers of £30 back in August, which Sony blamed on inflation.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-hits-2m-uk-sales-at-same-pace-as-ps3-despite-higher-price",
+          "publishedOn": "2022-10-13T11:25:56.000Z",
+          "wordCount": 4594,
+          "title": "PlayStation 5 hits 2m UK sales at same pace as PS3, despite higher price",
+          "imageUrl": "https://assets.reedpopcdn.com/god-of-war-ragnarok-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-ragnarok-header.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ea-accidentally-leaks-fifa-23s-world-cup-mode",
+          "author": "Ishraq Subhan",
+          "description": "Electronic Arts has accidentally allowed players a peek at FIFA 23's World Cup mode early on PS5. \r\n\n\r\nThe mode was not due to be released until later this year, ahead of the 2022 World Cup in Qatar which begins in  November. \r\n\n\r\nFIFA 23 owners on PlayStation 5 have posted screenshots of the mode on social media, which show four different sub-modes: FIFA World Cup Live, FIFA World Cup Kick-Off, Online Tournament and FIFA World Cup 2022.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-accidentally-leaks-fifa-23s-world-cup-mode",
+          "publishedOn": "2022-10-13T10:28:12.000Z",
+          "wordCount": 4547,
+          "title": "EA accidentally leaks FIFA 23's World Cup mode",
+          "imageUrl": "https://assets.reedpopcdn.com/f23-hmpg-worldcup-16x9.jpg.adapt.crop16x9.652w.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/f23-hmpg-worldcup-16x9.jpg.adapt.crop16x9.652w.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-slip-up-suggests-ridge-racer-2-on-its-way-to-playstation-plus",
+          "author": "Ed Nightingale",
+          "description": "Sony may have accidentally revealed that PlayStation classic Ridge Racer 2 is on its way to PS Plus.\r\n\n\r\nYesterday, Sony announced the next slate of games coming to the subscription service in October, including Grand Theft Auto Vice City, Dragon Quest 11, and Assassin's Creed Odyssey.\r\n\n\r\nPlayStation Access, the official PlayStation YouTube channel, included Ridge Racer 2 in its list of classic games, but this was not included in the PlayStation Blog. The PlayStation Access video has since been updated (thanks VGC).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-slip-up-suggests-ridge-racer-2-on-its-way-to-playstation-plus",
+          "publishedOn": "2022-10-13T10:22:30.000Z",
+          "wordCount": 4493,
+          "title": "PlayStation slip-up suggests Ridge Racer 2 on its way to PlayStation Plus",
+          "imageUrl": "https://assets.reedpopcdn.com/ridgeracers2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ridgeracers2.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/fifa-23-had-series-largest-ever-number-of-players-at-launch",
+          "author": "Tom Phillips",
+          "description": "EA has triumphantly termed the recently-released FIFA 23 as \"record-breaking\" - for hitting 10.3 million players in its first week, and having the \"biggest launch period in EA Sports FIFA franchise history\".\r\n\n\r\nFIFA 23 is, of course, also the last EA Sports FIFA franchise release in history - with the series set to transition to EA Sports FC from next year. \r\n\n\r\nSigns were good that FIFA 23 had performed well at launch this year. Launched on 30th September, the game's first week of UK boxed game sales slightly beat those of FIFA 22 - despite the overall trend of declining physical game sales in favour of digital.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fifa-23-had-series-largest-ever-number-of-players-at-launch",
+          "publishedOn": "2022-10-13T08:26:14.000Z",
+          "wordCount": 4653,
+          "title": "FIFA 23 had series' largest ever number of players at launch",
+          "imageUrl": "https://assets.reedpopcdn.com/How-to-do-the-McGeady-Spin-in-FIFA-23.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/How-to-do-the-McGeady-Spin-in-FIFA-23.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/todd-howard-talks-starfields-hard-sci-fi-approach-in-new-developer-video",
           "author": "Matt Wales",
@@ -8835,96 +8855,6 @@
           "wordCount": 4470,
           "title": "Triangle Strategy coming to PC next month",
           "imageUrl": "https://assets.reedpopcdn.com/Triangle_Strategy_Key_Art_fp4L8b3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Triangle_Strategy_Key_Art_fp4L8b3.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-shows-first-peek-at-playstation-stars-collectibles",
-          "author": "Tom Phillips",
-          "description": "The upcoming PlayStation Stars loyalty programme got a spotlight in tonight's State of Play broadcast, with a peek at some of the digital collectibles you'll be able to unlock by completing tasks.\r\n\n\r\nWe also got word on when we'd see the programme launch - beginning in \"some regions in Asia\" from late September onwards. America and Europe will then see Stars arrive \"in the weeks that follow\".\r\n\n\r\nCollectibles shown included 3D models of Ape Escape, Sony's bizarre ChordMachine boombox, a PlayStation 3, Sony's feline mascot Toro, the PocketStation peripheral.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-shows-first-peek-at-playstation-stars-collectibles",
-          "publishedOn": "2022-09-13T22:56:37.000Z",
-          "wordCount": 4489,
-          "title": "Sony shows first peek at PlayStation Stars collectibles",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_B2duD01.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_B2duD01.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/here-is-another-look-at-god-of-war-ragnarok-as-accompanying-controller-revealed",
-          "author": "Victoria Kennedy",
-          "description": "With God of War's highly anticipated sequel inching ever closer, Sony Santa Monica has given us another look at Ragnarök.\r\n\n\r\nClosing out tonight's State of Play, we were invited to \"set out on an epic and unflinching journey as Kratos and Atreus struggle with holding on and letting go\" in a new story trailer. We can see the towing Tyr (the other god of war) in more detail in this new tease, as well as swelling music and heart pounding scenes - I mean, of course.\r\n\n\r\nYou can see this trailer for yourself below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/here-is-another-look-at-god-of-war-ragnarok-as-accompanying-controller-revealed",
-          "publishedOn": "2022-09-13T22:48:32.000Z",
-          "wordCount": 4571,
-          "title": "Here's a new look at God of War Ragnarök, as accompanying controller revealed",
-          "imageUrl": "https://assets.reedpopcdn.com/Rag-gow-Loki.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Rag-gow-Loki.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/team-ninja-reveals-ps5-exclusive-action-rpg-rise-of-the-ronin",
-          "author": "Ed Nightingale",
-          "description": "Team Ninja has revealed its PlayStation 5 exclusive Rise of the Ronin.\r\n\n\r\nAs the developer is known for, it's another action RPG, this time set in 1863 Japan as civil war rages and a western influence permeates.\r\n\n\r\nIt's set for release in 2024 as a PS5 console exclusive, check out a first look at gameplay in the trailer below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/team-ninja-reveals-ps5-exclusive-action-rpg-rise-of-the-ronin",
-          "publishedOn": "2022-09-13T22:39:55.000Z",
-          "wordCount": 4534,
-          "title": "Team Ninja reveals PS5 exclusive action RPG Rise of the Ronin",
-          "imageUrl": "https://assets.reedpopcdn.com/rise-of-the-ronin.png/BROK/thumbnail/1600x900/format/jpg/quality/80/rise-of-the-ronin.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/yakuza-samurai-spin-off-like-a-dragon-ishin-heading-to-ps4-and-ps5-next-year",
-          "author": "Matt Wales",
-          "description": "Sega has announced a western release for historical Yakuza spin-off Like a Dragon: Ishin, which has been \"rebuilt from the ground up\" and will be making its way to PS4 and PS5 next February.\r\n\n\r\nLike a Dragon: Ishin originally released for PS3 and PS4 in Japan (under the name Ryū ga Gotoku Ishin!) back in 2014, transplanting the chaotic Yakuza formula to the Late Edo Period for a historical slice of samurai action.\r\n\n\r\nIt follows protagonist Sakamoto Ryōma as he returns to his home in Tosa where, after a run-in with a high-ranking samurai, he's sentenced to be executed.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/yakuza-samurai-spin-off-like-a-dragon-ishin-heading-to-ps4-and-ps5-next-year",
-          "publishedOn": "2022-09-13T22:37:33.000Z",
-          "wordCount": 4519,
-          "title": "Yakuza samurai spin-off Like a Dragon: Ishin heading to PS4 and PS5 next year",
-          "imageUrl": "https://assets.reedpopcdn.com/Like-a-Dragon-Ishin.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Like-a-Dragon-Ishin.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/tekken-8-officially-unveiled-during-sonys-state-of-play",
-          "author": "Victoria Kennedy",
-          "description": "We had an elusive tease at Evo earlier in the year, but now it is time for the real deal. Opening up Sony's State of Play, Tekken 8 was officially announced - no I am not Tekken the piss. \r\n\n\r\nThis new teaser shows Kazuya and Jin Kazama facing off against each other on a suitably atmospheric backdrop wearing inappropriate clothing. The mother in me wants to get them both a jacket. But I digress. \r\n\n\r\nYou can see this new teaser for Tekken 8 below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/tekken-8-officially-unveiled-during-sonys-state-of-play",
-          "publishedOn": "2022-09-13T22:18:13.000Z",
-          "wordCount": 4478,
-          "title": "Tekken 8 officially unveiled during Sony's State of Play",
-          "imageUrl": "https://assets.reedpopcdn.com/tekken-8-reveal.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tekken-8-reveal.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-launching-kernel-level-anti-cheat-system-with-fifa-23-on-pc",
-          "author": "Matt Wales",
-          "description": "Following a similar move by Activision Blizzard last year, EA has unveiled EA AntiCheat (EAAC), a new internally developed kernel-level anti-cheat system that'll initially be rolling out with the launch of FIFA 23 on PC this autumn.\r\n\n\r\nAnnouncing EAAC - which is officially described as a \"kernel-mode anti-cheat and anti-tamper solution\" - in a new blog post, the publisher explained, \"PC cheat developers have increasingly moved into the kernel, so we need to have kernel-mode protections to ensure fair play and tackle PC cheat developers on an even playing field.\"\r\n\n\r\nEAAC's arrival will coincide with the release of FIFA 23, which brings cross-play across PC, Xbox, and PlayStation to the series for the first time. \"In addition to EAAC protecting our PC players from cheaters,\" EA notes, \"our console players who match with PC opponents will also be protected from cheaters operating on PC platforms.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ea-launching-kernel-level-anti-cheat-system-with-fifa-23-on-pc",
-          "publishedOn": "2022-09-13T21:45:31.000Z",
-          "wordCount": 4756,
-          "title": "EA launching its own kernel-level anti-cheat system with FIFA 23 on PC",
-          "imageUrl": "https://assets.reedpopcdn.com/FIFA-23_zeJU911.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FIFA-23_zeJU911.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fallout-76-players-can-finally-travel-beyond-appalachia-in-todays-the-pitt-update",
-          "author": "Matt Wales",
-          "description": "Fallout 76's The Pitt update, which lets players leave the boundaries of Appalachia for the first time, is out today on Xbox and PC.\r\n\n\r\nAnnounced back in June 2021, The Pitt - which is inspired by the Fallout 3 add-on of the same name - takes players to a city built on the remains of post-nuclear Pittsburgh, which can explore by embarking on Expeditions, a brand-new feature introduced in today's update.\r\n\n\r\nExpeditions are essentially repeatable missions for up to four players that feature new NPCs and new foes to battle, with participants able to earn various in-game rewards for their endeavours. Bethesda says anyone can take part in these new activities but recommends that players be level 50+ \"for the best experience\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/fallout-76-players-can-finally-travel-beyond-appalachia-in-todays-the-pitt-update",
-          "publishedOn": "2022-09-13T20:11:57.000Z",
-          "wordCount": 4758,
-          "title": "Fallout 76 players can finally travel beyond Appalachia in today's The Pitt update",
-          "imageUrl": "https://assets.reedpopcdn.com/fallout-76-the-pitt-trailer-still.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fallout-76-the-pitt-trailer-still.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-state-of-play-september-2022-live-report",
-          "author": "Martin Robinson",
-          "description": "The fun and games leading up to this weekend's Tokyo Game Show continue with PlayStation's State of Play - 20 minutes of news and reveals that may well contain a few surprises. Watch along with us live from 11pm BST. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-state-of-play-september-2022-live-report",
-          "publishedOn": "2022-09-13T19:34:55.000Z",
-          "wordCount": 6419,
-          "title": "PlayStation State of Play September 2022 live report",
-          "imageUrl": "https://assets.reedpopcdn.com/playstation-state-of-play-new-cropped-hed-1274806.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation-state-of-play-new-cropped-hed-1274806.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/discord-voice-chat-support-is-now-available-for-all-xbox-one-and-series-xs-users",
-          "author": "Matt Wales",
-          "description": "Following a period of Xbox Insider testing announced earlier this year, Microsoft has officially launched Discord voice chat support for all Xbox One and Xbox Series X/S users.\r\n\n\r\nAs of today, anyone on either console will be able to connect directly to Discord Voice chats in order to talk with their friends, wherever they may be. The actual process required to do so, though, is a little convoluted, and first demands that users link their Xbox account to their Discord account - a process that'll need to be redone if done previously, so new permissions needed for voice chat on Xbox can be confirmed.\r\n\n\r\nWith that step complete, you'll next need to make sure you have the Xbox mobile app installed on your phone, and that you console is linked to the app. That done, fire up Discord on either your mobile device or desktop and join the Voice call you want to transfer to Xbox. From here, select the transfer call option, which will automatically open the Xbox mobile app.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/discord-voice-chat-support-is-now-available-for-all-xbox-one-and-series-xs-users",
-          "publishedOn": "2022-09-13T18:37:27.000Z",
-          "wordCount": 4530,
-          "title": "Discord voice chat support is now available for all Xbox users",
-          "imageUrl": "https://assets.reedpopcdn.com/xbox-discord-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-discord-header.jpg"
         }
       ]
     },
