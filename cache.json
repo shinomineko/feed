@@ -97,6 +97,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/10/interview-with-signals-new-president.html",
+          "author": null,
+          "description": "<p>Long and interesting <a href=\"https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china\">interview</a> with Signal&#8217;s new president, Meredith Whittaker:</p>\n<blockquote><p>WhatsApp uses the Signal encryption protocol to provide encryption for its messages. That was absolutely a visionary choice that Brian and his team led back in the day ­- and big props to them for doing that. But you can&#8217;t just look at that and then stop at message protection. WhatsApp does not protect metadata the way that Signal does. Signal knows nothing about who you are. It doesn&#8217;t have your profile information and it has introduced group encryption protections. We don&#8217;t know who you are talking to or who is in the membership of a group. It has gone above and beyond to minimize the collection of metadata...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/10/interview-with-signals-new-president.html",
+          "publishedOn": "2022-10-20T11:47:42.000Z",
+          "wordCount": 847,
+          "title": "Interview with Signal’s New President",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/10/museum-security.html",
           "author": null,
           "description": "<p>Interesting <a href=\"https://www.theatlantic.com/ideas/archive/2022/10/van-gogh-tomato-soup-national-gallery-london/671764/\">interview</a>:</p>\n<blockquote><p>Banks don&#8217;t take millions of dollars and put them in plastic bags and hang them on the wall so everybody can walk right up to them. But we do basically the same thing in museums and hang the assets right out on the wall. So it&#8217;s our job, then, to either use technology or develop technology that protects the art, to hire honest guards that are trainable and able to meet the challenge and alert and so forth. And we have to keep them alert because it&#8217;s the world&#8217;s most boring job. It might be great for you to go to a museum and see it for a day, but they stand in that same gallery year after year, and so they get mental fatigue. And so we have to rotate them around and give them responsibilities that keep them stimulated and keep them fresh...</p></blockquote>",
@@ -485,16 +495,6 @@
           "wordCount": 4333,
           "title": "Blog: Kubernetes 1.25: CustomResourceDefinition Validation Rules Graduate to Beta",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/09/21/kubernetes-1-25-use-secrets-while-expanding-csi-volumes-on-node-alpha/",
-          "author": null,
-          "description": "Author: Humble Chirammal (Red Hat), Louis Koo (deeproute.ai)\nKubernetes v1.25, released earlier this month, introduced a new feature\nthat lets your cluster expand storage volumes, even when access to those\nvolumes requires a secret (for example: a credential for accessing a SAN fabric)\nto perform node expand operation. This new behavior is in alpha and you\nmust enable a feature gate (CSINodeExpandSecret) to make use of it.\nYou must also be using CSI\nstorage; this change isn't relevant to storage drivers that are built in to Kubernetes.\nTo turn on this new, alpha feature, you enable the CSINodeExpandSecret feature\ngate for the kube-apiserver and kubelet, which turns on a mechanism to send secretRef\nconfiguration as part of NodeExpansion by the CSI drivers thus make use of\nthe same to perfor…",
-          "link": "https://kubernetes.io/blog/2022/09/21/kubernetes-1-25-use-secrets-while-expanding-csi-volumes-on-node-alpha/",
-          "publishedOn": "2022-09-21T00:00:00.000Z",
-          "wordCount": 3986,
-          "title": "Blog: Kubernetes 1.25: Use Secrets for Node-Driven Expansion of CSI Volumes",
-          "imageUrl": null
         }
       ]
     },
@@ -566,6 +566,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/cyberpunk-edgerunners-was-a-standalone-work-confirms-producer",
+          "author": "Ed Nightingale",
+          "description": "The producer of Cyberpunk Edgerunners (and CD Projekt Red's Japan country manager) Satoru Honma has confirmed that the anime is a \"standalone work\".\r\n\n\r\nIn an interview with Famitsu (reported by PushSquare), Honma stated that a second season was not in the works.\r\n\r\n\n\r\n\"I personally would like to continue to work with Japanese studios to produce more anime in the future, partly because we have received very good feedback. However, just to be clear, Cyberpunk: Edgerunners was planned as a standalone work, so there's no such thing as 'we are actually working on Season 2 in the background',\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cyberpunk-edgerunners-was-a-standalone-work-confirms-producer",
+          "publishedOn": "2022-10-20T12:00:50.000Z",
+          "wordCount": 4399,
+          "title": "Cyberpunk: Edgerunners was a \"standalone work\", confirms producer",
+          "imageUrl": "https://assets.reedpopcdn.com/edgerunners.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/edgerunners.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/disney-dreamlight-valleys-scar-update-adds-new-area-halloween-vibes",
+          "author": "Tom Phillips",
+          "description": "The first major update for Disney Dreamlight Valley is now live, bringing with it Lion King villain Scar and a new underground mine area in your village's Sunlit Plateau area.\r\n\n\r\nScar's arrival lets you hang out with the British-voiced baddie and extend Dreamlight's overall narrative - which has you trying to puzzle out why its eponymous valley has fallen into ruin.\r\n\n\r\nTo get started with Scar, you'll just need to head over to the giant skull in the elephant graveyard - which has now opened up to reveal a fresh lair.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/disney-dreamlight-valleys-scar-update-adds-new-area-halloween-vibes",
+          "publishedOn": "2022-10-20T11:38:42.000Z",
+          "wordCount": 4420,
+          "title": "Disney Dreamlight Valley's Scar update adds new area, Halloween vibes",
+          "imageUrl": "https://assets.reedpopcdn.com/ddv_update1_screenshot_SS_2_thumbnail_0a30f3365e.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ddv_update1_screenshot_SS_2_thumbnail_0a30f3365e.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/halo-infinites-winter-update-may-make-the-game-worth-revisiting",
+          "author": "Victoria Kennedy",
+          "description": "343 has laid out its plans for Halo Infinite's upcoming Winter Update, which is due to go live on 8th November.\r\n\n\r\nThis free update will add the long-awaited campaign network co-op mode, as well as the official launch of the game's Forge beta (in case you missed it, some have already got their hands on it and have been creating some truly impressive reimaginings of games such as Ocarina of Time and PT within). \r\n\n\r\nIn the campaign's upcoming co-op mode, you will be able to have a whirl around Halo Infinite's story with up to three other fellow Spartans. This will also be supported with the Mission Replay feature (finally), and 343 has revealed there will now be another 24 achievements to unlock in the game. As a reminder, this is not the local split-screen co-op, which the developer previously announced it had cancelled altogether.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-infinites-winter-update-may-make-the-game-worth-revisiting",
+          "publishedOn": "2022-10-20T11:36:45.000Z",
+          "wordCount": 4560,
+          "title": "Halo Infinite's Winter Update may make the game worth revisiting",
+          "imageUrl": "https://assets.reedpopcdn.com/winter-update-halo-i.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/winter-update-halo-i.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/devil-may-cry-5-sales-pass-6m-copies",
+          "author": "Ed Nightingale",
+          "description": "Devil May Cry 5 has now sold over 6m copies.\r\n\n\r\nThe news comes three and a half years after its initial release across PS4, Xbox One and PC in 2019.\r\n\n\r\nSince then it was re-released as Devil May Cry 5: Special Edition on Xbox Series X/S and PlayStation 5 in November 2020.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/devil-may-cry-5-sales-pass-6m-copies",
+          "publishedOn": "2022-10-20T11:34:12.000Z",
+          "wordCount": 4362,
+          "title": "Devil May Cry 5 sales pass 6m copies",
+          "imageUrl": "https://assets.reedpopcdn.com/devil_may_cry_5_xbox_gamescom_sale_games_pass.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/devil_may_cry_5_xbox_gamescom_sale_games_pass.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/neo-the-world-ends-with-you-now-available-on-steam",
+          "author": "Ed Nightingale",
+          "description": "Square Enix has surprise released Neo: The World Ends With You on Steam.\r\n\n\r\nThe game originally came out on the Switch, PS4, and PC (via Epic) last year.\r\n\n\r\nTo celebrate, it has a 25 percent discount on the Steam Store until 25th October.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/neo-the-world-ends-with-you-now-available-on-steam",
+          "publishedOn": "2022-10-20T11:03:04.000Z",
+          "wordCount": 4339,
+          "title": "Neo: The World Ends With You now available on Steam",
+          "imageUrl": "https://assets.reedpopcdn.com/ss_50728a2c796c5eb7f11d3ef61b7564a71b264bfe.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_50728a2c796c5eb7f11d3ef61b7564a71b264bfe.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/silent-hill-f-announced-from-resident-evil-reverse-developer",
           "author": "Victoria Kennedy",
