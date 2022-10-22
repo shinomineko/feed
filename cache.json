@@ -855,16 +855,6 @@
           "wordCount": 4087,
           "title": "Blog: Kubernetes 1.25: Kubernetes In-Tree to CSI Volume Migration Status Update",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/",
-          "author": null,
-          "description": "Authors: Joe Betz (Google), Cici Huang (Google), Kermit Alexander (Google)\nIn Kubernetes 1.25, Validation rules for CustomResourceDefinitions (CRDs) have graduated to Beta!\nValidation rules make it possible to declare how custom resources are validated using the Common Expression Language (CEL). For example:\napiVersion: apiextensions.k8s.io/v1\nkind: CustomResourceDefinition\n ...\n openAPIV3Schema:\n type: object\n properties:\n spec:\n type: object\n x-kubernetes-validations:\n - rule: \"self.minReplicas <= self.replicas && self.replicas <= self.maxReplicas\"\n message: \"replicas should be in the range minReplicas..maxReplicas.\"\n properties:\n replicas:\n type: integer\n ...\n\n\nValidation rules support a wide range of use cases. To get a sense of some of the capabilities, let's look at a few examples:\nV…",
-          "link": "https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 4333,
-          "title": "Blog: Kubernetes 1.25: CustomResourceDefinition Validation Rules Graduate to Beta",
-          "imageUrl": null
         }
       ]
     },
@@ -926,6 +916,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/star-wars-eclipse-will-reportedly-focus-on-an-athletic-30-something-and-a-member-of-a-human-like-race",
+          "author": "Vikki Blake",
+          "description": "A new report hints that Quantic Dream's upcoming Star Wars game, Star Wars Eclipse, will feature a \"athletic 30-something and a member of a human-like race\" female lead and introduce a brand-new race into Star Wars canon. \r\n\n“Materials seen\" by podcast Sacred Symbols (£) talk of \"Project S\" which allegedly includes \"some sort of empire called The Zaraan, a race not seen in Star Wars before\".\r\n\n\"Sarah is described as an athletic 30-something and is a member of a human-like race. This race is at the lead of some sort of empire called The Zaraan, a race not seen in Star Wars before,\" Sacred Symbols revealed (as transcribed by VGC). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/star-wars-eclipse-will-reportedly-focus-on-an-athletic-30-something-and-a-member-of-a-human-like-race",
+          "publishedOn": "2022-10-22T12:13:59.000Z",
+          "wordCount": 4729,
+          "title": "Star Wars Eclipse will reportedly focus on an \"athletic 30-something and a member of a human-like race\"",
+          "imageUrl": "https://assets.reedpopcdn.com/Star-Wars-Eclipse.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Star-Wars-Eclipse.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dead-by-daylight-is-coming-to-pubg-spin-off-mobile-game-new-state-mobile",
+          "author": "Vikki Blake",
+          "description": "Dead by Daylight is coming to PUBG spin-off mobile game, New State Mobile.\r\n\nNew State's October update includes a \"large-scale collaboration\" with the fan-favourite asymmetrical horror Dead by Daylight which will launch 26th October - \"just in time for Halloween\" - and coincide with the mobile title's first anniversary event. \r\n\n\"The collaboration’s theme, Fright for Survival, emphasises the Halloween spirit while focusing on each game’s core survival themes,\" developer Krafton explains. \"The video thrillingly portrays the special hide and seek game mode, which takes place in Paradiso on the new Akinta map. Starting Oct. 26, additional short form content will also be released to celebrate Halloween\". You can check out the spooky action below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-by-daylight-is-coming-to-pubg-spin-off-mobile-game-new-state-mobile",
+          "publishedOn": "2022-10-22T11:48:01.000Z",
+          "wordCount": 4654,
+          "title": "Dead by Daylight is coming to PUBG spin-off mobile game, New State Mobile",
+          "imageUrl": "https://assets.reedpopcdn.com/2022_NEW_STATE_MOILE_DBD_Collab_Keyart.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/2022_NEW_STATE_MOILE_DBD_Collab_Keyart.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/dorfromantik-gets-japan-inspired-sakura-biome-and-controller-support-on-pc",
           "author": "Matt Wales",

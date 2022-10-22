@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T06:28:46.656Z</updated>
+    <updated>2022-10-22T12:29:25.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Star Wars Eclipse will reportedly focus on an "athletic 30-something and a member of a human-like race"]]></title>
+        <id>https://www.eurogamer.net/star-wars-eclipse-will-reportedly-focus-on-an-athletic-30-something-and-a-member-of-a-human-like-race</id>
+        <link href="https://www.eurogamer.net/star-wars-eclipse-will-reportedly-focus-on-an-athletic-30-something-and-a-member-of-a-human-like-race"/>
+        <updated>2022-10-22T12:13:59.000Z</updated>
+        <summary type="html"><![CDATA[A new report hints that Quantic Dream's upcoming Star Wars game, Star Wars Eclipse, will feature a "athletic 30-something and a member of a human-like race" female lead and introduce a brand-new race into Star Wars canon. 
+
+“Materials seen" by podcast Sacred Symbols (£) talk of "Project S" which allegedly includes "some sort of empire called The Zaraan, a race not seen in Star Wars before".
+
+"Sarah is described as an athletic 30-something and is a member of a human-like race. This race is at the lead of some sort of empire called The Zaraan, a race not seen in Star Wars before," Sacred Symbols revealed (as transcribed by VGC). 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead by Daylight is coming to PUBG spin-off mobile game, New State Mobile]]></title>
+        <id>https://www.eurogamer.net/dead-by-daylight-is-coming-to-pubg-spin-off-mobile-game-new-state-mobile</id>
+        <link href="https://www.eurogamer.net/dead-by-daylight-is-coming-to-pubg-spin-off-mobile-game-new-state-mobile"/>
+        <updated>2022-10-22T11:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Dead by Daylight is coming to PUBG spin-off mobile game, New State Mobile.
+
+New State's October update includes a "large-scale collaboration" with the fan-favourite asymmetrical horror Dead by Daylight which will launch 26th October - "just in time for Halloween" - and coincide with the mobile title's first anniversary event. 
+
+"The collaboration’s theme, Fright for Survival, emphasises the Halloween spirit while focusing on each game’s core survival themes," developer Krafton explains. "The video thrillingly portrays the special hide and seek game mode, which takes place in Paradiso on the new Akinta map. Starting Oct. 26, additional short form content will also be released to celebrate Halloween". You can check out the spooky action below.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VMware bug with 9.8 severity rating exploited to install witch’s brew of malware]]></title>
         <id>https://arstechnica.com/?p=1892156</id>
@@ -3346,37 +3378,6 @@ The Kubernetes in-tree storage plugin to Container Storage Interface (CSI) migra
 Since then, SIG Storage and other Kubernetes special interest groups are working to ensure feature stability and compatibility in preparation for CSI Migration feature to go GA.
 SIG Storage is excited to announce that the core CSI Migration feature is generally available in Kubernetes v1.25 release!
 SIG Storage wrote a blog post in v1.23 for CSI Migration status update which discussed the CSI migration status for each storage driver. It has been a while and this article is intended to give a latest status update on each storage driver for their CSI Migration status in Ku…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.25: CustomResourceDefinition Validation Rules Graduate to Beta]]></title>
-        <id>https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/</id>
-        <link href="https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/"/>
-        <updated>2022-09-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Joe Betz (Google), Cici Huang (Google), Kermit Alexander (Google)
-In Kubernetes 1.25, Validation rules for CustomResourceDefinitions (CRDs) have graduated to Beta!
-Validation rules make it possible to declare how custom resources are validated using the Common Expression Language (CEL). For example:
-apiVersion: apiextensions.k8s.io/v1
-kind: CustomResourceDefinition
- ...
- openAPIV3Schema:
- type: object
- properties:
- spec:
- type: object
- x-kubernetes-validations:
- - rule: "self.minReplicas <= self.replicas && self.replicas <= self.maxReplicas"
- message: "replicas should be in the range minReplicas..maxReplicas."
- properties:
- replicas:
- type: integer
- ...
-
-
-Validation rules support a wide range of use cases. To get a sense of some of the capabilities, let's look at a few examples:
-V…]]></summary>
         <author>
             <name>Kubernetes – Production-Grade Container Orchestration</name>
         </author>
