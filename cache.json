@@ -127,6 +127,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/10/critical-vulnerability-in-open-ssl.html",
+          "author": null,
+          "description": "<p>There are no details yet, but it&#8217;s really important that you <a href=\"https://www.zdnet.com/article/openssl-warns-of-critical-security-vulnerability-with-upcoming-patch/\">patch</a> Open SSL 3.x when the new version comes out on Tuesday.</p>\n<blockquote><p>How bad is &#8220;Critical&#8221;? According to OpenSSL, an issue of <a href=\"https://www.openssl.org/policies/general/security-policy.html\">critical severity</a> affects common configurations and is also likely exploitable. </p>\n<p>It&#8217;s likely to be abused to disclose server memory contents, and potentially reveal user details, and could be easily exploited remotely to compromise server private keys or execute code execute remotely. In other words, pretty much everything you don&#8217;t want happening on your production systems...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/10/critical-vulnerability-in-open-ssl.html",
+          "publishedOn": "2022-10-28T13:12:50.000Z",
+          "wordCount": 637,
+          "title": "Critical Vulnerability in Open SSL",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/10/australia-increases-fines-for-massive-data-breaches.html",
           "author": null,
           "description": "<p>After suffering <a href=\"https://www.abc.net.au/news/2022-10-25/medibank-breach-ahm-osch-cyber-attack-data-what-to-do/101574200\">two</a> large, and embarrassing, data breaches in recent weeks, the Australian government <a href=\"https://www.abc.net.au/news/2022-10-21/data-breach-fines-increase-after-medibank-optus-hacks/101564614\">increased</a> the fine for serious data breaches from $2.2 million to a minimum of $50 million. (That&#8217;s $50 million AUD, or $32 million USD.)</p>\n<p>This is a welcome change. The problem is one of incentives, and Australia has now increased the incentive for companies to secure the personal data or their users and customers.</p>",
@@ -283,6 +293,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1893667",
+          "author": "Beth Mole",
+          "description": "It's unclear if her defense will include putting keys and forks on people's faces.",
+          "link": "https://arstechnica.com/?p=1893667",
+          "publishedOn": "2022-10-28T17:09:50.000Z",
+          "wordCount": 1736,
+          "title": "Doc who thinks vaccinated people are magnetic is in big trouble with med board",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/tenpenny-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1893580",
+          "author": "Kevin Purdy",
+          "description": "Deep inside Google, a signed update makes the smartwatch 64-bit-Android ready.",
+          "link": "https://arstechnica.com/?p=1893580",
+          "publishedOn": "2022-10-28T16:27:34.000Z",
+          "wordCount": 1523,
+          "title": "Pebble, the OG smartwatch that may never die, updated to work with Pixel 7",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/pebble2_7-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1893495",
+          "author": "Kyle Orland",
+          "description": "Nearly four times the price definitely doesn’t mean nearly four times the quality.",
+          "link": "https://arstechnica.com/?p=1893495",
+          "publishedOn": "2022-10-28T15:38:36.000Z",
+          "wordCount": 1729,
+          "title": "Meta Quest Pro review: For those with more money than sense",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/HMD_withDockControllers-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1893613",
+          "author": "Jon Brodkin",
+          "description": "Musk previously called the Trump ban \"morally wrong and flat-out stupid.\"",
+          "link": "https://arstechnica.com/?p=1893613",
+          "publishedOn": "2022-10-28T15:26:25.000Z",
+          "wordCount": 1691,
+          "title": "Report: Musk names himself Twitter CEO and intends to reverse Trump ban",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-musk-twitter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1893167",
+          "author": "Doug Johnson",
+          "description": "Cities where US embassies installed air monitors saw improved air quality.",
+          "link": "https://arstechnica.com/?p=1893167",
+          "publishedOn": "2022-10-28T15:00:22.000Z",
+          "wordCount": 1832,
+          "title": "US embassies may have accidentally improved air quality",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1333807348-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1893539",
+          "author": "Undark Magazine",
+          "description": "After 19 years of work, Juan Gilbert says he has invented the most secure voting machine.",
+          "link": "https://arstechnica.com/?p=1893539",
+          "publishedOn": "2022-10-28T14:16:36.000Z",
+          "wordCount": 1691,
+          "title": "A scientist’s quest for an accessible, unhackable voting machine",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/voting-machine-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1893470",
+          "author": "Dan Goodin",
+          "description": "Misconfigured CLDAP services on MS domain controllers are amplifying data floods.",
+          "link": "https://arstechnica.com/?p=1893470",
+          "publishedOn": "2022-10-28T13:09:13.000Z",
+          "wordCount": 1645,
+          "title": "Meet the Windows servers that have been fueling massive DDoSes for months",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/server-ddos-storm-surge-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1893213",
           "author": "Eric Berger",
@@ -1597,6 +1677,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/midnight-suns-adding-deadpool-venom-morbius-and-storm-as-paid-post-launch-dlc",
+          "author": "Matt Wales",
+          "description": "Firaxis' Marvel-themed strategy game Midnight Suns will be adding the likes of Venom, Morbius, and Storm as paid DLC starting in early 2023.\r\n\n\r\nMarvel's Midnight Suns, if you're unfamiliar, draws inspiration from the Midnight Sons comic book run of the mid-90s to deliver a superhero strategy game blending turn-based combat, card-battling, and Fire-Emblem-style relationship building. At launch on 2nd December, it'll include 12 playable heroes, ranging from the immediately familiar - think the Avengers and X-Men - to perhaps lesser-known characters from the likes of the Runaways.\r\n\n\r\nHowever, publisher 2K has now confirmed Midnight Suns' roster will begin to expand in early 2023, when Deadpool joins the line-up as premium DLC. Deadpool arrives in the first of four planned DLC packs - all included in a season pass or available to purchase individually - with each one adding a new hero (plus their respective abilities), new story missions, upgrades for the Abbey, plus new skins and outfits.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/midnight-suns-adding-deadpool-venom-morbius-and-storm-as-paid-post-launch-dlc",
+          "publishedOn": "2022-10-28T16:15:34.000Z",
+          "wordCount": 4509,
+          "title": "Midnight Suns adding Deadpool, Venom, Morbius, and Storm as paid post-launch DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/midnight-suns-deadpool.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/midnight-suns-deadpool.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sega-is-aiming-to-create-a-super-game-by-march-2026",
+          "author": "Ed Nightingale",
+          "description": "Sega is aiming to create a \"Super Game\" by the fiscal year ending March 2026.\r\n\n\r\nThat's according to the company's latest report, which lays out its medium-term plan.\r\n\r\n\n\r\nIt's not clear exactly what this \"Super Game\" could be, but Sega has high hopes for its existing and past IPs, including Sonic.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sega-is-aiming-to-create-a-super-game-by-march-2026",
+          "publishedOn": "2022-10-28T15:05:36.000Z",
+          "wordCount": 4504,
+          "title": "Sega is aiming to create a \"Super Game\" by March 2026",
+          "imageUrl": "https://assets.reedpopcdn.com/Sonic-Frontiers---TGS-Trailer-_-PS5-%26-PS4-Games-1-7-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Sonic-Frontiers---TGS-Trailer-_-PS5-%26-PS4-Games-1-7-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/xbox-announces-novembers-games-with-gold",
+          "author": "Victoria Kennedy",
+          "description": "Xbox has announced its next round of Games with Gold for November.\r\n\n\r\nTwo games will be available on Xbox One and Xbox Series X/S: Praetorians - HD Remaster and Dead End Job.\r\n\n\r\nXbox Live Gold members and Xbox Game Pass Ultimate members will have exclusive access to both of these games for a limited time, in addition to the usual benefits.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/xbox-announces-novembers-games-with-gold",
+          "publishedOn": "2022-10-28T14:50:23.000Z",
+          "wordCount": 4494,
+          "title": "Xbox announces November’s Games with Gold",
+          "imageUrl": "https://assets.reedpopcdn.com/dead-end-job-review.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dead-end-job-review.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-discord-integration-reported-to-go-ahead-in-march",
+          "author": "Liv Ngan",
+          "description": "PlayStation's full integration of Discord will reportedly happen in March next year.\r\n\nMentions of connecting to PlayStation Network accounts were spotted in the mobile app for Discord last week, which suggested the integration would be happening soon.\r\n\nHowever, sources speaking to Insider Gaming stated they expect the integration to be included as part of the PS5's 7.00 system update, which is currently scheduled for 8th March.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-discord-integration-reported-to-go-ahead-in-march",
+          "publishedOn": "2022-10-28T14:20:16.000Z",
+          "wordCount": 4312,
+          "title": "PlayStation Discord integration reported to go ahead in March",
+          "imageUrl": "https://assets.reedpopcdn.com/discord-is-gradually-rolling-out-on-playstation-integration-from-today-1643666372385.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/discord-is-gradually-rolling-out-on-playstation-integration-from-today-1643666372385.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/modern-warfare-2s-grand-prix-map-is-back-with-a-different-name",
+          "author": "Ishraq Subhan",
+          "description": "Call of Duty: Modern Warfare 2's Grand Prix-inspired multiplayer map makes a return in the game's release build, after being mysteriously wiped from social media following its announcement earlier this year. \r\n\n\r\nThe map, initially called Marina Bay Grand Prix, was announced back in August during the Call of Duty (eSports) League Championship Weekend and was seemingly inspired by the Marina Bay Street Circuit in Singapore.\r\n\n\r\nBut in September, any mention of the map was purged from all of Call of Duty and Infinity Ward's social media accounts, as well as any trailers on its YouTube channel. The map was also missing during the multiplayer open beta. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/modern-warfare-2s-grand-prix-map-is-back-with-a-different-name",
+          "publishedOn": "2022-10-28T14:09:14.000Z",
+          "wordCount": 4660,
+          "title": "Modern Warfare 2's Grand Prix map is back with a different name",
+          "imageUrl": "https://assets.reedpopcdn.com/MW2-8996.JPG/BROK/thumbnail/1600x900/format/jpg/quality/80/MW2-8996.JPG"
+        },
+        {
+          "id": "https://www.eurogamer.net/bayonetta-physical-copies-will-be-restocked-later-this-year-on-nintendo-store",
+          "author": "Ed Nightingale",
+          "description": "Physical copies of the first Bayonetta game will be \"restocked later this year\" on the Nintendo Store after selling out almost instantly.\r\n\n\r\nThe game originally arrived on Switch in digital form only accompanying Bayonetta 2, but a physical edition was promised this year exclusive to the Nintendo Store.\r\n\n\r\nThis was then delayed from September to the \"first half of October\", but fans criticised the inability to pre-order in advance.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bayonetta-physical-copies-will-be-restocked-later-this-year-on-nintendo-store",
+          "publishedOn": "2022-10-28T13:45:22.000Z",
+          "wordCount": 4490,
+          "title": "Bayonetta physical copies will be \"restocked later this year\" on Nintendo Store",
+          "imageUrl": "https://assets.reedpopcdn.com/bayonetta_miiz5d7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bayonetta_miiz5d7.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fallout-gets-the-lego-treatment-thanks-to-dedicated-fan",
+          "author": "Victoria Kennedy",
+          "description": "One dedicated Fallout fan has created their own, playable, version of Bethesda's games out of Lego.\r\n\n\r\nMade by ThrillDaWill (via PCGamesN), this project, known as L3go Fallout, is truly a sight to behold. It comes with its own character creator and, of course, a wasteland to explore. \r\n\n\r\nIn ThrillDaWill's words: \"This fan-made project combines two of the best things! Stepping on legos with your bare feet, and endless bugs and glitches!!\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fallout-gets-the-lego-treatment-thanks-to-dedicated-fan",
+          "publishedOn": "2022-10-28T13:29:34.000Z",
+          "wordCount": 4468,
+          "title": "Fallout gets the Lego treatment thanks to dedicated fan",
+          "imageUrl": "https://assets.reedpopcdn.com/lego-fallout.png/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-fallout.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/hitman-3s-roguelike-freelancer-mode-unveiled",
+          "author": "Ed Nightingale",
+          "description": "Hitman 3's roguelike mode Freelancer has been unveiled in a new video from IO Interactive.\r\n\n\r\nThe mode is set for release on 26th January next year, though a closed technical test will begin from 3rd November until 7th November - details are on the latest IOI blog.\r\n\r\n\n\r\nThe developer has released an in-depth video detailing exactly how the gameplay of Freelancer works, check it out below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/hitman-3s-roguelike-freelancer-mode-unveiled",
+          "publishedOn": "2022-10-28T12:31:01.000Z",
+          "wordCount": 4531,
+          "title": "Hitman 3's roguelike Freelancer mode unveiled",
+          "imageUrl": "https://assets.reedpopcdn.com/Freelancer_KeyArt_01-1024x576.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Freelancer_KeyArt_01-1024x576.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/microsoft-misses-xbox-game-pass-growth-target-for-second-year-running",
           "author": "Ed Nightingale",
@@ -3714,6 +3874,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=68231",
+          "author": "Michelle Mannering",
+          "description": "Hackatoberfest, hackathons, and open source contributions. It’s been a hectic month with so many community pull requests to all kinds of projects. So many in fact that we had to spend hours going through all the submissions for this blog post. We almost didn’t get it out before the end of October. Nevertheless, we are […]",
+          "link": "https://github.blog/2022-10-28-release-radar-sept-2022/",
+          "publishedOn": "2022-10-28T18:00:17.000Z",
+          "wordCount": 1871,
+          "title": "Release Radar · September 2022 Edition",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/10/September-2022.jpg?fit=1200%2C630"
+        },
         {
           "id": "https://github.blog/?p=68178",
           "author": "Laura Lindeman",
