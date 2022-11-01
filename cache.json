@@ -137,6 +137,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/11/irans-digital-surveillance-tools-leaked.html",
+          "author": null,
+          "description": "<p>It&#8217;s Iran&#8217;s turn to have its <a href=\"https://theintercept.com/2022/10/28/iran-protests-phone-surveillance/\">digital surveillance tools leaked</a>:</p>\n<blockquote><p>According to these internal documents, SIAM is a computer system that works behind the scenes of Iranian cellular networks, providing its operators a broad menu of remote commands to alter, disrupt, and monitor how customers use their phones. The tools can slow their data connections to a crawl, break the encryption of phone calls, track the movements of individuals or large groups, and produce detailed metadata summaries of who spoke to whom, when, and where. Such a system could help the government invisibly quash the ongoing protests ­&#8212;or those of tomorrow ­&#8212;an expert who reviewed the SIAM documents told The Intercept...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/11/irans-digital-surveillance-tools-leaked.html",
+          "publishedOn": "2022-11-01T11:24:22.000Z",
+          "wordCount": 755,
+          "title": "Iran’s Digital Surveillance Tools Leaked",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/10/apple-only-commits-to-patching-latest-os-version.html",
           "author": null,
           "description": "<p>People have suspected this for a while, but Apple has made it official. It <a href=\"https://support.apple.com/guide/deployment/about-software-updates-depc4c80847a/web\">only</a> commits to fully patching the latest version of its OS, even though it claims to support older versions.</p>\n<p>From <a href=\"https://arstechnica.com/gadgets/2022/10/apple-clarifies-security-update-policy-only-the-latest-oses-are-fully-patched/\">ArsTechnica</a>:</p>\n<blockquote><p>In other words, while Apple will provide security-related updates for older versions of its operating systems, only the most recent upgrades will receive updates for every security problem Apple knows about. Apple currently provides security updates to macOS 11 Big Sur and macOS 12 Monterey alongside the newly released <a href=\"https://arstechnica.com/gadgets/2022/10/macos-13-ventura-the-ars-technica-review/\">macOS Ventura</a>, and in the past, it has released security updates for older iOS versions for devices that can&#8217;t install the latest upgrades...</p></blockquote>",
@@ -323,6 +333,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1891674",
+          "author": "Ron Amadeo",
+          "description": "Today Google realizes it needs to fight iMessage, but it's 8 years too late.",
+          "link": "https://arstechnica.com/?p=1891674",
+          "publishedOn": "2022-11-01T10:00:33.000Z",
+          "wordCount": 1960,
+          "title": "RIP Google Hangouts, Google’s last, best chance to compete with iMessage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/20-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1894147",
           "author": "John Timmer",
@@ -1886,16 +1906,6 @@
           "wordCount": 4497,
           "title": "Blog: Introducing Kueue",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/10/03/userns-alpha/",
-          "author": null,
-          "description": "Authors: Rodrigo Campos (Microsoft), Giuseppe Scrivano (Red Hat)\nKubernetes v1.25 introduces the support for user namespaces.\nThis is a major improvement for running secure workloads in\nKubernetes. Each pod will have access only to a limited subset of the\navailable UIDs and GIDs on the system, thus adding a new security\nlayer to protect from other pods running on the same system.\nHow does it work?\nA process running on Linux can use up to 4294967296 different UIDs and\nGIDs.\nUser namespaces is a Linux feature that allows mapping a set of users\nin the container to different users in the host, thus restricting what\nIDs a process can effectively use.\nFurthermore, the capabilities granted in a new user namespace do not\napply in the host initial namespaces.\nWhy is it important?\nThere are mainly t…",
-          "link": "https://kubernetes.io/blog/2022/10/03/userns-alpha/",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 3366,
-          "title": "Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces",
-          "imageUrl": null
         }
       ]
     },
@@ -1957,6 +1967,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/microsoft-loses-up-to-200-on-each-xbox-console-sold",
+          "author": "Ed Nightingale",
+          "description": "Microsoft loses up to $200 on each Xbox console it sells.\r\n\n\r\nIn an interview with CNBC, Xbox head Phil Spencer admitted its Xbox Series X/S consoles are sold at a loss, with the expectation that revenue will be made up elsewhere on accessories and games.\r\n\r\n\n\r\nThat's $100 lost on the $499 Series X, and $200 on the smaller $299 Series S.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-loses-up-to-200-on-each-xbox-console-sold",
+          "publishedOn": "2022-11-01T12:15:55.000Z",
+          "wordCount": 4432,
+          "title": "Microsoft loses up to $200 on each Xbox console sold",
+          "imageUrl": "https://assets.reedpopcdn.com/XSX_XSS_Design_HERO.png/BROK/thumbnail/1600x900/format/jpg/quality/80/XSX_XSS_Design_HERO.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/sega-valve-naughty-dog-celebrate-halloween-with-video-game-pumpkin-carvings",
+          "author": "Liv Ngan",
+          "description": "With Halloween behind us, the spooky season is now winding down as we enter November.\nTo celebrate, developers and fans alike joined in the annual festivity of pumpkin carving.\nHere's some of the delightfully devilish designs we've seen over the weekend!\n Read more",
+          "link": "https://www.eurogamer.net/sega-valve-naughty-dog-celebrate-halloween-with-video-game-pumpkin-carvings",
+          "publishedOn": "2022-11-01T12:12:33.000Z",
+          "wordCount": 4675,
+          "title": "Sega, Valve, Naughty Dog celebrate Halloween with video game pumpkin carvings",
+          "imageUrl": "https://assets.reedpopcdn.com/new-ac-halloween-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/new-ac-halloween-header.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fortnites-latest-star-wars-collaboration-adds-luke-skywalker-leia-and-han",
+          "author": "Tom Phillips",
+          "description": "Fortnite is hosting a Star Wars week, and introducing skins for Luke Skywalker, Leia Organa and Han Solo alongside a range of classic trilogy-themed acessories.\r\n\n\r\nEach of the three skins includes multiple designs based on costumes worn throughout the original trilogy - so, Luke in his white farmhand tunic but also his darker Return of the Jedi look, while Leia rocks her bounty hunter disguise as well as her iconic ear buns.\r\n\n\r\nThe game's ever-popular Lightsaber weapons are back, as is the return of Darth Vader and various Stormtroopers to defeat. In a nice touch, the Junk Rift item (which plummets an object onto a specific location, squashing anyone below it) can now drop Luke's landspeeder.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fortnites-latest-star-wars-collaboration-adds-luke-skywalker-leia-and-han",
+          "publishedOn": "2022-11-01T11:47:20.000Z",
+          "wordCount": 4516,
+          "title": "Fortnite's latest Star Wars collaboration adds Luke Skywalker, Leia and Han",
+          "imageUrl": "https://assets.reedpopcdn.com/Star-Wars-Skywalker-Week---Luke-Skywalker-Cosmetic-Set.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Star-Wars-Skywalker-Week---Luke-Skywalker-Cosmetic-Set.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-disables-family-sharing-on-steam",
+          "author": "Victoria Kennedy",
+          "description": "The option to use Steam's family sharing function with Call of Duty: Modern Warfare 2 has been disabled. \r\n\n\r\nAn update last night removed this feature for the game. \r\n\n\r\nSteam's family sharing feature offers users exactly what you would expect. It allows players to share the games in their Steam library with their nearest and dearest. They can then go on to earn their own achievements and save any progress made in a shared game on the Steam Cloud.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-disables-family-sharing-on-steam",
+          "publishedOn": "2022-11-01T11:33:56.000Z",
+          "wordCount": 4429,
+          "title": "Call of Duty: Modern Warfare 2 disables family sharing on Steam",
+          "imageUrl": "https://assets.reedpopcdn.com/family-share-is-gone-on-MW2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/family-share-is-gone-on-MW2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sackboy-a-big-adventure-has-weak-start-on-pc",
+          "author": "Ed Nightingale",
+          "description": "Sackboy: A Big Adventure hasn't had a big start on Steam.\r\n\n\r\nOriginally released on PlayStation consoles in November 2020 (launch window for PS5), the game arrived on PC via Steam last week on 27th October.\r\n\n\r\nHowever, so far it's highest concurrent player peak is just 610 players, according to SteamDB.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sackboy-a-big-adventure-has-weak-start-on-pc",
+          "publishedOn": "2022-11-01T11:29:11.000Z",
+          "wordCount": 4379,
+          "title": "Sackboy: A Big Adventure has weak start on PC",
+          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-sackboy-a-big-adventure-tech-analysis-1606471837915.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-sackboy-a-big-adventure-tech-analysis-1606471837915.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-plus-subscriber-numbers-down-by-2m-despite-revamp",
+          "author": "Tom Phillips",
+          "description": "The number of people subscribed to PlayStation Plus has dropped by two million over the past year, despite Sony's big summer revamp of the service and the launch of several new pricing tiers.\r\n\n\r\nPlayStation Plus had  45.4 million subscribers as of 30th September this year, down more than two million from the 47.2 million signed up at the same point in 2021.\r\n\n\r\nSony relaunched its PlayStation Plus subscription in June, when it split the service into three tiers and launched a Game Pass-style catalogue of games for those paying more. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-plus-subscriber-numbers-down-by-2m-despite-revamp",
+          "publishedOn": "2022-11-01T11:06:11.000Z",
+          "wordCount": 4439,
+          "title": "PlayStation Plus subscriber numbers down by 2m despite revamp",
+          "imageUrl": "https://assets.reedpopcdn.com/PlayStation-Plus-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/PlayStation-Plus-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/harvestella-is-first-square-enix-game-to-offer-non-binary-option-in-a-character-creator",
+          "author": "Ed Nightingale",
+          "description": "Square Enix's forthcoming farming sim Harvestella is the first of the publisher's games to offer a non-binary gender option in a character creator. \r\n\n\r\nIt's still something of a rarity for major game developers to specifically include non-binary representation in addition to male and female. But for the Harvestella team, its inclusion feels \"completely normal\", producer Daisuke Taka told Eurogamer.\r\n\n\r\n\"I think it's completely normal these days for non-binary to be included in gender selection,\" Taka said. \n Read more",
+          "link": "https://www.eurogamer.net/harvestella-is-first-square-enix-game-to-offer-non-binary-option-in-a-character-creator",
+          "publishedOn": "2022-11-01T10:38:15.000Z",
+          "wordCount": 4586,
+          "title": "Harvestella is first Square Enix game to offer non-binary option in a character creator",
+          "imageUrl": "https://assets.reedpopcdn.com/harvestella-key-artwork.png/BROK/thumbnail/1600x900/format/jpg/quality/80/harvestella-key-artwork.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/looks-like-hbos-the-last-of-us-adaptation-debuts-in-january",
+          "author": "Victoria Kennedy",
+          "description": "It looks like The Last of Us TV adaptation will be premiering as soon as 15th January.\r\n\n\r\nThere have been numerous reports of the show's release date popping up on HBO Max's homepage. These have been verified by Eurogamer.\r\n\n\r\nFor now, the date is currently only visible to HBO account holders in the US. At the time of writing, the public HBO website still lists the show's release date as \"2023\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/looks-like-hbos-the-last-of-us-adaptation-debuts-in-january",
+          "publishedOn": "2022-11-01T10:35:27.000Z",
+          "wordCount": 4636,
+          "title": "Looks like HBO's The Last of Us adaptation debuts in January",
+          "imageUrl": "https://assets.reedpopcdn.com/horse-tlouhbo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/horse-tlouhbo.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/netflix-acquires-triple-town-and-cozy-grove-developer-spry-fox",
           "author": "Matt Wales",
