@@ -344,6 +344,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1895135",
+          "author": "Beth Mole",
+          "description": "The drug could be a useful new tool for treating childhood obesity.",
+          "link": "https://arstechnica.com/?p=1895135",
+          "publishedOn": "2022-11-03T22:42:42.000Z",
+          "wordCount": 1594,
+          "title": "Teens with obesity lose 15% of body weight in trial of repurposed diabetes drug",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/GettyImages-629405043-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1894732",
+          "author": "Jennifer Ouellette",
+          "description": "Another study found older, high-quality violins produce stronger combination tones",
+          "link": "https://arstechnica.com/?p=1894732",
+          "publishedOn": "2022-11-03T21:49:29.000Z",
+          "wordCount": 1714,
+          "title": "Fresh chemical clues emerge for the unique sound of Stradivari violins",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/stradTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1895013",
+          "author": "Benj Edwards",
+          "description": "OpenAI offers integrated AI image generation on a demand—for 2 cents an image.",
+          "link": "https://arstechnica.com/?p=1895013",
+          "publishedOn": "2022-11-03T21:02:59.000Z",
+          "wordCount": 1560,
+          "title": "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1894743",
+          "author": "Andrew Cunningham",
+          "description": "RDNA 3 GPUs will use many chiplets to counter Nvidia's gigantic RTX 4000 series.",
+          "link": "https://arstechnica.com/?p=1894743",
+          "publishedOn": "2022-11-03T21:00:20.000Z",
+          "wordCount": 2448,
+          "title": "AMD’s next-gen Radeon RX 7900 XTX and 7900 XT launch December 13, start at $999",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/AMD-Radeon-RX-7900-XTX_10-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1894938",
+          "author": "Ars Staff",
+          "description": "It’s not nearly as vomit-inducing as you’d think.",
+          "link": "https://arstechnica.com/?p=1894938",
+          "publishedOn": "2022-11-03T19:58:42.000Z",
+          "wordCount": 2078,
+          "title": "In-car VR arrives for new Audis courtesy of Holoride",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/adding_thrill_to_every_ride-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1894927",
+          "author": "Samuel Axon",
+          "description": "Streamer joins HBO, Disney, and others with its advertising plans.",
+          "link": "https://arstechnica.com/?p=1894927",
+          "publishedOn": "2022-11-03T19:14:54.000Z",
+          "wordCount": 1438,
+          "title": "Netflix’s ad-supported tier launches at $6.99—but there are compromises",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Stranger2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1894785",
+          "author": "Kevin Purdy",
+          "description": "190 devices are certified, but few are available just yet.",
+          "link": "https://arstechnica.com/?p=1894785",
+          "publishedOn": "2022-11-03T18:31:06.000Z",
+          "wordCount": 1321,
+          "title": "A realistic roundup of what today’s Matter launch means for your smart home",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nanoleaf-matter-hero-2-760x380.png"
+        },
+        {
           "id": "https://arstechnica.com/?p=1894799",
           "author": "Kyle Orland",
           "description": "\"Dad of Boy\" gives way to an uneven collection of Norse mythology fan fiction.",
@@ -2238,6 +2308,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/11/04/live-and-let-live-with-kluctl-and-ssa/",
+          "author": null,
+          "description": "Author: Alexander Block\nThis blog post was inspired by a previous Kubernetes blog post about\nAdvanced Server Side Apply.\nThe author of said blog post listed multiple benefits for applications and\ncontrollers when switching to server-side apply (from now on abbreviated with\nSSA). Especially the chapter about\nCI/CD systems\nmotivated me to respond and write down my thoughts and experiences.\nThese thoughts and experiences are the results of me working on Kluctl\nfor the past 2 years. I describe Kluctl as \"The missing glue to put together\nlarge Kubernetes deployments, composed of multiple smaller parts\n(Helm/Kustomize/...) in a manageable and unified way.\"\nTo get a basic understanding of Kluctl, I suggest to visit the kluctl.io\nwebsite and read through the documentation and tutorials, for exampl…",
+          "link": "https://kubernetes.io/blog/2022/11/04/live-and-let-live-with-kluctl-and-ssa/",
+          "publishedOn": "2022-11-04T00:00:00.000Z",
+          "wordCount": 4577,
+          "title": "Blog: Live and let live with Kluctl and Server Side Apply",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/10/20/advanced-server-side-apply/",
           "author": null,
           "description": "Author: Daniel Smith (Google)\nServer-side apply (SSA) has now\nbeen GA for a few releases, and I\nhave found myself in a number of conversations, recommending that people / teams\nin various situations use it. So I’d like to write down some of those reasons.\nObvious (and not-so-obvious) benefits of SSA\nA list of improvements / niceties you get from switching from various things to\nServer-side apply!\nVersus client-side-apply (that is, plain kubectl apply):\n\nThe system gives you conflicts when you accidentally fight with another\nactor over the value of a field!\nWhen combined with --dry-run, there’s no chance of accidentally running a\nclient-side dry run instead of a server side dry run.\nVersus hand-rolling patches:\n\nThe SSA patch format is extremely natural to write, with no weird syntax.\nIt’s …",
@@ -2317,6 +2397,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/frogwares-cthulhu-themed-sherlock-holmes-the-awakened-gets-first-gameplay-trailer",
+          "author": "Matt Wales",
+          "description": "Frogwares has shared a first gameplay trailer for its upcoming remake of Sherlock Holmes: The Awakened - the studio's Lovecraft-themed crossover from 2007 - alongside news that the project will be launching early next year.\r\n\n\r\nFrogwares revealed its plans for a \"full remake and substantial rewrite\" of The Awakened back in July, launching a Kickstarter campaign shortly after to secure additional funding to complete the game - a step the Ukranian studio said was necessary due to complications arising from Russia's ongoing invasion. \r\n\n\r\nSherlock Holmes: The Awakened, in its new guise, will rework the events of the original to serve as a continuation of the studio's young Sherlock arc, which began in last year's enjoyable Chapter One. As such, it'll follow a young Sherlock Holmes, along with his new acquaintance John Watson, on his first big case in London - an investigation soon leading to a Cthulhu-worshipping cult and other Lovecraft-inspired horrors.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/frogwares-cthulhu-themed-sherlock-holmes-the-awakened-gets-first-gameplay-trailer",
+          "publishedOn": "2022-11-03T23:16:46.000Z",
+          "wordCount": 4605,
+          "title": "Frogwares' Cthulhu-themed Sherlock Holmes: The Awakened gets first gameplay trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/sherlock-the-awakened.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sherlock-the-awakened.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/modern-warfare-2-composer-departs-blames-challenging-working-dynamic-with-audio-director",
+          "author": "Matt Wales",
+          "description": "Call of Duty: Modern Warfare 2 composer Sarah Schachner has revealed she'll no longer be writing music for the game or have any involvement in its soundtrack release, blaming an \"increasingly challenging\" working dynamic with the project's audio director.\r\n\n\r\nSchachner - whose extensive CV includes composing credits on the likes of Anthem, Assassin's Creed Valhalla, and Call of Duty: Infinite Warfare - was widely praised for her work on Call of Duty: Modern Warfare's soundtrack in 2019.\r\n\n\r\nSchachner returned for this year's Modern Warfare 2, but has now confirmed she won't be providing any further music for the title - or indeed Call of Duty: Warzone - as a result of seemingly insurmountable work concerns.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/modern-warfare-2-composer-departs-blames-challenging-working-dynamic-with-audio-director",
+          "publishedOn": "2022-11-03T22:26:17.000Z",
+          "wordCount": 4646,
+          "title": "Modern Warfare 2 composer departs, blames 'challenging working dynamic' with audio director",
+          "imageUrl": "https://assets.reedpopcdn.com/call-of-duty-modern-warfare-2-2022.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call-of-duty-modern-warfare-2-2022.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-everything-shown-during-day-of-the-devs-10th-anniversary-indie-showcase",
+          "author": "Matt Wales",
+          "description": "This year marks the tenth anniversary of Double Fine and iam8bit's Day of the Devs indie showcase, and organisers are celebrating that milestone this Saturday, 5th November, with a big in-person event. Ahead of that, though, we got a taste of some of the titles that'll be in attendance courtesy of a brand-new Day of the Devs livestream. You'll find everything that got an airing - some of it new, some of it not - detailed below, but if anything takes your fancy, it's worth checking out the livestream, which contains plenty of new footage from each game.\r\n\nMina the Hollower\n\n\r\nMina the Hollower is Shovel Knight developer Yacht Club Games' latest retro-inspired project, a challenging action-adventure RPG inspired by the Game Boy Colour. Landing somewhere between Link's Awakening and Bloodborne, it's \"a bone chilling new adventure\" starring a whip-wielding inventor mouse whose attacks are intentionally slow - meaning spacing and timing is crucial during combat. Mina also has a signature burrowing technique preventing her from being damaged when underground, and an upgrade system that requires collecting bones from defeated enemies to level up different skills. There's no release date for Mina the Hollower yet, but it's currently \"deep in development\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-everything-shown-during-day-of-the-devs-10th-anniversary-indie-showcase",
+          "publishedOn": "2022-11-03T21:14:46.000Z",
+          "wordCount": 5923,
+          "title": "Here's everything shown in Day of the Devs' 10th anniversary indie showcase",
+          "imageUrl": "https://assets.reedpopcdn.com/day-of-the-devs-10th-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/day-of-the-devs-10th-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/digitalfoundry-2022-amd-announces-7900-xtx-and-7900-xt-graphics-cards-with-fsr-3",
+          "author": "Will Judd",
+          "description": "AMD has revealed its first RDNA 3 graphics cards, the $1000 Radeon RX 7900 XTX and $900 RX 7900 XT. As the numbering scheme and price points indicate, these are high-end models designed to compete with Nvidia's RTX 4090 and 4080, but they come with more substantial changes than you might expect - including FSR 3, designed to counter Nvidia's DLSS 3 frame generation, and a brand new chiplet-based design.\r\n\n\r\nBefore we get into the features though, let's take a look at the cards themselves. The chiplet design breaks a traditional monolithic GPU into several interconnected sections. For RDNA 3, that's a single 5nm graphics compute die (GCD) that's 300mm² and six 6nm memory cache dies (MCDs) that are each 37mm². This design means that only the most critical areas need to be made with a cutting-edge 5nm process, helping to improve CPU yields, reducing costs and ultimately consumer prices. However, it also requires a fast interconnect between the different chips - which runs at 5.3TB/s here. This same chiplet approach worked brilliantly with Ryzen, transforming AMD from an also-run to a growing giant, so it'll be fascinating to see how it if works miracles in the GPU space too.\r\n\n\r\nEach of the dies are impressive in their own right. The memory cache die uses a 64-bit memory controller and a second-gen Infinity Cache, which combine to provide 2.7 times the peak bandwidth of RDNA2 designs. Meanwhile, the graphics compute die offers unified RDNA 3 compute units with hardware for stream processing, AI acceleration and RT. The design also decouples shader and front end clocks speed, with 2.3GHz for the former and 2.5GHz for the latter, which AMD says will result in a more efficient design - with up to 25 percent power savings in terms of shaders and 15 percent higher front-end clock frequency. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/digitalfoundry-2022-amd-announces-7900-xtx-and-7900-xt-graphics-cards-with-fsr-3",
+          "publishedOn": "2022-11-03T20:50:05.000Z",
+          "wordCount": 5333,
+          "title": "AMD announces 7900 XTX and 7900 XT graphics cards with FSR 3",
+          "imageUrl": "https://assets.reedpopcdn.com/AMD-Radeon-RX-7900-XTX_9.png/BROK/thumbnail/1600x900/format/jpg/quality/80/AMD-Radeon-RX-7900-XTX_9.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/eurogamer-newscast-who-will-buy-playstation-vr2",
+          "author": "Tom Phillips",
+          "description": "This week on the Eurogamer Newscast, we react to Sony's eye-opening announcement of its PlayStation VR2 pricing, alongside Eurogamer's resident VR superfan and advocate Ian Higton as a special guest.\r\n\nThe PSVR2 is a high-end device and it was never going to be cheap, but its £530 cost (£570 if you actually also want something to play) has placed it out of reach for many console players  - let alone those without a PS5 already. Of the many headset options available, Sony's was expected to be the most likely to attract a wider audience and grow the budding VR scene. But with that price, and a line-up of games you can mostly play elsewhere, why not choose another option - if you are interested in VR at all? \nEurogamer's Ed Nightingale and Ishraq Subhan join Ian and me as we discuss why the headset costs so much, what Sony could do to sweeten the deal, and what future we think PSVR2 now has at that price point.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eurogamer-newscast-who-will-buy-playstation-vr2",
+          "publishedOn": "2022-11-03T19:05:31.000Z",
+          "wordCount": 4356,
+          "title": "Who will buy PlayStation VR2?",
+          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
+        },
         {
           "id": "https://www.eurogamer.net/modern-warfare-2-gun-attachments-are-making-weapons-worse-players-say",
           "author": "Ishraq Subhan",
