@@ -384,16 +384,6 @@
           "wordCount": 2662,
           "title": "Recovering Passwords by Measuring Residual Heat",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/10/inserting-a-backdoor-into-a-machine-learning-system.html",
-          "author": null,
-          "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2210.00108\">ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks</a>, by Tim Clifford, Ilia Shumailov, Yiren Zhao, Ross Anderson, and Robert Mullins:</p>\n<blockquote><p><b>Abstract</b>: Early backdoor attacks against machine learning set off an arms race in attack and defence development. Defences have since appeared demonstrating some ability to detect backdoors in models or even remove them. These defences work by inspecting the training data, the model, or the integrity of the training procedure. In this work, we show that backdoors can be added during compilation, circumventing any safeguards in the data preparation and model training stages. As an illustration, the attacker can insert weight-based backdoors during the hardware compilation step that will not be detected by any training or data-preparation process. Next, we demonstrate that some backdoors, such as ImpNet, can only be reliably detected at the stage where they are inserted and removing them anywhere else presents a significant challenge. We conclude that machine-learning model security requires assurance of provenance along the entire technical pipeline, including the data, model architecture, compiler, and hardware specification...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/10/inserting-a-backdoor-into-a-machine-learning-system.html",
-          "publishedOn": "2022-10-11T12:18:01.000Z",
-          "wordCount": 1950,
-          "title": "Inserting a Backdoor into a Machine-Learning System",
-          "imageUrl": null
         }
       ]
     },
@@ -402,6 +392,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1896208",
+          "author": "Benj Edwards",
+          "description": "Version 4 offers greater detail and better compositions from simple prompts.",
+          "link": "https://arstechnica.com/?p=1896208",
+          "publishedOn": "2022-11-09T23:23:07.000Z",
+          "wordCount": 1820,
+          "title": "Midjourney turns heads with quality leap in new AI image generator version",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896428",
+          "author": "John Timmer",
+          "description": "Milestone is important for the company's road map, less critical for performance.",
+          "link": "https://arstechnica.com/?p=1896428",
+          "publishedOn": "2022-11-09T22:43:32.000Z",
+          "wordCount": 1987,
+          "title": "IBM pushes qubit count over 400 with new processor",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/52476285842_4627ecdedb_k-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896364",
+          "author": "Ashley Belanger",
+          "description": "Employees suing asked court to require Twitter to notify staff of lawsuit.",
+          "link": "https://arstechnica.com/?p=1896364",
+          "publishedOn": "2022-11-09T20:11:21.000Z",
+          "wordCount": 1754,
+          "title": "Twitter offering some laid-off staff only half what they’re owed, lawsuit says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1436815409-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896341",
+          "author": "Jonathan M. Gitlin",
+          "description": "Built in South Carolina, the seven-seat SUV should sell for under $80,000.",
+          "link": "https://arstechnica.com/?p=1896341",
+          "publishedOn": "2022-11-09T19:29:19.000Z",
+          "wordCount": 1613,
+          "title": "Volvo’s next electric vehicle is the new US-made EX90 SUV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/305701_Volvo_EX90-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896269",
+          "author": "Eric Berger",
+          "description": "Long marches into space will now complete their journey back on Earth.",
+          "link": "https://arstechnica.com/?p=1896269",
+          "publishedOn": "2022-11-09T19:16:58.000Z",
+          "wordCount": 1720,
+          "title": "China ditches expendable rocket plan for its Moon program",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1192965778-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896224",
+          "author": "Scharon Harding",
+          "description": "Apple says most M2- and M1-based computers only support 1 external monitor.",
+          "link": "https://arstechnica.com/?p=1896224",
+          "publishedOn": "2022-11-09T19:02:49.000Z",
+          "wordCount": 1754,
+          "title": "USB adapter claims to quadruple M2 and M1 Mac monitor support",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/listing-3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896273",
+          "author": "Ashley Belanger",
+          "description": "CISPE says Microsoft has shown no progress addressing anti-competitive practices.",
+          "link": "https://arstechnica.com/?p=1896273",
+          "publishedOn": "2022-11-09T18:22:59.000Z",
+          "wordCount": 1891,
+          "title": "Microsoft “irreparably damaging” EU’s cloud ecosystem, industry group claims",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1242261825-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896222",
+          "author": "Andrew Cunningham",
+          "description": "Most OSes do this kind of thing, but Windows remains uniquely pushy about it.",
+          "link": "https://arstechnica.com/?p=1896222",
+          "publishedOn": "2022-11-09T18:13:05.000Z",
+          "wordCount": 1670,
+          "title": "The sign-in menu is the latest frontier for Microsoft ads in Windows 11",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sign-in-ms-account-496x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896245",
+          "author": "Jon Brodkin",
+          "description": "\"I just killed it,\" Musk said after newly deployed Official labels disappeared.",
+          "link": "https://arstechnica.com/?p=1896245",
+          "publishedOn": "2022-11-09T18:08:42.000Z",
+          "wordCount": 1712,
+          "title": "Musk-led Twitter rolls out new “Official” tags, removes them hours later",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-musk-twitter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896235",
+          "author": "Samuel Axon",
+          "description": "You can disable the new sidebar, though.",
+          "link": "https://arstechnica.com/?p=1896235",
+          "publishedOn": "2022-11-09T17:56:19.000Z",
+          "wordCount": 1833,
+          "title": "Still using Gmail’s old design? Soon you’ll be forced to stop",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/IMG_2387-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1896199",
           "author": "Kevin Purdy",
@@ -2966,6 +3056,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-and-warzone-20s-season-1-includes-new-battle-pass-system-and-more",
+          "author": "Matt Wales",
+          "description": "Activision has shared a whole load of information on Call of Duty: Modern Warfare 2 and Warzone 2.0's first season ahead of its arrival next Wednesday, 16th November, including details of a major battle pass overhaul.\r\n\n\r\nDitching the linear level progression still used by most games, Call of Duty's new battle pass will adopt a system reminiscent of that seen in Fortnite, where players have more freedom in which battle pass items they can unlock and when.\r\n\n\r\nActivision's battle pass overhaul presents itself as a multi-sector map, with players able to unlock five items in each of its 20 sectors using earned Battle Token Tier skips. These tokens can either unlock more items within an already available sector or unlock adjacent sectors.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-and-warzone-20s-season-1-includes-new-battle-pass-system-and-more",
+          "publishedOn": "2022-11-10T00:03:10.000Z",
+          "wordCount": 4777,
+          "title": "Call of Duty: Modern Warfare 2 and Warzone 2.0's Season 1 includes new battle pass system and more",
+          "imageUrl": "https://assets.reedpopcdn.com/modern-warfare-2-infinty-ward.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modern-warfare-2-infinty-ward.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/american-truck-simulators-long-awaited-texas-expansion-arrives-next-week",
+          "author": "Matt Wales",
+          "description": "20 months after developer SCS announced American Truck Simulator was setting its sights on Texas as one of its next destinations, the long-in-the-works expansion finally has a release date and is coming to Steam next Tuesday, 15th November.\r\n\n\r\nTexas will be American Truck Simulator's 11th explorable state, joining California, Nevada, Arizona, New Mexico, Oregon, Washington, Utah, Idaho, Colorado, Wyoming, and Montana. It was confirmed to be in development last March, but SCS warned the expansion could be a long time coming given the sheer effort required to bring one of the US' largest states into the game.\r\n\n\r\nHowever, with Texas' arrival now less than a week away, SCS has given us our best look yet at the expansion's numerous familiar sights - its newly released  launch trailer featuring the likes of Austin, Houston, and a whole lot of countryside.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/american-truck-simulators-long-awaited-texas-expansion-arrives-next-week",
+          "publishedOn": "2022-11-09T22:33:21.000Z",
+          "wordCount": 4542,
+          "title": "American Truck Simulator's long-awaited Texas expansion out next week",
+          "imageUrl": "https://assets.reedpopcdn.com/american-truck-simulator-texas.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/american-truck-simulator-texas.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-everything-that-got-an-airing-in-nintendos-latest-indie-world-showcase",
+          "author": "Matt Wales",
+          "description": "Nintendo's latest Indie World Showcase is now over, and while it might have been regrettably devoid of any new Silksong details, it did at least reveal more of Sidebar Games' long-awaited Golf Story follow-up, Sports Story - alongside the surprise reveal that it's out in December.\r\n\n\r\nThere's a lot more where that came from though, with Nintendo choosing to highlight over 20 promising new indie titles heading to Switch before next summer is through - a few of which, such as the wonderful Rogue Legacy 2, are out today. Read on for the full round-up!\r\n\nVenba\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-everything-that-got-an-airing-in-nintendos-latest-indie-world-showcase",
+          "publishedOn": "2022-11-09T20:46:33.000Z",
+          "wordCount": 5965,
+          "title": "Here's everything that got an airing in Nintendo's latest Indie World Showcase",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo-indie-world_DDZ27gB.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo-indie-world_DDZ27gB.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/fired-disco-elysium-director-claims-new-owners-took-control-of-zaum-through-fraud",
           "author": "Tom Phillips",
