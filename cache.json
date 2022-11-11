@@ -363,16 +363,6 @@
           "wordCount": 5480,
           "title": "Digital License Plates",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/10/recovering-passwords-by-measuring-residual-heat.html",
-          "author": null,
-          "description": "<p>Researchers have used thermal cameras and ML guessing techniques to <a href=\"https://dl.acm.org/doi/pdf/10.1145/3563693\">recover passwords</a> from measuring the residual heat left by fingers on keyboards. From the abstract:</p>\n<blockquote><p>We detail the implementation of ThermoSecure and make a dataset of 1,500 thermal images of keyboards with heat traces resulting from input publicly available. Our first study shows that ThermoSecure successfully attacks 6-symbol, 8-symbol, 12-symbol, and 16-symbol passwords with an average accuracy of 92%, 80%, 71%, and 55% respectively, and even higher accuracy when thermal images are taken within 30 seconds. We found that typing behavior significantly impacts vulnerability to thermal attacks, where hunt-and-peck typists are more vulnerable than fast typists (92% vs 83% thermal attack success if performed within 30 seconds). The second study showed that the keycaps material has a statistically significant effect on the effectiveness of thermal attacks: ABS keycaps retain the thermal trace of users presses for a longer period of time, making them more vulnerable to thermal attacks, with a 52% average attack accuracy compared to 14% for keyboards with PBT keycaps...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/10/recovering-passwords-by-measuring-residual-heat.html",
-          "publishedOn": "2022-10-12T11:30:12.000Z",
-          "wordCount": 2662,
-          "title": "Recovering Passwords by Measuring Residual Heat",
-          "imageUrl": null
         }
       ]
     },
@@ -381,6 +371,136 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1896689",
+          "author": "Benj Edwards",
+          "description": "It's not fast, but it's free—and it runs locally on pocket-sized hardware.",
+          "link": "https://arstechnica.com/?p=1896689",
+          "publishedOn": "2022-11-10T23:13:53.000Z",
+          "wordCount": 1899,
+          "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sd_phone_hero_4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896624",
+          "author": "Samuel Axon",
+          "description": "The muting feature comes first to Android and iOS, later to desktop and the web.",
+          "link": "https://arstechnica.com/?p=1896624",
+          "publishedOn": "2022-11-10T22:56:46.000Z",
+          "wordCount": 1500,
+          "title": "Reddit now lets you mute subreddits you don’t like",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-reddit-icon-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896909",
+          "author": "Beth Mole",
+          "description": "Officials reportedly expect that more cases will be identified.",
+          "link": "https://arstechnica.com/?p=1896909",
+          "publishedOn": "2022-11-10T22:33:05.000Z",
+          "wordCount": 1931,
+          "title": "Measles outbreak erupts among unvaccinated children in Ohio daycare",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/02/132_lores-700x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896688",
+          "author": "Ron Amadeo",
+          "description": "Spotify is the first partner for Google Play's \"User Choice Billing.\"",
+          "link": "https://arstechnica.com/?p=1896688",
+          "publishedOn": "2022-11-10T22:06:58.000Z",
+          "wordCount": 1848,
+          "title": "Spotify is the first to launch non-Google Android billing in the US",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896853",
+          "author": "Andrew Cunningham",
+          "description": "New theme options and a better toggle for Efficiency mode are also in testing.",
+          "link": "https://arstechnica.com/?p=1896853",
+          "publishedOn": "2022-11-10T21:42:21.000Z",
+          "wordCount": 1561,
+          "title": "A search bar is among the Task Manager improvements in new Windows 11 build",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/task-manager-filter-1024x451-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896722",
+          "author": "Jon Brodkin",
+          "description": "Musk's rapid product launches may run afoul of mandates from FTC privacy decree.",
+          "link": "https://arstechnica.com/?p=1896722",
+          "publishedOn": "2022-11-10T21:20:34.000Z",
+          "wordCount": 1941,
+          "title": "Twitter security execs quit amid worries that Musk will violate FTC settlement",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/twitter-logo-broken-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896702",
+          "author": "John Timmer",
+          "description": "An image taken in 2010 captured the lensed supernova, but nobody noticed.",
+          "link": "https://arstechnica.com/?p=1896702",
+          "publishedOn": "2022-11-10T20:27:24.000Z",
+          "wordCount": 2078,
+          "title": "Single Hubble image captured supernova at three different times",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/image-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1894089",
+          "author": "Andrew Cunningham",
+          "description": "The removal of the headphone jack is the only new thing that's wrong with it.",
+          "link": "https://arstechnica.com/?p=1894089",
+          "publishedOn": "2022-11-10T20:08:12.000Z",
+          "wordCount": 1999,
+          "title": "Still the best tablet-laptop: Microsoft’s Surface Pro 9 review",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/IMG_0575-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896564",
+          "author": "Kevin Purdy",
+          "description": "Lawsuit claims Amazon and Apple benefited from fewer vendors, higher prices.",
+          "link": "https://arstechnica.com/?p=1896564",
+          "publishedOn": "2022-11-10T18:51:19.000Z",
+          "wordCount": 1805,
+          "title": "Apple and Amazon colluded to raise iPhone and iPad prices, class action claims",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1236198614-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896625",
+          "author": "Ashley Belanger",
+          "description": "Twitter’s new guard will be charged with checking Musk’s worst instincts.",
+          "link": "https://arstechnica.com/?p=1896625",
+          "publishedOn": "2022-11-10T18:34:12.000Z",
+          "wordCount": 1993,
+          "title": "Twitter’s new leaders charged with helping Musk execute “dumb things”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1244619223-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1895827",
+          "author": "Jennifer Ouellette",
+          "description": "It's the first time this kind of throwing behavior has been reported in octopuses.",
+          "link": "https://arstechnica.com/?p=1895827",
+          "publishedOn": "2022-11-10T18:15:17.000Z",
+          "wordCount": 1860,
+          "title": "Take that! Octopuses caught on camera vigorously throwing debris at each other",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/octopusLIST-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896574",
+          "author": "Scharon Harding",
+          "description": "Apple power meets Nintendo nostalgia.",
+          "link": "https://arstechnica.com/?p=1896574",
+          "publishedOn": "2022-11-10T18:11:45.000Z",
+          "wordCount": 1643,
+          "title": "Modder makes an Apple M1-powered Wii for retro gaming",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/listing-4-scaled-e1668101357653-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1896525",
+          "author": "Ron Amadeo",
+          "description": "Refunding years of purchases will be a logistics nightmare.",
+          "link": "https://arstechnica.com/?p=1896525",
+          "publishedOn": "2022-11-10T17:54:50.000Z",
+          "wordCount": 1907,
+          "title": "Google refunding three years of Stadia purchases starting this week",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/stadia-down-the-drain-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1896555",
           "author": "Jon Brodkin",
@@ -3125,6 +3245,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/evil-dead-the-game-and-dark-deity-are-next-weeks-free-epic-store-games",
+          "author": "Matt Wales",
+          "description": "Another Thursday means another glimpse ahead at the Epic Games Store's next set of weekly freebies, with Evil Dead: The Game and tactical turn-based RPG Dark Deity both now confirmed to be free from Thurday, 17th November.\r\n\n\r\nEvil Dead: The Game, which released as an Epic exclusive back in May, is developer Saber Interactive's spin on the asymmetrical multiplayer horror genre. It sees four human Survivors (picking from a range of familiar Evil Dead characters, armed with everything from chainsaws to boomsticks) roaming a spooky forest in search of artefacts, while a fifth player gives chase as one of four powerful demons - the Warlord, Puppeteer, Necromancer, or Plaguebringer, all able to command undead armies of their own.\r\n\n\r\nAnd it's good fun, effectively marrying the gleefully cartoonish horror of Sam Raimi's beloved franchise to a solidly entertaining multiplayer game. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/evil-dead-the-game-and-dark-deity-are-next-weeks-free-epic-store-games",
+          "publishedOn": "2022-11-10T22:47:31.000Z",
+          "wordCount": 4648,
+          "title": "Evil Dead: The Game and Dark Deity are next week's free Epic Store games",
+          "imageUrl": "https://assets.reedpopcdn.com/saber-interactives-evil-dead-the-game-has-been-delayed-into-next-year-1628202524092.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/saber-interactives-evil-dead-the-game-has-been-delayed-into-next-year-1628202524092.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/netflixs-animated-dragon-age-series-gets-a-december-release-date",
+          "author": "Matt Wales",
+          "description": "Dragon Age: Absolution, Netflix's latest stab at adapting a beloved video games series for the small screen, has a release date, with the six-part animated series airing from 9th December.\r\n\n\r\nAnnounced back in June, Dragon Age: Absolution takes place in Tevinter - the setting for developer BioWare's highly anticipated next video game instalment, Dragon Age Dreadwolf - and stars a cast of fresh faces, including protagonist Miriam.\r\n\n\r\n\"With great power at stake, a group of mages, fighters, and thieves goes head to head against a sinister force possessing a dangerous artifact,\" Netflix teases beneath its newly released Absolution trailer. \"Fear. Guilt. Pain. Can Miriam push aside her feelings to complete her mission - or will the trauma looming over her past finally catch up with her?\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflixs-animated-dragon-age-series-gets-a-december-release-date",
+          "publishedOn": "2022-11-10T19:57:14.000Z",
+          "wordCount": 4623,
+          "title": "Netflix's animated Dragon Age series gets a December release date",
+          "imageUrl": "https://assets.reedpopcdn.com/dragon-age-absolution-trailer-grab.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dragon-age-absolution-trailer-grab.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/battlefield-2042-coming-to-ea-play-and-game-pass-ultimate-with-season-3",
+          "author": "Matt Wales",
+          "description": "DICE has shared more on its future plans for Battlefield 2042, including the news it's coming to EA Play and Game Pass Ultimate when Season 3 launches in a \"few weeks\" time.\r\n\n\r\nThe studio made the announcement in its latest developer update, which highlights some of the new additions coming to Battlefield 2042 as part of Season 3 and beyond.\r\n\n\r\nSeason 3, which is yet to receive an official start date, includes a new multiplayer map, a new Specialist, new weapons - including Bad Company 2's XM8 and Battlefield 3's A-91 - plus a new Battle Pass. It'll also usher in map reworks for Manifest and Breakaway.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/battlefield-2042-coming-to-ea-play-and-game-pass-ultimate-with-season-3",
+          "publishedOn": "2022-11-10T19:33:36.000Z",
+          "wordCount": 4684,
+          "title": "Battlefield 2042 coming to EA Play and Game Pass Ultimate with Season 3",
+          "imageUrl": "https://assets.reedpopcdn.com/bf2042_ojtv1oJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bf2042_ojtv1oJ.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/netflixs-live-action-the-witcher-prequel-blood-origin-gets-new-trailer",
+          "author": "Matt Wales",
+          "description": "While we continue to wrestle with the fact Henry Cavill has whipped off his white Witcher wig for the very last time, Netflix is forging ever onward into the Witcherverse, this time with a new trailer for its upcoming live-action prequel Blood Origin.\r\n\n\r\nBlood Origin isn't Netflix's first Witcher prequel, of course; last year saw the streaming service release an animated movie called The Witcher: Nightmare of the Wolf, focusing on Geralt of Rivia's friend and mentor Vesemir.\r\n\n\r\nBlood Origin, though, goes some considerable way further back in the series' timeline, telling a story set 1,200 years before Geralt and the events we're familiar with from Polish author Andrzej Sapkowski's books, CD Projekt's games, and Netflix's existing TV show.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflixs-live-action-the-witcher-prequel-blood-origin-gets-new-trailer",
+          "publishedOn": "2022-11-10T18:21:23.000Z",
+          "wordCount": 4640,
+          "title": "Netflix's live-action The Witcher prequel Blood Origin gets new trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/witcher-blood-origin-trailer-grab.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher-blood-origin-trailer-grab.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/netflixs-the-witcher-prequel-blood-origin-gets-first-trailer",
           "author": "Matt Wales",
@@ -7174,16 +7334,6 @@
           "wordCount": 4359,
           "title": "Looks like Valve will sell Steam Deck startup videos",
           "imageUrl": "https://assets.reedpopcdn.com/steam_deck_valve.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam_deck_valve.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/two-unreleased-one-of-a-kind-never-digitised-nes-games-spotted-on-ebay",
-          "author": "Victoria Kennedy",
-          "description": "There are new eBay listings advertising two \"one-of-a-kind, never-digitised\" unreleased NES games. \r\n\n\r\nThe first of these games is Battlefields of Napoleon, and it includes all of its original packaging design (see below).\r\n\n\r\nThe second one, however, now this is where things get really interesting. \n Read more",
-          "link": "https://www.eurogamer.net/two-unreleased-one-of-a-kind-never-digitised-nes-games-spotted-on-ebay",
-          "publishedOn": "2022-10-12T12:11:58.000Z",
-          "wordCount": 4477,
-          "title": "Two unreleased \"one-of-a-kind, never-digitised\" NES games spotted on eBay",
-          "imageUrl": "https://assets.reedpopcdn.com/nes-ebay.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nes-ebay.jpg"
         }
       ]
     },
