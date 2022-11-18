@@ -145,6 +145,26 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/11/first-review-of-a-hackers-mind.html",
+          "author": null,
+          "description": "<p><i>Kirkus</i> <a href=\"https://www.kirkusreviews.com/book-reviews/bruce-schneier/a-hackers-mind-powerful/\">reviews</a> <i>A Hacker&#8217;s Mind</i>:</p>\n<blockquote><p>A cybersecurity expert examines how the powerful game whatever system is put before them, leaving it to others to cover the cost.</p>\n<p>Schneier, a professor at Harvard Kennedy School and author of such books as <i>Data and Goliath</i> and <i>Click Here To Kill Everybody</i>, regularly challenges his students to write down the first 100 digits of pi, a nearly impossible task­&#8212;but not if they cheat, concerning which he admonishes, &#8220;Don&#8217;t get caught.&#8221; Not getting caught is the aim of the hackers who exploit the vulnerabilities of systems of all kinds. Consider right-wing venture capitalist Peter Thiel, who located a hack in the tax code: &#8220;Because he was one of the founders of PayPal, he was able to use a $2,000 investment to buy 1.7 million shares of the company at $0.001 per share, turning it into $5 billion&#8212;all forever tax free.&#8221; It was perfectly legal&#8212;and even if it weren&#8217;t, the wealthy usually go unpunished. The author, a fluid writer and tech communicator, reveals how the tax code lends itself to hacking, as when tech companies like Apple and Google avoid paying billions of dollars by transferring profits out of the U.S. to corporate-friendly nations such as Ireland, then offshoring the “disappeared” dollars to Bermuda, the Caymans, and other havens. Every system contains trap doors that can be breached to advantage. For example, Schneier cites &#8220;the Pudding Guy,&#8221; who hacked an airline miles program by buying low-cost pudding cups in a promotion that, for $3,150, netted him 1.2 million miles and &#8220;lifetime Gold frequent flier status.&#8221; Since it was all within the letter if not the spirit of the offer, &#8220;the company paid up.&#8221; The companies often do, because they’re gaming systems themselves. &#8220;Any rule can be hacked,&#8221; notes the author, be it a religious dietary restriction or a legislative procedure. With technology, &#8220;we can hack more, faster, better,&#8221; requiring diligent monitoring and a demand that everyone play by rules that have been hardened against tampering...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/11/first-review-of-a-hackers-mind.html",
+          "publishedOn": "2022-11-18T18:08:04.000Z",
+          "wordCount": 1016,
+          "title": "First Review of A Hacker’s Mind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/11/successful-hack-of-time-triggered-ethernet.html",
+          "author": null,
+          "description": "<p>Time-triggered Ethernet (TTE) is used in spacecraft, basically to use the same hardware to process traffic with different timing and criticality. Researchers have <a href=\"https://arstechnica.com/information-technology/2022/11/researchers-break-security-guarantees-of-tte-networking-used-in-spacecraft/\">defeated it</a>:</p>\n<blockquote><p>On Tuesday, researchers <a href=\"https://web.eecs.umich.edu/~barisk/public/pcspoof.pdf\">published findings</a> that, for the first time, break TTE&#8217;s isolation guarantees. The result is PCspooF, an attack that allows a single non-critical device connected to a single plane to disrupt synchronization and communication between TTE devices on all planes. The attack works by exploiting a vulnerability in the TTE protocol. The work was completed by researchers at the University of Michigan, the University of Pennsylvania, and NASA&#8217;s Johnson Space Center...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/11/successful-hack-of-time-triggered-ethernet.html",
+          "publishedOn": "2022-11-18T15:04:41.000Z",
+          "wordCount": 909,
+          "title": "Successful Hack of Time-Triggered Ethernet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/11/failures-in-twitters-two-factor-authentication-system.html",
           "author": null,
           "description": "<p>Twitter is having <a href=\"https://www.wired.com/story/twitter-two-factor-sms-problems/\">intermittent problems</a> with its two-factor authentication system:</p>\n<blockquote><p>Not all users are having problems receiving SMS authentication codes, and those who rely on an authenticator app or physical authentication token to secure their Twitter account may not have reason to test the mechanism. But users have been self-reporting issues on Twitter since the weekend, and WIRED confirmed that on at least some accounts, authentication texts are hours delayed or not coming at all. The meltdown comes less than two weeks after Twitter <a href=\"https://www.wired.com/story/musk-layoffs-twitter-management/\">laid off about half of its workers...</a></p></blockquote>",
@@ -381,6 +401,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1898865",
+          "author": "Ashley Belanger",
+          "description": "Twitter advertisers pausing ads over brand safety, cybersecurity concerns.",
+          "link": "https://arstechnica.com/?p=1898865",
+          "publishedOn": "2022-11-18T16:20:15.000Z",
+          "wordCount": 1838,
+          "title": "Twitter mayhem, staff cuts have advertisers bailing on the platform",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1244360213-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898841",
+          "author": "Jon Brodkin",
+          "description": "Musk jokes through crisis, says record numbers \"logging in to see if Twitter is dead.\"",
+          "link": "https://arstechnica.com/?p=1898841",
+          "publishedOn": "2022-11-18T15:13:53.000Z",
+          "wordCount": 1679,
+          "title": "Twitter in chaos as employees accept Musk’s invitation to quit their jobs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/musk-twitter-grave-749x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898824",
+          "author": "Beth Mole",
+          "description": "\"We’re obviously not the only insulin company. But the tropes go on,\" he said.",
+          "link": "https://arstechnica.com/?p=1898824",
+          "publishedOn": "2022-11-18T13:53:10.000Z",
+          "wordCount": 1586,
+          "title": "Eli Lilly CEO says insulin tweet flap “probably” signals need to bring down cost",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1240697300-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898729",
+          "author": "WIRED",
+          "description": "After Elon Musk’s staff cuts, there are hardly any moderators left to talk to.",
+          "link": "https://arstechnica.com/?p=1898729",
+          "publishedOn": "2022-11-18T13:00:13.000Z",
+          "wordCount": 1563,
+          "title": "Twitter’s moderation system is in tatters",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/empty-office-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1895034",
+          "author": "Benj Edwards",
+          "description": "Oddly named console made up for its mistakes with infinite quirky charm.",
+          "link": "https://arstechnica.com/?p=1895034",
+          "publishedOn": "2022-11-18T13:00:08.000Z",
+          "wordCount": 2086,
+          "title": "10 years later, the Wii U is still deeply weird—and we love it",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/wii_u_hero_3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1897831",
+          "author": "Eric Berger",
+          "description": "\"The relevant incident will not affect the Chinese space station...\"",
+          "link": "https://arstechnica.com/?p=1897831",
+          "publishedOn": "2022-11-18T12:00:15.000Z",
+          "wordCount": 2074,
+          "title": "Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Artemis-1-Nov-16-2022-3334-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1898509",
           "author": "Jennifer Ouellette",
@@ -3806,6 +3886,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/11/18/upcoming-changes-in-kubernetes-1-26/",
+          "author": null,
+          "description": "Author: Frederico Muñoz (SAS)\nChange is an integral part of the Kubernetes life-cycle: as Kubernetes grows and matures, features may be deprecated, removed, or replaced with improvements for the health of the project. For Kubernetes v1.26 there are several planned: this article identifies and describes some of them, based on the information available at this mid-cycle point in the v1.26 release process, which is still ongoing and can introduce additional changes.\nThe Kubernetes API Removal and Deprecation process\nThe Kubernetes project has a well-documented deprecation policy for features. This policy states that stable APIs may only be deprecated when a newer, stable version of that same API is available and that APIs have a minimum lifetime for each stability level. A deprecated API is o…",
+          "link": "https://kubernetes.io/blog/2022/11/18/upcoming-changes-in-kubernetes-1-26/",
+          "publishedOn": "2022-11-18T00:00:00.000Z",
+          "wordCount": 4181,
+          "title": "Blog: Kubernetes Removals, Deprecations, and Major Changes in 1.26",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/11/04/live-and-let-live-with-kluctl-and-ssa/",
           "author": null,
           "description": "Author: Alexander Block\nThis blog post was inspired by a previous Kubernetes blog post about\nAdvanced Server Side Apply.\nThe author of said blog post listed multiple benefits for applications and\ncontrollers when switching to server-side apply (from now on abbreviated with\nSSA). Especially the chapter about\nCI/CD systems\nmotivated me to respond and write down my thoughts and experiences.\nThese thoughts and experiences are the results of me working on Kluctl\nfor the past 2 years. I describe Kluctl as \"The missing glue to put together\nlarge Kubernetes deployments, composed of multiple smaller parts\n(Helm/Kustomize/...) in a manageable and unified way.\"\nTo get a basic understanding of Kluctl, I suggest to visit the kluctl.io\nwebsite and read through the documentation and tutorials, for exampl…",
@@ -3886,6 +3976,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-player-gets-to-max-level-without-a-single-kill",
+          "author": "Ishraq Subhan",
+          "description": "Over the years we've seen some crazy challenges achieved in Call of Duty, from knife-only loadouts to insane killstreaks. \r\n\n\r\nBut YouTuber ThatFriendlyGuy has taken things to a whole new level. \r\n\n\r\nDescribing himself as an Escape from Tarkov Pacifist player, ThatFriendlyGuy decided to take on a new challenge. With the release of Modern Warfare 2, the YouTuber wanted to reach the max level of 55 without a single kill.   \r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-player-gets-to-max-level-without-a-single-kill",
+          "publishedOn": "2022-11-18T16:28:02.000Z",
+          "wordCount": 4607,
+          "title": "Call of Duty Modern Warfare 2 player gets to max level without a single kill",
+          "imageUrl": "https://assets.reedpopcdn.com/MW2-ZERO-KILLS-YT.png/BROK/thumbnail/1600x900/format/jpg/quality/80/MW2-ZERO-KILLS-YT.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-footstep-volume-quietly-increased-by-up-to-75",
+          "author": "Ishraq Subhan",
+          "description": "Call of Duty Modern Warfare's footstep volume has increased by up to 75 percent following the release of the Season One patch.\r\n\n\r\nAmong the many other major changes made to gameplay in Modern Warfare 2, audio design also got a major overhaul, and many players weren't happy. \r\n\n\r\nIn the beta, footsteps were incredibly loud, sometimes overwhelmingly so, that was it was hard to hear anything else. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-footstep-volume-quietly-increased-by-up-to-75",
+          "publishedOn": "2022-11-18T15:56:42.000Z",
+          "wordCount": 4651,
+          "title": "Call of Duty Modern Warfare 2 footstep volume quietly increased by up to 75%",
+          "imageUrl": "https://assets.reedpopcdn.com/mw2-best-guns-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mw2-best-guns-1.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/stray-has-cyberpuss-competition-in-gori-cuddly-carnage",
+          "author": "Ed Nightingale",
+          "description": "Move over Stray, there's another cyberpunk kitty in town.\r\n\n\r\nDescribed as a \"cuddly, ultraviolent skate-slasher\" on publisher Wired Productions' website, Gori: Cuddly Carnage certainly lives up to its name.\r\n\r\n\n\r\nYou can check out all the action in the trailer below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/stray-has-cyberpuss-competition-in-gori-cuddly-carnage",
+          "publishedOn": "2022-11-18T15:54:54.000Z",
+          "wordCount": 4489,
+          "title": "Stray has cyberpuss competition in Gori: Cuddly Carnage",
+          "imageUrl": "https://assets.reedpopcdn.com/Gori_-Cuddly-Carnage---Fast-And-Fur-ious-Trailer-_-PS5-%26-PS4-Games-0-8-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Gori_-Cuddly-Carnage---Fast-And-Fur-ious-Trailer-_-PS5-%26-PS4-Games-0-8-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/nvidia-served-with-lawsuit-over-rtx-4090-meltdowns",
+          "author": "Liv Ngan",
+          "description": "A class-action lawsuit has been filed against Nvidia over a component in its RTX 4090 cards which has been melting for some owners.\nThe part in questions is believed to be the 12VVHPWR power adadpters, which Nvidia claims it is still investigating the issue, nearly a month after the first cases of melting power adapters were reported by owners.\nThe lawsuit was filed on 11th November by Lucas Genova to the US District Court for the Northern District of California. It has been filed under \"other fraud\", which is defined as \"action primarily based on fraud relating to personal property that cannot be classified under any other nature of suit\" by the Administrative Office of the US Courts.\n Read more",
+          "link": "https://www.eurogamer.net/nvidia-served-with-lawsuit-over-rtx-4090-meltdowns",
+          "publishedOn": "2022-11-18T15:54:03.000Z",
+          "wordCount": 4489,
+          "title": "Nvidia served with lawsuit over RTX 4090 meltdowns",
+          "imageUrl": "https://assets.reedpopcdn.com/nvidia-geforce-rtx-4090-gpu.png/BROK/thumbnail/1600x900/format/jpg/quality/80/nvidia-geforce-rtx-4090-gpu.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/there-are-now-more-than-1000-species-of-pokemon",
+          "author": "Tom Phillips",
+          "description": "After 26 years and nine generations of Pokémon games, there are now more than 1000 distinct species of Pocket Monsters available to capture and battle.\r\n\n\r\nThat makes for one long Pokérap to name them all. \r\n\n\r\nToday marks the official launch date for Pokémon Scarlet and Violet, and with them another 140 distinct species for the franchise's overarching National Pokédex.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/there-are-now-more-than-1000-species-of-pokemon",
+          "publishedOn": "2022-11-18T15:18:18.000Z",
+          "wordCount": 4650,
+          "title": "There are now more than 1000 species of Pokémon",
+          "imageUrl": "https://assets.reedpopcdn.com/Pok%C3%A9mon-Scarlet-and-Pok%C3%A9mon-Violet-Announcement-Trailer-thumbnail-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Pok%C3%A9mon-Scarlet-and-Pok%C3%A9mon-Violet-Announcement-Trailer-thumbnail-2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/touching-god-of-war-ragnarok-tribute-honours-developer-who-passed-away-during-production",
+          "author": "Victoria Kennedy",
+          "description": "Sony Santa Monica left a truly heart-warming in-game tribute to a developer who passed away during God of War Ragnarök's production.\r\n\n\r\nPlease note, while this tribute is not integral to the main story, it does relate to one of the game's 'Favour' side-quests. If you are keen to avoid any spoilers, please refrain from reading further.\r\n\n\r\nAs players make their way around God of War Ragnarök's realms, they may notice love hearts adorning the environments. These hearts are connected to the Across the Realms side-quest. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/touching-god-of-war-ragnarok-tribute-honours-developer-who-passed-away-during-production",
+          "publishedOn": "2022-11-18T14:03:32.000Z",
+          "wordCount": 4834,
+          "title": "Touching God of War Ragnarök tribute honours developer who passed away during production",
+          "imageUrl": "https://assets.reedpopcdn.com/god-of-war-tribute.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-tribute.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-has-trademarked-an-uppercase-p",
+          "author": "Tom Phillips",
+          "description": "Can you still P freely? Not if you want to use this specific P, which this week has been trademarked by Microsoft. \r\n\n\r\nThe trademark listing, spotted by Aggiornamenti Lumia, describes Microsoft's P as \"a geometric design in the shape of an uppercase 'P' in gradient shades from green to blue\".\r\n\n\r\nWhy does Microsoft want this P in particular? Well, it's set to be used for computer software of some kind - the trademark itself covers various uses, including programs for \"visualising, animating, transforming, presenting and sharing data and other information\" as well as \"software development tools for the creation of computer software applications and mobile software applications\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-has-trademarked-an-uppercase-p",
+          "publishedOn": "2022-11-18T13:56:33.000Z",
+          "wordCount": 4433,
+          "title": "Microsoft has trademarked an uppercase P",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_WH3A3mX.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_WH3A3mX.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/player-becomes-uber-driver-thanks-to-call-of-duty-warzone-20s-proximity-chat",
+          "author": "Ishraq Subhan",
+          "description": "Call of Duty Warzone 2.0's proximity chat feature has led to some interesting interactions between players, but one has taken it to the next level. \r\n\n\r\nTikToker Ziccs has taken to roleplaying as an Uber driver, picking up players and driving them to a destination in Al Mazrah of their choosing (in return for in-game cash, of course). \n\r\nThe result is rather hilarious, with Ziccs later encountering one of his passengers in the Gulag. Tragically, Ziccs had eliminated his former customer and apologised for it. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/player-becomes-uber-driver-thanks-to-call-of-duty-warzone-20s-proximity-chat",
+          "publishedOn": "2022-11-18T12:51:52.000Z",
+          "wordCount": 4596,
+          "title": "Player role-plays Uber driver thanks to Call of Duty Warzone 2.0's proximity chat",
+          "imageUrl": "https://assets.reedpopcdn.com/cod-warzone-vehicles.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cod-warzone-vehicles.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/adorable-unused-goomba-designs-discovered-in-super-princess-peach-data",
+          "author": "Ed Nightingale",
+          "description": "Goombas are traditionally grumpy little gits in the Super Mario world - though you would be if you were repeatedly stomped on.\r\n\n\r\nYet unused graphics found in the data of DS game Super Princess Peach reveal that, at some point in development, goombas were given different emotions.\r\n\n\r\nAs shared in a tweet from Supper Mario Broth, several unused goomba designs have been discovered.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/adorable-unused-goomba-designs-discovered-in-super-princess-peach-data",
+          "publishedOn": "2022-11-18T12:30:07.000Z",
+          "wordCount": 4503,
+          "title": "Adorable unused goomba designs discovered in Super Princess Peach data",
+          "imageUrl": "https://assets.reedpopcdn.com/SI_NDS_SuperPrincessPeach_image1600w.png/BROK/thumbnail/1600x900/format/jpg/quality/80/SI_NDS_SuperPrincessPeach_image1600w.png"
+        },
         {
           "id": "https://www.eurogamer.net/blizzard-planning-significant-overwatch-2-changes-particularly-to-support-heroes-and-battle-pass",
           "author": "Victoria Kennedy",
