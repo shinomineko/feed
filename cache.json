@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2700/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/account_problems.png\" title=\"My password is just every Unicode codepoint concatenated into a single UTF-8 string.\" alt=\"My password is just every Unicode codepoint concatenated into a single UTF-8 string.\" />",
+          "link": "https://xkcd.com/2700/",
+          "publishedOn": "2022-11-18T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Account Problems",
+          "imageUrl": "https://imgs.xkcd.com/comics/account_problems_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2699/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/feature_comparison.png\" title=\"Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.\" alt=\"Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.\" />",
@@ -144,6 +154,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/11/friday-squid-blogging-squid-brains.html",
+          "author": null,
+          "description": "<p>Researchers have new evidence of how <a href=\"https://neurosciencenews.com/cephalopod-brain-21817/\">squid brains develop</a>:</p>\n<blockquote><p>Researchers from the FAS Center for Systems Biology describe how they used a new live-imaging technique to watch neurons being created in the embryo in almost real-time. They were then able to track those cells through the development of the nervous system in the retina. What they saw surprised them.</p>\n<p>The neural stem cells they tracked behaved eerily similar to the way these cells behave in vertebrates during the development of their nervous system.</p>\n<p>It suggests that vertebrates and cephalopods, despite diverging from each other 500 million years ago, not only are using similar mechanisms to make their big brains but that this process and the way the cells act, divide, and are shaped may essentially layout the blueprint required develop this kind of nervous system...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/11/friday-squid-blogging-squid-brains.html",
+          "publishedOn": "2022-11-18T22:12:08.000Z",
+          "wordCount": 881,
+          "title": "Friday Squid Blogging: Squid Brains",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/11/first-review-of-a-hackers-mind.html",
           "author": null,
@@ -383,16 +403,6 @@
           "wordCount": 1205,
           "title": "Adversarial ML Attack that Secretly Gives a Language Model a Point of View",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/10/interview-with-signals-new-president.html",
-          "author": null,
-          "description": "<p>Long and interesting <a href=\"https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china\">interview</a> with Signal&#8217;s new president, Meredith Whittaker:</p>\n<blockquote><p>WhatsApp uses the Signal encryption protocol to provide encryption for its messages. That was absolutely a visionary choice that Brian and his team led back in the day ­- and big props to them for doing that. But you can&#8217;t just look at that and then stop at message protection. WhatsApp does not protect metadata the way that Signal does. Signal knows nothing about who you are. It doesn&#8217;t have your profile information and it has introduced group encryption protections. We don&#8217;t know who you are talking to or who is in the membership of a group. It has gone above and beyond to minimize the collection of metadata...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/10/interview-with-signals-new-president.html",
-          "publishedOn": "2022-10-20T11:47:42.000Z",
-          "wordCount": 847,
-          "title": "Interview with Signal’s New President",
-          "imageUrl": null
         }
       ]
     },
@@ -401,6 +411,116 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1899005",
+          "author": "Benj Edwards",
+          "description": "Galactica language model generated convincing text about fact and nonsense alike.",
+          "link": "https://arstechnica.com/?p=1899005",
+          "publishedOn": "2022-11-18T23:30:45.000Z",
+          "wordCount": 1756,
+          "title": "New Meta AI demo writes racist and inaccurate scientific literature, gets pulled",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/robots_making_science-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898947",
+          "author": "Beth Mole",
+          "description": "Holmes is expected to appeal.",
+          "link": "https://arstechnica.com/?p=1898947",
+          "publishedOn": "2022-11-18T22:15:27.000Z",
+          "wordCount": 2056,
+          "title": "Elizabeth Holmes sentenced to 11.25 years in prison for Theranos fraud",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1244877957-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1899025",
+          "author": "Ashley Belanger",
+          "description": "ID.me said $414 billion was lost—10 times higher than feds' estimate.",
+          "link": "https://arstechnica.com/?p=1899025",
+          "publishedOn": "2022-11-18T21:10:33.000Z",
+          "wordCount": 1794,
+          "title": "ID.me lied to IRS about unemployment fraud, average wait times, House Dems say",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1385997237-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1899030",
+          "author": "John Timmer",
+          "description": "Sheet of atoms works similarly to silicon but has some unique properties.",
+          "link": "https://arstechnica.com/?p=1899030",
+          "publishedOn": "2022-11-18T20:51:54.000Z",
+          "wordCount": 1852,
+          "title": "Researchers build a working camera out of atomically thin semiconductors",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Screen-Shot-2022-11-18-at-3.31.12-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1899007",
+          "author": "Andrew Cunningham",
+          "description": "Update can be installed on both Founders Edition and third-party GeForce GPUs.",
+          "link": "https://arstechnica.com/?p=1899007",
+          "publishedOn": "2022-11-18T20:31:34.000Z",
+          "wordCount": 1530,
+          "title": "Nvidia releases RTX 4090 and 4080 firmware update to fix display output bug",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/rtx-4080-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1899006",
+          "author": "Jon Brodkin",
+          "description": "Musk email: \"Anyone who actually writes software, please report to the 10th floor.\"",
+          "link": "https://arstechnica.com/?p=1899006",
+          "publishedOn": "2022-11-18T19:59:13.000Z",
+          "wordCount": 1708,
+          "title": "Musk emails remaining Twitter staff to find “anyone who actually writes software”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-twitter-illustration-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898951",
+          "author": "Samuel Axon",
+          "description": "Graphical enhancements and a focus on varied input methods headline the port.",
+          "link": "https://arstechnica.com/?p=1898951",
+          "publishedOn": "2022-11-18T19:09:29.000Z",
+          "wordCount": 1744,
+          "title": "Sony’s Miles Morales was at least as good as Spider-Man, and now it’s on PC, too",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Miles-Morales-hero-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898958",
+          "author": "Jon Brodkin",
+          "description": "Map is better but not perfect—look up your address to see if there are mistakes.",
+          "link": "https://arstechnica.com/?p=1898958",
+          "publishedOn": "2022-11-18T18:54:07.000Z",
+          "wordCount": 1559,
+          "title": "FCC unveils big update to broadband map—and wants you to help correct errors",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898908",
+          "author": "Kyle Orland",
+          "description": "Atari 50's \"Vctr Sctr\" is an addictive love letter to a long-lost arcade era.",
+          "link": "https://arstechnica.com/?p=1898908",
+          "publishedOn": "2022-11-18T18:28:56.000Z",
+          "wordCount": 1932,
+          "title": "There’s a “new” Atari arcade game, and I can’t put it down",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/2022111812394600-C9E6FB319250D5F057A00A1B467DE8DA-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898883",
+          "author": "Jonathan M. Gitlin",
+          "description": "Hyundai's UX team studied the effect lighting color combinations have on mood.",
+          "link": "https://arstechnica.com/?p=1898883",
+          "publishedOn": "2022-11-18T17:47:24.000Z",
+          "wordCount": 1772,
+          "title": "The 2023 Hyundai Ioniq 6’s interior lighting might cheer you up",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Large-53024-2023IONIQ6-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1898851",
+          "author": "Jennifer Ouellette",
+          "description": "Targeted whole genome analysis strengthens case that he was a man named John Barber.",
+          "link": "https://arstechnica.com/?p=1898851",
+          "publishedOn": "2022-11-18T17:31:02.000Z",
+          "wordCount": 1752,
+          "title": "We now have a pretty good idea what the “Connecticut vampire” looked like",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/vampire1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1898865",
           "author": "Ashley Belanger",
@@ -3976,6 +4096,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/cooking-mama-ip-owner-wins-legal-battle-against-unauthorised-switch-release",
+          "author": "Matt Wales",
+          "description": "Cooking Mama IP owner Office Create Corp has revealed a court has ruled in its favour following a legal tussle with the publisher of Cooking Mama: Cookstar.\r\n\n\r\nCookstar has been embroiled in trouble ever since its release on Switch in March 2020, which saw it quickly disappear from Nintendo's eShop and physical stores - a move later revealed to be due to a licensing dispute between Office Create and publisher Planet Entertainment.\r\n\n\r\nOffice Create claimed Planet Entertainment had refused to correct what it saw as a \"wide range of deficiencies affecting the overall feel, quality and content of the game\" during development, despite being contractually obligated to do so, and had instead proceeded to release Cooking Mama: Cookstar without Office Create's approval.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cooking-mama-ip-owner-wins-legal-battle-against-unauthorised-switch-release",
+          "publishedOn": "2022-11-18T21:56:29.000Z",
+          "wordCount": 4725,
+          "title": "Cooking Mama IP owner wins legal case against \"unauthorised\" Switch release",
+          "imageUrl": "https://assets.reedpopcdn.com/cooking-mama-cookstar-publisher-in-hot-water-for-unauthorised-release-1586948869790.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cooking-mama-cookstar-publisher-in-hot-water-for-unauthorised-release-1586948869790.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/her-story-devs-acclaimed-hollywood-mystery-immortality-now-available-on-ios-and-android",
+          "author": "Matt Wales",
+          "description": "Immortality, the acclaimed investigative Hollywood mystery from Her Story developer Sam Barlow, is now available on iOS and Android via Netflix.\r\n\n\r\nImmortality tells the story of Marissa Marcel, a (fictional) actress who filmed three movies over the course of her career - Ambrosio in 1968, Minsky in 1970, and Two of Everything in 1999 - none of which were ever released.\r\n\n\r\nIt's up to players to find out what happened to Marcel, which, as in Barlow's previous games, involves slowly piecing together events by scouring through reams of FMV video. But while Her Story featured faux police interview footage and Telling Lies chose \"hacked\" webcam video as its medium of choice, Immortality asks players to dig through an archive of film and behind-the-scenes footage, using a machine resembling an old-fashioned Moviola editing device.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/her-story-devs-acclaimed-hollywood-mystery-immortality-now-available-on-ios-and-android",
+          "publishedOn": "2022-11-18T20:36:15.000Z",
+          "wordCount": 4517,
+          "title": "Her Story dev's Hollywood mystery Immortality now on iOS and Android",
+          "imageUrl": "https://assets.reedpopcdn.com/Immortality-images%2C-how-to-find-every-clip-in-Immortality-image-list.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Immortality-images%2C-how-to-find-every-clip-in-Immortality-image-list.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sea-of-thieves-gets-its-first-proper-port-town-and-pvp-on-demand-in-season-8",
+          "author": "Matt Wales",
+          "description": "Sea of Thieves' tides are a-turning once more, and next week's Season 8 promises to be a bonanza for battle-hardened pirates, delivering an impressively exhaustive new \"PvP on demand\" system that, among other things, will see ships diving beneath the waves.\r\n\n\r\nCore to Season 8 is a new faction system, enabling players to sign up to either the Pirate Lord's Guardians of Fortune or Flameheart's Servants of the Flame using the new Hourglass of Fate found on the Captain's Table of every ship.\r\n\n\r\nOnce active, players can either represent their faction simply by taking on any opposing crews they spot in the world, or they can use the war map to immediately begin matchmaking to find an equally skilled opposing crew. It's even possible to fight crews larger than your own if you're feeling particularly confident in your PvP abilities.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sea-of-thieves-gets-its-first-proper-port-town-and-pvp-on-demand-in-season-8",
+          "publishedOn": "2022-11-18T19:22:18.000Z",
+          "wordCount": 4896,
+          "title": "Sea of Thieves gets first proper port town and \"PvP on demand\" in Season 8",
+          "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-golden-sands-port.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-golden-sands-port.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-player-gets-to-max-level-without-a-single-kill",
           "author": "Ishraq Subhan",
@@ -8245,56 +8395,6 @@
           "wordCount": 4480,
           "title": "Fallout London mod removes ghoulish Royal Family members from development",
           "imageUrl": "https://assets.reedpopcdn.com/zombie-charles.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/zombie-charles.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/cyberpunk-edgerunners-was-a-standalone-work-confirms-producer",
-          "author": "Ed Nightingale",
-          "description": "The producer of Cyberpunk Edgerunners (and CD Projekt Red's Japan country manager) Satoru Honma has confirmed that the anime is a \"standalone work\".\r\n\n\r\nIn an interview with Famitsu (reported by PushSquare), Honma stated that a second season was not in the works.\r\n\r\n\n\r\n\"I personally would like to continue to work with Japanese studios to produce more anime in the future, partly because we have received very good feedback. However, just to be clear, Cyberpunk: Edgerunners was planned as a standalone work, so there's no such thing as 'we are actually working on Season 2 in the background',\" he said.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/cyberpunk-edgerunners-was-a-standalone-work-confirms-producer",
-          "publishedOn": "2022-10-20T12:00:50.000Z",
-          "wordCount": 4399,
-          "title": "Cyberpunk: Edgerunners was a \"standalone work\", confirms producer",
-          "imageUrl": "https://assets.reedpopcdn.com/edgerunners.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/edgerunners.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/disney-dreamlight-valleys-scar-update-adds-new-area-halloween-vibes",
-          "author": "Tom Phillips",
-          "description": "The first major update for Disney Dreamlight Valley is now live, bringing with it Lion King villain Scar and a new underground mine area in your village's Sunlit Plateau area.\r\n\n\r\nScar's arrival lets you hang out with the British-voiced baddie and extend Dreamlight's overall narrative - which has you trying to puzzle out why its eponymous valley has fallen into ruin.\r\n\n\r\nTo get started with Scar, you'll just need to head over to the giant skull in the elephant graveyard - which has now opened up to reveal a fresh lair.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/disney-dreamlight-valleys-scar-update-adds-new-area-halloween-vibes",
-          "publishedOn": "2022-10-20T11:38:42.000Z",
-          "wordCount": 4420,
-          "title": "Disney Dreamlight Valley's Scar update adds new area, Halloween vibes",
-          "imageUrl": "https://assets.reedpopcdn.com/ddv_update1_screenshot_SS_2_thumbnail_0a30f3365e.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ddv_update1_screenshot_SS_2_thumbnail_0a30f3365e.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-infinites-winter-update-may-make-the-game-worth-revisiting",
-          "author": "Victoria Kennedy",
-          "description": "343 has laid out its plans for Halo Infinite's upcoming Winter Update, which is due to go live on 8th November.\r\n\n\r\nThis free update will add the long-awaited campaign network co-op mode, as well as the official launch of the game's Forge beta (in case you missed it, some have already got their hands on it and have been creating some truly impressive reimaginings of games such as Ocarina of Time and PT within). \r\n\n\r\nIn the campaign's upcoming co-op mode, you will be able to have a whirl around Halo Infinite's story with up to three other fellow Spartans. This will also be supported with the Mission Replay feature (finally), and 343 has revealed there will now be another 24 achievements to unlock in the game. As a reminder, this is not the local split-screen co-op, which the developer previously announced it had cancelled altogether.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/halo-infinites-winter-update-may-make-the-game-worth-revisiting",
-          "publishedOn": "2022-10-20T11:36:45.000Z",
-          "wordCount": 4560,
-          "title": "Halo Infinite's Winter Update may make the game worth revisiting",
-          "imageUrl": "https://assets.reedpopcdn.com/winter-update-halo-i.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/winter-update-halo-i.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/devil-may-cry-5-sales-pass-6m-copies",
-          "author": "Ed Nightingale",
-          "description": "Devil May Cry 5 has now sold over 6m copies.\r\n\n\r\nThe news comes three and a half years after its initial release across PS4, Xbox One and PC in 2019.\r\n\n\r\nSince then it was re-released as Devil May Cry 5: Special Edition on Xbox Series X/S and PlayStation 5 in November 2020.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/devil-may-cry-5-sales-pass-6m-copies",
-          "publishedOn": "2022-10-20T11:34:12.000Z",
-          "wordCount": 4362,
-          "title": "Devil May Cry 5 sales pass 6m copies",
-          "imageUrl": "https://assets.reedpopcdn.com/devil_may_cry_5_xbox_gamescom_sale_games_pass.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/devil_may_cry_5_xbox_gamescom_sale_games_pass.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/neo-the-world-ends-with-you-now-available-on-steam",
-          "author": "Ed Nightingale",
-          "description": "Square Enix has surprise released Neo: The World Ends With You on Steam.\r\n\n\r\nThe game originally came out on the Switch, PS4, and PC (via Epic) last year.\r\n\n\r\nTo celebrate, it has a 25 percent discount on the Steam Store until 25th October.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/neo-the-world-ends-with-you-now-available-on-steam",
-          "publishedOn": "2022-10-20T11:03:04.000Z",
-          "wordCount": 4339,
-          "title": "Neo: The World Ends With You now available on Steam",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_50728a2c796c5eb7f11d3ef61b7564a71b264bfe.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_50728a2c796c5eb7f11d3ef61b7564a71b264bfe.jpg"
         }
       ]
     },
