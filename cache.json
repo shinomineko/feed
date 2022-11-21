@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/11/breaking-the-zeppelin-ransomware-encryption-scheme.html",
+          "author": null,
+          "description": "<p>Brian Krebs <a href=\"https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/\">writes</a> about how the Zeppelin ransomware encryption scheme was broken:</p>\n<blockquote><p>The researchers said their break came when they understood that while Zeppelin used three different types of encryption keys to encrypt files, they could undo the whole scheme by factoring or computing just one of them: An ephemeral RSA-512 public key that is randomly generated on each machine it infects.</p>\n<p>&#8220;If we can recover the RSA-512 Public Key from the registry, we can crack it and get the 256-bit AES Key that encrypts the files!&#8221; they wrote. &#8220;The challenge was that they delete the [public key] once the files are fully encrypted. Memory analysis gave us about a 5-minute window after files were encrypted to retrieve this public key.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/11/breaking-the-zeppelin-ransomware-encryption-scheme.html",
+          "publishedOn": "2022-11-21T12:08:58.000Z",
+          "wordCount": 858,
+          "title": "Breaking the Zeppelin Ransomware Encryption Scheme",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/11/friday-squid-blogging-squid-brains.html",
           "author": null,
           "description": "<p>Researchers have new evidence of how <a href=\"https://neurosciencenews.com/cephalopod-brain-21817/\">squid brains develop</a>:</p>\n<blockquote><p>Researchers from the FAS Center for Systems Biology describe how they used a new live-imaging technique to watch neurons being created in the embryo in almost real-time. They were then able to track those cells through the development of the nervous system in the retina. What they saw surprised them.</p>\n<p>The neural stem cells they tracked behaved eerily similar to the way these cells behave in vertebrates during the development of their nervous system.</p>\n<p>It suggests that vertebrates and cephalopods, despite diverging from each other 500 million years ago, not only are using similar mechanisms to make their big brains but that this process and the way the cells act, divide, and are shaped may essentially layout the blueprint required develop this kind of nervous system...</p></blockquote>",
@@ -3746,6 +3756,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ed-boon-seems-to-be-teasing-3d-era-characters-for-mortal-kombat-12",
+          "author": "Tom Phillips",
+          "description": "Mortal Kombat boss Ed Boon has teased a return for some of the series' 3D-era characters in the future, following previous hints at the under-wraps Mortal Kombat 12 being in development. \r\n\n\r\nBoon, who loves to tease fans via Twitter, wrote over the weekend that his next game would either be \"I3 or MK12\" - Injustice 3 or Mortal Kombat 12.\r\n\n\r\nResponding to a fan who asked why so few characters from the franchise's less-popular 3D-era are seen in recent games, Boon stated: \"That is something we will soon fix.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ed-boon-seems-to-be-teasing-3d-era-characters-for-mortal-kombat-12",
+          "publishedOn": "2022-11-21T12:16:17.000Z",
+          "wordCount": 4545,
+          "title": "Ed Boon seems to be teasing 3D-era characters for Mortal Kombat 12",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_tfAXD3C.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_tfAXD3C.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-trying-to-prevent-images-of-its-games-being-used-on-steam",
+          "author": "Ed Nightingale",
+          "description": "Nintendo has issued copyright strikes against SteamGridDB for images relating to its Switch games.\r\n\r\n\n\r\nThe site allows users to upload custom images for use in their Steam library. Most of these are alternate cover images to customise a game's appearance in the library, but it's also used when a cover image doesn't exist - typically when playing games through an emulator.\r\n\n\r\nThis is why Switch game images have appeared on the site, which has since received a DMCA takedown notice, Games Radar reported.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-trying-to-prevent-images-of-its-games-being-used-on-steam",
+          "publishedOn": "2022-11-21T12:08:14.000Z",
+          "wordCount": 4476,
+          "title": "Nintendo trying to prevent images of its games being used on Steam",
+          "imageUrl": "https://assets.reedpopcdn.com/pokemon-sv-keyart.png/BROK/thumbnail/1600x900/format/jpg/quality/80/pokemon-sv-keyart.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/xbox-series-s-cheapest-console-in-black-friday-deals",
+          "author": "Liv Ngan",
+          "description": "The all-digital Xbox Series S is currently the best console deal in the UK thanks to Black Friday deals. \nAs spotted by our pals over at Digital Foundry, both Amazon and Smyths are selling the Series S for £189.99, nearly a quarter off its usual price of £249.99.\nCompared to current-gen consoles and Nintendo Switch, that's quite a steal.\n Read more",
+          "link": "https://www.eurogamer.net/xbox-series-s-cheapest-console-in-black-friday-deals",
+          "publishedOn": "2022-11-21T11:38:38.000Z",
+          "wordCount": 4366,
+          "title": "Xbox Series S cheapest console in Black Friday deals",
+          "imageUrl": "https://assets.reedpopcdn.com/564971c9-4430-4fe2-a0e6-52b10d41cc45.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/564971c9-4430-4fe2-a0e6-52b10d41cc45.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-scarlet-and-violet-biggest-uk-physical-game-launch-of-year",
+          "author": "Victoria Kennedy",
+          "description": "Impressive physical sales in the UK have made Pokémon Scarlet and Violet the biggest boxed video game launch of the year. Previously, this accolade was held by FIFA 23.\r\n\n\r\nThis has also won Scarlet and Violet the title of being the UK's second biggest boxed Pokémon launch of all time. The biggest is still that of the 3DS's Sun and Moon (although, due to sale prices, charts firm GfK states Scarlet and Violet has generated more money than Sun and Moon did during its launch week). \r\n\n\r\nPer GamesIndustry.biz, the first week of sales for Scarlet and Violet (at least physically, as Nintendo does not share digital sales) are 25 percent bigger than those of Sword and Shield, 70 percent bigger than the Diamond and Pearl remakes and 56 percent bigger than this year's other big Pokémon offering, Arceus.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-scarlet-and-violet-biggest-uk-physical-game-launch-of-year",
+          "publishedOn": "2022-11-21T11:35:46.000Z",
+          "wordCount": 4621,
+          "title": "Pokémon Scarlet and Violet biggest UK physical game launch of year",
+          "imageUrl": "https://assets.reedpopcdn.com/lechonk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lechonk.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-honda-electric-cars-may-incorporate-playstation-5",
+          "author": "Ed Nightingale",
+          "description": "Sony and Honda are joining forces on new electric vehicles that could incorporate PlayStation 5 consoles.\r\n\n\r\nSony Honda Mobility was established in September and plans to build electric vehicles with entertainment like music, movies, and the PlayStation 5 in mind.\r\n\n\r\n\"Sony has content, services and entertainment technologies that move people. We are adapting these assets to mobility, and this is our strength against Tesla,\" president Izumi Kawanishi told the Financial Times (thanks TheGamer).\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-honda-electric-cars-may-incorporate-playstation-5",
+          "publishedOn": "2022-11-21T11:32:13.000Z",
+          "wordCount": 4409,
+          "title": "Sony Honda electric cars may incorporate PlayStation 5",
+          "imageUrl": "https://assets.reedpopcdn.com/sony-honda-vehicle.png/BROK/thumbnail/1600x900/format/jpg/quality/80/sony-honda-vehicle.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendos-internal-nx-logo-leaks-for-first-time",
+          "author": "Tom Phillips",
+          "description": "Remember the codename Nintendo \"NX\"? Before the Switch's official unveiling, these two letters were how Nintendo referred to its NeXt-generation console.\r\n\n\r\nThe NX name was used by Nintendo to refer to the Switch both internally and publicly, as the company began to drum up excitement for the Switch's unveiling. (And because in the Wii U era, there wasn't much else to get excited about.)\r\n\n\r\nBut here's one thing we never saw publicly: Nintendo's own internal NX logo used in early versions of games destined for the Switch.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendos-internal-nx-logo-leaks-for-first-time",
+          "publishedOn": "2022-11-21T11:31:06.000Z",
+          "wordCount": 4555,
+          "title": "Nintendo's internal NX logo leaks for first time",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/bungie-brewing-story-surprise-in-leaked-destiny-2-cutscene",
+          "author": "Tom Phillips",
+          "description": "A cutscene wrapping up Destiny 2's current Season of Plunder has been found by fans and shared online, spoiling the end of the game's current plotline. \r\n\n\r\nIf you wish to remain unspoiled - the season is still set to run for another few weeks, until 6th December - then look away now. \r\n\n\r\nThe cutscene, voiced by Saint-14, shows Fallen leader Mithrax converting the essence of dead baddie Nezarec into a potion, which is then brewed up and served like a cup of tea.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bungie-brewing-story-surprise-in-leaked-destiny-2-cutscene",
+          "publishedOn": "2022-11-21T11:19:15.000Z",
+          "wordCount": 4512,
+          "title": "Bungie brewing story surprise in leaked Destiny 2 cutscene",
+          "imageUrl": "https://assets.reedpopcdn.com/destiny_2_dares_of_eternity_with_bxr.png/BROK/thumbnail/1600x900/format/jpg/quality/80/destiny_2_dares_of_eternity_with_bxr.png"
+        },
         {
           "id": "https://www.eurogamer.net/the-isle-tide-hotel-is-a-new-live-action-interactive-mystery-releasing-next-year",
           "author": "Vikki Blake",
