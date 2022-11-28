@@ -3341,36 +3341,6 @@
           "wordCount": 1652,
           "title": "The 499P: Meet Ferrari’s beautiful new Le Mans hybrid prototype",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/FERRARI_LMH_DETAIL_02-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1893728",
-          "author": "Diana Gitig",
-          "description": "A new book explores 3 capabilities that are here now, whether we're ready or not.",
-          "link": "https://arstechnica.com/?p=1893728",
-          "publishedOn": "2022-10-29T12:08:59.000Z",
-          "wordCount": 1952,
-          "title": "Biotechnology is creating ethical worries—and we’ve been here before",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1316978025-2-CROPPED-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1893737",
-          "author": "WIRED",
-          "description": "EU hopes DMA will force Big Tech platforms to break open their walled gardens.",
-          "link": "https://arstechnica.com/?p=1893737",
-          "publishedOn": "2022-10-29T11:27:02.000Z",
-          "wordCount": 1939,
-          "title": "Europe prepares to rewrite the rules of the Internet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/eu-dma-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1893228",
-          "author": "WIRED",
-          "description": "Android phones got a notification that a temblor was about to rock Silicon Valley.",
-          "link": "https://arstechnica.com/?p=1893228",
-          "publishedOn": "2022-10-29T10:40:16.000Z",
-          "wordCount": 1839,
-          "title": "How Google alerted Californians to an earthquake before it happened",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/seismograph-760x380.jpg"
         }
       ]
     },
@@ -3385,6 +3355,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/",
+          "author": null,
+          "description": "Authors: Adolfo García Veytia (Chainguard), Bob Killen (Google)\nStarting with Kubernetes 1.25, our container image registry has changed from k8s.gcr.io to registry.k8s.io. This new registry spreads the load across multiple Cloud Providers & Regions, functioning as a sort of content delivery network (CDN) for Kubernetes container images. This change reduces the project’s reliance on a single entity and provides a faster download experience for a large number of users.\nTL;DR: What you need to know about this change\nContainer images for Kubernetes releases from 1.25 onward are no longer published to k8s.gcr.io, only to registry.k8s.io.\nIn the upcoming December patch releases, the new registry domain default will be backported to all branches still in support (1.22, 1.23, 1.24).\nIf you run in …",
+          "link": "https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/",
+          "publishedOn": "2022-11-28T00:00:00.000Z",
+          "wordCount": 3842,
+          "title": "Blog: registry.k8s.io: faster, cheaper and Generally Available (GA)",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/11/18/upcoming-changes-in-kubernetes-1-26/",
           "author": null,
@@ -7665,36 +7645,6 @@
           "wordCount": 4111,
           "title": "Modern Warfare 2's \"partied up\" crash should be fixed later today",
           "imageUrl": "https://assets.reedpopcdn.com/modern-warfare-2-battle-pass-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modern-warfare-2-battle-pass-1.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/rainbow-six-extractions-next-crisis-event-after-effect-is-now-available",
-          "author": "Vikki Blake",
-          "description": "Ubisoft has unveiled Rainbow Six Extraction's fourth Crisis Event, After Effect.\r\n\nAvailable now until 17th November, the new content will be a \"thrilling culmination\" to the last three events, bringing \"more post-launch content\" which includes an all-new enemy, REACT tech, challenges, and cosmetic items.\r\n\n\"In After Effect, Operators must search for the invaluable Parasite Nucleus, carry it, and wield its power; or escort and protect the carrier against incoming threats – including the Amber Sprawl,\" Ubisoft explains. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/rainbow-six-extractions-next-crisis-event-after-effect-is-now-available",
-          "publishedOn": "2022-10-29T12:12:48.000Z",
-          "wordCount": 4551,
-          "title": "Rainbow Six Extraction's next Crisis Event, After Effect, is now available",
-          "imageUrl": "https://assets.reedpopcdn.com/R6E_HIRES_KEYART_AFTER_EFFECT_VF20220725_Horizontal.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/R6E_HIRES_KEYART_AFTER_EFFECT_VF20220725_Horizontal.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/modern-warfare-2s-ping-is-quietly-disabled-following-wallhack-woes",
-          "author": "Vikki Blake",
-          "description": "Modern Warfare 2's ping system has seemingly been disabled in an attempt to control \"wall-hack\" cheaters.\r\n\nWithin hours of reports that a ping bug on your death screen could let you track a single player for the rest of the game surfaced, developer Infinity Ward quietly disabled the ping system. \r\n\n\"Huge Bug: You can Ping an enemy during the death screen and the Ping lasts for the whole game, essentially giving you wallhacks on that one player for the remainder of the game,\" reported u/zFStatic.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/modern-warfare-2s-ping-is-quietly-disabled-following-wallhack-woes",
-          "publishedOn": "2022-10-29T11:34:53.000Z",
-          "wordCount": 4579,
-          "title": "Modern Warfare 2's ping is quietly disabled following \"wallhack\" woes",
-          "imageUrl": "https://assets.reedpopcdn.com/Modern-Warfare-2-KD-ratio-and-Combat-Record-explained-real-cover.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Modern-Warfare-2-KD-ratio-and-Combat-Record-explained-real-cover.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonic-the-hedgehog-series-has-now-sold-15bn-copies-worldwide",
-          "author": "Vikki Blake",
-          "description": "Sega's biggest franchise, Sonic the Hedgehog, has topped 1.5 billion sales.\r\n\nAs spotted by our sister site, GamesIndustry.biz, the Japanese megacorp confirmed in its most recent financial report that that figure includes all premium sales and free-to-play downloads since the franchise was born in 1991.\r\n\nInterestingly, Sega Sammy Holdings also revealed sales of its other key franchises, too. In 22 years, Total War has amassed an impressive 40.4 million units sold, Football Manager and Chain Chronicles have each sold 25 million copies, whilst the fan-favourite Persona series has sold 15.5 million units since 1996, with Persona 5 alone selling 7.22 million copies globally. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonic-the-hedgehog-series-has-now-sold-15bn-copies-worldwide",
-          "publishedOn": "2022-10-29T11:17:44.000Z",
-          "wordCount": 4489,
-          "title": "Sonic the Hedgehog series has now sold 1.5bn copies worldwide",
-          "imageUrl": "https://assets.reedpopcdn.com/sonic-prime-still.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-prime-still.jpg"
         }
       ]
     },
@@ -7952,16 +7902,6 @@
           "wordCount": 1910,
           "title": "Creating a more inclusive security research field",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Community@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=67492",
-          "author": "Lee Reilly",
-          "description": "Some seriously spooktacular open source games for the web, Windows, macOS, and Linux with all sorts of fun hacks for infinite lives, invulnerability, and playing with time.",
-          "link": "https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/",
-          "publishedOn": "2022-10-29T07:01:32.000Z",
-          "wordCount": 2420,
-          "title": "13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/10/halloween-1.png"
         }
       ]
     },
