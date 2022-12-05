@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T18:25:35.924Z</updated>
+    <updated>2022-12-05T00:31:03.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Forensic container checkpointing in Kubernetes]]></title>
+        <id>https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/</id>
+        <link href="https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/"/>
+        <updated>2022-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Adrian Reber (Red Hat)
+Forensic container checkpointing is based on Checkpoint/Restore In
+Userspace (CRIU) and allows the creation of stateful copies
+of a running container without the container knowing that it is being
+checkpointed. The copy of the container can be analyzed and restored in a
+sandbox environment multiple times without the original container being aware
+of it. Forensic container checkpointing was introduced as an alpha feature in
+Kubernetes v1.25.
+How does it work?
+With the help of CRIU it is possible to checkpoint and restore containers.
+CRIU is integrated in runc, crun, CRI-O and containerd and forensic container
+checkpointing as implemented in Kubernetes uses these existing CRIU
+integrations.
+Why is it important?
+With the help of CRIU and the corresponding integ…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's a new in-game cinematic from Dragon Age: Dreadwolf]]></title>
         <id>https://www.eurogamer.net/heres-a-new-in-game-cinematic-from-dragon-age-dreadwolf</id>
@@ -10881,32 +10905,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Developers Justin Ma and Matthew Davis look back at the game's creation and legacy.]]></summary>
         <author>
             <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geri Halliwell-Horner joins the cast for Sony's upcoming Gran Turismo movie]]></title>
-        <id>https://www.eurogamer.net/geri-halliwell-horner-joins-the-cast-for-sonys-upcoming-gran-turismo-movie</id>
-        <link href="https://www.eurogamer.net/geri-halliwell-horner-joins-the-cast-for-sonys-upcoming-gran-turismo-movie"/>
-        <updated>2022-11-05T11:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Geri "Ginger Spice" Halliwell-Horner and Djimon Hounsou have been cast in Sony's upcoming Gran Turismo movie.
-
-The former is interesting not just because of her "rare narrative screen appearance", as The Hollywood Reporter puts it, but also because the Spice girl is married to team principal of Red Bull's Formula One team, Christian Horner.
-
-Sony's live-action Gran Turismo adaptation was announced earlier this year, and confirmation of an 11th August 2023 release date for the movie followed not long after. Stranger Things' David Harbour was the first member of the cast to be officially revealed with the news he'll be working alongside District 9 and Elyisum director Neill Blomkamp, who's helming the project.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age of Empires is 25 years old and fans are shaping the franchise]]></title>
-        <id>https://arstechnica.com/?p=1895192</id>
-        <link href="https://arstechnica.com/?p=1895192"/>
-        <updated>2022-11-05T10:31:41.000Z</updated>
-        <summary type="html"><![CDATA[A chat with Xbox CEO Phil Spencer and Worlds’s Edge Studio chief Michael Mann.]]></summary>
-        <author>
-            <name>WIRED</name>
         </author>
     </entry>
 </feed>

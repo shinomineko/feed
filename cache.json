@@ -3501,16 +3501,6 @@
           "wordCount": 1637,
           "title": "10 years of FTL: The making of an enduring spaceship simulator",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/ss_052d698926073e8d407a864f0e63a486af24ec0d.1920x1080-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895192",
-          "author": "WIRED",
-          "description": "A chat with Xbox CEO Phil Spencer and Worlds’s Edge Studio chief Michael Mann.",
-          "link": "https://arstechnica.com/?p=1895192",
-          "publishedOn": "2022-11-05T10:31:41.000Z",
-          "wordCount": 1747,
-          "title": "Age of Empires is 25 years old and fans are shaping the franchise",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/aoe-760x380.jpg"
         }
       ]
     },
@@ -3525,6 +3515,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/",
+          "author": null,
+          "description": "Authors: Adrian Reber (Red Hat)\nForensic container checkpointing is based on Checkpoint/Restore In\nUserspace (CRIU) and allows the creation of stateful copies\nof a running container without the container knowing that it is being\ncheckpointed. The copy of the container can be analyzed and restored in a\nsandbox environment multiple times without the original container being aware\nof it. Forensic container checkpointing was introduced as an alpha feature in\nKubernetes v1.25.\nHow does it work?\nWith the help of CRIU it is possible to checkpoint and restore containers.\nCRIU is integrated in runc, crun, CRI-O and containerd and forensic container\ncheckpointing as implemented in Kubernetes uses these existing CRIU\nintegrations.\nWhy is it important?\nWith the help of CRIU and the corresponding integ…",
+          "link": "https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/",
+          "publishedOn": "2022-12-05T00:00:00.000Z",
+          "wordCount": 4115,
+          "title": "Blog: Forensic container checkpointing in Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/02/seccomp-notifier/",
           "author": null,
@@ -7715,16 +7715,6 @@
           "wordCount": 4741,
           "title": "Modern Warfare 2 Vault Edition owners will get 10 hours double XP because of a \"confusing\" in-game exclusive",
           "imageUrl": "https://assets.reedpopcdn.com/modern_warfare_2_gold_camo_8.png/BROK/thumbnail/1600x900/format/jpg/quality/80/modern_warfare_2_gold_camo_8.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/geri-halliwell-horner-joins-the-cast-for-sonys-upcoming-gran-turismo-movie",
-          "author": "Vikki Blake",
-          "description": "Geri \"Ginger Spice\" Halliwell-Horner and Djimon Hounsou have been cast in Sony's upcoming Gran Turismo movie.\r\n\nThe former is interesting not just because of her \"rare narrative screen appearance\", as The Hollywood Reporter puts it, but also because the Spice girl is married to team principal of Red Bull's Formula One team, Christian Horner.\r\n\nSony's live-action Gran Turismo adaptation was announced earlier this year, and confirmation of an 11th August 2023 release date for the movie followed not long after. Stranger Things' David Harbour was the first member of the cast to be officially revealed with the news he'll be working alongside District 9 and Elyisum director Neill Blomkamp, who's helming the project.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/geri-halliwell-horner-joins-the-cast-for-sonys-upcoming-gran-turismo-movie",
-          "publishedOn": "2022-11-05T11:44:16.000Z",
-          "wordCount": 4546,
-          "title": "Geri Halliwell-Horner joins the cast for Sony's upcoming Gran Turismo movie",
-          "imageUrl": "https://assets.reedpopcdn.com/gt-dior-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gt-dior-1.jpg"
         }
       ]
     },
