@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/12/the-decoupling-principle.html",
+          "author": null,
+          "description": "<p>This is a <a href=\"https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_schmitt.pdf\">really interesting paper</a> that discusses what the authors call the Decoupling Principle:</p>\n<blockquote><p>The idea is simple, yet previously not clearly articulated: to ensure privacy, information should be divided architecturally and institutionally such that each entity has only the information they need to perform their relevant function. Architectural decoupling entails splitting functionality for different fundamental actions in a system, such as decoupling authentication (proving who is allowed to use the network) from connectivity (establishing session state for communicating). Institutional decoupling entails splitting what information remains between non-colluding entities, such as distinct companies or network operators, or between a user and network peers. This decoupling makes service providers individually breach-proof, as they each have little or no sensitive data that can be lost to hackers. Put simply, the Decoupling Principle suggests always separating who you are from what you do...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/the-decoupling-principle.html",
+          "publishedOn": "2022-12-07T12:04:41.000Z",
+          "wordCount": 780,
+          "title": "The Decoupling Principle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/12/crywiper-data-wiper-targeting-russian-sites.html",
           "author": null,
           "description": "<p>Kaspersky is <a href=\"https://www.kaspersky.com/blog/crywiper-pseudo-ransomware/46480/\">reporting</a> on a data wiper masquerading as ransomware that is targeting local Russian government networks.</p>\n<blockquote><p>The Trojan corrupts any data that&#8217;s not vital for the functioning of the operating system. It doesn&#8217;t affect files with extensions .exe, .dll, .lnk, .sys or .msi, and ignores several system folders in the C:\\Windows directory. The malware focuses on databases, archives, and user documents.</p>\n<p>So far, our experts have seen only pinpoint attacks on targets in the Russian Federation. However, as usual, no one can guarantee that the same code won&#8217;t be used against other targets...</p></blockquote>",
@@ -3701,86 +3711,6 @@
           "wordCount": 1693,
           "title": "Porsche unveils smaller, lighter, faster Formula E race car, the 99X",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Porsche-99x-gen3-reveal-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895862",
-          "author": "Beth Mole",
-          "description": "Patients are reporting crowded waiting rooms and hours-long wait times.",
-          "link": "https://arstechnica.com/?p=1895862",
-          "publishedOn": "2022-11-07T23:03:53.000Z",
-          "wordCount": 1557,
-          "title": "US hospitals are so overloaded that one ER called 911 on itself",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1386927656-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895809",
-          "author": "Samuel Axon",
-          "description": "Netflix moves forward with a live-action film, animated series, and maybe more.",
-          "link": "https://arstechnica.com/?p=1895809",
-          "publishedOn": "2022-11-07T22:48:43.000Z",
-          "wordCount": 1612,
-          "title": "After 15 years of failed attempts, there will finally be a Gears of War movie",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Gears5-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895826",
-          "author": "Dan Goodin",
-          "description": "The haul, the second biggest in DOJ history, shows the difficulty of hiding cryptocurrency.",
-          "link": "https://arstechnica.com/?p=1895826",
-          "publishedOn": "2022-11-07T22:17:30.000Z",
-          "wordCount": 1804,
-          "title": "Hacker took pains to hide $3.36B of stolen bitcoin. Feds found it anyway",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/bitcoin-laundering-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895813",
-          "author": "Kyle Orland",
-          "description": "Sword Art Online inspires Palmer Luckey to put explosive charges on a Quest Pro.",
-          "link": "https://arstechnica.com/?p=1895813",
-          "publishedOn": "2022-11-07T21:28:20.000Z",
-          "wordCount": 1832,
-          "title": "Oculus co-founder makes a VR headset that can literally kill you",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/vrdeath-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895749",
-          "author": "Jennifer Ouellette",
-          "description": "Travis Beacham's \"Victorian neo-noir\" fantasy series debuted in 2019.",
-          "link": "https://arstechnica.com/?p=1895749",
-          "publishedOn": "2022-11-07T20:41:59.000Z",
-          "wordCount": 1855,
-          "title": "Carnival Row announces second and final season with briefest of teasers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/carnivalTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1894833",
-          "author": "Benj Edwards",
-          "description": "Adversarial policy attacks blind spots in the AI—with broader implications than games.",
-          "link": "https://arstechnica.com/?p=1894833",
-          "publishedOn": "2022-11-07T19:43:29.000Z",
-          "wordCount": 1824,
-          "title": "New Go-playing trick defeats world-class Go AI—but loses to human amateurs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/go_board_hero_1200-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895683",
-          "author": "Jennifer Ouellette",
-          "description": "\"Ticking boxes, running around, searching all the rooms....\"",
-          "link": "https://arstechnica.com/?p=1895683",
-          "publishedOn": "2022-11-07T19:12:30.000Z",
-          "wordCount": 1884,
-          "title": "Benoit Blanc disses Clue as a “terrible game” in final trailer for Glass Onion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/glass2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895712",
-          "author": "Jon Brodkin",
-          "description": "Famous people trolled Musk by tweeting under his name and profile picture.",
-          "link": "https://arstechnica.com/?p=1895712",
-          "publishedOn": "2022-11-07T18:53:31.000Z",
-          "wordCount": 1664,
-          "title": "Musk announces Twitter ban on unlabeled parody after celebs impersonate him",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/elon-musk-impersonators-sd-760x380.jpg"
         }
       ]
     },
@@ -3916,6 +3846,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/former-sonic-boss-yuji-naka-re-arrested-as-fresh-insider-trading-allegations-emerge",
+          "author": "Tom Phillips",
+          "description": "Yuji Naka, the former boss of Sega's Sonic Team, has reportedly been re-arrested in Japan over fresh allegations of insider trading. \r\n\n\r\nJapanese newspaper Asahi reported today that Naka now stands accused of violating financial laws in relation to another mobile game it is claimed he had insider knowledge of - Final Fantasy 7: The First Soldier.\r\n\n\r\nSpecifically, Naka is accused of purchasing 144.7m yen's worth of shares in its developer ATeam (worth around £865k) before The First Soldier was officially announced.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/former-sonic-boss-yuji-naka-re-arrested-as-fresh-insider-trading-allegations-emerge",
+          "publishedOn": "2022-12-07T11:52:30.000Z",
+          "wordCount": 4718,
+          "title": "Former Sonic boss Yuji Naka re-arrested, as fresh insider trading allegations emerge",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_cjVa4rp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_cjVa4rp.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/englands-jordan-pickford-spotted-carting-pc-setup-abroad-to-play-fortnite",
+          "author": "Tom Phillips",
+          "description": "Fortnite continues to be a fixture of England's World Cup squad, four years after the popular battle royale's celebration dances became a common sight on Russia's pitches.\r\n\n\r\nThis week, England goalkeeper Jordan Pickford was shown footage of himself lugging a monogrammed computer case to 2022's controversial Qatar tournament, as part of an official interview released on the England squad YouTube channel.\r\n\n\r\nPickford was asked what he was getting up to during his downtime - and, amongst other things, eventually revealed he was still hooked to Fortnite. (And no wonder - its freshly-minted Chapter 4 has reinvented the game.)\r\n \nRead more",
+          "link": "https://www.eurogamer.net/englands-jordan-pickford-spotted-carting-pc-setup-abroad-to-play-fortnite",
+          "publishedOn": "2022-12-07T11:22:02.000Z",
+          "wordCount": 4714,
+          "title": "England's Jordan Pickford spotted carting PC setup abroad to play Fortnite",
+          "imageUrl": "https://assets.reedpopcdn.com/Pickford-Chats-GK-Union%2C-Gaming-Setups-and-Golf-Dream-Teams-%F0%9F%8E%AE%E2%9B%B3%EF%B8%8F-_-Ep.20-_-Lions'-Den-With-M%26S-Food-8-7-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Pickford-Chats-GK-Union%2C-Gaming-Setups-and-Golf-Dream-Teams-%F0%9F%8E%AE%E2%9B%B3%EF%B8%8F-_-Ep.20-_-Lions'-Den-With-M%26S-Food-8-7-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/sonic-prime-netflix-animation-will-premiere-in-roblox-this-week",
+          "author": "Ed Nightingale",
+          "description": "The new Netflix animation Sonic Prime will premiere this week in Roblox.\r\n\n\r\nThe first episode will be shown on Saturday 10th December at 3pm UK time (10am EST) in Sonic Speed Simulator, developed by metaverse gaming company Gamefam.\r\n\n\r\nIt will be available to watch until 16th December, by which time the series will have launched on Netflix (15th December).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonic-prime-netflix-animation-will-premiere-in-roblox-this-week",
+          "publishedOn": "2022-12-07T11:02:11.000Z",
+          "wordCount": 4446,
+          "title": "Sonic Prime Netflix animation will premiere in Roblox this week",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-prime-still.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-prime-still.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-witcher-3s-pc-update-will-break-some-mods-but-several-popular-options-will-be-baked-in",
+          "author": "Tom Phillips",
+          "description": "The Witcher 3 developer CD Projekt Red has issued a detailed blog post on how its fancy upcoming update will affect the many fan-made mods made for the game.\r\n\n\r\nIn short, some mods will still work, but others won't (especially those based on scripts) - and CD Projekt has tested and compiled a list of how the most popular will fare so fans and mod makers can prepare ahead of time.\r\n\n\r\nA further group of mods will be included as part of the update - now part of the game proper, with their original creators reimbursed and credited.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-witcher-3s-pc-update-will-break-some-mods-but-several-popular-options-will-be-baked-in",
+          "publishedOn": "2022-12-07T10:51:20.000Z",
+          "wordCount": 4807,
+          "title": "The Witcher 3's PC update will break some mods, but several popular options will be baked in",
+          "imageUrl": "https://assets.reedpopcdn.com/TW3NG_DLCs_PC_Chinese_Armor_RGB_EN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/TW3NG_DLCs_PC_Chinese_Armor_RGB_EN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-agrees-10-year-deal-to-bring-call-of-duty-to-nintendo-if-activision-blizzard-buyout-goes-through",
+          "author": "Wesley Yin-Poole",
+          "description": "Microsoft has agreed a 10-year deal to bring Call of Duty to Nintendo if its buyout of Activision Blizzard goes through.\r\n\n\r\nXbox boss Phil Spencer tweeted the announcement, which also confirms the company's commitment to continue to release Call of Duty games on Valve's Steam platform \"simultaneously to Xbox\", if the gargantuan $69 billion offer to buy Activision Blizzard is approved. Call of Duty's latest releases, Modern Warfare 2 and Warzone 2.0, are already on Steam.\r\n\n\r\nThe announcement is a direct response to the scrutiny the acquisition has come under from a raft of organisations across the world, chief among them the Federal Trade Commission in the US and the Competition and Markets Authority in the UK.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-agrees-10-year-deal-to-bring-call-of-duty-to-nintendo-if-activision-blizzard-buyout-goes-through",
+          "publishedOn": "2022-12-07T07:59:35.000Z",
+          "wordCount": 4956,
+          "title": "Microsoft agrees 10-year deal to bring Call of Duty to Nintendo if Activision Blizzard buyout goes through",
+          "imageUrl": "https://assets.reedpopcdn.com/warzone_uo1HDw8.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warzone_uo1HDw8.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/gta-online-getting-ray-traced-reflections-on-ps5-and-xbox-series-x",
           "author": "Matt Wales",
@@ -7985,26 +7965,6 @@
           "wordCount": 4523,
           "title": "Nintendo cuts Switch sales forecast, blames semiconductor shortage",
           "imageUrl": "https://assets.reedpopcdn.com/splatoon-3-button-fin-1650649248602.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/splatoon-3-button-fin-1650649248602.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/activision-says-next-years-call-of-duty-will-be-a-full-premium-release",
-          "author": "Matt Wales",
-          "description": "Activision has detailed more of its plans for Call of Duty in 2023, saying next year will bring the series' \"next full premium release\" - a statement initially appearing to contradict previous reports there'd be no brand-new Call of Duty title in 2023.\r\n\n\r\nAccording to Activision's newly revealed third quarter financial results, 2023 will bring \"the most robust Call of Duty live operations to date, the next full premium release in the blockbuster annual series, and even more engaging free-to-play experiences across platforms\".\r\n\n\r\nIt's the talk of the \"next full premium release\" that's caught people's attention, particularly in light of claims made by Bloomberg's Jason Schreier in February that Call of Duty wouldn't be getting a new mainline series entry in 2023 - marking the first time in just under two decades it had skipped an annual release. Schreier then expanded on those assertions last month, saying Activision would instead be \"selling new stuff\" for Modern Warfare 2 - \"an expansion or something like that\" including \"campaign stuff\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/activision-says-next-years-call-of-duty-will-be-a-full-premium-release",
-          "publishedOn": "2022-11-07T23:43:35.000Z",
-          "wordCount": 4655,
-          "title": "Activision says next year's Call of Duty will be a \"full premium\" release",
-          "imageUrl": "https://assets.reedpopcdn.com/modern-warfare-2-infinty-ward.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modern-warfare-2-infinty-ward.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/gears-of-war-live-action-movie-and-animated-series-in-the-works-at-netflix",
-          "author": "Matt Wales",
-          "description": "Over a decade and a half after a live-action Gears of War movie was first touted, Netflix has announced it's adapting The Coalition's cover shooter series for the small screen.\r\n\n\r\nA Gear of War movie was first trumpeted back in 2007, when New Line Cinema purchased the rights for a live-action adaptation. However, its originally planned 2009 release date came and went, and the project has bounced around in development hell ever since - last resurfacing in 2019 when it was reported it would no longer even be set in the same universe as the games.\r\n\n\r\nWhatever happened to that version of the adaptation, we may never know, as Netflix - on this, the 16th anniversary of the original Gears of War's release - has now announced a new partnership with current franchise stewards The Coalition.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/gears-of-war-live-action-movie-and-animated-series-in-the-works-at-netflix",
-          "publishedOn": "2022-11-07T20:31:45.000Z",
-          "wordCount": 4586,
-          "title": "Gears of War live-action movie and animated series in the works at Netflix",
-          "imageUrl": "https://assets.reedpopcdn.com/gears-of-war-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gears-of-war-art.jpg"
         }
       ]
     },
