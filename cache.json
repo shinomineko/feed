@@ -156,6 +156,26 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/12/friday-squid-blogging-china-bans-taiwanese-squid-imports.html",
+          "author": null,
+          "description": "<p>Today I have some squid <a href=\"https://www.taiwannews.com.tw/en/news/4745439\">geopolitical</a> <a href=\"https://focustaiwan.tw/cross-strait/202212090019\">news</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/friday-squid-blogging-china-bans-taiwanese-squid-imports.html",
+          "publishedOn": "2022-12-09T22:06:03.000Z",
+          "wordCount": 828,
+          "title": "Friday Squid Blogging: China Bans Taiwanese Squid Imports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/12/hacking-trespass-law.html",
+          "author": null,
+          "description": "<p>This <a href=\"https://www.nytimes.com/2022/11/26/business/hunting-wyoming-elk-mountain-access.html\">article</a> talks about public land in the US that is completely surrounded by private land, which in some cases makes it inaccessible to the public. But there&#8217;s a hack:</p>\n<blockquote><p>Some hunters have long believed, however, that the publicly owned parcels on Elk Mountain can be legally reached using a practice called corner-crossing.</p>\n<p>Corner-crossing can be visualized in terms of a checkerboard. Ever since the Westward Expansion, much of the Western United States has been divided into alternating squares of public and private land. Corner-crossers, like checker pieces, literally step from one public square to another in diagonal fashion, avoiding trespassing charges. The practice is neither legal nor illegal. Most states discourage it, but none ban it...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/hacking-trespass-law.html",
+          "publishedOn": "2022-12-09T20:02:43.000Z",
+          "wordCount": 921,
+          "title": "Hacking Trespass Law",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/12/security-vulnerabilities-in-eufy-cameras.html",
           "author": null,
           "description": "<p>Eufy cameras claim to be local only, but <a href=\"https://arstechnica.com/gadgets/2022/12/more-eufy-camera-flaws-found-including-remote-unencrypted-feed-viewing/\">upload</a> <a href=\"https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage\">data</a> to the cloud. The company is basically lying to reporters, despite being shown evidence to the contrary. The company&#8217;s behavior is so egregious that ReviewGeek is <a href=\"https://www.reviewgeek.com/138235/why-review-geek-cant-recommend-wyze-or-eufy-cameras-anymore/\">no longer</a> recommending them.</p>\n<p>This will be interesting to watch. If Eufy can ignore security researchers and the press without there being any repercussions in the market, others will follow suit. And we will lose public shaming as an incentive to improve security.</p>",
@@ -432,6 +452,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1903477",
+          "author": "Ashley Belanger",
+          "description": "Reuters reviewed an email to advertisers saying Twitter Blue is back Friday.",
+          "link": "https://arstechnica.com/?p=1903477",
+          "publishedOn": "2022-12-09T20:29:38.000Z",
+          "wordCount": 2091,
+          "title": "Musk brings back Twitter Blue with new features to prevent impersonation",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1244902260-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1903387",
+          "author": "Ron Amadeo",
+          "description": "With a huge list of caveats, initial Google passkey support is here.",
+          "link": "https://arstechnica.com/?p=1903387",
+          "publishedOn": "2022-12-09T19:55:28.000Z",
+          "wordCount": 2191,
+          "title": "RIP Passwords? Passkey support rolls out to Chrome stable",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/passwords-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1902427",
+          "author": "Benj Edwards",
+          "description": "AI tech makes it trivial to generate harmful fake photos from a few social media pictures.",
+          "link": "https://arstechnica.com/?p=1902427",
+          "publishedOn": "2022-12-09T19:10:11.000Z",
+          "wordCount": 1847,
+          "title": "AI image generation tech can now create life-wrecking deepfakes with ease",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/joe_deepfake_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1903226",
+          "author": "Jennifer Ouellette",
+          "description": "George Newall, a former ad exec who co-created the influential series, has died at 88.",
+          "link": "https://arstechnica.com/?p=1903226",
+          "publishedOn": "2022-12-09T18:53:30.000Z",
+          "wordCount": 1977,
+          "title": "A Schoolhouse Rock! tribute to honor the passing of its last surviving creator",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/schoolhouserock2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1903324",
+          "author": "Scharon Harding",
+          "description": "System76's $300 Launch Heavy has open source hardware and software, plus a USB hub.",
+          "link": "https://arstechnica.com/?p=1903324",
+          "publishedOn": "2022-12-09T18:25:32.000Z",
+          "wordCount": 1717,
+          "title": "Linux-ready Launch Heavy is a $300 mechanical keyboard for number crunchers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/system76-launch-heavy-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1903346",
+          "author": "Kevin Purdy",
+          "description": "Do batteries really cause garbage fires? Only three times in one month.",
+          "link": "https://arstechnica.com/?p=1903346",
+          "publishedOn": "2022-12-09T18:16:15.000Z",
+          "wordCount": 1716,
+          "title": "Trashed lithium-ion batteries caused three garbage truck fires in California",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1240483981-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1903320",
           "author": "Ashley Belanger",
@@ -3827,6 +3907,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/",
+          "author": null,
+          "description": "Authors: Kubernetes 1.26 Release Team\nIt's with immense joy that we announce the release of Kubernetes v1.26!\nThis release includes a total of 37 enhancements: eleven of them are graduating to Stable, ten are\ngraduating to Beta, and sixteen of them are entering Alpha. We also have twelve features being\ndeprecated or removed, three of which we better detail in this announcement.\nRelease theme and logo\nKubernetes 1.26: Electrifying\nThe theme for Kubernetes v1.26 is Electrifying.\nEach Kubernetes release is the result of the coordinated effort of dedicated volunteers, and only\nmade possible due to the use of a diverse and complex set of computing resources, spread out through\nmultiple datacenters and regions worldwide. The end result of a release - the binaries, the image\ncontainers, the docum…",
+          "link": "https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 5208,
+          "title": "Blog: Kubernetes v1.26: Electrifying",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/",
           "author": null,
           "description": "Authors: Adrian Reber (Red Hat)\nForensic container checkpointing is based on Checkpoint/Restore In\nUserspace (CRIU) and allows the creation of stateful copies\nof a running container without the container knowing that it is being\ncheckpointed. The copy of the container can be analyzed and restored in a\nsandbox environment multiple times without the original container being aware\nof it. Forensic container checkpointing was introduced as an alpha feature in\nKubernetes v1.25.\nHow does it work?\nWith the help of CRIU it is possible to checkpoint and restore containers.\nCRIU is integrated in runc, crun, CRI-O and containerd and forensic container\ncheckpointing as implemented in Kubernetes uses these existing CRIU\nintegrations.\nWhy is it important?\nWith the help of CRIU and the corresponding integ…",
@@ -3937,6 +4027,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ubisofts-creep-back-onto-steam-continues-with-immortals-fenyx-rising",
+          "author": "Matt Wales",
+          "description": "Ubisoft's gradual tiptoe back onto Steam is set to continue, with the publisher's enjoyable 2020 action-adventure Immortals Fenyx Rising now confirmed as heading to Valve's platform.\r\n\n\r\nLaunched at the tail-end of 2020, Fenyx Rising followed the same pattern as all new Ubisoft PC releases since 2019, skipping Steam in favour of a dual launch on Ubisoft Connect and Epic Games Store - where Epic was, perhaps not coincidentally, wooing publishers and developers with a 12% revenue cut compared to Valve's 30%.\r\n\n\r\nHowever, it appeared Ubisoft's position on its preferred storefronts was about to shift in November after listings for a Steam version of Assassin's Creed Valhalla were discovered, and the move was confirmed by the publisher itself in December, when Valhalla, Anno 1800, and Roller Champions were all announced to be heading to Valve's platform.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisofts-creep-back-onto-steam-continues-with-immortals-fenyx-rising",
+          "publishedOn": "2022-12-09T19:45:48.000Z",
+          "wordCount": 4756,
+          "title": "Ubisoft's creep back onto Steam continues with Immortals Fenyx Rising",
+          "imageUrl": "https://assets.reedpopcdn.com/immortals_fenyx_rising_2020_09_03_20_001_600x338.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/immortals_fenyx_rising_2020_09_03_20_001_600x338.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/take-a-look-at-gorgeous-ghibli-esque-exploration-adventure-europa",
           "author": "Matt Wales",
@@ -8216,46 +8316,6 @@
           "wordCount": 4523,
           "title": "Google now processing Stadia refunds, asks you don't contact customer support",
           "imageUrl": "https://assets.reedpopcdn.com/stadia_kMGlaui.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stadia_kMGlaui.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mario-strikers-now-has-a-free-demo",
-          "author": "Liv Ngan",
-          "description": "Nintendo has made a free demo available for Mario Strikes: Battle League Football. \r\n\nThe game  previously had a demo shortly before it released on 10th June, but required a Nintendo Switch Online subscription. \r\n\nThe new demo is free to download for all Switch owners.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mario-strikers-now-has-a-free-demo",
-          "publishedOn": "2022-11-10T12:24:49.000Z",
-          "wordCount": 4418,
-          "title": "Mario Strikers now has a free demo",
-          "imageUrl": "https://assets.reedpopcdn.com/1_XIUVGio.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/1_XIUVGio.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/what-exactly-is-sony-doing-with-its-playstation-premium-tier",
-          "author": "Victoria Kennedy",
-          "description": "Earlier this year, Sony gave its PlayStation Plus subscription service a makeover, adding three new tiers for users to pick between. \r\n\n\r\nThe cheapest of these tiers is Essential and is basically what PlayStation Plus once was. Users get online play, some other smaller perks and free PlayStation titles every month. Then we have Extra. This middle-ground tier includes everything that comes with Essential, but with the bonus of a catalogue of PS4 and PS5 games to have a go at.\r\n\n\r\nThen, finally, we have the most expensive of these tiers, known as Premium. This was marketed as a way for users to replay some of PlayStation's classic games from days gone by. The service covers every PlayStation console - from the original PS1 through to the PS5, as well as the PSP and, thanks to streaming, PS3 support.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/what-exactly-is-sony-doing-with-its-playstation-premium-tier",
-          "publishedOn": "2022-11-10T12:22:30.000Z",
-          "wordCount": 4711,
-          "title": "What exactly is Sony doing with its PlayStation Premium tier?",
-          "imageUrl": "https://assets.reedpopcdn.com/Metal-Gear-Solid-1024x576.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Metal-Gear-Solid-1024x576.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonic-frontiers-devs-employed-countermeasures-to-prevent-motion-sickness",
-          "author": "Ed Nightingale",
-          "description": "The developers of Sonic Frontiers took \"countermeasures\" to ensure players wouldn't experience motion sickness.\r\n\n\r\nThe blue blur is known for going really fast, so it's appreciated that the developers took care to not let that negatively affect players.\r\n\n\r\nProducer Sachiko Kawamura told Famitsu that the QA team were integral to this process and that it was important to take this aspect of the game seriously (thanks Siliconera).\r\n\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonic-frontiers-devs-employed-countermeasures-to-prevent-motion-sickness",
-          "publishedOn": "2022-11-10T12:07:16.000Z",
-          "wordCount": 4473,
-          "title": "Sonic Frontiers devs employed \"countermeasures\" to prevent motion sickness",
-          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers-gamescom-preview-16.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers-gamescom-preview-16.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/twitter-changes-see-nintendo-rockstar-valve-impersonated-using-verified-accounts",
-          "author": "Tom Phillips",
-          "description": "Twitter users are using the platform's new Elon Musk era changes to impersonate official video game companies. \r\n\n\r\nFor a small fee, anyone can now pay up and receive a blue Twitter verified tick next to their name. So, of course, people are handing over their $8 specifically in order to trick others online.\r\n\n\r\nA verified \"Nintendo of America\" account went viral last night as it posted an image of the company's mascot Mario giving the middle finger. The handle, @nIntendoofus, has now had their account suspended - but not until their tweets had been widely shared.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/twitter-changes-see-nintendo-rockstar-valve-impersonated-using-verified-accounts",
-          "publishedOn": "2022-11-10T11:06:45.000Z",
-          "wordCount": 4610,
-          "title": "Twitter changes see Nintendo, Rockstar, Valve impersonated using verified accounts",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-2_gOKGKkH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-2_gOKGKkH.jpg"
         }
       ]
     },
@@ -8264,6 +8324,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://github.blog/?p=68917",
+          "author": "Michelle Mannering",
+          "description": "Before you say it, yes, the October Release Radar was supposed to be shared in November. But with Hackatoberfest, GitHub Universe, Turkey Day, and in real life (IRL) conferences returning to their pre-COVID frequency, we’ve all been so busy. And our community has been hustling to ship all kinds of open source projects. We wanted […]",
+          "link": "https://github.blog/2022-12-09-release-radar-october-2022/",
+          "publishedOn": "2022-12-09T19:00:32.000Z",
+          "wordCount": 1665,
+          "title": "Release Radar · October 2022 Edition",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/12/Release-Radar-October-2022.jpg?fit=1200%2C630"
+        },
         {
           "id": "https://github.blog/?p=69029",
           "author": "Natalie Somersall",
