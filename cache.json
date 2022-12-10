@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2709/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/solar_system_model.png\" title=\"The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.\" alt=\"The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.\" />",
+          "link": "https://xkcd.com/2709/",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 209,
+          "title": "Solar System Model",
+          "imageUrl": "https://imgs.xkcd.com/comics/solar_system_model_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2708/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/mystery_asterisk_destination.png\" title=\"If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.\" alt=\"If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.\" />",
@@ -434,16 +444,6 @@
           "wordCount": 688,
           "title": "NSA Over-surveillance",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/11/an-untrustworthy-tls-certificate-in-browsers.html",
-          "author": null,
-          "description": "<p>The major browsers natively trust a whole bunch of certificate authorities, and some of them are <a href=\"https://www.washingtonpost.com/technology/2022/11/08/trustcor-internet-addresses-government-connections/\">really sketchy</a>:</p>\n<blockquote><p>Google&#8217;s Chrome, Apple&#8217;s Safari, nonprofit Firefox and others allow the company, TrustCor Systems, to act as what&#8217;s known as a root certificate authority, a powerful spot in the internet&#8217;s infrastructure that guarantees websites are not fake, guiding users to them seamlessly.</p>\n<p>The company&#8217;s Panamanian registration records show that it has the identical slate of officers, agents and partners as a spyware maker identified this year as an affiliate of Arizona-based Packet Forensics, which public contracting records and company documents show has sold communication interception services to U.S. government agencies for more than a decade...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/11/an-untrustworthy-tls-certificate-in-browsers.html",
-          "publishedOn": "2022-11-10T15:18:56.000Z",
-          "wordCount": 1347,
-          "title": "An Untrustworthy TLS Certificate in Browsers",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +452,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1903512",
+          "author": "Beth Mole",
+          "description": "Some kids can get boosters, some can get an updated series, some get nothing.",
+          "link": "https://arstechnica.com/?p=1903512",
+          "publishedOn": "2022-12-09T23:08:24.000Z",
+          "wordCount": 2124,
+          "title": "Amid pathetic uptake, FDA green lights confusing COVID vaccine update for kids",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1241447966-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1903477",
           "author": "Ashley Belanger",
@@ -3801,86 +3811,6 @@
           "wordCount": 1993,
           "title": "Twitter’s new leaders charged with helping Musk execute “dumb things”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1244619223-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1895827",
-          "author": "Jennifer Ouellette",
-          "description": "It's the first time this kind of throwing behavior has been reported in octopuses.",
-          "link": "https://arstechnica.com/?p=1895827",
-          "publishedOn": "2022-11-10T18:15:17.000Z",
-          "wordCount": 1860,
-          "title": "Take that! Octopuses caught on camera vigorously throwing debris at each other",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/octopusLIST-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896574",
-          "author": "Scharon Harding",
-          "description": "Apple power meets Nintendo nostalgia.",
-          "link": "https://arstechnica.com/?p=1896574",
-          "publishedOn": "2022-11-10T18:11:45.000Z",
-          "wordCount": 1643,
-          "title": "Modder makes an Apple M1-powered Wii for retro gaming",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/listing-4-scaled-e1668101357653-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896525",
-          "author": "Ron Amadeo",
-          "description": "Refunding years of purchases will be a logistics nightmare.",
-          "link": "https://arstechnica.com/?p=1896525",
-          "publishedOn": "2022-11-10T17:54:50.000Z",
-          "wordCount": 1907,
-          "title": "Google refunding three years of Stadia purchases starting this week",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/stadia-down-the-drain-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896555",
-          "author": "Jon Brodkin",
-          "description": "Twitter staff must be in office 40 hours a week unless Musk approves exception.",
-          "link": "https://arstechnica.com/?p=1896555",
-          "publishedOn": "2022-11-10T16:36:51.000Z",
-          "wordCount": 1864,
-          "title": "Musk bans remote work at Twitter, warns staff of “dire” economic outlook",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/musk-twitter-account-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896538",
-          "author": "Kyle Orland",
-          "description": "Most fake accounts are suspended quickly, but not before some brand damage is done.",
-          "link": "https://arstechnica.com/?p=1896538",
-          "publishedOn": "2022-11-10T16:24:53.000Z",
-          "wordCount": 2063,
-          "title": "For $8, Twitter Blue users create a wave of checkmarked imposter accounts",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mariofinger2-680x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881436",
-          "author": "Scharon Harding",
-          "description": "Want mechanical typing without bulky cables? Here are our 4 favorite options.",
-          "link": "https://arstechnica.com/?p=1881436",
-          "publishedOn": "2022-11-10T16:11:57.000Z",
-          "wordCount": 1970,
-          "title": "The best wireless mechanical keyboards",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/20221020_163434-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896504",
-          "author": "Eric Berger",
-          "description": "NASA likely to begin inspections of the rocket and spacecraft later today.",
-          "link": "https://arstechnica.com/?p=1896504",
-          "publishedOn": "2022-11-10T15:10:38.000Z",
-          "wordCount": 2178,
-          "title": "NASA leaves its Artemis I rocket exposed to winds above design limits",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/SLS-Apr-21-2022-8505-Pano-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896521",
-          "author": "Financial Times",
-          "description": "Crypto exchange dashes to fill $8 billion hole as investors write down equity.",
-          "link": "https://arstechnica.com/?p=1896521",
-          "publishedOn": "2022-11-10T14:27:51.000Z",
-          "wordCount": 1765,
-          "title": "FTX on brink of collapse after Binance abandons rescue",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/ftx-screwed-760x380.jpg"
         }
       ]
     },
@@ -8236,86 +8166,6 @@
           "wordCount": 4684,
           "title": "Battlefield 2042 coming to EA Play and Game Pass Ultimate with Season 3",
           "imageUrl": "https://assets.reedpopcdn.com/bf2042_ojtv1oJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bf2042_ojtv1oJ.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflixs-live-action-the-witcher-prequel-blood-origin-gets-new-trailer",
-          "author": "Matt Wales",
-          "description": "While we continue to wrestle with the fact Henry Cavill has whipped off his white Witcher wig for the very last time, Netflix is forging ever onward into the Witcherverse, this time with a new trailer for its upcoming live-action prequel Blood Origin.\r\n\n\r\nBlood Origin isn't Netflix's first Witcher prequel, of course; last year saw the streaming service release an animated movie called The Witcher: Nightmare of the Wolf, focusing on Geralt of Rivia's friend and mentor Vesemir.\r\n\n\r\nBlood Origin, though, goes some considerable way further back in the series' timeline, telling a story set 1,200 years before Geralt and the events we're familiar with from Polish author Andrzej Sapkowski's books, CD Projekt's games, and Netflix's existing TV show.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/netflixs-live-action-the-witcher-prequel-blood-origin-gets-new-trailer",
-          "publishedOn": "2022-11-10T18:21:23.000Z",
-          "wordCount": 4640,
-          "title": "Netflix's live-action The Witcher prequel Blood Origin gets new trailer",
-          "imageUrl": "https://assets.reedpopcdn.com/witcher-blood-origin-trailer-grab.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher-blood-origin-trailer-grab.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflixs-the-witcher-prequel-blood-origin-gets-first-trailer",
-          "author": "Matt Wales",
-          "description": "While we continue to wrestle with the fact Henry Cavill has whipped off his white Witcher wig for the very last time, Netflix is forging ever onward into the Witcherverse, this time with a first trailer for its upcoming live-action prequel Blood Origin.\r\n\n\r\nBlood Origin isn't Netflix's first Witcher prequel, of course; last year saw the streaming network release an animated movie called The Witcher: Nightmare of the Wolf, focusing on Geralt of Rivia's friend and mentor Vesemir.\r\n\n\r\nBlood Origin, though, goes some considerable way further back in the series' timeline, telling a story set 1,200 years before Geralt and the events we're familiar with from Polish author Andrzej Sapkowski's books, CD Projekt's games and Netflix's existing TV show.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/netflixs-the-witcher-prequel-blood-origin-gets-first-trailer",
-          "publishedOn": "2022-11-10T18:21:23.000Z",
-          "wordCount": 4640,
-          "title": "Netflix's live-action The Witcher prequel Blood Origin gets first trailer",
-          "imageUrl": "https://assets.reedpopcdn.com/witcher-blood-origin-trailer-grab.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher-blood-origin-trailer-grab.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/doom-eternal-composer-responds-to-false-accusations-made-by-games-executive-producer",
-          "author": "Liv Ngan",
-          "description": "Mick Gordon, known for his work on soundtracks for several games including the Wolfenstein and Doom series, has released a statement in response to accusations made against him by Marty Stratton in May 2020.\r\n\nIn April 2020, Gordon distanced himself from the soundtrack album for Doom Eternal after it received criticisms from fans on its quality. This led to speculation from fans about its production, and Stratton, who was working as executive producer on Doom Eternal, posted an open letter to the Doom subreddit to address rumours. \r\n\nA year and a half later, Gordon has written a lengthy statement rebutting Stratton's claims, with screenshots of emails and legal documents (with sensitive information removed) as evidence of the true timeline of events. He posted his statement on Medium, in which he alleged abusive behaviour and manipulation by Stratton. Gordon stated he has released it to defend himself, and urged people to not use it as an excuse for a hate campaign.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/doom-eternal-composer-responds-to-false-accusations-made-by-games-executive-producer",
-          "publishedOn": "2022-11-10T16:11:25.000Z",
-          "wordCount": 5435,
-          "title": "Doom Eternal composer responds to \"false accusations\" made by game's executive producer",
-          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2021-doom-eternal-next-gen-patch-tested-1625675769843.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2021-doom-eternal-next-gen-patch-tested-1625675769843.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/eurogamer-newscast-pokemon-leaks-scarlet-violet-matter",
-          "author": "Tom Phillips",
-          "description": "This week on the Eurogamer Newscast, we're discussing the now-widespread leaks of new Pokémon designs from the upcoming Scarlet and Violet games.\r\n\nPokémon details always leak - often months before launch, but especially in the last few weeks as retail copies begin appearing in the wild. Should you look at spoilers? For some, uncovering the many unannounced creatures as they play is a core part of the games. For others, knowing what your new Starter Pokémon will eventually evolve into is a big deal.  \nWhichever side of the debate you're on, there's no doubting the level of interest in new Pokémon designs - seen this week when the final evolution of Starter cat creature Sprigatito sparked an avalanche of dubious fanart after an image was posted by a leaker. Joining me this week to share their thoughts are Eurogamer's Ed Nightingale, Victoria Kennedy and Liv Ngan.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/eurogamer-newscast-pokemon-leaks-scarlet-violet-matter",
-          "publishedOn": "2022-11-10T15:57:26.000Z",
-          "wordCount": 4430,
-          "title": "Should you peek at Pokémon Scarlet and Violet leaks?",
-          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/streamers-show-call-of-duty-warzone-2s-new-narrative-focused-extraction-dmz-mode-in-action",
-          "author": "Victoria Kennedy",
-          "description": "Yesterday, Call of Duty developer Infinity Ward detailed what's in store for players when its free-to-play Warzone 2.0 launches alongside Modern Warfare 2's first season on 16th November.\r\n\n\r\nThis included a little bit more on its brand-new \"experience\" known as DMZ.\r\n\n\r\nThis Escape From Tarkov-inspired mode is described as an \"open-world, narrative-focused extraction mode where Operator squads have free rein to complete faction-based missions, take on additional side objectives, engage with enemy Operators or AI combatants, and search for valuable items, all while fighting to survive toward exfiltration\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/streamers-show-call-of-duty-warzone-2s-new-narrative-focused-extraction-dmz-mode-in-action",
-          "publishedOn": "2022-11-10T14:10:42.000Z",
-          "wordCount": 4636,
-          "title": "Streamers show Call of Duty Warzone 2's new \"narrative-focused extraction\" DMZ mode in action",
-          "imageUrl": "https://assets.reedpopcdn.com/cod-mw2-dmz.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cod-mw2-dmz.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-infinite-fans-have-built-blood-gulch-in-forge-already",
-          "author": "Tom Phillips",
-          "description": "Iconic Halo map Blood Gulch has been recreated in the game's new Forge mode, just hours after its official beta went live. \r\n\n\r\nThe long-awaited Forge offering officially arrived yesterday as part of Halo Infinite's Winter Update, and of course Blood Gulch was one of the first things on anyone's mind to recreate.\r\n\n\r\nHalo fan Epsilon_church_ posted word of their creation to Twitter yesterday evening and invited others to try the map for themselves. Amusingly, however, it needed to be named \"Coagulation\", as \"BloodGulch\" was blocked.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/halo-infinite-fans-have-built-blood-gulch-in-forge-already",
-          "publishedOn": "2022-11-10T14:04:32.000Z",
-          "wordCount": 4474,
-          "title": "Halo Infinite fans have built Blood Gulch in Forge already",
-          "imageUrl": "https://assets.reedpopcdn.com/FhFqpLEXwAAm2qu.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FhFqpLEXwAAm2qu.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/kynseed-from-ex-fable-devs-leaves-early-access-next-month",
-          "author": "Ed Nightingale",
-          "description": "Kynseed, the life sim RPG from ex-Fable developers, is soon to be released out of Early Access.\r\n\n\r\nThe full game will launch on PC on 6th December.\r\n\n\r\nIt's been developed by PixelCount Studios, comprising veterans of the Fable series, and chaired by Games Workshop founder Sir Ian Livingstone.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/kynseed-from-ex-fable-devs-leaves-early-access-next-month",
-          "publishedOn": "2022-11-10T13:00:00.000Z",
-          "wordCount": 4540,
-          "title": "Kynseed, from ex-Fable devs, leaves Early Access next month",
-          "imageUrl": "https://assets.reedpopcdn.com/Key_art_200%25-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/Key_art_200%25-(1).png"
-        },
-        {
-          "id": "https://www.eurogamer.net/google-now-processing-stadia-refunds-asks-you-dont-contact-customer-support",
-          "author": "Tom Phillips",
-          "description": "Google has begun the long process of refunding all Stadia customers for their hardware, games and in-game purchases - something it hopes to have completed by 18th January 2023, the date Stadia servers are switched off. \r\n\n\r\nA detailed FAQ page on the process is now available for Stadia customers to browse, but in a nutshell it boils down to: sit tight. \r\n\n\r\nGoogle will attempt to refund you for most things you bought to do with Stadia - except for the Stadia Pro subscription. It'll keep your money for that.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/google-now-processing-stadia-refunds-asks-you-dont-contact-customer-support",
-          "publishedOn": "2022-11-10T12:48:47.000Z",
-          "wordCount": 4523,
-          "title": "Google now processing Stadia refunds, asks you don't contact customer support",
-          "imageUrl": "https://assets.reedpopcdn.com/stadia_kMGlaui.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stadia_kMGlaui.jpg"
         }
       ]
     },
@@ -8503,26 +8353,6 @@
           "wordCount": 1393,
           "title": "The journey of your work has never been clearer",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/11/image-8.png"
-        },
-        {
-          "id": "https://github.blog/?p=68590",
-          "author": "Ethan Dennis",
-          "description": "GitHub Actions Importer helps you forecast, plan, and facilitate migrations from your current CI/CD tool to GitHub Actions.",
-          "link": "https://github.blog/2022-11-10-introducing-github-actions-importer/",
-          "publishedOn": "2022-11-10T17:00:19.000Z",
-          "wordCount": 2851,
-          "title": "Introducing GitHub Actions Importer",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/11/1200x640.png?fit=1200%2C640"
-        },
-        {
-          "id": "https://github.blog/?p=68650",
-          "author": "Nik Molnar",
-          "description": "We’re giving GitHub users 60 free hours each month on Codespaces. Learn what else we shipped for Codespaces at Universe this year.",
-          "link": "https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/",
-          "publishedOn": "2022-11-10T16:00:16.000Z",
-          "wordCount": 1986,
-          "title": "What’s new with Codespaces from GitHub Universe 2022",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/08/Universe-Blog-1-Header.jpg?fit=2400%2C1260"
         }
       ]
     },
