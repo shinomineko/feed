@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T18:26:02.099Z</updated>
+    <updated>2022-12-12T00:32:19.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: We're now signing our binary release artifacts!]]></title>
+        <id>https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/</id>
+        <link href="https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/"/>
+        <updated>2022-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Sascha Grunert
+The Kubernetes Special Interest Group (SIG) Release is proud to announce that we
+are digitally signing all release artifacts, and that this aspect of Kubernetes
+has now reached beta.
+Signing artifacts provides end users a chance to verify the integrity of the
+downloaded resource. It allows to mitigate man-in-the-middle attacks directly on
+the client side and therefore ensures the trustfulness of the remote serving the
+artifacts. The overall goal of out past work was to define the used tooling for
+signing all Kubernetes related artifacts as well as providing a standard signing
+process for related projects (for example for those in kubernetes-sigs).
+We already signed all officially released container images (from Kubernetes v1.24 onwards).
+Image signing was alpha for v…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s why NASA’s Artemis I mission is so rare, and so remarkable]]></title>
+        <id>https://arstechnica.com/?p=1903573</id>
+        <link href="https://arstechnica.com/?p=1903573"/>
+        <updated>2022-12-11T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA["It is the beginning of the new beginning."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xbox boss Phil Spencer says Sony wants to "grow by making Xbox smaller"]]></title>
         <id>https://www.eurogamer.net/xbox-boss-phil-spencer-says-sony-wants-to-grow-by-making-xbox-smaller</id>
@@ -11025,42 +11056,6 @@ Read more]]></summary>
 Developer Rare tweeted the news late yesterday, along with confirmation that a full reveal of what's coming up will be streamed next Friday, 18th November, at 7pm UK time (4pm UTC, 8am PT / 11am ET).
 
 Hopefully we'll find out more about the community's decision in the current Adventure, Return of the Damned, too, alongside sneaky peeks about other new Adventures and Mysteries, the Plunder Pass, and usual bug and QoL fixes.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Dark ships” emerge from the shadow of the Nord Stream pipeline mystery]]></title>
-        <id>https://arstechnica.com/?p=1897100</id>
-        <link href="https://arstechnica.com/?p=1897100"/>
-        <updated>2022-11-12T12:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Satellite monitors found 2 vessels with their trackers turned off in area of explosions.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Apple TV 4K review: HDR10+ rounds out an already excellent streaming box]]></title>
-        <id>https://arstechnica.com/?p=1897225</id>
-        <link href="https://arstechnica.com/?p=1897225"/>
-        <updated>2022-11-12T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[A lower price makes this mostly unchanged device much more appealing.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Space reveals its voice cast]]></title>
-        <id>https://www.eurogamer.net/dead-space-reveals-its-voice-cast</id>
-        <link href="https://www.eurogamer.net/dead-space-reveals-its-voice-cast"/>
-        <updated>2022-11-12T11:04:19.000Z</updated>
-        <summary type="html"><![CDATA[EA and Motive have revealed the voice actors cast in its Dead Space remake.
-
-Although we already knew that previously silent protagonist Isaac Clarke would now be voiced by Gunner Wright - the original voice of Isaac in Dead Space 2 and 3 - Motive has now revealed the rest of the cast.
-
-Tanya Clarke - no relation to Isaac - is back as Nicole Brennan, having provided her voice and likeness in the first game and Dead Space 2. Former NHL athlete Anthony Alabi is on board to portray the no-nonsense Zach Hammond, fresh from his roles in Shameless and Family Reunion.
  
 Read more]]></summary>
         <author>

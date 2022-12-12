@@ -413,6 +413,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1903573",
+          "author": "Eric Berger",
+          "description": "\"It is the beginning of the new beginning.\"",
+          "link": "https://arstechnica.com/?p=1903573",
+          "publishedOn": "2022-12-11T22:00:21.000Z",
+          "wordCount": 2724,
+          "title": "Here’s why NASA’s Artemis I mission is so rare, and so remarkable",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/52557403088_e8db1ee2db_6k-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1901855",
           "author": "Corey Gaskin",
           "description": "Dealmaster also has buy-two-get-one-free books, 4K TVs, and a slew of smart home devices.",
@@ -3501,26 +3511,6 @@
           "wordCount": 1935,
           "title": "Dung beetle moms protect their offspring from a warming world by digging deeper",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/beware-of-dung-beetles-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897100",
-          "author": "WIRED",
-          "description": "Satellite monitors found 2 vessels with their trackers turned off in area of explosions.",
-          "link": "https://arstechnica.com/?p=1897100",
-          "publishedOn": "2022-11-12T12:15:19.000Z",
-          "wordCount": 1591,
-          "title": "“Dark ships” emerge from the shadow of the Nord Stream pipeline mystery",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/splash-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897225",
-          "author": "Samuel Axon",
-          "description": "A lower price makes this mostly unchanged device much more appealing.",
-          "link": "https://arstechnica.com/?p=1897225",
-          "publishedOn": "2022-11-12T12:00:46.000Z",
-          "wordCount": 1748,
-          "title": "2022 Apple TV 4K review: HDR10+ rounds out an already excellent streaming box",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/2022-Apple-TV-4K-both-760x380.jpeg"
         }
       ]
     },
@@ -3546,6 +3536,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/",
+          "author": null,
+          "description": "Author: Sascha Grunert\nThe Kubernetes Special Interest Group (SIG) Release is proud to announce that we\nare digitally signing all release artifacts, and that this aspect of Kubernetes\nhas now reached beta.\nSigning artifacts provides end users a chance to verify the integrity of the\ndownloaded resource. It allows to mitigate man-in-the-middle attacks directly on\nthe client side and therefore ensures the trustfulness of the remote serving the\nartifacts. The overall goal of out past work was to define the used tooling for\nsigning all Kubernetes related artifacts as well as providing a standard signing\nprocess for related projects (for example for those in kubernetes-sigs).\nWe already signed all officially released container images (from Kubernetes v1.24 onwards).\nImage signing was alpha for v…",
+          "link": "https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/",
+          "publishedOn": "2022-12-12T00:00:00.000Z",
+          "wordCount": 3606,
+          "title": "Blog: Kubernetes 1.26: We're now signing our binary release artifacts!",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/",
           "author": null,
@@ -7816,16 +7816,6 @@
           "wordCount": 4727,
           "title": "Sea of Thieves season 8 launches later this month",
           "imageUrl": "https://assets.reedpopcdn.com/Sea-of-Thieves-17_08_2022-22_33_53.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Sea-of-Thieves-17_08_2022-22_33_53.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/dead-space-reveals-its-voice-cast",
-          "author": "Vikki Blake",
-          "description": "EA and Motive have revealed the voice actors cast in its Dead Space remake.\r\n\nAlthough we already knew that previously silent protagonist Isaac Clarke would now be voiced by Gunner Wright - the original voice of Isaac in Dead Space 2 and 3 - Motive has now revealed the rest of the cast.\r\n\nTanya Clarke - no relation to Isaac - is back as Nicole Brennan, having provided her voice and likeness in the first game and Dead Space 2. Former NHL athlete Anthony Alabi is on board to portray the no-nonsense Zach Hammond, fresh from his roles in Shameless and Family Reunion.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dead-space-reveals-its-voice-cast",
-          "publishedOn": "2022-11-12T11:04:19.000Z",
-          "wordCount": 4569,
-          "title": "Dead Space reveals its voice cast",
-          "imageUrl": "https://assets.reedpopcdn.com/dead-space-remake-isaac-necromorph-screenshot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dead-space-remake-isaac-necromorph-screenshot.jpg"
         }
       ]
     },
