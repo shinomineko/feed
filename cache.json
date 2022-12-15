@@ -124,16 +124,6 @@
           "wordCount": 232,
           "title": "Account Problems",
           "imageUrl": "https://imgs.xkcd.com/comics/account_problems_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2699/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/feature_comparison.png\" title=\"Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.\" alt=\"Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.\" />",
-          "link": "https://xkcd.com/2699/",
-          "publishedOn": "2022-11-16T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Feature Comparison",
-          "imageUrl": "https://imgs.xkcd.com/comics/feature_comparison_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/12/a-security-vulnerability-in-the-kmsdbot-botnet.html",
+          "author": null,
+          "description": "<p>Security researchers <a href=\"https://arstechnica.com/information-technology/2022/12/advanced-botnet-taken-down-by-an-all-too-human-flaw-syntax-error/\">found</a> a software bug in the KmsdBot cryptomining botnet:</p>\n<blockquote><p>With no error-checking built in, sending KmsdBot a malformed command­&#8212;like its controllers did one day while Akamai was watching­&#8212;created a panic crash with an &#8220;index out of range&#8221; error. Because there&#8217;s no persistence, the bot stays down, and malicious agents would need to reinfect a machine and rebuild the bot&#8217;s functions. It is, as Akamai notes, &#8220;a nice story&#8221; and &#8220;a strong example of the fickle nature of technology.&#8221;</p></blockquote>\n...",
+          "link": "https://www.schneier.com/blog/archives/2022/12/a-security-vulnerability-in-the-kmsdbot-botnet.html",
+          "publishedOn": "2022-12-15T12:10:05.000Z",
+          "wordCount": 706,
+          "title": "A Security Vulnerability in the KmsdBot Botnet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/12/reimagining-democracy.html",
           "author": null,
@@ -3731,106 +3731,6 @@
           "wordCount": 2087,
           "title": "NASA gets its mojo back with a stunning nighttime launch of the SLS rocket",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Artemis-1-Nov-16-2022-0262-3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897640",
-          "author": "Ron Amadeo",
-          "description": "Features 32-bit support, Wi-Fi 7, the AV1 codec, and hardware ray tracing.",
-          "link": "https://arstechnica.com/?p=1897640",
-          "publishedOn": "2022-11-15T23:00:49.000Z",
-          "wordCount": 1905,
-          "title": "The Snapdragon 8 Gen 2 brings Wi-Fi 7, sticks with some 32-bit support",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1898074",
-          "author": "Benj Edwards",
-          "description": "No, it's not a Game Boy Advance SP. This is the monochrome Pocket with hinge.",
-          "link": "https://arstechnica.com/?p=1898074",
-          "publishedOn": "2022-11-15T22:24:43.000Z",
-          "wordCount": 1663,
-          "title": "Hobbyist adds a hinge to the Game Boy Pocket, delighting everyone",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/gbpsp_hero_2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897727",
-          "author": "Jennifer Ouellette",
-          "description": "This would increase the odds of finding another prehistoric human body in melting ice.",
-          "link": "https://arstechnica.com/?p=1897727",
-          "publishedOn": "2022-11-15T22:13:22.000Z",
-          "wordCount": 1817,
-          "title": "Study: Ötzi the Iceman probably thawed and refroze several times",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/otziTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1898062",
-          "author": "Beth Mole",
-          "description": "Simone Gold used charity funds to buy $3.6M house, group leaders claim.",
-          "link": "https://arstechnica.com/?p=1898062",
-          "publishedOn": "2022-11-15T21:24:22.000Z",
-          "wordCount": 2018,
-          "title": "Right-wing doctor group led by anti-vaccine insurrectionist implodes in scandal",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/50755976658_dbb9633830_o-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897964",
-          "author": "Samuel Axon",
-          "description": "It'll come to France, Germany, Ireland, and the UK in December.",
-          "link": "https://arstechnica.com/?p=1897964",
-          "publishedOn": "2022-11-15T21:08:00.000Z",
-          "wordCount": 1759,
-          "title": "Apple’s satellite emergency service launches in the US and Canada",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone-14-pro-max-back-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1898061",
-          "author": "Dan Goodin",
-          "description": "Active in dozens of advanced hacks since 2009, Billbug is still going strong.",
-          "link": "https://arstechnica.com/?p=1898061",
-          "publishedOn": "2022-11-15T20:51:52.000Z",
-          "wordCount": 1703,
-          "title": "State-sponsored hackers in China compromise certificate authority",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/tls-concept-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897739",
-          "author": "Eric Berger",
-          "description": "\"We are going,\" NASA says. \"We sure hope so,\" America replies.",
-          "link": "https://arstechnica.com/?p=1897739",
-          "publishedOn": "2022-11-15T19:40:25.000Z",
-          "wordCount": 1998,
-          "title": "Is tonight the night that NASA’s massive SLS rocket finally takes flight?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/SLS-Apr-21-2022-8868-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897926",
-          "author": "Andrew Cunningham",
-          "description": "Past years' sweater themes have included Minesweeper and Windows XP.",
-          "link": "https://arstechnica.com/?p=1897926",
-          "publishedOn": "2022-11-15T19:08:07.000Z",
-          "wordCount": 1585,
-          "title": "This year’s ugly Microsoft sweater has a suggestion for you: It’s Clippy",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Clippy-Sweater_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897896",
-          "author": "Kevin Purdy",
-          "description": "If you're going to reverse-sue under DMCA and CFAA, you'd better prove it.",
-          "link": "https://arstechnica.com/?p=1897896",
-          "publishedOn": "2022-11-15T18:59:46.000Z",
-          "wordCount": 1678,
-          "title": "Judge drops DMCA claims that Bungie reverse-engineered Destiny 2 cheats",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/destiny2dodge-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1897944",
-          "author": "Kyle Orland",
-          "description": "Is the iOS \"walled garden\" a security feature, or just an \"excuse\" to rake in profits?",
-          "link": "https://arstechnica.com/?p=1897944",
-          "publishedOn": "2022-11-15T18:31:50.000Z",
-          "wordCount": 1935,
-          "title": "Epic strikes back at Apple’s iOS “security” defense in appeals court",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/epic3-760x380.png"
         }
       ]
     },
@@ -4007,6 +3907,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/starfield-faction-quests-can-be-played-independently-more-akin-to-skyrim-than-fallout-4",
+          "author": "Victoria Kennedy",
+          "description": "Starfield's lead quest designer Will Shen has divulged more about the upcoming game's faction quests and the players' companion side-kicks. \r\n\n\r\nIn a new video, Shen revealed Starfield's faction quests will be more similar to those from Bethesda's Skyrim, in the sense that players will be able to experience each faction independently. This will not be a Fallout 4 situation, which saw players being locked out of factions after joining another (something that was a bone of contention among some members of the community).\r\n\n\r\n\"One of the early things we decided on was making sure that the main quest actually kind of gives you a little bit of a tour of the settled systems and all of the major players there so that we can give you a taste of what they're going to be up to,\" Shen explained. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/starfield-faction-quests-can-be-played-independently-more-akin-to-skyrim-than-fallout-4",
+          "publishedOn": "2022-12-15T11:57:58.000Z",
+          "wordCount": 4860,
+          "title": "Starfield faction quests can be played independently, more akin to Skyrim than Fallout 4",
+          "imageUrl": "https://assets.reedpopcdn.com/starfield-quest-chat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starfield-quest-chat.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/you-can-finally-pet-the-horse-in-the-witcher-3",
+          "author": "Ed Nightingale",
+          "description": "Finally, you can pet Roach in The Witcher 3.\r\n\n\r\nRoach is Geralt's trusty steed but until now she's only been rideable, despite the strong bond players form with her over the hours and hours of playtime. \r\n\n\r\nNow, thanks to the recent upgrade patch for PC, PlayStation 5 and Xbox Series X/S, Roach can be given the love and affection she deserves.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/you-can-finally-pet-the-horse-in-the-witcher-3",
+          "publishedOn": "2022-12-15T11:52:49.000Z",
+          "wordCount": 4678,
+          "title": "You can finally pet the horse in The Witcher 3",
+          "imageUrl": "https://assets.reedpopcdn.com/witcher-3-next-gen.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher-3-next-gen.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/fireworks-puzzler-fantavision-returns-to-psvr2-day-one",
+          "author": "Ed Nightingale",
+          "description": "Japan Studio's PS2 classic puzzle game Fantavision will return next year on PSVR2.\r\n\n\r\nA launch game for the console, it involves matching coloured fireworks and exploding them in chains for a long combo - and impressive display.\r\n\n\r\nNow it's set to return as Fantavision 202X as a launch title for Sony's next VR headset.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fireworks-puzzler-fantavision-returns-to-psvr2-day-one",
+          "publishedOn": "2022-12-15T11:30:09.000Z",
+          "wordCount": 4463,
+          "title": "Fireworks puzzler Fantavision returns to PSVR2 day one",
+          "imageUrl": "https://assets.reedpopcdn.com/fantavision.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fantavision.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/resident-evil-village-will-get-free-dlc-to-become-playstation-vr2-launch-title",
+          "author": "Liv Ngan",
+          "description": "Resident Evil Village's upcoming VR mode will be available from the launch of PlayStation VR2 as free DLC, Capcom has announced.\nFollowing a playable demo at Tokyo Game Show in September, a release date was left in speculation until earlier today.\nVillage will be available to play from day one on PSVR2 (22nd February), and will be a free DLC for all editions of the game.\n Read more",
+          "link": "https://www.eurogamer.net/resident-evil-village-will-get-free-dlc-to-become-playstation-vr2-launch-title",
+          "publishedOn": "2022-12-15T11:28:35.000Z",
+          "wordCount": 4722,
+          "title": "Resident Evil Village will get free DLC to become PlayStation VR2 launch title",
+          "imageUrl": "https://assets.reedpopcdn.com/resident-evil-village-vr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-village-vr.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/mega-man-battle-network-legacy-collection-gets-april-release-date",
           "author": "Matt Wales",
@@ -8086,46 +8026,6 @@
           "wordCount": 5188,
           "title": "Geralt voice actor sad about Henry Cavill leaving The Witcher Netflix show",
           "imageUrl": "https://assets.reedpopcdn.com/witchercon_art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witchercon_art.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ocean-survival-adventure-raft-is-coming-to-consoles",
-          "author": "Matt Wales",
-          "description": "Six months after enjoyable open water survival adventure Raft drifted serenely out of Steam early access, developer Redbeet Interactive has announced it's adapting the game for consoles.\r\n\n\r\nRaft, if you're unfamiliar, first gained attention as a free itch.io prototype back in 2016. After a two year spell expanding the game's core survival loop - in which players chart their raft across a vast ocean, reeling in food, supplies, and building materials to turn their initially tiny vessel into a veritable sea-faring palace - Redbeet launched into Steam early access in 2018.\r\n\n\r\nRaft has come a long way since then, gaining the likes of online co-op, explorable islands, underwater reefs, crop growing, cooking, animal care, and even a full story campaign for its version 1.0 release on PC, which arrived this June.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ocean-survival-adventure-raft-is-coming-to-consoles",
-          "publishedOn": "2022-11-16T00:16:15.000Z",
-          "wordCount": 4494,
-          "title": "Ocean survival adventure Raft is coming to consoles",
-          "imageUrl": "https://assets.reedpopcdn.com/raft_F9DAhKz.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/raft_F9DAhKz.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/take-a-look-at-this-impressive-fallout-76-live-action-fan-film",
-          "author": "Matt Wales",
-          "description": "If you're still impatiently awaiting Amazon's live-action take on the Fallout universe, you might like a look at a newly released Fallout 76 fan project, admirably capturing the ambience of Bethesda's long-running series without, I assume, a budget of 150m Bezosbucks.\r\n\n\r\nCreated by YouTube channel Infectious Designer (which has also produced live-action shorts inspired by the likes of Half-Life, Killzone, and Watch Dogs), the Fallout 76 concept trailer serves up two minutes and 35 seconds of impressively realised Fallout splendour, replicating the series distinctive retro-futuristic aesthetic both before and after the nuclear apocalypse.\r\n\n\r\nNow, I'm not going to pretend to be an expert on Fallout 76 - about the only thing I can say with any confidence is that it's the 76th game in the Fallout series - but even to my eyes there's some lovely attention to detail in Infectious Designer's concept trailer, ranging from an authentic Pip-Boy and a hulking Vault suit to what I think is a CGI Scorchbeast. Oh and there's enough Nuka-Cola to rot the teeth clean out of your skull.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/take-a-look-at-this-impressive-fallout-76-live-action-fan-film",
-          "publishedOn": "2022-11-15T23:12:58.000Z",
-          "wordCount": 4648,
-          "title": "Take a look at this impressive Fallout 76 live-action fan film",
-          "imageUrl": "https://assets.reedpopcdn.com/fallout-76-fan-film.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fallout-76-fan-film.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/phil-spencer-says-xbox-shelved-game-streaming-box-because-it-was-too-expensive",
-          "author": "Matt Wales",
-          "description": "Xbox boss Phil Spencer has revealed Microsoft's decision to \"pivot away\" from its previously announced Game Pass streaming box earlier this year was due to pricing concerns, with the company unable to get the device within its desired $99-$129 price bracket.\r\n\n\r\nSpeaking in the latest episode of The Verge's Decoder podcast (as spotted by VGC), Spencer explained, \"The console we built that now people have seen...was more expensive than we wanted it to be when we actually built it out with the hardware that we had inside.\"\r\n\n\r\nMicrosoft never formally revealed this version of its streaming box, codenamed Keystone - a standalone device utilising a familiar Xbox user interface, according to Spencer - but it did set tongues wagging when a prototype showed up in a photo of the Xbox boss' office last month.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/phil-spencer-says-xbox-shelved-game-streaming-box-because-it-was-too-expensive",
-          "publishedOn": "2022-11-15T20:48:06.000Z",
-          "wordCount": 4602,
-          "title": "Phil Spencer says Xbox shelved game streaming box because it cost too much",
-          "imageUrl": "https://assets.reedpopcdn.com/phils-mystery-box_zVhJG7w.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/phils-mystery-box_zVhJG7w.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/civ-6s-leader-pass-is-official-adds-18-new-leaders-over-6-dlcs",
-          "author": "Matt Wales",
-          "description": "2K and developer Firaxis have formally announced the previously leaked Leader Pass for Civilisation 6, adding 18 leaders to the 4X strategy favourite over the course of six DLC releases.\r\n\n\r\n12 of the 18 leaders featured in the DLC are new to Civilization 6, while six are described as \"new takes\" on existing leaders. Each is said to offer \"surprising new or updated abilities\", alongside \"inventive agendas that'll change the way you play\".\r\n\n\r\nUp first are Abraham Lincoln (representing the United States), Queen Nzinga Mbande (Kongo), and Sultan Saladin (Arabia), all arriving as part of the diplomacy focused Great Negotiations Pack on 21st November. 2K is yet to provide launch dates for the Leader Pass' five remaining DLC releases, but all are due before the end of March 2023.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/civ-6s-leader-pass-is-official-adds-18-new-leaders-over-6-dlcs",
-          "publishedOn": "2022-11-15T19:26:28.000Z",
-          "wordCount": 4661,
-          "title": "Civilization 6's Leader Pass is official, adds 18 leaders over 6 DLCs",
-          "imageUrl": "https://assets.reedpopcdn.com/civ-6-leader-pass.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/civ-6-leader-pass.jpg"
         }
       ]
     },
@@ -8313,36 +8213,6 @@
           "wordCount": 1689,
           "title": "Octoverse 2022: 10 years of tracking open source",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/11/octoverse2.png"
-        },
-        {
-          "id": "https://github.blog/?p=68721",
-          "author": "Candy Ho",
-          "description": "GitHub Mobile helps keep work going while you're going. Untether yourself from your office.",
-          "link": "https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/",
-          "publishedOn": "2022-11-15T20:51:23.000Z",
-          "wordCount": 1314,
-          "title": "The power of GitHub in the palm of your hand",
-          "imageUrl": "https://github.blog/wp-content/uploads/2020/02/github-mobile-1200-630.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=68712",
-          "author": "Ryan J. Salva",
-          "description": "Reading code is a hugely important task for developers. That’s why we built GitHub’s new code search—to help developers search, navigate, and understand code written by them, their team, and the world.",
-          "link": "https://github.blog/2022-11-15-a-better-way-to-search-navigate-and-understand-code-on-github/",
-          "publishedOn": "2022-11-15T19:51:04.000Z",
-          "wordCount": 1234,
-          "title": "A better way to search, navigate, and understand code on GitHub",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product_green@2x.png?fit=2400%2C1260"
-        },
-        {
-          "id": "https://github.blog/?p=68732",
-          "author": "Mario Rodriguez",
-          "description": "In July, we launched the general availability of GitHub Projects, and now we are excited to bring you even more features designed to make it easier to plan and track in the same place you build!",
-          "link": "https://github.blog/2022-11-15-the-journey-of-your-work-has-never-been-clearer/",
-          "publishedOn": "2022-11-15T18:50:57.000Z",
-          "wordCount": 1393,
-          "title": "The journey of your work has never been clearer",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/11/image-8.png"
         }
       ]
     },
