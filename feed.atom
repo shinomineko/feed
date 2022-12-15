@@ -2,10 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T18:26:14.670Z</updated>
+    <updated>2022-12-15T00:31:06.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Alpha API For Dynamic Resource Allocation]]></title>
+        <id>https://kubernetes.io/blog/2022/12/15/dynamic-resource-allocation/</id>
+        <link href="https://kubernetes.io/blog/2022/12/15/dynamic-resource-allocation/"/>
+        <updated>2022-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Patrick Ohly (Intel), Kevin Klues (NVIDIA)
+Dynamic resource allocation is a new API for requesting resources. It is a
+generalization of the persistent volumes API for generic resources, making it possible to:
+access the same resource instance in different pods and containers,
+attach arbitrary constraints to a resource request to get the exact resource
+you are looking for,
+initialize a resource according to parameters provided by the user.
+Third-party resource drivers are responsible for interpreting these parameters
+as well as tracking and allocating resources as requests come in.
+Dynamic resource allocation is an alpha feature and only enabled when the
+DynamicResourceAllocation feature
+gate and the
+resource.k8s.io/v1alpha1 API group are enabled. For details, see the
+--feature-gat…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High class: A strong electric assist transforms a classic cruiser]]></title>
+        <id>https://arstechnica.com/?p=1901684</id>
+        <link href="https://arstechnica.com/?p=1901684"/>
+        <updated>2022-12-14T23:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Mixed messages from a casual cruising machine with a powerful motor.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oppo prototypes Magic Mouse-looking health tracker for the whole family]]></title>
+        <id>https://arstechnica.com/?p=1904375</id>
+        <link href="https://arstechnica.com/?p=1904375"/>
+        <updated>2022-12-14T23:33:52.000Z</updated>
+        <summary type="html"><![CDATA[ECG, sleep tracking, and heart and lung auscultation—all in one unusual design.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID is here to stay, but global emergency could end next year, WHO chief says]]></title>
+        <id>https://arstechnica.com/?p=1904591</id>
+        <link href="https://arstechnica.com/?p=1904591"/>
+        <updated>2022-12-14T22:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Vaccine inequity, long COVID, and weak variant surveillance loom as big challenges.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Man Battle Network Legacy Collection gets April release date]]></title>
+        <id>https://www.eurogamer.net/mega-man-battle-network-legacy-collection-gets-april-release-date</id>
+        <link href="https://www.eurogamer.net/mega-man-battle-network-legacy-collection-gets-april-release-date"/>
+        <updated>2022-12-14T22:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Capcom's Mega Man Battle Network Legacy Collection now has a release date, and will be launching for Switch, PlayStation, and PC on 14th April next year.
+
+
+As was the case for previous Mega Man Legacy Collections, Capcom's Battle Network compilation - which gathers together 10 games in the real-time tactical RPG spin-off series - will be split across two volumes for its digital release. 
+
+
+Volume 1 features Mega Man Battle Network, Mega Man Battle Network 2, Mega Man Battle Network 3 Blue, and Mega Man Battle Network 3 White - all of which originally launched for Nintendo GBA between 2001 and 2003.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosecutors charge 6 people for allegedly waging massive DDoS attacks]]></title>
+        <id>https://arstechnica.com/?p=1904558</id>
+        <link href="https://arstechnica.com/?p=1904558"/>
+        <updated>2022-12-14T22:31:35.000Z</updated>
+        <summary type="html"><![CDATA[48 Internet domains associated with the services have also been seized.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Ghostwriter, a haunted AI-powered typewriter that talks to you]]></title>
+        <id>https://arstechnica.com/?p=1904475</id>
+        <link href="https://arstechnica.com/?p=1904475"/>
+        <updated>2022-12-14T21:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Custom typewriter hack uses Arduino, Rapsberry Pi, and GPT-3 to dramatic effect.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The day the plastic music died: Epic shutting down Rock Band and other servers]]></title>
+        <id>https://arstechnica.com/?p=1904389</id>
+        <link href="https://arstechnica.com/?p=1904389"/>
+        <updated>2022-12-14T21:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Rock Band, Unreal, and other games at Epic lose online services on Jan. 24.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon's live-action God of War TV adaptation is officially go]]></title>
+        <id>https://www.eurogamer.net/amazons-live-action-god-of-war-tv-adaptation-is-officially-go</id>
+        <link href="https://www.eurogamer.net/amazons-live-action-god-of-war-tv-adaptation-is-officially-go"/>
+        <updated>2022-12-14T20:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Following reports earlier this year that Amazon was eyeing up a live-action TV adaptation of Sony Santa Monica's God of War series, the project is now officially go for Prime Video.
+
+
+According to The Hollywood Reporter, the show has been in development since March and will, notably, focus on Kratos' dad years in Midgard as per 2018's God of War reboot, rather than the ultra-violent Greek-mythology-inspired adventures of Kratos' earlier games.
+
+
+Here's how the show's official description teases its plot: "When his beloved wife dies, Kratos sets off on a dangerous journey with his estranged son to spread her ashes from the highest peak - his wife's final wish. Kratos soon realises the journey is an epic quest in disguise, one which will test the bonds between father and son, and force Kratos to battle new gods and monsters for the fate of the world."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover a new supergroup of rare single-celled predators]]></title>
+        <id>https://arstechnica.com/?p=1904474</id>
+        <link href="https://arstechnica.com/?p=1904474"/>
+        <updated>2022-12-14T20:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Rare microbes form two branches of a supergroup, a classification above kingdoms.]]></summary>
+        <author>
+            <name>Diana Gitig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk may try to deny severance to thousands laid off by Twitter, report says]]></title>
+        <id>https://arstechnica.com/?p=1904421</id>
+        <link href="https://arstechnica.com/?p=1904421"/>
+        <updated>2022-12-14T19:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Musk's attorney, Alex Spiro, out but still representing Twitter on pending cases.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baldur's Gate 3 early access to get paladin in maybe the last significant update before release]]></title>
+        <id>https://www.eurogamer.net/baldurs-gate-3-early-access-to-get-paladin-in-maybe-the-last-significant-update-before-release</id>
+        <link href="https://www.eurogamer.net/baldurs-gate-3-early-access-to-get-paladin-in-maybe-the-last-significant-update-before-release"/>
+        <updated>2022-12-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The paladin class is coming to the early access version of Baldur's Gate 3. It's the headline addition in Patch 9 which, I'm afraid, sounds like it will be the last major content update to the early access build before the game's full release in August 2023.
+Larian leader Swen Vinke said this during a patch pre-briefing a week ago, telling press - myself included - they'd now like to concentrate on finishing the game, which is fair enough.
+No release date for Patch 9 has been communicated.
+ Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic pulling online services for 20+ titles including Unreal Tournament series]]></title>
         <id>https://www.eurogamer.net/epic-pulling-online-services-for-20-titles-including-unreal-tournament-series</id>
@@ -22,6 +174,36 @@ Online services will be disabled on 24th January, with 13 games affected - altho
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Impossible” to track: China gives up on COVID case count amid explosive outbreak]]></title>
+        <id>https://arstechnica.com/?p=1904402</id>
+        <link href="https://arstechnica.com/?p=1904402"/>
+        <updated>2022-12-14T18:04:31.000Z</updated>
+        <summary type="html"><![CDATA[In an abrupt reversal, China ended mandatory testing last week.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube moderation bots will start issuing warnings, 24-hour bans]]></title>
+        <id>https://arstechnica.com/?p=1904382</id>
+        <link href="https://arstechnica.com/?p=1904382"/>
+        <updated>2022-12-14T17:50:42.000Z</updated>
+        <summary type="html"><![CDATA[New automated moderation program does not seem to allow for human intervention.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diplodocus may have been one cool dinosaur—thanks to its skin]]></title>
+        <id>https://arstechnica.com/?p=1903800</id>
+        <link href="https://arstechnica.com/?p=1903800"/>
+        <updated>2022-12-14T17:37:33.000Z</updated>
+        <summary type="html"><![CDATA[A skin of porous scales may have helped keep dinosaurs' metabolism from overheating.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
         </author>
     </entry>
     <entry>
@@ -11433,95 +11615,6 @@ The podcast also contains a rundown of the series' history, presented by Chris W
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Event-Related Spyware App]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/11/another-event-related-spyware-app.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/11/another-event-related-spyware-app.html"/>
-        <updated>2022-11-15T12:16:34.000Z</updated>
-        <summary type="html"><![CDATA[<p>Last month, we were warned not to install Qatar&#8217;s <a href="https://www.schneier.com/blog/archives/2022/10/qatar-spyware.html">World Cup app</a> because it was spyware. This month, it&#8217;s Egypt&#8217;s <a href="https://www.politico.eu/article/cop-27-climate-change-app-cybersecurity-weapon-risks/">COP27 Summit app</a>:</p>
-<blockquote><p>The app is being promoted as a tool to help attendees navigate the event. But it risks giving the Egyptian government permission to read users&#8217; emails and messages. Even messages shared via encrypted services like WhatsApp are vulnerable, according to POLITICO&#8217;s technical review of the application, and two of the outside experts.</p>
-<p>The app also provides Egypt&#8217;s Ministry of Communications and Information Technology, which created it, with other so-called backdoor privileges, or the ability to scan people&#8217;s devices...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Project Volterra” review: Microsoft’s $600 Arm PC that almost doesn’t suck]]></title>
-        <id>https://arstechnica.com/?p=1893810</id>
-        <link href="https://arstechnica.com/?p=1893810"/>
-        <updated>2022-11-15T12:00:32.000Z</updated>
-        <summary type="html"><![CDATA[There's a reason it isn't a Surface PC, but it's good for its intended purpose.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like Ubisoft is returning to Steam]]></title>
-        <id>https://www.eurogamer.net/looks-like-ubisoft-is-returning-to-steam</id>
-        <link href="https://www.eurogamer.net/looks-like-ubisoft-is-returning-to-steam"/>
-        <updated>2022-11-15T11:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Steam versions of various recent Ubisoft games appear to be on the way, according to datamined store details which have popped up online. 
-
-
-Earlier this month, a Steam version of Assassin's Creed Valhalla was spotted in Ubisoft Connect's database, prompting speculation the smash hit Viking adventure would finally arrive on Valve's PC storefront. To date, PC players have only been able to access Valhalla via Ubisoft's own launcher or the Epic Games Store.
-
-
-A Steam version of Ubisoft sports title Roller Champions was also spotted - and today was also made briefly available to view on SteamDb, all but confirming the game will launch there. Roller Champions feels like it has struggled to find much of an audience to date; a Steam launch would certainly help it along.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good luck figuring out how to download Warzone 2.0]]></title>
-        <id>https://www.eurogamer.net/good-luck-figuring-out-how-to-download-warzone-20</id>
-        <link href="https://www.eurogamer.net/good-luck-figuring-out-how-to-download-warzone-20"/>
-        <updated>2022-11-15T11:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Call of Duty: Warzone 2.0 is now available to preload ahead of the game's release tomorrow - but doing so is anything but straightforward.
-
-
-PlayStation 4 and 5 owners searching for Warzone 2.0 last night were unable to find the download by searching "Call of Duty Warzone" in the PlayStation Store, while Steam users who own Modern Warfare 2 found no download whatsoever. 
-
-Things are a little better on Xbox where Warzone 2.0 is discoverable with its own store page. Still, on closer inspection, the download confusingly also appears to bundle Modern Warfare 2 for free. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon Call of the Mountain confirmed as PlayStation VR2 launch title]]></title>
-        <id>https://www.eurogamer.net/horizon-call-of-the-mountain-confirmed-as-playstation-vr2-launch-title</id>
-        <link href="https://www.eurogamer.net/horizon-call-of-the-mountain-confirmed-as-playstation-vr2-launch-title"/>
-        <updated>2022-11-15T11:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Firesprite's Horizon Call of the Mountain will release alongside the PlayStation VR2 on 22nd of February.
-
-Horizon's creator Guerrilla Games confirmed the news earlier today. Pre-orders for the game are now open via the PlayStation Store. There is also the option to order the Horizon Call of the Mountain bundle, which will provide both the PS VR2 hardware and the game itself.
-In addition to this news, Guerrilla also released a trailer for Call of the Mountain, which you can see below.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo updated Arms today, for first time in four years]]></title>
-        <id>https://www.eurogamer.net/nintendo-updated-arms-today-for-first-time-in-four-years</id>
-        <link href="https://www.eurogamer.net/nintendo-updated-arms-today-for-first-time-in-four-years"/>
-        <updated>2022-11-15T11:12:26.000Z</updated>
-        <summary type="html"><![CDATA[Remember Arms? Nintendo's colourful spring-loaded boxing game launched in 2017 and was last updated the following year - until today, when it received a mysterious new version.
-
-
-A number of other older Nintendo Switch games have simultaneously been updated, including Super Mario Maker 2 and Splatoon 2.
-
-
-And the same mysterious update has also been added to Switch smash hit Animal Crossing: New Horizons, which Nintendo abandoned a year ago, after 18 months of patchy post-launch support.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
         </author>
     </entry>
 </feed>
