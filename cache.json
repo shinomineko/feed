@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2712/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/gravity.png\" title=\"It's a long way down.\" alt=\"It's a long way down.\" />",
+          "link": "https://xkcd.com/2712/",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Gravity",
+          "imageUrl": null
+        },
+        {
           "id": "https://xkcd.com/2711/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/optimal_bowling.png\" title=\"If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.\" alt=\"If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.\" />",
@@ -175,6 +185,26 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/12/friday-squid-blogging-squid-in-concert.html",
+          "author": null,
+          "description": "<p>Squid is <a href=\"https://diymag.com/news/squid-london-scala-february-2023\">performing a concert</a> in London in February.</p>\n<p>If you don&#8217;t know what their music is like, try <a href=\"https://www.youtube.com/watch?v=NKqlwUOwF88\">this</a> or <a href=\"https://www.youtube.com/watch?v=oKtjLYjqgPk\">this</a> or <a href=\"https://www.youtube.com/watch?v=Fef6lTnQewM\">this</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/friday-squid-blogging-squid-in-concert.html",
+          "publishedOn": "2022-12-16T22:13:09.000Z",
+          "wordCount": 690,
+          "title": "Friday Squid Blogging: Squid in Concert",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/12/as-long-as-were-on-the-subject-of-captchas.html",
+          "author": null,
+          "description": "<p>There are these.</p>\n<p><img loading=\"lazy\" src=\"https://149400697.v2.pressablecdn.com/wp-content/uploads/2022/12/CAPTCHA-2.jpg\" alt=\"\" width=\"526\" height=\"804\" class=\"alignnone size-full wp-image-66322\" /></p>\n<p><img loading=\"lazy\" src=\"https://149400697.v2.pressablecdn.com/wp-content/uploads/2022/12/CAPTCHA-1.jpg\" alt=\"\" width=\"526\" height=\"900\" class=\"alignnone size-full wp-image-66321\" /></p>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/as-long-as-were-on-the-subject-of-captchas.html",
+          "publishedOn": "2022-12-16T20:14:55.000Z",
+          "wordCount": 1180,
+          "title": "As Long as We’re on the Subject of CAPTCHAs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/12/apple-patches-iphone-zero-day.html",
           "author": null,
@@ -434,16 +464,6 @@
           "wordCount": 909,
           "title": "Successful Hack of Time-Triggered Ethernet",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/11/failures-in-twitters-two-factor-authentication-system.html",
-          "author": null,
-          "description": "<p>Twitter is having <a href=\"https://www.wired.com/story/twitter-two-factor-sms-problems/\">intermittent problems</a> with its two-factor authentication system:</p>\n<blockquote><p>Not all users are having problems receiving SMS authentication codes, and those who rely on an authenticator app or physical authentication token to secure their Twitter account may not have reason to test the mechanism. But users have been self-reporting issues on Twitter since the weekend, and WIRED confirmed that on at least some accounts, authentication texts are hours delayed or not coming at all. The meltdown comes less than two weeks after Twitter <a href=\"https://www.wired.com/story/musk-layoffs-twitter-management/\">laid off about half of its workers...</a></p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/11/failures-in-twitters-two-factor-authentication-system.html",
-          "publishedOn": "2022-11-17T10:53:50.000Z",
-          "wordCount": 921,
-          "title": "Failures in Twitter’s Two-Factor Authentication System",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +472,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1905167",
+          "author": "Benj Edwards",
+          "description": "Stable Diffusion-powered music generator processes sound in the visual space.",
+          "link": "https://arstechnica.com/?p=1905167",
+          "publishedOn": "2022-12-16T21:50:40.000Z",
+          "wordCount": 1733,
+          "title": "Riffusion’s AI generates music from text using visual sonograms",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/riffusion_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905345",
+          "author": "Jon Brodkin",
+          "description": "Lawsuit: Twitter has refused to make required payments since Musk took over.",
+          "link": "https://arstechnica.com/?p=1905345",
+          "publishedOn": "2022-12-16T21:06:46.000Z",
+          "wordCount": 1984,
+          "title": "Twitter stiffs software vendor with $8 million left on contract, lawsuit says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/twitter-logo-broken-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905293",
+          "author": "Samuel Axon",
+          "description": "Amazon acquired the rights to potentially create its own cinematic universe.",
+          "link": "https://arstechnica.com/?p=1905293",
+          "publishedOn": "2022-12-16T20:51:42.000Z",
+          "wordCount": 1748,
+          "title": "Forget The Witcher and Superman: Henry Cavill to lead Warhammer 40K dream project",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Geralt-Witcher-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905326",
+          "author": "Kyle Orland",
+          "description": "Positioning profusely powerful portable processors not a priority for Valve.",
+          "link": "https://arstechnica.com/?p=1905326",
+          "publishedOn": "2022-12-16T20:29:02.000Z",
+          "wordCount": 1960,
+          "title": "Steam Deck 2.0 could focus on battery life over better performance",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/steam-deck-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905197",
+          "author": "Ron Amadeo",
+          "description": "Overture Maps Foundation wants to end the oppressive rule of the Google Maps API.",
+          "link": "https://arstechnica.com/?p=1905197",
+          "publishedOn": "2022-12-16T19:22:29.000Z",
+          "wordCount": 2122,
+          "title": "Linux, Amazon, Meta, and Microsoft want to break the Google Maps monopoly",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/overture-maps-foundation-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905146",
+          "author": "Kevin Purdy",
+          "description": "10-inch tablet with detachable keyboard case should be available in early 2023.",
+          "link": "https://arstechnica.com/?p=1905146",
+          "publishedOn": "2022-12-16T18:52:05.000Z",
+          "wordCount": 1751,
+          "title": "PineTab 2 is another try at a Linux-based tablet, without the 2020 supply crunch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/pinetab1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1905198",
           "author": "Jon Brodkin",
@@ -3867,6 +3947,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/12/16/kubernetes-1-26-non-graceful-node-shutdown-beta/",
+          "author": null,
+          "description": "Author: Xing Yang (VMware), Ashutosh Kumar (VMware)\nKubernetes v1.24 introduced an alpha quality implementation of improvements\nfor handling a non-graceful node shutdown.\nIn Kubernetes v1.26, this feature moves to beta. This feature allows stateful workloads to failover to a different node after the original node is shut down or in a non-recoverable state, such as the hardware failure or broken OS.\nWhat is a node shutdown in Kubernetes?\nIn a Kubernetes cluster, it is possible for a node to shut down. This could happen either in a planned way or it could happen unexpectedly. You may plan for a security patch, or a kernel upgrade and need to reboot the node, or it may shut down due to preemption of VM instances. A node may also shut down due to a hardware failure or a software problem.\nTo tr…",
+          "link": "https://kubernetes.io/blog/2022/12/16/kubernetes-1-26-non-graceful-node-shutdown-beta/",
+          "publishedOn": "2022-12-16T18:00:00.000Z",
+          "wordCount": 4164,
+          "title": "Blog: Kubernetes 1.26: Non-Graceful Node Shutdown Moves to Beta",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/12/15/dynamic-resource-allocation/",
           "author": null,
           "description": "Authors: Patrick Ohly (Intel), Kevin Klues (NVIDIA)\nDynamic resource allocation is a new API for requesting resources. It is a\ngeneralization of the persistent volumes API for generic resources, making it possible to:\naccess the same resource instance in different pods and containers,\nattach arbitrary constraints to a resource request to get the exact resource\nyou are looking for,\ninitialize a resource according to parameters provided by the user.\nThird-party resource drivers are responsible for interpreting these parameters\nas well as tracking and allocating resources as requests come in.\nDynamic resource allocation is an alpha feature and only enabled when the\nDynamicResourceAllocation feature\ngate and the\nresource.k8s.io/v1alpha1 API group are enabled. For details, see the\n--feature-gat…",
@@ -4007,6 +4097,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/five-criterion-veterans-depart-studio-following-need-for-speed-unbound-launch",
+          "author": "Matt Wales",
+          "description": "Five long-serving senior team members at Need for Speed developer Criterion have departed the studio following the launch of Need for Speed Unbound last month.\r\n\n\r\nAs reported by GamesIndustry.biz, Criterion's vice president and general manager Matt Webster has left the studio after 23 years, as has head of studio development and 17-year Criterion veteran Alan McDairmant.\r\n\n\r\nThey're joined by senior technical director Andrei Shires, who has been with the company for 16 years, as well as executive producer Pete Lake, who first joined Criterion in 1996. Head of content Steve Uphill also leaves following his most recent 10-year stint at Criterion. All are said to have left the developer to \"explore new opportunities outside of EA\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/five-criterion-veterans-depart-studio-following-need-for-speed-unbound-launch",
+          "publishedOn": "2022-12-16T20:25:49.000Z",
+          "wordCount": 4738,
+          "title": "Five Criterion veterans depart following Need for Speed Unbound launch",
+          "imageUrl": "https://assets.reedpopcdn.com/need-for-speed-unbound_eakXur6.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/need-for-speed-unbound_eakXur6.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/guerrilla-games-makes-its-rumoured-horizon-online-project-official",
           "author": "Matt Wales",
@@ -8096,56 +8196,6 @@
           "wordCount": 4509,
           "title": "Rainbow Six Siege players try to deduce new anti-cheat measures",
           "imageUrl": "https://assets.reedpopcdn.com/ss_c154437ca6e715eb93d040ec0a2c7adcd4b14c6a.1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_c154437ca6e715eb93d040ec0a2c7adcd4b14c6a.1920x1080.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/efootball-season-2-begins-with-international-cup-experience",
-          "author": "Ed Nightingale",
-          "description": "Konami's eFootball begins Season 2 with The Football Festival.\r\n\n\r\nIt includes The International Cup Experience, in which players compete against AI as one of 46 available national teams, as well as the eFootball International Cup challenge event with a prize pool of 1bn eFootball coins.\r\n\n\r\nThis definitely isn't the World Cup. Nope.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/efootball-season-2-begins-with-international-cup-experience",
-          "publishedOn": "2022-11-17T12:14:07.000Z",
-          "wordCount": 4464,
-          "title": "eFootball Season 2 begins with International Cup Experience",
-          "imageUrl": "https://assets.reedpopcdn.com/efootball-the-football-festival.png/BROK/thumbnail/1600x900/format/jpg/quality/80/efootball-the-football-festival.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-devil-in-me-leak-reveals-next-dark-pictures-anthology-game-to-be-a-sci-fi-horror",
-          "author": "Victoria Kennedy",
-          "description": "The Dark Pictures Anthology's first season will conclude tomorrow with Supermassive Games' The Devil in Me. \r\n\n\r\nAs with previous entries in the series, the game concludes with a trailer for the series' next title - which has already been posted online. However, unlike previous entries to the series, the upcoming game - known as Directive 8020 - looks set to take players to space. \r\n\n\r\nYes, this will be yet another game to add to the ever-growing space-horror genre which is having quite the renaissance of late (looking at you Callisto Protocol, Dead Space Remake and Fort Solis).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-devil-in-me-leak-reveals-next-dark-pictures-anthology-game-to-be-a-sci-fi-horror",
-          "publishedOn": "2022-11-17T11:54:45.000Z",
-          "wordCount": 4717,
-          "title": "The Devil in Me leak reveals next Dark Pictures Anthology game to be a sci-fi horror",
-          "imageUrl": "https://assets.reedpopcdn.com/dp-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dp-leak.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/pentiment-wouldnt-have-been-possible-without-game-pass-says-obsidians-josh-sawyer",
-          "author": "Ed Nightingale",
-          "description": "Obsidian's Josh Sawyer has said Pentiment never would have been made without Game Pass.\r\n\n\r\nThe medieval-em-up is definitely something of a unique experience and is the latest exclusive to hit the Xbox subscription service.\r\n\n\r\nSpeaking to Waypoint Radio, Sawyer said the game was only possible because Game Pass allows for unusual, niche games alongside blockbusters.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pentiment-wouldnt-have-been-possible-without-game-pass-says-obsidians-josh-sawyer",
-          "publishedOn": "2022-11-17T11:51:39.000Z",
-          "wordCount": 4542,
-          "title": "Pentiment wouldn't have been possible without Game Pass, says Obsidian's Josh Sawyer",
-          "imageUrl": "https://assets.reedpopcdn.com/pentiment-gamescom-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pentiment-gamescom-header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/netease-boss-blames-damage-done-by-a-jerk-for-activision-shutdown-of-world-of-warcraft-overwatch-in-china",
-          "author": "Tom Phillips",
-          "description": "The president of NetEase, the Chinese publisher of World of Warcraft and Overwatch, has blasted the actions of an unnamed \"jerk\" for the breakdown in relationship between his company and Activision Blizzard, which is run by the  controversial Bobby Kotick.\r\n\n\r\nWOW, Overwatch, Hearthstone, Diablo 3, Heroes of the Storm and the StarCraft series will become unplayable in China from 23rd January 2023, when NetEase's current license expires. Diablo Immortal is unaffected.\r\n\n\r\nThis morning, NetEase president Simon Zhu - who says he's spent \"10,000 hours\" playing the above games - reacted to the announcement in an extraordinary statement posted publicly via LinkedIn, where he blamed behind the scenes \"damage\" done by a \"jerk\" - who he left unnamed. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/netease-boss-blames-damage-done-by-a-jerk-for-activision-shutdown-of-world-of-warcraft-overwatch-in-china",
-          "publishedOn": "2022-11-17T11:35:23.000Z",
-          "wordCount": 4713,
-          "title": "NetEase boss blames \"damage\" done by \"a jerk\" for Activision shutdown of World of Warcraft, Overwatch in China",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_ok3uMdg.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_ok3uMdg.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dead-island-2-delayed-again-now-releasing-in-april",
-          "author": "Victoria Kennedy",
-          "description": "Dead Island 2 has hit another roadblock, albeit a comparatively small one in the grand scheme of things. \r\n\n\r\nThe game will now release on 28th April, a 12 week delay from what was most recently announced. \r\n\n\r\nIn a statement, the developer said this shift in release will give the team the extra time needed to provide a game everyone involved is \"proud to launch\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dead-island-2-delayed-again-now-releasing-in-april",
-          "publishedOn": "2022-11-17T10:20:57.000Z",
-          "wordCount": 4595,
-          "title": "Dead Island 2 delayed again, now releasing in April",
-          "imageUrl": "https://assets.reedpopcdn.com/Screenshot-4_LIg8ekX.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Screenshot-4_LIg8ekX.jpg"
         }
       ]
     },
@@ -8154,6 +8204,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://github.blog/?p=68919",
+          "author": "Michelle Mannering",
+          "description": "We promised we’d be back soon and here we are! There has been an incredible amount of open source projects shipping major version releases before the year wraps up. I can’t believe we are all saying that now. “When the year wraps up!” or “See you next year!” What happened to 2022? Well, we know […]",
+          "link": "https://github.blog/2022-12-16-release-radar-nov-2022/",
+          "publishedOn": "2022-12-16T19:00:22.000Z",
+          "wordCount": 2108,
+          "title": "Release Radar · November 2022 Edition",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/12/Release-Radar-November-2022.jpg?fit=1200%2C630"
+        },
         {
           "id": "https://github.blog/?p=69128",
           "author": "Mariam Sulakian",
