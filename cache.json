@@ -433,6 +433,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1905194",
+          "author": "Jonathan M. Gitlin",
+          "description": "Improvements include new motors, more battery capacity, and some drag reduction.",
+          "link": "https://arstechnica.com/?p=1905194",
+          "publishedOn": "2022-12-18T23:01:40.000Z",
+          "wordCount": 1972,
+          "title": "A new name and improved efficiency—we drive the 2023 Audi Q8 e-tron",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2023-Audi-Q8-e-tron-1-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1905430",
           "author": "John Timmer",
           "description": "After delays, company is set for a 6 pm US Eastern launch of a small satellite.",
@@ -3621,16 +3631,6 @@
           "wordCount": 1785,
           "title": "Binance has a plan to save crypto—if it’s not too late",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/crypto-exchange-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1898748",
-          "author": "Knowable Magazine",
-          "description": "Humanity's love affair with cement and concrete results in massive CO2 emissions.",
-          "link": "https://arstechnica.com/?p=1898748",
-          "publishedOn": "2022-11-19T11:36:13.000Z",
-          "wordCount": 1630,
-          "title": "The road to low-carbon concrete",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/cement-mixer-760x380.jpg"
         }
       ]
     },
@@ -3656,6 +3656,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/19/devicemanager-ga/",
+          "author": null,
+          "description": "Author: Swati Sehgal (Red Hat)\nThe Device Plugin framework was introduced in the Kubernetes v1.8 release as a vendor\nindependent framework to enable discovery, advertisement and allocation of external\ndevices without modifying core Kubernetes. The feature graduated to Beta in v1.10.\nWith the recent release of Kubernetes v1.26, Device Manager is now generally\navailable (GA).\nWithin the kubelet, the Device Manager facilitates communication with device plugins\nusing gRPC through Unix sockets. Device Manager and Device plugins both act as gRPC\nservers and clients by serving and connecting to the exposed gRPC services respectively.\nDevice plugins serve a gRPC service that kubelet connects to for device discovery,\nadvertisement (as extended resources) and allocation. Device Manager connects to\nt…",
+          "link": "https://kubernetes.io/blog/2022/12/19/devicemanager-ga/",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 3734,
+          "title": "Blog: Kubernetes 1.26: Device Manager graduates to GA",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/16/kubernetes-1-26-non-graceful-node-shutdown-beta/",
           "author": null,
@@ -7646,16 +7656,6 @@
           "wordCount": 4683,
           "title": "Assassin's Creed Valhalla is not getting a \"highly requested\" New Game+ mode",
           "imageUrl": "https://assets.reedpopcdn.com/assassins-creed-valhalla-narrative-director-responds-to-claim-eivor-was-originally-intended-to-be-exclusively-a-woman-1596626651546.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/assassins-creed-valhalla-narrative-director-responds-to-claim-eivor-was-originally-intended-to-be-exclusively-a-woman-1596626651546.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/knockout-city-season-8-drops-later-this-month-heres-whats-new",
-          "author": "Vikki Blake",
-          "description": "Knockout City's eighth season, High Society Heist, is slated for release on 29th November, 2022.\r\n\nRunning until 5th December, High Society Heist heralds new content, including new Poison Special Ball, new cosmetic type \"Brags\", and yes, more Teenage Mutant Ninja/Hero Turtles stuff, including TMNT Villains Behop and Rocksteady amongst new Player icons, those aforementioned Brags, and custom intro poses, too.\r\n\n\"In High Society Heist, the Red Hand Crew is stirring up trouble in Knockout City, and Commissioner Chase is on the case,\" explains the accompanying blurb. \"The notorious Red Hand Crew – Voxanne, Mugshot, Hax and The Shadow – are chasing their latest heist and zeroing in on their newest target: the multi-millionaire Malcolm Magpie. Players can decide which side they want to be on – become one of the craftiest criminals around as a member of the Red Hand Crew or crack the case as Commissioner Chase. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/knockout-city-season-8-drops-later-this-month-heres-whats-new",
-          "publishedOn": "2022-11-19T11:45:19.000Z",
-          "wordCount": 4712,
-          "title": "Knockout City Season 8 drops later this month - here's what's new",
-          "imageUrl": "https://assets.reedpopcdn.com/ea-published-knockout-city-going-free-to-play-this-spring-without-ea-1645736681807.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ea-published-knockout-city-going-free-to-play-this-spring-without-ea-1645736681807.jpg"
         }
       ]
     },

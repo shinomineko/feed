@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T18:24:53.296Z</updated>
+    <updated>2022-12-19T00:30:58.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Device Manager graduates to GA]]></title>
+        <id>https://kubernetes.io/blog/2022/12/19/devicemanager-ga/</id>
+        <link href="https://kubernetes.io/blog/2022/12/19/devicemanager-ga/"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Swati Sehgal (Red Hat)
+The Device Plugin framework was introduced in the Kubernetes v1.8 release as a vendor
+independent framework to enable discovery, advertisement and allocation of external
+devices without modifying core Kubernetes. The feature graduated to Beta in v1.10.
+With the recent release of Kubernetes v1.26, Device Manager is now generally
+available (GA).
+Within the kubelet, the Device Manager facilitates communication with device plugins
+using gRPC through Unix sockets. Device Manager and Device plugins both act as gRPC
+servers and clients by serving and connecting to the exposed gRPC services respectively.
+Device plugins serve a gRPC service that kubelet connects to for device discovery,
+advertisement (as extended resources) and allocation. Device Manager connects to
+t…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new name and improved efficiency—we drive the 2023 Audi Q8 e-tron]]></title>
+        <id>https://arstechnica.com/?p=1905194</id>
+        <link href="https://arstechnica.com/?p=1905194"/>
+        <updated>2022-12-18T23:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Improvements include new motors, more battery capacity, and some drag reduction.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Civilization 6 Leader Pass' new pack, Great Commanders, is here]]></title>
         <id>https://www.eurogamer.net/civilization-6s-leader-pass-new-pack-great-commanders-is-here</id>
@@ -10643,32 +10674,6 @@ Whilst developer Ubisoft acknowledged that the "news will come as a disappointme
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knockout City Season 8 drops later this month - here's what's new]]></title>
-        <id>https://www.eurogamer.net/knockout-city-season-8-drops-later-this-month-heres-whats-new</id>
-        <link href="https://www.eurogamer.net/knockout-city-season-8-drops-later-this-month-heres-whats-new"/>
-        <updated>2022-11-19T11:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Knockout City's eighth season, High Society Heist, is slated for release on 29th November, 2022.
-
-Running until 5th December, High Society Heist heralds new content, including new Poison Special Ball, new cosmetic type "Brags", and yes, more Teenage Mutant Ninja/Hero Turtles stuff, including TMNT Villains Behop and Rocksteady amongst new Player icons, those aforementioned Brags, and custom intro poses, too.
-
-"In High Society Heist, the Red Hand Crew is stirring up trouble in Knockout City, and Commissioner Chase is on the case," explains the accompanying blurb. "The notorious Red Hand Crew – Voxanne, Mugshot, Hax and The Shadow – are chasing their latest heist and zeroing in on their newest target: the multi-millionaire Malcolm Magpie. Players can decide which side they want to be on – become one of the craftiest criminals around as a member of the Red Hand Crew or crack the case as Commissioner Chase. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The road to low-carbon concrete]]></title>
-        <id>https://arstechnica.com/?p=1898748</id>
-        <link href="https://arstechnica.com/?p=1898748"/>
-        <updated>2022-11-19T11:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Humanity's love affair with cement and concrete results in massive CO2 emissions.]]></summary>
-        <author>
-            <name>Knowable Magazine</name>
         </author>
     </entry>
 </feed>
