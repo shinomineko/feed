@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/12/trojaned-windows-installer-targets-ukraine.html",
+          "author": null,
+          "description": "<p>Mandiant is <a href=\"https://www.mandiant.com/resources/blog/trojanized-windows-installers-ukrainian-government\">reporting</a> on a trojaned Windows installer that targets Ukrainian users. The installer was left on various torrent sites, presumably ensnaring people downloading pirated copies of the operating system:</p>\n<blockquote><p>Mandiant uncovered a socially engineered <a href=\"https://services.google.com/fh/files/blogs/perspectives_on_security_volume_one_digital.pdf\">supply chain</a> operation focused on Ukrainian government entities that leveraged trojanized ISO files masquerading as legitimate Windows 10 Operating System installers. The trojanized ISOs were hosted on Ukrainian- and Russian-language torrent file sharing sites. Upon installation of the compromised software, the malware gathers information on the compromised system and exfiltrates it. At a subset of victims, additional tools are deployed to enable further intelligence gathering. In some instances, we discovered additional payloads that were likely deployed following initial reconnaissance including the STOWAWAY, BEACON, and SPAREPART backdoors...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/trojaned-windows-installer-targets-ukraine.html",
+          "publishedOn": "2022-12-20T12:30:47.000Z",
+          "wordCount": 926,
+          "title": "Trojaned Windows Installer Targets Ukraine",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/12/how-to-surrender-to-a-drone.html",
           "author": null,
           "description": "<p>The Ukrainian army has released an <a href=\"https://www.businessinsider.com/ukraine-army-video-tells-russians-how-to-surrender-to-drone-2022-12\">instructional video</a> explaining how Russian soldiers should surrender to a drone:</p>\n<blockquote><p>&#8220;Seeing the drone in the field of view, make eye contact with it,&#8221; the video instructs. Soldiers should then raise their arms and signal they&#8217;re ready to follow.</p>\n<p>After that the drone will move up and down a few meters, before heading off at walking pace in the direction of the nearest representatives of Ukraine&#8217;s army, it says.</p>\n<p>The video also warns that the drone&#8217;s battery may run low, in which case it will head back to base and the soldiers should stay put and await a fresh one...</p></blockquote>",
@@ -442,6 +452,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1905885",
+          "author": "Jonathan M. Gitlin",
+          "description": "The fleet will include 45,000 electric NGDVs and 21,000 other battery EVs.",
+          "link": "https://arstechnica.com/?p=1905885",
+          "publishedOn": "2022-12-20T17:38:12.000Z",
+          "wordCount": 1920,
+          "title": "The USPS now says it will buy 66,000 EVs by 2028",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/NGDVsideView-scaled-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905838",
+          "author": "Jon Brodkin",
+          "description": "Ukraine has assurance from Musk and funding deals with EU allies, official says.",
+          "link": "https://arstechnica.com/?p=1905838",
+          "publishedOn": "2022-12-20T16:54:04.000Z",
+          "wordCount": 1714,
+          "title": "Ukraine to get 10,000 more Starlink antennas; funding problems are “resolved”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/getty-starlink-ukraine-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905818",
+          "author": "Eric Berger",
+          "description": "InSight landed on Mars in 2018 with the aim of studying seismic activity.",
+          "link": "https://arstechnica.com/?p=1905818",
+          "publishedOn": "2022-12-20T16:37:51.000Z",
+          "wordCount": 1619,
+          "title": "After a long struggle with Martian dust, NASA’s InSight probe has gone quiet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/FkXye41UcAAnbXj-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905799",
+          "author": "Jonathan M. Gitlin",
+          "description": "Chipmakers are adding more capacity but are effectively sold out until 2024.",
+          "link": "https://arstechnica.com/?p=1905799",
+          "publishedOn": "2022-12-20T15:57:42.000Z",
+          "wordCount": 1598,
+          "title": "Automotive chip shortages to continue throughout 2023, industry says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1348983692-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905787",
+          "author": "Kyle Orland",
+          "description": "There's still time to contribute to this year's charity haul of nearly $12K so far.",
+          "link": "https://arstechnica.com/?p=1905787",
+          "publishedOn": "2022-12-20T15:14:25.000Z",
+          "wordCount": 1603,
+          "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars-charity-drive-2022-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905776",
+          "author": "Jonathan M. Gitlin",
+          "description": "The Haru Oni plant will scale up from 34,000 gallons to 14.5 million gallons by 2024.",
+          "link": "https://arstechnica.com/?p=1905776",
+          "publishedOn": "2022-12-20T15:09:43.000Z",
+          "wordCount": 2020,
+          "title": "Porsche’s synthetic gasoline factory comes online today in Chile",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/S22_4359_fine-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905767",
+          "author": "Financial Times",
+          "description": "Deal serves as a blueprint for the EU's new Digital Markets Act.",
+          "link": "https://arstechnica.com/?p=1905767",
+          "publishedOn": "2022-12-20T14:20:52.000Z",
+          "wordCount": 1672,
+          "title": "Amazon agrees to deal with EU to end long-running data probes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1229045925-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1902777",
+          "author": "Ars Staff",
+          "description": "Whether you're streaming games or joining Zoom meetings, you've got options.",
+          "link": "https://arstechnica.com/?p=1902777",
+          "publishedOn": "2022-12-20T12:00:29.000Z",
+          "wordCount": 1819,
+          "title": "Webcam buying guide: The Ars picks, from affordable to extravagant",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/DSC_4571-Edit-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1905740",
           "author": "Dan Goodin",
@@ -3937,6 +4027,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sonys-210-dualsense-edge-controller-will-have-worse-battery-life-than-the-original",
+          "author": "Ishraq Subhan",
+          "description": "Sony has revealed further details of its new DualSense Edge wireless controller for the PlayStation 5, but one particular point stuck out the most. \r\n\n\r\nIn a hand-on preview, The Verge noticed that battery life was noticeably worse than the base DualSense controller, and this was later confirmed to the publication in a statement. \r\n\n\r\n\"The DualSense Edge wireless controller's operating time is moderately shorter than the original DualSense wireless controller,\" a Sony spokesperson said. \"We wanted to strike a good balance between wireless operating time and delivering robust, high-performance features.\" \r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonys-210-dualsense-edge-controller-will-have-worse-battery-life-than-the-original",
+          "publishedOn": "2022-12-20T15:10:24.000Z",
+          "wordCount": 4572,
+          "title": "Sony's £210 DualSense Edge controller will have worse battery life than the original",
+          "imageUrl": "https://assets.reedpopcdn.com/dualsense-edge.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/dualsense-edge.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sifu-headed-to-steam-and-xbox-in-march-2023",
+          "author": "Tom Phillips",
+          "description": "Acclaimed martial arts adventure Sifu will arrive on Steam and Xbox consoles for the first time in March 2023, developer Sloclap has confirmed. \r\n\n\r\nThis version of the game will include a new Arenas mode, which will also arrive as a free update for PC via the Epic Games Store and on PlayStation at the same time.\r\n\n\r\nDetails of what this new offering will include are thin on the ground at the moment - a trailer for the update promises nine maps which will unlock new modifiers and alternate moves, additional cheats and fresh outfits. It sounds like they'll be worth playing!\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sifu-headed-to-steam-and-xbox-in-march-2023",
+          "publishedOn": "2022-12-20T14:40:38.000Z",
+          "wordCount": 4630,
+          "title": "Sifu headed to Steam and Xbox in March 2023",
+          "imageUrl": "https://assets.reedpopcdn.com/sifu_20220129230717.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sifu_20220129230717.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/heres-the-super-mario-bros-movie-trailer-recreated-with-n64-graphics",
           "author": "Ishraq Subhan",
@@ -7744,6 +7854,26 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=69237",
+          "author": "Jeimy Ruiz",
+          "description": "Forrester's Total Economic Impact™ study dives into how GitHub Enterprise Cloud and GitHub Advanced Security help businesses drive ROI, increase developer productivity, and save time on developer onboarding.",
+          "link": "https://github.blog/2022-12-20-increase-developer-productivity-save-time-on-developer-onboarding-and-drive-roi-in-2023/",
+          "publishedOn": "2022-12-20T18:00:26.000Z",
+          "wordCount": 2114,
+          "title": "Increase developer productivity, save time on developer onboarding, and drive ROI in 2023",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/12/forrester.jpeg?fit=1200%2C627"
+        },
+        {
+          "id": "https://github.blog/?p=69220",
+          "author": "Mike Hanley",
+          "description": "Our engineering and security teams have done some incredible work in 2022. Let’s take a look at how we use GitHub to be more productive, build collaboratively, and shift security left.",
+          "link": "https://github.blog/2022-12-20-how-we-use-github-to-be-more-productive-collaborative-and-secure/",
+          "publishedOn": "2022-12-20T17:00:33.000Z",
+          "wordCount": 2158,
+          "title": "How we use GitHub to be more productive, collaborative, and secure",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/12/integrated-platform.png?fit=1600%2C901"
+        },
         {
           "id": "https://github.blog/?p=69175",
           "author": "Martin Woodward",
