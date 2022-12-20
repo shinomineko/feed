@@ -443,6 +443,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1905687",
+          "author": "Benj Edwards",
+          "description": "\"Enhance Speech\" uses AI to make noisy podcast recordings sound like professional audio.",
+          "link": "https://arstechnica.com/?p=1905687",
+          "publishedOn": "2022-12-19T23:13:35.000Z",
+          "wordCount": 1678,
+          "title": "Make your noisy recording sound like pro audio with Adobe’s free AI tool",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/adobe_speech_enhance_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905698",
+          "author": "John Timmer",
+          "description": "Past maps of \"high-risk\" neighborhoods shape present power planet emissions.",
+          "link": "https://arstechnica.com/?p=1905698",
+          "publishedOn": "2022-12-19T22:57:18.000Z",
+          "wordCount": 2094,
+          "title": "Power plant pollution higher in neighborhoods subject to racist redlining",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-sb10067592d-001-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905537",
+          "author": "Scharon Harding",
+          "description": "$349 peripheral uses its own CPU and GPU to power the show.",
+          "link": "https://arstechnica.com/?p=1905537",
+          "publishedOn": "2022-12-19T19:10:24.000Z",
+          "wordCount": 1846,
+          "title": "This mechanical keyboard has a dazzling, distracting display under its keys",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/rocket-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905587",
+          "author": "Dan Goodin",
+          "description": "Microsoft elevates security rating for vulnerability resembling EternalBlue.",
+          "link": "https://arstechnica.com/?p=1905587",
+          "publishedOn": "2022-12-19T18:46:33.000Z",
+          "wordCount": 1756,
+          "title": "Critical Windows code-execution vulnerability went undetected until now",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages_SkullCrossbonesBinaryComputerScreen-CROPPED-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905513",
+          "author": "Ron Amadeo",
+          "description": "Dubious listing gives us the first real-life pictures of Google's upcoming tablet.",
+          "link": "https://arstechnica.com/?p=1905513",
+          "publishedOn": "2022-12-19T18:07:37.000Z",
+          "wordCount": 1656,
+          "title": "Someone tries to sell a Pixel Tablet prototype, posts pictures",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Pixel-tablet-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905487",
+          "author": "Kevin Purdy",
+          "description": "Passed with bipartisan support, the bill could die on Gov. Hochul's desk.",
+          "link": "https://arstechnica.com/?p=1905487",
+          "publishedOn": "2022-12-19T18:04:31.000Z",
+          "wordCount": 1800,
+          "title": "Lobbyists have held up nation’s first right-to-repair bill in New York",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-927615664-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905518",
+          "author": "Ashley Belanger",
+          "description": "The alleged stalking incident occurred at a gas station near Grimes' house.",
+          "link": "https://arstechnica.com/?p=1905518",
+          "publishedOn": "2022-12-19T17:44:28.000Z",
+          "wordCount": 1754,
+          "title": "Musk’s alleged stalker identified; no evidence of ElonJet tracking, report says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-958397822-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1905504",
           "author": "Jonathan M. Gitlin",
           "description": "Now in its fifth generation, the Lexus RX arguably invented the crossover.",
@@ -3681,16 +3751,6 @@
           "wordCount": 2027,
           "title": "“Just a bunch of idiots having fun”—a photo history of the LAN party",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/LAN-4-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899073",
-          "author": "The Conversation",
-          "description": "A sports physicist breaks down the Al Rihla, the official ball of the World Cup.",
-          "link": "https://arstechnica.com/?p=1899073",
-          "publishedOn": "2022-11-20T11:03:47.000Z",
-          "wordCount": 2129,
-          "title": "The World Cup ball has the aerodynamics of a champion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/al-rihla-listing-760x380.jpg"
         }
       ]
     },
@@ -3716,6 +3776,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/",
+          "author": null,
+          "description": "Authors: Joe Betz (Google), Cici Huang (Google)\nIn Kubernetes 1.26, the 1st alpha release of validating admission policies is\navailable!\nValidating admission policies use the Common Expression\nLanguage (CEL) to offer a declarative,\nin-process alternative to validating admission\nwebhooks.\nCEL was first introduced to Kubernetes for the Validation rules for\nCustomResourceDefinitions.\nThis enhancement expands the use of CEL in Kubernetes to support a far wider\nrange of admission use cases.\nAdmission webhooks can be burdensome to develop and operate. Webhook developers\nmust implement and maintain a webhook binary to handle admission requests. Also,\nadmission webhooks are complex to operate. Each webhook must be deployed,\nmonitored and have a well defined upgrade and rollback plan. To make matte…",
+          "link": "https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 3703,
+          "title": "Blog: Kubernetes 1.26: Introducing Validating Admission Policies",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/19/devicemanager-ga/",
           "author": null,
@@ -3867,6 +3937,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/nintendo-switch-joy-con-drift-due-to-design-flaw-uk-consumer-group-reports",
+          "author": "Ishraq Subhan",
+          "description": "A major new study from UK consumer group Which? has found evidence that the Nintendo Switch's infamous Joy-Con drift is likely caused by a mechanical fault, pointing to fundamental design flaws.\r\n\n\r\nThe research found that the Joy-Con's plastic circuit boards showed noticeable wear on the joystick slider contact points, despite only being used for months. It is this wear that ultimately results in drifting. \r\n\n\r\nIn addition, dust and other contaminants were found in the Switch's internal components, despite attempts by Nintendo at dustproofing said areas.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-switch-joy-con-drift-due-to-design-flaw-uk-consumer-group-reports",
+          "publishedOn": "2022-12-20T00:01:00.000Z",
+          "wordCount": 4698,
+          "title": "Nintendo Switch Joy-Con drift due to \"design flaw\", UK consumer group reports",
+          "imageUrl": "https://assets.reedpopcdn.com/joy-cons.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/joy-cons.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/crash-bandicoot-mobile-game-shutting-down-after-less-than-two-years",
           "author": "Victoria Kennedy",
@@ -7686,16 +7766,6 @@
           "wordCount": 4639,
           "title": "This Pokémon Scarlet and Violet mod removes all traces of Ed Sheeran",
           "imageUrl": "https://assets.reedpopcdn.com/How-to-change-clothes-in-Pok%C3%A9mon-Scarlet-and-Violet%2C-including-where-to-buy-clothes-cover.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/How-to-change-clothes-in-Pok%C3%A9mon-Scarlet-and-Violet%2C-including-where-to-buy-clothes-cover.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/infinity-ward-is-investigating-modern-warfare-2-matchmaking-issues-on-xbox",
-          "author": "Vikki Blake",
-          "description": "Call of Duty: Modern Warfare 2 developer Infinity Ward is investigating a matchmaking issue for Xbox players.\r\n\nAs detailed on the developer's social media channels, it seems as though Call of Duty: Modern Warfare 2 players on Xbox are experiencing lengthy queues whilst matchmaking if there are more than three people in a party.\r\n\n\"We're investigating an issue where some Xbox players in a party of more than three are having issues queuing up/matchmaking,\" the developed tweeted earlier today. \"Stay tuned for further updates.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/infinity-ward-is-investigating-modern-warfare-2-matchmaking-issues-on-xbox",
-          "publishedOn": "2022-11-20T11:39:31.000Z",
-          "wordCount": 4727,
-          "title": "Infinity Ward is \"investigating\" Modern Warfare 2 matchmaking issues on Xbox",
-          "imageUrl": "https://assets.reedpopcdn.com/modern_warfare_2_gold_camo_8.png/BROK/thumbnail/1600x900/format/jpg/quality/80/modern_warfare_2_gold_camo_8.png"
         }
       ]
     },
