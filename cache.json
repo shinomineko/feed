@@ -434,16 +434,6 @@
           "wordCount": 1049,
           "title": "Apple’s Device Analytics Can Identify iCloud Users",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/11/breaking-the-zeppelin-ransomware-encryption-scheme.html",
-          "author": null,
-          "description": "<p>Brian Krebs <a href=\"https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/\">writes</a> about how the Zeppelin ransomware encryption scheme was broken:</p>\n<blockquote><p>The researchers said their break came when they understood that while Zeppelin used three different types of encryption keys to encrypt files, they could undo the whole scheme by factoring or computing just one of them: An ephemeral RSA-512 public key that is randomly generated on each machine it infects.</p>\n<p>&#8220;If we can recover the RSA-512 Public Key from the registry, we can crack it and get the 256-bit AES Key that encrypts the files!&#8221; they wrote. &#8220;The challenge was that they delete the [public key] once the files are fully encrypted. Memory analysis gave us about a 5-minute window after files were encrypted to retrieve this public key.&#8221;...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/11/breaking-the-zeppelin-ransomware-encryption-scheme.html",
-          "publishedOn": "2022-11-21T12:08:58.000Z",
-          "wordCount": 858,
-          "title": "Breaking the Zeppelin Ransomware Encryption Scheme",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +442,146 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1906042",
+          "author": "Jon Brodkin",
+          "description": "Comcast reps didn't know the rules, told qualified applicants they weren't eligible.",
+          "link": "https://arstechnica.com/?p=1906042",
+          "publishedOn": "2022-12-20T23:15:54.000Z",
+          "wordCount": 2312,
+          "title": "Comcast agents mistakenly reject some poor people who qualify for free Internet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-comcast-router-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906077",
+          "author": "Benj Edwards",
+          "description": "Fictional travelogue shows man taking selfies in ancient Greece, Egypt, and more.",
+          "link": "https://arstechnica.com/?p=1906077",
+          "publishedOn": "2022-12-20T22:54:41.000Z",
+          "wordCount": 1674,
+          "title": "Man simulates time travel thanks to Stable Diffusion image synthesis",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/1pwnqjh38p5a1-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905791",
+          "author": "Jennifer Ouellette",
+          "description": "\"We don’t have any evidence to show that 13 Reasons Why had an effect on [teen] suicide.\"",
+          "link": "https://arstechnica.com/?p=1905791",
+          "publishedOn": "2022-12-20T22:30:57.000Z",
+          "wordCount": 1832,
+          "title": "Study: 2017 rise in teen suicide rates due to seasonal shifts, not 13 Reasons Why",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/reasons8-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906124",
+          "author": "Dan Goodin",
+          "description": "As Russia's invasion of Ukraine grinds on, the country's hackers expand their targets.",
+          "link": "https://arstechnica.com/?p=1906124",
+          "publishedOn": "2022-12-20T22:03:02.000Z",
+          "wordCount": 1864,
+          "title": "Kremlin-backed hackers targeted a “large” petroleum refinery in a NATO nation",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/oil-refinery-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906054",
+          "author": "Kevin Purdy",
+          "description": "To avoid cannibalizing supply for other Pi products, the next model must wait.",
+          "link": "https://arstechnica.com/?p=1906054",
+          "publishedOn": "2022-12-20T21:34:03.000Z",
+          "wordCount": 1593,
+          "title": "Raspberry Pi 5 not arriving in 2023 as company hopes for a “recovery year”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/gettyimages-457591080-594x594-1-594x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906034",
+          "author": "Doug Johnson",
+          "description": "Here’s a quick rundown of what came from this year’s biodiversity conference.",
+          "link": "https://arstechnica.com/?p=1906034",
+          "publishedOn": "2022-12-20T21:26:33.000Z",
+          "wordCount": 1865,
+          "title": "Nations agree to preserve 30 percent of nature by 2030",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1334442670-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906043",
+          "author": "Samuel Axon",
+          "description": "The Mac Studio, M1 iMac, M1 Mac mini, and Studio Display join the program.",
+          "link": "https://arstechnica.com/?p=1906043",
+          "publishedOn": "2022-12-20T20:56:30.000Z",
+          "wordCount": 1561,
+          "title": "Apple’s self-service repairs expand to desktops like iMac, Mac Studio",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/IMG_0159-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905958",
+          "author": "Scharon Harding",
+          "description": "Workstation-level power delivery makes Mini LED more attractive to power users.",
+          "link": "https://arstechnica.com/?p=1905958",
+          "publishedOn": "2022-12-20T20:37:52.000Z",
+          "wordCount": 1942,
+          "title": "Lenovo announces cheaper Mini LED monitors with 140 W power delivery",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/01_ThinkVision-P32p-30.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906010",
+          "author": "Ashley Belanger",
+          "description": "MSG Entertainment began using facial recognition at venues in 2018.",
+          "link": "https://arstechnica.com/?p=1906010",
+          "publishedOn": "2022-12-20T20:13:08.000Z",
+          "wordCount": 1678,
+          "title": "MSG defends using facial recognition to kick lawyer out of Rockettes show",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-497768798-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905825",
+          "author": "Kevin Purdy",
+          "description": "Fan brackets, laptop modules, miniatures, and other files, all in one place.",
+          "link": "https://arstechnica.com/?p=1905825",
+          "publishedOn": "2022-12-20T19:56:49.000Z",
+          "wordCount": 1612,
+          "title": "Framework, Noctua, and other brands add official 3D models to Printables",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/printables3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905904",
+          "author": "Ashley Belanger",
+          "description": "Louisiana and West Virginia join 17 states restricting access on state devices.",
+          "link": "https://arstechnica.com/?p=1905904",
+          "publishedOn": "2022-12-20T19:04:37.000Z",
+          "wordCount": 1652,
+          "title": "19 states choke TikTok on gov’t devices; feds push for nationwide restrictions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1438215080-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1904138",
+          "author": "Doug Johnson",
+          "description": "The UN biodiversity conference reminds us how little we know of the deep ocean.",
+          "link": "https://arstechnica.com/?p=1904138",
+          "publishedOn": "2022-12-20T18:45:33.000Z",
+          "wordCount": 1923,
+          "title": "The deep sea is an unexpected, but at-risk, trove of biodiversity",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-170956308-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905515",
+          "author": "Andrew Cunningham",
+          "description": "Opinion: Making the case against Apple's most expensive—and most ignored—Mac.",
+          "link": "https://arstechnica.com/?p=1905515",
+          "publishedOn": "2022-12-20T18:32:35.000Z",
+          "wordCount": 2279,
+          "title": "It might be time for Apple to throw in the towel on the Mac Pro",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2019-mac-pro-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1905786",
+          "author": "Scharon Harding",
+          "description": "Lenovo's premium laptops see a mild refresh this time around.",
+          "link": "https://arstechnica.com/?p=1905786",
+          "publishedOn": "2022-12-20T18:10:41.000Z",
+          "wordCount": 1831,
+          "title": "Lenovo updates ThinkPad laptops with fresh CPUs, recycled metals",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/04_X1_Carbon_G11_Hero_Front_Facing_Left-e1671557225624-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1905885",
           "author": "Jonathan M. Gitlin",
@@ -3831,16 +3961,6 @@
           "wordCount": 4486,
           "title": "Here are all the best early Black Friday deals live now",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/EarlyBF-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1896053",
-          "author": "Jeremy Reimer",
-          "description": "What had started as twelve people and a dream was now a billion-dollar company.",
-          "link": "https://arstechnica.com/?p=1896053",
-          "publishedOn": "2022-11-21T12:00:12.000Z",
-          "wordCount": 2006,
-          "title": "A history of ARM, part 2: Everything starts to come together",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/armpart29-760x380.jpeg"
         }
       ]
     },
@@ -7776,76 +7896,6 @@
           "wordCount": 4463,
           "title": "Hideki Kamiya teases Bayonetta 4 already in the works",
           "imageUrl": "https://assets.reedpopcdn.com/bayonetta-3_i0iupyu.png/BROK/thumbnail/1600x900/format/jpg/quality/80/bayonetta-3_i0iupyu.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/ed-boon-seems-to-be-teasing-3d-era-characters-for-mortal-kombat-12",
-          "author": "Tom Phillips",
-          "description": "Mortal Kombat boss Ed Boon has teased a return for some of the series' 3D-era characters in the future, following previous hints at the under-wraps Mortal Kombat 12 being in development. \r\n\n\r\nBoon, who loves to tease fans via Twitter, wrote over the weekend that his next game would either be \"I3 or MK12\" - Injustice 3 or Mortal Kombat 12.\r\n\n\r\nResponding to a fan who asked why so few characters from the franchise's less-popular 3D-era are seen in recent games, Boon stated: \"That is something we will soon fix.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ed-boon-seems-to-be-teasing-3d-era-characters-for-mortal-kombat-12",
-          "publishedOn": "2022-11-21T12:16:17.000Z",
-          "wordCount": 4545,
-          "title": "Ed Boon seems to be teasing 3D-era characters for Mortal Kombat 12",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_tfAXD3C.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_tfAXD3C.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-trying-to-prevent-images-of-its-games-being-used-on-steam",
-          "author": "Ed Nightingale",
-          "description": "Nintendo has issued copyright strikes against SteamGridDB for images relating to its Switch games.\r\n\r\n\n\r\nThe site allows users to upload custom images for use in their Steam library. Most of these are alternate cover images to customise a game's appearance in the library, but it's also used when a cover image doesn't exist - typically when playing games through an emulator.\r\n\n\r\nThis is why Switch game images have appeared on the site, which has since received a DMCA takedown notice, Games Radar reported.\r\n\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-trying-to-prevent-images-of-its-games-being-used-on-steam",
-          "publishedOn": "2022-11-21T12:08:14.000Z",
-          "wordCount": 4476,
-          "title": "Nintendo trying to prevent images of its games being used on Steam",
-          "imageUrl": "https://assets.reedpopcdn.com/pokemon-sv-keyart.png/BROK/thumbnail/1600x900/format/jpg/quality/80/pokemon-sv-keyart.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-series-s-cheapest-console-in-black-friday-deals",
-          "author": "Liv Ngan",
-          "description": "The all-digital Xbox Series S is currently the best console deal in the UK thanks to Black Friday deals. \nAs spotted by our pals over at Digital Foundry, both Amazon and Smyths are selling the Series S for £189.99, nearly a quarter off its usual price of £249.99.\nCompared to current-gen consoles and Nintendo Switch, that's quite a steal.\n Read more",
-          "link": "https://www.eurogamer.net/xbox-series-s-cheapest-console-in-black-friday-deals",
-          "publishedOn": "2022-11-21T11:38:38.000Z",
-          "wordCount": 4366,
-          "title": "Xbox Series S cheapest console in Black Friday deals",
-          "imageUrl": "https://assets.reedpopcdn.com/564971c9-4430-4fe2-a0e6-52b10d41cc45.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/564971c9-4430-4fe2-a0e6-52b10d41cc45.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-scarlet-and-violet-biggest-uk-physical-game-launch-of-year",
-          "author": "Victoria Kennedy",
-          "description": "Impressive physical sales in the UK have made Pokémon Scarlet and Violet the biggest boxed video game launch of the year. Previously, this accolade was held by FIFA 23.\r\n\n\r\nThis has also won Scarlet and Violet the title of being the UK's second biggest boxed Pokémon launch of all time. The biggest is still that of the 3DS's Sun and Moon (although, due to sale prices, charts firm GfK states Scarlet and Violet has generated more money than Sun and Moon did during its launch week). \r\n\n\r\nPer GamesIndustry.biz, the first week of sales for Scarlet and Violet (at least physically, as Nintendo does not share digital sales) are 25 percent bigger than those of Sword and Shield, 70 percent bigger than the Diamond and Pearl remakes and 56 percent bigger than this year's other big Pokémon offering, Arceus.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-scarlet-and-violet-biggest-uk-physical-game-launch-of-year",
-          "publishedOn": "2022-11-21T11:35:46.000Z",
-          "wordCount": 4621,
-          "title": "Pokémon Scarlet and Violet biggest UK physical game launch of year",
-          "imageUrl": "https://assets.reedpopcdn.com/lechonk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lechonk.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-honda-electric-cars-may-incorporate-playstation-5",
-          "author": "Ed Nightingale",
-          "description": "Sony and Honda are joining forces on new electric vehicles that could incorporate PlayStation 5 consoles.\r\n\n\r\nSony Honda Mobility was established in September and plans to build electric vehicles with entertainment like music, movies, and the PlayStation 5 in mind.\r\n\n\r\n\"Sony has content, services and entertainment technologies that move people. We are adapting these assets to mobility, and this is our strength against Tesla,\" president Izumi Kawanishi told the Financial Times (thanks TheGamer).\r\n\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-honda-electric-cars-may-incorporate-playstation-5",
-          "publishedOn": "2022-11-21T11:32:13.000Z",
-          "wordCount": 4409,
-          "title": "Sony Honda electric cars may incorporate PlayStation 5",
-          "imageUrl": "https://assets.reedpopcdn.com/sony-honda-vehicle.png/BROK/thumbnail/1600x900/format/jpg/quality/80/sony-honda-vehicle.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendos-internal-nx-logo-leaks-for-first-time",
-          "author": "Tom Phillips",
-          "description": "Remember the codename Nintendo \"NX\"? Before the Switch's official unveiling, these two letters were how Nintendo referred to its NeXt-generation console.\r\n\n\r\nThe NX name was used by Nintendo to refer to the Switch both internally and publicly, as the company began to drum up excitement for the Switch's unveiling. (And because in the Wii U era, there wasn't much else to get excited about.)\r\n\n\r\nBut here's one thing we never saw publicly: Nintendo's own internal NX logo used in early versions of games destined for the Switch.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendos-internal-nx-logo-leaks-for-first-time",
-          "publishedOn": "2022-11-21T11:31:06.000Z",
-          "wordCount": 4555,
-          "title": "Nintendo's internal NX logo leaks for first time",
-          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo_vld9mIN.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bungie-brewing-story-surprise-in-leaked-destiny-2-cutscene",
-          "author": "Tom Phillips",
-          "description": "A cutscene wrapping up Destiny 2's current Season of Plunder has been found by fans and shared online, spoiling the end of the game's current plotline. \r\n\n\r\nIf you wish to remain unspoiled - the season is still set to run for another few weeks, until 6th December - then look away now. \r\n\n\r\nThe cutscene, voiced by Saint-14, shows Fallen leader Mithrax converting the essence of dead baddie Nezarec into a potion, which is then brewed up and served like a cup of tea.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bungie-brewing-story-surprise-in-leaked-destiny-2-cutscene",
-          "publishedOn": "2022-11-21T11:19:15.000Z",
-          "wordCount": 4512,
-          "title": "Bungie brewing story surprise in leaked Destiny 2 cutscene",
-          "imageUrl": "https://assets.reedpopcdn.com/destiny_2_dares_of_eternity_with_bxr.png/BROK/thumbnail/1600x900/format/jpg/quality/80/destiny_2_dares_of_eternity_with_bxr.png"
         }
       ]
     },
@@ -7863,6 +7913,16 @@
           "wordCount": 2114,
           "title": "Increase developer productivity, save time on developer onboarding, and drive ROI in 2023",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/12/forrester.jpeg?fit=1200%2C627"
+        },
+        {
+          "id": "https://github.blog/?p=69213",
+          "author": "Jessi Moths",
+          "description": "GitHub Enterprise has evolved to support the needs of enterprise administrators, corporate security teams, and individual developers who contribute to open source.",
+          "link": "https://github.blog/2022-12-20-emus-more-than-just-flightless-birds/",
+          "publishedOn": "2022-12-20T18:00:13.000Z",
+          "wordCount": 1666,
+          "title": "Not just flightless birds: How EMUs secure and scale identity and access management for your GitHub Enterprise",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/12/1200x640-1.png"
         },
         {
           "id": "https://github.blog/?p=69220",
