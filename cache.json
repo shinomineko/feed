@@ -124,16 +124,6 @@
           "wordCount": 232,
           "title": "Paper Title",
           "imageUrl": "https://imgs.xkcd.com/comics/paper_title_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2702/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/what_if_2_gift_guide.png\" title=\"BABIES OR LITERATURE BUT NOT BOTH: Baby shoes\" alt=\"BABIES OR LITERATURE BUT NOT BOTH: Baby shoes\" />",
-          "link": "https://xkcd.com/2702/",
-          "publishedOn": "2022-11-23T00:00:00.000Z",
-          "wordCount": 238,
-          "title": "What If 2 Gift Guide",
-          "imageUrl": "https://imgs.xkcd.com/comics/what_if_2_gift_guide_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/12/critical-microsoft-code-execution-vulnerability.html",
+          "author": null,
+          "description": "<p>A critical code-execution vulnerability in Microsoft Windows was patched in September. It seems that researchers <a href=\"https://arstechnica.com/information-technology/2022/12/critical-windows-code-execution-vulnerability-went-undetected-until-now/\">just realized</a> how serious it was (and is):</p>\n<blockquote><p>Like EternalBlue, CVE-2022-37958, as the latest vulnerability is tracked, allows attackers to execute malicious code with no authentication required. Also, like EternalBlue, it&#8217;s wormable, meaning that a single exploit can trigger a chain reaction of self-replicating follow-on exploits on other vulnerable systems. The wormability of EternalBlue allowed WannaCry and several other attacks to spread across the world in a matter of minutes with no user interaction required...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/critical-microsoft-code-execution-vulnerability.html",
+          "publishedOn": "2022-12-22T12:01:37.000Z",
+          "wordCount": 876,
+          "title": "Critical Microsoft Code-Execution Vulnerability",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/12/ukraine-intercepting-russian-soldiers-cell-phone-calls.html",
           "author": null,
@@ -3761,86 +3761,6 @@
           "wordCount": 1997,
           "title": "Sneaky ways cops could access data to widely prosecute abortions in the US",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1241744811-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899693",
-          "author": "Benj Edwards",
-          "description": "Meta's Cicero can negotiate or persuade with natural language—just like a human.",
-          "link": "https://arstechnica.com/?p=1899693",
-          "publishedOn": "2022-11-22T23:32:55.000Z",
-          "wordCount": 1905,
-          "title": "Meta researchers create AI that masters Diplomacy, tricking human players",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/cicero_diplomacy_screenshot-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899726",
-          "author": "Kyle Orland",
-          "description": "Rockstar follows similar recent ban by Mojang and Minecraft.",
-          "link": "https://arstechnica.com/?p=1899726",
-          "publishedOn": "2022-11-22T22:28:20.000Z",
-          "wordCount": 1750,
-          "title": "Crypto and NFTs aren’t welcome in Grand Theft Auto Online",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/gtamoney-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899664",
-          "author": "Dan Goodin",
-          "description": "Not surprisingly, female customers bear the brunt of the privacy violations.",
-          "link": "https://arstechnica.com/?p=1899664",
-          "publishedOn": "2022-11-22T20:51:52.000Z",
-          "wordCount": 1738,
-          "title": "Thinking about taking your computer to the repair shop? Be very afraid",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/computer-repair-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881111",
-          "author": "Scharon Harding",
-          "description": "Beefed-up image quality topped with a souped-up camera.",
-          "link": "https://arstechnica.com/?p=1881111",
-          "publishedOn": "2022-11-22T20:01:27.000Z",
-          "wordCount": 1969,
-          "title": "Review: Dell’s 32-inch UltraSharp monitor has a high-contrast IPS Black screen",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/listing-5-scaled-e1668117062885-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899620",
-          "author": "Ashley Belanger",
-          "description": "Financial data was sent to Meta by TaxAct, H&R Block, and TaxSlayer.",
-          "link": "https://arstechnica.com/?p=1899620",
-          "publishedOn": "2022-11-22T19:32:07.000Z",
-          "wordCount": 1913,
-          "title": "Major tax-filing websites secretly share income data with Meta",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-669810320-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899518",
-          "author": "Ron Amadeo",
-          "description": "Bundles save space, with the tradeoff that developers give Google the app-signing keys.",
-          "link": "https://arstechnica.com/?p=1899518",
-          "publishedOn": "2022-11-22T19:08:32.000Z",
-          "wordCount": 1851,
-          "title": "Android TV will require App Bundles in 2023, should reduce app size by 20%",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/37-749x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899592",
-          "author": "Beth Mole",
-          "description": "\"The bottom line is: We need more Americans vaccinated.\"",
-          "link": "https://arstechnica.com/?p=1899592",
-          "publishedOn": "2022-11-22T18:55:14.000Z",
-          "wordCount": 2024,
-          "title": "First efficacy data on bivalent boosters shows they work against infection",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1443582975-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899505",
-          "author": "Scharon Harding",
-          "description": "Speed is the name of the game for this one.",
-          "link": "https://arstechnica.com/?p=1899505",
-          "publishedOn": "2022-11-22T18:44:34.000Z",
-          "wordCount": 1795,
-          "title": "LG continues diversifying OLED monitor options; lists 27-incher for $1,000",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-760x380.jpg"
         }
       ]
     },
@@ -4036,6 +3956,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-part-1-ps5-firefly-edition-finally-available-in-the-uk-costs-100",
+          "author": "Victoria Kennedy",
+          "description": "After a period of exclusivity in the US, the PlayStation 5 Firefly Edition of The Last of Us Part 1 is coming to the UK.\r\n\n\r\nIf you are interested in getting your hands on this edition - which comes with the base game, its prequel chapter Left Behind, the American Dreams comic series (which itself has new cover art), a SteelBook display case, and a variety of early unlocks for the game - you can head over to the PlayStation store to pre-order a copy.\nIts release date is currently listed as Thursday 26th January, 2023.\n Read more",
+          "link": "https://www.eurogamer.net/the-last-of-us-part-1-ps5-firefly-edition-finally-available-in-the-uk-costs-100",
+          "publishedOn": "2022-12-22T12:21:49.000Z",
+          "wordCount": 5028,
+          "title": "The Last of Us Part 1 PS5 Firefly Edition finally available in the UK, costs £100",
+          "imageUrl": "https://assets.reedpopcdn.com/tloups5-firefly.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tloups5-firefly.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/mario-kart-8s-lakitu-now-drops-you-off-in-the-right-location-in-london-loop",
+          "author": "Ishraq Subhan",
+          "description": "Mario Kart 8 Deluxe received a small patch following its big Wave 3 update, which fixed a couple of bug fixes. \r\n\n\r\nThe first fix concerns an issue where the image would get \"choppy\" when playing online in Berlin Byways. \r\n\n\r\nThe second concerns an issue when playing London Loop, where Lakitu would not drop you off in the right place if you fell off the course. Lakitu has since visited Specsavers. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/mario-kart-8s-lakitu-now-drops-you-off-in-the-right-location-in-london-loop",
+          "publishedOn": "2022-12-22T12:11:04.000Z",
+          "wordCount": 4701,
+          "title": "Mario Kart 8's Lakitu now drops you off in the right location in London Loop",
+          "imageUrl": "https://assets.reedpopcdn.com/lakitu.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/lakitu.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/cowabunga-snes-classic-tmnt-4-turtles-in-time-gets-online-multiplayer",
+          "author": "Wesley Yin-Poole",
+          "description": "SNES classic Teenage Mutant Ninja Turtles 4: Turtles in Time just got online multiplayer.\r\n\n\r\nIt comes via a beefy update for the excellent Teenage Mutant Ninja Turtles: The Cowabunga Collection.\r\n\n\r\nWhile Turtles in Time is a truly radical couch co-op brawler, now you can take it into the brave new world of online play, which, if you'd have told 11-year-old me would be a thing back when Turtles in Time first launched in 1992, well, I'd have replied: \"what's online?\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cowabunga-snes-classic-tmnt-4-turtles-in-time-gets-online-multiplayer",
+          "publishedOn": "2022-12-22T12:07:15.000Z",
+          "wordCount": 5118,
+          "title": "Cowabunga! SNES classic TMNT 4: Turtles in Time gets online multiplayer",
+          "imageUrl": "https://assets.reedpopcdn.com/turtles_xSvUXiT.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/turtles_xSvUXiT.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/for-the-first-time-blizzard-issues-a-world-of-warcraft-roadmap-spanning-an-entire-year",
+          "author": "Wesley Yin-Poole",
+          "description": "Blizzard has issued a World of Warcraft roadmap spanning an entire year.\r\n\n\r\nIn a move welcomed by fans of the 18-year-old massively multiplayer online role-playing game, Blizzard told players what to expect throughout 2023 and the road ahead for recently-released expansion Dragonflight.\r\n\n\r\nSix content updates are set to go live throughout 2023, Blizzard said in a blog post, the first of which is right around the corner and adds the recently-announced Trading Post, new transmog options for grey and white gear, and additional world content.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/for-the-first-time-blizzard-issues-a-world-of-warcraft-roadmap-spanning-an-entire-year",
+          "publishedOn": "2022-12-22T11:35:20.000Z",
+          "wordCount": 4601,
+          "title": "For the first time, Blizzard issues a World of Warcraft roadmap spanning an entire year",
+          "imageUrl": "https://assets.reedpopcdn.com/wow_9XWAZK4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wow_9XWAZK4.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-witcher-season-3-gives-henry-cavills-geralt-a-heroic-sendoff-showrunner-says",
+          "author": "Victoria Kennedy",
+          "description": "Despite not being written intentionally this way, The Witcher's third season gives Henry Cavill's Geralt of Rivia a \"heroic sendoff\". \r\n\n\r\nThat's according to series creator and showrunner Lauren Hissrich. Talking to EW, Hissrich reflected on Cavill's time on the show, saying the team wanted to \"honour that appropriately\".\r\n\n\r\nAccording to Hissrich, season three of The Witcher has taken inspiration from author Andrzej Sapkowski's fourth book, Time of Contempt.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-witcher-season-3-gives-henry-cavills-geralt-a-heroic-sendoff-showrunner-says",
+          "publishedOn": "2022-12-22T11:30:27.000Z",
+          "wordCount": 4975,
+          "title": "The Witcher Season 3 gives Henry Cavill's Geralt a \"heroic sendoff\", showrunner says",
+          "imageUrl": "https://assets.reedpopcdn.com/HC-as-Geralt-the-witcher.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/HC-as-Geralt-the-witcher.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/500-public-comments-to-the-cma-on-microsoft-activision-deal-were-abusive-or-unintelligible",
+          "author": "Ishraq Subhan",
+          "description": "Gamers were given their first opportunity to have their say on Microsoft's proposed acquisition of Activision Blizzard in a public consultation with the UK's Competition and Markets Authority. \r\n\n\r\nSo how did they conduct themselves outside of the gaming bubble? With abuse and unintelligence of course. \r\n\n\r\nAccording to the CMA, it received approximately 2600 emails, around 500 of which \"contained abusive content (with no other substantive content), or were blank, unintelligible, stated to be from non-UK consumers, or not in English\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/500-public-comments-to-the-cma-on-microsoft-activision-deal-were-abusive-or-unintelligible",
+          "publishedOn": "2022-12-22T11:18:35.000Z",
+          "wordCount": 4901,
+          "title": "500 public comments to the CMA on Microsoft-Activision deal were abusive or unintelligible",
+          "imageUrl": "https://assets.reedpopcdn.com/activision-ensmble.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-ensmble.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/remember-ps3-hacker-geohot-who-elon-musk-hired-to-help-fix-twitter-he-quit",
+          "author": "Victoria Kennedy",
+          "description": "In just shy of a month, George \"Geohot\" Hotz has resigned from Twitter.\r\n\n\r\nFor a quick recap, the former hacker was hired by Elon Musk in November to \"fix\" Twitter. \r\n\n\r\n\"That's what Elon told me my job was, and I will try my hardest to do it,\" Hotz shared (via a tweet, of course) following the news of his new position. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/remember-ps3-hacker-geohot-who-elon-musk-hired-to-help-fix-twitter-he-quit",
+          "publishedOn": "2022-12-22T10:54:24.000Z",
+          "wordCount": 4725,
+          "title": "Remember PS3 hacker Geohot who Elon Musk hired to help fix Twitter? He quit",
+          "imageUrl": "https://assets.reedpopcdn.com/George_Hotz_at_TechCrunch_Disrupt.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/George_Hotz_at_TechCrunch_Disrupt.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/square-enix-ditches-nintendo-switch-racer-chocobo-gp-after-just-nine-months",
+          "author": "Wesley Yin-Poole",
+          "description": "Square Enix has announced an end to \"large scale updates\" for embattled Nintendo Switch racer Chocobo GP just nine months after launch.\r\n\n\r\nWhile the game will remain playable and rankings will continue without the use of prize pass levels, no new characters or maps will be released, effectively ending support following the conclusion of Season 5.\r\n\n\r\nMeanwhile, sales of mythril, Chocobo GP's premium currency, have been discontinued. The in-game mythril shop will disappear on 6th January. All purchased mythril becomes \"invalid\" then, too. Square Enix said it will not issue refunds for purchased mythril.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/square-enix-ditches-nintendo-switch-racer-chocobo-gp-after-just-nine-months",
+          "publishedOn": "2022-12-22T10:36:43.000Z",
+          "wordCount": 4591,
+          "title": "Square Enix ditches Nintendo Switch racer Chocobo GP after just nine months",
+          "imageUrl": "https://assets.reedpopcdn.com/nswitch_chocobogp_01.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nswitch_chocobogp_01.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/lego-builders-journey-is-next-epic-store-giveaway",
           "author": "Victoria Kennedy",
@@ -7605,56 +7605,6 @@
           "wordCount": 4702,
           "title": "The Callisto Protocol opening leaks online",
           "imageUrl": "https://assets.reedpopcdn.com/WCCFthecallistoprotocol5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/WCCFthecallistoprotocol5.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/prison-architect-goes-cutting-edge-in-new-future-tech-pack-mini-expansion",
-          "author": "Matt Wales",
-          "description": "Prison Architect is getting with the times and then some, trading the science of yesterday for the science of now and a little bit beyond in its newly released Future Tech Pack mini-expansion.\r\n\n\r\nFuture Tech is the ninth content update for Prison Architect, and gives players the ability to update their prisons with high-tech features and more advanced security.\r\n\n\r\nIts big additions include keycard-activated doors, controllable searchlights, and even two robot guard dogs, but players can also make use of glass walls, electrified fences, and a tracking belt - enabling them to follow inmates via the tracking menu, monitors, and routers.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/prison-architect-goes-cutting-edge-in-new-future-tech-pack-mini-expansion",
-          "publishedOn": "2022-11-22T23:43:17.000Z",
-          "wordCount": 4725,
-          "title": "Prison Architect goes cutting edge in new Future Tech Pack mini-expansion",
-          "imageUrl": "https://assets.reedpopcdn.com/prison-architect-future-tech.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/prison-architect-future-tech.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/no-mans-sky-re-running-this-years-limited-time-expeditions-starting-this-week",
-          "author": "Matt Wales",
-          "description": "Like a Santa descending from the heavens on a reindeer made of space, Hello Games has delved into its sack of procedural treats to give good No Man's Sky fans one final gift for 2022: another chance to play all four of this year's Expeditions and snag any goodies they might have missed the first time around.\r\n\n\r\nExpeditions, if you're unfamiliar, are something like No Man's Sky's stab at live-service-style seasonal content, serving up limited-time, curated experiences that condense and reshuffle the exploratory space sim's various systems into a series of progression-based milestone challenges. And the rewards for completing each one are usually pretty neat, ranging from robot dog companions to your very own space whale.\r\n\n\r\nAnd now Hello Games has confirmed it'll be re-running all four of 2022's Expedition starting this Thursday, 24th November. As was the case in last year's redux event, Expeditions will run in truncated form, each lasting for just two weeks before the next one rolls in - meaning players eager to acquire any rewards they might have missed (including those on Switch, who haven't had chance to play any of these yet) will have to work quick.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/no-mans-sky-re-running-this-years-limited-time-expeditions-starting-this-week",
-          "publishedOn": "2022-11-22T21:56:02.000Z",
-          "wordCount": 4901,
-          "title": "No Man's Sky re-running 2022's limited-time Expeditions starting this week",
-          "imageUrl": "https://assets.reedpopcdn.com/no-mans-sky-leviathan.png/BROK/thumbnail/1600x900/format/jpg/quality/80/no-mans-sky-leviathan.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/notoriously-tough-tetris-the-grand-master-makes-console-debut-next-week",
-          "author": "Matt Wales",
-          "description": "Tetris: The Grand Master, developer Arika's notoriously challenging arcade spin on the classic block-dropping puzzler, is making its long-awaited console debut next Thursday, 1st December, arriving on Switch and PlayStation.\r\n\n\r\nArika's The Grand Master series first appeared in Japanese arcades back in 1988, where it quickly gained a reputation for its difficulty, thanks to the rapid drop speed increase during play. It also features a grading system, ranking performance all the way up to Grand Master.\r\n\n\r\nSeveral sequels followed, and the series eventually made the jump to home consoles in Japan with 2005's Tetris: The Grand Master Ace for Xbox 360 - which was to be its final release.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/notoriously-tough-tetris-the-grand-master-makes-console-debut-next-week",
-          "publishedOn": "2022-11-22T21:14:20.000Z",
-          "wordCount": 4809,
-          "title": "Notoriously tough Tetris: The Grand Master makes console debut next week",
-          "imageUrl": "https://assets.reedpopcdn.com/tetris-grand-master-crop.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tetris-grand-master-crop.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/disney-dreamlight-valleys-toy-story-realm-gets-december-release-date",
-          "author": "Matt Wales",
-          "description": "Disney Dreamlight Valley's second major content update has a release date, and its new Toy Story realm - featuring the likes of Buzz Lightyear and Woody - will be opening its doors to visitors on 6th December.\r\n\n\r\nDreamlight Valley players first got a look at the life-sim adventure's new Toy Story realm - a recreation of Andy's childhood bedroom, as seen in the movies - back in September, during the Disney & Marvel Games Showcase.\r\n\n\r\nAt the time, it was revealed players would be teaming up with Woody and Buzz for a \"brand-new Toy Story adventure\" when the realm released. A selection of Buzz and Woody inspired cosmetics were also teased, but full details of the update are still to be shared.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/disney-dreamlight-valleys-toy-story-realm-gets-december-release-date",
-          "publishedOn": "2022-11-22T20:00:56.000Z",
-          "wordCount": 4740,
-          "title": "Disney Dreamlight Valley's Toy Story realm gets December release date",
-          "imageUrl": "https://assets.reedpopcdn.com/disney-dreamlight-valley-buzz.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/disney-dreamlight-valley-buzz.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/civilization-6-breaks-down-first-new-leaders-as-leader-pass-dlc-arrives",
-          "author": "Matt Wales",
-          "description": "To celebrate the arrival of Civilization 6's Leader Pass on PC, Mac, and iOS, developer Firaxis has provided a more detailed breakdown of Abraham Lincoln, Queen Nzinga Mbande, and Sultan Saladin - the first of 18 leaders being introduced across six included DLC.\r\n\n\r\nFirst up in the Leader Pass' inaugural DLC, known as the Great Negotiations Pack, is Abraham Lincoln, representing the United States. Lincoln abides by the Preserver of the Union agenda - meaning he only likes civilisations with the same form of government - and makes use of his Emancipation Proclamation ability, which has a number of different effects depending on the expansions players have installed.\r\n\n\r\nThose with just the base game get +2 Amenities for Industrial Zones and their buildings, but receive -1 Amenities for Plantations. These numbers increase to +3 Amenities per turn and -2 Loyalty respectively when using the Rise and Fall & Gathering Storm DLCs.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/civilization-6-breaks-down-first-new-leaders-as-leader-pass-dlc-arrives",
-          "publishedOn": "2022-11-22T18:52:21.000Z",
-          "wordCount": 4957,
-          "title": "Civilization 6 breaks down first new leaders as Leader Pass DLC arrives",
-          "imageUrl": "https://assets.reedpopcdn.com/civ-6-diplomacy-leaders.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/civ-6-diplomacy-leaders.jpg"
         }
       ]
     },
@@ -7901,16 +7851,6 @@
           "publishedOn": "2022-11-28T20:17:10.000Z",
           "wordCount": 1528,
           "title": "To infinity and beyond: enabling the future of GitHub’s REST API with API versioning",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Product@2x-1.png"
-        },
-        {
-          "id": "https://github.blog/?p=68806",
-          "author": "Seth Juarez",
-          "description": "Discover the exciting enhancements in GitHub that empower Machine Learning practitioners to do more.",
-          "link": "https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/",
-          "publishedOn": "2022-11-22T19:00:35.000Z",
-          "wordCount": 1731,
-          "title": "Exciting New GitHub Features Powering Machine Learning",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Product@2x-1.png"
         }
       ]
