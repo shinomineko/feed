@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T18:26:12.654Z</updated>
+    <updated>2022-12-22T00:31:43.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes v1.26: GA Support for Kubelet Credential Providers]]></title>
+        <id>https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/</id>
+        <link href="https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/"/>
+        <updated>2022-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Andrew Sy Kim (Google), Dixita Narang (Google)
+Kubernetes v1.26 introduced generally available (GA) support for kubelet credential
+provider plugins,
+offering an extensible plugin framework to dynamically fetch credentials
+for any container image registry.
+Background
+Kubernetes supports the ability to dynamically fetch credentials for a container registry service.
+Prior to Kubernetes v1.20, this capability was compiled into the kubelet and only available for
+Amazon Elastic Container Registry, Azure Container Registry, and Google Cloud Container Registry.
+ 
+Figure 1: Kubelet built-in credential provider support for Amazon Elastic Container Registry, Azure Container Registry, and Google Cloud Container Registry.
+Kubernetes v1.20 introduced alpha support for kubelet credential provide…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Cleese’s classic “silly walk” burns more calories than a normal gait]]></title>
+        <id>https://arstechnica.com/?p=1906174</id>
+        <link href="https://arstechnica.com/?p=1906174"/>
+        <updated>2022-12-21T23:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Increasing the inefficiency of physical activity could boost cardiovascular fitness.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okta says source code for Workforce Identity Cloud service was copied]]></title>
+        <id>https://arstechnica.com/?p=1906375</id>
+        <link href="https://arstechnica.com/?p=1906375"/>
+        <updated>2022-12-21T22:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Code stored on GitHub was copied after threat actor gained unauthorized access.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enigmatic canal-filled ruins may have been above water when built]]></title>
+        <id>https://arstechnica.com/?p=1906301</id>
+        <link href="https://arstechnica.com/?p=1906301"/>
+        <updated>2022-12-21T19:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Nan Madol, a strange site in the Pacific, may be on an island that's sinking.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: ThinkPad X1 Extreme Gen 5 is impressively fast, with the right settings]]></title>
+        <id>https://arstechnica.com/?p=1904508</id>
+        <link href="https://arstechnica.com/?p=1904508"/>
+        <updated>2022-12-21T19:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Equal parts mobile workstation and grown-up gaming laptop.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft sued by Call of Duty gamers opposing Activision merger]]></title>
+        <id>https://arstechnica.com/?p=1906278</id>
+        <link href="https://arstechnica.com/?p=1906278"/>
+        <updated>2022-12-21T18:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Loyal gamers extremely vulnerable to potential Microsoft monopoly, lawsuit says.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking for a new EV? Don’t get suckered by the top-of-the-line model]]></title>
         <id>https://arstechnica.com/?p=1906267</id>
@@ -282,6 +353,16 @@ As spotted by Bloomberg Law, the lawsuit argues that the acquisition will give M
 Read more]]></summary>
         <author>
             <name>Ishraq Subhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cold Complaints]]></title>
+        <id>https://xkcd.com/2714/</id>
+        <link href="https://xkcd.com/2714/"/>
+        <updated>2022-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/cold_complaints.png" title="Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'" alt="Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10712,107 +10793,6 @@ Mistlands adds new creatures, enemies, weapons and crafting materials, and is av
 
 
 A fresh trailer shows some of the Mistlands' fresh friends and foes, some of its new areas, and magic system -  including magical staves. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Scarlet and Violet players are skipping their first day of school]]></title>
-        <id>https://www.eurogamer.net/pokemon-scarlet-and-violet-players-are-skipping-their-first-day-of-school</id>
-        <link href="https://www.eurogamer.net/pokemon-scarlet-and-violet-players-are-skipping-their-first-day-of-school"/>
-        <updated>2022-11-22T12:14:29.000Z</updated>
-        <summary type="html"><![CDATA[In a scheme that can only be matched by Team Star in its levels of nefariousness, players have found an exploit in Pokémon Scarlet and Violet that lets you skip the game's first quest.
-The intended sequence of the game would see you play through The First Day of School quest, which would then unlock all the other storylines in the game.
-However, players have found a way to skip the latter section of the quest, allowing you to cut out the tedium of meeting your new classmates and teachers and get straight into exploring the open-world of Paldea.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortnite's Qatar World Cup skins let you make Pride-coloured players]]></title>
-        <id>https://www.eurogamer.net/fortnites-qatar-world-cup-skins-let-you-make-pride-coloured-players</id>
-        <link href="https://www.eurogamer.net/fortnites-qatar-world-cup-skins-let-you-make-pride-coloured-players"/>
-        <updated>2022-11-22T12:09:16.000Z</updated>
-        <summary type="html"><![CDATA[This year's World Cup is a little different, as I think we all understand. Amidst headlines on migrant worker conditions, LGBTQ+ rights and criticism of the tournament from both players and fans, it's been interesting to see how brands - and video games - are noting Qatar 2022.
-
-
-Fortnite has a history with football - and its governing bodies. Some of its most popular skins are based on football kit designs, and the game's meme-like dances were a fixture of England's 2018 World Cup squad. Last year, Epic Games officially licensed the likenesses of England's Harry Kane and Germany's Marco Reus for the delayed 2020 Euros, and featured an in-game "UEFA Euro 2020 Cup" tournament with cash prizes. 
-
-
-Prior to that, Fortnite has added skins wearing the officially-licensed football shirts of 23 top teams worldwide, including many from the Premiership. Fortnite also has an officially licensed Neymar Jr. skin, and an emote where you can punch the air that was launched in a collaboration with Pelé.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty welcomes 25m players to Warzone 2.0 in five days]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-welcomes-25m-players-to-warzone-20-in-five-days</id>
-        <link href="https://www.eurogamer.net/call-of-duty-welcomes-25m-players-to-warzone-20-in-five-days"/>
-        <updated>2022-11-22T12:05:43.000Z</updated>
-        <summary type="html"><![CDATA[In just five short days, over 25 million Call of Duty players have dipped their toes into the waters of Warzone 2.0. 
-
-
-To put this figure into perspective, Warzone 1 reached 30 million players in 10 days. If Warzone 2 keeps up the same momentum, it is safe to assume it will soon exceed these figures.
-
-
-Activision shared the news of this milestone on its social media feeds, thanking those who have taken part in its frenzied battlegrounds so far. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty Modern Warfare 2 sees return of Superman exploit]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2-sees-return-of-superman-exploit</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2-sees-return-of-superman-exploit"/>
-        <updated>2022-11-22T11:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Cast your mind back to the days of Call of Duty: Advanced Warfare and you may recall an infamous bug that allowed players to soar through the skies in a fashion that should not be not humanly possible. This became known as the 'Superman' exploit, due to the way the players looked when this glitch was in motion - positioned horizontally in a skydiving position.
-
-
-And now, when playing Call of Duty's most recent offerings of Modern Warfare 2 and Warzone 2.0, you may well see this move in play once more. Is it a bird? Is it a plane? No, it's just your teammate channelling their inner Clark Kent. 
-
-
-Today's version of the Superman exploit was recently shared by prolific Warzone 2 player Wuqi. In a compilation, the gamer can be seen bouncing off certain points on the maps while diving in the air, giving them a soaring boost. This, as you can see below, allows them to cover ground a lot more quickly than the more traditional methods of traversal.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Sports golf update on course for end of November]]></title>
-        <id>https://www.eurogamer.net/nintendo-switch-sports-golf-update-on-course-for-end-of-november</id>
-        <link href="https://www.eurogamer.net/nintendo-switch-sports-golf-update-on-course-for-end-of-november"/>
-        <updated>2022-11-22T11:16:28.000Z</updated>
-        <summary type="html"><![CDATA[The golf update for Nintendo Switch Sports will be released at the end of this month. 
-
-Originally planned for autumn, the update was delayed in September for more development time, with a release window of the holiday season.
-
-So far, Nintendo has stated the update will support local and online play. 21 holes from Wii Sports will be included. Online play will support up to eight players in survival golf, where the player with the most strokes will be knocked out.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation 4 role-player Ys 8 removed from PS Plus Extra catalogue without warning]]></title>
-        <id>https://www.eurogamer.net/playstation-4-role-player-ys-8-removed-from-ps-plus-extra-catalogue-without-warning</id>
-        <link href="https://www.eurogamer.net/playstation-4-role-player-ys-8-removed-from-ps-plus-extra-catalogue-without-warning"/>
-        <updated>2022-11-22T11:01:38.000Z</updated>
-        <summary type="html"><![CDATA[The publisher of role-playing game Ys 8: Lacrimosa of Dana is currently investigating why the game has been removed from Sony's PlayStation Plus Extra catalogue without warning. 
-
-
-Sony's subscription service offered the PS4 version of Ys 8, alongside other titles in the series. Last week, a £35 PS5 version of the game launched, with no free upgrade option for fans with a PS4 copy already. 
-
-
-It was around this time that the RPG's PS4 version disappeared from the PlayStation Plus Extra catalogue.
  
 Read more]]></summary>
         <author>
