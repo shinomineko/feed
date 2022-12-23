@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T18:26:02.922Z</updated>
+    <updated>2022-12-23T00:31:18.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Support for Passing Pod fsGroup to CSI Drivers At Mount Time]]></title>
+        <id>https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/</id>
+        <link href="https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Fabio Bertinatto (Red Hat), Hemant Kumar (Red Hat)
+Delegation of fsGroup to CSI drivers was first introduced as alpha in Kubernetes 1.22,
+and graduated to beta in Kubernetes 1.25.
+For Kubernetes 1.26, we are happy to announce that this feature has graduated to
+General Availability (GA).
+In this release, if you specify a fsGroup in the
+security context,
+for a (Linux) Pod, all processes in the pod's containers are part of the additional group
+that you specified.
+In previous Kubernetes releases, the kubelet would always apply the
+fsGroup ownership and permission changes to files in the volume according to the policy
+you specified in the Pod's .spec.securityContext.fsGroupChangePolicy field.
+Starting with Kubernetes 1.26, CSI drivers have the option to apply the fsGroup settings durin…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass users: Your info and password vault data are now in hackers’ hands]]></title>
+        <id>https://arstechnica.com/?p=1906575</id>
+        <link href="https://arstechnica.com/?p=1906575"/>
+        <updated>2022-12-22T22:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Password manager says breach it disclosed in August was much worse than thought.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With voice assistants in trouble, Home Assistant starts a local alternative]]></title>
+        <id>https://arstechnica.com/?p=1906533</id>
+        <link href="https://arstechnica.com/?p=1906533"/>
+        <updated>2022-12-22T22:29:20.000Z</updated>
+        <summary type="html"><![CDATA[With Big Tech reconsidering voice profitability, Home Assistant enters the fray.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok cops to running “covert surveillance campaign” on Western journalists]]></title>
+        <id>https://arstechnica.com/?p=1906558</id>
+        <link href="https://arstechnica.com/?p=1906558"/>
+        <updated>2022-12-22T21:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Fired employees “misused their authority to obtain access to TikTok user data.”]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backup Soyuz can’t get to ISS before late February]]></title>
+        <id>https://arstechnica.com/?p=1906530</id>
+        <link href="https://arstechnica.com/?p=1906530"/>
+        <updated>2022-12-22T19:38:46.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of a Soyuz coolant loss, NASA and Roscosmos still exploring options.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blu-ray player gathering dust? Turn it into a laser-scanning microscope]]></title>
+        <id>https://arstechnica.com/?p=1906446</id>
+        <link href="https://arstechnica.com/?p=1906446"/>
+        <updated>2022-12-22T18:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Not as powerful as a commerical one, but thousands cheaper.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driver updates will fix abnormally high power use for AMD’s new RX 7900 GPUs]]></title>
+        <id>https://arstechnica.com/?p=1906458</id>
+        <link href="https://arstechnica.com/?p=1906458"/>
+        <updated>2022-12-22T18:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Video playback, high-refresh screens, and multi-monitor setups can cause issues.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromised dispatch system helped move taxis to front of the line]]></title>
+        <id>https://arstechnica.com/?p=1906469</id>
+        <link href="https://arstechnica.com/?p=1906469"/>
+        <updated>2022-12-22T18:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Defendants allegedly conspired with Russians, drew as many as 1,000 daily trips.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leaked details show how Biden could save TikTok from being blocked in the US]]></title>
         <id>https://arstechnica.com/?p=1906451</id>
@@ -10659,120 +10751,6 @@ Back in September, Bloomberg reported multiple instances of child abuse on the s
 
 That blog post has now been updated with further details on the multiple prevention methods put in place.
 
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix developing big budget PC game]]></title>
-        <id>https://www.eurogamer.net/netflix-developing-big-budget-pc-game</id>
-        <link href="https://www.eurogamer.net/netflix-developing-big-budget-pc-game"/>
-        <updated>2022-11-23T12:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Netflix is developing a triple-A PC game, based on recent job listings posted for its game studio.
-The job openings are available at the newly-formed Los Angeles developer, Netflix Games Studio, which was announced by the company's vice president of gaming Mike Verdu last month. The team is being lead by former Overwatch executive producer Chacko Sonny.
-Listings for project directors, a lead engineer, and a live service analyst at Netflix Games Studio were spotted earlier today (thanks, Mobilegamer.biz).
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[God of War Ragnarök DLC is unlikely]]></title>
-        <id>https://www.eurogamer.net/god-of-war-ragnarok-dlc-is-unlikely</id>
-        <link href="https://www.eurogamer.net/god-of-war-ragnarok-dlc-is-unlikely"/>
-        <updated>2022-11-23T12:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Sorry folks, it looks like DLC for God of War Ragnarök is unlikely to happen.
-
-
-Speaking to Kinda Funny Games on their God of War Ragnarök spoilercast, director Eric Williams was asked whether DLC is on the way.
-
-
-
-"I don't know, man, that game is big," said Williams said. "I think we put everything we had into it, so I wouldn't count on it."
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty Modern Warfare 2 patch includes UI improvements]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2-patch-includes-ui-improvements</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2-patch-includes-ui-improvements"/>
-        <updated>2022-11-23T11:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Call of Duty Modern Warfare 2 has been updated with a bug-fixing patch that has also (slowly) begun to improve the game's user interface.
-
-
-Other changes detailed in Infinity Ward's patch notes include the return of CDL modes and a fix to now show the correct number of Battle Pass Tokens on the Battle Pass menu.
-
-
-A timer on the game's battle pass reveals Season 1 is now due to end on 1st February 2023.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneaky ways cops could access data to widely prosecute abortions in the US]]></title>
-        <id>https://arstechnica.com/?p=1873036</id>
-        <link href="https://arstechnica.com/?p=1873036"/>
-        <updated>2022-11-23T11:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Third-party data brokers give police warrantless access to 250 million devices.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead by Daylight's next Killer is an evil medieval knight]]></title>
-        <id>https://www.eurogamer.net/dead-by-daylights-next-killer-is-an-evil-medieval-knight</id>
-        <link href="https://www.eurogamer.net/dead-by-daylights-next-killer-is-an-evil-medieval-knight"/>
-        <updated>2022-11-23T11:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Dead by Daylight's next Killer is an evil knight, as Behaviour Interactive explores medieval horror in the game's latest chapter.
-
-
-Forged in Fog is available now and includes new Killer The Knight, as well as Survivor Vittorio Toscano, and new map The Shattered Square.
-
-
-You can check out a trailer of the two characters below.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deus Ex Go becomes unplayable in January, even if you paid for it]]></title>
-        <id>https://www.eurogamer.net/deus-ex-go-becomes-unplayable-in-january-even-if-you-paid-for-it</id>
-        <link href="https://www.eurogamer.net/deus-ex-go-becomes-unplayable-in-january-even-if-you-paid-for-it"/>
-        <updated>2022-11-23T11:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Deus Ex Go will become unplayable from 4th January - even if you bought the game and have it downloaded to your phone. 
-
-
-The well-received mobile puzzler, one of a series launched by Square Enix and based on popular franchises such as Tomb Raider and Hitman, is among a number of mobile games now owned by mega-publisher Embracer.
-
-
-This morning, Embracer announced its decision to shut down Deus Ex Go for good, as well as free-to-play titles Arena Battle Champions, Hitman Sniper: The Shadows and Space Invaders: Hidden Heroes. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Callisto Protocol opening leaks online]]></title>
-        <id>https://www.eurogamer.net/the-callisto-protocol-opening-leaks-online</id>
-        <link href="https://www.eurogamer.net/the-callisto-protocol-opening-leaks-online"/>
-        <updated>2022-11-23T11:05:43.000Z</updated>
-        <summary type="html"><![CDATA[The opening of The Callisto Protocol has leaked.
-
-
-The game is set for release on 2nd December across PlayStation and Xbox consoles and PC, but 13 minutes of footage has been shared on YouTube.
-
-
-Of course, it's low quality off-screen footage but it still details the title screen, settings, and the beginning of the story.
  
 Read more]]></summary>
         <author>

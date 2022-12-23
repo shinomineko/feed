@@ -443,6 +443,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1906575",
+          "author": "Dan Goodin",
+          "description": "Password manager says breach it disclosed in August was much worse than thought.",
+          "link": "https://arstechnica.com/?p=1906575",
+          "publishedOn": "2022-12-22T22:43:39.000Z",
+          "wordCount": 2051,
+          "title": "LastPass users: Your info and password vault data are now in hackers’ hands",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/password-change-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906533",
+          "author": "Ron Amadeo",
+          "description": "With Big Tech reconsidering voice profitability, Home Assistant enters the fray.",
+          "link": "https://arstechnica.com/?p=1906533",
+          "publishedOn": "2022-12-22T22:29:20.000Z",
+          "wordCount": 2092,
+          "title": "With voice assistants in trouble, Home Assistant starts a local alternative",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/hero-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906558",
+          "author": "Ashley Belanger",
+          "description": "Fired employees “misused their authority to obtain access to TikTok user data.”",
+          "link": "https://arstechnica.com/?p=1906558",
+          "publishedOn": "2022-12-22T21:52:55.000Z",
+          "wordCount": 1610,
+          "title": "TikTok cops to running “covert surveillance campaign” on Western journalists",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1245156828-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906530",
+          "author": "John Timmer",
+          "description": "In the wake of a Soyuz coolant loss, NASA and Roscosmos still exploring options.",
+          "link": "https://arstechnica.com/?p=1906530",
+          "publishedOn": "2022-12-22T19:38:46.000Z",
+          "wordCount": 1831,
+          "title": "Backup Soyuz can’t get to ISS before late February",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/image-9-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906446",
+          "author": "Scharon Harding",
+          "description": "Not as powerful as a commerical one, but thousands cheaper.",
+          "link": "https://arstechnica.com/?p=1906446",
+          "publishedOn": "2022-12-22T18:52:14.000Z",
+          "wordCount": 1749,
+          "title": "Blu-ray player gathering dust? Turn it into a laser-scanning microscope",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-875114850-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906458",
+          "author": "Andrew Cunningham",
+          "description": "Video playback, high-refresh screens, and multi-monitor setups can cause issues.",
+          "link": "https://arstechnica.com/?p=1906458",
+          "publishedOn": "2022-12-22T18:34:52.000Z",
+          "wordCount": 1553,
+          "title": "Driver updates will fix abnormally high power use for AMD’s new RX 7900 GPUs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0780-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1906469",
+          "author": "Dan Goodin",
+          "description": "Defendants allegedly conspired with Russians, drew as many as 1,000 daily trips.",
+          "link": "https://arstechnica.com/?p=1906469",
+          "publishedOn": "2022-12-22T18:04:07.000Z",
+          "wordCount": 1551,
+          "title": "Compromised dispatch system helped move taxis to front of the line",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/airport-taxis-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1906451",
           "author": "Ashley Belanger",
           "description": "A former Secret Service agent recommended to oversee TikTok's US division.",
@@ -3801,16 +3871,6 @@
           "wordCount": 1701,
           "title": "Americans remain resistant to the lure of EVs, which are still unaffordable",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Bolt-EUV-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1873036",
-          "author": "Ashley Belanger",
-          "description": "Third-party data brokers give police warrantless access to 250 million devices.",
-          "link": "https://arstechnica.com/?p=1873036",
-          "publishedOn": "2022-11-23T11:45:25.000Z",
-          "wordCount": 1997,
-          "title": "Sneaky ways cops could access data to widely prosecute abortions in the US",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1241744811-760x380.jpg"
         }
       ]
     },
@@ -3836,6 +3896,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/",
+          "author": null,
+          "description": "Authors: Fabio Bertinatto (Red Hat), Hemant Kumar (Red Hat)\nDelegation of fsGroup to CSI drivers was first introduced as alpha in Kubernetes 1.22,\nand graduated to beta in Kubernetes 1.25.\nFor Kubernetes 1.26, we are happy to announce that this feature has graduated to\nGeneral Availability (GA).\nIn this release, if you specify a fsGroup in the\nsecurity context,\nfor a (Linux) Pod, all processes in the pod's containers are part of the additional group\nthat you specified.\nIn previous Kubernetes releases, the kubelet would always apply the\nfsGroup ownership and permission changes to files in the volume according to the policy\nyou specified in the Pod's .spec.securityContext.fsGroupChangePolicy field.\nStarting with Kubernetes 1.26, CSI drivers have the option to apply the fsGroup settings durin…",
+          "link": "https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 3554,
+          "title": "Blog: Kubernetes 1.26: Support for Passing Pod fsGroup to CSI Drivers At Mount Time",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/",
           "author": null,
@@ -7675,66 +7745,6 @@
           "wordCount": 4733,
           "title": "Twitch updates measures to combat child grooming",
           "imageUrl": "https://assets.reedpopcdn.com/twitch-logo-1024x577.webp/BROK/thumbnail/1600x900/format/jpg/quality/80/twitch-logo-1024x577.webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflix-developing-big-budget-pc-game",
-          "author": "Liv Ngan",
-          "description": "Netflix is developing a triple-A PC game, based on recent job listings posted for its game studio.\nThe job openings are available at the newly-formed Los Angeles developer, Netflix Games Studio, which was announced by the company's vice president of gaming Mike Verdu last month. The team is being lead by former Overwatch executive producer Chacko Sonny.\nListings for project directors, a lead engineer, and a live service analyst at Netflix Games Studio were spotted earlier today (thanks, Mobilegamer.biz).\n Read more",
-          "link": "https://www.eurogamer.net/netflix-developing-big-budget-pc-game",
-          "publishedOn": "2022-11-23T12:07:03.000Z",
-          "wordCount": 4725,
-          "title": "Netflix developing big budget PC game",
-          "imageUrl": "https://assets.reedpopcdn.com/Netflix-Emblem.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Netflix-Emblem.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/god-of-war-ragnarok-dlc-is-unlikely",
-          "author": "Ed Nightingale",
-          "description": "Sorry folks, it looks like DLC for God of War Ragnarök is unlikely to happen.\r\n\n\r\nSpeaking to Kinda Funny Games on their God of War Ragnarök spoilercast, director Eric Williams was asked whether DLC is on the way.\r\n\r\n\n\r\n\"I don't know, man, that game is big,\" said Williams said. \"I think we put everything we had into it, so I wouldn't count on it.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/god-of-war-ragnarok-dlc-is-unlikely",
-          "publishedOn": "2022-11-23T12:03:56.000Z",
-          "wordCount": 4703,
-          "title": "God of War Ragnarök DLC is unlikely",
-          "imageUrl": "https://assets.reedpopcdn.com/god-of-war-ragnarok-ps5-ps4-playstation.png/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-ragnarok-ps5-ps4-playstation.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-patch-includes-ui-improvements",
-          "author": "Tom Phillips",
-          "description": "Call of Duty Modern Warfare 2 has been updated with a bug-fixing patch that has also (slowly) begun to improve the game's user interface.\r\n\n\r\nOther changes detailed in Infinity Ward's patch notes include the return of CDL modes and a fix to now show the correct number of Battle Pass Tokens on the Battle Pass menu.\r\n\n\r\nA timer on the game's battle pass reveals Season 1 is now due to end on 1st February 2023.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-patch-includes-ui-improvements",
-          "publishedOn": "2022-11-23T11:54:32.000Z",
-          "wordCount": 4757,
-          "title": "Call of Duty Modern Warfare 2 patch includes UI improvements",
-          "imageUrl": "https://assets.reedpopcdn.com/modern_warfare_2_gold_camo_7.png/BROK/thumbnail/1600x900/format/jpg/quality/80/modern_warfare_2_gold_camo_7.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/dead-by-daylights-next-killer-is-an-evil-medieval-knight",
-          "author": "Ed Nightingale",
-          "description": "Dead by Daylight's next Killer is an evil knight, as Behaviour Interactive explores medieval horror in the game's latest chapter.\r\n\n\r\nForged in Fog is available now and includes new Killer The Knight, as well as Survivor Vittorio Toscano, and new map The Shattered Square.\r\n\n\r\nYou can check out a trailer of the two characters below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dead-by-daylights-next-killer-is-an-evil-medieval-knight",
-          "publishedOn": "2022-11-23T11:42:25.000Z",
-          "wordCount": 4768,
-          "title": "Dead by Daylight's next Killer is an evil medieval knight",
-          "imageUrl": "https://assets.reedpopcdn.com/Dead-by-Daylight-_-Forged-in-Fog-_-Spotlight-Trailer-0-52-screenshot-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/Dead-by-Daylight-_-Forged-in-Fog-_-Spotlight-Trailer-0-52-screenshot-(1).png"
-        },
-        {
-          "id": "https://www.eurogamer.net/deus-ex-go-becomes-unplayable-in-january-even-if-you-paid-for-it",
-          "author": "Tom Phillips",
-          "description": "Deus Ex Go will become unplayable from 4th January - even if you bought the game and have it downloaded to your phone. \r\n\n\r\nThe well-received mobile puzzler, one of a series launched by Square Enix and based on popular franchises such as Tomb Raider and Hitman, is among a number of mobile games now owned by mega-publisher Embracer.\r\n\n\r\nThis morning, Embracer announced its decision to shut down Deus Ex Go for good, as well as free-to-play titles Arena Battle Champions, Hitman Sniper: The Shadows and Space Invaders: Hidden Heroes. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/deus-ex-go-becomes-unplayable-in-january-even-if-you-paid-for-it",
-          "publishedOn": "2022-11-23T11:16:40.000Z",
-          "wordCount": 4856,
-          "title": "Deus Ex Go becomes unplayable in January, even if you paid for it",
-          "imageUrl": "https://assets.reedpopcdn.com/maxresdefault_XonXDil.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/maxresdefault_XonXDil.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-callisto-protocol-opening-leaks-online",
-          "author": "Ed Nightingale",
-          "description": "The opening of The Callisto Protocol has leaked.\r\n\n\r\nThe game is set for release on 2nd December across PlayStation and Xbox consoles and PC, but 13 minutes of footage has been shared on YouTube.\r\n\n\r\nOf course, it's low quality off-screen footage but it still details the title screen, settings, and the beginning of the story.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-callisto-protocol-opening-leaks-online",
-          "publishedOn": "2022-11-23T11:05:43.000Z",
-          "wordCount": 4702,
-          "title": "The Callisto Protocol opening leaks online",
-          "imageUrl": "https://assets.reedpopcdn.com/WCCFthecallistoprotocol5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/WCCFthecallistoprotocol5.jpg"
         }
       ]
     },
