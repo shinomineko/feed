@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T06:26:35.682Z</updated>
+    <updated>2022-12-26T12:28:17.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LastPass Breach]]></title>
+        <id>https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html</id>
+        <link href="https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html"/>
+        <updated>2022-12-26T12:06:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>Last August, LastPass <a href="https://www.schneier.com/blog/archives/2022/12/lastpass-security-breach.html">reported</a> a security breach, saying that no customer information&#8212;or passwords&#8212;were compromised. Turns out the full story <a href="https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/">is worse</a>:</p>
+<blockquote><p>While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service.</p>
+<p>[&#8230;]</p>
+<p>To date, we have determined that once the cloud storage access key and dual storage container decryption keys were obtained, the threat actor copied information from backup that contained basic customer account information and related metadata including company names, end-user names, billing addresses, email addresses, telephone numbers, and the IP addresses from which customers were accessing the LastPass service...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blog: Kubernetes 1.26: Pod Scheduling Readiness]]></title>
         <id>https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/</id>

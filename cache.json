@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html",
+          "author": null,
+          "description": "<p>Last August, LastPass <a href=\"https://www.schneier.com/blog/archives/2022/12/lastpass-security-breach.html\">reported</a> a security breach, saying that no customer information&#8212;or passwords&#8212;were compromised. Turns out the full story <a href=\"https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/\">is worse</a>:</p>\n<blockquote><p>While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service.</p>\n<p>[&#8230;]</p>\n<p>To date, we have determined that once the cloud storage access key and dual storage container decryption keys were obtained, the threat actor copied information from backup that contained basic customer account information and related metadata including company names, end-user names, billing addresses, email addresses, telephone numbers, and the IP addresses from which customers were accessing the LastPass service...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html",
+          "publishedOn": "2022-12-26T12:06:18.000Z",
+          "wordCount": 1123,
+          "title": "LastPass Breach",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2022/12/friday-squid-blogging-injured-giant-squid-and-paddleboarder.html",
           "author": null,
           "description": "<p>Here&#8217;s a <a href=\"https://unofficialnetworks.com/2022/12/19/giant-squid-paddleboarder/\">video</a>&#8212;I don&#8217;t know where it&#8217;s from&#8212;of an injured juvenile male giant squid grabbing on to a paddleboard.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
