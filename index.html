@@ -83,6 +83,110 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-26 datetime="2022-12-26T00:00:00.000Z">2022-12-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-26 datetime="2022-12-26T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.26: Pod Scheduling Readiness</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Wei Huang (Apple), Abdullah Gharaibeh (Google)
+Kubernetes 1.26 introduced a new Pod feature: scheduling gates. In Kubernetes, scheduling gates
+are keys that tell the scheduler when a Pod is ready to be considered for scheduling.
+What problem does it solve?
+When a Pod is created, the scheduler will continuously attempt to find a node that fits it. This
+infinite loop continues until the scheduler either finds a node for the Pod, or the Pod gets deleted.
+Pods that remain unschedulable for long periods of time (e.g., ones that are blocked on some external event)
+waste scheduling cycles. A scheduling cycle may take ≅20ms or more depending on the complexity of
+the Pod&#x27;s scheduling constraints. Therefore, at scale, those wasted cycles significantly impact the
+scheduler&#x27;s performance. See …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-25 datetime="2022-12-25T21:23:41.000Z">2022-12-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-25 datetime="2022-12-25T21:23:41.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ars Technica - All content</button>
+                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1905727"
+                        open
+                      >
+                        <summary class="article-expander__title">J. Robert Oppenheimer cleared of “black mark” against his name after 68 years</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1905727">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/oppie1CROP-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Manhattan Project physicist was infamously stripped of his security clearance in 1954.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-24 datetime="2022-12-24T21:48:07.000Z">2022-12-24</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-24 datetime="2022-12-24T21:48:07.000Z"></time>
           </button>
@@ -19993,92 +20097,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/the-sims-4-rolls-out-a-new-gallery-profanity-filter-update-to-combat-anti-semitic-content"
-                        open
-                      >
-                        <summary class="article-expander__title">The Sims 4 rolls out a new Gallery Profanity Filter Update to combat anti-Semitic content</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/the-sims-4-rolls-out-a-new-gallery-profanity-filter-update-to-combat-anti-semitic-content">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/07-25-21_7-48-53-PM.png/BROK/thumbnail/1600x900/format/jpg/quality/80/07-25-21_7-48-53-PM.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>EA has rolled out a &quot;critical update&quot; to The Sims 4 on PC and consoles following an increase in Nazi propaganda and anti-Semitic content.
-
-&quot;We are aware of and have seen some select instances of wholly unacceptable content that has been uploaded to The Sims 4 Gallery,&quot; EA said in a brief statement included in the game&#x27;s patch notes.
-
-&quot;Our team has reviewed, and made critical updates to, the profanity filter to help prevent this from happening again in the future,&quot; the team explained. 
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;17
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/the-epic-games-store-will-reportedly-repeat-its-christmas-giveaway-this-year"
-                        open
-                      >
-                        <summary class="article-expander__title">The Epic Games Store will reportedly repeat its Christmas giveaway this year</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/the-epic-games-store-will-reportedly-repeat-its-christmas-giveaway-this-year">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/epic-games-store-experiencing-issues-following-fortnite-live-event-1570995464844.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/epic-games-store-experiencing-issues-following-fortnite-live-event-1570995464844.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>It looks like Epic Games will once again be running its festive freebie giveaway over the Christmas period.
-
-Confirmation came via Dealabs leaker billbil-kun who - as well as confirming that Star Wars: Squadrons is currently free to add to your Epic Games Store library from now until next Thursday, 1st December - dropped a hint that the Epic Games Store will once again be running its &quot;Advent Calendar&quot; event.
-
-&quot;Do you know if we&#x27;ll have an advent calendar again in December? (1 set per day)&quot;, asked a curious poster, to which billbil-kun replied: &quot;Yes, somewhere between December 15, 2022 and January 10, 2023,&quot; (thanks, VGC).
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Ars Technica - All content</button>
-                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1899963"
-                        open
-                      >
-                        <summary class="article-expander__title">The evolution of whales from land to sea</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1899963">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/04/whales9-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Genomes of cetaceans help tell story of mammals who returned to life aquatic.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -20086,8 +20104,8 @@ Read more</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/3776988232">
-        <time id="build-timestamp" datetime="2022-12-25T18:25:00.557Z">2022-12-25T18:25:00.557Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/3778114946">
+        <time id="build-timestamp" datetime="2022-12-26T00:31:08.713Z">2022-12-26T00:31:08.713Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

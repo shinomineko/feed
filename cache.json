@@ -453,6 +453,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1905727",
+          "author": "Jennifer Ouellette",
+          "description": "Manhattan Project physicist was infamously stripped of his security clearance in 1954.",
+          "link": "https://arstechnica.com/?p=1905727",
+          "publishedOn": "2022-12-25T21:23:41.000Z",
+          "wordCount": 3028,
+          "title": "J. Robert Oppenheimer cleared of “black mark” against his name after 68 years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/oppie1CROP-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1906644",
           "author": "Jennifer Ouellette",
           "description": "\"Nanofrazor\" cuts tiny single with first 25 seconds of “Rocking Around the Christmas Tree”",
@@ -3761,16 +3771,6 @@
           "wordCount": 2034,
           "title": "USB-C desktop power chargers tested—the best GaN-based boxes",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/power_chargers_top-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1899963",
-          "author": "Knowable Magazine",
-          "description": "Genomes of cetaceans help tell story of mammals who returned to life aquatic.",
-          "link": "https://arstechnica.com/?p=1899963",
-          "publishedOn": "2022-11-26T12:07:36.000Z",
-          "wordCount": 2230,
-          "title": "The evolution of whales from land to sea",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/whales9-760x380.jpg"
         }
       ]
     },
@@ -3796,6 +3796,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/",
+          "author": null,
+          "description": "Author: Wei Huang (Apple), Abdullah Gharaibeh (Google)\nKubernetes 1.26 introduced a new Pod feature: scheduling gates. In Kubernetes, scheduling gates\nare keys that tell the scheduler when a Pod is ready to be considered for scheduling.\nWhat problem does it solve?\nWhen a Pod is created, the scheduler will continuously attempt to find a node that fits it. This\ninfinite loop continues until the scheduler either finds a node for the Pod, or the Pod gets deleted.\nPods that remain unschedulable for long periods of time (e.g., ones that are blocked on some external event)\nwaste scheduling cycles. A scheduling cycle may take ≅20ms or more depending on the complexity of\nthe Pod's scheduling constraints. Therefore, at scale, those wasted cycles significantly impact the\nscheduler's performance. See …",
+          "link": "https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/",
+          "publishedOn": "2022-12-26T00:00:00.000Z",
+          "wordCount": 3757,
+          "title": "Blog: Kubernetes 1.26: Pod Scheduling Readiness",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/",
           "author": null,
@@ -7415,26 +7425,6 @@
           "wordCount": 4959,
           "title": "Guildford.Games Ltd wants to \"bring the talent within Guildford to the attention of the world\"",
           "imageUrl": "https://assets.reedpopcdn.com/guildfordfestival.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/guildfordfestival.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-sims-4-rolls-out-a-new-gallery-profanity-filter-update-to-combat-anti-semitic-content",
-          "author": "Vikki Blake",
-          "description": "EA has rolled out a \"critical update\" to The Sims 4 on PC and consoles following an increase in Nazi propaganda and anti-Semitic content.\r\n\n\"We are aware of and have seen some select instances of wholly unacceptable content that has been uploaded to The Sims 4 Gallery,\" EA said in a brief statement included in the game's patch notes.\r\n\n\"Our team has reviewed, and made critical updates to, the profanity filter to help prevent this from happening again in the future,\" the team explained. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-sims-4-rolls-out-a-new-gallery-profanity-filter-update-to-combat-anti-semitic-content",
-          "publishedOn": "2022-11-26T11:55:20.000Z",
-          "wordCount": 5231,
-          "title": "The Sims 4 rolls out a new Gallery Profanity Filter Update to combat anti-Semitic content",
-          "imageUrl": "https://assets.reedpopcdn.com/07-25-21_7-48-53-PM.png/BROK/thumbnail/1600x900/format/jpg/quality/80/07-25-21_7-48-53-PM.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-epic-games-store-will-reportedly-repeat-its-christmas-giveaway-this-year",
-          "author": "Vikki Blake",
-          "description": "It looks like Epic Games will once again be running its festive freebie giveaway over the Christmas period.\r\n\nConfirmation came via Dealabs leaker billbil-kun who - as well as confirming that Star Wars: Squadrons is currently free to add to your Epic Games Store library from now until next Thursday, 1st December - dropped a hint that the Epic Games Store will once again be running its \"Advent Calendar\" event.\r\n\n\"Do you know if we'll have an advent calendar again in December? (1 set per day)\", asked a curious poster, to which billbil-kun replied: \"Yes, somewhere between December 15, 2022 and January 10, 2023,\" (thanks, VGC).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-epic-games-store-will-reportedly-repeat-its-christmas-giveaway-this-year",
-          "publishedOn": "2022-11-26T10:51:37.000Z",
-          "wordCount": 4945,
-          "title": "The Epic Games Store will reportedly repeat its Christmas giveaway this year",
-          "imageUrl": "https://assets.reedpopcdn.com/epic-games-store-experiencing-issues-following-fortnite-live-event-1570995464844.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/epic-games-store-experiencing-issues-following-fortnite-live-event-1570995464844.jpg"
         }
       ]
     },

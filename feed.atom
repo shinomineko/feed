@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T18:25:00.608Z</updated>
+    <updated>2022-12-26T00:31:08.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Pod Scheduling Readiness]]></title>
+        <id>https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/</id>
+        <link href="https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Wei Huang (Apple), Abdullah Gharaibeh (Google)
+Kubernetes 1.26 introduced a new Pod feature: scheduling gates. In Kubernetes, scheduling gates
+are keys that tell the scheduler when a Pod is ready to be considered for scheduling.
+What problem does it solve?
+When a Pod is created, the scheduler will continuously attempt to find a node that fits it. This
+infinite loop continues until the scheduler either finds a node for the Pod, or the Pod gets deleted.
+Pods that remain unschedulable for long periods of time (e.g., ones that are blocked on some external event)
+waste scheduling cycles. A scheduling cycle may take ≅20ms or more depending on the complexity of
+the Pod's scheduling constraints. Therefore, at scale, those wasted cycles significantly impact the
+scheduler's performance. See …]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J. Robert Oppenheimer cleared of “black mark” against his name after 68 years]]></title>
+        <id>https://arstechnica.com/?p=1905727</id>
+        <link href="https://arstechnica.com/?p=1905727"/>
+        <updated>2022-12-25T21:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Manhattan Project physicist was infamously stripped of his security clearance in 1954.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Danish physicists give the gift of world’s smallest Christmas record—in stereo]]></title>
         <id>https://arstechnica.com/?p=1906644</id>
@@ -10266,48 +10295,6 @@ Read more]]></summary>
 Guildford - which the organisation describes as the "Hollywood of video games" - is home to over 3000 "highly-skilled programmers" and 60 individual game studios, including EA, Media Molecule, and Supermassive Games.
 
 "After three successful years of holding the G.G Festival and Awards, hosting in person events, airing interviews with developers to an online audience of two million viewers the Guildford.Games committee have elected to make it official," the organisation explained in a statement.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of whales from land to sea]]></title>
-        <id>https://arstechnica.com/?p=1899963</id>
-        <link href="https://arstechnica.com/?p=1899963"/>
-        <updated>2022-11-26T12:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Genomes of cetaceans help tell story of mammals who returned to life aquatic.]]></summary>
-        <author>
-            <name>Knowable Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sims 4 rolls out a new Gallery Profanity Filter Update to combat anti-Semitic content]]></title>
-        <id>https://www.eurogamer.net/the-sims-4-rolls-out-a-new-gallery-profanity-filter-update-to-combat-anti-semitic-content</id>
-        <link href="https://www.eurogamer.net/the-sims-4-rolls-out-a-new-gallery-profanity-filter-update-to-combat-anti-semitic-content"/>
-        <updated>2022-11-26T11:55:20.000Z</updated>
-        <summary type="html"><![CDATA[EA has rolled out a "critical update" to The Sims 4 on PC and consoles following an increase in Nazi propaganda and anti-Semitic content.
-
-"We are aware of and have seen some select instances of wholly unacceptable content that has been uploaded to The Sims 4 Gallery," EA said in a brief statement included in the game's patch notes.
-
-"Our team has reviewed, and made critical updates to, the profanity filter to help prevent this from happening again in the future," the team explained. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Epic Games Store will reportedly repeat its Christmas giveaway this year]]></title>
-        <id>https://www.eurogamer.net/the-epic-games-store-will-reportedly-repeat-its-christmas-giveaway-this-year</id>
-        <link href="https://www.eurogamer.net/the-epic-games-store-will-reportedly-repeat-its-christmas-giveaway-this-year"/>
-        <updated>2022-11-26T10:51:37.000Z</updated>
-        <summary type="html"><![CDATA[It looks like Epic Games will once again be running its festive freebie giveaway over the Christmas period.
-
-Confirmation came via Dealabs leaker billbil-kun who - as well as confirming that Star Wars: Squadrons is currently free to add to your Epic Games Store library from now until next Thursday, 1st December - dropped a hint that the Epic Games Store will once again be running its "Advent Calendar" event.
-
-"Do you know if we'll have an advent calendar again in December? (1 set per day)", asked a curious poster, to which billbil-kun replied: "Yes, somewhere between December 15, 2022 and January 10, 2023," (thanks, VGC).
  
 Read more]]></summary>
         <author>
