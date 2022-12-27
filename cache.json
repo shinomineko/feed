@@ -124,16 +124,6 @@
           "wordCount": 232,
           "title": "Spacetime Soccer",
           "imageUrl": "https://imgs.xkcd.com/comics/spacetime_soccer_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2704/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/faucet.png\" title=\"It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.\" alt=\"It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.\" />",
-          "link": "https://xkcd.com/2704/",
-          "publishedOn": "2022-11-28T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Faucet",
-          "imageUrl": "https://imgs.xkcd.com/comics/faucet_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2022/12/arresting-it-administrators.html",
+          "author": null,
+          "description": "<p>This is one way of ensuring that IT <a href=\"https://apnews.com/article/iran-europe-middle-east-albania-tirana-39fce9b5fe112a43f8b35a533b6d29e8\">keeps up with patches</a>:</p>\n<blockquote><p>Albanian prosecutors on Wednesday asked for the house arrest of five public employees they blame for not protecting the country from a cyberattack by alleged Iranian hackers.</p>\n<p>Prosecutors said the five IT officials of the public administration department had failed to check the security of the system and update it with the most recent antivirus software.</p></blockquote>\n<p>The next step would be to arrest managers at software companies for not releasing patches fast enough. And maybe programmers for writing buggy code. I don&#8217;t know where this line of thinking ends...</p>",
+          "link": "https://www.schneier.com/blog/archives/2022/12/arresting-it-administrators.html",
+          "publishedOn": "2022-12-27T12:01:45.000Z",
+          "wordCount": 739,
+          "title": "Arresting IT Administrators",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html",
           "author": null,
@@ -4005,16 +4005,6 @@
           "wordCount": 4510,
           "title": "Blog: Boosting Kubernetes container runtime observability with OpenTelemetry",
           "imageUrl": "list_pod_sandbox.png"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/",
-          "author": null,
-          "description": "Authors: Adolfo García Veytia (Chainguard), Bob Killen (Google)\nStarting with Kubernetes 1.25, our container image registry has changed from k8s.gcr.io to registry.k8s.io. This new registry spreads the load across multiple Cloud Providers & Regions, functioning as a sort of content delivery network (CDN) for Kubernetes container images. This change reduces the project’s reliance on a single entity and provides a faster download experience for a large number of users.\nTL;DR: What you need to know about this change\nContainer images for Kubernetes releases from 1.25 onward are no longer published to k8s.gcr.io, only to registry.k8s.io.\nIn the upcoming December patch releases, the new registry domain default will be backported to all branches still in support (1.22, 1.23, 1.24).\nIf you run in …",
-          "link": "https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/",
-          "publishedOn": "2022-11-28T00:00:00.000Z",
-          "wordCount": 3842,
-          "title": "Blog: registry.k8s.io: faster, cheaper and Generally Available (GA)",
-          "imageUrl": null
         }
       ]
     },
@@ -4056,6 +4046,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/artist-profile-hints-at-a-possible-death-stranding-2-release-window",
+          "author": "Vikki Blake",
+          "description": "An update on an artist's ArtStation page may have hinted at the release window for Death Stranding 2.\r\n\nLike many artists, senior artist Frank Aliberti - who currently works as a senior character artist at 2K but formerly worked for PlayStation Studios Visual Arts - has his credits listed on ArtStation. \r\n\nIt's Aliberti's work with PlayStation Studios Visual Arts that's caught our collective attention, however, as Aliberti's most recent credit indicated that they had worked as a senior artist on Death Stranding 2. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/artist-profile-hints-at-a-possible-death-stranding-2-release-window",
+          "publishedOn": "2022-12-27T11:27:26.000Z",
+          "wordCount": 4802,
+          "title": "Artist profile hints at a possible Death Stranding 2 release window",
+          "imageUrl": "https://assets.reedpopcdn.com/death-stranding-2_D2NkHfb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/death-stranding-2_D2NkHfb.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/nintendo-switch-exclusive-sports-story-out-now",
           "author": "Wesley Yin-Poole",

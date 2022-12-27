@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T06:26:05.047Z</updated>
+    <updated>2022-12-27T12:28:21.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arresting IT Administrators]]></title>
+        <id>https://www.schneier.com/blog/archives/2022/12/arresting-it-administrators.html</id>
+        <link href="https://www.schneier.com/blog/archives/2022/12/arresting-it-administrators.html"/>
+        <updated>2022-12-27T12:01:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>This is one way of ensuring that IT <a href="https://apnews.com/article/iran-europe-middle-east-albania-tirana-39fce9b5fe112a43f8b35a533b6d29e8">keeps up with patches</a>:</p>
+<blockquote><p>Albanian prosecutors on Wednesday asked for the house arrest of five public employees they blame for not protecting the country from a cyberattack by alleged Iranian hackers.</p>
+<p>Prosecutors said the five IT officials of the public administration department had failed to check the security of the system and update it with the most recent antivirus software.</p></blockquote>
+<p>The next step would be to arrest managers at software companies for not releasing patches fast enough. And maybe programmers for writing buggy code. I don&#8217;t know where this line of thinking ends...</p>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artist profile hints at a possible Death Stranding 2 release window]]></title>
+        <id>https://www.eurogamer.net/artist-profile-hints-at-a-possible-death-stranding-2-release-window</id>
+        <link href="https://www.eurogamer.net/artist-profile-hints-at-a-possible-death-stranding-2-release-window"/>
+        <updated>2022-12-27T11:27:26.000Z</updated>
+        <summary type="html"><![CDATA[An update on an artist's ArtStation page may have hinted at the release window for Death Stranding 2.
+
+Like many artists, senior artist Frank Aliberti - who currently works as a senior character artist at 2K but formerly worked for PlayStation Studios Visual Arts - has his credits listed on ArtStation. 
+
+It's Aliberti's work with PlayStation Studios Visual Arts that's caught our collective attention, however, as Aliberti's most recent credit indicated that they had worked as a senior artist on Death Stranding 2. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blog: Kubernetes v1.26: CPUManager goes GA]]></title>
         <id>https://kubernetes.io/blog/2022/12/27/cpumanager-ga/</id>
@@ -10173,31 +10202,6 @@ This news is not surprising. Earlier reports revealed that Warner Bros. Discover
  Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faucet]]></title>
-        <id>https://xkcd.com/2704/</id>
-        <link href="https://xkcd.com/2704/"/>
-        <updated>2022-11-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/faucet.png" title="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." alt="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: registry.k8s.io: faster, cheaper and Generally Available (GA)]]></title>
-        <id>https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/</id>
-        <link href="https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/"/>
-        <updated>2022-11-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Adolfo García Veytia (Chainguard), Bob Killen (Google)
-Starting with Kubernetes 1.25, our container image registry has changed from k8s.gcr.io to registry.k8s.io. This new registry spreads the load across multiple Cloud Providers & Regions, functioning as a sort of content delivery network (CDN) for Kubernetes container images. This change reduces the project’s reliance on a single entity and provides a faster download experience for a large number of users.
-TL;DR: What you need to know about this change
-Container images for Kubernetes releases from 1.25 onward are no longer published to k8s.gcr.io, only to registry.k8s.io.
-In the upcoming December patch releases, the new registry domain default will be backported to all branches still in support (1.22, 1.23, 1.24).
-If you run in …]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
         </author>
     </entry>
 </feed>
