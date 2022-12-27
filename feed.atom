@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T18:25:31.686Z</updated>
+    <updated>2022-12-27T00:31:25.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes v1.26: CPUManager goes GA]]></title>
+        <id>https://kubernetes.io/blog/2022/12/27/cpumanager-ga/</id>
+        <link href="https://kubernetes.io/blog/2022/12/27/cpumanager-ga/"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author:
+Francesco Romani (Red Hat)
+The CPU Manager is a part of the kubelet, the Kubernetes node agent, which enables the user to allocate exclusive CPUs to containers.
+Since Kubernetes v1.10, where it graduated to Beta, the CPU Manager proved itself reliable and
+fulfilled its role of allocating exclusive CPUs to containers, so adoption has steadily grown making it a staple component of performance-critical
+and low-latency setups. Over time, most changes were about bugfixes or internal refactoring, with the following noteworthy user-visible changes:
+support explicit reservation of CPUs: it was already possible to request to reserve a given
+number of CPUs for system resources, including the kubelet itself, which will not be used for exclusive CPU allocation. Now it is possible to also
+expli…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let it snow: Scientists make metallic snowflakes out of nanoparticles]]></title>
+        <id>https://arstechnica.com/?p=1906711</id>
+        <link href="https://arstechnica.com/?p=1906711"/>
+        <updated>2022-12-26T19:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Different metals produce differently shaped crystals that self-assemble in liquid gallium]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple’s business under growing threat from China’s Covid wave]]></title>
         <id>https://arstechnica.com/?p=1906707</id>
@@ -57,6 +85,16 @@
         <summary type="html"><![CDATA[Advances may make it easier to build dangerous biological materials from scratch.]]></summary>
         <author>
             <name>Undark Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Night Ordering]]></title>
+        <id>https://xkcd.com/2716/</id>
+        <link href="https://xkcd.com/2716/"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/game_night_ordering.png" title="One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week." alt="One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10220,38 +10258,6 @@ Read more]]></summary>
 No, I'm not talking about the (also horrifying) Rock Bottom episode where SpongeBob gets stuck in Glove World; it turns out that the way animated characters move have inspired the character director of The Callisto Protocol, too.
 
 “Some creatures came from the art perspective, though, like, 'Hey, let's just do something that is very crazy looking'. And then we put that in the game and find a way of making it work," character director Glauco Longhi told  GLHF, via The Sun.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam smashes its own all-time concurrent player peak again]]></title>
-        <id>https://www.eurogamer.net/steam-smashes-its-own-all-time-concurrent-player-peak-again</id>
-        <link href="https://www.eurogamer.net/steam-smashes-its-own-all-time-concurrent-player-peak-again"/>
-        <updated>2022-11-27T11:58:12.000Z</updated>
-        <summary type="html"><![CDATA[As our friends across the water settled down after their Thanksgiving celebrations, gaming seems to have been at the forefront of their minds because - would you believe it - Steam's broken its own concurrent record. Yes. Again.
-
-Whilst the number includes players who are idle - that is, signed in but not actively playing anything - Steam's own analytics show that a new peak of 31,349,780 concurrent players was set over the weekend. 
-
-As is often the case, third-party tracker SteamDB boasts a slightly different number - a higher figure of 31,379,760 concurrent players - 9.3 of whom were actively online and gaming at the time the record was set. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Street Fighter 6 secures an age rating in South Korea]]></title>
-        <id>https://www.eurogamer.net/street-fighter-6-secures-an-age-rating-in-south-korea</id>
-        <link href="https://www.eurogamer.net/street-fighter-6-secures-an-age-rating-in-south-korea"/>
-        <updated>2022-11-27T11:10:35.000Z</updated>
-        <summary type="html"><![CDATA[Street Fighter 6 has been rated in South Korea. 
-
-As spotted by the eagle-eyed folks at Resetera, the fighting game - which, as yet, does not have a firm release date beyond a very vague "2023" window - has secured a 15 age rating due to its "expression of physical damage shown in illustrations in addition to basic fighting expression".
-
-Whilst this doesn't necessarily mean that a release is just around the corner, it does intimate that it's probably set to drop in the next six months or so… and with The Game Awards just a few days away now, many fans are speculating that we may get that all-important release date then. Watch this space, eh?
  
 Read more]]></summary>
         <author>

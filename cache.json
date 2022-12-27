@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2716/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/game_night_ordering.png\" title=\"One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week.\" alt=\"One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week.\" />",
+          "link": "https://xkcd.com/2716/",
+          "publishedOn": "2022-12-26T00:00:00.000Z",
+          "wordCount": 209,
+          "title": "Game Night Ordering",
+          "imageUrl": "https://imgs.xkcd.com/comics/game_night_ordering_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2715/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/pando.png\" title=\"The presents under the tree are actually a single gift connected by an underground ribbon system.\" alt=\"The presents under the tree are actually a single gift connected by an underground ribbon system.\" />",
@@ -462,6 +472,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1906711",
+          "author": "Jennifer Ouellette",
+          "description": "Different metals produce differently shaped crystals that self-assemble in liquid gallium",
+          "link": "https://arstechnica.com/?p=1906711",
+          "publishedOn": "2022-12-26T19:00:32.000Z",
+          "wordCount": 2276,
+          "title": "Let it snow: Scientists make metallic snowflakes out of nanoparticles",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/flake1CROP-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1906707",
           "author": "Financial Times",
@@ -3846,6 +3866,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2022/12/27/cpumanager-ga/",
+          "author": null,
+          "description": "Author:\nFrancesco Romani (Red Hat)\nThe CPU Manager is a part of the kubelet, the Kubernetes node agent, which enables the user to allocate exclusive CPUs to containers.\nSince Kubernetes v1.10, where it graduated to Beta, the CPU Manager proved itself reliable and\nfulfilled its role of allocating exclusive CPUs to containers, so adoption has steadily grown making it a staple component of performance-critical\nand low-latency setups. Over time, most changes were about bugfixes or internal refactoring, with the following noteworthy user-visible changes:\nsupport explicit reservation of CPUs: it was already possible to request to reserve a given\nnumber of CPUs for system resources, including the kubelet itself, which will not be used for exclusive CPU allocation. Now it is possible to also\nexpli…",
+          "link": "https://kubernetes.io/blog/2022/12/27/cpumanager-ga/",
+          "publishedOn": "2022-12-27T00:00:00.000Z",
+          "wordCount": 3780,
+          "title": "Blog: Kubernetes v1.26: CPUManager goes GA",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/",
           "author": null,
@@ -7395,26 +7425,6 @@
           "wordCount": 5141,
           "title": "Here's how The Callisto Protocol took inspiration from SpongeBob SquarePants",
           "imageUrl": "https://assets.reedpopcdn.com/the-callisto-protocol_h2Kek6k.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-callisto-protocol_h2Kek6k.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/steam-smashes-its-own-all-time-concurrent-player-peak-again",
-          "author": "Vikki Blake",
-          "description": "As our friends across the water settled down after their Thanksgiving celebrations, gaming seems to have been at the forefront of their minds because - would you believe it - Steam's broken its own concurrent record. Yes. Again.\r\n\nWhilst the number includes players who are idle - that is, signed in but not actively playing anything - Steam's own analytics show that a new peak of 31,349,780 concurrent players was set over the weekend. \r\n\nAs is often the case, third-party tracker SteamDB boasts a slightly different number - a higher figure of 31,379,760 concurrent players - 9.3 of whom were actively online and gaming at the time the record was set. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/steam-smashes-its-own-all-time-concurrent-player-peak-again",
-          "publishedOn": "2022-11-27T11:58:12.000Z",
-          "wordCount": 4954,
-          "title": "Steam smashes its own all-time concurrent player peak again",
-          "imageUrl": "https://assets.reedpopcdn.com/steam_plCF6d2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam_plCF6d2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/street-fighter-6-secures-an-age-rating-in-south-korea",
-          "author": "Vikki Blake",
-          "description": "Street Fighter 6 has been rated in South Korea. \r\n\nAs spotted by the eagle-eyed folks at Resetera, the fighting game - which, as yet, does not have a firm release date beyond a very vague \"2023\" window - has secured a 15 age rating due to its \"expression of physical damage shown in illustrations in addition to basic fighting expression\".\r\n\nWhilst this doesn't necessarily mean that a release is just around the corner, it does intimate that it's probably set to drop in the next six months or so… and with The Game Awards just a few days away now, many fans are speculating that we may get that all-important release date then. Watch this space, eh?\r\n \nRead more",
-          "link": "https://www.eurogamer.net/street-fighter-6-secures-an-age-rating-in-south-korea",
-          "publishedOn": "2022-11-27T11:10:35.000Z",
-          "wordCount": 4943,
-          "title": "Street Fighter 6 secures an age rating in South Korea",
-          "imageUrl": "https://assets.reedpopcdn.com/Street-Fighter-6---Kimberly-and-Juri-Gameplay-Trailer-1-7-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Street-Fighter-6---Kimberly-and-Juri-Gameplay-Trailer-1-7-screenshot.png"
         }
       ]
     },
