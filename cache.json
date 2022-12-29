@@ -464,16 +464,6 @@
           "wordCount": 758,
           "title": "Facebook Fined $276M under GDPR",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/11/charles-v-of-spain-secret-code-cracked.html",
-          "author": null,
-          "description": "<p>Diplomatic code <a href=\"https://www.theguardian.com/world/2022/nov/24/emperor-charles-vs-secret-code-cracked-after-five-centuries\">cracked</a> after 500 years:</p>\n<blockquote><p>In painstaking work backed by computers, Pierrot found &#8220;distinct families&#8221; of about 120 symbols used by Charles V. &#8220;Whole words are encrypted with a single symbol&#8221; and the emperor replaced vowels coming after consonants with marks, she said, an inspiration probably coming from Arabic.</p>\n<p>In another obstacle, he used meaningless symbols to mislead any adversary trying to decipher the message.</p>\n<p>The breakthrough came in June when Pierrot managed to make out a phrase in the letter, and the team then cracked the code with the help of Camille Desenclos, a historian. &#8220;It was painstaking and long work but there was really a breakthrough that happened in one day, where all of a sudden we had the right hypothesis,&#8221; she said...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/11/charles-v-of-spain-secret-code-cracked.html",
-          "publishedOn": "2022-11-29T12:19:38.000Z",
-          "wordCount": 774,
-          "title": "Charles V of Spain Secret Code Cracked",
-          "imageUrl": null
         }
       ]
     },
@@ -482,6 +472,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1906897",
+          "author": "John Timmer",
+          "description": "Claims to sell geoengineering warming offsets but can't currently validate anything.",
+          "link": "https://arstechnica.com/?p=1906897",
+          "publishedOn": "2022-12-28T19:57:32.000Z",
+          "wordCount": 1784,
+          "title": "Startup claims to offer stratospheric geoengineering as a service",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1363050744-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1906876",
           "author": "Andrew Cunningham",
@@ -3927,6 +3927,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2022/12/29/scalable-job-tracking-ga/",
+          "author": null,
+          "description": "Authors: Aldo Culquicondor (Google)\nThe Kubernetes 1.26 release includes a stable implementation of the Job\ncontroller that can reliably track a large amount of Jobs with high levels of\nparallelism. SIG Apps\nand WG Batch\nhave worked on this foundational improvement since Kubernetes 1.22. After\nmultiple iterations and scale verifications, this is now the default\nimplementation of the Job controller.\nPaired with the Indexed completion mode,\nthe Job controller can handle massively parallel batch Jobs, supporting up to\n100k concurrent Pods.\nThe new implementation also made possible the development of Pod failure policy,\nwhich is in beta in the 1.26 release.\nHow do I use this feature?\nTo use Job tracking with finalizers, upgrade to Kubernetes 1.25 or newer and\ncreate new Jobs. You can also use …",
+          "link": "https://kubernetes.io/blog/2022/12/29/scalable-job-tracking-ga/",
+          "publishedOn": "2022-12-29T00:00:00.000Z",
+          "wordCount": 4258,
+          "title": "Blog: Kubernetes 1.26: Job Tracking, to Support Massively Parallel Batch Workloads, Is Generally Available",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2022/12/27/cpumanager-ga/",
           "author": null,
           "description": "Author:\nFrancesco Romani (Red Hat)\nThe CPU Manager is a part of the kubelet, the Kubernetes node agent, which enables the user to allocate exclusive CPUs to containers.\nSince Kubernetes v1.10, where it graduated to Beta, the CPU Manager proved itself reliable and\nfulfilled its role of allocating exclusive CPUs to containers, so adoption has steadily grown making it a staple component of performance-critical\nand low-latency setups. Over time, most changes were about bugfixes or internal refactoring, with the following noteworthy user-visible changes:\nsupport explicit reservation of CPUs: it was already possible to request to reserve a given\nnumber of CPUs for system resources, including the kubelet itself, which will not be used for exclusive CPU allocation. Now it is possible to also\nexpli…",
@@ -7345,46 +7355,6 @@
           "wordCount": 4904,
           "title": "Grand Theft Auto started life as a dinosaur tech experiment",
           "imageUrl": "https://assets.reedpopcdn.com/dino-gta.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dino-gta.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bohemia-asks-fans-to-stop-sharing-fake-news-war-footage-made-in-arma-3",
-          "author": "Tom Phillips",
-          "description": "Bohemia Interactive, developer of military simulation game Arma 3, has asked fans to watch out for edited in-game videos being shared around social media that are falsely labelled as real-world war footage.\r\n\n\r\nSpecifically, Bohemia has called for players and content creators to \"use their game footage responsibly\", \"refrain from using clickbait video titles\" and \"always state clearly that the video originated from a video game\" rather than footage from a real-life conflict.\r\n\n\r\nArma 3 gameplay videos have a history of being mistaken for real-world footage - even by professional news organisations - and this problem has only increased since the current conflict in Ukraine has begun, Bohemia said.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bohemia-asks-fans-to-stop-sharing-fake-news-war-footage-made-in-arma-3",
-          "publishedOn": "2022-11-29T12:00:29.000Z",
-          "wordCount": 4896,
-          "title": "Bohemia asks fans to stop sharing faked real-world war footage made in Arma 3",
-          "imageUrl": "https://assets.reedpopcdn.com/Arma-3-footage-being-used-as-Fake-News-thumbnail-6.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Arma-3-footage-being-used-as-Fake-News-thumbnail-6.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-original-warzone-is-back-online",
-          "author": "Liv Ngan",
-          "description": "Almost two weeks after it went offline, the original Call of Duty Warzone is back online under the new name Caldera. \r\n\nDuring the game's offtime, players were \"encouraged\" to play Warzone 2.0 for free, whilst developer Raven Software shifted its focus over.\r\n\nAs promised, Warzone has been quietly relaunched as Caldera, albeit on life support, as Ishraq put it earlier.\n Read more",
-          "link": "https://www.eurogamer.net/the-original-warzone-is-back-online",
-          "publishedOn": "2022-11-29T11:49:48.000Z",
-          "wordCount": 4685,
-          "title": "The original Warzone is back online",
-          "imageUrl": "https://assets.reedpopcdn.com/warzone-1-caldera-headline.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warzone-1-caldera-headline.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-unveils-300-smartphone-metaverse-gadget-that-can-map-your-moves-onto-anime-like-characters",
-          "author": "Victoria Kennedy",
-          "description": "Sony has revealed a set of six motion-tracking gadgets that will allow a user's body to mimic an avatar's moves.\r\n\n\r\nKnown as Mocopi, this set will enable mobile motion capture, thanks to sensors worn around a user's head, waist, wrists and ankles. When paired with the compatible smartphone app, these trackers can then be used to animate an avatar within said app. \r\n\n\r\nIn addition to adding your avatar to real-world locations, users will also be able to combine avatars and background images within the app. Meanwhile, it will also use VRChat as a motion input device. You can see just how Mocopi looks in action via the trailer below. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-unveils-300-smartphone-metaverse-gadget-that-can-map-your-moves-onto-anime-like-characters",
-          "publishedOn": "2022-11-29T11:25:34.000Z",
-          "wordCount": 4692,
-          "title": "Sony unveils £300 smartphone metaverse gadget that can map your moves onto anime-like characters",
-          "imageUrl": "https://assets.reedpopcdn.com/sony-mocapi.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sony-mocapi.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/witcher-1-remake-will-be-open-world-modern-reimagining",
-          "author": "Tom Phillips",
-          "description": "The Witcher developer CD Projekt Red has described the upcoming remake of the series' first game as a \"story-driven, single-player open-world RPG - a modern reimagining of 2007's The Witcher\".\r\n\n\r\nIt's the first detailed description we've had of the remake, and suggests a more from-the-ground-up reworking of the original role-player than previously thought. \r\n\n\r\nThanks to the success of The Witcher 3, the series is now thought of as a fully open-world franchise. But that was not the case back in the original Witcher game, which featured a number of separate large maps and various smaller areas.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/witcher-1-remake-will-be-open-world-modern-reimagining",
-          "publishedOn": "2022-11-29T11:03:14.000Z",
-          "wordCount": 4706,
-          "title": "Witcher 1 remake will be open-world \"modern reimagining\"",
-          "imageUrl": "https://assets.reedpopcdn.com/geralt-witcher.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/geralt-witcher.jpg"
         }
       ]
     },
