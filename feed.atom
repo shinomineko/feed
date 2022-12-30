@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T18:25:41.749Z</updated>
+    <updated>2022-12-30T00:31:24.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes v1.26: Advancements in Kubernetes Traffic Engineering]]></title>
+        <id>https://kubernetes.io/blog/2022/12/30/advancements-in-kubernetes-traffic-engineering/</id>
+        <link href="https://kubernetes.io/blog/2022/12/30/advancements-in-kubernetes-traffic-engineering/"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Andrew Sy Kim (Google)
+Kubernetes v1.26 includes significant advancements in network traffic engineering with the graduation of
+two features (Service internal traffic policy support, and EndpointSlice terminating conditions) to GA,
+and a third feature (Proxy terminating endpoints) to beta. The combination of these enhancements aims
+to address short-comings in traffic engineering that people face today, and unlock new capabilities for the future.
+Traffic Loss from Load Balancers During Rolling Updates
+Prior to Kubernetes v1.26, clusters could experience loss of traffic
+from Service load balancers during rolling updates when setting the externalTrafficPolicy field to Local.
+There are a lot of moving parts at play here so a quick overview of how Kubernetes manages load balancers migh…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bees like to roll little wooden balls as a form of play, study finds]]></title>
+        <id>https://arstechnica.com/?p=1906979</id>
+        <link href="https://arstechnica.com/?p=1906979"/>
+        <updated>2022-12-29T21:45:07.000Z</updated>
+        <summary type="html"><![CDATA[It's “a strong indication that insect minds are far more sophisticated than we might imagine."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handbrake video transcoder adds official AV1 codec support in latest release]]></title>
+        <id>https://arstechnica.com/?p=1906973</id>
+        <link href="https://arstechnica.com/?p=1906973"/>
+        <updated>2022-12-29T20:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia and AMD's AV1 encoders aren't yet supported, but it probably won't be long.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York governor signs modified right-to-repair bill at the last minute]]></title>
+        <id>https://arstechnica.com/?p=1906947</id>
+        <link href="https://arstechnica.com/?p=1906947"/>
+        <updated>2022-12-29T18:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Bill passed the state legislature with overwhelming majorities over the summer.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Suit accusing YouTube of tracking children is back on after appeal]]></title>
         <id>https://arstechnica.com/?p=1906948</id>
@@ -9715,58 +9763,6 @@ As expected, this final dollop of Valhalla storyline sees Eivor wrap up her time
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Fined $276M under GDPR]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/11/facebook-fined-276m-under-gdpr.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/11/facebook-fined-276m-under-gdpr.html"/>
-        <updated>2022-11-30T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>Facebook&#8212;Meta&#8212;was <a href="https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr">just fined</a> $276 million (USD) for a data leak that included full names, birth dates, phone numbers, and location.</p>
-<p>Meta&#8217;s total fine by the Data Protection Commission is over $700 million. <a href="https://www.enforcementtracker.com/?insights">Total GDPR fines</a> are over €2 billion (EUR) since 2018.</p>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Intel’s “Raptor Canyon” NUC is a compact gaming PC without the stress]]></title>
-        <id>https://arstechnica.com/?p=1898102</id>
-        <link href="https://arstechnica.com/?p=1898102"/>
-        <updated>2022-11-30T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Building your own can be considerably cheaper, but DIY-ing isn't always easy.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Mario Movie trailer breakdown: long-lost Kong cameos spotted]]></title>
-        <id>https://www.eurogamer.net/super-mario-movie-trailer-breakdown-long-lost-kong-cameos-spotted</id>
-        <link href="https://www.eurogamer.net/super-mario-movie-trailer-breakdown-long-lost-kong-cameos-spotted"/>
-        <updated>2022-11-30T11:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo has now released its second trailer for the Super Mario Bros. Movie, giving us our best look yet at the upcoming animated film from Minions maker Illumination. 
-
-
-The trailer showcases a good look at the film's version of Princess Peach (voiced by Anya Tayor-Joy) while Chris Pratt's Mario only gets a couple of lines of dialogue. Overall, it's a fun glimpse at some familiar Mario locales and characters, translated for the big screen. 
-
-
-If you're a Nintendo nerd like me, you've probably rewatched the trailer more than once to spot everything going on in the background. And there's some cool Easter eggs - particularly if you like the extended Donkey Kong family. Let's give it one more watch and dive in. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legendary Pokémon and item duplication glitches discovered in Scarlet and Violet]]></title>
-        <id>https://www.eurogamer.net/legendary-pokemon-and-item-duplication-glitches-discovered-in-scarlet-and-violet</id>
-        <link href="https://www.eurogamer.net/legendary-pokemon-and-item-duplication-glitches-discovered-in-scarlet-and-violet"/>
-        <updated>2022-11-30T11:38:12.000Z</updated>
-        <summary type="html"><![CDATA[More glitches have been discovered in Pokémon Scarlet and Violet (who would have thunk it) which allow players to duplicate items, and even their legendary Pokémon.
-Plenty of bugs and exploits have already been found, whether it's creating body horror or duplicating shiny Pokémon, but this is on a different level. In the game, you're supposed to only have one of the legendaries, whether that's Koraidon or Miraidon, but now you can fill up your boxes with them.
-These new-found glitches have been widely discussed in the Pokémon community, and they're not that difficult to pull off. One has been tested by yours truly, and I can confirm it works. The other requires you to have beaten the end-game, which I've not reached yet so I can't confirm at the moment whether it works or not. Beware some spoilers ahead!
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
         </author>
     </entry>
 </feed>
