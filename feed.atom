@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T06:26:08.923Z</updated>
+    <updated>2022-12-30T12:28:10.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recovering Smartphone Voice from the Accelerometer]]></title>
+        <id>https://www.schneier.com/blog/archives/2022/12/recovering-smartphone-voice-from-the-accelerometer.html</id>
+        <link href="https://www.schneier.com/blog/archives/2022/12/recovering-smartphone-voice-from-the-accelerometer.html"/>
+        <updated>2022-12-30T12:18:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>Yet another smartphone side-channel attack: &#8220;<a href="https://arxiv.org/pdf/2212.12151.pdf">EarSpy: Spying Caller Speech and Identity through Tiny Vibrations of Smartphone Ear Speakers</a>&#8220;:</p>
+<blockquote><p><strong>Abstract:</strong> Eavesdropping from the user&#8217;s smartphone is a well-known threat to the user&#8217;s safety and privacy. Existing studies show that loudspeaker reverberation can inject speech into motion sensor readings, leading to speech eavesdropping. While more devastating attacks on ear speakers, which produce much smaller scale vibrations, were believed impossible to eavesdrop with zero-permission motion sensors. In this work, we revisit this important line of reach. We explore recent trends in smartphone manufacturers that include extra/powerful speakers in place of small ear speakers, and demonstrate the feasibility of using motion sensors to capture such tiny speech vibrations. We investigate the impacts of these new ear speakers on built-in motion sensors and examine the potential to elicit private speech information from the minute vibrations. Our designed system ...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022’s US climate disasters, from storms and floods to heat waves and droughts]]></title>
+        <id>https://arstechnica.com/?p=1906916</id>
+        <link href="https://arstechnica.com/?p=1906916"/>
+        <updated>2022-12-30T11:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Way too much rainfall in some places, not nearly enough in others.]]></summary>
+        <author>
+            <name>The Conversation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 - Year in review]]></title>
+        <id>https://www.monkeyuser.com/2022/2022-year-in-review/</id>
+        <link href="https://www.monkeyuser.com/2022/2022-year-in-review/"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development satire]]></summary>
+        <author>
+            <name>MonkeyUser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blog: Kubernetes v1.26: Advancements in Kubernetes Traffic Engineering]]></title>
         <id>https://kubernetes.io/blog/2022/12/30/advancements-in-kubernetes-traffic-engineering/</id>
@@ -9293,249 +9324,6 @@ As part of the patch notes, Nintendo has acknowledged the widespread performance
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome, Defender, and Firefox 0-days linked to commercial IT firm in Spain]]></title>
-        <id>https://arstechnica.com/?p=1901167</id>
-        <link href="https://arstechnica.com/?p=1901167"/>
-        <updated>2022-12-01T00:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Variston IT fingerprints found in source code for advanced Chrome exploit.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Boosting Kubernetes container runtime observability with OpenTelemetry]]></title>
-        <id>https://kubernetes.io/blog/2022/12/01/runtime-observability-opentelemetry/</id>
-        <link href="https://kubernetes.io/blog/2022/12/01/runtime-observability-opentelemetry/"/>
-        <updated>2022-12-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Sascha Grunert
-When speaking about observability in the cloud native space, then probably
-everyone will mention OpenTelemetry (OTEL) at some point in the
-conversation. That's great, because the community needs standards to rely on
-for developing all cluster components into the same direction. OpenTelemetry
-enables us to combine logs, metrics, traces and other contextual information
-(called baggage) into a single resource. Cluster administrators or software
-engineers can use this resource to get a viewport about what is going on in the
-cluster over a defined period of time. But how can Kubernetes itself make use of
-this technology stack?
-Kubernetes consists of multiple components where some are independent and others
-are stacked together. Looking at the architecture from a containe…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First M2 Max benchmark scores appear to leak on Geekbench]]></title>
-        <id>https://arstechnica.com/?p=1901150</id>
-        <link href="https://arstechnica.com/?p=1901150"/>
-        <updated>2022-11-30T23:26:05.000Z</updated>
-        <summary type="html"><![CDATA[If the scores are legit, they show fairly modest gains compared to the M1 Max.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncharted is being turned into a dark ride rollercoaster at Spain's PortAventura World]]></title>
-        <id>https://www.eurogamer.net/uncharted-is-being-turned-into-a-dark-ride-rollercoaster-at-spains-portaventura-world</id>
-        <link href="https://www.eurogamer.net/uncharted-is-being-turned-into-a-dark-ride-rollercoaster-at-spains-portaventura-world"/>
-        <updated>2022-11-30T23:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Uncharted's live-action movie adaptation is getting a live-action roller coaster adaptation, with the newly announced attraction coming to Barcelona's PortAventura World next year.
-
-
-Due to open "midway through" 2023, the officially licensed Uncharted ride is a "multi-dimensional" dark ride coaster that'll take riders on an "immersive and exciting" adventure through "unexplored territories" in search of "one of the greatest treasures never found".
-
-
-Kicking off with a "pre-show full of surprises", the rollercoaster itself will feature 700m of track reaching up to 12m in height, and incorporate five launches with up to 1G of acceleration.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney’s new neural network can change an actor’s age with ease]]></title>
-        <id>https://arstechnica.com/?p=1901037</id>
-        <link href="https://arstechnica.com/?p=1901037"/>
-        <updated>2022-11-30T23:13:19.000Z</updated>
-        <summary type="html"><![CDATA["Production ready" neural net makes actors younger or older for film or TV.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers capture black hole gobbling up a star in a “hyper-feeding frenzy”]]></title>
-        <id>https://arstechnica.com/?p=1900424</id>
-        <link href="https://arstechnica.com/?p=1900424"/>
-        <updated>2022-11-30T22:49:41.000Z</updated>
-        <summary type="html"><![CDATA[“It’s probably swallowing the star at the rate of half the mass of the Sun per year.”]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco allows police to use robots to remotely kill suspects]]></title>
-        <id>https://arstechnica.com/?p=1900891</id>
-        <link href="https://arstechnica.com/?p=1900891"/>
-        <updated>2022-11-30T22:16:50.000Z</updated>
-        <summary type="html"><![CDATA[The SFPD is now authorized to use explosive robots when lives are at stake.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New device can make hydrogen when dunked in salt water]]></title>
-        <id>https://arstechnica.com/?p=1901081</id>
-        <link href="https://arstechnica.com/?p=1901081"/>
-        <updated>2022-11-30T21:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Device structure does energy-free desalination before water is split.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warframe's Lua's Prey update adds new survival challenges and Joe-Mad-designed Voruna]]></title>
-        <id>https://www.eurogamer.net/warframes-luas-prey-update-adds-new-survival-challenges-and-joe-mad-designed-voruna</id>
-        <link href="https://www.eurogamer.net/warframes-luas-prey-update-adds-new-survival-challenges-and-joe-mad-designed-voruna"/>
-        <updated>2022-11-30T21:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Warframe's highly anticipated The Duviri Paradox expansion might be delayed, but today brings a little something new to tide players over until its arrival next year, courtesy of the survival-based Lua's Prey update, available now on all platforms.
-
-
-"As The Void exposes ancient scars and long-forgotten secrets," developer Digital Extremes says of its latest update, "something sinister rumbles on Lua as the Grineer descend upon these newly exposed halls seeking possible treasure, corrupted by its long-dormant Orokin Neural Sentry. Under the guidance of The Lotus, the Tenno embark on a mission to investigate this destroyed piece of Lua formerly used to monitor Void Conjunctions."
-
-
-Lua's Prey serves as a "light prequel" to The Duviri Paradox, adding two new story-based Conjunction Survival missions featuring thematic teasers for next year's expansion. These can be located at two newly added Lua nodes - Yuvarium and Circulus - and challenge players to maintain Life Support in the usual way. The twist, though, is that a Thrax enemy will spawn after every successful Survival round, increasing Life Support depletion by 50% while it remains alive, and requiring players to summon their Necramechs in order to defeat it.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaguar’s Formula E team is a good example of how racing improves road EVs]]></title>
-        <id>https://arstechnica.com/?p=1901044</id>
-        <link href="https://arstechnica.com/?p=1901044"/>
-        <updated>2022-11-30T21:34:47.000Z</updated>
-        <summary type="html"><![CDATA[From software to silicon carbide inverters, the sport's not just entertainment.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU threatens Musk with Twitter ban as firm defends new approach to moderation]]></title>
-        <id>https://arstechnica.com/?p=1901042</id>
-        <link href="https://arstechnica.com/?p=1901042"/>
-        <updated>2022-11-30T21:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Twitter claims "none of our policies have changed" after abandoning COVID policy.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google customers win class-action status in lawsuit over app store prices]]></title>
-        <id>https://arstechnica.com/?p=1901008</id>
-        <link href="https://arstechnica.com/?p=1901008"/>
-        <updated>2022-11-30T20:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Customers claim that Google Play artificially inflated app prices.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16.1.2 has arrived, and it’s focused on the crash detection feature]]></title>
-        <id>https://arstechnica.com/?p=1900987</id>
-        <link href="https://arstechnica.com/?p=1900987"/>
-        <updated>2022-11-30T20:19:45.000Z</updated>
-        <summary type="html"><![CDATA[A much bigger iOS update numbered 16.2 is expected soon.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play app with 100K downloads booted for forwarding texts to developer server]]></title>
-        <id>https://arstechnica.com/?p=1901003</id>
-        <link href="https://arstechnica.com/?p=1901003"/>
-        <updated>2022-11-30T20:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Texts were used to provide verification codes for fraudulent accounts.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eufy’s “No clouds” cameras upload facial thumbnails to AWS]]></title>
-        <id>https://arstechnica.com/?p=1900883</id>
-        <link href="https://arstechnica.com/?p=1900883"/>
-        <updated>2022-11-30T19:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Company says it should have better informed users of how it sends mobile alerts.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic Frontiers getting new playable characters and story content in free DLC]]></title>
-        <id>https://www.eurogamer.net/sonic-frontiers-getting-new-playable-characters-and-story-content-in-free-dlc</id>
-        <link href="https://www.eurogamer.net/sonic-frontiers-getting-new-playable-characters-and-story-content-in-free-dlc"/>
-        <updated>2022-11-30T19:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Sega has unveiled a new post-launch content roadmap for Sonic Frontiers, promising the likes of new playable characters and story content across three free DLC updates throughout 2023.
-
-
-There's no estimated time of arrival for any of Sonic Frontier's newly announced updates, but the first will introduce a juke box, photo mode, and a selection of new challenge modes. That'll be followed by a second update celebrating Sonic's birthday - and adding new Koco and a new open zone challenge - suggesting Sega's aiming for a June-ish launch for this one.
-
-
-Finally, there's the biggie, with Sonic Frontiers' third free update of 2023 teasing new story content and playable characters. The artwork for Update 3 features Tails, Knuckles, and Amy, but it's unclear if these are the new playable characters or just a placeholder design flourish.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple will pay up to $395 to people with broken MacBook butterfly keyboards [Updated]]]></title>
-        <id>https://arstechnica.com/?p=1900924</id>
-        <link href="https://arstechnica.com/?p=1900924"/>
-        <updated>2022-11-30T19:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Class-action settlement applies to buyers nationwide.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Musk ally explains resignation from Twitter, cites “dictatorial edict”]]></title>
-        <id>https://arstechnica.com/?p=1900919</id>
-        <link href="https://arstechnica.com/?p=1900919"/>
-        <updated>2022-11-30T18:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Former safety chief Yoel Roth's advice for Musk: "Humility goes a really long way."]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern trackball mouse wants to be a wireless solution to your ergonomic woes]]></title>
-        <id>https://arstechnica.com/?p=1900864</id>
-        <link href="https://arstechnica.com/?p=1900864"/>
-        <updated>2022-11-30T18:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Trackball mice are still niche, but modern features keep new releases relevant.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monster Hunter Rise reportedly heading to PlayStation and Xbox in January]]></title>
-        <id>https://www.eurogamer.net/monster-hunter-rise-reportedly-heading-to-playstation-and-xbox-in-january</id>
-        <link href="https://www.eurogamer.net/monster-hunter-rise-reportedly-heading-to-playstation-and-xbox-in-january"/>
-        <updated>2022-11-30T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Monster Hunter Rise, the stellar latest entry in Capcom's long-running creature-bopping series, will reportedly be making the jump to PlayStation and Xbox in January next year.
-
-
-Rise initially launched as a Switch console exclusive last March, with a PC release arriving in January this year. Both versions then received the game's major Sunbreak expansion in July.
-
-
-And now it seems Monster Hunter Rise is ready to spread its Rathalos-sized wings once more, with prolific leaker Tom Henderson's Insider Gaming reporting Capcom will bring the acclaimed title to PS4, PS5, Xbox One, Xbox Series X/S, and Game Pass on 20th January 2023.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
