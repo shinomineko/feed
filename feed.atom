@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T06:25:32.562Z</updated>
+    <updated>2022-12-31T12:28:09.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Where 2022’s news was (mostly) good: Yhe year’s top science stories]]></title>
+        <id>https://arstechnica.com/?p=1906983</id>
+        <link href="https://arstechnica.com/?p=1906983"/>
+        <updated>2022-12-31T11:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Better urinals, older pants, and a helicopter on Mars, oh my!]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Busting a myth: Saturn V rocket wasn’t loud enough to melt concrete]]></title>
         <id>https://arstechnica.com/?p=1907031</id>
@@ -8897,181 +8907,6 @@ Now, the Stadia Twitter account has confirmed that those who made their hardware
         <summary type="html"><![CDATA[It's a win for those with C. diff and a milestone for microbiome-based therapies.]]></summary>
         <author>
             <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendy]]></title>
-        <id>https://xkcd.com/2706/</id>
-        <link href="https://xkcd.com/2706/"/>
-        <updated>2022-12-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/bendy.png" title="Squaring the circle is really easy with some good clamps." alt="Squaring the circle is really easy with some good clamps." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Finding suspicious syscalls with the seccomp notifier]]></title>
-        <id>https://kubernetes.io/blog/2022/12/02/seccomp-notifier/</id>
-        <link href="https://kubernetes.io/blog/2022/12/02/seccomp-notifier/"/>
-        <updated>2022-12-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Sascha Grunert
-Debugging software in production is one of the biggest challenges we have to
-face in our containerized environments. Being able to understand the impact of
-the available security options, especially when it comes to configuring our
-deployments, is one of the key aspects to make the default security in
-Kubernetes stronger. We have all those logging, tracing and metrics data already
-at hand, but how do we assemble the information they provide into something
-human readable and actionable?
-Seccomp is one of the standard mechanisms to protect a Linux based
-Kubernetes application from malicious actions by interfering with its system
-calls. This allows us to restrict the application to a defined set of
-actionable items, like modifying files or responding to HTTP requests. …]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mandalorian season 3 has been delayed—but only a little]]></title>
-        <id>https://arstechnica.com/?p=1901454</id>
-        <link href="https://arstechnica.com/?p=1901454"/>
-        <updated>2022-12-01T22:16:38.000Z</updated>
-        <summary type="html"><![CDATA[It's the first new season of the show since 2020—well, sort of.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare veterans David Wise, Grant Kirkhope, and Kevin Bayliss have released a Christmas song]]></title>
-        <id>https://www.eurogamer.net/rare-veterans-david-wise-grant-kirkhope-and-kev-bayliss-have-released-a-christmas-song</id>
-        <link href="https://www.eurogamer.net/rare-veterans-david-wise-grant-kirkhope-and-kev-bayliss-have-released-a-christmas-song"/>
-        <updated>2022-12-01T22:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Three Rare veterans - David Wise, Grant Kirkhope, and Kevin Bayliss - have banded together in the spirit of the holidays to release a video-game-themed Christmas single.
-
-
-Long-time Rare fans should immediately recognise the trio's contributions to the studio's beloved back catalogue; Wise, for instance, was responsible for many memorable tracks in the Donkey Kong Country series (and provided the sublime score for Nintendo's Tropical Freeze), more recently composing music for Sumo Digital's Snake Pass and Playtonic's Yooka-Laylee.
-
-
-Kirkhope's impressive credits include Banjo-Kazooie, Donkey Kong 64, Viva Piñata, and more recently, Ubisoft's Mario + Rabbids, and Bayliss has designed characters for the likes of Battletoads, Killer Instinct, Diddy Kong Racing, and Yooka-Laylee. He was famously also behind Donkey Kong's redesign.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over a year later, Musk’s Neuralink still 6 months from human trials]]></title>
-        <id>https://arstechnica.com/?p=1901460</id>
-        <link href="https://arstechnica.com/?p=1901460"/>
-        <updated>2022-12-01T21:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Lots of tech in development, but we're still waiting for indications of an application.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI invites everyone to test new AI-powered chatbot—with amusing results]]></title>
-        <id>https://arstechnica.com/?p=1900972</id>
-        <link href="https://arstechnica.com/?p=1900972"/>
-        <updated>2022-12-01T21:22:50.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT aims to produce accurate and harmless talk—but it's a work in progress.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eufy’s “local storage” cameras can be streamed from anywhere, unencrypted]]></title>
-        <id>https://arstechnica.com/?p=1901297</id>
-        <link href="https://arstechnica.com/?p=1901297"/>
-        <updated>2022-12-01T20:57:36.000Z</updated>
-        <summary type="html"><![CDATA[The URLs for accessing your camera streams are also way too easy to brute-force.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Darkness and Chronicles of Riddick lead designer joins MachineGames' Indiana Jones]]></title>
-        <id>https://www.eurogamer.net/the-darkness-and-chronicles-of-riddick-lead-designer-joins-machinegames-indiana-jones</id>
-        <link href="https://www.eurogamer.net/the-darkness-and-chronicles-of-riddick-lead-designer-joins-machinegames-indiana-jones"/>
-        <updated>2022-12-01T20:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Jens Andersson, lead designer on Starbreeze Studios' acclaimed shooters The Darkness and Chronicles of Riddick: Escape from Butcher Bay, has joined Wolfenstein developer MachineGames to serve as design director on its highly anticipated Indiana Jones project.
-
-
-The new Indiana Jones game was unveiled early last year, although details were limited. It was described as featuring an "original story" unconnected to the upcoming Indiana Jones 5, with Bethesda's Todd Howard executive producing in collaboration with Lucasfilm Games.
-
-
-Andersson, who also helped create Eurogamer favourite Yoku's Island Express, announced he'd joined as design director on the "very special" Indiana Jones project in a statement shared on Twitter (thanks VGC), explaining, "I'm so excited about what we are building, and the way we get to do it - featuring one of [the] most iconic characters ever."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hive Social turns off servers after researchers warn hackers can access all data]]></title>
-        <id>https://arstechnica.com/?p=1901358</id>
-        <link href="https://arstechnica.com/?p=1901358"/>
-        <updated>2022-12-01T20:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Site officials say site will be down for a couple of days.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How empowering developers helps teams ship secure software faster]]></title>
-        <id>https://github.blog/?p=68849</id>
-        <link href="https://github.blog/2022-12-01-how-empowering-developers-helps-teams-ship-secure-software-faster/"/>
-        <updated>2022-12-01T20:07:23.000Z</updated>
-        <summary type="html"><![CDATA[AppSec expert Niroshan Rajadurai says putting developers at the center of everything will enable you to meet your security goals.]]></summary>
-        <author>
-            <name>Gwen Davis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geoff Keighley's live Summer Game Fest 2023 showcase gets June air date]]></title>
-        <id>https://www.eurogamer.net/geoff-keighleys-live-summer-game-fest-2023-showcase-gets-june-air-date</id>
-        <link href="https://www.eurogamer.net/geoff-keighleys-live-summer-game-fest-2023-showcase-gets-june-air-date"/>
-        <updated>2022-12-01T19:46:00.000Z</updated>
-        <summary type="html"><![CDATA[We already knew Geoff Keighley's Summer Game Fest was set to return next year, but organisers now have a date for diaries everywhere, with 2023's live showcase set to air on 8th June. Things are a little bit different in 2023, however, and next year's event marks the first time Summer Game Fest will be open to the public.
-
-
-The show - which promises a mix of premieres, live gameplay demos, and announcements - will take place at the YouTube Theater in Inglewood, California, in front of a live audience of fans. Tickets go on sale in "early" 2023, but for those unable or uninterested in attending in-person, Summer Game Fest will also stream live on all major streaming platforms.
-
-
-Summer Game Fest 2023 marks the event's fourth year of operation, and, as is now customary, the live showcase will kickstart a season of smaller events and showcases from participating developers and publishers. Specifics will follow at a later date.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried speaks on FTX collapse: “I didn’t ever try to commit fraud”]]></title>
-        <id>https://arstechnica.com/?p=1901298</id>
-        <link href="https://arstechnica.com/?p=1901298"/>
-        <updated>2022-12-01T19:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Bankman-Fried does public interview despite his lawyers urging him to stay quiet.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 7a rumors show similar design, big tech upgrades]]></title>
-        <id>https://arstechnica.com/?p=1901245</id>
-        <link href="https://arstechnica.com/?p=1901245"/>
-        <updated>2022-12-01T18:54:42.000Z</updated>
-        <summary type="html"><![CDATA[A 90 Hz display, wireless charging, and modern cameras make this a phone to watch.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo apologizes for Pokémon performance problems, promises “improvements”]]></title>
-        <id>https://arstechnica.com/?p=1901278</id>
-        <link href="https://arstechnica.com/?p=1901278"/>
-        <updated>2022-12-01T18:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Games have been Nintendo's fastest-selling titles despite early bugs.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
         </author>
     </entry>
 </feed>
