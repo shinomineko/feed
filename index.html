@@ -83,6 +83,113 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-02 datetime="2023-01-02T00:00:00.000Z">2023-01-02</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-02 datetime="2023-01-02T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes v1.26: Alpha support for cross-namespace storage data sources</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Takafumi Takahashi (Hitachi Vantara)
+Kubernetes v1.26, released last month, introduced an alpha feature that
+lets you specify a data source for a PersistentVolumeClaim, even where the source
+data belong to a different namespace.
+With the new feature enabled, you specify a namespace in the dataSourceRef field of
+a new PersistentVolumeClaim. Once Kubernetes checks that access is OK, the new
+PersistentVolume can populate its data from the storage source specified in that other
+namespace.
+Before Kubernetes v1.26, provided your cluster had the AnyVolumeDataSource feature enabled,
+you could already provision new volumes from a data source in the same
+namespace.
+However, that only worked for the data source in the same namespace,
+therefore users couldn&#x27;t provision a PersistentVolume with …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-01 datetime="2023-01-01T23:41:13.000Z">2023-01-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-01 datetime="2023-01-01T23:41:13.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ars Technica - All content</button>
+                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1907072"
+                        open
+                      >
+                        <summary class="article-expander__title">Up close and personal: Dolphin POV caught on camera while hunting for tasty fish</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1907072">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/dolphin2-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Accompanying audio recorded dolphins squealing in victory when they captured prey.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-31 datetime="2022-12-31T23:09:46.000Z">2022-12-31</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-31 datetime="2022-12-31T23:09:46.000Z"></time>
           </button>
@@ -16889,32 +16996,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/sea-of-thieves-hourglass-of-fate-is-here-and-rares-introductory-video-is-a-work-of-art"
-                        open
-                      >
-                        <summary class="article-expander__title">Sea of Thieves Hourglass of Fate is here and Rare&#x27;s introductory video is a work of art</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/sea-of-thieves-hourglass-of-fate-is-here-and-rares-introductory-video-is-a-work-of-art">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/sea-of-thieves-golden-sands-port.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-golden-sands-port.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Rare has revealed - in what just may be the greatest developer update video I&#x27;ve seen this year - how Sea of Thieves&#x27; all-new PvP Hourglass of Fate works. 
-
-&quot;Do YOU want PvP?&quot; cries John McMurtrie, Sea of Thieves&#x27; head of video production. &quot;Do you? Are you ready for the thrill of battle?&quot; There&#x27;s a pause for a knuckle kiss.
-
-&quot;Ugh, skeletons, I don&#x27;t want them, I want real players,&quot; McMurtrie adds. &quot;I want to fight people people!&quot;
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -16949,26 +17030,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1901711"
-                        open
-                      >
-                        <summary class="article-expander__title">Darknet markets generate millions in revenue selling stolen personal data</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1901711">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/hax04-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A handful of markets were responsible for trafficking most of the data.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -16976,8 +17037,8 @@ Read more</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/3818144834">
-        <time id="build-timestamp" datetime="2023-01-01T18:24:59.669Z">2023-01-01T18:24:59.669Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/3819395944">
+        <time id="build-timestamp" datetime="2023-01-02T00:31:06.498Z">2023-01-02T00:31:06.498Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

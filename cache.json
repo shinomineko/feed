@@ -443,6 +443,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1907072",
+          "author": "Jennifer Ouellette",
+          "description": "Accompanying audio recorded dolphins squealing in victory when they captured prey.",
+          "link": "https://arstechnica.com/?p=1907072",
+          "publishedOn": "2023-01-01T23:41:13.000Z",
+          "wordCount": 2194,
+          "title": "Up close and personal: Dolphin POV caught on camera while hunting for tasty fish",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/dolphin2-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1848676",
           "author": "Jennifer Ouellette",
           "description": "Passage in Bamboo Annals describes a \"five-colored light\" in 10th century BCE.",
@@ -3311,16 +3321,6 @@
           "wordCount": 1858,
           "title": "How Chinese netizens swamped China’s Internet controls",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/china-protesers-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1901711",
-          "author": "The Conversation",
-          "description": "A handful of markets were responsible for trafficking most of the data.",
-          "link": "https://arstechnica.com/?p=1901711",
-          "publishedOn": "2022-12-03T12:01:00.000Z",
-          "wordCount": 2254,
-          "title": "Darknet markets generate millions in revenue selling stolen personal data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/hax04-760x380.jpg"
         }
       ]
     },
@@ -3346,6 +3346,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/",
+          "author": null,
+          "description": "Author: Takafumi Takahashi (Hitachi Vantara)\nKubernetes v1.26, released last month, introduced an alpha feature that\nlets you specify a data source for a PersistentVolumeClaim, even where the source\ndata belong to a different namespace.\nWith the new feature enabled, you specify a namespace in the dataSourceRef field of\na new PersistentVolumeClaim. Once Kubernetes checks that access is OK, the new\nPersistentVolume can populate its data from the storage source specified in that other\nnamespace.\nBefore Kubernetes v1.26, provided your cluster had the AnyVolumeDataSource feature enabled,\nyou could already provision new volumes from a data source in the same\nnamespace.\nHowever, that only worked for the data source in the same namespace,\ntherefore users couldn't provision a PersistentVolume with …",
+          "link": "https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/",
+          "publishedOn": "2023-01-02T00:00:00.000Z",
+          "wordCount": 3777,
+          "title": "Blog: Kubernetes v1.26: Alpha support for cross-namespace storage data sources",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2022/12/30/advancements-in-kubernetes-traffic-engineering/",
           "author": null,
@@ -6205,16 +6215,6 @@
           "wordCount": 4837,
           "title": "Like a Dragon: Ishin shows off its \"new combat styles and diverse weaponry\"",
           "imageUrl": "https://assets.reedpopcdn.com/unnamed_z4q5hPl.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/unnamed_z4q5hPl.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sea-of-thieves-hourglass-of-fate-is-here-and-rares-introductory-video-is-a-work-of-art",
-          "author": "Vikki Blake",
-          "description": "Rare has revealed - in what just may be the greatest developer update video I've seen this year - how Sea of Thieves' all-new PvP Hourglass of Fate works. \r\n\n\"Do YOU want PvP?\" cries John McMurtrie, Sea of Thieves' head of video production. \"Do you? Are you ready for the thrill of battle?\" There's a pause for a knuckle kiss.\r\n\n\"Ugh, skeletons, I don't want them, I want real players,\" McMurtrie adds. \"I want to fight people people!\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sea-of-thieves-hourglass-of-fate-is-here-and-rares-introductory-video-is-a-work-of-art",
-          "publishedOn": "2022-12-03T11:50:54.000Z",
-          "wordCount": 4833,
-          "title": "Sea of Thieves Hourglass of Fate is here and Rare's introductory video is a work of art",
-          "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-golden-sands-port.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-golden-sands-port.jpg"
         }
       ]
     },

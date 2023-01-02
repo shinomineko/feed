@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T18:24:59.712Z</updated>
+    <updated>2023-01-02T00:31:06.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes v1.26: Alpha support for cross-namespace storage data sources]]></title>
+        <id>https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/</id>
+        <link href="https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/"/>
+        <updated>2023-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Takafumi Takahashi (Hitachi Vantara)
+Kubernetes v1.26, released last month, introduced an alpha feature that
+lets you specify a data source for a PersistentVolumeClaim, even where the source
+data belong to a different namespace.
+With the new feature enabled, you specify a namespace in the dataSourceRef field of
+a new PersistentVolumeClaim. Once Kubernetes checks that access is OK, the new
+PersistentVolume can populate its data from the storage source specified in that other
+namespace.
+Before Kubernetes v1.26, provided your cluster had the AnyVolumeDataSource feature enabled,
+you could already provision new volumes from a data source in the same
+namespace.
+However, that only worked for the data source in the same namespace,
+therefore users couldn't provision a PersistentVolume with …]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up close and personal: Dolphin POV caught on camera while hunting for tasty fish]]></title>
+        <id>https://arstechnica.com/?p=1907072</id>
+        <link href="https://arstechnica.com/?p=1907072"/>
+        <updated>2023-01-01T23:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Accompanying audio recorded dolphins squealing in victory when they captured prey.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ancient Chinese text reveals earliest know record of a candidate aurora]]></title>
         <id>https://arstechnica.com/?p=1848676</id>
@@ -8476,32 +8508,6 @@ Read more]]></summary>
 The publisher says the video teaser "shows the new combat styles and diverse weaponry" and gives you a chance to see "the brilliant swordman Sakamoto Ryoma defeat enemies with his samurai sword and trusty gun, using various combat styles including Gunman Style, Wild Dancer Style, Brawler Style, and more".
 
 You can check out the action below:
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darknet markets generate millions in revenue selling stolen personal data]]></title>
-        <id>https://arstechnica.com/?p=1901711</id>
-        <link href="https://arstechnica.com/?p=1901711"/>
-        <updated>2022-12-03T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A handful of markets were responsible for trafficking most of the data.]]></summary>
-        <author>
-            <name>The Conversation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea of Thieves Hourglass of Fate is here and Rare's introductory video is a work of art]]></title>
-        <id>https://www.eurogamer.net/sea-of-thieves-hourglass-of-fate-is-here-and-rares-introductory-video-is-a-work-of-art</id>
-        <link href="https://www.eurogamer.net/sea-of-thieves-hourglass-of-fate-is-here-and-rares-introductory-video-is-a-work-of-art"/>
-        <updated>2022-12-03T11:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Rare has revealed - in what just may be the greatest developer update video I've seen this year - how Sea of Thieves' all-new PvP Hourglass of Fate works. 
-
-"Do YOU want PvP?" cries John McMurtrie, Sea of Thieves' head of video production. "Do you? Are you ready for the thrill of battle?" There's a pause for a knuckle kiss.
-
-"Ugh, skeletons, I don't want them, I want real players," McMurtrie adds. "I want to fight people people!"
  
 Read more]]></summary>
         <author>
