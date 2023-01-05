@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2720/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/biology_vs_robotics.png\" title=\"Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning.\" alt=\"Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning.\" />",
+          "link": "https://xkcd.com/2720/",
+          "publishedOn": "2023-01-04T00:00:00.000Z",
+          "wordCount": 209,
+          "title": "Biology vs Robotics",
+          "imageUrl": "https://imgs.xkcd.com/comics/biology_vs_robotics_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2719/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/hydrogen_isotopes.png\" title=\"Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.\" alt=\"Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.\" />",
@@ -434,16 +444,6 @@
           "wordCount": 780,
           "title": "The Decoupling Principle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/12/crywiper-data-wiper-targeting-russian-sites.html",
-          "author": null,
-          "description": "<p>Kaspersky is <a href=\"https://www.kaspersky.com/blog/crywiper-pseudo-ransomware/46480/\">reporting</a> on a data wiper masquerading as ransomware that is targeting local Russian government networks.</p>\n<blockquote><p>The Trojan corrupts any data that&#8217;s not vital for the functioning of the operating system. It doesn&#8217;t affect files with extensions .exe, .dll, .lnk, .sys or .msi, and ignores several system folders in the C:\\Windows directory. The malware focuses on databases, archives, and user documents.</p>\n<p>So far, our experts have seen only pinpoint attacks on targets in the Russian Federation. However, as usual, no one can guarantee that the same code won&#8217;t be used against other targets...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/12/crywiper-data-wiper-targeting-russian-sites.html",
-          "publishedOn": "2022-12-06T12:04:33.000Z",
-          "wordCount": 738,
-          "title": "CryWiper Data Wiper Targeting Russian Sites",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +452,126 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1907646",
+          "author": "Scharon Harding",
+          "description": "High-specced workstations target professionals who want to work with 3D.",
+          "link": "https://arstechnica.com/?p=1907646",
+          "publishedOn": "2023-01-04T23:18:56.000Z",
+          "wordCount": 1873,
+          "title": "Asus brings glasses-free 3D to OLED laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/vivobook-main-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907694",
+          "author": "Jon Brodkin",
+          "description": "Lawyer says police didn't check man's height, weight—or the mole on his face.",
+          "link": "https://arstechnica.com/?p=1907694",
+          "publishedOn": "2023-01-04T22:46:16.000Z",
+          "wordCount": 1924,
+          "title": "Black man wrongfully jailed for a week after face recognition error, report says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/facial-recognition-man-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907714",
+          "author": "Ashley Belanger",
+          "description": "Major retail chains still face logistical obstacles to selling abortion pills.",
+          "link": "https://arstechnica.com/?p=1907714",
+          "publishedOn": "2023-01-04T22:34:58.000Z",
+          "wordCount": 1823,
+          "title": "Abortion pills can now be sold at pharmacies, FDA rules",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1241524355-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1837500",
+          "author": "Jennifer Ouellette",
+          "description": "How these gliders keep level flight is different from the stability of airplanes.",
+          "link": "https://arstechnica.com/?p=1837500",
+          "publishedOn": "2023-01-04T22:06:50.000Z",
+          "wordCount": 1748,
+          "title": "Experiments with paper airplanes reveal surprisingly complex aerodynamics",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/paperplaneTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907652",
+          "author": "Andrew Cunningham",
+          "description": "Owners of cards with throttling problems are encouraged to contact AMD support.",
+          "link": "https://arstechnica.com/?p=1907652",
+          "publishedOn": "2023-01-04T21:08:45.000Z",
+          "wordCount": 1567,
+          "title": "Move over, Nvidia: Some AMD 7900 XTX GPUs are having their own heat issues",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0772-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907654",
+          "author": "Kyle Orland",
+          "description": "Total charity haul since 2007 tops $465,000.",
+          "link": "https://arstechnica.com/?p=1907654",
+          "publishedOn": "2023-01-04T20:40:35.000Z",
+          "wordCount": 1457,
+          "title": "Ars readers gave over $31,500 in our 2022 Charity Drive",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/charitystar-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907637",
+          "author": "Dan Goodin",
+          "description": "People who use WordPress should check their sites for unpatched plugins.",
+          "link": "https://arstechnica.com/?p=1907637",
+          "publishedOn": "2023-01-04T20:12:21.000Z",
+          "wordCount": 1718,
+          "title": "Hundreds of WordPress sites infected by recently discovered backdoor",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/wordpress-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907472",
+          "author": "Samuel Axon",
+          "description": "Relatively cheap sets won't compete with most existing RokuOS TVs.",
+          "link": "https://arstechnica.com/?p=1907472",
+          "publishedOn": "2023-01-04T19:02:43.000Z",
+          "wordCount": 1719,
+          "title": "Roku introduces its own self-branded lineup of streaming-oriented TVs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Roku-TV-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907497",
+          "author": "Andrew Cunningham",
+          "description": "Some CPUs get more cores, but we're mostly talking about clock-speed bumps.",
+          "link": "https://arstechnica.com/?p=1907497",
+          "publishedOn": "2023-01-04T18:53:15.000Z",
+          "wordCount": 2034,
+          "title": "Intel announces new, mildly improved CPUs for this year’s crop of laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/13th-laptop-01-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907501",
+          "author": "Ron Amadeo",
+          "description": "It has super-fast charging, a Snapdragon 8 Gen 2, and up to 16GB of RAM.",
+          "link": "https://arstechnica.com/?p=1907501",
+          "publishedOn": "2023-01-04T18:41:31.000Z",
+          "wordCount": 1730,
+          "title": "The OnePlus 11 launches in China with 100 W charging",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/9-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907548",
+          "author": "Jonathan M. Gitlin",
+          "description": "The software update adds new functions to the infotainment system's volume knob.",
+          "link": "https://arstechnica.com/?p=1907548",
+          "publishedOn": "2023-01-04T18:31:08.000Z",
+          "wordCount": 1480,
+          "title": "Ford updates Mustang Mach-E UI; now you can turn a knob to change temps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Mustang-Mach-E_21-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1907542",
+          "author": "Jon Brodkin",
+          "description": "Sohn renominated, has better chance now that Democrats have 51-49 Senate edge.",
+          "link": "https://arstechnica.com/?p=1907542",
+          "publishedOn": "2023-01-04T18:28:01.000Z",
+          "wordCount": 1879,
+          "title": "Biden tries to end 2 years of deadlock at FCC by renominating Gigi Sohn",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/gigi-sohn-december-2021-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1907503",
           "author": "Ashley Belanger",
@@ -3427,6 +3547,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/01/05/retroactive-default-storage-class/",
+          "author": null,
+          "description": "Author: Roman Bednář (Red Hat)\nThe v1.25 release of Kubernetes introduced an alpha feature to change how a default StorageClass was assigned to a PersistentVolumeClaim (PVC).\nWith the feature enabled, you no longer need to create a default StorageClass first and PVC second to assign the class. Additionally, any PVCs without a StorageClass assigned can be updated later.\nThis feature was graduated to beta in Kubernetes 1.26.\nYou can read retroactive default StorageClass assignment in the Kubernetes documentation for more details about how to use that,\nor you can read on to learn about why the Kubernetes project is making this change.\nWhy did StorageClass assignment need improvements\nUsers might already be familiar with a similar feature that assigns default StorageClasses to new PVCs at the …",
+          "link": "https://kubernetes.io/blog/2023/01/05/retroactive-default-storage-class/",
+          "publishedOn": "2023-01-05T00:00:00.000Z",
+          "wordCount": 4045,
+          "title": "Blog: Kubernetes 1.26: Retroactive Default StorageClass",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/",
           "author": null,
           "description": "Author: Takafumi Takahashi (Hitachi Vantara)\nKubernetes v1.26, released last month, introduced an alpha feature that\nlets you specify a data source for a PersistentVolumeClaim, even where the source\ndata belong to a different namespace.\nWith the new feature enabled, you specify a namespace in the dataSourceRef field of\na new PersistentVolumeClaim. Once Kubernetes checks that access is OK, the new\nPersistentVolume can populate its data from the storage source specified in that other\nnamespace.\nBefore Kubernetes v1.26, provided your cluster had the AnyVolumeDataSource feature enabled,\nyou could already provision new volumes from a data source in the same\nnamespace.\nHowever, that only worked for the data source in the same namespace,\ntherefore users couldn't provision a PersistentVolume with …",
@@ -6185,56 +6315,6 @@
           "wordCount": 4854,
           "title": "Fortnite re-releases, then quickly pulls, ancient Snoop Dogg emote",
           "imageUrl": "https://assets.reedpopcdn.com/Fortnite-Tidy-emote.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Fortnite-Tidy-emote.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-season-2-leaks-emerge-online",
-          "author": "Ishraq Subhan",
-          "description": "New leaks have appeared online which reportedly show details for Call of Duty Modern Warfare 2's Season 2.  \r\n\n\r\nKey art from marketing material show-off a Japanese theme, with artwork teasing the return of the classic map Castle (thanks, WhatIfGaming).   \r\n\n\r\nCastle was originally a multiplayer map in Call of Duty World at War, set in an old Japanese fortress in World War 2. The map most recently made a return in Call of Duty Vanguard, but this would be the first time the map would appear in the franchise's modern theme of shooters.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-season-2-leaks-emerge-online",
-          "publishedOn": "2022-12-06T12:05:35.000Z",
-          "wordCount": 4590,
-          "title": "Call of Duty Modern Warfare 2 Season 2 leaks emerge online",
-          "imageUrl": "https://assets.reedpopcdn.com/mw2-home-spec-ops.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/mw2-home-spec-ops.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-witcher-card-game-gwent-to-wind-down-next-year",
-          "author": "Tom Phillips",
-          "description": "CD Projekt Red has announced plans to wind down support for Gwent, its Witcher card game spin-off, and laid out how it will hand over future balancing decisions to Gwent's community of players.\r\n\n\r\nThe game's final 72 cards will release next year in three expansions, set to launch in April, July and September 2023. After this time, CD Projekt will transition from its own monthly balance changes to a system voted on by players. \r\n\n\r\nDubbed as \"Project Gwenfinity\", the idea is that Gwent can be left to just a skeleton crew within CD Projekt to keep an eye on, while the game's community decides on tweaks to exisiting cards to keep up with the current meta. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-witcher-card-game-gwent-to-wind-down-next-year",
-          "publishedOn": "2022-12-06T12:04:50.000Z",
-          "wordCount": 4801,
-          "title": "The Witcher card game Gwent to wind down next year",
-          "imageUrl": "https://assets.reedpopcdn.com/cd-projekt-unveils-gwents-next-free-expansion-master-mirror-1591221595078.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cd-projekt-unveils-gwents-next-free-expansion-master-mirror-1591221595078.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/disney-dreamlight-valley-patch-addresses-switch-performance-now-steam-deck-verified",
-          "author": "Tom Phillips",
-          "description": "Today's big Disney Dreamlight Valley does more than add content themed around Toy Story and Lilo and Stitch - it also brings some welcome performance improvements, tweaks and bug fixes. \r\n\n\r\nPatch notes promise \"optimised game stability on all platforms\" but for Nintendo Switch in particular, where developer Gameloft has put a \"considerable focus\" this time around. \r\n\n\r\nThe popular Disney life sim is now fully compatible with Steam Deck and verified by Steam. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/disney-dreamlight-valley-patch-addresses-switch-performance-now-steam-deck-verified",
-          "publishedOn": "2022-12-06T11:33:16.000Z",
-          "wordCount": 4665,
-          "title": "Disney Dreamlight Valley patch addresses Switch performance, now Steam Deck verified",
-          "imageUrl": "https://assets.reedpopcdn.com/disney-dreamlight-valley-buzz.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/disney-dreamlight-valley-buzz.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/300-qa-staff-at-microsoft-owned-zenimax-studios-unionise",
-          "author": "Ishraq Subhan",
-          "description": "300 quality assurance staff members at Zenimax, the holding company for the likes of Bethesda Softworks, Arkane Studios, and id Software, have unionised with the Communications Workers of America. \r\n\n\r\nFollowing a four-week election process, should the majority of workers support unionisation, Microsoft, who purchased Zenimax for $7.5bn in 2021, will recognise the union. \r\n\n\r\nThe company has also pledged to remain neutral throughout this process. \"We applaud Microsoft for remaining neutral through this process and letting workers decide for themselves whether they want a union,\" said CWA president Christopher Shelton. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/300-qa-staff-at-microsoft-owned-zenimax-studios-unionise",
-          "publishedOn": "2022-12-06T11:18:22.000Z",
-          "wordCount": 4649,
-          "title": "300 QA staff at Microsoft-owned Zenimax studios unionise",
-          "imageUrl": "https://assets.reedpopcdn.com/microsofts-usd7-5bn-deal-to-acquire-zenimax-approved-in-the-us-and-eu-1615203256143.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/microsofts-usd7-5bn-deal-to-acquire-zenimax-approved-in-the-us-and-eu-1615203256143.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-formally-confirms-10-year-playstation-call-of-duty-contract-offer",
-          "author": "Tom Phillips",
-          "description": "Microsoft has formally confirmed its offer of a 10-year contract to keep releasing Call of Duty on PlayStation platforms after its planned acquisition of Activision Blizzard. \r\n\n\r\nIn an opinion article on the deal published in the Wall St Journal,  Microsoft president Brad Smith committed to making its 10-year COD contract \"legally enforceable by regulators in the US, UK and European Union\" - territories in which the company was previously felt to be struggling to get its acquisition agreed without making some sort of concessions.\r\n\n\r\nThe majority of the opinion piece repeats the same arguments for the deal we've heard from Microsoft many times before - that it would be good for both consumers and game developers, and that Microsoft is still struggling in a sector where it is \"stuck behind Sony's dominant PlayStation and the Nintendo Switch\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-formally-confirms-10-year-playstation-call-of-duty-contract-offer",
-          "publishedOn": "2022-12-06T11:12:19.000Z",
-          "wordCount": 4824,
-          "title": "Microsoft formally confirms 10-year PlayStation Call of Duty contract offer",
-          "imageUrl": "https://assets.reedpopcdn.com/wish-list-feature-finally-available-for-all-on-the-microsoft-store-1541589798955.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wish-list-feature-finally-available-for-all-on-the-microsoft-store-1541589798955.jpg"
         }
       ]
     },

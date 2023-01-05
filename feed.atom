@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T18:26:28.971Z</updated>
+    <updated>2023-01-05T00:31:12.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Retroactive Default StorageClass]]></title>
+        <id>https://kubernetes.io/blog/2023/01/05/retroactive-default-storage-class/</id>
+        <link href="https://kubernetes.io/blog/2023/01/05/retroactive-default-storage-class/"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Roman Bednář (Red Hat)
+The v1.25 release of Kubernetes introduced an alpha feature to change how a default StorageClass was assigned to a PersistentVolumeClaim (PVC).
+With the feature enabled, you no longer need to create a default StorageClass first and PVC second to assign the class. Additionally, any PVCs without a StorageClass assigned can be updated later.
+This feature was graduated to beta in Kubernetes 1.26.
+You can read retroactive default StorageClass assignment in the Kubernetes documentation for more details about how to use that,
+or you can read on to learn about why the Kubernetes project is making this change.
+Why did StorageClass assignment need improvements
+Users might already be familiar with a similar feature that assigns default StorageClasses to new PVCs at the …]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus brings glasses-free 3D to OLED laptops]]></title>
+        <id>https://arstechnica.com/?p=1907646</id>
+        <link href="https://arstechnica.com/?p=1907646"/>
+        <updated>2023-01-04T23:18:56.000Z</updated>
+        <summary type="html"><![CDATA[High-specced workstations target professionals who want to work with 3D.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black man wrongfully jailed for a week after face recognition error, report says]]></title>
+        <id>https://arstechnica.com/?p=1907694</id>
+        <link href="https://arstechnica.com/?p=1907694"/>
+        <updated>2023-01-04T22:46:16.000Z</updated>
+        <summary type="html"><![CDATA[Lawyer says police didn't check man's height, weight—or the mole on his face.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abortion pills can now be sold at pharmacies, FDA rules]]></title>
+        <id>https://arstechnica.com/?p=1907714</id>
+        <link href="https://arstechnica.com/?p=1907714"/>
+        <updated>2023-01-04T22:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Major retail chains still face logistical obstacles to selling abortion pills.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experiments with paper airplanes reveal surprisingly complex aerodynamics]]></title>
+        <id>https://arstechnica.com/?p=1837500</id>
+        <link href="https://arstechnica.com/?p=1837500"/>
+        <updated>2023-01-04T22:06:50.000Z</updated>
+        <summary type="html"><![CDATA[How these gliders keep level flight is different from the stability of airplanes.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move over, Nvidia: Some AMD 7900 XTX GPUs are having their own heat issues]]></title>
+        <id>https://arstechnica.com/?p=1907652</id>
+        <link href="https://arstechnica.com/?p=1907652"/>
+        <updated>2023-01-04T21:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Owners of cards with throttling problems are encouraged to contact AMD support.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ars readers gave over $31,500 in our 2022 Charity Drive]]></title>
+        <id>https://arstechnica.com/?p=1907654</id>
+        <link href="https://arstechnica.com/?p=1907654"/>
+        <updated>2023-01-04T20:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Total charity haul since 2007 tops $465,000.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of WordPress sites infected by recently discovered backdoor]]></title>
+        <id>https://arstechnica.com/?p=1907637</id>
+        <link href="https://arstechnica.com/?p=1907637"/>
+        <updated>2023-01-04T20:12:21.000Z</updated>
+        <summary type="html"><![CDATA[People who use WordPress should check their sites for unpatched plugins.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roku introduces its own self-branded lineup of streaming-oriented TVs]]></title>
+        <id>https://arstechnica.com/?p=1907472</id>
+        <link href="https://arstechnica.com/?p=1907472"/>
+        <updated>2023-01-04T19:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Relatively cheap sets won't compete with most existing RokuOS TVs.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel announces new, mildly improved CPUs for this year’s crop of laptops]]></title>
+        <id>https://arstechnica.com/?p=1907497</id>
+        <link href="https://arstechnica.com/?p=1907497"/>
+        <updated>2023-01-04T18:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Some CPUs get more cores, but we're mostly talking about clock-speed bumps.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OnePlus 11 launches in China with 100 W charging]]></title>
+        <id>https://arstechnica.com/?p=1907501</id>
+        <link href="https://arstechnica.com/?p=1907501"/>
+        <updated>2023-01-04T18:41:31.000Z</updated>
+        <summary type="html"><![CDATA[It has super-fast charging, a Snapdragon 8 Gen 2, and up to 16GB of RAM.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ford updates Mustang Mach-E UI; now you can turn a knob to change temps]]></title>
+        <id>https://arstechnica.com/?p=1907548</id>
+        <link href="https://arstechnica.com/?p=1907548"/>
+        <updated>2023-01-04T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[The software update adds new functions to the infotainment system's volume knob.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden tries to end 2 years of deadlock at FCC by renominating Gigi Sohn]]></title>
+        <id>https://arstechnica.com/?p=1907542</id>
+        <link href="https://arstechnica.com/?p=1907542"/>
+        <updated>2023-01-04T18:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Sohn renominated, has better chance now that Democrats have 51-49 Senate edge.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter lifts political ad ban designed to stop misinformation spread]]></title>
         <id>https://arstechnica.com/?p=1907503</id>
@@ -310,6 +447,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[VW says it has listened to feedback and has improved the user experience.]]></summary>
         <author>
             <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biology vs Robotics]]></title>
+        <id>https://xkcd.com/2720/</id>
+        <link href="https://xkcd.com/2720/"/>
+        <updated>2023-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/biology_vs_robotics.png" title="Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning." alt="Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -8402,108 +8549,6 @@ The emote, named "Tidy", allows your character to dance like Snoop Dogg in his 2
 
 
 Fans were surprised to see the emote return upon the Item Shop's midnight UK time refresh - though its appearance was shortlived, and it was pulled from sale just a couple of hours later.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty Modern Warfare 2 Season 2 leaks emerge online]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2-season-2-leaks-emerge-online</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2-season-2-leaks-emerge-online"/>
-        <updated>2022-12-06T12:05:35.000Z</updated>
-        <summary type="html"><![CDATA[New leaks have appeared online which reportedly show details for Call of Duty Modern Warfare 2's Season 2.  
-
-
-Key art from marketing material show-off a Japanese theme, with artwork teasing the return of the classic map Castle (thanks, WhatIfGaming).   
-
-
-Castle was originally a multiplayer map in Call of Duty World at War, set in an old Japanese fortress in World War 2. The map most recently made a return in Call of Duty Vanguard, but this would be the first time the map would appear in the franchise's modern theme of shooters.
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher card game Gwent to wind down next year]]></title>
-        <id>https://www.eurogamer.net/the-witcher-card-game-gwent-to-wind-down-next-year</id>
-        <link href="https://www.eurogamer.net/the-witcher-card-game-gwent-to-wind-down-next-year"/>
-        <updated>2022-12-06T12:04:50.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt Red has announced plans to wind down support for Gwent, its Witcher card game spin-off, and laid out how it will hand over future balancing decisions to Gwent's community of players.
-
-
-The game's final 72 cards will release next year in three expansions, set to launch in April, July and September 2023. After this time, CD Projekt will transition from its own monthly balance changes to a system voted on by players. 
-
-
-Dubbed as "Project Gwenfinity", the idea is that Gwent can be left to just a skeleton crew within CD Projekt to keep an eye on, while the game's community decides on tweaks to exisiting cards to keep up with the current meta. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryWiper Data Wiper Targeting Russian Sites]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/12/crywiper-data-wiper-targeting-russian-sites.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/12/crywiper-data-wiper-targeting-russian-sites.html"/>
-        <updated>2022-12-06T12:04:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>Kaspersky is <a href="https://www.kaspersky.com/blog/crywiper-pseudo-ransomware/46480/">reporting</a> on a data wiper masquerading as ransomware that is targeting local Russian government networks.</p>
-<blockquote><p>The Trojan corrupts any data that&#8217;s not vital for the functioning of the operating system. It doesn&#8217;t affect files with extensions .exe, .dll, .lnk, .sys or .msi, and ignores several system folders in the C:\Windows directory. The malware focuses on databases, archives, and user documents.</p>
-<p>So far, our experts have seen only pinpoint attacks on targets in the Russian Federation. However, as usual, no one can guarantee that the same code won&#8217;t be used against other targets...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Dreamlight Valley patch addresses Switch performance, now Steam Deck verified]]></title>
-        <id>https://www.eurogamer.net/disney-dreamlight-valley-patch-addresses-switch-performance-now-steam-deck-verified</id>
-        <link href="https://www.eurogamer.net/disney-dreamlight-valley-patch-addresses-switch-performance-now-steam-deck-verified"/>
-        <updated>2022-12-06T11:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Today's big Disney Dreamlight Valley does more than add content themed around Toy Story and Lilo and Stitch - it also brings some welcome performance improvements, tweaks and bug fixes. 
-
-
-Patch notes promise "optimised game stability on all platforms" but for Nintendo Switch in particular, where developer Gameloft has put a "considerable focus" this time around. 
-
-
-The popular Disney life sim is now fully compatible with Steam Deck and verified by Steam. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300 QA staff at Microsoft-owned Zenimax studios unionise]]></title>
-        <id>https://www.eurogamer.net/300-qa-staff-at-microsoft-owned-zenimax-studios-unionise</id>
-        <link href="https://www.eurogamer.net/300-qa-staff-at-microsoft-owned-zenimax-studios-unionise"/>
-        <updated>2022-12-06T11:18:22.000Z</updated>
-        <summary type="html"><![CDATA[300 quality assurance staff members at Zenimax, the holding company for the likes of Bethesda Softworks, Arkane Studios, and id Software, have unionised with the Communications Workers of America. 
-
-
-Following a four-week election process, should the majority of workers support unionisation, Microsoft, who purchased Zenimax for $7.5bn in 2021, will recognise the union. 
-
-
-The company has also pledged to remain neutral throughout this process. "We applaud Microsoft for remaining neutral through this process and letting workers decide for themselves whether they want a union," said CWA president Christopher Shelton. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft formally confirms 10-year PlayStation Call of Duty contract offer]]></title>
-        <id>https://www.eurogamer.net/microsoft-formally-confirms-10-year-playstation-call-of-duty-contract-offer</id>
-        <link href="https://www.eurogamer.net/microsoft-formally-confirms-10-year-playstation-call-of-duty-contract-offer"/>
-        <updated>2022-12-06T11:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has formally confirmed its offer of a 10-year contract to keep releasing Call of Duty on PlayStation platforms after its planned acquisition of Activision Blizzard. 
-
-
-In an opinion article on the deal published in the Wall St Journal,  Microsoft president Brad Smith committed to making its 10-year COD contract "legally enforceable by regulators in the US, UK and European Union" - territories in which the company was previously felt to be struggling to get its acquisition agreed without making some sort of concessions.
-
-
-The majority of the opinion piece repeats the same arguments for the deal we've heard from Microsoft many times before - that it would be good for both consumers and game developers, and that Microsoft is still struggling in a sector where it is "stuck behind Sony's dominant PlayStation and the Nintendo Switch". 
  
 Read more]]></summary>
         <author>
