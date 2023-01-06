@@ -2,10 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T18:26:30.497Z</updated>
+    <updated>2023-01-06T00:31:55.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Eviction policy for unhealthy pods guarded by PodDisruptionBudgets]]></title>
+        <id>https://kubernetes.io/blog/2023/01/06/unhealthy-pod-eviction-policy-for-pdbs/</id>
+        <link href="https://kubernetes.io/blog/2023/01/06/unhealthy-pod-eviction-policy-for-pdbs/"/>
+        <updated>2023-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Filip Křepinský (Red Hat), Morten Torkildsen (Google), Ravi Gudimetla (Apple)
+Ensuring the disruptions to your applications do not affect its availability isn't a simple
+task. Last month's release of Kubernetes v1.26 lets you specify an unhealthy pod eviction policy
+for PodDisruptionBudgets (PDBs)
+to help you maintain that availability during node management operations.
+In this article, we will dive deeper into what modifications were introduced for PDBs to
+give application owners greater flexibility in managing disruptions.
+What problems does this solve?
+API-initiated eviction of pods respects PodDisruptionBudgets (PDBs). This means that a requested voluntary disruption
+via an eviction to a Pod, should not disrupt a guarded application and .status.currentHealthy of a PDB should n…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYC schools block ChatGPT, fearing negative impact on learning]]></title>
+        <id>https://arstechnica.com/?p=1907928</id>
+        <link href="https://arstechnica.com/?p=1907928"/>
+        <updated>2023-01-05T23:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Network ban comes amid "concerns regarding the safety and accuracy of content."]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First LastPass, now Slack and CircleCI. The hacks go on (and will likely worsen)]]></title>
+        <id>https://arstechnica.com/?p=1908184</id>
+        <link href="https://arstechnica.com/?p=1908184"/>
+        <updated>2023-01-05T23:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Don't expect victims to be forthcoming. Their alerts conceal more than they reveal.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android one-ups Apple’s satellite SOS with general-purpose satellite SMS]]></title>
+        <id>https://arstechnica.com/?p=1908115</id>
+        <link href="https://arstechnica.com/?p=1908115"/>
+        <updated>2023-01-05T22:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm packs traditional Iridium satellite compatibility into a normal phone.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ram shows off its first fully electric pickup truck at CES, due 2024]]></title>
+        <id>https://arstechnica.com/?p=1908112</id>
+        <link href="https://arstechnica.com/?p=1908112"/>
+        <updated>2023-01-05T22:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Ram went for futuristic styling for its first full-size EV pickup.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer’s $400 soundbar has a creepy camera to help emit surround sound]]></title>
+        <id>https://arstechnica.com/?p=1908085</id>
+        <link href="https://arstechnica.com/?p=1908085"/>
+        <updated>2023-01-05T21:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Always-on, shutter-free IR cameras make their way to PC audio.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp just made it harder to censor citizens with Internet shutdowns]]></title>
+        <id>https://arstechnica.com/?p=1908147</id>
+        <link href="https://arstechnica.com/?p=1908147"/>
+        <updated>2023-01-05T21:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Report says 710 million people were impacted by Internet shutdowns in 2022.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC intends to ban noncompete clauses that bind 30 million US workers]]></title>
+        <id>https://arstechnica.com/?p=1908107</id>
+        <link href="https://arstechnica.com/?p=1908107"/>
+        <updated>2023-01-05T20:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Noncompetes are "an unfair method of competition" and violate US law, FTC says.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD’s new RDNA 3 GPUs will compete with Nvidia for mid-range gaming laptops]]></title>
+        <id>https://arstechnica.com/?p=1907935</id>
+        <link href="https://arstechnica.com/?p=1907935"/>
+        <updated>2023-01-05T19:49:28.000Z</updated>
+        <summary type="html"><![CDATA[AMD (sort of weirdly) says the laptop GPUs can beat a desktop RTX 3060.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After $414M fine, Meta tries to avoid seeking user consent for personalized ads]]></title>
+        <id>https://arstechnica.com/?p=1908035</id>
+        <link href="https://arstechnica.com/?p=1908035"/>
+        <updated>2023-01-05T19:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Privacy activists explain why asking for consent may be Meta's only option.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo’s Yoga Book 9i is an unprecedented laptop for people who hate foldables]]></title>
+        <id>https://arstechnica.com/?p=1907498</id>
+        <link href="https://arstechnica.com/?p=1907498"/>
+        <updated>2023-01-05T19:27:02.000Z</updated>
+        <summary type="html"><![CDATA[A laptop made of displays is a cheaper, weird alternative to foldable PCs.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How humans got a new gene that makes our brains larger]]></title>
+        <id>https://arstechnica.com/?p=1908044</id>
+        <link href="https://arstechnica.com/?p=1908044"/>
+        <updated>2023-01-05T19:09:17.000Z</updated>
+        <summary type="html"><![CDATA[Somewhere between chimps and us, an RNA started producing a useful protein.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investors settle Cyberpunk 2077 lawsuit with developer for $1.85 million]]></title>
+        <id>https://arstechnica.com/?p=1907917</id>
+        <link href="https://arstechnica.com/?p=1907917"/>
+        <updated>2023-01-05T18:42:54.000Z</updated>
+        <summary type="html"><![CDATA[CD Projekt Red shareholders will split a fraction of what they claimed to lose.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Tab Extreme takes on the iPad Pro, complete with Magic Keyboard clone]]></title>
+        <id>https://arstechnica.com/?p=1907862</id>
+        <link href="https://arstechnica.com/?p=1907862"/>
+        <updated>2023-01-05T18:40:45.000Z</updated>
+        <summary type="html"><![CDATA[It's a laptop-sized tablet with a laptop-sized price tag.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over a million could die as China’s COVID wave crashes into huge holiday]]></title>
+        <id>https://arstechnica.com/?p=1907955</id>
+        <link href="https://arstechnica.com/?p=1907955"/>
+        <updated>2023-01-05T18:14:54.000Z</updated>
+        <summary type="html"><![CDATA[With mass Lunar New Year travel later this month, COVID may devastate rural areas.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s HD map is coming to the Polestar 3 electric SUV]]></title>
+        <id>https://arstechnica.com/?p=1907986</id>
+        <link href="https://arstechnica.com/?p=1907986"/>
+        <updated>2023-01-05T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The more accurate map lets a car know exactly which lane it's in.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mercedes-Benz will build a $1 billion EV fast-charging network in the US]]></title>
         <id>https://arstechnica.com/?p=1907866</id>
@@ -8426,127 +8595,6 @@ So, how do people choose to play Call of Duty? Well, for this current generation
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marsquakes, recent volcanism suggest Mars still has a mantle plume]]></title>
-        <id>https://arstechnica.com/?p=1902595</id>
-        <link href="https://arstechnica.com/?p=1902595"/>
-        <updated>2022-12-07T12:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Elysium Planitia may be best explained by the same process that powers Yellowstone.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Decoupling Principle]]></title>
-        <id>https://www.schneier.com/blog/archives/2022/12/the-decoupling-principle.html</id>
-        <link href="https://www.schneier.com/blog/archives/2022/12/the-decoupling-principle.html"/>
-        <updated>2022-12-07T12:04:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>This is a <a href="https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_schmitt.pdf">really interesting paper</a> that discusses what the authors call the Decoupling Principle:</p>
-<blockquote><p>The idea is simple, yet previously not clearly articulated: to ensure privacy, information should be divided architecturally and institutionally such that each entity has only the information they need to perform their relevant function. Architectural decoupling entails splitting functionality for different fundamental actions in a system, such as decoupling authentication (proving who is allowed to use the network) from connectivity (establishing session state for communicating). Institutional decoupling entails splitting what information remains between non-colluding entities, such as distinct companies or network operators, or between a user and network peers. This decoupling makes service providers individually breach-proof, as they each have little or no sensitive data that can be lost to hackers. Put simply, the Decoupling Principle suggests always separating who you are from what you do...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The 2022 Dell XPS 13 is more than just a pretty face]]></title>
-        <id>https://arstechnica.com/?p=1889876</id>
-        <link href="https://arstechnica.com/?p=1889876"/>
-        <updated>2022-12-07T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Louder, lighter, and better-looking than your typical 13-inch XPS laptop.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Sonic boss Yuji Naka re-arrested, as fresh insider trading allegations emerge]]></title>
-        <id>https://www.eurogamer.net/former-sonic-boss-yuji-naka-re-arrested-as-fresh-insider-trading-allegations-emerge</id>
-        <link href="https://www.eurogamer.net/former-sonic-boss-yuji-naka-re-arrested-as-fresh-insider-trading-allegations-emerge"/>
-        <updated>2022-12-07T11:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Yuji Naka, the former boss of Sega's Sonic Team, has reportedly been re-arrested in Japan over fresh allegations of insider trading. 
-
-
-Japanese newspaper Asahi reported today that Naka now stands accused of violating financial laws in relation to another mobile game it is claimed he had insider knowledge of - Final Fantasy 7: The First Soldier.
-
-
-Specifically, Naka is accused of purchasing 144.7m yen's worth of shares in its developer ATeam (worth around £865k) before The First Soldier was officially announced.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[England's Jordan Pickford spotted carting PC setup abroad to play Fortnite]]></title>
-        <id>https://www.eurogamer.net/englands-jordan-pickford-spotted-carting-pc-setup-abroad-to-play-fortnite</id>
-        <link href="https://www.eurogamer.net/englands-jordan-pickford-spotted-carting-pc-setup-abroad-to-play-fortnite"/>
-        <updated>2022-12-07T11:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Fortnite continues to be a fixture of England's World Cup squad, four years after the popular battle royale's celebration dances became a common sight on Russia's pitches.
-
-
-This week, England goalkeeper Jordan Pickford was shown footage of himself lugging a monogrammed computer case to 2022's controversial Qatar tournament, as part of an official interview released on the England squad YouTube channel.
-
-
-Pickford was asked what he was getting up to during his downtime - and, amongst other things, eventually revealed he was still hooked to Fortnite. (And no wonder - its freshly-minted Chapter 4 has reinvented the game.)
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic Prime Netflix animation will premiere in Roblox this week]]></title>
-        <id>https://www.eurogamer.net/sonic-prime-netflix-animation-will-premiere-in-roblox-this-week</id>
-        <link href="https://www.eurogamer.net/sonic-prime-netflix-animation-will-premiere-in-roblox-this-week"/>
-        <updated>2022-12-07T11:02:11.000Z</updated>
-        <summary type="html"><![CDATA[The new Netflix animation Sonic Prime will premiere this week in Roblox.
-
-
-The first episode will be shown on Saturday 10th December at 3pm UK time (10am EST) in Sonic Speed Simulator, developed by metaverse gaming company Gamefam.
-
-
-It will be available to watch until 16th December, by which time the series will have launched on Netflix (15th December).
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher 3's PC update will break some mods, but several popular options will be baked in]]></title>
-        <id>https://www.eurogamer.net/the-witcher-3s-pc-update-will-break-some-mods-but-several-popular-options-will-be-baked-in</id>
-        <link href="https://www.eurogamer.net/the-witcher-3s-pc-update-will-break-some-mods-but-several-popular-options-will-be-baked-in"/>
-        <updated>2022-12-07T10:51:20.000Z</updated>
-        <summary type="html"><![CDATA[The Witcher 3 developer CD Projekt Red has issued a detailed blog post on how its fancy upcoming update will affect the many fan-made mods made for the game.
-
-
-In short, some mods will still work, but others won't (especially those based on scripts) - and CD Projekt has tested and compiled a list of how the most popular will fare so fans and mod makers can prepare ahead of time.
-
-
-A further group of mods will be included as part of the update - now part of the game proper, with their original creators reimbursed and credited.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft agrees 10-year deal to bring Call of Duty to Nintendo if Activision Blizzard buyout goes through]]></title>
-        <id>https://www.eurogamer.net/microsoft-agrees-10-year-deal-to-bring-call-of-duty-to-nintendo-if-activision-blizzard-buyout-goes-through</id>
-        <link href="https://www.eurogamer.net/microsoft-agrees-10-year-deal-to-bring-call-of-duty-to-nintendo-if-activision-blizzard-buyout-goes-through"/>
-        <updated>2022-12-07T07:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has agreed a 10-year deal to bring Call of Duty to Nintendo if its buyout of Activision Blizzard goes through.
-
-
-Xbox boss Phil Spencer tweeted the announcement, which also confirms the company's commitment to continue to release Call of Duty games on Valve's Steam platform "simultaneously to Xbox", if the gargantuan $69 billion offer to buy Activision Blizzard is approved. Call of Duty's latest releases, Modern Warfare 2 and Warzone 2.0, are already on Steam.
-
-
-The announcement is a direct response to the scrutiny the acquisition has come under from a raft of organisations across the world, chief among them the Federal Trade Commission in the US and the Competition and Markets Authority in the UK.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
         </author>
     </entry>
 </feed>
