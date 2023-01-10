@@ -124,16 +124,6 @@
           "wordCount": 207,
           "title": "Optimal Bowling",
           "imageUrl": "https://imgs.xkcd.com/comics/optimal_bowling_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2710/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hydropower_breakthrough.png\" title=\"A hydroelectric dam is also known as a heavy water reactor.\" alt=\"A hydroelectric dam is also known as a heavy water reactor.\" />",
-          "link": "https://xkcd.com/2710/",
-          "publishedOn": "2022-12-12T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Hydropower Breakthrough",
-          "imageUrl": "https://imgs.xkcd.com/comics/hydropower_breakthrough_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/01/chatgpt-written-malware.html",
+          "author": null,
+          "description": "<p>I don&#8217;t know how much of a thing this will end up being, but we <a href=\"https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware/\">are seeing</a> ChatGPT-written malware in the wild.</p>\n<blockquote><p>&#8230;within a few weeks of ChatGPT going live, participants in cybercrime forums&#8212;­some with little or no coding experience­&#8212;were using it to write software and emails that could be used for espionage, ransomware, malicious spam, and other malicious tasks.</p>\n<p>&#8220;It’s still too early to decide whether or not ChatGPT capabilities will become the new favorite tool for participants in the Dark Web,&#8221; company researchers wrote. &#8220;However, the cybercriminal community has already shown significant interest and are jumping into this latest trend to generate malicious code.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/chatgpt-written-malware.html",
+          "publishedOn": "2023-01-10T12:18:55.000Z",
+          "wordCount": 871,
+          "title": "ChatGPT-Written Malware",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/01/identifying-people-using-cell-phone-location-data.html",
           "author": null,
@@ -3411,16 +3411,6 @@
           "wordCount": 1636,
           "title": "The 2023 Mitsubishi Outlander PHEV is a much-improved hybrid SUV",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Mitsubishi_OutlanderPHEV_Selects-18-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1903573",
-          "author": "Eric Berger",
-          "description": "\"It is the beginning of the new beginning.\"",
-          "link": "https://arstechnica.com/?p=1903573",
-          "publishedOn": "2022-12-11T22:00:21.000Z",
-          "wordCount": 2724,
-          "title": "Here’s why NASA’s Artemis I mission is so rare, and so remarkable",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/52557403088_e8db1ee2db_6k-760x380.jpg"
         }
       ]
     },
@@ -3574,16 +3564,6 @@
           "wordCount": 3870,
           "title": "Blog: Kubernetes 1.26: Windows HostProcess Containers Are Generally Available",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/",
-          "author": null,
-          "description": "Author: Sascha Grunert\nThe Kubernetes Special Interest Group (SIG) Release is proud to announce that we\nare digitally signing all release artifacts, and that this aspect of Kubernetes\nhas now reached beta.\nSigning artifacts provides end users a chance to verify the integrity of the\ndownloaded resource. It allows to mitigate man-in-the-middle attacks directly on\nthe client side and therefore ensures the trustfulness of the remote serving the\nartifacts. The overall goal of out past work was to define the used tooling for\nsigning all Kubernetes related artifacts as well as providing a standard signing\nprocess for related projects (for example for those in kubernetes-sigs).\nWe already signed all officially released container images (from Kubernetes v1.24 onwards).\nImage signing was alpha for v…",
-          "link": "https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/",
-          "publishedOn": "2022-12-12T00:00:00.000Z",
-          "wordCount": 3606,
-          "title": "Blog: Kubernetes 1.26: We're now signing our binary release artifacts!",
-          "imageUrl": null
         }
       ]
     },
@@ -3636,6 +3616,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/developers-left-out-of-the-callisto-protocol-credits-accuse-striking-distance-of-playing-favourites",
+          "author": "Victoria Kennedy",
+          "description": "Multiple former Striking Distance employees have not been credited for their work on The Callisto Protocol, a decision described as \"egregious\" by one developer.\r\n\nGamesIndustry.biz revealed that \"roughly 20 people\" who contributed their time and effort working on the game did not get mentioned in its end credits. This reportedly included senior developers, leads, directors and \"really core people who built the studio up\".\r\n\n\r\nWhen asked about this snub, one source told the publication it \"stings\" to not see their work credited. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/developers-left-out-of-the-callisto-protocol-credits-accuse-striking-distance-of-playing-favourites",
+          "publishedOn": "2023-01-10T12:20:05.000Z",
+          "wordCount": 5153,
+          "title": "Developers left out of The Callisto Protocol credits accuse Striking Distance of \"playing favourites\"",
+          "imageUrl": "https://assets.reedpopcdn.com/TCP_s5j0eKY.jpg/BROK/thumbnail/1200x630/TCP_s5j0eKY.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/meta-ends-support-for-original-quest-vr-headset",
+          "author": "Ed Nightingale",
+          "description": "Meta is ending support for its original Quest VR headset.\r\n\n\r\nOwners will no longer be able to create or join a party and will lose access to social features on Meta Horizon Home from 5th March.\r\n\n\r\nHowever, they will still be able to use the headset with compatible apps. Meta will continue adding software and security patches until 2024.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/meta-ends-support-for-original-quest-vr-headset",
+          "publishedOn": "2023-01-10T12:06:34.000Z",
+          "wordCount": 4491,
+          "title": "Meta ends support for original Quest VR headset",
+          "imageUrl": "https://assets.reedpopcdn.com/meta-quest-1.png/BROK/thumbnail/1200x630/meta-quest-1.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/frontier-share-price-plummets-following-f1-manager-2022-flop",
+          "author": "Tom Phillips",
+          "description": "Planet Coaster developer Frontier has seen its share price drop by 40 percent after the studio admitted its recent release F1 Manager 2022 had failed to meet sales expectations.\r\n\n\r\nF1 Manager 2022 was an important launch for Frontier, announced as the first game in a new and lucrative annual franchise for the studio, following the studio's previous sales disappointment Jurassic World Evolution 2. \r\n\n\r\nBut while initial \"player engagement at release in August 2022\" was \"broadly in-line with original expectations\", interest in the game soon dropped off and could not be revived despite \"key holiday season price promotions\", Frontier admitted in a financial update.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/frontier-share-price-plummets-following-f1-manager-2022-flop",
+          "publishedOn": "2023-01-10T11:37:16.000Z",
+          "wordCount": 4761,
+          "title": "Frontier share price plummets following F1 Manager 2022 flop",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_GZJsQAn.jpg/BROK/thumbnail/1200x630/Untitled-1_GZJsQAn.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nyxi-releases-drift-less-gamecube-controller-for-switch",
+          "author": "Ed Nightingale",
+          "description": "Peripheral maker Nyxi is releasing a GameCube controller for the Switch.\r\n\n\r\nThe Nyxi Wizard Wireless Joy-pad is similar in design to Nintendo's beloved WaveBird controller, with the iconic coloured buttons and giant A. Now it can slot around your Switch screen.\r\n\n\r\nWhat's more, Nyxi claims the controller won't suffer from Joy-Con drift.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nyxi-releases-drift-less-gamecube-controller-for-switch",
+          "publishedOn": "2023-01-10T11:09:11.000Z",
+          "wordCount": 4511,
+          "title": "Nyxi releases drift-less GameCube controller for Switch",
+          "imageUrl": "https://assets.reedpopcdn.com/The-NYXI-WIZARD!-0-27-screenshot.png/BROK/thumbnail/1200x630/The-NYXI-WIZARD!-0-27-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/forza-horizon-5-creative-director-and-several-team-members-break-away-from-playground-games",
+          "author": "Tom Phillips",
+          "description": "A group of Forza Horizon developers have quit Xbox's Playground Games to form a new studio, Maverick Games. \r\n\n\r\nThe fresh team is led by Playground veteran and Forza Horizon 5 creative director Mike Brown, with work already underway on the a new \"premium open-world game for consoles and PC\". \r\n\n\r\nBrown is one of six former Playground staff at Maverick. Tom Butcher, a lead producer at Playground, serves as the studio's executive producer. Matt Craven, a technical director at Playground, is its chief technical officer. Gareth Harwood, a technical art director, is Maverick's content director. Fraser Stachan, an audio director at Playground, holds the same post - as does Ben Penrose, a former Playground art director.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/forza-horizon-5-creative-director-and-several-team-members-break-away-from-playground-games",
+          "publishedOn": "2023-01-10T10:00:00.000Z",
+          "wordCount": 4801,
+          "title": "Forza Horizon 5 creative director and several team members break away from Playground Games",
+          "imageUrl": "https://assets.reedpopcdn.com/forza-horizon-5-sept-update.jpg/BROK/thumbnail/1200x630/forza-horizon-5-sept-update.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/bitmap-books-mega-drive-visual-compendium-cancelled-following-sega-threat-of-legal-action",
           "author": "Matt Wales",
