@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/01/threats-of-machine-generated-text.html",
+          "author": null,
+          "description": "<p>With the release of ChatGPT, I&#8217;ve read many random articles about this or that threat from the technology.  This <a href=\"https://arxiv.org/pdf/2210.07321.pdf\">paper</a> is a good survey of the field: what the threats are, how we might detect machine-generated text, directions for future research. It&#8217;s a solid grounding amongst all of the hype.</p>\n<blockquote><p>Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods</p>\n<p><b>Abstract:</b> Advances in natural language generation (NLG) have resulted in machine generated text that is increasingly difficult to distinguish from human authored text. Powerful open-source models are freely available, and user-friendly tools democratizing access to generative models are proliferating. The great potential of state-of-the-art NLG systems is tempered by the multitude of avenues for abuse. Detection of machine generated text is a key countermeasure for reducing abuse of NLG models, with significant technical challenges and numerous open problems. We provide a survey that includes both 1) an extensive analysis of threat models posed by contemporary NLG systems, and 2) the most complete review of machine generated text detection methods to date. This survey places machine generated text within its cybersecurity and social context, and provides strong guidance for future work addressing the most critical threat models, and ensuring detection systems themselves demonstrate trustworthiness through fairness, robustness, and  accountability...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/threats-of-machine-generated-text.html",
+          "publishedOn": "2023-01-13T12:13:13.000Z",
+          "wordCount": 838,
+          "title": "Threats of Machine-Generated Text",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/01/experian-privacy-vulnerability.html",
           "author": null,
           "description": "<p>Brian Krebs is <a href=\"https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/\">reporting</a> on a vulnerability in Experian&#8217;s website:</p>\n<blockquote><p>Identity thieves have been exploiting a glaring security weakness in the website of Experian, one of the big three consumer credit reporting bureaus. Normally, Experian requires that those seeking a copy of their credit report successfully answer several multiple choice questions about their financial history. But until the end of 2022, Experian&#8217;s website allowed anyone to bypass these questions and go straight to the consumer&#8217;s report. All that was needed was the person&#8217;s name, address, birthday and Social Security number...</p></blockquote>",
@@ -3381,86 +3391,6 @@
           "wordCount": 1689,
           "title": "A Russian spacecraft started leaking uncontrollably on Wednesday night",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/NASA-Live_-Official-Stream-of-NASA-TV-11-59-28-screenshot-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1901684",
-          "author": "John Timmer",
-          "description": "Mixed messages from a casual cruising machine with a powerful motor.",
-          "link": "https://arstechnica.com/?p=1901684",
-          "publishedOn": "2022-12-14T23:53:34.000Z",
-          "wordCount": 1964,
-          "title": "High class: A strong electric assist transforms a classic cruiser",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Screen-Shot-2022-12-14-at-4.16.23-PM-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904375",
-          "author": "Scharon Harding",
-          "description": "ECG, sleep tracking, and heart and lung auscultation—all in one unusual design.",
-          "link": "https://arstechnica.com/?p=1904375",
-          "publishedOn": "2022-12-14T23:33:52.000Z",
-          "wordCount": 1962,
-          "title": "Oppo prototypes Magic Mouse-looking health tracker for the whole family",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Oppo-Ohealth-H1-727x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904591",
-          "author": "Beth Mole",
-          "description": "Vaccine inequity, long COVID, and weak variant surveillance loom as big challenges.",
-          "link": "https://arstechnica.com/?p=1904591",
-          "publishedOn": "2022-12-14T22:45:33.000Z",
-          "wordCount": 1717,
-          "title": "COVID is here to stay, but global emergency could end next year, WHO chief says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1245604967-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904558",
-          "author": "Dan Goodin",
-          "description": "48 Internet domains associated with the services have also been seized.",
-          "link": "https://arstechnica.com/?p=1904558",
-          "publishedOn": "2022-12-14T22:31:35.000Z",
-          "wordCount": 1888,
-          "title": "Prosecutors charge 6 people for allegedly waging massive DDoS attacks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ddos-for-hire-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904475",
-          "author": "Benj Edwards",
-          "description": "Custom typewriter hack uses Arduino, Rapsberry Pi, and GPT-3 to dramatic effect.",
-          "link": "https://arstechnica.com/?p=1904475",
-          "publishedOn": "2022-12-14T21:54:51.000Z",
-          "wordCount": 1720,
-          "title": "Meet Ghostwriter, a haunted AI-powered typewriter that talks to you",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ghostwriter_hero_2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904389",
-          "author": "Kevin Purdy",
-          "description": "Rock Band, Unreal, and other games at Epic lose online services on Jan. 24.",
-          "link": "https://arstechnica.com/?p=1904389",
-          "publishedOn": "2022-12-14T21:25:38.000Z",
-          "wordCount": 1847,
-          "title": "The day the plastic music died: Epic shutting down Rock Band and other servers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-81960955-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904474",
-          "author": "Diana Gitig",
-          "description": "Rare microbes form two branches of a supergroup, a classification above kingdoms.",
-          "link": "https://arstechnica.com/?p=1904474",
-          "publishedOn": "2022-12-14T20:09:35.000Z",
-          "wordCount": 1580,
-          "title": "Scientists discover a new supergroup of rare single-celled predators",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/single-celled-predator-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904421",
-          "author": "Ashley Belanger",
-          "description": "Musk's attorney, Alex Spiro, out but still representing Twitter on pending cases.",
-          "link": "https://arstechnica.com/?p=1904421",
-          "publishedOn": "2022-12-14T19:01:40.000Z",
-          "wordCount": 1790,
-          "title": "Musk may try to deny severance to thousands laid off by Twitter, report says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1395053069-760x380.jpg"
         }
       ]
     },
@@ -3604,16 +3534,6 @@
           "wordCount": 4164,
           "title": "Blog: Kubernetes 1.26: Non-Graceful Node Shutdown Moves to Beta",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/12/15/dynamic-resource-allocation/",
-          "author": null,
-          "description": "Authors: Patrick Ohly (Intel), Kevin Klues (NVIDIA)\nDynamic resource allocation is a new API for requesting resources. It is a\ngeneralization of the persistent volumes API for generic resources, making it possible to:\naccess the same resource instance in different pods and containers,\nattach arbitrary constraints to a resource request to get the exact resource\nyou are looking for,\ninitialize a resource according to parameters provided by the user.\nThird-party resource drivers are responsible for interpreting these parameters\nas well as tracking and allocating resources as requests come in.\nDynamic resource allocation is an alpha feature and only enabled when the\nDynamicResourceAllocation feature\ngate and the\nresource.k8s.io/v1alpha1 API group are enabled. For details, see the\n--feature-gat…",
-          "link": "https://kubernetes.io/blog/2022/12/15/dynamic-resource-allocation/",
-          "publishedOn": "2022-12-15T00:00:00.000Z",
-          "wordCount": 4717,
-          "title": "Blog: Kubernetes 1.26: Alpha API For Dynamic Resource Allocation",
-          "imageUrl": null
         }
       ]
     },
@@ -3656,6 +3576,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/john-carpenter-suggests-dead-space-movie-in-development",
+          "author": "Tom Phillips",
+          "description": "Legendary film director John Carpenter has suggested that a Dead Space movie project is currently in development. \r\n\n\r\nThe Halloween helmer has previously spoken of his interest in making a Dead Space film - and has now said that a project to get the survival horror franchise on the big screen is now in progress, albeit not with him attached.\r\n\n\r\n\"I'm a big video game fan, so I played all the games,\" Carpenter told Variety. \"I was down looking at the new digital cameras, the RED, and happened to mention to them that I would love to do a Dead Space film. That just went around, and everybody said, 'Oh, when are you gonna do it?'\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/john-carpenter-suggests-dead-space-movie-in-development",
+          "publishedOn": "2023-01-13T11:31:28.000Z",
+          "wordCount": 4689,
+          "title": "John Carpenter suggests Dead Space movie in development",
+          "imageUrl": "https://assets.reedpopcdn.com/Dead-Space-Official-Gameplay-Trailer-3-55-screenshot.png/BROK/thumbnail/1200x630/Dead-Space-Official-Gameplay-Trailer-3-55-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/wizards-of-the-coast-faces-backlash-over-planned-changes-to-how-it-monetises-third-party-content",
+          "author": "Tom Phillips",
+          "description": "Dungeons and Dragons owner Wizards of the Coast has reportedly scrubbed the announcement of its new Open Gaming License (OGL), a document which lays out how fans and third-party publishers can make and monetise their own D&D content, following a huge backlash from the game's community. \r\n\n\r\nLast night, upset at expected changes in the updated OGL resulted in a widely-shared push by D&D fans and streamers to ditch the game's online subscription, D&D Beyond. \r\n\n\r\nGizmodo, which initially published details of the updated OGL last week, subsequently reported that this latest backlash has prompted Wizards of the Coast to cancel its plans to formally announce the changes for the time being, leaving the company's upper management in a \"scramble to adjust their messaging around the situation\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/wizards-of-the-coast-faces-backlash-over-planned-changes-to-how-it-monetises-third-party-content",
+          "publishedOn": "2023-01-13T11:11:58.000Z",
+          "wordCount": 4800,
+          "title": "Wizards of the Coast faces backlash over planned changes to how it monetises third-party content",
+          "imageUrl": "https://assets.reedpopcdn.com/dungeons-and-dragons-logo.jpg/BROK/thumbnail/1200x630/dungeons-and-dragons-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/persona-3-and-4-streaming-wont-be-restricted-but-will-require-spoiler-warnings",
+          "author": "Ed Nightingale",
+          "description": "Atlus has released its streaming guidelines for Persona 3 Portable and Persona 4 Golden and won't be restricting content.\r\n\n\r\n\r\nPlayers are free to stream both games but the publisher requests players mark story sections with spoiler warnings.\r\n\n\r\nThis is good news for fans of the series, considering Atlus was particularly tight with its Persona 5 streaming guidelines.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/persona-3-and-4-streaming-wont-be-restricted-but-will-require-spoiler-warnings",
+          "publishedOn": "2023-01-13T11:04:26.000Z",
+          "wordCount": 4667,
+          "title": "Persona 3 and 4 streaming won't be restricted, but will require spoiler warnings",
+          "imageUrl": "https://assets.reedpopcdn.com/it-looks-like-persona-4-royale-golden-is-heading-to-pc-this-week-1591748031594.jpg/BROK/thumbnail/1200x630/it-looks-like-persona-4-royale-golden-is-heading-to-pc-this-week-1591748031594.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/google-and-nvidia-reportedly-express-concerns-to-us-financial-regulators-about-microsofts-activision-blizzard-buyout",
+          "author": "Wesley Yin-Poole",
+          "description": "Google and Nvidia have contacted US financial regulators about Microsoft's proposed $69bn takeover of Activision Blizzard, according to Bloomberg (paywall).\r\n\n\r\nSources told the website both Google and Nvidia had \"expressed concerns\" to the Federal Trade Commision (FTC), which sued to block the deal in December.\r\n\n\r\nThe FTC has argued the buyout, which would grant Microsoft ownership of the likes of Call of Duty, World of Warcraft and Candy Crush, would reduce competition in the industry - a claim Microsoft has strongly denied. A trial is set for August.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/google-and-nvidia-reportedly-express-concerns-to-us-financial-regulators-about-microsofts-activision-blizzard-buyout",
+          "publishedOn": "2023-01-13T08:53:41.000Z",
+          "wordCount": 4787,
+          "title": "Google and Nvidia reportedly \"express concerns\" to US financial regulators about Microsoft's Activision Blizzard buyout",
+          "imageUrl": "https://assets.reedpopcdn.com/google_bA9LsdL.jpg/BROK/thumbnail/1200x630/google_bA9LsdL.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/ubisoft-says-new-skull-and-bones-release-date-coming-very-soon-following-latest-delay",
           "author": "Matt Wales",
@@ -5845,36 +5805,6 @@
           "wordCount": 4722,
           "title": "Resident Evil Village will get free DLC to become PlayStation VR2 launch title",
           "imageUrl": "https://assets.reedpopcdn.com/resident-evil-village-vr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-village-vr.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mega-man-battle-network-legacy-collection-gets-april-release-date",
-          "author": "Matt Wales",
-          "description": "Capcom's Mega Man Battle Network Legacy Collection now has a release date, and will be launching for Switch, PlayStation, and PC on 14th April next year.\r\n\n\r\nAs was the case for previous Mega Man Legacy Collections, Capcom's Battle Network compilation - which gathers together 10 games in the real-time tactical RPG spin-off series - will be split across two volumes for its digital release. \r\n\n\r\nVolume 1 features Mega Man Battle Network, Mega Man Battle Network 2, Mega Man Battle Network 3 Blue, and Mega Man Battle Network 3 White - all of which originally launched for Nintendo GBA between 2001 and 2003.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mega-man-battle-network-legacy-collection-gets-april-release-date",
-          "publishedOn": "2022-12-14T22:32:18.000Z",
-          "wordCount": null,
-          "title": "Mega Man Battle Network Legacy Collection gets April release date",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.eurogamer.net/amazons-live-action-god-of-war-tv-adaptation-is-officially-go",
-          "author": "Matt Wales",
-          "description": "Following reports earlier this year that Amazon was eyeing up a live-action TV adaptation of Sony Santa Monica's God of War series, the project is now officially go for Prime Video.\r\n\n\r\nAccording to The Hollywood Reporter, the show has been in development since March and will, notably, focus on Kratos' dad years in Midgard as per 2018's God of War reboot, rather than the ultra-violent Greek-mythology-inspired adventures of Kratos' earlier games.\r\n\n\r\nHere's how the show's official description teases its plot: \"When his beloved wife dies, Kratos sets off on a dangerous journey with his estranged son to spread her ashes from the highest peak - his wife's final wish. Kratos soon realises the journey is an epic quest in disguise, one which will test the bonds between father and son, and force Kratos to battle new gods and monsters for the fate of the world.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/amazons-live-action-god-of-war-tv-adaptation-is-officially-go",
-          "publishedOn": "2022-12-14T20:23:49.000Z",
-          "wordCount": 4521,
-          "title": "Amazon's live-action God of War TV adaptation is officially go",
-          "imageUrl": "https://assets.reedpopcdn.com/God-of-War-Ragnarok-cropped.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/God-of-War-Ragnarok-cropped.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/baldurs-gate-3-early-access-to-get-paladin-in-maybe-the-last-significant-update-before-release",
-          "author": "Robert Purchese",
-          "description": "The paladin class is coming to the early access version of Baldur's Gate 3. It's the headline addition in Patch 9 which, I'm afraid, sounds like it will be the last major content update to the early access build before the game's full release in August 2023.\nLarian leader Swen Vinke said this during a patch pre-briefing a week ago, telling press - myself included - they'd now like to concentrate on finishing the game, which is fair enough.\nNo release date for Patch 9 has been communicated.\n Read more",
-          "link": "https://www.eurogamer.net/baldurs-gate-3-early-access-to-get-paladin-in-maybe-the-last-significant-update-before-release",
-          "publishedOn": "2022-12-14T18:30:00.000Z",
-          "wordCount": 4907,
-          "title": "Baldur's Gate 3 early access to get paladin in maybe the last significant update before release",
-          "imageUrl": "https://assets.reedpopcdn.com/bg3_minsc_title_2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bg3_minsc_title_2.jpg"
         }
       ]
     },
