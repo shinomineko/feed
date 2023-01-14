@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/01/friday-squid-blogging-how-to-buy-fresh-or-frozen-squid.html",
+          "author": null,
+          "description": "<p>Good <a href=\"https://www.thespruceeats.com/squid-and-calamari-selection-and-storage-1807810\">advice</a> on buying squid. I like to buy whole fresh squid and <a href=\"https://www.thespruceeats.com/how-to-clean-squid-1808818\">clean it</a> myself.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/friday-squid-blogging-how-to-buy-fresh-or-frozen-squid.html",
+          "publishedOn": "2023-01-13T22:08:27.000Z",
+          "wordCount": 1306,
+          "title": "Friday Squid Blogging: How to Buy Fresh or Frozen Squid",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/01/threats-of-machine-generated-text.html",
           "author": null,
           "description": "<p>With the release of ChatGPT, I&#8217;ve read many random articles about this or that threat from the technology.  This <a href=\"https://arxiv.org/pdf/2210.07321.pdf\">paper</a> is a good survey of the field: what the threats are, how we might detect machine-generated text, directions for future research. It&#8217;s a solid grounding amongst all of the hype.</p>\n<blockquote><p>Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods</p>\n<p><b>Abstract:</b> Advances in natural language generation (NLG) have resulted in machine generated text that is increasingly difficult to distinguish from human authored text. Powerful open-source models are freely available, and user-friendly tools democratizing access to generative models are proliferating. The great potential of state-of-the-art NLG systems is tempered by the multitude of avenues for abuse. Detection of machine generated text is a key countermeasure for reducing abuse of NLG models, with significant technical challenges and numerous open problems. We provide a survey that includes both 1) an extensive analysis of threat models posed by contemporary NLG systems, and 2) the most complete review of machine generated text detection methods to date. This survey places machine generated text within its cybersecurity and social context, and provides strong guidance for future work addressing the most critical threat models, and ensuring detection systems themselves demonstrate trustworthiness through fairness, robustness, and  accountability...</p></blockquote>",
@@ -404,16 +414,6 @@
           "wordCount": 753,
           "title": "Apple Patches iPhone Zero-Day",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/12/a-security-vulnerability-in-the-kmsdbot-botnet.html",
-          "author": null,
-          "description": "<p>Security researchers <a href=\"https://arstechnica.com/information-technology/2022/12/advanced-botnet-taken-down-by-an-all-too-human-flaw-syntax-error/\">found</a> a software bug in the KmsdBot cryptomining botnet:</p>\n<blockquote><p>With no error-checking built in, sending KmsdBot a malformed command­&#8212;like its controllers did one day while Akamai was watching­&#8212;created a panic crash with an &#8220;index out of range&#8221; error. Because there&#8217;s no persistence, the bot stays down, and malicious agents would need to reinfect a machine and rebuild the bot&#8217;s functions. It is, as Akamai notes, &#8220;a nice story&#8221; and &#8220;a strong example of the fickle nature of technology.&#8221;</p></blockquote>\n...",
-          "link": "https://www.schneier.com/blog/archives/2022/12/a-security-vulnerability-in-the-kmsdbot-botnet.html",
-          "publishedOn": "2022-12-15T12:10:05.000Z",
-          "wordCount": 706,
-          "title": "A Security Vulnerability in the KmsdBot Botnet",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +422,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1910046",
+          "author": "Dan Goodin",
+          "description": "Israeli firm says it uses AI to analyze “billions of ‘human pixels’ and signals.”",
+          "link": "https://arstechnica.com/?p=1910046",
+          "publishedOn": "2023-01-13T23:28:05.000Z",
+          "wordCount": 1971,
+          "title": "Meta sues “scraping-for-hire” service that sells user data to law enforcement",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/data-scraping-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910066",
+          "author": "Beth Mole",
+          "description": "Another reminder to keep those masks on during flights.",
+          "link": "https://arstechnica.com/?p=1910066",
+          "publishedOn": "2023-01-13T23:05:07.000Z",
+          "wordCount": 1678,
+          "title": "Amid China’s massive COVID wave, 42% of people on one flight tested positive",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1245957532-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910025",
+          "author": "Samuel Axon",
+          "description": "Also, the points program will now be exclusive to Best Buy Credit Card holders.",
+          "link": "https://arstechnica.com/?p=1910025",
+          "publishedOn": "2023-01-13T22:10:31.000Z",
+          "wordCount": 1542,
+          "title": "Best Buy offers free shipping for all members, but cuts Totaltech benefits",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/08/1store-652x368.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1909994",
+          "author": "Kyle Orland",
+          "description": "One critic who's played the games and one who hasn't—we're the original odd couple!",
+          "link": "https://arstechnica.com/?p=1909994",
+          "publishedOn": "2023-01-13T21:39:55.000Z",
+          "wordCount": 1554,
+          "title": "Ars is reviewing HBO’s The Last of Us series",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/pedro-pascal-bella-ramsey-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1909873",
+          "author": "Jennifer Ouellette",
+          "description": "David DiLaura called his discovery \"a once-in-a-collector’s-lifetime event.\"",
+          "link": "https://arstechnica.com/?p=1909873",
+          "publishedOn": "2023-01-13T20:22:05.000Z",
+          "wordCount": 1903,
+          "title": "Collector discovered Isaac Newton’s lost personal copy of Opticks",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Untitled-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1909955",
+          "author": "Ashley Belanger",
+          "description": "Supreme Court ruling could trigger “devastating spillover effects,” Google says.",
+          "link": "https://arstechnica.com/?p=1909955",
+          "publishedOn": "2023-01-13T20:06:52.000Z",
+          "wordCount": 1965,
+          "title": "Google to SCOTUS: Liability for promoting terrorist videos will ruin the Internet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1240921349-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1909657",
+          "author": "Ron Amadeo",
+          "description": "Sony holds onto the beautiful dream of standalone portable audio players.",
+          "link": "https://arstechnica.com/?p=1909657",
+          "publishedOn": "2023-01-13T19:53:32.000Z",
+          "wordCount": 1869,
+          "title": "New Sony Walkman music players feature stunning good looks, Android 12",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/40-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1909889",
+          "author": "Jon Brodkin",
+          "description": "Musk faces tough trial as judge already ruled his tweets were false and reckless.",
+          "link": "https://arstechnica.com/?p=1909889",
+          "publishedOn": "2023-01-13T17:57:30.000Z",
+          "wordCount": 1885,
+          "title": "Musk on trial for “funding secured” tweet—experts predict he’s going to lose",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/musk-420-haze-judge-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1909898",
           "author": "Kyle Orland",
@@ -3677,6 +3757,16 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/ubisoft-shows-off-skull-and-bones-narrative-gameplay-in-latest-devstream",
+          "author": "Matt Wales",
+          "description": "Following this week's announcement of yet another delay for Skull and Bones, Ubisoft has shared 30 minutes of new footage from its beleaguered pirate adventure, focusing on what it calls the game's \"narrative gameplay\".\r\n\n\r\nIt's perhaps something of an unexpected place to return after a lengthy absence, given Ubisoft insisted Skull and Bones was \"not a narrative-driven game\" last summer, but it does at least give players a better idea of how the publisher is attempting to inject a bit of variety into the action.\r\n\n\r\nAs Ubisoft explained last year, Skull and Bones is overwhelmingly focused on sailing and combat, with players only able to disembark their ships and explore dry land at a limited number of locations, defined as outposts. Functionally, outposts serve as places players can trade, cash in contracts, pay off factions, and meet other players - but, as detailed in Ubisoft's latest gameplay devstream, they're also locations where they might find narrative content Ubisoft is calling \"investigations\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-shows-off-skull-and-bones-narrative-gameplay-in-latest-devstream",
+          "publishedOn": "2023-01-13T21:48:53.000Z",
+          "wordCount": 5032,
+          "title": "Ubisoft shows off Skull and Bones' \"narrative gameplay\" in new devstream",
+          "imageUrl": "https://assets.reedpopcdn.com/skull-and-bones_YYlQ8Q9.jpg/BROK/thumbnail/1200x630/skull-and-bones_YYlQ8Q9.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/final-fantasy-7-mod-adds-voice-acting-to-original-game",
           "author": "Ed Nightingale",
           "description": "The original Final Fantasy 7 is now fully voice acted, thanks to a new mod by the Tsunamods community.\r\n\n\r\nAvailable today, Echo-S 7 adds voice acting to every scene, with automatic text boxes \"to help the scenes feel like you're watching a movie\".\r\n\n\r\n\"We gathered actors from all over the world to voice act the entirety of Final Fantasy 7. Every main, minor, and NPC; you name a character, they're voiced - even the tutorials!\" reads the Tsunamods website.\r\n \nRead more",
@@ -5885,56 +5975,6 @@
           "wordCount": 4649,
           "title": "Nintendo announces Smash Bros. Sephiroth and Kazuya amiibo release date",
           "imageUrl": "https://assets.reedpopcdn.com/sephiroth-amiibo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sephiroth-amiibo.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/modern-warfare-2-free-multiplayer-access-period-starts-today",
-          "author": "Victoria Kennedy",
-          "description": "A quick PSA for those keen to try out some of Modern Warfare 2's multiplayer offerings but who don't fancy splashing their cash on the full game: its free access period begins today.\r\n\n\r\nThis free access will run until 19th December, and offers three maps and four modes to play through.\r\n\n\r\nThe maps in question are Shipment (a new arrival to the game - more on that in a second), Farm 18 (which is a Shoothouse inspired number) and El Asilo. Meanwhile, the four modes are Team Deathmatch, Hardpoint, Domination, and Kill Confirmed. These can be played in first and third-person. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/modern-warfare-2-free-multiplayer-access-period-starts-today",
-          "publishedOn": "2022-12-15T12:31:48.000Z",
-          "wordCount": 4771,
-          "title": "Modern Warfare 2 free multiplayer access period starts today",
-          "imageUrl": "https://assets.reedpopcdn.com/MWII-S01-SHIPMENT-008.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/MWII-S01-SHIPMENT-008.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/starfield-faction-quests-can-be-played-independently-more-akin-to-skyrim-than-fallout-4",
-          "author": "Victoria Kennedy",
-          "description": "Starfield's lead quest designer Will Shen has divulged more about the upcoming game's faction quests and the players' companion side-kicks. \r\n\n\r\nIn a new video, Shen revealed Starfield's faction quests will be more similar to those from Bethesda's Skyrim, in the sense that players will be able to experience each faction independently. This will not be a Fallout 4 situation, which saw players being locked out of factions after joining another (something that was a bone of contention among some members of the community).\r\n\n\r\n\"One of the early things we decided on was making sure that the main quest actually kind of gives you a little bit of a tour of the settled systems and all of the major players there so that we can give you a taste of what they're going to be up to,\" Shen explained. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/starfield-faction-quests-can-be-played-independently-more-akin-to-skyrim-than-fallout-4",
-          "publishedOn": "2022-12-15T11:57:58.000Z",
-          "wordCount": 4860,
-          "title": "Starfield faction quests can be played independently, more akin to Skyrim than Fallout 4",
-          "imageUrl": "https://assets.reedpopcdn.com/starfield-quest-chat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starfield-quest-chat.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/you-can-finally-pet-the-horse-in-the-witcher-3",
-          "author": "Ed Nightingale",
-          "description": "Finally, you can pet Roach in The Witcher 3.\r\n\n\r\nRoach is Geralt's trusty steed but until now she's only been rideable, despite the strong bond players form with her over the hours and hours of playtime. \r\n\n\r\nNow, thanks to the recent upgrade patch for PC, PlayStation 5 and Xbox Series X/S, Roach can be given the love and affection she deserves.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/you-can-finally-pet-the-horse-in-the-witcher-3",
-          "publishedOn": "2022-12-15T11:52:49.000Z",
-          "wordCount": 4678,
-          "title": "You can finally pet the horse in The Witcher 3",
-          "imageUrl": "https://assets.reedpopcdn.com/witcher-3-next-gen.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/witcher-3-next-gen.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fireworks-puzzler-fantavision-returns-to-psvr2-day-one",
-          "author": "Ed Nightingale",
-          "description": "Japan Studio's PS2 classic puzzle game Fantavision will return next year on PSVR2.\r\n\n\r\nA launch game for the console, it involves matching coloured fireworks and exploding them in chains for a long combo - and impressive display.\r\n\n\r\nNow it's set to return as Fantavision 202X as a launch title for Sony's next VR headset.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/fireworks-puzzler-fantavision-returns-to-psvr2-day-one",
-          "publishedOn": "2022-12-15T11:30:09.000Z",
-          "wordCount": 4463,
-          "title": "Fireworks puzzler Fantavision returns to PSVR2 day one",
-          "imageUrl": "https://assets.reedpopcdn.com/fantavision.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fantavision.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/resident-evil-village-will-get-free-dlc-to-become-playstation-vr2-launch-title",
-          "author": "Liv Ngan",
-          "description": "Resident Evil Village's upcoming VR mode will be available from the launch of PlayStation VR2 as free DLC, Capcom has announced.\nFollowing a playable demo at Tokyo Game Show in September, a release date was left in speculation until earlier today.\nVillage will be available to play from day one on PSVR2 (22nd February), and will be a free DLC for all editions of the game.\n Read more",
-          "link": "https://www.eurogamer.net/resident-evil-village-will-get-free-dlc-to-become-playstation-vr2-launch-title",
-          "publishedOn": "2022-12-15T11:28:35.000Z",
-          "wordCount": 4722,
-          "title": "Resident Evil Village will get free DLC to become PlayStation VR2 launch title",
-          "imageUrl": "https://assets.reedpopcdn.com/resident-evil-village-vr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-village-vr.jpg"
         }
       ]
     },
