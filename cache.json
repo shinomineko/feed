@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/01/ai-and-political-lobbying.html",
+          "author": null,
+          "description": "<p>Launched just weeks ago, ChatGPT is already threatening to upend how we draft everyday communications like <a href=\"https://www.streak.com/post/how-to-use-ai-to-write-perfect-cold-emails\">emails</a>, <a href=\"https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/\">college essays</a> and myriad <a href=\"https://javascript.plainenglish.io/13-best-examples-of-chatgpt-on-the-internet-so-far-316876466d1c\">other forms</a> of writing.</p>\n<p>Created by the company OpenAI, ChatGPT is a chatbot that can automatically respond to written prompts in a manner that is sometimes eerily close to human.</p>\n<p>But for all the consternation over the potential for humans to be replaced by machines in formats like poetry and sitcom scripts, a far greater threat looms: artificial intelligence replacing humans in the democratic processes&#8212;not through voting, but through lobbying...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/ai-and-political-lobbying.html",
+          "publishedOn": "2023-01-18T12:19:28.000Z",
+          "wordCount": 1962,
+          "title": "AI and Political Lobbying",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html",
           "author": null,
           "description": "<p><a href=\"https://www.vice.com/en/article/z34dx3/fbi-wont-say-hacked-dark-web-isis-site-nit\">No details</a>, though:</p>\n<blockquote><p>According to the complaint against him, Al-Azhari allegedly visited a dark web site that hosts &#8220;unofficial propaganda and photographs related to ISIS&#8221; multiple times on May 14, 2019. In virtue of being a dark web site&#8212;­that is, one hosted on the Tor anonymity network&#8212;­it should have been difficult for the site owner’s or a third party to determine the real IP address of any of the site’s visitors.</p>\n<p>Yet, that’s exactly what the FBI did. It found Al-Azhari allegedly visited the site from an IP address associated with Al-Azhari’s grandmother’s house in Riverside, California. The FBI also found what specific pages Al-Azhari visited, including a section on donating Bitcoin; another focused on military operations conducted by ISIS fighters in Iraq, Syria, and Nigeria; and another page that provided links to material from ISIS’s media arm. Without the FBI deploying some form of surveillance technique, or Al-Azhari using another method to visit the site which exposed their IP address, this should not have been possible...</p></blockquote>",
@@ -3401,46 +3411,6 @@
           "wordCount": 1712,
           "title": "Swatters used Ring cameras to livestream attacks, taunt police, prosecutors say",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/doorbell-camera-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905687",
-          "author": "Benj Edwards",
-          "description": "\"Enhance Speech\" uses AI to make noisy podcast recordings sound like professional audio.",
-          "link": "https://arstechnica.com/?p=1905687",
-          "publishedOn": "2022-12-19T23:13:35.000Z",
-          "wordCount": 1678,
-          "title": "Make your noisy recording sound like pro audio with Adobe’s free AI tool",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/adobe_speech_enhance_hero_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905698",
-          "author": "John Timmer",
-          "description": "Past maps of \"high-risk\" neighborhoods shape present power planet emissions.",
-          "link": "https://arstechnica.com/?p=1905698",
-          "publishedOn": "2022-12-19T22:57:18.000Z",
-          "wordCount": 2094,
-          "title": "Power plant pollution higher in neighborhoods subject to racist redlining",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-sb10067592d-001-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905537",
-          "author": "Scharon Harding",
-          "description": "$349 peripheral uses its own CPU and GPU to power the show.",
-          "link": "https://arstechnica.com/?p=1905537",
-          "publishedOn": "2022-12-19T19:10:24.000Z",
-          "wordCount": 1846,
-          "title": "This mechanical keyboard has a dazzling, distracting display under its keys",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/rocket-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905587",
-          "author": "Dan Goodin",
-          "description": "Microsoft elevates security rating for vulnerability resembling EternalBlue.",
-          "link": "https://arstechnica.com/?p=1905587",
-          "publishedOn": "2022-12-19T18:46:33.000Z",
-          "wordCount": 1756,
-          "title": "Critical Windows code-execution vulnerability went undetected until now",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages_SkullCrossbonesBinaryComputerScreen-CROPPED-760x380.jpeg"
         }
       ]
     },
@@ -3554,16 +3524,6 @@
           "wordCount": 3832,
           "title": "Blog: Kubernetes v1.26: GA Support for Kubelet Credential Providers",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/",
-          "author": null,
-          "description": "Authors: Joe Betz (Google), Cici Huang (Google)\nIn Kubernetes 1.26, the 1st alpha release of validating admission policies is\navailable!\nValidating admission policies use the Common Expression\nLanguage (CEL) to offer a declarative,\nin-process alternative to validating admission\nwebhooks.\nCEL was first introduced to Kubernetes for the Validation rules for\nCustomResourceDefinitions.\nThis enhancement expands the use of CEL in Kubernetes to support a far wider\nrange of admission use cases.\nAdmission webhooks can be burdensome to develop and operate. Webhook developers\nmust implement and maintain a webhook binary to handle admission requests. Also,\nadmission webhooks are complex to operate. Each webhook must be deployed,\nmonitored and have a well defined upgrade and rollback plan. To make matte…",
-          "link": "https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/",
-          "publishedOn": "2022-12-20T00:00:00.000Z",
-          "wordCount": 3703,
-          "title": "Blog: Kubernetes 1.26: Introducing Validating Admission Policies",
-          "imageUrl": null
         }
       ]
     },
@@ -3606,6 +3566,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/stadia-exclusive-gunsport-reborn-in-steam-beta",
+          "author": "Ed Nightingale",
+          "description": "Gunsport, a game set to be lost with the closure of Stadia, has now been made available on Steam within another game.\r\n\n\r\nNecrosoft originally released Gunsport in 2020 as a Stadia exclusive; this was followed by Hyper Gunsport in June 2022 across PC, Switch, Xbox and PlayStation.\r\n\n\r\nNow the developer has added Gunsport to Hyper Gunsport on PC via Steam's beta channel.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/stadia-exclusive-gunsport-reborn-in-steam-beta",
+          "publishedOn": "2023-01-18T12:12:52.000Z",
+          "wordCount": 4717,
+          "title": "Stadia exclusive Gunsport reborn in Steam beta",
+          "imageUrl": "https://assets.reedpopcdn.com/hyper-gunsport.png/BROK/thumbnail/1200x630/hyper-gunsport.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/john-wick-director-making-rainbow-six-movie",
+          "author": "Tom Phillips",
+          "description": "John Wick director Chad Stahelski will helm the upcoming movie adaptation of Tom Clancy's Rainbow Six. \r\n\n\r\nThe film will see the return of Black Panther star Michael B. Jordan as John Clark, according to the Hollywood Reporter. \r\n\n\r\nJordan previously played Clark, a Navy SEAL-turned-CIA operative, in Paramount's 2021 straight-to-streaming movie Without Remorse - another adaptation of a Tom Clancy work.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/john-wick-director-making-rainbow-six-movie",
+          "publishedOn": "2023-01-18T11:44:03.000Z",
+          "wordCount": 4706,
+          "title": "John Wick director making Rainbow Six movie",
+          "imageUrl": "https://assets.reedpopcdn.com/MV5BZDkxYzYwMjAtYjM0MS00YThlLWFmNzctM2E0ZGJkMThkYjU1XkEyXkFqcGdeQXZ3ZXNsZXk%40._V1_.jpg/BROK/thumbnail/1200x630/MV5BZDkxYzYwMjAtYjM0MS00YThlLWFmNzctM2E0ZGJkMThkYjU1XkEyXkFqcGdeQXZ3ZXNsZXk%40._V1_.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/monster-hunter-rise-sunbreak-sells-over-5m-copies",
+          "author": "Ed Nightingale",
+          "description": "Monster Hunter Rise expansion Sunbreak has now sold over 5m copies worldwide across Switch and PC.\r\n\n\r\nCapcom shared the news on the official Monster Hunter Twitter account, thanking hunters for their support. A new commemorative in-game item pack will soon be released in celebration.\r\n\n\r\nSunbreak was released in June 2022 and adds a considerable amount of content including new locales, monsters, and more.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/monster-hunter-rise-sunbreak-sells-over-5m-copies",
+          "publishedOn": "2023-01-18T11:36:33.000Z",
+          "wordCount": 4752,
+          "title": "Monster Hunter Rise: Sunbreak sells over 5m copies",
+          "imageUrl": "https://assets.reedpopcdn.com/introduction-slide-01.jpg/BROK/thumbnail/1200x630/introduction-slide-01.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-reportedly-set-to-cut-thousands-of-jobs",
+          "author": "Tom Phillips",
+          "description": "At least 11,000 jobs are expected to be lost at Microsoft this week, as the technology and gaming giant undergoes a fresh round of cost cutting.\r\n\n\r\nMicrosoft currently employs around 220,000 people worldwide. These latest job losses will equate to around five percent of its overall workforce, Sky News reported last night. \r\n\n\r\nIn response, Microsoft stated it \"does not comment on rumour or speculation\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-reportedly-set-to-cut-thousands-of-jobs",
+          "publishedOn": "2023-01-18T11:16:27.000Z",
+          "wordCount": 4623,
+          "title": "Microsoft reportedly set to cut thousands of jobs",
+          "imageUrl": "https://assets.reedpopcdn.com/microsoft_iHl2euK.jpg/BROK/thumbnail/1200x630/microsoft_iHl2euK.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/unity-lays-off-almost-300-staff",
+          "author": "Ed Nightingale",
+          "description": "Unity has laid off almost 300 of its staff due to current economic conditions.\r\n\n\r\nUnity CEO John Riccitiello shared a letter with staff (as reported by The Wall Street Journal, via GamesIndustry.biz), stating: \"We reassessed our objectives, strategies, goals and priorities in light of the current economic conditions. While we remain focused on the same vision, we decided that we need to be more selective in our investments to come out stronger as a company.\"\r\n\n\r\nAs a result, 284 people have lost their jobs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/unity-lays-off-almost-300-staff",
+          "publishedOn": "2023-01-18T11:13:14.000Z",
+          "wordCount": 4618,
+          "title": "Unity lays off almost 300 staff",
+          "imageUrl": "https://assets.reedpopcdn.com/U_Logo_Black_RGB.png/BROK/thumbnail/1200x630/U_Logo_Black_RGB.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/ultimate-sackboy-launches-next-month",
+          "author": "Tom Phillips",
+          "description": "Ultimate Sackboy, a new LittleBigPlanet spin-off starring PlayStation's adorable hessian humanoid, will launch for iPhone and Android devices next month on 21st February.\r\n\n\r\nThe mobile app contains miniature racetracks for Sackboy and his pals to run along, with a variety of head-to-head challenges, races, and enemies to defeat in exchange for a bulging wardrobe of clothing and other cosmetic items. \r\n\n\r\nYou can see it in action below:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ultimate-sackboy-launches-next-month",
+          "publishedOn": "2023-01-18T10:00:00.000Z",
+          "wordCount": 4639,
+          "title": "Ultimate Sackboy launches next month",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-122.jpg/BROK/thumbnail/1200x630/Untitled-122.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sony-reveals-top-downloaded-playstation-store-games-of-2022",
           "author": "Matt Wales",
@@ -5805,16 +5825,6 @@
           "wordCount": 4824,
           "title": "High on Life is now the most popular thing on Xbox Game Pass",
           "imageUrl": "https://assets.reedpopcdn.com/high-on-life-review-5.png/BROK/thumbnail/1600x900/format/jpg/quality/80/high-on-life-review-5.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-switch-joy-con-drift-due-to-design-flaw-uk-consumer-group-reports",
-          "author": "Ishraq Subhan",
-          "description": "A major new study from UK consumer group Which? has found evidence that the Nintendo Switch's infamous Joy-Con drift is likely caused by a mechanical fault, pointing to fundamental design flaws.\r\n\n\r\nThe research found that the Joy-Con's plastic circuit boards showed noticeable wear on the joystick slider contact points, despite only being used for months. It is this wear that ultimately results in drifting. \r\n\n\r\nIn addition, dust and other contaminants were found in the Switch's internal components, despite attempts by Nintendo at dustproofing said areas.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-switch-joy-con-drift-due-to-design-flaw-uk-consumer-group-reports",
-          "publishedOn": "2022-12-20T00:01:00.000Z",
-          "wordCount": 4698,
-          "title": "Nintendo Switch Joy-Con drift due to \"design flaw\", UK consumer group reports",
-          "imageUrl": "https://assets.reedpopcdn.com/joy-cons.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/joy-cons.jpg"
         }
       ]
     },
