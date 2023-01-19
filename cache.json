@@ -394,16 +394,6 @@
           "wordCount": 827,
           "title": "Ukraine Intercepting Russian Soldiers’ Cell Phone Calls",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/12/trojaned-windows-installer-targets-ukraine.html",
-          "author": null,
-          "description": "<p>Mandiant is <a href=\"https://www.mandiant.com/resources/blog/trojanized-windows-installers-ukrainian-government\">reporting</a> on a trojaned Windows installer that targets Ukrainian users. The installer was left on various torrent sites, presumably ensnaring people downloading pirated copies of the operating system:</p>\n<blockquote><p>Mandiant uncovered a socially engineered <a href=\"https://services.google.com/fh/files/blogs/perspectives_on_security_volume_one_digital.pdf\">supply chain</a> operation focused on Ukrainian government entities that leveraged trojanized ISO files masquerading as legitimate Windows 10 Operating System installers. The trojanized ISOs were hosted on Ukrainian- and Russian-language torrent file sharing sites. Upon installation of the compromised software, the malware gathers information on the compromised system and exfiltrates it. At a subset of victims, additional tools are deployed to enable further intelligence gathering. In some instances, we discovered additional payloads that were likely deployed following initial reconnaissance including the STOWAWAY, BEACON, and SPAREPART backdoors...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/12/trojaned-windows-installer-targets-ukraine.html",
-          "publishedOn": "2022-12-20T12:30:47.000Z",
-          "wordCount": 926,
-          "title": "Trojaned Windows Installer Targets Ukraine",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +402,116 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1911017",
+          "author": "Jonathan M. Gitlin",
+          "description": "From February, US diplomats and their staff will no longer use Times New Roman.",
+          "link": "https://arstechnica.com/?p=1911017",
+          "publishedOn": "2023-01-18T23:01:03.000Z",
+          "wordCount": 1737,
+          "title": "Time(s) for a change: State Department picks a new official typeface",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/font-typeface-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910286",
+          "author": "Jennifer Ouellette",
+          "description": "Gas chromatography-mass spectrometry ID'd the culprit as the volatile ketone 3-octanone.",
+          "link": "https://arstechnica.com/?p=1910286",
+          "publishedOn": "2023-01-18T22:25:57.000Z",
+          "wordCount": 2158,
+          "title": "Carnivorous oyster mushrooms can kill roundworms with “nerve gas in a lollipop”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/oysterTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910993",
+          "author": "Dan Goodin",
+          "description": "Criminal groups served allegedly include Conti, DarkSide, Phobos, and Hydra.",
+          "link": "https://arstechnica.com/?p=1910993",
+          "publishedOn": "2023-01-18T21:55:14.000Z",
+          "wordCount": 1868,
+          "title": "Authorities dismantle crypto exchange Bitzlato, allege it was cybercrime “haven”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/closed-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910975",
+          "author": "Beth Mole",
+          "description": "It's another positive sign for mRNA vaccines and the fight against RSV.",
+          "link": "https://arstechnica.com/?p=1910975",
+          "publishedOn": "2023-01-18T20:54:10.000Z",
+          "wordCount": 1788,
+          "title": "RSV vaccine for older adults is 84% effective, Moderna says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910919",
+          "author": "Scharon Harding",
+          "description": "Cuter, perhaps, but not vastly different from other Logitech cameras.",
+          "link": "https://arstechnica.com/?p=1910919",
+          "publishedOn": "2023-01-18T20:45:09.000Z",
+          "wordCount": 1778,
+          "title": "Logitech announces $70 webcams with USB-C, built-in shutters",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Logitech-Brio-300-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910867",
+          "author": "John Timmer",
+          "description": "A little of everything or an awkward balancing act?",
+          "link": "https://arstechnica.com/?p=1910867",
+          "publishedOn": "2023-01-18T20:31:33.000Z",
+          "wordCount": 2111,
+          "title": "Very fat tires, a battery, front and rear springs and… a hinge?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Screen-Shot-2023-01-18-at-2.52.16-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910951",
+          "author": "Jon Brodkin",
+          "description": "Tesla investors' lawyer tells jury Musk's lies cost \"regular people\" millions.",
+          "link": "https://arstechnica.com/?p=1910951",
+          "publishedOn": "2023-01-18T20:22:34.000Z",
+          "wordCount": 1793,
+          "title": "Musk lawyer argues false tweets were just “technical wordsmith inaccuracies”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-alex-spiro-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910927",
+          "author": "Kyle Orland",
+          "description": "WotC producer on leaked OGL v1.1: \"We are sorry. We got it wrong.\"",
+          "link": "https://arstechnica.com/?p=1910927",
+          "publishedOn": "2023-01-18T19:11:28.000Z",
+          "wordCount": 1764,
+          "title": "D&D maker promises to get player feedback for coming “open” license update",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/dnddiscuss-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910874",
+          "author": "Samuel Axon",
+          "description": "New smart home features headline the revived smart speaker.",
+          "link": "https://arstechnica.com/?p=1910874",
+          "publishedOn": "2023-01-18T18:38:47.000Z",
+          "wordCount": 1657,
+          "title": "Apple’s full-size HomePod is back with new features",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/HomePod-listing-image-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910856",
+          "author": "Ron Amadeo",
+          "description": "Strange parts bundles and a limited selection make it more PR than practical, though.",
+          "link": "https://arstechnica.com/?p=1910856",
+          "publishedOn": "2023-01-18T18:12:03.000Z",
+          "wordCount": 1731,
+          "title": "Samsung and iFixit now have parts for the Galaxy S22, Galaxy laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/19-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1910849",
+          "author": "Scharon Harding",
+          "description": "“We will have to do more with less,\" CEO Satya Nadella says.",
+          "link": "https://arstechnica.com/?p=1910849",
+          "publishedOn": "2023-01-18T18:09:27.000Z",
+          "wordCount": 1844,
+          "title": "Microsoft to lay off 10,000 workers, blames decelerated customer spending",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1246327785-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1910770",
           "author": "Kevin Purdy",
@@ -3451,16 +3551,6 @@
           "wordCount": 1672,
           "title": "Amazon agrees to deal with EU to end long-running data probes",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1229045925-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1902777",
-          "author": "Ars Staff",
-          "description": "Whether you're streaming games or joining Zoom meetings, you've got options.",
-          "link": "https://arstechnica.com/?p=1902777",
-          "publishedOn": "2022-12-20T12:00:29.000Z",
-          "wordCount": 1819,
-          "title": "Webcam buying guide: The Ars picks, from affordable to extravagant",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/DSC_4571-Edit-760x380.jpg"
         }
       ]
     },
@@ -3616,6 +3706,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-sims-4-goes-all-in-on-messy-bathrooms-and-sexy-pants-in-next-two-kit-dlc",
+          "author": "Matt Wales",
+          "description": "The ever-expanding Sims 4 continues its ever-expansion with official word of two new Kit packs arriving tomorrow, 19th January, this time focusing on messy bathrooms and sexy underpants.\r\n\n\r\nAdditional bathroom clutter comes courtesy of The Sims 4's sensibly titled Bathroom Clutter Kit, which promises to embrace the \"mess of daily life\". It's not all about chaos though; EA says to expect everything from \"cute wall decals for kids to grandma's dentures\", with enough scope among its addition to create an \"elegant retreat\" as well as an untameable toiletry explosions.\r\n\n\r\n\"Whether you want to leave makeup and combs scattered on the counter or give your Sims some additional drawers to keep them tidy,\" it explains, \"the choice is yours with this collection, featuring bathroom decor for all ages.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-sims-4-goes-all-in-on-messy-bathrooms-and-sexy-pants-in-next-two-kit-dlc",
+          "publishedOn": "2023-01-18T23:26:23.000Z",
+          "wordCount": 4986,
+          "title": "The Sims 4 does messy bathrooms and sexy pants in next two DLC Kit packs",
+          "imageUrl": "https://assets.reedpopcdn.com/sims-4-bathroom-clutter.png/BROK/thumbnail/1200x630/sims-4-bathroom-clutter.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-ceo-reportedly-apologises-for-ball-is-in-your-court-comments",
+          "author": "Matt Wales",
+          "description": "Ubisoft CEO Yves Guillemot has reportedly apologised for telling employees 'the ball was in their court' following disappointing financial results in the company's most recent quarter. However, senior management is also said to have rejected calls - highlighted in a recent union statement - for inflation-matching pay rises and a transition to a four-day week.\r\n\n\r\nGuillemot's controversial comments to Ubisoft staff came in an email last week, when he wrote, \"Today more than ever, I need your full energy and commitment to ensure we get back on the path to success. I am also asking that each of you be especially careful and strategic with your spending and initiatives, to ensure we're being as efficient and lean as possible. The ball is in your court to deliver this line-up on time and at the expected level of quality, and show everyone what we are capable of achieving.\"\r\n\n\r\nGuillemot is said to have addressed his choice of words - which many saw as a shifting of blame for Ubisoft's recent troubles onto employees - during a company-wide Q&A session held earlier today, as reported by Kotaku citing sources present during the meeting.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-ceo-reportedly-apologises-for-ball-is-in-your-court-comments",
+          "publishedOn": "2023-01-18T21:04:44.000Z",
+          "wordCount": 5018,
+          "title": "Ubisoft CEO reportedly apologises for \"ball is in your court\" comments",
+          "imageUrl": "https://assets.reedpopcdn.com/ubisoft-logo_9vscSD7.jpg/BROK/thumbnail/1200x630/ubisoft-logo_9vscSD7.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/steamworld-dev-unveiling-whats-next-for-series-in-video-showcase-next-week",
+          "author": "Matt Wales",
+          "description": "Following a couple of morse code teases earlier this week, SteamWorld developer Thunderful Games has announced it'll be revealing \"what's next for the series\" in a special video showcase scheduled to air on Monday, 23rd January.\r\n\n\r\nTo date, Thunderful has released five, radically different instalments in the celebrated SteamWorld series: SteamWorld Tower Defense, SteamWorld Dig 1 & 2, SteamWorld Heist, and SteamWorld Quest. A sixth game, SteamWorld Headhunter, was announced in 2021.\r\n\n\r\nLittle is known about Headhunter, but the developer described it as a \"stylised and colourful, third-person co-op action adventure\" at the time of its unveiling, noting it would mark the SteamWorld series' first foray into the heady world of 3D.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/steamworld-dev-unveiling-whats-next-for-series-in-video-showcase-next-week",
+          "publishedOn": "2023-01-18T19:35:29.000Z",
+          "wordCount": 4932,
+          "title": "SteamWorld dev unveiling \"what's next\" for series in broadcast next week",
+          "imageUrl": "https://assets.reedpopcdn.com/steamworld-dig_G13IDWY.jpg/BROK/thumbnail/1200x630/steamworld-dig_G13IDWY.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/powerwash-simulator-is-getting-a-free-tomb-raider-crossover-later-this-month",
           "author": "Matt Wales",
@@ -5895,46 +6015,6 @@
           "wordCount": 4630,
           "title": "Sifu headed to Steam and Xbox in March 2023",
           "imageUrl": "https://assets.reedpopcdn.com/sifu_20220129230717.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sifu_20220129230717.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-the-super-mario-bros-movie-trailer-recreated-with-n64-graphics",
-          "author": "Ishraq Subhan",
-          "description": "You either love it or you hate it, but if there's one certainty in this postmodern capitalist society, it's a movie adaption of a beloved franchise starring Chris Pratt.  \r\n\n\r\nAt least you can have fun with it, and that's exactly what YouTuber and animator King Bob Gaming did, having recreated the entire trailer with Nintendo 64 graphics. \r\n\n\r\nThe video is a near frame-by-frame recreation of the trailer, with authentic assets from Super Mario 64. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-the-super-mario-bros-movie-trailer-recreated-with-n64-graphics",
-          "publishedOn": "2022-12-20T12:21:05.000Z",
-          "wordCount": 4572,
-          "title": "Here's The Super Mario Bros. Movie trailer recreated with N64 graphics",
-          "imageUrl": "https://assets.reedpopcdn.com/Mario-Bros-Movie-Trailer...-but-it-was-made-on-the-Nintendo-64-0-26-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Mario-Bros-Movie-Trailer...-but-it-was-made-on-the-Nintendo-64-0-26-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-witcher-3-next-gen-on-pc-gets-hotfix-to-fix-teething-issues",
-          "author": "Ishraq Subhan",
-          "description": "The Witcher 3's next-gen update on PC has received a hotfix to address a number of the issues that accompanied the launch. \r\n\n\r\nAccording to the patch notes, the hotfix should \"improve overall stability and performance of the game, and fix GOG & Steam overlays.\" \r\n\n\r\nStability and performance improvements is of course the catch-all phrase used by developers to group a large number of small fixes, but we do know from reports of PC users that problems included framerate drops and slow texture loading. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-witcher-3-next-gen-on-pc-gets-hotfix-to-fix-teething-issues",
-          "publishedOn": "2022-12-20T11:04:07.000Z",
-          "wordCount": 4765,
-          "title": "The Witcher 3 next gen on PC gets hotfix to fix teething issues",
-          "imageUrl": "https://assets.reedpopcdn.com/geralt_witcher.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/geralt_witcher.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/canine-photography-game-pupperazzi-coming-to-nintendo-switch",
-          "author": "Victoria Kennedy",
-          "description": "Paw-don me, I didn't mean to inter-ruff your day, but I have some news to share with you: Pupperazzi, and all the dogs that come with it, will be bounding onto the Nintendo Switch early next year. \r\n\n\r\nSundae Month and publisher Kitfox Games announced this news as part of Nintendo's House of Indies: Holiday Event yesterday, promising Switch owners that soon they will be able to use their photography skills to snap all the best shots of shibas, terriers, labs, pugs, and more. \"You want 'em, WE GOT EM!\" the Pupperazzi team proclaimed.\r\n\n\r\nBut it is not just taking pictures. Along with getting nice photos of your canine compatriots, you will also be able to play fetch with them, dress them up in a variety of outfits, have a dance party (or should that be paw-ty) with them and \"terrorise them with vacuum cleaners\" (but would you really want to do that?). You can even see them in action at the skatepark - in fact, Pupperazzi's entire world is populated with dogs, dogs and yet more dogs. You can see what I mean in the trailer below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/canine-photography-game-pupperazzi-coming-to-nintendo-switch",
-          "publishedOn": "2022-12-20T10:51:13.000Z",
-          "wordCount": 4583,
-          "title": "Canine photography game Pupperazzi coming to Nintendo Switch",
-          "imageUrl": "https://assets.reedpopcdn.com/giantdogpic.png/BROK/thumbnail/1600x900/format/jpg/quality/80/giantdogpic.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/high-on-life-is-now-the-most-popular-thing-on-xbox-game-pass",
-          "author": "Tom Phillips",
-          "description": "Despite mixed reviews and launch day technical issues, foul-mouthed shooter High on Life has screamed to the top of Xbox Game Pass' most played list.\r\n\n\r\nSquanch Games and Justin Roiland's effort is now the most popular game in Microsoft's subscription - in both its PC and console catalogues. \r\n\n\r\nOn Xbox consoles, more people are playing High on Life through Game Pass than other popular titles such as Star Wars: The Skywalker Saga, FIFA 22 and Rainbow Six Siege. Indeed, it is currently being played by more people than any first-party Microsoft release, including Minecraft, Forza Horizon 5, Halo Infinite and Sea of Thieves. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/high-on-life-is-now-the-most-popular-thing-on-xbox-game-pass",
-          "publishedOn": "2022-12-20T10:46:47.000Z",
-          "wordCount": 4824,
-          "title": "High on Life is now the most popular thing on Xbox Game Pass",
-          "imageUrl": "https://assets.reedpopcdn.com/high-on-life-review-5.png/BROK/thumbnail/1600x900/format/jpg/quality/80/high-on-life-review-5.png"
         }
       ]
     },
