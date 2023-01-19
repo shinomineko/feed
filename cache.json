@@ -124,16 +124,6 @@
           "wordCount": 205,
           "title": "Pando",
           "imageUrl": "https://imgs.xkcd.com/comics/pando_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2714/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/cold_complaints.png\" title=\"Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'\" alt=\"Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'\" />",
-          "link": "https://xkcd.com/2714/",
-          "publishedOn": "2022-12-21T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Cold Complaints",
-          "imageUrl": "https://imgs.xkcd.com/comics/cold_complaints_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/01/security-analysis-of-threema.html",
+          "author": null,
+          "description": "<p>A group of Swiss researchers <a href=\"https://breakingthe3ma.app/files/Threema-PST22.pdf\">have published</a> an impressive security analysis of Threema.</p>\n<blockquote><p>We provide an extensive cryptographic analysis of Threema, a Swiss-based encrypted messaging application with more than 10 million users and 7000 corporate customers. We present seven different attacks against the protocol in three different threat models. As one example, we present a cross-protocol attack which breaks authentication in Threema and which exploits the lack of proper key separation between different sub-protocols. As another, we demonstrate a compression-based side-channel attack that recovers users&#8217; long-term private keys through observation of the size of Threema encrypted back-ups. We discuss remediations for our attacks and draw three wider lessons for developers of secure protocols...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/security-analysis-of-threema.html",
+          "publishedOn": "2023-01-19T12:21:31.000Z",
+          "wordCount": 926,
+          "title": "Security Analysis of Threema",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/01/ai-and-political-lobbying.html",
           "author": null,
@@ -3351,136 +3351,6 @@
           "wordCount": 1811,
           "title": "Elon Musk blames Twitter cost cuts on “$3 billion negative cash flow”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/musk-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906042",
-          "author": "Jon Brodkin",
-          "description": "Comcast reps didn't know the rules, told qualified applicants they weren't eligible.",
-          "link": "https://arstechnica.com/?p=1906042",
-          "publishedOn": "2022-12-20T23:15:54.000Z",
-          "wordCount": 2312,
-          "title": "Comcast agents mistakenly reject some poor people who qualify for free Internet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-comcast-router-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906077",
-          "author": "Benj Edwards",
-          "description": "Fictional travelogue shows man taking selfies in ancient Greece, Egypt, and more.",
-          "link": "https://arstechnica.com/?p=1906077",
-          "publishedOn": "2022-12-20T22:54:41.000Z",
-          "wordCount": 1674,
-          "title": "Man simulates time travel thanks to Stable Diffusion image synthesis",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/1pwnqjh38p5a1-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905791",
-          "author": "Jennifer Ouellette",
-          "description": "\"We don’t have any evidence to show that 13 Reasons Why had an effect on [teen] suicide.\"",
-          "link": "https://arstechnica.com/?p=1905791",
-          "publishedOn": "2022-12-20T22:30:57.000Z",
-          "wordCount": 1832,
-          "title": "Study: 2017 rise in teen suicide rates due to seasonal shifts, not 13 Reasons Why",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/reasons8-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906124",
-          "author": "Dan Goodin",
-          "description": "As Russia's invasion of Ukraine grinds on, the country's hackers expand their targets.",
-          "link": "https://arstechnica.com/?p=1906124",
-          "publishedOn": "2022-12-20T22:03:02.000Z",
-          "wordCount": 1864,
-          "title": "Kremlin-backed hackers targeted a “large” petroleum refinery in a NATO nation",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/oil-refinery-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906054",
-          "author": "Kevin Purdy",
-          "description": "To avoid cannibalizing supply for other Pi products, the next model must wait.",
-          "link": "https://arstechnica.com/?p=1906054",
-          "publishedOn": "2022-12-20T21:34:03.000Z",
-          "wordCount": 1593,
-          "title": "Raspberry Pi 5 not arriving in 2023 as company hopes for a “recovery year”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/gettyimages-457591080-594x594-1-594x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906034",
-          "author": "Doug Johnson",
-          "description": "Here’s a quick rundown of what came from this year’s biodiversity conference.",
-          "link": "https://arstechnica.com/?p=1906034",
-          "publishedOn": "2022-12-20T21:26:33.000Z",
-          "wordCount": 1865,
-          "title": "Nations agree to preserve 30 percent of nature by 2030",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1334442670-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906043",
-          "author": "Samuel Axon",
-          "description": "The Mac Studio, M1 iMac, M1 Mac mini, and Studio Display join the program.",
-          "link": "https://arstechnica.com/?p=1906043",
-          "publishedOn": "2022-12-20T20:56:30.000Z",
-          "wordCount": 1561,
-          "title": "Apple’s self-service repairs expand to desktops like iMac, Mac Studio",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/IMG_0159-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905958",
-          "author": "Scharon Harding",
-          "description": "Workstation-level power delivery makes Mini LED more attractive to power users.",
-          "link": "https://arstechnica.com/?p=1905958",
-          "publishedOn": "2022-12-20T20:37:52.000Z",
-          "wordCount": 1942,
-          "title": "Lenovo announces cheaper Mini LED monitors with 140 W power delivery",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/01_ThinkVision-P32p-30.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906010",
-          "author": "Ashley Belanger",
-          "description": "MSG Entertainment began using facial recognition at venues in 2018.",
-          "link": "https://arstechnica.com/?p=1906010",
-          "publishedOn": "2022-12-20T20:13:08.000Z",
-          "wordCount": 1678,
-          "title": "MSG defends using facial recognition to kick lawyer out of Rockettes show",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-497768798-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905825",
-          "author": "Kevin Purdy",
-          "description": "Fan brackets, laptop modules, miniatures, and other files, all in one place.",
-          "link": "https://arstechnica.com/?p=1905825",
-          "publishedOn": "2022-12-20T19:56:49.000Z",
-          "wordCount": 1612,
-          "title": "Framework, Noctua, and other brands add official 3D models to Printables",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/printables3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905904",
-          "author": "Ashley Belanger",
-          "description": "Louisiana and West Virginia join 17 states restricting access on state devices.",
-          "link": "https://arstechnica.com/?p=1905904",
-          "publishedOn": "2022-12-20T19:04:37.000Z",
-          "wordCount": 1652,
-          "title": "19 states choke TikTok on gov’t devices; feds push for nationwide restrictions",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1438215080-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904138",
-          "author": "Doug Johnson",
-          "description": "The UN biodiversity conference reminds us how little we know of the deep ocean.",
-          "link": "https://arstechnica.com/?p=1904138",
-          "publishedOn": "2022-12-20T18:45:33.000Z",
-          "wordCount": 1923,
-          "title": "The deep sea is an unexpected, but at-risk, trove of biodiversity",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-170956308-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905515",
-          "author": "Andrew Cunningham",
-          "description": "Opinion: Making the case against Apple's most expensive—and most ignored—Mac.",
-          "link": "https://arstechnica.com/?p=1905515",
-          "publishedOn": "2022-12-20T18:32:35.000Z",
-          "wordCount": 2279,
-          "title": "It might be time for Apple to throw in the towel on the Mac Pro",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2019-mac-pro-760x380.jpeg"
         }
       ]
     },
@@ -3636,6 +3506,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/forspokens-opening-hour-leaks-online",
+          "author": "Ed Nightingale",
+          "description": "The opening hour of Forspoken has leaked online, ahead of the game's release next week.\r\n\n\r\nIf you're looking to avoid spoilers, this is your warning to mute those keywords and stay away from reddit.\r\n\n\r\nForspoken is Square Enix's next big release and is a console exclusive on PlayStation 5, alongside a version for PC.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/forspokens-opening-hour-leaks-online",
+          "publishedOn": "2023-01-19T12:25:52.000Z",
+          "wordCount": 4751,
+          "title": "Forspoken's opening hour leaks online",
+          "imageUrl": "https://assets.reedpopcdn.com/Forspoken_Still_FREY.png/BROK/thumbnail/1200x630/Forspoken_Still_FREY.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/upcoming-the-last-of-us-scene-reveals-new-way-infection-spreads-and-just-how-close-joel-came",
+          "author": "Victoria Kennedy",
+          "description": "The Last of Us made its TV debut earlier this week, with reception so far praising the show for its faithful adaptation of the game it is based on. \r\n\n\r\nHowever, there are some areas of the show that deviate slightly from Naughty Dog's original telling of Joel and Ellie's story. The most notable of these, which was announced ahead of the show's release, was that there would no longer be spores spreading the Cordyceps infection. \r\n\n\r\nNow, upcoming dialogue between Pedro Pascal's Joel and Bella Ramsey's Ellie (shared as part of the BBC's audio review of the series) has revealed another way the virus can spread in the show. Please note, the below contains spoilers for The Last of Us.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/upcoming-the-last-of-us-scene-reveals-new-way-infection-spreads-and-just-how-close-joel-came",
+          "publishedOn": "2023-01-19T12:23:29.000Z",
+          "wordCount": 5200,
+          "title": "Upcoming The Last of Us scene reveals new way infection spreads, and just how close Joel came",
+          "imageUrl": "https://assets.reedpopcdn.com/TLOU-HBO-infection.jpg/BROK/thumbnail/1200x630/TLOU-HBO-infection.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/watch-the-moment-google-stadia-died",
+          "author": "Liv Ngan",
+          "description": "Google has officially pulled the plug on its cloud gaming service Stadia, which died earlier this morning.\r\n\nAnnounced in September, the shutdown was scheduled for 7:59am 19th January for us Brits, or 11:59pm 18th January Pacific Time. If you head to the Stadia website now, you'll be greeted with a short message which reads: \"Thank you for playing with us. Stadia was shut down on January 18, 2023.\"\nSome players commemorated the occasion by livestreaming their final moments on the service which, although somewhat anticlimactic, marked the end of Stadia's short and troubled lifetime.\n Read more",
+          "link": "https://www.eurogamer.net/watch-the-moment-google-stadia-died",
+          "publishedOn": "2023-01-19T12:04:44.000Z",
+          "wordCount": 4683,
+          "title": "Watch the moment Google Stadia died",
+          "imageUrl": "https://assets.reedpopcdn.com/2023-01-19.png/BROK/thumbnail/1200x630/2023-01-19.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-confirms-project-q-cancelled",
+          "author": "Tom Phillips",
+          "description": "Ubisoft has confirmed the cancellation of Project Q, the company's mysterious upcoming PVP battle arena game it teased last year.\r\n\n\r\nLast week, Ubisoft announced it had cancelled three \"unannounced\" titles and delayed its vapourware pirate ship game Skull and Bones yet again, on top of the four projects it previously abandoned last summer. \r\n\n\r\nNow, Eurogamer can confirm that Project Q was one of the games that Ubisoft most recently ditched.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-confirms-project-q-cancelled",
+          "publishedOn": "2023-01-19T12:04:29.000Z",
+          "wordCount": 4948,
+          "title": "Ubisoft confirms Project Q cancelled",
+          "imageUrl": "https://assets.reedpopcdn.com/projq_uXC6sTx.jpg/BROK/thumbnail/1200x630/projq_uXC6sTx.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/halo-veteran-joseph-staten-to-leave-343-industries",
+          "author": "Tom Phillips",
+          "description": "Joeseph Staten, veteran of Halo development at both Bungie and 343 Industries, is reportedly departing Microsoft's blockbuster space shooter franchise once again.\r\n\n\r\nStaten will remain at Microsoft but is no longer at its Halo studio 343 Industries, Bloomberg's Jason Schreier stated last night, after joining the company to ensure the beleaguered Halo Infinite made it out the door.\r\n\n\r\nLast night, reports indicated that Microsoft's enormous round of layoffs would impact several Xbox studios, with 343's Halo Infinite campaign team in particular \"hit hard\", according to Schreier.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-veteran-joseph-staten-to-leave-343-industries",
+          "publishedOn": "2023-01-19T11:40:06.000Z",
+          "wordCount": 4862,
+          "title": "Halo veteran Joseph Staten to leave 343 Industries",
+          "imageUrl": "https://assets.reedpopcdn.com/halo_cl0BNG9.jpg/BROK/thumbnail/1200x630/halo_cl0BNG9.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/ex-halo-infinite-developers-criticise-incompetent-leadership-at-microsoft",
+          "author": "Ed Nightingale",
+          "description": "Former 343 Industries employees have taken to social media to criticise Microsoft following a round of layoffs.\r\n\n\r\nYesterday, 10,000 Microsoft employees lost their jobs, including staff at Bethesda Games Studios, Gears of War developer The Coalition, and Halo maker 343 Industries.\r\n\r\n\n\r\nPatrick Wren, former senior multiplayer designer on Halo Infinite (and now working at Respawn on Jedi Survivor), was one such former employee who criticised the \"incompetent leadership up top\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ex-halo-infinite-developers-criticise-incompetent-leadership-at-microsoft",
+          "publishedOn": "2023-01-19T11:39:44.000Z",
+          "wordCount": 5071,
+          "title": "Ex-Halo Infinite developers criticise \"incompetent leadership\" at Microsoft",
+          "imageUrl": "https://assets.reedpopcdn.com/ss_139cc855c27fe902e58ba8e7af0aad1aee6ac876.1920x1080.jpg/BROK/thumbnail/1200x630/ss_139cc855c27fe902e58ba8e7af0aad1aee6ac876.1920x1080.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/as-apex-legends-dev-respawn-opens-up-about-skill-based-matchmaking-i-wish-activision-would-do-the-same-for-call-of-duty",
+          "author": "Wesley Yin-Poole",
+          "description": "This week, developer Respawn published a blog post pulling the curtain back on Apex Legends skill-based matchmaking, or SBMM. In the blog post, technical director Samy Duc dives deep into the inner workings of the battle royale's matchmaking system, explaining in granular detail why players end up facing the players they do. It's a fascinating exploration of one of the key features of any competitive multiplayer game, and Apex Legends players have certainly enjoyed the transparency.\r\n\n\r\nAs a Call of Duty player, I couldn't help but look at Respawn's blog post and wish Activision would do something similar.\r\n\n\r\nCall of Duty SBMM has been a topic of discussion for years, and with each new release in the series, the same vociferous back-and-forth emerges. I've reported on COD SBMM numerous times, usually when players get so disgruntled with it that they start to play the game in silly ways, such as deliberately losing in a bid to matchmake against lower-skilled players in subsequent lobbies. Activision has always taken a dim view of third-party websites and apps that let players try to game the system, too.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/as-apex-legends-dev-respawn-opens-up-about-skill-based-matchmaking-i-wish-activision-would-do-the-same-for-call-of-duty",
+          "publishedOn": "2023-01-19T09:14:27.000Z",
+          "wordCount": 5659,
+          "title": "As Apex Legends dev Respawn opens up about skill-based matchmaking, I wish Activision would do the same for Call of Duty",
+          "imageUrl": "https://assets.reedpopcdn.com/COD-again.jpg/BROK/thumbnail/1200x630/COD-again.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-and-warzone-20-season-2-delayed-as-devs-promise-several-changes",
+          "author": "Wesley Yin-Poole",
+          "description": "Activision has delayed Season 2 of Call of Duty Modern Warfare 2 and Warzone 2.0, promising \"several changes\" to address feedback from the community.\r\n\n\r\nSeason 2 was expected to launch on 1st February. In a tweet, Activision confirmed it will now launch 15th February.\r\n\n\"Our studio teams have been making several changes based on what we have heard from our player community,\" Activision said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-and-warzone-20-season-2-delayed-as-devs-promise-several-changes",
+          "publishedOn": "2023-01-19T07:58:34.000Z",
+          "wordCount": 4809,
+          "title": "Call of Duty Modern Warfare 2 and Warzone 2.0 Season 2 delayed as devs promise \"several changes\"",
+          "imageUrl": "https://assets.reedpopcdn.com/mw2-ghost.jpeg/BROK/thumbnail/1200x630/mw2-ghost.jpeg"
+        },
         {
           "id": "https://www.eurogamer.net/the-sims-4-goes-all-in-on-messy-bathrooms-and-sexy-pants-in-next-two-kit-dlc",
           "author": "Matt Wales",
