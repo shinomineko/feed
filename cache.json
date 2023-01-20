@@ -133,6 +133,16 @@
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
         {
+          "id": "https://www.monkeyuser.com/2023/would-you-rather/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2023/would-you-rather/",
+          "publishedOn": "2023-01-20T00:00:00.000Z",
+          "wordCount": 2414,
+          "title": "Would You Rather",
+          "imageUrl": "https://www.monkeyuser.com/assets/images/2023/257-would-you-rather.png"
+        },
+        {
           "id": "https://www.monkeyuser.com/2022/2022-year-in-review/",
           "author": null,
           "description": "Software development satire",
@@ -155,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/01/real-world-steganography.html",
+          "author": null,
+          "description": "<p>From an <a href=\"https://www.bbc.com/news/world-asia-china-64206950\">article</a> about Zheng Xiaoqing, an American convicted of spying for China:</p>\n<blockquote><p>According to a Department of Justice (DOJ) indictment, the US citizen hid confidential files stolen from his employers in the binary code of a digital photograph of a sunset, which Mr Zheng then mailed to himself.</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/real-world-steganography.html",
+          "publishedOn": "2023-01-20T12:25:18.000Z",
+          "wordCount": 674,
+          "title": "Real-World Steganography",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/01/security-analysis-of-threema.html",
           "author": null,
@@ -3411,56 +3431,6 @@
           "wordCount": 1717,
           "title": "Here’s why electric vehicles need EV-specific tires",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/ev-tires-green-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906174",
-          "author": "Jennifer Ouellette",
-          "description": "Increasing the inefficiency of physical activity could boost cardiovascular fitness.",
-          "link": "https://arstechnica.com/?p=1906174",
-          "publishedOn": "2022-12-21T23:30:51.000Z",
-          "wordCount": 2165,
-          "title": "John Cleese’s classic “silly walk” burns more calories than a normal gait",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/python2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906375",
-          "author": "Dan Goodin",
-          "description": "Code stored on GitHub was copied after threat actor gained unauthorized access.",
-          "link": "https://arstechnica.com/?p=1906375",
-          "publishedOn": "2022-12-21T22:50:53.000Z",
-          "wordCount": 1669,
-          "title": "Okta says source code for Workforce Identity Cloud service was copied",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/source-code-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906301",
-          "author": "John Timmer",
-          "description": "Nan Madol, a strange site in the Pacific, may be on an island that's sinking.",
-          "link": "https://arstechnica.com/?p=1906301",
-          "publishedOn": "2022-12-21T19:35:21.000Z",
-          "wordCount": 2056,
-          "title": "Enigmatic canal-filled ruins may have been above water when built",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/image-8-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1904508",
-          "author": "Andrew Cunningham",
-          "description": "Equal parts mobile workstation and grown-up gaming laptop.",
-          "link": "https://arstechnica.com/?p=1904508",
-          "publishedOn": "2022-12-21T19:07:33.000Z",
-          "wordCount": 1999,
-          "title": "Review: ThinkPad X1 Extreme Gen 5 is impressively fast, with the right settings",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0790-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906278",
-          "author": "Ashley Belanger",
-          "description": "Loyal gamers extremely vulnerable to potential Microsoft monopoly, lawsuit says.",
-          "link": "https://arstechnica.com/?p=1906278",
-          "publishedOn": "2022-12-21T18:28:10.000Z",
-          "wordCount": 1970,
-          "title": "Microsoft sued by Call of Duty gamers opposing Activision merger",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1447492154-760x380.jpg"
         }
       ]
     },
@@ -3574,16 +3544,6 @@
           "wordCount": 3554,
           "title": "Blog: Kubernetes 1.26: Support for Passing Pod fsGroup to CSI Drivers At Mount Time",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/",
-          "author": null,
-          "description": "Authors: Andrew Sy Kim (Google), Dixita Narang (Google)\nKubernetes v1.26 introduced generally available (GA) support for kubelet credential\nprovider plugins,\noffering an extensible plugin framework to dynamically fetch credentials\nfor any container image registry.\nBackground\nKubernetes supports the ability to dynamically fetch credentials for a container registry service.\nPrior to Kubernetes v1.20, this capability was compiled into the kubelet and only available for\nAmazon Elastic Container Registry, Azure Container Registry, and Google Cloud Container Registry.\n \nFigure 1: Kubelet built-in credential provider support for Amazon Elastic Container Registry, Azure Container Registry, and Google Cloud Container Registry.\nKubernetes v1.20 introduced alpha support for kubelet credential provide…",
-          "link": "https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/",
-          "publishedOn": "2022-12-22T00:00:00.000Z",
-          "wordCount": 3832,
-          "title": "Blog: Kubernetes v1.26: GA Support for Kubelet Credential Providers",
-          "imageUrl": null
         }
       ]
     },
@@ -3615,6 +3575,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/layoffs-continue-as-google-axes-12000",
+          "author": "Tom Phillips",
+          "description": "Google has become the latest technology company to announce mass layoffs, as it today told employees it was eliminating 12,000 roles.\r\n\n\r\nEmployees were informed of the redundancies this morning via email, in a message from Google and Alphabet boss Sundar Pichai that was also posted to the company's blog. \r\n\n\r\nTitled \"A difficult decision to set us up for the future\", the post blamed the job losses on \"difficult economic cycles\". Google previously hired staff based on the \"dramatic growth\" it had seen over the past two years, Pichai  stated, which now did not reflect the \"economic reality\" today.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/layoffs-continue-as-google-axes-12000",
+          "publishedOn": "2023-01-20T12:17:26.000Z",
+          "wordCount": 4601,
+          "title": "Layoffs continue, as Google axes 12,000",
+          "imageUrl": "https://assets.reedpopcdn.com/google-stadia-connect-gamescom-2019-live-report-1566221510039.jpg/BROK/thumbnail/1200x630/google-stadia-connect-gamescom-2019-live-report-1566221510039.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/grand-theft-auto-trilogy-released-on-steam-in-sorry-state",
+          "author": "Ed Nightingale",
+          "description": "Grand Theft Auto: The Trilogy - The Definitive Edition has been released on Steam, with support for the Steam Deck.\r\n\n\r\nHowever, it appears the release still contains bugs from the game's poorly received release in 2021.\r\n\n\r\nAll three games are currently available as a bundle and individually with 50 percent off as part of a larger Rockstar sale, but reviews from Steam users are mixed.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/grand-theft-auto-trilogy-released-on-steam-in-sorry-state",
+          "publishedOn": "2023-01-20T12:09:04.000Z",
+          "wordCount": 4913,
+          "title": "Grand Theft Auto trilogy released on Steam in sorry state",
+          "imageUrl": "https://assets.reedpopcdn.com/rockstars-grand-theft-auto-trilogy-finally-official-and-launching-later-this-year-1633708978507.jpg/BROK/thumbnail/1200x630/rockstars-grand-theft-auto-trilogy-finally-official-and-launching-later-this-year-1633708978507.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/majority-of-game-devs-see-harassment-from-players-as-major-problem-survey-claims",
+          "author": "Ed Nightingale",
+          "description": "A majority of game developers see harassment from players as a major problem for the industry.\r\n\n\r\nThat's according to a new State of the Game 2023 survey from the Game Developers Conference and its affiliate Game Developer.\r\n\n\r\nOf the 2300 developers surveyed, 91 percent said player harassment and toxicity towards developers is an issue - 42 percent said it's a \"very serious\" issue.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/majority-of-game-devs-see-harassment-from-players-as-major-problem-survey-claims",
+          "publishedOn": "2023-01-20T11:28:04.000Z",
+          "wordCount": 4854,
+          "title": "Majority of game devs see harassment from players as major problem, survey claims",
+          "imageUrl": "https://assets.reedpopcdn.com/gdc-2023-1024x502.png/BROK/thumbnail/1200x630/gdc-2023-1024x502.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/ex-sega-developer-highlights-lack-of-credit-for-translators",
+          "author": "Tom Phillips",
+          "description": "A former Sega localisation specialist has criticised the lack of credit for French, Italian, German and Spanish (FIGS) language translators in Persona 3 Portable and Persona 4 Golden, which launched for PC and modern platforms this week. \r\n\n\r\nKatrina Leonoudakis worked on the games at Sega until her departure from the company, and said she had urged the publisher to ensure the games' translation team made it into the game's credits. \r\n\n\r\n\"I am absolutely outraged. I was the Localisation Coordinator on the project up until I left Sega, constantly in connection with the FIGS teams,\" Leonoudakis wrote on Twitter last night. \"I told the team who took over for me to credit the FIGS team. They worked incredibly hard to localise TWO GAMES. Unbelievable.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ex-sega-developer-highlights-lack-of-credit-for-translators",
+          "publishedOn": "2023-01-20T11:27:59.000Z",
+          "wordCount": 4814,
+          "title": "Ex-Sega developer highlights lack of credit for translators",
+          "imageUrl": "https://assets.reedpopcdn.com/Persona-4-Golden-test-answers%2C-including-how-to-ace-all-exams-and-class-quiz-questions-cover.jpg/BROK/thumbnail/1200x630/Persona-4-Golden-test-answers%2C-including-how-to-ace-all-exams-and-class-quiz-questions-cover.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-warzone-20-to-bring-back-1v1-gulag",
+          "author": "Wesley Yin-Poole",
+          "description": "Call of Duty: Warzone 2.0 will bring back a 1v1 Gulag with the delayed launch of Season 2, its developer has said.\r\n\n\"1v1s are back in Battle Royale,\" Warzone 2.0 co-developers Infinity Ward and Raven Software tweeted. Expect more information in a blog post next week.\r\n\n\r\nOne of the original Warzone's best and most popular features was its 1v1 Gulag, which gave players a straightforward battle in a tight arena to potentially fight their way back onto the battle royale map after death.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-warzone-20-to-bring-back-1v1-gulag",
+          "publishedOn": "2023-01-20T10:43:21.000Z",
+          "wordCount": 4791,
+          "title": "Call of Duty: Warzone 2.0 to bring back 1v1 Gulag",
+          "imageUrl": "https://assets.reedpopcdn.com/warzone_uo1HDw8.jpg/BROK/thumbnail/1200x630/warzone_uo1HDw8.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/wizards-of-the-coast-apologises-for-dungeons-dragons-open-gaming-license-fiasco",
           "author": "Matt Wales",
