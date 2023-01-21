@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/01/friday-squid-blogging-another-giant-squid-captured-on-video.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.sciencealert.com/couple-captures-rare-footage-of-a-giant-squid-swimming-off-the-coast-of-japan\">Here&#8217;s</a> a new video of a giant squid, filmed in the Sea of Japan.</p>\n<p>I believe it&#8217;s injured. It&#8217;s so close to the surface, and not really moving very much.</p>\n<blockquote><p>&#8220;We didn&#8217;t see the kinds of agile movements that many fish and marine creatures normally show,&#8221; he said. &#8220;Its tentacles and fins were moving very slowly.&#8221;</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/friday-squid-blogging-another-giant-squid-captured-on-video.html",
+          "publishedOn": "2023-01-20T22:00:55.000Z",
+          "wordCount": 770,
+          "title": "Friday Squid Blogging: Another Giant Squid Captured on Video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/01/real-world-steganography.html",
           "author": null,
           "description": "<p>From an <a href=\"https://www.bbc.com/news/world-asia-china-64206950\">article</a> about Zheng Xiaoqing, an American convicted of spying for China:</p>\n<blockquote><p>According to a Department of Justice (DOJ) indictment, the US citizen hid confidential files stolen from his employers in the binary code of a digital photograph of a sunset, which Mr Zheng then mailed to himself.</p></blockquote>",
@@ -404,16 +414,6 @@
           "wordCount": 682,
           "title": "Hacking the JFK Airport Taxi Dispatch System",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/12/critical-microsoft-code-execution-vulnerability.html",
-          "author": null,
-          "description": "<p>A critical code-execution vulnerability in Microsoft Windows was patched in September. It seems that researchers <a href=\"https://arstechnica.com/information-technology/2022/12/critical-windows-code-execution-vulnerability-went-undetected-until-now/\">just realized</a> how serious it was (and is):</p>\n<blockquote><p>Like EternalBlue, CVE-2022-37958, as the latest vulnerability is tracked, allows attackers to execute malicious code with no authentication required. Also, like EternalBlue, it&#8217;s wormable, meaning that a single exploit can trigger a chain reaction of self-replicating follow-on exploits on other vulnerable systems. The wormability of EternalBlue allowed WannaCry and several other attacks to spread across the world in a matter of minutes with no user interaction required...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/12/critical-microsoft-code-execution-vulnerability.html",
-          "publishedOn": "2022-12-22T12:01:37.000Z",
-          "wordCount": 876,
-          "title": "Critical Microsoft Code-Execution Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +422,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1911612",
+          "author": "Jon Brodkin",
+          "description": "Musk denies impact on Tesla stock price in case over false \"funding secured\" tweet.",
+          "link": "https://arstechnica.com/?p=1911612",
+          "publishedOn": "2023-01-20T23:22:39.000Z",
+          "wordCount": 2035,
+          "title": "Musk testifies in fraud trial, points out that not everyone believes what he says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-musk-court-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1911551",
+          "author": "Ron Amadeo",
+          "description": "\"We've been doing everything we can to fix this,\" says school official.",
+          "link": "https://arstechnica.com/?p=1911551",
+          "publishedOn": "2023-01-20T23:20:39.000Z",
+          "wordCount": 1769,
+          "title": "US school runs lights 24/7/365: The smart lights have been broken since 2021",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/31-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1911594",
+          "author": "Dan Goodin",
+          "description": "The shortcoming has left users susceptible to malicious bootloaders for 18 months.",
+          "link": "https://arstechnica.com/?p=1911594",
+          "publishedOn": "2023-01-20T23:00:52.000Z",
+          "wordCount": 1947,
+          "title": "300+ models of MSI motherboards have Secure Boot turned off. Is yours affected?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1911591",
+          "author": "Beth Mole",
+          "description": "Shkreli's latest company, Druglike, may run afoul of his lifetime pharma ban.",
+          "link": "https://arstechnica.com/?p=1911591",
+          "publishedOn": "2023-01-20T22:21:48.000Z",
+          "wordCount": 1716,
+          "title": "FTC: Shkreli may have violated lifetime pharma ban, should be held in contempt",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/02/Screen-Shot-2016-02-04-at-6.11.06-PM-640x215.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1911531",
+          "author": "Ashley Belanger",
+          "description": "Mods tell SCOTUS that Reddit's special formula depends on Section 230 immunity.",
+          "link": "https://arstechnica.com/?p=1911531",
+          "publishedOn": "2023-01-20T19:29:35.000Z",
+          "wordCount": 1683,
+          "title": "Supreme Court allows Reddit mods to anonymously defend Section 230",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1237366957-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1911474",
           "author": "Ron Amadeo",
@@ -3491,16 +3541,6 @@
           "wordCount": 1565,
           "title": "Mastodon is hurtling toward a tipping point",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/mastodon-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1898684",
-          "author": "Jim Resnick",
-          "description": "The differences between ICE vehicles and EVs go all the way down to the tarmac.",
-          "link": "https://arstechnica.com/?p=1898684",
-          "publishedOn": "2022-12-22T11:45:38.000Z",
-          "wordCount": 1717,
-          "title": "Here’s why electric vehicles need EV-specific tires",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/ev-tires-green-760x380.jpg"
         }
       ]
     },
@@ -3645,6 +3685,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/marvels-avengers-reportedly-announcing-end-of-development-as-early-as-next-week",
+          "author": "Matt Wales",
+          "description": "Crystal Dynamics is reportedly preparing to announce the end of development on its beleaguered live-service superhero action-adventure Marvel's Avengers, with official news said to be due \"as early as next week\".\r\n\n\r\nThat's according to reliable Marvel's Avengers leaker Miller Ross, who, citing sources at Crystal Dynamics in a story for Exputer, says the studio had initially intended to continue supporting the game into the back half of 2023, but recent events surrounding lead developer Brian Waggoner - who has reportedly now left the company after he was found to have posted racist, ableist, and homophobic tweets - has accelerated the project's demise.\r\n\n\r\nRoss' sources say Waggoner will not be replaced following his departure, leaving only a \"small team\" of developers still working on Marvel's Avengers, most of whom are already sharing their time with other Crystal Dynamics projects, including Amazon's Tomb Raider.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/marvels-avengers-reportedly-announcing-end-of-development-as-early-as-next-week",
+          "publishedOn": "2023-01-20T21:47:36.000Z",
+          "wordCount": 4970,
+          "title": "Marvel's Avengers reportedly announcing end of development \"as early as next week\"",
+          "imageUrl": "https://assets.reedpopcdn.com/marvels-avengers-is-increasing-the-grind-to-level-up-in-next-update-1614885105046.jpg/BROK/thumbnail/1200x630/marvels-avengers-is-increasing-the-grind-to-level-up-in-next-update-1614885105046.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/the-witcher-3s-next-gen-version-getting-physical-release-on-xbox-series-x-and-ps5",
           "author": "Matt Wales",
@@ -6064,86 +6114,6 @@
           "wordCount": 4776,
           "title": "343 Industries reflects on one year of Halo Infinite",
           "imageUrl": "https://assets.reedpopcdn.com/winter-update-halo-i.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/winter-update-halo-i.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-part-1-ps5-firefly-edition-finally-available-in-the-uk-costs-100",
-          "author": "Victoria Kennedy",
-          "description": "After a period of exclusivity in the US, the PlayStation 5 Firefly Edition of The Last of Us Part 1 is coming to the UK.\r\n\n\r\nIf you are interested in getting your hands on this edition - which comes with the base game, its prequel chapter Left Behind, the American Dreams comic series (which itself has new cover art), a SteelBook display case, and a variety of early unlocks for the game - you can head over to the PlayStation store to pre-order a copy.\nIts release date is currently listed as Thursday 26th January, 2023.\n Read more",
-          "link": "https://www.eurogamer.net/the-last-of-us-part-1-ps5-firefly-edition-finally-available-in-the-uk-costs-100",
-          "publishedOn": "2022-12-22T12:21:49.000Z",
-          "wordCount": 5028,
-          "title": "The Last of Us Part 1 PS5 Firefly Edition finally available in the UK, costs £100",
-          "imageUrl": "https://assets.reedpopcdn.com/tloups5-firefly.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tloups5-firefly.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mario-kart-8s-lakitu-now-drops-you-off-in-the-right-location-in-london-loop",
-          "author": "Ishraq Subhan",
-          "description": "Mario Kart 8 Deluxe received a small patch following its big Wave 3 update, which fixed a couple of bug fixes. \r\n\n\r\nThe first fix concerns an issue where the image would get \"choppy\" when playing online in Berlin Byways. \r\n\n\r\nThe second concerns an issue when playing London Loop, where Lakitu would not drop you off in the right place if you fell off the course. Lakitu has since visited Specsavers. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/mario-kart-8s-lakitu-now-drops-you-off-in-the-right-location-in-london-loop",
-          "publishedOn": "2022-12-22T12:11:04.000Z",
-          "wordCount": 4701,
-          "title": "Mario Kart 8's Lakitu now drops you off in the right location in London Loop",
-          "imageUrl": "https://assets.reedpopcdn.com/lakitu.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/lakitu.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/cowabunga-snes-classic-tmnt-4-turtles-in-time-gets-online-multiplayer",
-          "author": "Wesley Yin-Poole",
-          "description": "SNES classic Teenage Mutant Ninja Turtles 4: Turtles in Time just got online multiplayer.\r\n\n\r\nIt comes via a beefy update for the excellent Teenage Mutant Ninja Turtles: The Cowabunga Collection.\r\n\n\r\nWhile Turtles in Time is a truly radical couch co-op brawler, now you can take it into the brave new world of online play, which, if you'd have told 11-year-old me would be a thing back when Turtles in Time first launched in 1992, well, I'd have replied: \"what's online?\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/cowabunga-snes-classic-tmnt-4-turtles-in-time-gets-online-multiplayer",
-          "publishedOn": "2022-12-22T12:07:15.000Z",
-          "wordCount": 5118,
-          "title": "Cowabunga! SNES classic TMNT 4: Turtles in Time gets online multiplayer",
-          "imageUrl": "https://assets.reedpopcdn.com/turtles_xSvUXiT.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/turtles_xSvUXiT.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/for-the-first-time-blizzard-issues-a-world-of-warcraft-roadmap-spanning-an-entire-year",
-          "author": "Wesley Yin-Poole",
-          "description": "Blizzard has issued a World of Warcraft roadmap spanning an entire year.\r\n\n\r\nIn a move welcomed by fans of the 18-year-old massively multiplayer online role-playing game, Blizzard told players what to expect throughout 2023 and the road ahead for recently-released expansion Dragonflight.\r\n\n\r\nSix content updates are set to go live throughout 2023, Blizzard said in a blog post, the first of which is right around the corner and adds the recently-announced Trading Post, new transmog options for grey and white gear, and additional world content.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/for-the-first-time-blizzard-issues-a-world-of-warcraft-roadmap-spanning-an-entire-year",
-          "publishedOn": "2022-12-22T11:35:20.000Z",
-          "wordCount": 4601,
-          "title": "For the first time, Blizzard issues a World of Warcraft roadmap spanning an entire year",
-          "imageUrl": "https://assets.reedpopcdn.com/wow_9XWAZK4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wow_9XWAZK4.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-witcher-season-3-gives-henry-cavills-geralt-a-heroic-sendoff-showrunner-says",
-          "author": "Victoria Kennedy",
-          "description": "Despite not being written intentionally this way, The Witcher's third season gives Henry Cavill's Geralt of Rivia a \"heroic sendoff\". \r\n\n\r\nThat's according to series creator and showrunner Lauren Hissrich. Talking to EW, Hissrich reflected on Cavill's time on the show, saying the team wanted to \"honour that appropriately\".\r\n\n\r\nAccording to Hissrich, season three of The Witcher has taken inspiration from author Andrzej Sapkowski's fourth book, Time of Contempt.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-witcher-season-3-gives-henry-cavills-geralt-a-heroic-sendoff-showrunner-says",
-          "publishedOn": "2022-12-22T11:30:27.000Z",
-          "wordCount": 4975,
-          "title": "The Witcher Season 3 gives Henry Cavill's Geralt a \"heroic sendoff\", showrunner says",
-          "imageUrl": "https://assets.reedpopcdn.com/HC-as-Geralt-the-witcher.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/HC-as-Geralt-the-witcher.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/500-public-comments-to-the-cma-on-microsoft-activision-deal-were-abusive-or-unintelligible",
-          "author": "Ishraq Subhan",
-          "description": "Gamers were given their first opportunity to have their say on Microsoft's proposed acquisition of Activision Blizzard in a public consultation with the UK's Competition and Markets Authority. \r\n\n\r\nSo how did they conduct themselves outside of the gaming bubble? With abuse and unintelligence of course. \r\n\n\r\nAccording to the CMA, it received approximately 2600 emails, around 500 of which \"contained abusive content (with no other substantive content), or were blank, unintelligible, stated to be from non-UK consumers, or not in English\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/500-public-comments-to-the-cma-on-microsoft-activision-deal-were-abusive-or-unintelligible",
-          "publishedOn": "2022-12-22T11:18:35.000Z",
-          "wordCount": 4901,
-          "title": "500 public comments to the CMA on Microsoft-Activision deal were abusive or unintelligible",
-          "imageUrl": "https://assets.reedpopcdn.com/activision-ensmble.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-ensmble.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/remember-ps3-hacker-geohot-who-elon-musk-hired-to-help-fix-twitter-he-quit",
-          "author": "Victoria Kennedy",
-          "description": "In just shy of a month, George \"Geohot\" Hotz has resigned from Twitter.\r\n\n\r\nFor a quick recap, the former hacker was hired by Elon Musk in November to \"fix\" Twitter. \r\n\n\r\n\"That's what Elon told me my job was, and I will try my hardest to do it,\" Hotz shared (via a tweet, of course) following the news of his new position. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/remember-ps3-hacker-geohot-who-elon-musk-hired-to-help-fix-twitter-he-quit",
-          "publishedOn": "2022-12-22T10:54:24.000Z",
-          "wordCount": 4725,
-          "title": "Remember PS3 hacker Geohot who Elon Musk hired to help fix Twitter? He quit",
-          "imageUrl": "https://assets.reedpopcdn.com/George_Hotz_at_TechCrunch_Disrupt.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/George_Hotz_at_TechCrunch_Disrupt.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/square-enix-ditches-nintendo-switch-racer-chocobo-gp-after-just-nine-months",
-          "author": "Wesley Yin-Poole",
-          "description": "Square Enix has announced an end to \"large scale updates\" for embattled Nintendo Switch racer Chocobo GP just nine months after launch.\r\n\n\r\nWhile the game will remain playable and rankings will continue without the use of prize pass levels, no new characters or maps will be released, effectively ending support following the conclusion of Season 5.\r\n\n\r\nMeanwhile, sales of mythril, Chocobo GP's premium currency, have been discontinued. The in-game mythril shop will disappear on 6th January. All purchased mythril becomes \"invalid\" then, too. Square Enix said it will not issue refunds for purchased mythril.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/square-enix-ditches-nintendo-switch-racer-chocobo-gp-after-just-nine-months",
-          "publishedOn": "2022-12-22T10:36:43.000Z",
-          "wordCount": 4591,
-          "title": "Square Enix ditches Nintendo Switch racer Chocobo GP after just nine months",
-          "imageUrl": "https://assets.reedpopcdn.com/nswitch_chocobogp_01.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nswitch_chocobogp_01.jpg"
         }
       ]
     },
@@ -6152,6 +6122,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=69657",
+          "author": "Mike Linksvayer",
+          "description": "We’re more excited than ever about what the future holds and the role open source will continue to play in solving critical societal challenges.",
+          "link": "https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/",
+          "publishedOn": "2023-01-20T19:00:20.000Z",
+          "wordCount": 1061,
+          "title": "Unpacking the value of open source and code collaboration",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Policy-Open-Source@2x.png?fit=2400%2C1260"
+        },
         {
           "id": "https://github.blog/?p=69654",
           "author": "Matt Cooper",
