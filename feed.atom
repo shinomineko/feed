@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-21T06:25:53.047Z</updated>
+    <updated>2023-01-21T12:28:17.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Publisher’s Weekly Review of A Hacker’s Mind]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/01/publishers-weekly-review-of-a-hackers-mind.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/01/publishers-weekly-review-of-a-hackers-mind.html"/>
+        <updated>2023-01-21T12:18:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><i>Publisher&#8217;s Weekly</i> <a href="https://www.publishersweekly.com/9780393866667"> reviewed</a> <i>A Hacker&#8217;s Mind</i>&#8212;and it&#8217;s a starred review!</p>
+<blockquote><p>&#8220;Hacking is something that the rich and powerful do, something that reinforces existing power structures,&#8221; contends security technologist Schneier (<i>Click Here to Kill Everybody</i>) in this excellent survey of exploitation. Taking a broad understanding of hacking as an &#8220;activity allowed by the system that subverts the&#8230; system,&#8221; Schneier draws on his background analyzing weaknesses in cybersecurity to examine how those with power take advantage of financial, legal, political, and cognitive systems. He decries how venture capitalists “hack” market dynamics by subverting the pressures of supply and demand, noting that venture capital has kept Uber afloat despite the company having not yet turned a profit. Legal loopholes constitute another form of hacking, Schneier suggests, discussing how the inability of tribal courts to try non-Native individuals means that many sexual assaults of Native American women go unprosecuted because they were committed by non-Native American men. Schneier outlines strategies used by corporations to capitalize on neural processes and &#8220;hack&#8230; our attention circuits,&#8221; pointing out how Facebook&#8217;s algorithms boost content that outrages users because doing so increases engagement. Elegantly probing the mechanics of exploitation, Schneier makes a persuasive case that &#8220;we need society&#8217;s rules and laws to be as patchable as your computer.&#8221; With lessons that extend far beyond the tech world, this has much to offer...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phasmophobia gets set for a progression wipe to "make way for an all-new levelling system"]]></title>
+        <id>https://www.eurogamer.net/phasmophobia-gets-set-for-a-progression-wipe-to-make-way-for-an-all-new-levelling-system</id>
+        <link href="https://www.eurogamer.net/phasmophobia-gets-set-for-a-progression-wipe-to-make-way-for-an-all-new-levelling-system"/>
+        <updated>2023-01-21T12:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Big changes are on the way to ghost hunting sim, Phasmophobia, including a full progression wipe in order to usher in a new levelling system.
+
+In a Steam update earlier this week, Kinetic Games outlined what was ahead for intrepid ghosthunters when V8.1 "and onwards" roll out later this year, including new difficulties, challenge mode, and a shop update.
+
+Noting that any and all information remains a work in progress and is subject to change at any time, Kinetic confirmed that "progress part 1; V9.0" will be the next "major" update, coming "shortly" after v.8.1 rolls out. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Musk testifies in fraud trial, points out that not everyone believes what he says]]></title>
         <id>https://arstechnica.com/?p=1911612</id>
@@ -7926,98 +7953,6 @@ Elsewhere, Bethesda's online-focused RPG Fallout 76 joins PS Plus Essential next
 Read more]]></summary>
         <author>
             <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pando]]></title>
-        <id>https://xkcd.com/2715/</id>
-        <link href="https://xkcd.com/2715/"/>
-        <updated>2022-12-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/pando.png" title="The presents under the tree are actually a single gift connected by an underground ribbon system." alt="The presents under the tree are actually a single gift connected by an underground ribbon system." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.26: Support for Passing Pod fsGroup to CSI Drivers At Mount Time]]></title>
-        <id>https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/</id>
-        <link href="https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/"/>
-        <updated>2022-12-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Fabio Bertinatto (Red Hat), Hemant Kumar (Red Hat)
-Delegation of fsGroup to CSI drivers was first introduced as alpha in Kubernetes 1.22,
-and graduated to beta in Kubernetes 1.25.
-For Kubernetes 1.26, we are happy to announce that this feature has graduated to
-General Availability (GA).
-In this release, if you specify a fsGroup in the
-security context,
-for a (Linux) Pod, all processes in the pod's containers are part of the additional group
-that you specified.
-In previous Kubernetes releases, the kubelet would always apply the
-fsGroup ownership and permission changes to files in the volume according to the policy
-you specified in the Pod's .spec.securityContext.fsGroupChangePolicy field.
-Starting with Kubernetes 1.26, CSI drivers have the option to apply the fsGroup settings durin…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LastPass users: Your info and password vault data are now in hackers’ hands]]></title>
-        <id>https://arstechnica.com/?p=1906575</id>
-        <link href="https://arstechnica.com/?p=1906575"/>
-        <updated>2022-12-22T22:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Password manager says breach it disclosed in August was much worse than thought.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With voice assistants in trouble, Home Assistant starts a local alternative]]></title>
-        <id>https://arstechnica.com/?p=1906533</id>
-        <link href="https://arstechnica.com/?p=1906533"/>
-        <updated>2022-12-22T22:29:20.000Z</updated>
-        <summary type="html"><![CDATA[With Big Tech reconsidering voice profitability, Home Assistant enters the fray.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok cops to running “covert surveillance campaign” on Western journalists]]></title>
-        <id>https://arstechnica.com/?p=1906558</id>
-        <link href="https://arstechnica.com/?p=1906558"/>
-        <updated>2022-12-22T21:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Fired employees “misused their authority to obtain access to TikTok user data.”]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backup Soyuz can’t get to ISS before late February]]></title>
-        <id>https://arstechnica.com/?p=1906530</id>
-        <link href="https://arstechnica.com/?p=1906530"/>
-        <updated>2022-12-22T19:38:46.000Z</updated>
-        <summary type="html"><![CDATA[In the wake of a Soyuz coolant loss, NASA and Roscosmos still exploring options.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blu-ray player gathering dust? Turn it into a laser-scanning microscope]]></title>
-        <id>https://arstechnica.com/?p=1906446</id>
-        <link href="https://arstechnica.com/?p=1906446"/>
-        <updated>2022-12-22T18:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Not as powerful as a commerical one, but thousands cheaper.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driver updates will fix abnormally high power use for AMD’s new RX 7900 GPUs]]></title>
-        <id>https://arstechnica.com/?p=1906458</id>
-        <link href="https://arstechnica.com/?p=1906458"/>
-        <updated>2022-12-22T18:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Video playback, high-refresh screens, and multi-monitor setups can cause issues.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
         </author>
     </entry>
 </feed>
