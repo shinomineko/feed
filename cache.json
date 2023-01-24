@@ -124,16 +124,6 @@
           "wordCount": 209,
           "title": "L6 Lagrange Point",
           "imageUrl": "https://imgs.xkcd.com/comics/l6_lagrange_point_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2716/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/game_night_ordering.png\" title=\"One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week.\" alt=\"One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week.\" />",
-          "link": "https://xkcd.com/2716/",
-          "publishedOn": "2022-12-26T00:00:00.000Z",
-          "wordCount": 209,
-          "title": "Game Night Ordering",
-          "imageUrl": "https://imgs.xkcd.com/comics/game_night_ordering_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/01/bulk-surveillance-of-money-transfers.html",
+          "author": null,
+          "description": "<p>Just another obscure <a href=\"https://www.engadget.com/us-money-transfer-mass-surveillance-trac-183552282.html\">warrantless surveillance program</a>.</p>\n<blockquote><p>US law enforcement can access details of money transfers without a warrant through an obscure surveillance program the Arizona attorney general&#8217;s office created in 2014. A database stored at a nonprofit, the Transaction Record Analysis Center (TRAC), provides full names and amounts for larger transfers (above $500) sent between the US, Mexico and 22 other regions through services like Western Union, MoneyGram and Viamericas. The program covers data for numerous Caribbean and Latin American countries in addition to Canada, China, France, Malaysia, Spain, Thailand, Ukraine and the US Virgin Islands. Some domestic transfers also enter the data set...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/bulk-surveillance-of-money-transfers.html",
+          "publishedOn": "2023-01-24T12:14:13.000Z",
+          "wordCount": 860,
+          "title": "Bulk Surveillance of Money Transfers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/01/no-fly-list-exposed.html",
           "author": null,
@@ -432,6 +432,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1911936",
+          "author": "Jonathan M. Gitlin",
+          "description": "Cosmetic changes include a new front, and the single-motor car is now rear-driven.",
+          "link": "https://arstechnica.com/?p=1911936",
+          "publishedOn": "2023-01-24T12:00:11.000Z",
+          "wordCount": 1741,
+          "title": "The Polestar 2 gets new electric motors in mid-life refresh",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Polestar-2-MY24-2-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1911995",
           "author": "Benj Edwards",
@@ -3581,16 +3591,6 @@
           "wordCount": 1888,
           "title": "Experts debate the risks of made-to-order DNA",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/smallpox-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905727",
-          "author": "Jennifer Ouellette",
-          "description": "Manhattan Project physicist was infamously stripped of his security clearance in 1954.",
-          "link": "https://arstechnica.com/?p=1905727",
-          "publishedOn": "2022-12-25T21:23:41.000Z",
-          "wordCount": 3028,
-          "title": "J. Robert Oppenheimer cleared of “black mark” against his name after 68 years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/oppie1CROP-760x380.jpg"
         }
       ]
     },
@@ -3684,16 +3684,6 @@
           "wordCount": 3780,
           "title": "Blog: Kubernetes v1.26: CPUManager goes GA",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/",
-          "author": null,
-          "description": "Author: Wei Huang (Apple), Abdullah Gharaibeh (Google)\nKubernetes 1.26 introduced a new Pod feature: scheduling gates. In Kubernetes, scheduling gates\nare keys that tell the scheduler when a Pod is ready to be considered for scheduling.\nWhat problem does it solve?\nWhen a Pod is created, the scheduler will continuously attempt to find a node that fits it. This\ninfinite loop continues until the scheduler either finds a node for the Pod, or the Pod gets deleted.\nPods that remain unschedulable for long periods of time (e.g., ones that are blocked on some external event)\nwaste scheduling cycles. A scheduling cycle may take ≅20ms or more depending on the complexity of\nthe Pod's scheduling constraints. Therefore, at scale, those wasted cycles significantly impact the\nscheduler's performance. See …",
-          "link": "https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/",
-          "publishedOn": "2022-12-26T00:00:00.000Z",
-          "wordCount": 3757,
-          "title": "Blog: Kubernetes 1.26: Pod Scheduling Readiness",
-          "imageUrl": null
         }
       ]
     },
@@ -3725,6 +3715,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/world-of-warcraft-lead-departs-blizzard-in-protest-at-forced-employee-ranking-policy",
+          "author": "Victoria Kennedy",
+          "description": "World of Warcraft Classic lead Brian Birmingham has parted ways with Blizzard after voicing concerns about the company's \"forced\" stack-ranking policy.\r\n\n\r\nThe policy in question reportedly states managers at Blizzard are obliged to give a low \"Developing\" rating - something that could impact an employees financial status and future promotion potential - to a certain percentage of its staff in order to meet a quota laid out by parent company Activision Blizzard.\r\n\n\r\nIn an email seen by Bloomberg, Birmingham stated when Blizzard team leads questioned this policy, the \"World of Warcraft directors explained that while they did not agree, the reasons given by executive leadership were that it was important to squeeze the bottom-most performers as a way to make sure everybody continues to grow\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/world-of-warcraft-lead-departs-blizzard-in-protest-at-forced-employee-ranking-policy",
+          "publishedOn": "2023-01-24T11:59:49.000Z",
+          "wordCount": 5263,
+          "title": "World of Warcraft lead departs Blizzard in protest at forced employee ranking policy",
+          "imageUrl": "https://assets.reedpopcdn.com/wow-classic_uAJGT3F.jpg/BROK/thumbnail/1200x630/wow-classic_uAJGT3F.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-wants-sony-to-divulge-its-game-production-pipeline-in-ftc-lawsuit",
+          "author": "Ed Nightingale",
+          "description": "As part of the ongoing FTC lawsuit against Microsoft's buyout of Activision Blizzard, Microsoft has served Sony a subpoena to divulge confidential business details.\r\n\n\r\nIt means Sony may be forced to reveal confidential information on its future plans it would likely prefer to keep quiet.\r\n\n\r\nThe subpoena was issued on 17th January with a response date of 20th January, though this has been extended until 27th January for Sony to \"move to limit or quash or otherwise respond to the subpoena\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-wants-sony-to-divulge-its-game-production-pipeline-in-ftc-lawsuit",
+          "publishedOn": "2023-01-24T11:53:28.000Z",
+          "wordCount": 4653,
+          "title": "Microsoft wants Sony to divulge confidential business details in FTC lawsuit",
+          "imageUrl": "https://assets.reedpopcdn.com/activision-ensmble.jpg/BROK/thumbnail/1200x630/activision-ensmble.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-developers-nba-all-world-launches-today",
+          "author": "Tom Phillips",
+          "description": "NBA All-World, the next game to launch from Pokémon Go developer Niantic, will arrive for smartphone devices worldwide from today. \r\n\n\r\nThe release marks the first fresh app from Niantic to arrive since 2021's Pikmin Bloom, with virtual pet experience Peridot and a game based around Marvel superheroes also waiting in the wings.\r\n\n\r\nAs you'd expect from a Niantic game, NBA All-World encourages outdoor play and exploration of your local environment, with a particular focus on the world of NBA, basketball and the sport's wider culture. Niantic has big hopes from this collaboration, which it is aiming at some of the NBA's many millions of fans worldwide. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-go-developers-nba-all-world-launches-today",
+          "publishedOn": "2023-01-24T11:47:21.000Z",
+          "wordCount": 5009,
+          "title": "Pokémon Go developer's NBA All-World launches today",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_joFG4FO.jpg/BROK/thumbnail/1200x630/Untitled-1_joFG4FO.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/unannounced-tango-gameworks-game-leaks-ahead-of-xbox-developer_direct",
+          "author": "Ed Nightingale",
+          "description": "The next, currently unannounced, game from Tango Gameworks has leaked ahead of Microsoft's Xbox and Bethesda Developer_Direct event tomorrow night.\r\n\n\r\nAs shared on social media by prolific Dealabs leaker BillbilKun, the game is said to be called Hi-Fi Rush, or Project Hibiki.\r\n\n\r\nFurther evidence of the game's existence has been shared on reddit, including trademarks and supposed concept art.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/unannounced-tango-gameworks-game-leaks-ahead-of-xbox-developer_direct",
+          "publishedOn": "2023-01-24T11:14:33.000Z",
+          "wordCount": 4738,
+          "title": "Unannounced Tango Gameworks game leaks ahead of Xbox Developer_Direct",
+          "imageUrl": "https://assets.reedpopcdn.com/shinji-mikami-wants-tango-gameworks-to-be-known-for-more-than-just-horror-1648162463063.jpg/BROK/thumbnail/1200x630/shinji-mikami-wants-tango-gameworks-to-be-known-for-more-than-just-horror-1648162463063.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/the-last-of-us-sets-new-hbo-record-for-largest-week-two-audience-growth",
           "author": "Matt Wales",
