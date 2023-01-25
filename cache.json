@@ -414,16 +414,6 @@
           "wordCount": 739,
           "title": "Arresting IT Administrators",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html",
-          "author": null,
-          "description": "<p>Last August, LastPass <a href=\"https://www.schneier.com/blog/archives/2022/12/lastpass-security-breach.html\">reported</a> a security breach, saying that no customer information&#8212;or passwords&#8212;were compromised. Turns out the full story <a href=\"https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/\">is worse</a>:</p>\n<blockquote><p>While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service.</p>\n<p>[&#8230;]</p>\n<p>To date, we have determined that once the cloud storage access key and dual storage container decryption keys were obtained, the threat actor copied information from backup that contained basic customer account information and related metadata including company names, end-user names, billing addresses, email addresses, telephone numbers, and the IP addresses from which customers were accessing the LastPass service...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html",
-          "publishedOn": "2022-12-26T12:06:18.000Z",
-          "wordCount": 1123,
-          "title": "LastPass Breach",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +422,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1912246",
+          "author": "Ron Amadeo",
+          "description": "US trust-busters want to take the DoubleClick out of Google.",
+          "link": "https://arstechnica.com/?p=1912246",
+          "publishedOn": "2023-01-24T22:38:45.000Z",
+          "wordCount": 1994,
+          "title": "The DOJ sues Google for ad dominance, wants to break company up",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912345",
+          "author": "Kyle Orland",
+          "description": "Proletariat union cites \"confrontational tactics\" from CEO that \"took their toll.\"",
+          "link": "https://arstechnica.com/?p=1912345",
+          "publishedOn": "2023-01-24T21:24:50.000Z",
+          "wordCount": 1742,
+          "title": "Blizzard studio halts union plans amid alleged management meddling",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/proletariat-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1911921",
+          "author": "Andrew Cunningham",
+          "description": "Special 30-mm-long SSDs are gradually coming to retail, though big names are MIA.",
+          "link": "https://arstechnica.com/?p=1911921",
+          "publishedOn": "2023-01-24T21:17:54.000Z",
+          "wordCount": 1882,
+          "title": "It’s getting easier to buy bigger SSDs for the Steam Deck and Surface PCs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/DSC00576-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912236",
+          "author": "Benj Edwards",
+          "description": "Creepy AI-powered eyeballs maintain direct eye contact even if you avert your gaze.",
+          "link": "https://arstechnica.com/?p=1912236",
+          "publishedOn": "2023-01-24T20:31:58.000Z",
+          "wordCount": 1647,
+          "title": "With Nvidia Eye Contact, you’ll never look away from a camera again",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/nvidia_eye_contact-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912267",
+          "author": "Jon Brodkin",
+          "description": "Twitter didn't pay $3.4M rent bills in December and January, building owner says.",
+          "link": "https://arstechnica.com/?p=1912267",
+          "publishedOn": "2023-01-24T20:17:00.000Z",
+          "wordCount": 1835,
+          "title": "Lawsuit: Twitter stopped paying rent at headquarters after Musk took over",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Elon-Musk-Twitter-Bust-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912197",
+          "author": "Eric Berger",
+          "description": "SpaceX said it loaded more than 10 million pounds of fuel onto the vehicle.",
+          "link": "https://arstechnica.com/?p=1912197",
+          "publishedOn": "2023-01-24T19:47:47.000Z",
+          "wordCount": 1608,
+          "title": "SpaceX completes fueling test, will now work toward massive engine firing test",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/52646538061_223dc6054d_4k-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912163",
+          "author": "Scharon Harding",
+          "description": "Even Logitech, a top beneficiary of pandemic-driven tech purchases, is hurting.",
+          "link": "https://arstechnica.com/?p=1912163",
+          "publishedOn": "2023-01-24T19:30:08.000Z",
+          "wordCount": 1946,
+          "title": "PC peripheral makers are feeling tech’s pandemic boom hangover too",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/camera-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912143",
+          "author": "Kevin Purdy",
+          "description": "Did users change their Wi-Fi password, or did they see the nature of IoT privacy?",
+          "link": "https://arstechnica.com/?p=1912143",
+          "publishedOn": "2023-01-24T18:20:15.000Z",
+          "wordCount": 1846,
+          "title": "Appliance makers sad that 50% of customers won’t connect smart appliances",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1316301547-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1912133",
           "author": "Jennifer Ouellette",
@@ -3621,26 +3691,6 @@
           "wordCount": 2093,
           "title": "“Please slow down”—The 7 biggest AI stories of 2022",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars_queen_of_the_universe_hero_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906214",
-          "author": "Kyle Orland",
-          "description": "2022 also saw the death of Stadia and the birth of gaming labor unions.",
-          "link": "https://arstechnica.com/?p=1906214",
-          "publishedOn": "2022-12-26T12:00:57.000Z",
-          "wordCount": 2478,
-          "title": "Video games in 2022: Massive mergers and peculiar portables",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars-gaming-roundup-2022-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906453",
-          "author": "Undark Magazine",
-          "description": "Advances may make it easier to build dangerous biological materials from scratch.",
-          "link": "https://arstechnica.com/?p=1906453",
-          "publishedOn": "2022-12-26T11:55:33.000Z",
-          "wordCount": 1888,
-          "title": "Experts debate the risks of made-to-order DNA",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/smallpox-760x380.jpg"
         }
       ]
     },
@@ -3765,6 +3815,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/journey-to-the-savage-planet-heading-to-ps5-and-xbox-series-xs-in-february",
+          "author": "Matt Wales",
+          "description": "505 Games has announced silly sci-fi adventure Journey to the Savage Planet is coming to PS5 and Xbox Series X/S on 14th February in a new Employee of the Month Edition, introducing 4K support, a smattering of new content, and more.\r\n\n\r\nJourney to the Savage Planet, developed by \r\nTyphoon Studios (now Racoon Logic), launched to much acclaim in 2021, with Eurogamer contributor Vikki Blake calling it a \"genuinely funny toybox to explore\" in her Recommended review.\r\n\n\r\n505's newly announced Employee of the Month Edition will bundle up Journey to the Savage Planet's base game and Hot Garbage DLC, and throw in a range of PlayStation 5 and Xbox Series X/S exclusive features too.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/journey-to-the-savage-planet-heading-to-ps5-and-xbox-series-xs-in-february",
+          "publishedOn": "2023-01-24T23:25:23.000Z",
+          "wordCount": 4915,
+          "title": "Journey to the Savage Planet heading to PS5 and Xbox Series X/S in February",
+          "imageUrl": "https://assets.reedpopcdn.com/journey3_bVaK3A1.jpg/BROK/thumbnail/1200x630/journey3_bVaK3A1.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/warhammer-40k-darktide-gets-xbox-series-xs-delay-as-dev-admits-it-fell-short-of-expectations",
+          "author": "Matt Wales",
+          "description": "Developer Fatshark has delayed Warhammer 40,000: Darktide's upcoming Xbox Series X/S release, saying it has made the decision to spend the next few months solely addressing fan feedback after the game \"fell short\" of expectations.\r\n\n\r\nWhen Darktide launched on PC in November, Eurogamer's Chris Tapsell applauded its \"stupendous atmosphere and vicious action\" in his review, but called its release \"scrappy [and] rickety...arriving with bugs and technical difficulties and making huge demands of PCs\".\r\n\n\r\nIssues around Darktide's launch have coalesced to the point it's now accrued a damning 'mostly negative' recent reviews rating on Steam from nearly 8,500 players, and Fatshark has moved to acknowledge the community's mounting frustration in a statement shared on Twitter.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/warhammer-40k-darktide-gets-xbox-series-xs-delay-as-dev-admits-it-fell-short-of-expectations",
+          "publishedOn": "2023-01-24T21:52:24.000Z",
+          "wordCount": 5010,
+          "title": "Warhammer 40K: Darktide gets Xbox Series X/S delay as dev admits it \"fell short\" of expectations",
+          "imageUrl": "https://assets.reedpopcdn.com/Warhammer-40%2C000-Darktide-(4).jpg/BROK/thumbnail/1200x630/Warhammer-40%2C000-Darktide-(4).jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/desperados-3-shadow-tactics-dev-unveils-pirate-fantasy-stealth-strategy-shadow-gambit",
+          "author": "Matt Wales",
+          "description": "Mimimi Games, the studio behind the superb Desperados 3 and Shadow Tactics: Blade of the Shogun, has unveiled its latest foray into the world of stealth-strategy: zombie pirate adventure Shadow Gambit: The Cursed Crew.\r\n\n\r\nShadow Gambit, which unfolds in an alternative Golden Age of Piracy, sees players setting sail across the Caribbean in a living ghost ship known as The Red Marley. Along the way, they'll assemble a crew of cursed pirates with supernatural powers - all of which should come in handy in the fight against the Inquisition of the Burning Maiden and the hunt for the treasure of the legendary Captain Mordechai.\r\n\n\r\nIt's a top-down tactical adventure set in a \"dynamic, immersive sandbox\", with players able to freely choose the islands they visit and the missions they tackle from their hub-like ship. Entry and exit points on islands can be established ahead of time, and different crew mates can be taken into battle, depending how players want to approach the challenges ahead.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/desperados-3-shadow-tactics-dev-unveils-pirate-fantasy-stealth-strategy-shadow-gambit",
+          "publishedOn": "2023-01-24T19:55:48.000Z",
+          "wordCount": 4863,
+          "title": "Desperados 3, Shadow Tactics dev unveils pirate fantasy stealth-strategy Shadow Gambit",
+          "imageUrl": "https://assets.reedpopcdn.com/shadow-gambit-screen.jpg/BROK/thumbnail/1200x630/shadow-gambit-screen.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/riot-games-confident-no-player-information-compromised-in-last-weeks-cyber-attack",
+          "author": "Matt Wales",
+          "description": "Riot has offered an update to last week's cyber attack on its systems, confirming that while source code for League of Legends and Teamfight Tactics is currently being held ransom, it remains \"confident\" no player data was compromised.\r\n\n\r\nRiot first shared news of the attack - said to have targeted its development environment - last Friday, saying that while the incident would temporarily affect its ability to release content, there was \"no indication that player data or personal information was obtained.\"\r\n\n\r\nThe studio has now reiterated that point in an update on Twitter, saying it \"remains confident\" no player data was impacted. It also revealed further information on the attack, saying that - following the 'exfiltration' of source code for League of Legends, Teamfight Tactics, and a \"legacy anticheat platform\" - the perpetrators have now contacted Riot in a ransom email. \"Needless to say,\" it added, \"we won't pay.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/riot-games-confident-no-player-information-compromised-in-last-weeks-cyber-attack",
+          "publishedOn": "2023-01-24T18:45:19.000Z",
+          "wordCount": 4937,
+          "title": "Riot Games \"confident\" no player data compromised in last week's cyber attack",
+          "imageUrl": "https://assets.reedpopcdn.com/riot-games-legal-troubles-set-to-continue-1582632524913.jpg/BROK/thumbnail/1200x630/riot-games-legal-troubles-set-to-continue-1582632524913.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/the-underappreciated-life-is-strange-2-is-headed-to-switch",
           "author": "Tom Phillips",
