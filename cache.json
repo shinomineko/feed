@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2729/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png\" title=\"I'll take mine on the rocks, no ice.\" alt=\"I'll take mine on the rocks, no ice.\" />",
+          "link": "https://xkcd.com/2729/",
+          "publishedOn": "2023-01-25T00:00:00.000Z",
+          "wordCount": 202,
+          "title": "Planet Killer Comet Margarita",
+          "imageUrl": "https://imgs.xkcd.com/comics/planet_killer_comet_margarita_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2728/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/lane_change_highway.png\" title=\"I just think lane markers should follow the local magnetic declination.\" alt=\"I just think lane markers should follow the local magnetic declination.\" />",
@@ -414,16 +424,6 @@
           "wordCount": 637,
           "title": "QR Code Scam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2022/12/arresting-it-administrators.html",
-          "author": null,
-          "description": "<p>This is one way of ensuring that IT <a href=\"https://apnews.com/article/iran-europe-middle-east-albania-tirana-39fce9b5fe112a43f8b35a533b6d29e8\">keeps up with patches</a>:</p>\n<blockquote><p>Albanian prosecutors on Wednesday asked for the house arrest of five public employees they blame for not protecting the country from a cyberattack by alleged Iranian hackers.</p>\n<p>Prosecutors said the five IT officials of the public administration department had failed to check the security of the system and update it with the most recent antivirus software.</p></blockquote>\n<p>The next step would be to arrest managers at software companies for not releasing patches fast enough. And maybe programmers for writing buggy code. I don&#8217;t know where this line of thinking ends...</p>",
-          "link": "https://www.schneier.com/blog/archives/2022/12/arresting-it-administrators.html",
-          "publishedOn": "2022-12-27T12:01:45.000Z",
-          "wordCount": 739,
-          "title": "Arresting IT Administrators",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +432,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1912598",
+          "author": "Beth Mole",
+          "description": "The segment only had experts paid by the drug maker and didn't mention drug risks.",
+          "link": "https://arstechnica.com/?p=1912598",
+          "publishedOn": "2023-01-25T22:33:42.000Z",
+          "wordCount": 1553,
+          "title": "Drug maker paid for “news” story on CBS’s 60 Minutes, doctors’ group alleges",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1164748102-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912597",
+          "author": "Jonathan M. Gitlin",
+          "description": "High operating margins and good sales growth are responsible, Tesla says.",
+          "link": "https://arstechnica.com/?p=1912597",
+          "publishedOn": "2023-01-25T22:16:55.000Z",
+          "wordCount": 1702,
+          "title": "Tesla made an annual profit of $12.6 billion in 2022",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1130598318-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912577",
+          "author": "John Timmer",
+          "description": "The company's first launch from US soil was pretty—and pretty important.",
+          "link": "https://arstechnica.com/?p=1912577",
+          "publishedOn": "2023-01-25T21:01:57.000Z",
+          "wordCount": 1755,
+          "title": "Rocket Lab’s first US launch: Big for the company and the site",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Screen-Shot-2023-01-25-at-3.35.55-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912571",
+          "author": "Beth Mole",
+          "description": "Wastewater testing has proven useful, and experts call for more sewage sampling.",
+          "link": "https://arstechnica.com/?p=1912571",
+          "publishedOn": "2023-01-25T20:46:05.000Z",
+          "wordCount": 1648,
+          "title": "Airborne poop probes: CDC considers testing airline sewage for pathogens",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1218458966-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912543",
+          "author": "Jon Brodkin",
+          "description": "DirecTV says Newsmax ratings aren't high enough to justify network's rate demand.",
+          "link": "https://arstechnica.com/?p=1912543",
+          "publishedOn": "2023-01-25T19:20:45.000Z",
+          "wordCount": 2021,
+          "title": "DirecTV dumps Newsmax instead of paying new fee, drawing Republican outrage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-tv-static-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912487",
+          "author": "Scharon Harding",
+          "description": "Incorporating a design phones have used for over a decade.",
+          "link": "https://arstechnica.com/?p=1912487",
+          "publishedOn": "2023-01-25T19:03:38.000Z",
+          "wordCount": 1713,
+          "title": "Samsung’s new touch tech enables thinner, lighter OLED laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/6zTausfs77_20230120182817-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1912465",
+          "author": "Kevin Purdy",
+          "description": "No player information or credentials were leaked in the attack, Riot Games says.",
+          "link": "https://arstechnica.com/?p=1912465",
+          "publishedOn": "2023-01-25T18:29:41.000Z",
+          "wordCount": 1840,
+          "title": "Stolen League of Legends source code being ransomed, and Riot Games won’t pay",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/lol_tft-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1912454",
           "author": "Ars Staff",
@@ -3761,16 +3831,6 @@
           "wordCount": 2257,
           "title": "2022 in GPUs: The shortage ends, but higher prices seem here to stay",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0727-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1905628",
-          "author": "Ashley Belanger",
-          "description": "Gmail stops filtering political spam, Meta allows some death threats, and more.",
-          "link": "https://arstechnica.com/?p=1905628",
-          "publishedOn": "2022-12-27T12:15:38.000Z",
-          "wordCount": 1707,
-          "title": "Twitter sells blue checks, Tumblr allows nudes: 2022’s biggest Big-Tech U-turns",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/verified-noods-760x380.jpg"
         }
       ]
     },
@@ -3885,6 +3945,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/xbox-game-pass-next-few-weeks-bring-golden-eye-age-of-empires-2-and-more",
+          "author": "Matt Wales",
+          "description": "Microsoft has detailed the latest batch of titles heading to Xbox Game Pass between now and early February, including Golden Eye, Hi-Fi Rush, Age of Empires 2: Definitive Edition for consoles, Darkest Dungeon, Hot Wheels Unleashed, and more.\r\n\n\r\nHi-Fi Rush is, of course, developer Tango Softworks' freshly announced (and rather splendid-looking) rhythm adventure, which comes to Xbox Series X/S, PC, and Cloud via Game Pass today. That'll soon be joined by the legendary GoldenEye 007, which gets a gentle spruce-up for Cloud and Xbox on 27th January, \r\n\n\r\nNext up are the Game Preview version of rogue-lite first-person shooter Roboquest (coming to Xbox on 30th January), plus Age of Empires 2: Definitive Edition - which gets a long-awaited console release, complete with controller support and new tutorials, on 31st January.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/xbox-game-pass-next-few-weeks-bring-golden-eye-age-of-empires-2-and-more",
+          "publishedOn": "2023-01-25T23:33:17.000Z",
+          "wordCount": 4821,
+          "title": "Xbox Game Pass' next few weeks bring Golden Eye, Age of Empires 2, and more",
+          "imageUrl": "https://assets.reedpopcdn.com/goldeneye-dam.jpg/BROK/thumbnail/1200x630/goldeneye-dam.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/skates-latest-playtester-build-reportedly-adds-loot-boxes",
+          "author": "Matt Wales",
+          "description": "EA has reportedly added loot boxes to the latest playtest build of its highly-anticipated new Skate project, tying them to earnable in-game currency in a manner seemingly consistent with its previous promise of there being no paid loot boxes in the game.\r\n\n\r\nEA made that particular pledge last July, when it announced its Skate revival would be a free-to-play live-service game. At the time, developer Full Circle attempted to assuage fan fears by insisting the game's monetisation would be \"mostly about cosmetics and convenience\", promising no pay to win mechanics or paid gameplay advantages, no paid gameplay elements or areas of the map, and no paid loot boxes.\r\n\n\r\nGiven those assurances, players were a little perturbed when, not long after Skate's free-to-play announcement, dataminers uncovered evidence of loot-box-like Swag Bags - purchasable with \"Taps\" and containing randomised apparel - in a version of Skate's playtest source code.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/skates-latest-playtester-build-reportedly-adds-loot-boxes",
+          "publishedOn": "2023-01-25T22:27:24.000Z",
+          "wordCount": 4993,
+          "title": "Skate's latest playtester build reportedly adds loot boxes",
+          "imageUrl": "https://assets.reedpopcdn.com/skate-logo.jpg/BROK/thumbnail/1200x630/skate-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/everything-announced-at-xbox-and-bethesda-developer-direct",
+          "author": "Wesley Yin-Poole",
+          "description": "That's a wrap on the Xbox and Bethesda Developer Direct, and the first big video game showcase of 2023. The show gave us a lot of what we'd expected, all that had leaked and, well, no surprises, really. Here are all the announcements, trailers and news Microsoft had to offer.\nDeveloper Direct kicked off with a look at Minecraft spin-off Minecraft Legends and its PVP experience. It's out 18th April 2023 on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and S and of course, Game Pass. Here's Tom's Minecraft Legends preview, if you want to know more. The new trailer is below:\nMoving on to Turn 10's Forza Motorsport. It's got fully dynamic time of day and weather - a first for the series - and over 500 cars. This one launches at some point this year on PC and Xbox Series X and S. Here's the trailer:\n Read more",
+          "link": "https://www.eurogamer.net/everything-announced-at-xbox-and-bethesda-developer-direct",
+          "publishedOn": "2023-01-25T21:00:20.000Z",
+          "wordCount": 4935,
+          "title": "Everything announced at Xbox and Bethesda Developer Direct",
+          "imageUrl": "https://assets.reedpopcdn.com/Developer_Direct%2C-presented-by-Xbox-%26-Bethesda-44-33-screenshot.png/BROK/thumbnail/1200x630/Developer_Direct%2C-presented-by-Xbox-%26-Bethesda-44-33-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/tango-gameworks-exuberant-rhythm-adventure-hi-fi-rush-surprise-launches-today",
+          "author": "Matt Wales",
+          "description": "Following a bit of a leak ahead of Microsoft's Developer Direct showcase, Tango Gameworks has formally unveiled its latest project, Hi-Fi Rush - a rather glorious-looking rhythm adventure that's getting a surprise release today on Xbox, PC, and Game Pass.\r\n\n\r\nHi-Fi Rush - which follows the eye-searingly colourful escapades of wannabe rockstar Chai and his pet cat - is quite the departure from Tango's largely horror-focused previous output (which includes the likes of The Evil Within and Ghostwire: Tokyo), trading spooks for something considerably more exuberant.\r\n\n\r\nCalling to mind some of Sega's classics (Eurogamer's Martin Robinson excitedly described it as \"PNO3 meets Jet Set Radio Future\" at one point during its unveiling this evening), Hi-Fi Rush is a rail-swinging, robot-pummelling adventure that all unfolds to the rhythm of its music.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/tango-gameworks-exuberant-rhythm-adventure-hi-fi-rush-surprise-launches-today",
+          "publishedOn": "2023-01-25T20:53:37.000Z",
+          "wordCount": 4702,
+          "title": "Tango Gameworks' exuberant rhythm adventure Hi-Fi Rush surprise-launches today",
+          "imageUrl": "https://assets.reedpopcdn.com/hi-fi-rush.jpg/BROK/thumbnail/1200x630/hi-fi-rush.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/redfall-launches-in-may",
+          "author": "Tom Phillips",
+          "description": "Arkane Austin's first-person vampire shooter will launch for PC and Xbox Series X/S on 2nd May, including via Xbox Game Pass.\r\n\n\r\nTonight's Xbox Developer_Direct gave us a fresh look at the game, including its fire station safehouse which appeared to be a place you pick up missions and head out to explore its world. \r\n\n\r\nWe saw footage of a player battling a \"Shroud\" vampire which cloaks the local area in darkness, giving the appearance of a more arena-style fight in close quarters. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/redfall-launches-in-may",
+          "publishedOn": "2023-01-25T20:49:32.000Z",
+          "wordCount": 4721,
+          "title": "Redfall launches in May",
+          "imageUrl": "https://assets.reedpopcdn.com/Redfall_Vampire-2060x1159.jpg/BROK/thumbnail/1200x630/Redfall_Vampire-2060x1159.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-a-look-at-minecraft-legends-cross-platform-pvp-mode",
+          "author": "Tom Phillips",
+          "description": "Tonight's Xbox Developer_Direct showcase has debuted footage of Minecraft Legends' PVP multiplayer mode, which will be included at launch as a separate part of game, distinct from its campaign. \r\n\n\r\nIn Minecraft Legends, PVP is a cross-platform affair for up to eight players, split into two teams. Each team's objective is to capture and destroy their opponent's base, while building up defences around their own. \r\n\n\r\nAs in the main Legends campaign, PVP areas are procedurally generated - a nod back to the vanilla Minecraft. Also included are the Piglins, PVE enemies who act as a third faction intent on frustrating both sides. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-a-look-at-minecraft-legends-cross-platform-pvp-mode",
+          "publishedOn": "2023-01-25T20:10:31.000Z",
+          "wordCount": 4781,
+          "title": "Here's a look at Minecraft Legends' cross-platform PVP mode",
+          "imageUrl": "https://assets.reedpopcdn.com/Minecraft_Legends_Screenshot_04_1920x1080.png/BROK/thumbnail/1200x630/Minecraft_Legends_Screenshot_04_1920x1080.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/disney-dreamlight-valleys-2023-brings-multiplayer-encanto-and-more-says-latest-roadmap",
+          "author": "Matt Wales",
+          "description": "With Disney Dreamlight Valley's seasonal festivities now well and truly over, developer Gameloft is turning its attention the village life sim's year ahead, promising the likes of multiplayer, Encanto, and more in a new content roadmap.\n\n\r\nWhile multiplayer is perhaps the most notable (and intriguing) addition for Disney Dreamlight Valley in 2023, there's little to report until Gameloft is ready to say more than just that single word. Thankfully, the rest of its roadmap is more illuminating, starting with the fact the early access game's next update is scheduled to arrive in February.\r\n\n\r\nThis introduces an \"exceptionally unexceptional\" new villager - revealed to be Encanto's Mirabel Madrigal in the accompanying picture - plus a \"special snowman\" linked to new secrets in the Frosted Heights biome. And if that's not pointing to Frozen's Olaf then I'm all out of ideas.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/disney-dreamlight-valleys-2023-brings-multiplayer-encanto-and-more-says-latest-roadmap",
+          "publishedOn": "2023-01-25T18:46:56.000Z",
+          "wordCount": 4958,
+          "title": "Disney Dreamlight Valley getting multiplayer, Encanto, and more in 2023",
+          "imageUrl": "https://assets.reedpopcdn.com/disney-dreamlight-valley-screen.jpg/BROK/thumbnail/1200x630/disney-dreamlight-valley-screen.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/join-us-for-the-xbox-developer-direct",
           "author": "Martin Robinson",
@@ -6654,16 +6784,6 @@
           "wordCount": 4814,
           "title": "Microsoft states Final Fantasy 16 and Silent Hill 2 Remake will not come to Xbox consoles",
           "imageUrl": "https://assets.reedpopcdn.com/silent-hill-2-remake_A1cNBgF.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/silent-hill-2-remake_A1cNBgF.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/artist-profile-hints-at-a-possible-death-stranding-2-release-window",
-          "author": "Vikki Blake",
-          "description": "An update on an artist's ArtStation page may have hinted at the release window for Death Stranding 2.\r\n\nLike many artists, senior artist Frank Aliberti - who currently works as a senior character artist at 2K but formerly worked for PlayStation Studios Visual Arts - has his credits listed on ArtStation. \r\n\nIt's Aliberti's work with PlayStation Studios Visual Arts that's caught our collective attention, however, as Aliberti's most recent credit indicated that they had worked as a senior artist on Death Stranding 2. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/artist-profile-hints-at-a-possible-death-stranding-2-release-window",
-          "publishedOn": "2022-12-27T11:27:26.000Z",
-          "wordCount": 4802,
-          "title": "Artist profile hints at a possible Death Stranding 2 release window",
-          "imageUrl": "https://assets.reedpopcdn.com/death-stranding-2_D2NkHfb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/death-stranding-2_D2NkHfb.jpg"
         }
       ]
     },
