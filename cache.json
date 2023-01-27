@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/01/a-guide-to-phishing-attacks.html",
+          "author": null,
+          "description": "<p>This is a <a href=\"https://tidbits.com/2023/01/16/an-annotated-field-guide-to-identifying-phish/\">good list</a> of modern phishing techniques.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/01/a-guide-to-phishing-attacks.html",
+          "publishedOn": "2023-01-27T12:02:19.000Z",
+          "wordCount": 640,
+          "title": "A Guide to Phishing Attacks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/01/on-alec-baldwins-shooting.html",
           "author": null,
           "description": "<p>We recently learned that Alec Baldwin is being <a href=\"https://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html\">charged</a> with involuntary manslaughter for his accidental shooting on a movie set. I don&#8217;t know the details of the case, nor the intricacies of the law, but I have a question about movie props.</p>\n<p>Why was an actual gun used on the set? And why were actual bullets used on the set? Why wasn&#8217;t it a fake gun: plastic, or metal without a working barrel? Why does it have to fire blanks? Why can&#8217;t everyone just pretend, and let someone add the bang and the muzzle flash in post-production?</p>\n<p>Movies are filled with fakery. The ...</p>",
@@ -3741,16 +3751,6 @@
           "wordCount": 2622,
           "title": "Ars Technica’s best video games of 2022",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars-games-of-the-year-2022-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1906897",
-          "author": "John Timmer",
-          "description": "Claims to sell geoengineering warming offsets but can't currently validate anything.",
-          "link": "https://arstechnica.com/?p=1906897",
-          "publishedOn": "2022-12-28T19:57:32.000Z",
-          "wordCount": 1784,
-          "title": "Startup claims to offer stratospheric geoengineering as a service",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1363050744-760x380.jpg"
         }
       ]
     },
@@ -3824,16 +3824,6 @@
           "wordCount": 3980,
           "title": "Blog: Kubernetes v1.26: Advancements in Kubernetes Traffic Engineering",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2022/12/29/scalable-job-tracking-ga/",
-          "author": null,
-          "description": "Authors: Aldo Culquicondor (Google)\nThe Kubernetes 1.26 release includes a stable implementation of the Job\ncontroller that can reliably track a large amount of Jobs with high levels of\nparallelism. SIG Apps\nand WG Batch\nhave worked on this foundational improvement since Kubernetes 1.22. After\nmultiple iterations and scale verifications, this is now the default\nimplementation of the Job controller.\nPaired with the Indexed completion mode,\nthe Job controller can handle massively parallel batch Jobs, supporting up to\n100k concurrent Pods.\nThe new implementation also made possible the development of Pod failure policy,\nwhich is in beta in the 1.26 release.\nHow do I use this feature?\nTo use Job tracking with finalizers, upgrade to Kubernetes 1.25 or newer and\ncreate new Jobs. You can also use …",
-          "link": "https://kubernetes.io/blog/2022/12/29/scalable-job-tracking-ga/",
-          "publishedOn": "2022-12-29T00:00:00.000Z",
-          "wordCount": 4258,
-          "title": "Blog: Kubernetes 1.26: Job Tracking, to Support Massively Parallel Batch Workloads, Is Generally Available",
-          "imageUrl": null
         }
       ]
     },
@@ -3865,6 +3855,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/hasbro-lays-off-15-of-staff-to-cut-costs",
+          "author": "Ed Nightingale",
+          "description": "Hasbro is set to lay off approximately 1,000 people from its global workforce this year in an effort to cut costs, around 15 percent of global full-time employees.\r\n\n\r\nThis is to achieve its goal of delivering $250-300m in annualised run-rate cost savings by the end of 2025.\r\n\n\r\n\"The elimination of these positions will impact many loyal Hasbro employees, and we do not undertake this process lightly. However, the changes are necessary to return our business to a competitive, industry-leading position and to provide the foundation for future success,\" said CEO Chris Cocks.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/hasbro-lays-off-15-of-staff-to-cut-costs",
+          "publishedOn": "2023-01-27T12:17:46.000Z",
+          "wordCount": 4761,
+          "title": "Hasbro lays off 15% of staff to cut costs",
+          "imageUrl": "https://assets.reedpopcdn.com/hasbro-logo.jpg/BROK/thumbnail/1200x630/hasbro-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/bungie-explains-destiny-2-outage-this-week",
+          "author": "Ed Nightingale",
+          "description": "Bungie has released a blog post explaining the reasoning behind an outage of the game this week that's caused players to lose progress.\r\n\n\r\nOn 24th January, Hotfix 6.3.0.5 was released but Bungie later announced it would be taking the game offline to \"investigate an ongoing issue causing certain Triumphs, Seals, and Catalysts to lose progress for players\", as per this tweet.\r\n\r\n\n\r\nNow the game is back up and running, but players have lost progress in the process and purchases during this time have been refunded.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bungie-explains-destiny-2-outage-this-week",
+          "publishedOn": "2023-01-27T11:37:12.000Z",
+          "wordCount": 4967,
+          "title": "Bungie explains Destiny 2 outage this week",
+          "imageUrl": "https://assets.reedpopcdn.com/destiny-2-lightfall.jpg/BROK/thumbnail/1200x630/destiny-2-lightfall.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dead-space-accessibility-options-include-content-warning-feature",
+          "author": "Victoria Kennedy",
+          "description": "Motive has detailed the accessibility options for Dead Space. \r\n\n\r\nThe remake, which was released today, has a variety of features that players can implement at their will. These include narratable menus, a range of subtitle options, controller customisation, five difficulty settings and a colourblind mode. You can see how many of these options look in the video embedded below. \r\n\n\r\nIn addition to these features, the Dead Space developer has also added an optional content warning feature. With this feature in use, players will be informed about any upcoming in-game content that they could find upsetting. This is done \"by displaying a non-intrusive popup that gives a brief description of the type of event that's waiting around the corner, or in an audio or video log before you play it\" (see header image above).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-space-accessibility-options-include-content-warning-feature",
+          "publishedOn": "2023-01-27T11:26:45.000Z",
+          "wordCount": 4993,
+          "title": "Dead Space accessibility options include content warning feature",
+          "imageUrl": "https://assets.reedpopcdn.com/ds-accessibility-blog-in-text-image-2.png.adapt.1456w.png/BROK/thumbnail/1200x630/ds-accessibility-blog-in-text-image-2.png.adapt.1456w.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/annapurna-published-the-pathless-out-on-xbox-and-switch-next-week",
+          "author": "Ed Nightingale",
+          "description": "The Pathless, from developer Giant Squid and published by Annapurna Interactive, will launch on Xbox consoles and Nintendo Switch on 2nd February.\r\n\n\r\nThe game was originally released in 2020 for PlayStation and PC, but Annapurna announced at its showcase last summer it was due for release on Xbox and Switch this winter.\r\n\r\n\n\r\niam8bit and Skybound will release physical editions of the game for Switch, with details coming soon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/annapurna-published-the-pathless-out-on-xbox-and-switch-next-week",
+          "publishedOn": "2023-01-27T10:55:04.000Z",
+          "wordCount": 4806,
+          "title": "Annapurna published The Pathless out on Xbox and Switch next week",
+          "imageUrl": "https://assets.reedpopcdn.com/thepathless_keyart_NoLogo_1080-(1).png/BROK/thumbnail/1200x630/thepathless_keyart_NoLogo_1080-(1).png"
+        },
         {
           "id": "https://www.eurogamer.net/acclaimed-narrative-adventure-road-96-is-getting-a-musical-prequel",
           "author": "Matt Wales",
