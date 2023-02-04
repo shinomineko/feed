@@ -166,6 +166,26 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/02/friday-squid-blogging-studying-the-colossal-squid.html",
+          "author": null,
+          "description": "<p>A <a href=\"https://www.argonautnews.com/news/studying-colossal-squid/article_b3fc33b6-981a-11ed-b021-9be893dcf32c.html\">survey</a> of giant squid science.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/02/friday-squid-blogging-studying-the-colossal-squid.html",
+          "publishedOn": "2023-02-03T22:02:47.000Z",
+          "wordCount": 1610,
+          "title": "Friday Squid Blogging: Studying the Colossal Squid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/02/a-hackers-mind-news.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.schneier.com/books/a-hackers-mind/\"><i>A Hacker&#8217;s Mind</i></a> will be published on Tuesday.</p>\n<p>I have done a <a href=\"https://ash.harvard.edu/hacking-can-harm-and-heal-democracy\">written interview</a> and a  <a href=\"https://www.somethingyoushouldknow.net/843-understanding-the-hackers-mind-your-ever-shrinking-attention-span/\">podcast interview</a> about the book. It&#8217;s been chosen as a &#8220;<a href=\"https://www.schneier.com/news/archives/2023/01/a-hackers-mind-book-review-2.html\">February 2023 Must-Read Book</a>&#8221; by the Next Big Idea Club. And an &#8220;Editor&#8217;s Pick&#8221;&#8212;whatever that means&#8212;on Amazon.</p>\n<p>There <a href=\"https://www.schneier.com/news/archives/2023/01/a-hackers-mind-book-review.html\">have</a> <a href=\"https://www.schneier.com/news/archives/2022/11/kirkus-review-a-hackers-mind.html\">been</a> <a href=\"https://www.schneier.com/news/archives/2023/01/a-hackers-mind-book-review-2.html\">three</a> reviews so far. I am hoping for more. And maybe even a published excerpt or two.</p>\n<p>Amazon and others will start shipping the book on Tuesday. If you <a href=\"https://www.schneier.com/product/a-hackers-mind-hardcover/\">ordered</a> a signed copy from me, it is already in the mail.</p>\n<p>If you can leave a review somewhere, I would appreciate it.</p>\n...",
+          "link": "https://www.schneier.com/blog/archives/2023/02/a-hackers-mind-news.html",
+          "publishedOn": "2023-02-03T20:03:10.000Z",
+          "wordCount": 741,
+          "title": "A Hacker’s Mind News",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/02/manipulating-weights-in-face-recognition-ai-systems.html",
           "author": null,
           "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2301.03118\">Facial Misrecognition Systems: Simple Weight Manipulations Force DNNs to Err Only on Specific Persons</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this paper we describe how to plant novel types of backdoors in any facial recognition model based on the popular architecture of deep Siamese neural networks, by mathematically changing a small fraction of its weights (i.e., without using any additional training or optimization). These backdoors force the system to err only on specific persons which are preselected by the attacker. For example, we show how such a backdoored system can take any two images of a particular person and decide that they represent different persons (an anonymity attack), or take any two images of a particular pair of persons and decide that they represent the same person (a confusion attack), with almost no effect on the correctness of its decisions for other persons. Uniquely, we show that multiple backdoors can be independently installed by multiple attackers who may not be aware of each other&#8217;s existence with almost no interference...</p></blockquote>",
@@ -462,6 +482,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1914963",
+          "author": "Eric Berger",
+          "description": "It is possible that the balloon's flight termination system failed.",
+          "link": "https://arstechnica.com/?p=1914963",
+          "publishedOn": "2023-02-03T21:29:58.000Z",
+          "wordCount": 2165,
+          "title": "Why would the Chinese government be flying a large stratospheric balloon?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1233404431-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915010",
+          "author": "Dan Goodin",
+          "description": "Leaked personal data of Charlie Hebdo customers puts them at risk from extremists.",
+          "link": "https://arstechnica.com/?p=1915010",
+          "publishedOn": "2023-02-03T21:10:23.000Z",
+          "wordCount": 1979,
+          "title": "Microsoft alleges attacks on French magazine came from Iranian-backed group",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/iranian-flag-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915026",
+          "author": "Kyle Orland",
+          "description": "Government says company also violated whistleblower protection laws.",
+          "link": "https://arstechnica.com/?p=1915026",
+          "publishedOn": "2023-02-03T20:55:05.000Z",
+          "wordCount": 1572,
+          "title": "SEC gets $35 million settlement in Activision misconduct disclosure case",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/activision-blizzard-king-xbox-explore-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915004",
+          "author": "Jonathan M. Gitlin",
+          "description": "Now it will use the consumer EPA standard and not CAFE to decide.",
+          "link": "https://arstechnica.com/?p=1915004",
+          "publishedOn": "2023-02-03T20:39:45.000Z",
+          "wordCount": 1627,
+          "title": "Treasury decides Model Y, Lyriq, ID.4, are SUVs after all, not sedans",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-157419721-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1914958",
+          "author": "Ashley Belanger",
+          "description": "At least 17 charged after authorities gained access to encrypted messages.",
+          "link": "https://arstechnica.com/?p=1914958",
+          "publishedOn": "2023-02-03T19:24:20.000Z",
+          "wordCount": 1833,
+          "title": "Former Trump official led feds to Telegram group livestreaming child abuse",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1245156171-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1914894",
+          "author": "Scharon Harding",
+          "description": "Custom PC-builder Puget says it's had issues with the Pro line since the last gen.",
+          "link": "https://arstechnica.com/?p=1914894",
+          "publishedOn": "2023-02-03T18:51:33.000Z",
+          "wordCount": 1843,
+          "title": "Samsung Pro SSD reliability questioned as longtime partner shifts to Sabrent",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/SamsungSSD990PRO_main2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1914812",
+          "author": "Ron Amadeo",
+          "description": "Google wants to use \"the power of AI to reimagine how people search.\"",
+          "link": "https://arstechnica.com/?p=1914812",
+          "publishedOn": "2023-02-03T18:13:39.000Z",
+          "wordCount": 1877,
+          "title": "It sounds like Google will unveil its ChatGPT clone February 8",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1914874",
+          "author": "Kyle Orland",
+          "description": "Tall, red-topped stick could prove crucial in Mitchell's defamation suit.",
+          "link": "https://arstechnica.com/?p=1914874",
+          "publishedOn": "2023-02-03T18:02:49.000Z",
+          "wordCount": 2023,
+          "title": "Donkey Kong cheating case rocked by photos of illicit joystick modification",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/image-3-580x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1914856",
           "author": "Jonathan M. Gitlin",
@@ -4247,6 +4347,26 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/activision-blizzard-will-pay-35m-settlement-following-secs-workplace-misconduct-probe",
+          "author": "Matt Wales",
+          "description": "Activision Blizzard will pay $35m USD to settle charges raised by the US Securities and Exchange Commission (SEC) following a probe relating to workplace misconduct.\r\n\n\r\nThe SEC launched its investigation into Activision Blizzard in September 2021, subpoenaing CEO Bobby Kotick and other senior executives to provide their internal communications regarding the company's response to the high-profile allegations of widespread misconduct and harassment within the company.\r\n\n\r\nAfter concluding its investigation, the SEC charged that the publisher had failed to maintain disclosure controls and procedures that would ensure it could adequately collect and analyse employees' complaints of workplace misconduct. As a result, it said, Activision Blizzard's management lacked sufficient information to \"understand the volume and substance of employee complaints about workplace misconduct\", leaving it without the means to determine whether larger issues existed that needed to be disclosed to investors.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-blizzard-will-pay-35m-settlement-following-secs-workplace-misconduct-probe",
+          "publishedOn": "2023-02-03T21:55:43.000Z",
+          "wordCount": 4845,
+          "title": "Activision Blizzard will pay $35m settlement following SEC's workplace misconduct probe",
+          "imageUrl": "https://assets.reedpopcdn.com/activision-blizzard-logo.jpg/BROK/thumbnail/1200x630/activision-blizzard-logo.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/xbox-shooter-crossfirex-shutting-down-in-may",
+          "author": "Matt Wales",
+          "description": "Developer Smilegate has announced the impending closure of its year-old Xbox multiplayer shooter CrossfireX, which will shut down on 18th May - a move that'll also affect its Remedy developed single-player campaign.\r\n\n\r\nCrossfireX - the console version of Smilegate's hugely popular PC shooter Crossfire - launched for Xbox One and Xbox Series X/S last February, combining the multiplayer component of the PC original with a specially developed single-player campaign.\r\n\n\r\nA little over a year on from that troubled launch, Smilegate has announced it'll soon be ending support for the game. \"It is with the deepest regret that we are informing you of our decision to end support for CrossfireX on May 18, 2023,\" it wrote in a statement on its website. \"Since the launch of the game, we have worked tirelessly to bring it to a point where we can all be proud, and throughout it all we have had the honour and pleasure of supporting our players.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/xbox-shooter-crossfirex-shutting-down-in-may",
+          "publishedOn": "2023-02-03T19:54:03.000Z",
+          "wordCount": 5120,
+          "title": "Xbox shooter CrossfireX and its Remedy developed campaign shut down in May",
+          "imageUrl": "https://assets.reedpopcdn.com/3689418_cf9_nKmxlYQ.jpeg/BROK/thumbnail/1200x630/3689418_cf9_nKmxlYQ.jpeg"
+        },
+        {
           "id": "https://www.eurogamer.net/among-us-2023-roadmap-promises-new-map-improved-matchmaking",
           "author": "Matt Wales",
           "description": "Developer Innersloth has shared its development plans for the next 12 months of social deduction hit Among Us, confirming the year ahead will bring the likes of improved matchmaking and a brand-new map.\r\n\n\r\nInnersloth's roadmap is a little light in terms of ETAs, but it's first order of business - user interface and user experience updates for Among Us - are said to be \"coming soon\".\r\n\n\r\n\"We want to make playing Among Us an easier, more intuitive experience,\" the developer explained in a post accompanying its new roadmap. \"This means big focus on adding multiple updates to the UI and UX...of the game. Cleaning up the account merging flow, updating the store to be easier to navigate, making it easier to see how you can report a toxic player... these are all things we want to work on, and more.\"\r\n \nRead more",
@@ -7715,96 +7835,6 @@
           "wordCount": 4765,
           "title": "Bungie lawsuit against perpetrator behind fake Destiny 2 copyright strikes scheduled for 2024 jury trial",
           "imageUrl": "https://assets.reedpopcdn.com/destiny-Season-of-the-Seraph-2.jpg/BROK/thumbnail/1200x630/destiny-Season-of-the-Seraph-2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fifa-23-easter-egg-starring-ryan-reynolds-and-rob-mcelhenney-discovered",
-          "author": "Ishraq Subhan",
-          "description": "Hollywood stars Ryan Reynolds and Rob McElhenney, best known in the football world for purchasing small Welsh club Wrexham AFC, have been discovered in a FIFA 23 Easter egg. \r\n\n\r\nSmaller clubs like Wrexham aren't normally featured in FIFA, but the club entered the game in FIFA 22 in the \"Rest of the World\" category, likely due to the novelty of Reynolds and McElhenney being the new owners. \r\n\n\r\nWrexham then returned for FIFA 23, only this time, players have found some trash talk from Reynolds and McElhenney from the benches. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/fifa-23-easter-egg-starring-ryan-reynolds-and-rob-mcelhenney-discovered",
-          "publishedOn": "2023-01-05T12:26:23.000Z",
-          "wordCount": 4616,
-          "title": "FIFA 23 Easter egg starring Ryan Reynolds and Rob McElhenney discovered",
-          "imageUrl": "https://assets.reedpopcdn.com/wrexham-fifa-23.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/wrexham-fifa-23.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fallout-london-mod-adds-lethal-post-boxes-to-the-fray",
-          "author": "Victoria Kennedy",
-          "description": "The brains behind the upcoming Fallout 4 mod Fallout: London have shared another update on its progress. \r\n\n\r\nThis update (spotted by PC Gamer) includes catchy renditions of Rule Britannia, working trains, and - checks notes - murderous mail worker bots known as Post Boxers that will \"stamp you out\" if you do them wrong. Huh.\r\n\n\r\nThis latest update video is truly a sight to behold. Along with the Post Boxers, it also introduces us to another bot out for our blood - the Naval Walker. This is a sentient (in so much as it walks around at its own free will) mine that will chase you down. There are different types of these walkers throughout the mod, with the paint on each denoting which kind you are dealing with. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/fallout-london-mod-adds-lethal-post-boxes-to-the-fray",
-          "publishedOn": "2023-01-05T12:21:17.000Z",
-          "wordCount": 4765,
-          "title": "Fallout: London mod adds lethal post boxes to the fray",
-          "imageUrl": "https://assets.reedpopcdn.com/post-boxer-Fallout-London-mod.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/post-boxer-Fallout-London-mod.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/digitalfoundry-2023-amd-announces-long-awaited-ryzen-7000x3d-cpus-to-take-the-fight-to-intels-13900k",
-          "author": "Will Judd",
-          "description": "AMD has announced a raft of new Ryzen processors at its CES 2023 showcase, including the long-awaited Ryzen 7000X3D processors that should provide a stern rejoinder to Intel's 13th-gen desktop CPUs and could let Team Red reclaim the gaming performance crown. \nThe idea here is pretty simple: take the '3D V-Cache' technology that made AMD's last-gen Ryzen 7 5800X3D so fast that it challenged even next-gen flagship CPUs, and pair it with some of AMD's fastest Ryzen 7000 processors. The result is three new chips, the Ryzen 7800X3D, Ryzen 7900X3D and the Ryzen 7950X3D. All three come with dramatically increased cache sizes - 104MB of L2 and L3 cache on the Ryzen 7 and up to 144MB on the Ryzen 9 - which minimise the time CPUs spend waiting for data to be copied into the cache, increasing performance considerably in some games. \nIn AMD-provided benchmarks, the 7800X3D was between 10 and 25 percent faster than the 5800X3D at 1080p in games like Cyberpunk 2077, Shadow of the Tomb Raider, Borderlands 3 and F1 22 - slightly less than I would have expected, given that the 7800X3D is also using DDR5 RAM versus the DDR4 on the 5800X3D. Perhaps a more interesting comparison is that of the 7950X3D against the 13900K, where AMD showed between a nine and 24 percent performance lead in Watchdogs Legion, Dota 2, Rainbow Six Siege and Horizon Zero Dawn. \n Read more",
-          "link": "https://www.eurogamer.net/digitalfoundry-2023-amd-announces-long-awaited-ryzen-7000x3d-cpus-to-take-the-fight-to-intels-13900k",
-          "publishedOn": "2023-01-05T12:18:20.000Z",
-          "wordCount": 5232,
-          "title": "AMD announces long-awaited Ryzen 7000X3D CPUs to take the fight to Intel's 13900K",
-          "imageUrl": "https://assets.reedpopcdn.com/7000X3D-render.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/7000X3D-render.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/beat-saber-is-heading-to-psvr2",
-          "author": "Ed Nightingale",
-          "description": "Everyone's favourite rhythm laser sword game Beat Saber is heading to PSVR2.\r\n\n\r\nThe news was announced at Sony's CES presentation, alongside Gran Turismo 7 receiving a free upgrade to add PSVR2 compatibility at the launch of the device next month.\r\n\r\n\n\r\nIt's currently unknown when Beat Saber will be released for Sony's forthcoming VR headset, but it's great news for the platform - it's something of a VR killer app.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/beat-saber-is-heading-to-psvr2",
-          "publishedOn": "2023-01-05T11:52:51.000Z",
-          "wordCount": 4586,
-          "title": "Beat Saber is heading to PSVR2",
-          "imageUrl": "https://assets.reedpopcdn.com/beat-saber-psvr2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/beat-saber-psvr2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/asus-announces-licensed-xbox-controller-with-oled-screen",
-          "author": "Ishraq Subhan",
-          "description": "Asus has announced an officially licensed Xbox controller with a built-in OLED display and tri-mode connectivity.\r\n\n\r\nThe ROG Raikiri Pro is the first licenced Xbox controller with such connectivity, allowing players to connect to devices via Bluetooth, low-latency 2.4GHz radio, or good old USB-C. This will be especially useful to players who game not just on Xbox or PC (with the relevant adaptor) at low latency, but also on other devices like smartphones or TVs.\r\n\n\r\nThe controller's tiny 1.3-inch display can display custom animations, battery life, or microphone status. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/asus-announces-licensed-xbox-controller-with-oled-screen",
-          "publishedOn": "2023-01-05T11:42:24.000Z",
-          "wordCount": 4439,
-          "title": "Asus announces licensed Xbox controller with OLED screen",
-          "imageUrl": "https://assets.reedpopcdn.com/1672904115_rog_raikiripro.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/1672904115_rog_raikiripro.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-reveals-playstation-5-accessibility-controller",
-          "author": "Ed Nightingale",
-          "description": "Sony has revealed Project Leonardo, a new accessibility controller for the PlayStation 5.\r\n\n\r\nAnnounced at CES, the controller has been designed with contributions from accessibility experts and organisations like AbleGamers, SpecialEffect and Stack Up.\r\n\n\r\nThe controller is highly customisable, comprising a circle of various large buttons and a control stick. You can hear more about its development in the video below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-reveals-playstation-5-accessibility-controller",
-          "publishedOn": "2023-01-05T11:23:45.000Z",
-          "wordCount": 4903,
-          "title": "Sony reveals PlayStation 5 accessibility controller",
-          "imageUrl": "https://assets.reedpopcdn.com/project-leonardo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/project-leonardo.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/orlando-bloom-promises-body-vibrating-sound-in-forthcoming-gran-turismo-film",
-          "author": "Victoria Kennedy",
-          "description": "For those of you who, like me, are quite partial to a live action video game adaptation, I am pleased to tell you we have been given a new look at Sony's upcoming Gran Turismo film.\r\n\n\r\nThis trailer covers a few behind the scenes shots that give us a closer look at how the film was made - things like cars rigged up with cameras left, right and centre. It also has some quotes from the film's actors, including Pirates of the Caribbean and Lord of the Rings' Orlando Bloom who has promised us all \"body vibrating sound\" that will mean viewers will feel \"every jolt [and] every thrill\" of the race on the film's release (which will be exclusively in theatres). \r\n\n\r\nNot that this film is going to solely focus on the cars, however. The cast has said there will be \"heart-pounding action, drama [and] a love story\" also woven into the script, that follows the true story of Jann Mardenborough. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/orlando-bloom-promises-body-vibrating-sound-in-forthcoming-gran-turismo-film",
-          "publishedOn": "2023-01-05T11:17:05.000Z",
-          "wordCount": 4808,
-          "title": "Orlando Bloom promises \"body vibrating sound\" in forthcoming Gran Turismo film",
-          "imageUrl": "https://assets.reedpopcdn.com/Jann-Gran-Turismo-film.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Jann-Gran-Turismo-film.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-has-sold-30-million-playstation-5-consoles-to-date",
-          "author": "Ishraq Subhan",
-          "description": "In the torrent of CES news, Sony announced that it has now sold more than 30 million PlayStation 5 consoles worldwide, an increase of five million sales since the release of the last sales figures in October.  \r\n\n\r\nThis is despite the fact  Sony raised the price of the console in a number of territories in August. Sony also declared that the global console shortage is over. \r\n\n\r\n\"Everyone who wants a PS5 should have a much easier time finding one at retailers globally, starting from this point forward,\" said PlayStation chief Jim Ryan.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-has-sold-30-million-playstation-5-consoles-to-date",
-          "publishedOn": "2023-01-05T11:00:27.000Z",
-          "wordCount": 4482,
-          "title": "Sony has sold 30 million PlayStation 5 consoles to date",
-          "imageUrl": "https://assets.reedpopcdn.com/Sony-CES-2023-Press-Conference-4-22-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Sony-CES-2023-Press-Conference-4-22-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/gran-turismo-7-is-now-a-psvr2-launch-title",
-          "author": "Martin Robinson",
-          "description": "Gran Turismo 7 will support Sony's new PlayStation VR2 headset when it launches late next month, and the PSVR2 upgrade will be free to all owners of the driving sim. \r\n\n\r\nIt's a big boon for the new hardware, joining Horizon Call of the Mountain when it comes to first-party titles available for PSVR2 at launch. Racing games are a natural fit for virtual reality - it's been my preferred way to play ever since it became a viable option - and Gran Turismo 7 follows in the footsteps of Gran Turismo Sport which was supported by the original PSVR headset.\n\n\r\nPlayStation VR2 is coming out on February 22nd, with units costing a cool £530. Here's everything you need to know about PSVR2, including its launch titles and full specs - and it's a device that Eurogamer's VR expert Ian Higton has been very enthusiastic about since trying it for himself. \n \nRead more",
-          "link": "https://www.eurogamer.net/gran-turismo-7-is-now-a-psvr2-launch-title",
-          "publishedOn": "2023-01-05T10:29:11.000Z",
-          "wordCount": 4548,
-          "title": "Gran Turismo 7 is now a PSVR2 launch title",
-          "imageUrl": "https://assets.reedpopcdn.com/Gran-Turismo-7-PSVR-1-scaled.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/Gran-Turismo-7-PSVR-1-scaled.jpeg"
         }
       ]
     },
