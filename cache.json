@@ -463,6 +463,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1915257",
+          "author": "Benj Edwards",
+          "description": "Unintended transphobic act by AI-powered Jerry Seinfeld clone leads to 14-day ban.",
+          "link": "https://arstechnica.com/?p=1915257",
+          "publishedOn": "2023-02-06T17:10:25.000Z",
+          "wordCount": 1777,
+          "title": "Endless Seinfeld episode grinds to a halt after AI comic violates Twitch guidelines",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/nothing_forever_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1867838",
+          "author": "Jim Salter",
+          "description": "We tested five consumer-friendly cloud backup services and found a clear winner.",
+          "link": "https://arstechnica.com/?p=1867838",
+          "publishedOn": "2023-02-06T14:49:54.000Z",
+          "wordCount": 1823,
+          "title": "Ars Archivum: Top cloud backup services worth your money",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/cloud-storage-rain-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915237",
+          "author": "Jonathan M. Gitlin",
+          "description": "After dropping prices by up to $13,000, now they've increased by up to $2,000.",
+          "link": "https://arstechnica.com/?p=1915237",
+          "publishedOn": "2023-02-06T14:36:24.000Z",
+          "wordCount": 1576,
+          "title": "Tesla raises Model Y prices after Treasury says it counts as an SUV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1246469253-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915235",
+          "author": "Financial Times",
+          "description": "Deals between Big Tech and \"generative AI\" startups raise competition concerns.",
+          "link": "https://arstechnica.com/?p=1915235",
+          "publishedOn": "2023-02-06T14:25:42.000Z",
+          "wordCount": 1539,
+          "title": "Big Tech companies use cloud computing arms to pursue alliances with AI groups",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/cloud-computing-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915208",
+          "author": "Eric Berger",
+          "description": "The early death toll is 1,600 people, but this number will grow.",
+          "link": "https://arstechnica.com/?p=1915208",
+          "publishedOn": "2023-02-06T14:19:40.000Z",
+          "wordCount": 1650,
+          "title": "Major earthquake devastates areas of southern Turkey and northern Syria",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/usgs1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915219",
+          "author": "Jonathan M. Gitlin",
+          "description": "New software fixes the battery management and pulse inverter control modules.",
+          "link": "https://arstechnica.com/?p=1915219",
+          "publishedOn": "2023-02-06T14:14:09.000Z",
+          "wordCount": 1488,
+          "title": "Volkswagen recalls almost 21,000 ID.4s for software fix",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/2021-VW-ID.4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1915084",
+          "author": "Andrew Cunningham",
+          "description": "Kyle and Andrew get whiplash jumping from punny jokes to fascist Missourians.",
+          "link": "https://arstechnica.com/?p=1915084",
+          "publishedOn": "2023-02-06T12:01:36.000Z",
+          "wordCount": 2000,
+          "title": "Hell is other humans in HBO’s The Last of Us episode 4",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/pedro-pascal-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1915001",
           "author": "Inside Climate News",
           "description": "6 of 7 states proposed downstream reductions, but California wants to avoid cuts.",
@@ -3936,6 +4006,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/",
+          "author": null,
+          "description": "Authors: Mahamed Ali (Rackspace Technology)\nThe Kubernetes project runs a community-owned image registry called registry.k8s.io to host its container images. On the 3rd of April 2023, the old registry k8s.gcr.io will be frozen and no further images for Kubernetes and related subprojects will be pushed to the old registry.\nThis registry registry.k8s.io replaced the old one and has been generally available for several months. We have published a blog post about its benefits to the community and the Kubernetes project. This post also announced that future versions of Kubernetes will not be available in the old registry. Now that time has come.\nWhat does this change mean for contributors:\nIf you are a maintainer of a subproject, you will need to update your manifests and Helm charts to use the…",
+          "link": "https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/",
+          "publishedOn": "2023-02-06T00:00:00.000Z",
+          "wordCount": 3730,
+          "title": "Blog: k8s.gcr.io image registry will be frozen from the 3rd of April 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/02/03/sig-instrumentation-spotlight-2023/",
           "author": null,
           "description": "Author: Imran Noor Mohamed (Delivery Hero)\nObservability requires the right data at the right time for the right consumer (human or piece of software) to make the right decision. In the context of Kubernetes, having best practices for cluster observability across all Kubernetes components is crucial.\nSIG Instrumentation helps to address this issue by providing best practices and tools that all other SIGs use to instrument Kubernetes components-like the Api server, scheduler, kubelet and kube-controller-manager.\nIn this SIG Instrumentation spotlight, Imran Noor Mohamed, SIG ContribEx-Comms tech lead talked with Elana Hashman, and Han Kang, chairs of SIG Instrumentation, on how the SIG is organized, what are the current challenges and how anyone can get involved and contribute.\nAbout SIG Ins…",
@@ -4006,6 +4086,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/tekken-8-includes-series-regular-nina-williams",
+          "author": "Tom Phillips",
+          "description": "Today brings a fresh trailer for Tekken 8, and confirmation the series' silent assassin Nina Williams will once again be included.\r\n\n\r\nDeveloper Bandai Namco's confirmation Nina is part of Tekken 8's roster comes as little surprise. She's been a familiar face for the franchise since its origins, and has popped up in pretty much every major game since.\r\n\n\r\nNina joins other previously-announced Tekken 8 attendees such as  Jin Kazama, Kazuya Mishima, Jun Kazama, Paul Phoenix, Marshall Law, King, Jack-8, and Lars Alexandersson.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/tekken-8-includes-series-regular-nina-williams",
+          "publishedOn": "2023-02-06T16:09:20.000Z",
+          "wordCount": 4786,
+          "title": "Tekken 8 includes series regular Nina Williams",
+          "imageUrl": "https://assets.reedpopcdn.com/TEKKEN-8-%E2%80%93-Nina-Reveal-%26-Gameplay-Trailer-0-25-screenshot.png/BROK/thumbnail/1200x630/TEKKEN-8-%E2%80%93-Nina-Reveal-%26-Gameplay-Trailer-0-25-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/twitch-streamer-missmikkaa-is-playing-elden-ring-with-an-actual-guitar",
+          "author": "Ed Nightingale",
+          "description": "It began with a one-armed run, defeating every Elden Ring boss with just one hand. Then Twitch streamer MissMikkaa did the same but kept her character at level one throughout.\r\n\r\n\n\r\nNext she completed FromSoftware's epic with a dance pad. Then she did it across two games with a dance pad and controller simultaneously.\r\n\r\n\n\r\nNow, she's taking her musical Elden Ring pursuits to a whole new level by playing the game with a guitar. Is there no end to MissMikkaa's talent?\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-streamer-missmikkaa-is-playing-elden-ring-with-an-actual-guitar",
+          "publishedOn": "2023-02-06T15:48:44.000Z",
+          "wordCount": 5329,
+          "title": "Twitch streamer MissMikkaa is playing Elden Ring with an actual guitar",
+          "imageUrl": "https://assets.reedpopcdn.com/missmikkaa-elden-ring-guitar.png/BROK/thumbnail/1200x630/missmikkaa-elden-ring-guitar.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/dead-space-remake-hides-secret-sea-shanty-easter-egg",
+          "author": "Tom Phillips",
+          "description": "I was wandering around the USG Ishimura last night and found a creepy staff room, where a circle of candles were arranged in front of a TV screen showing the series' infamous red Marker. \r\n\n\r\nThe room seemed ripe for a secret, so I began picking up the candles one by one with Stasis, throwing them to the floor - which also blew them out. Nothing happened. \r\n\n\r\nThis morning, I've seen others had more luck than I did at unlocking a special secret here - and that Dead Space remake developer Motive has a wonderful Easter egg hidden away for those who take the time to puzzle it out.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-space-remake-hides-secret-sea-shanty-easter-egg",
+          "publishedOn": "2023-02-06T13:06:46.000Z",
+          "wordCount": 4988,
+          "title": "Dead Space remake hides secret sea shanty Easter egg",
+          "imageUrl": "https://assets.reedpopcdn.com/Dead-Space-Official-Gameplay-Trailer-0-38-screenshot.png/BROK/thumbnail/1200x630/Dead-Space-Official-Gameplay-Trailer-0-38-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/unreleased-wii-u-game-star-fox-armada-would-have-featured-puppet-visuals-online-multiplayer-and-invasions",
+          "author": "Ed Nightingale",
+          "description": "New details have emerged on the Retro Studios pitch Star Fox Armada for the Wii U, which was sadly never developed.\r\n\n\r\nYouTube channel Did You Know Gaming spoke with former Retro Studios artist Eric Kozlowsky, who came up with the concept for the game.\r\n\n\r\nNot only would the game have had a puppet visual style reminiscent of the series' early promotional images, it would have had a major focus on online multiplayer.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/unreleased-wii-u-game-star-fox-armada-would-have-featured-puppet-visuals-online-multiplayer-and-invasions",
+          "publishedOn": "2023-02-06T13:06:06.000Z",
+          "wordCount": 5260,
+          "title": "Unreleased Wii U game Star Fox Armada would have featured puppet visuals, online multiplayer, and invasions",
+          "imageUrl": "https://assets.reedpopcdn.com/Star-Fox-Armada_-Retro's-Wii-U-Game-That-Never-Was-Ft.-%40BoundaryBreak-0-54-screenshot-(1).png/BROK/thumbnail/1200x630/Star-Fox-Armada_-Retro's-Wii-U-Game-That-Never-Was-Ft.-%40BoundaryBreak-0-54-screenshot-(1).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/marvels-midnight-suns-originally-had-around-25-heroes",
+          "author": "Tom Phillips",
+          "description": "An initial character roster for Marvel's Midnight Suns featured around 25 heroes, director Jake Solomon has revealed. \n\r\nFiraxis' excellent tactical role-playing game ultimately featured 12 of the biggest Avengers and Midnight Suns faces in its final version - with plans to add four more characters post-launch. \r\n\n\r\nHowever, trimming down that final roster to something more manageable involved discussing several famous Marvel characters and whether they were suitable. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/marvels-midnight-suns-originally-had-around-25-heroes",
+          "publishedOn": "2023-02-06T12:41:27.000Z",
+          "wordCount": 5046,
+          "title": "Marvel's Midnight Suns originally had around 25 heroes",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_MHWrob4.jpg/BROK/thumbnail/1200x630/Untitled-1_MHWrob4.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/final-fantasy-7-remake-producer-says-story-changes-were-necessary-to-keep-peoples-interest",
           "author": "Ed Nightingale",
@@ -7423,6 +7553,26 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=69904",
+          "author": "Timothy Clem",
+          "description": "A look at what went into building the world's largest public code search index.",
+          "link": "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/",
+          "publishedOn": "2023-02-06T17:00:46.000Z",
+          "wordCount": 3930,
+          "title": "The technology behind GitHub’s new code search",
+          "imageUrl": "https://github.blog/wp-content/uploads/2023/02/code-search-header.png"
+        },
+        {
+          "id": "https://github.blog/?p=68491",
+          "author": "Mark Paulsen",
+          "description": "Explore how GitHub Advanced Security can help address several of the OWASP Top 10 vulnerabilities",
+          "link": "https://github.blog/2023-02-06-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/",
+          "publishedOn": "2023-02-06T15:02:16.000Z",
+          "wordCount": 1672,
+          "title": "How to mitigate OWASP vulnerabilities while staying in the flow",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/11/owasp.png"
+        },
         {
           "id": "https://github.blog/?p=70011",
           "author": "Lee Reilly",
