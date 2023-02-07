@@ -124,16 +124,6 @@
           "wordCount": 209,
           "title": "Outdated Periodic Table",
           "imageUrl": "https://imgs.xkcd.com/comics/outdated_periodic_table_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2722/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/etymonline.png\" title=\"NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.\" alt=\"NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.\" />",
-          "link": "https://xkcd.com/2722/",
-          "publishedOn": "2023-01-09T00:00:00.000Z",
-          "wordCount": 205,
-          "title": "Etymonline",
-          "imageUrl": "https://imgs.xkcd.com/comics/etymonline_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/02/malware-delivered-through-google-search.html",
+          "author": null,
+          "description": "<p>Criminals using Google search ads to deliver malware isn&#8217;t new, but Ars Technica <a href=\"https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/\">declared</a> that the problem has become much worse recently.</p>\n<blockquote><p>The surge is coming from numerous malware families, including AuroraStealer, IcedID, Meta Stealer, RedLine Stealer, Vidar, Formbook, and XLoader. In the past, these families typically relied on phishing and malicious spam that attached Microsoft Word documents with booby-trapped macros. Over the past month, Google Ads has become the go-to place for criminals to spread their malicious wares that are disguised as legitimate downloads by impersonating brands such as Adobe Reader, Gimp, Microsoft Teams, OBS, Slack, Tor, and Thunderbird...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/02/malware-delivered-through-google-search.html",
+          "publishedOn": "2023-02-07T12:23:54.000Z",
+          "wordCount": 803,
+          "title": "Malware Delivered through Google Search",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/02/attacking-machine-learning-systems.html",
           "author": null,
@@ -4198,24 +4198,63 @@
       "title": "Alpine Linux News",
       "feedUrl": "https://alpinelinux.org/atom.xml",
       "siteUrl": "https://alpinelinux.org/atom.xml",
-      "articles": [
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.17.1-released.html",
-          "author": null,
-          "description": "Alpine 3.17.1 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.17.1-released.html",
-          "publishedOn": "2023-01-09T00:00:00.000Z",
-          "wordCount": 1762,
-          "title": "Alpine 3.17.1 released",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Eurogamer.net News Feed",
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/bioshock-creators-next-game-judas-to-be-released-by-march-2025",
+          "author": "Ed Nightingale",
+          "description": "Judas, the next game from BioShock creator Ken Levine, is set to be released by March 2025.\r\n\n\r\nFrom developer Ghost Story Games, the game was first shown at The Game Awards last December and looks to include many familiar features to BioShock fans. It's set for PC, PlayStation 5 and Xbox Series X/S.\r\n\r\n\n\r\nThe release date news comes from Take-Two's latest earnings report, which states the publisher will release 87 games between fiscal 2023 and fiscal 2025 (ending March that year).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bioshock-creators-next-game-judas-to-be-released-by-march-2025",
+          "publishedOn": "2023-02-07T12:04:41.000Z",
+          "wordCount": 4839,
+          "title": "BioShock creator's next game, Judas, to be released by March 2025",
+          "imageUrl": "https://assets.reedpopcdn.com/Judas---Reveal-Trailer-_-PS5-Games-0-19-screenshot.png/BROK/thumbnail/1200x630/Judas---Reveal-Trailer-_-PS5-Games-0-19-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/take-two-expects-cost-reduction-program-as-string-of-games-flop",
+          "author": "Tom Phillips",
+          "description": "Grand Theft Auto publisher Take-Two has confirmed a \"cost reduction program\" to cut $50m of annual spending after a string of high-profile launches failed to find an audience.\r\n\n\r\nSpeaking to investors, Take-Two boss Strauss Zelnick said recent releases such as the excellent but overlooked Marvel's Midnight Suns, plus PGA Tour 2K23 and New Tales of the Borderlands, had all been received well but sold poorly.\r\n\n\r\n\"We're seeing softness in the overall market,\" Zelnick subsequently told GamesIndustry.biz. \"Our titles are performing, we've gotten great review scores, we've gotten terrific critical acclaim. And one after another, we've been delivering hits into the current market. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/take-two-expects-cost-reduction-program-as-string-of-games-flop",
+          "publishedOn": "2023-02-07T11:51:22.000Z",
+          "wordCount": 4944,
+          "title": "Take-Two expects \"cost reduction program\" as string of games flop",
+          "imageUrl": "https://assets.reedpopcdn.com/new-tales-from-the-borderlands-octavio-cropped.jpg/BROK/thumbnail/1200x630/new-tales-from-the-borderlands-octavio-cropped.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-breaks-another-viewership-record-with-episode-four",
+          "author": "Victoria Kennedy",
+          "description": "The most recent episode of The Last of Us broke another viewership record for the series on its debut. \nAs reported by Variety, 7.5 million viewers in the US tuned in for the series' fourth episode on Sunday - that is an increase of 17 percent from the previous week, where 6.4 million viewers settled down with episode three. \nThe Last of Us has consistently seen its same-day audience numbers grow every week since it made its debut in January. In fact, episode four's numbers are up 60 percent from episode one's same-day numbers, for which 4.7 million of us tuned in to the premiere.\n Read more",
+          "link": "https://www.eurogamer.net/the-last-of-us-breaks-another-viewership-record-with-episode-four",
+          "publishedOn": "2023-02-07T11:36:40.000Z",
+          "wordCount": 4994,
+          "title": "The Last of Us breaks another viewership record with episode four",
+          "imageUrl": "https://assets.reedpopcdn.com/the-last-of-us-hbo-joel-and-ellie.jpg/BROK/thumbnail/1200x630/the-last-of-us-hbo-joel-and-ellie.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-switch-hardware-sales-pass-game-boy-playstation-4",
+          "author": "Tom Phillips",
+          "description": "Nintendo has now shifted a staggering 122m Switch consoles, enough to finally exclipse the Game Boy (118m) and PlayStation 4 (117m). \r\n\n\r\nSix years on from launch, this total places Switch as the third-best selling game platform of all time, behind Nintendo DS (154m) and PlayStation 2 (above 155m).\r\n\n\r\nCan Switch still rise further? Console sales are slowing - down 21 percent year-on-year - but it still seems possible, with sales of the Switch OLED model balancing out declining sales of the vanilla Switch and portable-only Lite. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-switch-hardware-sales-pass-game-boy-playstation-4",
+          "publishedOn": "2023-02-07T11:27:26.000Z",
+          "wordCount": 4975,
+          "title": "Nintendo Switch hardware sales pass Game Boy, PlayStation 4",
+          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1200x630/nintendo_vld9mIN.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/overwatch-2-adds-dating-sim-for-season-three",
+          "author": "Ed Nightingale",
+          "description": "Blizzard has released details of the third Overwatch 2 season, which includes a dating sim to celebrate Valentine's Day.\r\n\n\r\nLoverwatch, as it's called, is a thirty minute non-canon text-based dating sim that allows players to date either Mercy or Genji, assisted by Cupid (Hanzo). A secret ending rewards players with a themed POTG Highlight.\r\n\n\r\nLaunching on 13th February, it will be available via web client only until 28th February.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/overwatch-2-adds-dating-sim-for-season-three",
+          "publishedOn": "2023-02-07T11:24:31.000Z",
+          "wordCount": 5002,
+          "title": "Overwatch 2 adds dating sim for season three",
+          "imageUrl": "https://assets.reedpopcdn.com/hanzo-cupid.png/BROK/thumbnail/1200x630/hanzo-cupid.png"
+        },
         {
           "id": "https://www.eurogamer.net/tekken-8-includes-series-regular-nina-williams",
           "author": "Tom Phillips",
