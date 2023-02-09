@@ -124,16 +124,6 @@
           "wordCount": 209,
           "title": "Washing Machine Settings",
           "imageUrl": "https://imgs.xkcd.com/comics/washing_machine_settings_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2723/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/outdated_periodic_table.png\" title=\"Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.\" alt=\"Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.\" />",
-          "link": "https://xkcd.com/2723/",
-          "publishedOn": "2023-01-11T00:00:00.000Z",
-          "wordCount": 209,
-          "title": "Outdated Periodic Table",
-          "imageUrl": "https://imgs.xkcd.com/comics/outdated_periodic_table_2x.png"
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2023/then-and-now/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2023/then-and-now/",
+          "publishedOn": "2023-02-09T00:00:00.000Z",
+          "wordCount": 2431,
+          "title": "Pair Programming Then vs Now",
+          "imageUrl": "https://www.monkeyuser.com/assets/images/2023/259-then-and-now.png"
+        },
         {
           "id": "https://www.monkeyuser.com/2023/aiaas/",
           "author": null,
@@ -175,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/02/mary-queen-of-scots-letters-decrypted.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.bbc.com/news/world-europe-64569883\">This</a> <a href=\"https://www.bbc.com/news/uk-scotland-64568222\">is</a> <a href=\"https://www.courthousenews.com/codebreakers-crack-secret-contents-of-letters-from-mary-queen-of-scots/\">a</a> neat piece of historical research.</p>\n<blockquote><p>The team of computer scientist George Lasry, pianist Norbert Biermann and astrophysicist Satoshi Tomokiyo&#8212;all keen cryptographers&#8212;initially thought the batch of encoded documents related to Italy, because that was how they were filed at the Bibliothèque Nationale de France.</p>\n<p>However, they quickly realised the letters were in French. Many verb and adjectival forms being feminine, regular mention of captivity, and recurring names&#8212;such as Walsingham&#8212;all put them on the trail of Mary. Sir Francis Walsingham was Queen Elizabeth&#8217;s spymaster...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/02/mary-queen-of-scots-letters-decrypted.html",
+          "publishedOn": "2023-02-09T12:15:29.000Z",
+          "wordCount": 766,
+          "title": "Mary Queen of Scots Letters Decrypted",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/02/solarwinds-and-market-incentives.html",
           "author": null,
@@ -4171,96 +4181,6 @@
           "wordCount": 1964,
           "title": "A fifth of passwords used by federal agency cracked in security audit",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/password-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908751",
-          "author": "Benj Edwards",
-          "description": "Koko let 4,000 people get therapeutic help from GPT-3 without telling them first.",
-          "link": "https://arstechnica.com/?p=1908751",
-          "publishedOn": "2023-01-10T23:11:02.000Z",
-          "wordCount": 1917,
-          "title": "Controversy erupts over non-consensual AI mental health experiment",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robot_therapist_hero_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1909029",
-          "author": "Kyle Orland",
-          "description": "Quest 2 and Quest Pro will be unaffected, for now.",
-          "link": "https://arstechnica.com/?p=1909029",
-          "publishedOn": "2023-01-10T22:35:59.000Z",
-          "wordCount": 1567,
-          "title": "Meta ends support for original Quest headset after less than 4 years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/IMG_1217-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908641",
-          "author": "Scharon Harding",
-          "description": "CES 2023 promised brighter OLED, but LCDs still have a major advantage.",
-          "link": "https://arstechnica.com/?p=1908641",
-          "publishedOn": "2023-01-10T22:26:26.000Z",
-          "wordCount": 1919,
-          "title": "How will 2023 TVs address OLED’s biggest flaws?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Samsung-77inch-QDOLED-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908893",
-          "author": "Ron Amadeo",
-          "description": "But Microsoft is still \"all-in\" with Android, plans a Galaxy Fold-style device.",
-          "link": "https://arstechnica.com/?p=1908893",
-          "publishedOn": "2023-01-10T20:32:12.000Z",
-          "wordCount": 1911,
-          "title": "RIP Surface Duo—Microsoft reportedly gives up on the weird form factor",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Surface-Duo-12L-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908947",
-          "author": "Beth Mole",
-          "description": "Lawmakers have already called Pfizer's similar plan \"pure and deadly greed.\"",
-          "link": "https://arstechnica.com/?p=1908947",
-          "publishedOn": "2023-01-10T19:21:27.000Z",
-          "wordCount": 1641,
-          "title": "Moderna CEO: 400% price hike on COVID vaccine “consistent with the value”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1240911434-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908925",
-          "author": "Jon Brodkin",
-          "description": "Errors suggest ISPs are claiming to serve more homes than they actually do.",
-          "link": "https://arstechnica.com/?p=1908925",
-          "publishedOn": "2023-01-10T19:14:39.000Z",
-          "wordCount": 1967,
-          "title": "FCC’s new broadband map greatly overstates actual coverage, senators say",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908819",
-          "author": "Jennifer Ouellette",
-          "description": "Bonus: A glimpse of MODOK.",
-          "link": "https://arstechnica.com/?p=1908819",
-          "publishedOn": "2023-01-10T18:59:25.000Z",
-          "wordCount": 1848,
-          "title": "Kang the Conqueror is shattering timelines in new Quantumania trailer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/antman1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908843",
-          "author": "Andrew Cunningham",
-          "description": "End goal is said to be one chip that can handle Wi-Fi, Bluetooth, and cellular.",
-          "link": "https://arstechnica.com/?p=1908843",
-          "publishedOn": "2023-01-10T18:44:19.000Z",
-          "wordCount": 1583,
-          "title": "Report: Apple plans to use its own Wi-Fi and Bluetooth chip in future iPhones",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/iphone-14-pro-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1908901",
-          "author": "Kyle Orland",
-          "description": "Nyxi's GameCube-style buttons show the way to more weird control layout options.",
-          "link": "https://arstechnica.com/?p=1908901",
-          "publishedOn": "2023-01-10T18:37:05.000Z",
-          "wordCount": 1937,
-          "title": "A humble request for more weird Nintendo Switch controllers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/nyxicube-760x380.png"
         }
       ]
     },
@@ -4355,6 +4275,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/life-is-strange-developer-announces-2d-narrative-game",
+          "author": "Tom Phillips",
+          "description": "Harmony: The Fall of Reverie was a surprise inclusion in last night's Nintendo Direct from French developer Don't Nod - the studio behind the original Life is Strange games, Remember Me and Tell Me Why. \r\n\n\r\nDue for launch in June for Nintendo Switch, PC, PlayStation 5 and Xbox Series X/S, the title is notable for its colourful 2D visuals - something of a departure for Don't Nod.\r\n\n\r\nFor fans of Don't Nod's choice-based storytelling, Harmony: The Fall of Reverie seems to offer something more familiar. Actions you take will open up new branching story paths, as the main character Polly engages in clairvoyance and interacts with a set of god-like spirits aligned with \"Aspirations of Humanity\" such as Glory, Power, Chaos and Bliss.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/life-is-strange-developer-announces-2d-narrative-game",
+          "publishedOn": "2023-02-09T11:06:19.000Z",
+          "wordCount": 4803,
+          "title": "Life is Strange developer announces 2D narrative game",
+          "imageUrl": "https://assets.reedpopcdn.com/Harmony_-The-Fall-of-Reverie---Reveal-Teaser-1-13-screenshot.png/BROK/thumbnail/1200x630/Harmony_-The-Fall-of-Reverie---Reveal-Teaser-1-13-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-season-2-adds-just-two-new-6v6-multiplayer-maps-but-theyre-not-really-new",
+          "author": "Wesley Yin-Poole",
+          "description": "Activision finally confirmed what Call of Duty: Modern Warfare 2 6v6 multiplayer fans can look forward to from Season 2.\r\n\n\r\nThe company said two \"new\" maps are set to hit the shooter as part of its second season: Dome and Valderas Museum.\r\n\n\r\nHowever, fans have taken issue with Activision calling these maps new. Dome is a remake of a map that has featured in multiple Call of Duty games in the past, including 2021's Vanguard. It made its debut in Call of Duty: World at War. Specifically, the version set to hit this Modern Warfare 2 is from Infinity Ward's 2011 game Modern Warfare 3.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-season-2-adds-just-two-new-6v6-multiplayer-maps-but-theyre-not-really-new",
+          "publishedOn": "2023-02-09T08:43:32.000Z",
+          "wordCount": 5224,
+          "title": "Call of Duty: Modern Warfare 2 Season 2 adds just two \"new\" 6v6 multiplayer maps, but they're not really new",
+          "imageUrl": "https://assets.reedpopcdn.com/MWII-S02-ANNOUNCEMENT-019.jpg/BROK/thumbnail/1200x630/MWII-S02-ANNOUNCEMENT-019.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/everything-announced-in-the-nintendo-direct-1",
           "author": "Wesley Yin-Poole",
@@ -7904,36 +7844,6 @@
           "wordCount": 4931,
           "title": "Final Fantasy 16 producer confuses fans with PC release response",
           "imageUrl": "https://assets.reedpopcdn.com/Final-Fantasy-XVI---Revenge-Trailer-_-PS5-Games-0-45-screenshot.png/BROK/thumbnail/1200x630/Final-Fantasy-XVI---Revenge-Trailer-_-PS5-Games-0-45-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/hbos-the-last-of-us-tv-adaptation-is-getting-rave-reviews-from-critics",
-          "author": "Matt Wales",
-          "description": "We're less than a week away from the highly anticipated debut of HBO's live-action The Last of Us TV adaptation and early reviews from critics are positively glowing, with the series currently enjoying a 96% rating on Rotten Tomatoes across more than 40 reviews at the time of writing.\r\n\n\r\nFirst announced back in 2020, HBO's The Last of Us TV adaptation has been written and created by Chernobyl's Craig Mazin, alongside Naughty Dog's Neil Druckmann. It stars Pedro Pascal as Joel and Bella Ramsey as Ellie, with other notable cast members including Nick Offerman in the role of Bill, Jeffrey Pierce (who played Joel's brother Tommy in the Last of Us video games) as quarantine zone rebel Perry, Gabriel Luna as Tommy, and Merle Dandridge, who reprises her video game role of Marlene, the leader of the Fireflies resistance.\r\n\n\r\nThe last few months have seen HBO's PR machine crank into top gear as The Last of Us' January release approaches, with December bringing the show's second full-length trailer. Now, though, some lucky professional critics have had the chance to watch the entirety of the show's first season, and - despite some notable changes to the source material - the praise is effusive.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hbos-the-last-of-us-tv-adaptation-is-getting-rave-reviews-from-critics",
-          "publishedOn": "2023-01-10T23:19:06.000Z",
-          "wordCount": 4988,
-          "title": "HBO's The Last of Us TV adaptation is getting rave reviews from critics",
-          "imageUrl": "https://assets.reedpopcdn.com/the-last-of-us-tv-still.jpg/BROK/thumbnail/1200x630/the-last-of-us-tv-still.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/uk-government-makes-gigabit-capable-internet-connections-mandatory-in-new-england-homes",
-          "author": "Matt Wales",
-          "description": "The UK government has passed a law mandating new homes in England must be built with \"lightning-fast\" gigabit-capable broadband connections.\r\n\n\r\nGigabit broadband - that is, broadband capable of download speeds of at least 1 gigabit-per-second - is currently available in over 72% of the UK, according to the government's figures. However, a new law, in effect since December, aims to increases that percentage further by making it a legal requirement that new homes are fitted with infrastructure and connections capable of delivering gigabit broadband.\r\n\n\r\n\"The updated regulations mean that more people moving into new homes will have a gigabit-capable broadband connection ready when construction is completed,\" the government explained, \"avoiding the need for costly and disruptive installation work after the home is built and enabling residents to arrange the best possible internet service at the point they move in.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/uk-government-makes-gigabit-capable-internet-connections-mandatory-in-new-england-homes",
-          "publishedOn": "2023-01-10T21:31:19.000Z",
-          "wordCount": 4832,
-          "title": "UK government makes gigabit-capable internet connections mandatory in new England homes",
-          "imageUrl": "https://assets.reedpopcdn.com/gigabit-broadband-ad.jpg/BROK/thumbnail/1200x630/gigabit-broadband-ad.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/one-piece-odyssey-demo-now-available-on-xbox-and-playstation",
-          "author": "Matt Wales",
-          "description": "If you're at all curious about One Piece Odyssey - the latest limb-stretching video game adventure for Monkey D. Luffy and friends - Namco Bandai has you covered, with a demo now available on Xbox and PlayStation ahead of this Friday's release.\r\n\n\r\nOne Piece Odyssey unfolds on a mysterious island discovered by the Straw Hats pirate gang after their ship is caught in a storm. The ensuing action takes the form of an RPG, with open-world exploration punctuated by turn-based battles and dungeons - with each of the game's playable characters able to use their unique abilities in variety of situations, including battles, traversal, and puzzle solving.\r\n\n\r\nPlayable characters include Luffy, Zoro, Sani, Usopp, and Nami, with the likes of Portgas D. Ace and Trafalgar Law putting in an appearance as supporting characters that can fight alongside the core crew. In story terms, that's possible thanks to Memoria - a realm made of the Straw Hats' memories, which they'll need to explore to retrieve their lost abilities.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/one-piece-odyssey-demo-now-available-on-xbox-and-playstation",
-          "publishedOn": "2023-01-10T19:33:45.000Z",
-          "wordCount": 4688,
-          "title": "One Piece Odyssey demo now available on Xbox and PlayStation",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_0bfc12b4a78005c4a22457bea78bcb1f58b95d5f.1920x1080.jpg/BROK/thumbnail/1200x630/ss_0bfc12b4a78005c4a22457bea78bcb1f58b95d5f.1920x1080.jpg"
         }
       ]
     },
@@ -8241,16 +8151,6 @@
           "wordCount": 2574,
           "title": "Passwordless deployments to the cloud",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/01/1200x640-2.png"
-        },
-        {
-          "id": "https://github.blog/?p=69396",
-          "author": "Ashok Kirla",
-          "description": "Now, you can standardize and enforce CI/CD best practices across all repositories in your organization to reduce duplication and secure your DevOps processes.",
-          "link": "https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/",
-          "publishedOn": "2023-01-10T19:37:32.000Z",
-          "wordCount": 1281,
-          "title": "Introducing required workflows and configuration variables to GitHub Actions",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/11/GitHub-Actions_social.png"
         }
       ]
     },
