@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2742/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/island_storage.png\" title=\"I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.\" alt=\"I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.\" />",
+          "link": "https://xkcd.com/2742/",
+          "publishedOn": "2023-02-24T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Island Storage",
+          "imageUrl": null
+        },
+        {
           "id": "https://xkcd.com/2741/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/wish_interpretation.png\" title=\"&quot;I wish for everything in the world. All the people, money, trees, etc.&quot; &quot;Are you SURE you--&quot; &quot;And I want you to put it in my house.&quot;\" alt=\"&quot;I wish for everything in the world. All the people, money, trees, etc.&quot; &quot;Are you SURE you--&quot; &quot;And I want you to put it in my house.&quot;\" />",
@@ -145,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/02/putting-undetectable-backdoors-in-machine-learning-models.html",
+          "author": null,
+          "description": "<p>This is really interesting <a href=\"https://ieeexplore.ieee.org/abstract/document/9996741\">research</a> from a few months ago:</p>\n<blockquote><p><b>Abstract:</b> Given the computational cost and technical expertise required to train machine learning models, users may delegate the task of learning to a service provider. Delegation of learning has clear benefits, and at the same time raises serious concerns of trust. This work studies possible abuses of power by untrusted learners.We show how a malicious learner can plant an undetectable backdoor into a classifier. On the surface, such a backdoored classifier behaves normally, but in reality, the learner maintains a mechanism for changing the classification of any input, with only a slight perturbation. Importantly, without the appropriate &#8220;backdoor key,&#8221; the mechanism is hidden and cannot be detected by any computationally-bounded observer. We demonstrate two frameworks for planting undetectable backdoors, with incomparable guarantees...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/02/putting-undetectable-backdoors-in-machine-learning-models.html",
+          "publishedOn": "2023-02-24T12:34:49.000Z",
+          "wordCount": 1443,
+          "title": "Putting Undetectable Backdoors in Machine Learning Models",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/02/cyberwar-lessons-from-the-war-in-ukraine.html",
           "author": null,
@@ -362,6 +382,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1919848",
+          "author": "Kyle Orland",
+          "description": "A sad end of an era for one of the original paid, viral mobile hits.",
+          "link": "https://arstechnica.com/?p=1919848",
+          "publishedOn": "2023-02-24T16:58:41.000Z",
+          "wordCount": 1861,
+          "title": "Rovio delists pay-to-own Angry Birds because it hurt free-to-play earnings",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/ab-copy-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1919798",
+          "author": "Chuong Nguyen",
+          "description": "Save up to $500 on Ultrabooks and gaming and convertible laptops.",
+          "link": "https://arstechnica.com/?p=1919798",
+          "publishedOn": "2023-02-24T16:18:21.000Z",
+          "wordCount": 1912,
+          "title": "Dealmaster: The best deals on Intel laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/xps15OLED1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1919705",
+          "author": "Ars Contributors",
+          "description": "Opinion: The worst human impulses will find plenty of uses for generative AI.",
+          "link": "https://arstechnica.com/?p=1919705",
+          "publishedOn": "2023-02-24T15:23:34.000Z",
+          "wordCount": 1802,
+          "title": "Don’t worry about AI breaking out of its box—worry about us breaking in",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/ai-attack-dog-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1919758",
+          "author": "Eric Berger",
+          "description": "A Vulcan flying on May the 4th is the crossover we all needed.",
+          "link": "https://arstechnica.com/?p=1919758",
+          "publishedOn": "2023-02-24T15:02:49.000Z",
+          "wordCount": 2150,
+          "title": "After Vulcan comes online, ULA plans to dramatically increase launch cadence",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/20230125194923_608707-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1919774",
+          "author": "The Conversation",
+          "description": "What does the future look like for extant species that are extinct in the wild?",
+          "link": "https://arstechnica.com/?p=1919774",
+          "publishedOn": "2023-02-24T14:21:21.000Z",
+          "wordCount": 2262,
+          "title": "Why time is running out to restore animals existing only in captivity to the wild",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/socorro-dove-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1919514",
+          "author": "Eric Berger",
+          "description": "“Each Artemis mission will be properly characterized as a test mission.\"",
+          "link": "https://arstechnica.com/?p=1919514",
+          "publishedOn": "2023-02-24T12:00:23.000Z",
+          "wordCount": 2133,
+          "title": "Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/terran-1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1919740",
           "author": "Beth Mole",
@@ -2026,6 +2106,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/flight-simulators-latest-world-update-gives-new-zealand-a-bit-of-a-makeover",
+          "author": "Matt Wales",
+          "description": "Developer Asobo's relentless stroll around its digital globe with a touch-up brush in hand continues with the release of Flight Simulator's World Update 12, which is available now bringing a bunch of enhancements to its rendition of New Zealand.\r\n\n\r\nNew Zealand's makeover marks the 12th World Update to release for Flight Simulator since its launch in 2020, and follows similar spruce-ups for - deep breath - Andorra, Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Gibraltar, Iceland, Ireland, Japan, Luxembourg, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, and the UK.\r\n\n\r\nWorld Update 12 brings similar additions to those seen in previous updates, meaning new high-resolution satellite and aerial imagery, plus improved digital elevation models. It also features seven new photogrammetry enhanced cities - Auckland, Christchurch, Hamilton, Nelson, Queenstown, Tauranga, and Wellington - and nine new handcrafted airports.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/flight-simulators-latest-world-update-gives-new-zealand-a-bit-of-a-makeover",
+          "publishedOn": "2023-02-24T16:37:05.000Z",
+          "wordCount": 5251,
+          "title": "Flight Simulator's latest World Update gives New Zealand a bit of a makeover",
+          "imageUrl": "https://assets.reedpopcdn.com/flight-simulator-world-update-new-zealand.jpg/BROK/thumbnail/1200x630/flight-simulator-world-update-new-zealand.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/baldurs-gate-3-doesnt-have-playstation-exclusivity-but-isnt-coming-to-xbox-for-now",
+          "author": "Tom Phillips",
+          "description": "Last night's Sony State of Play broadcast brought us a fresh look at the long-awaited Baldur's Gate 3 and our first confirmation it will release for PlayStation 5 as well as PC. \r\n\n\r\nBut what about Xbox? Had Sony splashed its cash and bought timed exclusivity? Or even full exclusivity?\r\n\n\r\nSome viewers wondered if we'd hear about a version of Baldur's Gate 3 for Microsoft's consoles in due course, after Sony's show concluded. After all, it'd be nothing new for console makers to keep mention of their rivals out of such events.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3-doesnt-have-playstation-exclusivity-but-isnt-coming-to-xbox-for-now",
+          "publishedOn": "2023-02-24T15:37:52.000Z",
+          "wordCount": 5006,
+          "title": "Baldur's Gate 3 doesn't have PlayStation exclusivity, but isn't coming to Xbox for now",
+          "imageUrl": "https://assets.reedpopcdn.com/Baldur's-Gate-3---Release-Date-Reveal-Trailer-1-1-screenshot.png/BROK/thumbnail/1200x630/Baldur's-Gate-3---Release-Date-Reveal-Trailer-1-1-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/is-aloy-really-that-short-in-horizon-call-of-the-mountain",
+          "author": "Ed Nightingale",
+          "description": "Perspective is a funny thing, especially when you're playing in VR - be it seated, standing or otherwise.\r\n\n\r\nWell, however you choose to play Horizon Call of the Mountain, it turns out Aloy is a lot shorter than some players imagined. \r\n\n\r\nPlayers have been sharing screenshots on social media of the game and the series' protagonist does indeed look a little small. One player even gave her a little boop on the nose.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/is-aloy-really-that-short-in-horizon-call-of-the-mountain",
+          "publishedOn": "2023-02-24T15:10:31.000Z",
+          "wordCount": 5122,
+          "title": "Is Aloy really that short in Horizon Call of the Mountain?",
+          "imageUrl": "https://assets.reedpopcdn.com/aloy-short1.jpg/BROK/thumbnail/1200x630/aloy-short1.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/calendar-app-company-confirms-the-day-before-trademark-dispute",
+          "author": "Ed Nightingale",
+          "description": "The Day Before developer Fntastic is embroiled in a trademark dispute with a Korean calendar app of the same name, Eurogamer can confirm.\r\n\n\r\nEarlier this month, Fntastic tweeted that videos of its forthcoming game had been removed from Steam and YouTube due to a trademark dispute. \"The so-called 'owner' of the rights to the title is the creator of the calendar app, which has nothing to do with the games category,\" the studio said.\r\n\r\n\n\r\nNow, in a response to Eurogamer, the developer of the calendar app has confirmed it holds the trademark rights to the app's name 'The Day Before' and is \"taking measures to protect trademark rights\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/calendar-app-company-confirms-the-day-before-trademark-dispute",
+          "publishedOn": "2023-02-24T15:00:00.000Z",
+          "wordCount": 4958,
+          "title": "Calendar app company confirms The Day Before trademark dispute",
+          "imageUrl": "https://assets.reedpopcdn.com/1920x1080_wRH5k08.png/BROK/thumbnail/1200x630/1920x1080_wRH5k08.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/sons-of-the-forest-launches-big-on-steam",
+          "author": "Tom Phillips",
+          "description": "Survival horror sequel Sons of the Forest is currently blowing up on Steam after its early access launch there yesterday.\r\n\n\r\nSet on an island filled with cannibals and mutants where you must chop down trees and craft stuctures and weapons to survive, Sons of the Forest is the long-awaited sequel to the well-received The Forest.\r\n\n\r\nFour years on from The Forest's debut (and eight since it first launched via its own early access programme), this follow-up now sits comfortably on top of Steam's list of best-selling games by revenue, above Company of Heroes 3 and Destiny 2, which is currently selling its new Lightfall expansion.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sons-of-the-forest-launches-big-on-steam",
+          "publishedOn": "2023-02-24T14:44:04.000Z",
+          "wordCount": 4894,
+          "title": "Sons of the Forest launches big on Steam",
+          "imageUrl": "https://assets.reedpopcdn.com/sons-of-the-forest.jpeg/BROK/thumbnail/1200x630/sons-of-the-forest.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-foundation-vr-game-looks-as-faithful-to-isaac-asimovs-books-as-the-apple-tv-show",
+          "author": "Wesley Yin-Poole",
+          "description": "One of the big surprises from Sony's PlayStation State of Play broadcast was the announcement of a virtual reality game based on Isaac Asimov's much-loved sci-fi book series, Foundation.\r\n\n\r\nJourney to Foundation, developed by Canadian studio Archiact, is due out on PSVR2, Meta Quest 2 and Pico 4 autumn 2023.\r\n\n\r\nThe announcement trailer, which begins with a quote from Asimov's book, talks about the Empire falling and the galaxy plunging into 30,000 years of chaos and war. That's very much the same setup as Asimov's series, which revolves around a devastating prediction of humanity's collapse by a maths genius called Hari Seldon. The Foundation itself is a group led by Seldon that attempts to limit the impact of this inevitable collapse by populating new, far-flung worlds. Suffice it to say, this plan does not go exactly to plan. Or maybe it does, if you're Hari Seldon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-foundation-vr-game-looks-as-faithful-to-isaac-asimovs-books-as-the-apple-tv-show",
+          "publishedOn": "2023-02-24T13:47:06.000Z",
+          "wordCount": 5339,
+          "title": "The Foundation VR game looks as faithful to Isaac Asimov's books as the Apple TV show",
+          "imageUrl": "https://assets.reedpopcdn.com/Journey-to-Foundation---Screenshot-2.png/BROK/thumbnail/1200x630/Journey-to-Foundation---Screenshot-2.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/embracer-signs-major-lord-of-the-rings-movie-deal",
+          "author": "Tom Phillips",
+          "description": "Video game publisher Embracer has announced a new movie deal to put The Lord of the Rings back on the big screen. \r\n\n\r\nEmbracer has had a mixed time of late, with its big budget Saints Row reboot failing to find an audience and its Star Wars Knights of the Old Republic remake from Aspyr reportedly being placed \"on pause\".\r\n\n\r\nFor Embracer, this lucrative film deal with New Line Cinema and Warner Bros. Pictures is far more positive news. \"Multiple\" movies are planned, expanding on \"the revered works of JRR Tolkien\", including elements from The Hobbit and The Lord of the Rings. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/embracer-signs-major-lord-of-the-rings-movie-deal",
+          "publishedOn": "2023-02-24T12:35:07.000Z",
+          "wordCount": 4746,
+          "title": "Embracer signs major Lord of the Rings movie deal",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_MKE8lGO.jpg/BROK/thumbnail/1200x630/Untitled-1_MKE8lGO.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/street-fighter-6s-cammy-has-a-super-move-ripped-straight-from-the-street-fighter-2-animated-movie",
           "author": "Wesley Yin-Poole",
