@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html",
+          "author": null,
+          "description": "<p><a href=\"https://pq-crystals.org/kyber/\">CRYSTALS-Kyber</a> is one of the public-key algorithms currently <a href=\"https://csrc.nist.gov/News/2022/pqc-candidates-to-be-standardized-and-round-4\">recommended</a> by NIST as part of its post-quantum cryptography <a href=\"https://csrc.nist.gov/projects/post-quantum-cryptography\">standardization process</a>.</p>\n<p>Researchers have <a href=\"https://eprint.iacr.org/2022/1713.pdf\">just published</a> a side-channel attack&#8212;using power consumption&#8212;against an implementation of the algorithm that was supposed to be resistant against that sort of attack.</p>\n<p>The algorithm is not &#8220;broken&#8221; or &#8220;cracked&#8221;&#8212;despite <a href=\"https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ai-helps-crack-a-nist-recommended-post-quantum-encryption-algorithm/amp/\">headlines</a> to the contrary&#8212;this is just a  side-channel attack. What makes this work really interesting is that the researchers used a machine-learning model to train the system to exploit the side channel...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html",
+          "publishedOn": "2023-02-28T12:19:15.000Z",
+          "wordCount": 739,
+          "title": "Side-Channel Attack against CRYSTALS-Kyber",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/02/banning-tiktok.html",
           "author": null,
           "description": "<p>Congress is currently <a href=\"https://www.lawfareblog.com/new-bill-proposes-banning-tiktok-us\">debating</a> <a href=\"https://thehill.com/homenews/3830636-hawley-buck-introduce-bill-to-ban-tiktok-in-us/\">bills</a> that would ban TikTok in the United States. We are here as technologists to tell you that this is a terrible idea and the side effects would be intolerable. Details matter. There are several ways Congress might ban TikTok, each with different efficacies and side effects. In the end, all the effective ones would destroy the free Internet as we know it.</p>\n<p>There&#8217;s no doubt that TikTok and ByteDance, the company that owns it, are shady. They, like most large corporations in China, operate at the pleasure of the Chinese government. They collect extreme levels of information about users. But they&#8217;re not alone: Many apps you use do the same, including Facebook and Instagram, along with seemingly innocuous apps that have no need for the data. Your data is bought and sold by data brokers you&#8217;ve never heard of who have few scruples about where the data ends up. They have digital dossiers on most people in the United States...</p>",
@@ -2496,6 +2506,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/resident-evil-5-steam-update-adds-local-split-screen-coop",
+          "author": "Victoria Kennedy",
+          "description": "Resident Evil 5 has received a new update on Steam. \r\n\n\r\nAlong with some smaller bug fixes, this update has also added local split-screen co-op. Yes, after nearly 14 years, it is here.\r\n\n\r\nThe split-screen co-op feature was native to all console versions, but has been notably absent from the PC version.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/resident-evil-5-steam-update-adds-local-split-screen-coop",
+          "publishedOn": "2023-02-28T12:03:17.000Z",
+          "wordCount": 5019,
+          "title": "Resident Evil 5 Steam update adds local split-screen coop",
+          "imageUrl": "https://assets.reedpopcdn.com/Resi-5.jpg/BROK/thumbnail/1200x630/Resi-5.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/miyamoto-discusses-how-nintendo-will-go-on-without-him",
+          "author": "Tom Phillips",
+          "description": "Nintendo's legendary Shigeru Miyamoto has been asked how he thinks the company will fare without him one day.\r\n\n\r\nMiyamoto, now 70, originally joined Nintendo in 1977, before going on to help create Donkey Kong, Mario and The Legend of Zelda. In the decades since, Miyamoto has become synonymous with Nintendo, and his projects have continually found huge success. \r\n\n\r\nIn an interview with NPR, Miyamoto was asked what Nintendo will look like without him. His response? That actually, it would be very similar. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/miyamoto-discusses-how-nintendo-will-go-on-without-him",
+          "publishedOn": "2023-02-28T11:54:28.000Z",
+          "wordCount": 5032,
+          "title": "Miyamoto discusses how Nintendo will eventually go on without him",
+          "imageUrl": "https://assets.reedpopcdn.com/miyamoto-pikmin_WgJYOUw.jpg/BROK/thumbnail/1200x630/miyamoto-pikmin_WgJYOUw.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/kerbal-space-program-2-rocky-launch-leaves-players-asking-for-refunds",
+          "author": "Victoria Kennedy",
+          "description": "Kerbal Space Program 2 released in early access last week, but has left players feeling like it needed longer on the launchpad.\r\n\n\r\nCurrent Steam reviews for the space-flight simulator are decidedly mixed, with many users lamenting the game's buggy state. \r\n\n\r\n\"Barely playable, feel like they should be paying me to play it at this point in development,\" wrote one user, with another adding the game is \"broken in almost every way possible\". Meanwhile, others have stated they have asked for refunds, and advise those interested in Kerbal Space Program to play the original instead.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/kerbal-space-program-2-rocky-launch-leaves-players-asking-for-refunds",
+          "publishedOn": "2023-02-28T11:13:07.000Z",
+          "wordCount": 5142,
+          "title": "Kerbal Space Program 2 rocky launch leaves players asking for refunds",
+          "imageUrl": "https://assets.reedpopcdn.com/ksp2.jpg/BROK/thumbnail/1200x630/ksp2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/forspoken-developer-luminous-productions-folded-into-square-enix",
+          "author": "Tom Phillips",
+          "description": "Forspoken developer Luminous Productions will be merged into Square Enix, ending its status as a separate entity. \r\n\n\r\nThe news follows a middling reception to Forspoken by critics and consumers, and will formally begin on 1st May. \r\n\n\r\nIn a statement, Luminous Productions said it would remain \"entirely focused on Forspoken\" until that date, and continue working on the game's previously-announced patch to address performance issues plus upcoming DLC \"In Tanta We Trust\" which is scheduled to launch this summer. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/forspoken-developer-luminous-productions-folded-into-square-enix",
+          "publishedOn": "2023-02-28T11:05:47.000Z",
+          "wordCount": 5013,
+          "title": "Forspoken developer Luminous Productions folded into Square Enix",
+          "imageUrl": "https://assets.reedpopcdn.com/GameplayShowcase_Screen008.png/BROK/thumbnail/1200x630/GameplayShowcase_Screen008.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/elden-ring-expansion-confirmed-by-fromsoftware",
+          "author": "Ed Nightingale",
+          "description": "FromSoftware has confirmed that an Elden Ring expansion is indeed on the way.\r\n\n\r\nCalled Shadow of the Erdtree, it's currently \"in development\" so the release date is unknown.\r\n\n\r\nThe developer shared the news on Twitter. \"Rise, Tarnished, and let us walk a new path together,\" it said. \"An upcoming expansion for Elden Ring Shadow of the Erdtree, is currently in development. We hope you look forward to new adventures in the Lands Between.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/elden-ring-expansion-confirmed-by-fromsoftware",
+          "publishedOn": "2023-02-28T09:16:27.000Z",
+          "wordCount": 5012,
+          "title": "Elden Ring expansion confirmed by FromSoftware",
+          "imageUrl": "https://assets.reedpopcdn.com/Elden-Ring-Shadow-of-the-Erdtree-Artwork.jpg/BROK/thumbnail/1200x630/Elden-Ring-Shadow-of-the-Erdtree-Artwork.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/beyond-good-evil-2-studio-reportedly-under-investigation-for-unprecedented-burnout-and-sick-leave",
           "author": "Matt Wales",
