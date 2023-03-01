@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T00:31:34.166Z</updated>
+    <updated>2023-03-01T06:27:28.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google adds client-side encryption to Gmail and Calendar. Should you care?]]></title>
+        <id>https://arstechnica.com/?p=1920868</id>
+        <link href="https://arstechnica.com/?p=1920868"/>
+        <updated>2023-03-01T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[New service occupies a middle ground between E2EE and mere server-side encryption]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: Introducing KWOK: Kubernetes WithOut Kubelet]]></title>
+        <id>https://kubernetes.io/blog/2023/03/01/introducing-kwok/</id>
+        <link href="https://kubernetes.io/blog/2023/03/01/introducing-kwok/"/>
+        <updated>2023-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Shiming Zhang (DaoCloud), Wei Huang (Apple), Yibo Zhuang (Apple)
+Have you ever wondered how to set up a cluster of thousands of nodes just in seconds, how to simulate real nodes with a low resource footprint, and how to test your Kubernetes controller at scale without spending much on infrastructure?
+If you answered "yes" to any of these questions, then you might be interested in KWOK, a toolkit that enables you to create a cluster of thousands of nodes in seconds.
+What is KWOK?
+KWOK stands for Kubernetes WithOut Kubelet. So far, it provides two tools:
+kwok
+kwok is the cornerstone of this project, responsible for simulating the lifecycle of fake nodes, pods, and other Kubernetes API resources.
+kwokctl
+kwokctl is a CLI tool designed to streamline the creation and management of clust…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robots let ChatGPT touch the real world thanks to Microsoft]]></title>
         <id>https://arstechnica.com/?p=1920803</id>
