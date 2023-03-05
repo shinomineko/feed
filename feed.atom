@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T18:25:43.104Z</updated>
+    <updated>2023-03-05T00:31:20.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here's that Xbox Series S toaster you've always wanted]]></title>
+        <id>https://www.eurogamer.net/heres-that-xbox-series-s-toaster-youve-always-wanted</id>
+        <link href="https://www.eurogamer.net/heres-that-xbox-series-s-toaster-youve-always-wanted"/>
+        <updated>2023-03-04T18:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Images of an Xbox Series S-themed toaster have popped up online.
+
+That's right; if you're looking for more branded kitchen merchandise to go alongside your neon-green Xbox Series X mini-fridge, images of a "Series S Toaster" have appeared on a French website.  
+
+As spotted by GyoJvbfr and XboxSquad.fr (thanks, Windows Central), it looks as though the toaster is set to release later this year, but is currently available to pre-order for residents of France and Belgium. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Try Anno 1800 for free later this month on PC and console]]></title>
         <id>https://www.eurogamer.net/try-anno-1800-for-free-later-this-month-on-pc-and-console</id>
@@ -9602,17 +9618,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Below are my prepared remarks delivered at the EU Open Source Policy Summit in Brussels on Feb 3rd.]]></summary>
         <author>
             <name>Thomas Dohmke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manipulating Weights in Face-Recognition AI Systems]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/02/manipulating-weights-in-face-recognition-ai-systems.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/02/manipulating-weights-in-face-recognition-ai-systems.html"/>
-        <updated>2023-02-03T12:07:04.000Z</updated>
-        <summary type="html"><![CDATA[<p>Interesting research: &#8220;<a href="https://arxiv.org/abs/2301.03118">Facial Misrecognition Systems: Simple Weight Manipulations Force DNNs to Err Only on Specific Persons</a>&#8220;:</p>
-<blockquote><p><b>Abstract:</b> In this paper we describe how to plant novel types of backdoors in any facial recognition model based on the popular architecture of deep Siamese neural networks, by mathematically changing a small fraction of its weights (i.e., without using any additional training or optimization). These backdoors force the system to err only on specific persons which are preselected by the attacker. For example, we show how such a backdoored system can take any two images of a particular person and decide that they represent different persons (an anonymity attack), or take any two images of a particular pair of persons and decide that they represent the same person (a confusion attack), with almost no effect on the correctness of its decisions for other persons. Uniquely, we show that multiple backdoors can be independently installed by multiple attackers who may not be aware of each other&#8217;s existence with almost no interference...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
         </author>
     </entry>
 </feed>

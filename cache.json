@@ -454,16 +454,6 @@
           "wordCount": 1288,
           "title": "A Hacker’s Mind News",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/02/manipulating-weights-in-face-recognition-ai-systems.html",
-          "author": null,
-          "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2301.03118\">Facial Misrecognition Systems: Simple Weight Manipulations Force DNNs to Err Only on Specific Persons</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> In this paper we describe how to plant novel types of backdoors in any facial recognition model based on the popular architecture of deep Siamese neural networks, by mathematically changing a small fraction of its weights (i.e., without using any additional training or optimization). These backdoors force the system to err only on specific persons which are preselected by the attacker. For example, we show how such a backdoored system can take any two images of a particular person and decide that they represent different persons (an anonymity attack), or take any two images of a particular pair of persons and decide that they represent the same person (a confusion attack), with almost no effect on the correctness of its decisions for other persons. Uniquely, we show that multiple backdoors can be independently installed by multiple attackers who may not be aware of each other&#8217;s existence with almost no interference...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/02/manipulating-weights-in-face-recognition-ai-systems.html",
-          "publishedOn": "2023-02-03T12:07:04.000Z",
-          "wordCount": 2450,
-          "title": "Manipulating Weights in Face-Recognition AI Systems",
-          "imageUrl": null
         }
       ]
     },
@@ -3226,6 +3216,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/heres-that-xbox-series-s-toaster-youve-always-wanted",
+          "author": "Vikki Blake",
+          "description": "Images of an Xbox Series S-themed toaster have popped up online.\r\n\nThat's right; if you're looking for more branded kitchen merchandise to go alongside your neon-green Xbox Series X mini-fridge, images of a \"Series S Toaster\" have appeared on a French website.  \r\n\nAs spotted by GyoJvbfr and XboxSquad.fr (thanks, Windows Central), it looks as though the toaster is set to release later this year, but is currently available to pre-order for residents of France and Belgium. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-that-xbox-series-s-toaster-youve-always-wanted",
+          "publishedOn": "2023-03-04T18:34:21.000Z",
+          "wordCount": 5028,
+          "title": "Here's that Xbox Series S toaster you've always wanted",
+          "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-this-is-how-xbox-series-s-back-compat-really-works-1600511407912.jpg/BROK/thumbnail/1200x630/digitalfoundry-2020-this-is-how-xbox-series-s-back-compat-really-works-1600511407912.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/try-anno-1800-for-free-later-this-month-on-pc-and-console",
           "author": "Vikki Blake",
