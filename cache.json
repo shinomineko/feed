@@ -124,16 +124,6 @@
           "wordCount": 208,
           "title": "Coordinate Plane Closure",
           "imageUrl": "https://imgs.xkcd.com/comics/coordinate_plane_closure_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2734/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/electron_color.png\" title=\"There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.\" alt=\"There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.\" />",
-          "link": "https://xkcd.com/2734/",
-          "publishedOn": "2023-02-06T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Electron Color",
-          "imageUrl": "https://imgs.xkcd.com/comics/electron_color_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/03/prompt-injection-attacks-on-large-language-models.html",
+          "author": null,
+          "description": "<p>This is a <a href=\"https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive\">good survey</a> on prompt injection attacks on large language models (like ChatGPT).</p>\n<blockquote><p><b>Abstract:</b> We are currently witnessing dramatic advances in the capabilities of Large Language Models (LLMs). They are already being adopted in practice and integrated into many systems, including integrated development environments (IDEs) and search engines. The functionalities of current LLMs can be modulated via natural language prompts, while their exact internal functionality remains implicit and unassessable. This property, which makes them adaptable to even unseen tasks, might also make them susceptible to targeted adversarial prompting. Recently, several ways to misalign LLMs using Prompt Injection (PI) attacks have been introduced. In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes. Recent work showed that these attacks are hard to mitigate, as state-of-the-art LLMs are instruction-following. So far, these attacks assumed that the adversary is directly prompting the LLM...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/03/prompt-injection-attacks-on-large-language-models.html",
+          "publishedOn": "2023-03-07T12:13:33.000Z",
+          "wordCount": 936,
+          "title": "Prompt Injection Attacks on Large Language Models",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/03/new-national-cybersecurity-strategy.html",
           "author": null,
@@ -3324,16 +3324,6 @@
           "wordCount": 3519,
           "title": "Blog: Free Katacoda Kubernetes Tutorials Are Shutting Down",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/",
-          "author": null,
-          "description": "Authors: Mahamed Ali (Rackspace Technology)\nThe Kubernetes project runs a community-owned image registry called registry.k8s.io to host its container images. On the 3rd of April 2023, the old registry k8s.gcr.io will be frozen and no further images for Kubernetes and related subprojects will be pushed to the old registry.\nThis registry registry.k8s.io replaced the old one and has been generally available for several months. We have published a blog post about its benefits to the community and the Kubernetes project. This post also announced that future versions of Kubernetes will not be available in the old registry. Now that time has come.\nWhat does this change mean for contributors:\nIf you are a maintainer of a subproject, you will need to update your manifests and Helm charts to use the…",
-          "link": "https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/",
-          "publishedOn": "2023-02-06T00:00:00.000Z",
-          "wordCount": 3704,
-          "title": "Blog: k8s.gcr.io Image Registry Will Be Frozen From the 3rd of April 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -3406,6 +3396,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/universal-confirms-super-mario-bros-movie-uk-release-date",
+          "author": "Victoria Kennedy",
+          "description": "There was a bit of confusion last week, when it was announced that The Super Mario Bros. Movie would be released two days earlier than previously expected in the US and \"60 other markets\". At this point, it was unclear whether the UK fell into the \"other markets\" category.\r\n\n\r\nNow, however, Universal has cleared that up, and stated The Super Mario Bros. Movie will be released on 5th April in the UK. This is the same as in the US.\r\n\n\r\nIf you've been struggling to keep track of when The Super Mario Bros. Movie is due to arrive, you are not alone. After all, Universal has shunted its release date around the calendar on numerous occasions.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/universal-confirms-super-mario-bros-movie-uk-release-date",
+          "publishedOn": "2023-03-07T12:28:47.000Z",
+          "wordCount": 5184,
+          "title": "Universal confirms Super Mario Bros. Movie UK release date",
+          "imageUrl": "https://assets.reedpopcdn.com/super-mario-bros-movie-toad.jpg/BROK/thumbnail/1200x630/super-mario-bros-movie-toad.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-scarlet-and-violet-bug-causing-save-file-wipe",
+          "author": "Ed Nightingale",
+          "description": "A bug in Pokémon Scarlet and Violet is causing players to lose their save files, thanks to the latest patch.\r\n\n\r\nIt's unclear exactly what the cause is, but many fans on reddit (thanks Kotaku) are reporting the error after connecting to the Pokémon Go app or downloading the DLC.\r\n\n\r\nThe reddit thread is full of players losing hundreds of hours of gameplay and shiny Pokémon, some from merely purchasing the DLC.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-scarlet-and-violet-bug-causing-save-file-wipe",
+          "publishedOn": "2023-03-07T11:41:47.000Z",
+          "wordCount": 4933,
+          "title": "Pokémon Scarlet and Violet bug causing save file wipe",
+          "imageUrl": "https://assets.reedpopcdn.com/%5BUK%5D-Pok%C3%A9mon-Presents-_-27.2.2023-24-52-screenshot.png/BROK/thumbnail/1200x630/%5BUK%5D-Pok%C3%A9mon-Presents-_-27.2.2023-24-52-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-episode-eight-breaks-another-viewership-record",
+          "author": "Victoria Kennedy",
+          "description": "The most recent episode of The Last of Us broke another viewership record for the series.\r\n\n\r\nAs reported by HBO, episode eight was watched by 8.1 million viewers on its debut across \"HBO Max and linear telecasts\".\r\n\n\r\nFor those keeping track, that is a 74 percent increase from the show's pilot episode.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-last-of-us-episode-eight-breaks-another-viewership-record",
+          "publishedOn": "2023-03-07T11:16:31.000Z",
+          "wordCount": 5273,
+          "title": "The Last of Us episode eight breaks another viewership record",
+          "imageUrl": "https://assets.reedpopcdn.com/bella-ramsey_15cropped.jpg/BROK/thumbnail/1200x630/bella-ramsey_15cropped.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-claims-uks-cma-has-overcounted-potential-impact-of-call-of-duty-exclusivity",
+          "author": "Ed Nightingale",
+          "description": "Microsoft has claimed the UK's Competition and Markets Authority has significantly overcounted the potential impact of Call of Duty going exclusive to Xbox and PC.\r\n\n\r\nThe CMA has been sceptical about Microsoft's $68.7bn bid to purchase Activision Blizzard, most recently stating it could harm UK gamers, resulting in \"higher prices, fewer choices, or less innovation\". It believes players would abandon PlayStation for Xbox.\r\n\r\n\n\r\nHowever, based on a YouGov survey commissioned by Microsoft back in January and shared with Axios, just three percent of all PlayStation users would switch to Xbox if Call of Duty became exclusive.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-claims-uks-cma-has-overcounted-potential-impact-of-call-of-duty-exclusivity",
+          "publishedOn": "2023-03-07T11:11:41.000Z",
+          "wordCount": 5254,
+          "title": "Microsoft claims UK's CMA has overcounted potential impact of Call of Duty exclusivity",
+          "imageUrl": "https://assets.reedpopcdn.com/cod-main.jpg/BROK/thumbnail/1200x630/cod-main.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sea-of-thieves-fifth-anniversary-update-is-a-reinvigorating-quality-of-life-bonanza",
           "author": "Matt Wales",
@@ -6905,16 +6935,6 @@
           "wordCount": 8367,
           "title": "Let's discuss The Last of Us episode four",
           "imageUrl": "https://assets.reedpopcdn.com/the-last-of-us-episode-four-header.jpg/BROK/thumbnail/1200x630/the-last-of-us-episode-four-header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-expects-the-uk-to-oppose-its-acquisition-of-activision-blizzard",
-          "author": "Vikki Blake",
-          "description": "Microsoft is reportedly ready to fight what it expects to be opposition from the UK's competition regulator.\r\n\nAccording to the New York Times (£) (thanks, VGC), the megacorp believes \"the antitrust authority in Britain to oppose the transaction\". It follows a similar intervention from the EU, which objected to a perceived risk in Microsoft owning Call of Duty given it could reduce competition in the video games industry.\r\n\nAccording to four people \"briefed on the matter who were not authorised to speak publicly\", Microsoft hopes \"to convince both Britain and the European Union to accept its concessions and approve the deal, which could make it easier for the company to reach an agreement with the FTC before the scheduled administrative trial starts in the summer\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-expects-the-uk-to-oppose-its-acquisition-of-activision-blizzard",
-          "publishedOn": "2023-02-05T18:40:47.000Z",
-          "wordCount": 4950,
-          "title": "Microsoft expects the UK to oppose its acquisition of Activision Blizzard",
-          "imageUrl": "https://assets.reedpopcdn.com/Xbox-Series-X-and-Xbox-Series-S-consoles.png/BROK/thumbnail/1200x630/Xbox-Series-X-and-Xbox-Series-S-consoles.png"
         }
       ]
     },
