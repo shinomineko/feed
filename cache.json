@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/03/blacklotus-malware-hijacks-windows-secure-boot-process.html",
+          "author": null,
+          "description": "<p>Researchers have <a href=\"https://arstechnica.com/information-technology/2023/03/unkillable-uefi-malware-bypassing-secure-boot-enabled-by-unpatchable-windows-flaw/\">discovered</a> malware that &#8220;can hijack a computer’s boot process even when Secure Boot and other advanced protections are enabled and running on fully updated versions of Windows.&#8221;</p>\n<blockquote><p>Dubbed BlackLotus, the malware is what&#8217;s known as a UEFI bootkit. These sophisticated pieces of malware target the UEFI&#8212;short for <a href=\"https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface\">Unified Extensible Firmware Interface</a>&#8212;the low-level and complex chain of firmware responsible for booting up virtually every modern computer. As the mechanism that bridges a PC’s device firmware with its operating system, the UEFI is an OS in its own right. It&#8217;s located in an ...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/03/blacklotus-malware-hijacks-windows-secure-boot-process.html",
+          "publishedOn": "2023-03-08T11:11:14.000Z",
+          "wordCount": 1234,
+          "title": "BlackLotus Malware Hijacks Windows Secure Boot Process",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/03/prompt-injection-attacks-on-large-language-models.html",
           "author": null,
           "description": "<p>This is a <a href=\"https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive\">good survey</a> on prompt injection attacks on large language models (like ChatGPT).</p>\n<blockquote><p><b>Abstract:</b> We are currently witnessing dramatic advances in the capabilities of Large Language Models (LLMs). They are already being adopted in practice and integrated into many systems, including integrated development environments (IDEs) and search engines. The functionalities of current LLMs can be modulated via natural language prompts, while their exact internal functionality remains implicit and unassessable. This property, which makes them adaptable to even unseen tasks, might also make them susceptible to targeted adversarial prompting. Recently, several ways to misalign LLMs using Prompt Injection (PI) attacks have been introduced. In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes. Recent work showed that these attacks are hard to mitigate, as state-of-the-art LLMs are instruction-following. So far, these attacks assumed that the adversary is directly prompting the LLM...</p></blockquote>",
@@ -3546,6 +3556,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/biomutant-and-jurassic-world-evolution-2-headline-marchs-latest-humble-bundle",
+          "author": "Victoria Kennedy",
+          "description": "The bundle building rascals at Humble are offering Biomutant and Jurassic World Evolution 2 as part of March's Humble Choice.\r\n\n\r\nHumble Choice is Humble Bundle's take on PC gaming memberships. Every month, Humble Bundle's game scouts choose a selection of PC games for their members, all of which they can own forever.\r\n\n\r\nIn addition to the already mentioned games, this month's Choice bundle also includes Demon Turf, Hero's Hour, Edge of Eternity, Rogue Lords, Monster Crown and Golden Light.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/biomutant-and-jurassic-world-evolution-2-headline-marchs-latest-humble-bundle",
+          "publishedOn": "2023-03-08T11:18:56.000Z",
+          "wordCount": 5201,
+          "title": "Biomutant and Jurassic World Evolution 2 headline March’s latest Humble Bundle",
+          "imageUrl": "https://assets.reedpopcdn.com/jurassic-world-evolution-2-dino.jpg/BROK/thumbnail/1200x630/jurassic-world-evolution-2-dino.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/league-of-legends-mmo-producer-departing-riot-games",
+          "author": "Ed Nightingale",
+          "description": "League of Legends MMO producer Greg Street has announced plans to depart Riot Games.\r\n\n\r\nIn a Twitter thread, Street explained his reasons for stepping down.\r\n\n\r\n\"A combo of personal and professional considerations led me to down this path. We experienced some devastating personal losses last year and I want to be closer to my surviving family,\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/league-of-legends-mmo-producer-departing-riot-games",
+          "publishedOn": "2023-03-08T11:11:45.000Z",
+          "wordCount": 5303,
+          "title": "League of Legends MMO producer departing Riot Games",
+          "imageUrl": "https://assets.reedpopcdn.com/league-of-legends_aTCaNiH.png/BROK/thumbnail/1200x630/league-of-legends_aTCaNiH.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/discord-voice-chat-now-available-on-playstation-5",
+          "author": "Ed Nightingale",
+          "description": "Discord voice chat is now available for all PlayStation 5 users.\r\n\n\r\nThe integration was available in a new system software beta at the start of February, along with other additions like VRR support.\r\n\r\n\n\r\nNow it's accessible by all, once the latest system software is downloaded.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/discord-voice-chat-now-available-on-playstation-5",
+          "publishedOn": "2023-03-08T10:52:43.000Z",
+          "wordCount": 4786,
+          "title": "Discord voice chat now available on PlayStation 5",
+          "imageUrl": "https://assets.reedpopcdn.com/discord-is-gradually-rolling-out-on-playstation-integration-from-today-1643666372385.jpg/BROK/thumbnail/1200x630/discord-is-gradually-rolling-out-on-playstation-integration-from-today-1643666372385.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/rhythm-shooter-metal-hellsingers-first-dlc-dream-of-the-beast-out-this-month",
           "author": "Matt Wales",
