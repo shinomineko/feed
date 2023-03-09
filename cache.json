@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2747/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/presents_for_biologists.png\" title=\"A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!\" alt=\"A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!\" />",
+          "link": "https://xkcd.com/2747/",
+          "publishedOn": "2023-03-08T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Presents for Biologists",
+          "imageUrl": "https://imgs.xkcd.com/comics/presents_for_biologists_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2746/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/launch_window.png\" title=\"&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I'll get the bucket and sponge.&quot;\" alt=\"&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I'll get the bucket and sponge.&quot;\" />",
@@ -444,16 +454,6 @@
           "wordCount": 2596,
           "title": "SolarWinds and Market Incentives",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/02/malware-delivered-through-google-search.html",
-          "author": null,
-          "description": "<p>Criminals using Google search ads to deliver malware isn&#8217;t new, but Ars Technica <a href=\"https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/\">declared</a> that the problem has become much worse recently.</p>\n<blockquote><p>The surge is coming from numerous malware families, including AuroraStealer, IcedID, Meta Stealer, RedLine Stealer, Vidar, Formbook, and XLoader. In the past, these families typically relied on phishing and malicious spam that attached Microsoft Word documents with booby-trapped macros. Over the past month, Google Ads has become the go-to place for criminals to spread their malicious wares that are disguised as legitimate downloads by impersonating brands such as Adobe Reader, Gimp, Microsoft Teams, OBS, Slack, Tor, and Thunderbird...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/02/malware-delivered-through-google-search.html",
-          "publishedOn": "2023-02-07T12:23:54.000Z",
-          "wordCount": 1811,
-          "title": "Malware Delivered through Google Search",
-          "imageUrl": null
         }
       ]
     },
@@ -462,6 +462,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1922761",
+          "author": "Beth Mole",
+          "description": "Although people with severe COVID had highest risk, mild cases also upped risks.",
+          "link": "https://arstechnica.com/?p=1922761",
+          "publishedOn": "2023-03-08T23:00:12.000Z",
+          "wordCount": 1932,
+          "title": "COVID survivors at increased risk of long-term gastrointestinal conditions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-151046607-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922731",
+          "author": "Andrew Cunningham",
+          "description": "A driver hotfix, available via an 850MB download, will fix the problem for you.",
+          "link": "https://arstechnica.com/?p=1922731",
+          "publishedOn": "2023-03-08T21:28:45.000Z",
+          "wordCount": 1517,
+          "title": "Nvidia driver bug might make your CPU work harder after you close your game",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0725-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922721",
+          "author": "Kyle Orland",
+          "description": "Valve sees value in keeping \"a solid [hardware] target throughout the generation.\"",
+          "link": "https://arstechnica.com/?p=1922721",
+          "publishedOn": "2023-03-08T20:31:00.000Z",
+          "wordCount": 1747,
+          "title": "A more powerful Steam Deck is “a few years” off, Valve says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/steamdeckcalendar-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922701",
+          "author": "Jon Brodkin",
+          "description": "Starlink filings lump RV and home service together; SpaceX blames FCC system.",
+          "link": "https://arstechnica.com/?p=1922701",
+          "publishedOn": "2023-03-08T20:22:55.000Z",
+          "wordCount": 1794,
+          "title": "Starlink explains why its FCC map listings are so different from reality",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/starlink-rvs-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922564",
+          "author": "Benj Edwards",
+          "description": "DuckAssist provides an AI-powered Wikipedia summary, hoping to avoid hallucinations.",
+          "link": "https://arstechnica.com/?p=1922564",
+          "publishedOn": "2023-03-08T19:50:22.000Z",
+          "wordCount": 1967,
+          "title": "Wikipedia + AI = truth? DuckDuckGo hopes so with new answerbot",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/cyber_duck_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922544",
+          "author": "Jennifer Ouellette",
+          "description": "\"It’s a bit understated as a dildo, and would make for a more satisfying spin than anything else.\"",
+          "link": "https://arstechnica.com/?p=1922544",
+          "publishedOn": "2023-03-08T19:40:42.000Z",
+          "wordCount": 1755,
+          "title": "Remember that ancient Roman “dildo”? It might just be an old Roman drop spindle",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/dildo1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922672",
+          "author": "John Timmer",
+          "description": "Results come from a lab that had an earlier superconductivity paper retracted.",
+          "link": "https://arstechnica.com/?p=1922672",
+          "publishedOn": "2023-03-08T19:25:48.000Z",
+          "wordCount": 1652,
+          "title": "Room-temperature superconductor works at lower pressures",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/image-1-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1922606",
+          "author": "Ashley Belanger",
+          "description": "Musk says Halli Thorleifsson “is considering remaining at Twitter.”",
+          "link": "https://arstechnica.com/?p=1922606",
+          "publishedOn": "2023-03-08T18:25:58.000Z",
+          "wordCount": 1931,
+          "title": "Musk apologizes for mocking and firing Twitter exec with muscular dystrophy",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1246506941-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1922580",
           "author": "Chuong Nguyen",
@@ -3636,6 +3716,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/bayonetta-spin-off-cereza-and-the-lost-demon-now-has-a-demo-on-switch",
+          "author": "Matt Wales",
+          "description": "If your interest was piqued by the unveiling of developer PlatinumGames' striking Bayonetta spin-off Cereza and the Lost Demon during last year's Game Awards, you might want to hop over to Switch's eShop, where a demo is now available.\r\n\n \r\nBayonetta Origins: Cereza and the Lost Demon, as the prequel is officially known, follows the fairytale-inspired adventures of Cereza - the child version of adult Bayonetta introduced in the series' first game - and her demonic companion Cheshire.\r\n\n \r\nThe pair embark on a genteel action-adventure rendered in the style of an illustrated storybook, in which players do a spot of platforming, solve puzzles, and occasionally battle creatures across the perilous Avalon Forest - using the left stick to control Cereza and wield her magic and the right to unleash Cheshire's might.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bayonetta-spin-off-cereza-and-the-lost-demon-now-has-a-demo-on-switch",
+          "publishedOn": "2023-03-08T23:00:46.000Z",
+          "wordCount": 5055,
+          "title": "Bayonetta spin-off Cereza and the Lost Demon now has a demo on Switch",
+          "imageUrl": "https://assets.reedpopcdn.com/bayonetta-origins-screen-crop.jpg/BROK/thumbnail/1200x630/bayonetta-origins-screen-crop.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/advance-wars-inspired-strategy-game-wargroove-is-getting-a-sequel",
+          "author": "Matt Wales",
+          "description": "Wargroove, developer Chucklefish's Advance-Wars-inspired turn-based strategy game, is getting a sequel, and it's coming to PC and Switch at some currently unspecified future time.\r\n\n\r\nThe original Wargroove released back in 2019, giving starved Advance Wars fans a solidly entertaining, gorgeously presented slab of turn-based strategy action - featuring a few new tactical twists, such as unit synergies - with a splash of Fire Emblem fantasy thrown in.\r\n\n\r\nA free (and sizeable) co-op-focused expansion, Double Trouble, launched in 2020, and now, a little over three years later, Chucklefish has revealed a follow-up is on the way.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/advance-wars-inspired-strategy-game-wargroove-is-getting-a-sequel",
+          "publishedOn": "2023-03-08T21:42:15.000Z",
+          "wordCount": 4937,
+          "title": "Advance-Wars-inspired strategy game Wargroove is getting a sequel",
+          "imageUrl": "https://assets.reedpopcdn.com/wargroove-2-art.png/BROK/thumbnail/1200x630/wargroove-2-art.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-tells-cma-its-confident-call-of-duty-can-be-optimised-to-run-on-switch",
+          "author": "Matt Wales",
+          "description": "Microsoft has told the UK's Competition and Markets Authority (CMA) it's confident Activision Blizzard can optimise Call of Duty to run on Switch after the regulatory body raised concerns around the console's \"technical limitations\".\r\n\n\r\nAs part of its ongoing efforts to convince regulatory bodies in the UK, EU, and US to approve its $69BN USD acquisition of Activision Blizzard - which has so far been blighted by concerns it may choose to make Call of Duty exclusive to Xbox, hampering PlayStation's ability to compete - Microsoft signed a 10-year deal with Nintendo guaranteeing it would bring the FPS to Switch.\r\n\n\r\nHowever, in its Provisional findings report published last month, the CMA said it was unable to place \"material weight\" on Microsoft's agreement when considering the proposed Activision Blizzard acquisition, as there was \"no certainty [the deal would] lead to CoD becoming available on Nintendo\". Elaborating further, it highlighted the \"technical limitations\" that \"would need to be overcome for Call of Duty to become available for Nintendo Switch.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-tells-cma-its-confident-call-of-duty-can-be-optimised-to-run-on-switch",
+          "publishedOn": "2023-03-08T19:37:25.000Z",
+          "wordCount": 5335,
+          "title": "Microsoft tells CMA it's \"confident\" Call of Duty can be optimised to run on Switch",
+          "imageUrl": "https://assets.reedpopcdn.com/call-of-duty-modern-warfare-2_KI9whN9.jpg/BROK/thumbnail/1200x630/call-of-duty-modern-warfare-2_KI9whN9.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sony-says-microsoft-may-release-a-playstation-version-of-call-of-duty-where-bugs-and-errors-emerge-only-on-the-games-final-level-or-after-later-updates",
           "author": "Ed Nightingale",
@@ -7275,56 +7385,6 @@
           "wordCount": 5064,
           "title": "The excellent Marvel's Midnight Suns now has a three-hour trial",
           "imageUrl": "https://assets.reedpopcdn.com/Midnight-suns-nico-battle.jpg/BROK/thumbnail/1200x630/Midnight-suns-nico-battle.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bioshock-creators-next-game-judas-to-be-released-by-march-2025",
-          "author": "Ed Nightingale",
-          "description": "Judas, the next game from BioShock creator Ken Levine, is set to be released by March 2025.\r\n\n\r\nFrom developer Ghost Story Games, the game was first shown at The Game Awards last December and looks to include many familiar features to BioShock fans. It's set for PC, PlayStation 5 and Xbox Series X/S.\r\n\r\n\n\r\nThe release date news comes from Take-Two's latest earnings report, which states the publisher will release 87 games between fiscal 2023 and fiscal 2025 (ending March that year).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bioshock-creators-next-game-judas-to-be-released-by-march-2025",
-          "publishedOn": "2023-02-07T12:04:41.000Z",
-          "wordCount": 4925,
-          "title": "BioShock creator's next game, Judas, to be released by March 2025",
-          "imageUrl": "https://assets.reedpopcdn.com/Judas---Reveal-Trailer-_-PS5-Games-0-19-screenshot.png/BROK/thumbnail/1200x630/Judas---Reveal-Trailer-_-PS5-Games-0-19-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/take-two-expects-cost-reduction-program-as-string-of-games-flop",
-          "author": "Tom Phillips",
-          "description": "Grand Theft Auto publisher Take-Two has confirmed a \"cost reduction program\" to cut $50m of annual spending after a string of high-profile launches failed to find an audience.\r\n\n\r\nSpeaking to investors, Take-Two boss Strauss Zelnick said recent releases such as the excellent but overlooked Marvel's Midnight Suns, plus PGA Tour 2K23 and New Tales of the Borderlands, had all been received well but sold poorly.\r\n\n\r\n\"We're seeing softness in the overall market,\" Zelnick subsequently told GamesIndustry.biz. \"Our titles are performing, we've gotten great review scores, we've gotten terrific critical acclaim. And one after another, we've been delivering hits into the current market. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/take-two-expects-cost-reduction-program-as-string-of-games-flop",
-          "publishedOn": "2023-02-07T11:51:22.000Z",
-          "wordCount": 5029,
-          "title": "Take-Two expects \"cost reduction program\" as string of games flop",
-          "imageUrl": "https://assets.reedpopcdn.com/new-tales-from-the-borderlands-octavio-cropped.jpg/BROK/thumbnail/1200x630/new-tales-from-the-borderlands-octavio-cropped.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-breaks-another-viewership-record-with-episode-four",
-          "author": "Victoria Kennedy",
-          "description": "The most recent episode of The Last of Us broke another viewership record for the series on its debut. \nAs reported by Variety, 7.5 million viewers in the US tuned in for the series' fourth episode on Sunday - that is an increase of 17 percent from the previous week, where 6.4 million viewers settled down with episode three. \nThe Last of Us has consistently seen its same-day audience numbers grow every week since it made its debut in January. In fact, episode four's numbers are up 60 percent from episode one's same-day numbers, for which 4.7 million of us tuned in to the premiere.\n Read more",
-          "link": "https://www.eurogamer.net/the-last-of-us-breaks-another-viewership-record-with-episode-four",
-          "publishedOn": "2023-02-07T11:36:40.000Z",
-          "wordCount": 5020,
-          "title": "The Last of Us breaks another viewership record with episode four",
-          "imageUrl": "https://assets.reedpopcdn.com/the-last-of-us-hbo-joel-and-ellie.jpg/BROK/thumbnail/1200x630/the-last-of-us-hbo-joel-and-ellie.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-switch-hardware-sales-pass-game-boy-playstation-4",
-          "author": "Tom Phillips",
-          "description": "Nintendo has now shifted a staggering 122m Switch consoles, enough to finally exclipse the Game Boy (118m) and PlayStation 4 (117m). \r\n\n\r\nSix years on from launch, this total places Switch as the third-best selling game platform of all time, behind Nintendo DS (154m) and PlayStation 2 (above 155m).\r\n\n\r\nCan Switch still rise further? Console sales are slowing - down 21 percent year-on-year - but it still seems possible, with sales of the Switch OLED model balancing out declining sales of the vanilla Switch and portable-only Lite. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-switch-hardware-sales-pass-game-boy-playstation-4",
-          "publishedOn": "2023-02-07T11:27:26.000Z",
-          "wordCount": 5059,
-          "title": "Nintendo Switch hardware sales pass Game Boy, PlayStation 4",
-          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1200x630/nintendo_vld9mIN.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/overwatch-2-adds-dating-sim-for-season-three",
-          "author": "Ed Nightingale",
-          "description": "Blizzard has released details of the third Overwatch 2 season, which includes a dating sim to celebrate Valentine's Day.\r\n\n\r\nLoverwatch, as it's called, is a thirty minute non-canon text-based dating sim that allows players to date either Mercy or Genji, assisted by Cupid (Hanzo). A secret ending rewards players with a themed POTG Highlight.\r\n\n\r\nLaunching on 13th February, it will be available via web client only until 28th February.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/overwatch-2-adds-dating-sim-for-season-three",
-          "publishedOn": "2023-02-07T11:24:31.000Z",
-          "wordCount": 5019,
-          "title": "Overwatch 2 adds dating sim for season three",
-          "imageUrl": "https://assets.reedpopcdn.com/hanzo-cupid.png/BROK/thumbnail/1200x630/hanzo-cupid.png"
         }
       ]
     },
@@ -7333,6 +7393,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=70612",
+          "author": "Jose Palafox",
+          "description": "Learn how teams can leverage the power of GitHub Advanced Security’s code scanning and GitHub Actions to integrate the right security testing tools at the right time.",
+          "link": "https://github.blog/2023-03-08-application-security-orchestration-with-github-advanced-security/",
+          "publishedOn": "2023-03-08T20:36:34.000Z",
+          "wordCount": 2588,
+          "title": "Application security orchestration with GitHub Advanced Security",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/08/Security-Product@2x.png"
+        },
         {
           "id": "https://github.blog/?p=70587",
           "author": "Jeimy Ruiz",
