@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/03/another-malware-with-persistence.html",
+          "author": null,
+          "description": "<p><a href=\"https://arstechnica.com/information-technology/2023/03/malware-infecting-widely-used-security-appliance-survives-firmware-updates/\">Here&#8217;s</a> a piece of Chinese malware that infects SonicWall security appliances and survives firmware updates.</p>\n<blockquote><p>On Thursday, security firm Mandiant published a <a href=\"https://www.mandiant.com/resources/blog/suspected-chinese-persist-sonicwall\">report</a> that said threat actors with a suspected nexus to China were engaged in a campaign to maintain long-term persistence by running malware on unpatched SonicWall SMA appliances. The campaign was notable for the ability of the malware to remain on the devices even after its firmware received new firmware.</p>\n<p>&#8220;The attackers put significant effort into the stability and persistence of their tooling,&#8221; Mandiant researchers Daniel Lee, Stephen Eckels, and Ben Read wrote. &#8220;This allows their access to the network to persist through firmware updates and maintain a foothold on the network through the SonicWall Device.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/03/another-malware-with-persistence.html",
+          "publishedOn": "2023-03-10T01:33:57.000Z",
+          "wordCount": 881,
+          "title": "Another Malware with Persistence",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/03/blacklotus-malware-hijacks-windows-secure-boot-process.html",
           "author": null,
           "description": "<p>Researchers have <a href=\"https://arstechnica.com/information-technology/2023/03/unkillable-uefi-malware-bypassing-secure-boot-enabled-by-unpatchable-windows-flaw/\">discovered</a> malware that &#8220;can hijack a computer’s boot process even when Secure Boot and other advanced protections are enabled and running on fully updated versions of Windows.&#8221;</p>\n<blockquote><p>Dubbed BlackLotus, the malware is what&#8217;s known as a UEFI bootkit. These sophisticated pieces of malware target the UEFI&#8212;short for <a href=\"https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface\">Unified Extensible Firmware Interface</a>&#8212;the low-level and complex chain of firmware responsible for booting up virtually every modern computer. As the mechanism that bridges a PC’s device firmware with its operating system, the UEFI is an OS in its own right. It&#8217;s located in an ...</p></blockquote>",
@@ -3831,16 +3841,6 @@
           "wordCount": 2603,
           "title": "Amazon’s Snowball Edge Frustrates This User",
           "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2023/02/snowball2.jpg"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=13595",
-          "author": "Corey Quinn",
-          "description": "If you work for a company with a platform or tool that fosters a community around it, you are not a part of that community.\nThe post The AWS community isn’t for Amazonians appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/the-aws-community-isnt-for-amazonians/",
-          "publishedOn": "2023-02-08T15:30:00.000Z",
-          "wordCount": 2596,
-          "title": "The AWS community isn’t for Amazonians",
-          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2023/02/no-community-1.jpg"
         }
       ]
     },
@@ -7515,76 +7515,6 @@
           "wordCount": 4765,
           "title": "Pikmin 4 introduces Ice Pikmin and dog-like ally",
           "imageUrl": "https://assets.reedpopcdn.com/Nintendo-Direct-%E2%80%93-08_02_2023-28-17-screenshot.png/BROK/thumbnail/1200x630/Nintendo-Direct-%E2%80%93-08_02_2023-28-17-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/forspoken-director-promises-patch-to-address-performance-playability-and-more",
-          "author": "Matt Wales",
-          "description": "Forspoken director Takeshi Aramaki has confirmed a patch is currently in the works to address a wide range of issues following the game's mixed reception.\r\n\n\r\nIn a statement shared on Twitter, Aramaki wrote, \"We've been listening to all your feedback and are hard at work on an upcoming patch that will include improvements to overall performance, graphics, playability, and general updates and fixes to the game content across PS5 and various PC hardware configurations\".\r\n\n\r\nAramaki didn't go into specifics, but Forspoken has been criticised both from a gameplay and technical perspective since launch, with Digital Foundry having particularly stern words for the PC release, calling it a \"confusing, deeply disappointing port\" in its tech review.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/forspoken-director-promises-patch-to-address-performance-playability-and-more",
-          "publishedOn": "2023-02-08T18:01:10.000Z",
-          "wordCount": 4956,
-          "title": "Forspoken director promises patch to address performance, playability, more",
-          "imageUrl": "https://assets.reedpopcdn.com/forspoken-image-crop.jpg/BROK/thumbnail/1200x630/forspoken-image-crop.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-fan-prompts-security-scare-at-us-university",
-          "author": "Tom Phillips",
-          "description": "A Californian Nintendo fan has sparked a major security scare at their university, following a \"bad joke\" email designed to get  their classes cancelled so they could watch the latest Nintendo Direct broadcast.\r\n\n\r\nCalifornia State University Police today issued a statement on the perceived threat, after a professor was told via anonymous email to call off their class due to a \"once-in-a-lifetime event\" set to occur.\r\n\n\r\nThe start of 2023 has seen yet another string of mass shootings across the US, with eight incidents in January alone leaving at least four people dead. The majority of those shootings occured in California, including the mass shooting at Monterey Park that left 12 dead, which gained global media attention.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-fan-prompts-security-scare-at-us-university",
-          "publishedOn": "2023-02-08T16:35:50.000Z",
-          "wordCount": 4727,
-          "title": "Nintendo fan prompts security scare at US university",
-          "imageUrl": "https://assets.reedpopcdn.com/nintendo_vld9mIN.jpg/BROK/thumbnail/1200x630/nintendo_vld9mIN.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/come-watch-tonights-nintendo-direct-with-us",
-          "author": "Martin Robinson",
-          "description": "Happy Nintendo day! Tonight's the big one - or at least it really should be - in which the veil will be properly lifted from the next big Zelda and we finally learn more about Tears of the Kingdom. Or maybe we're just going to get a 40 minute deep dive into Bayonetta Origins. Who knows? \r\n\n\r\nThat's part of the excitement of a Nintendo Direct, where we're all hoping for news on Pikmin 4, the long-awaited ports of Metroid Prime and the belated release of Advance Wars and maybe even an F-Zero reboot thrown in for good measure. How much of that happens remains to be seen, so join us from 10pm GMT as we brace for disappointment. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/come-watch-tonights-nintendo-direct-with-us",
-          "publishedOn": "2023-02-08T16:03:01.000Z",
-          "wordCount": 11366,
-          "title": "Come watch tonight's Nintendo Direct with us",
-          "imageUrl": "https://assets.reedpopcdn.com/Zelda-Tears-of-the-Kingdom-price-70-z.jpg/BROK/thumbnail/1200x630/Zelda-Tears-of-the-Kingdom-price-70-z.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/apex-legends-season-16-launch-date-confirmed-includes-team-deathmatch",
-          "author": "Marie Pritchard",
-          "description": "The next season of Apex Legends will soon be upon us! Titled Apex Legends: Revelry, Season 16 will launch on Tuesday 14th February and add Team Deathmatch, a fresh weapon and a revamped class system.\nThe Battle Royale maps for Revelry are Broken Moon, Storm Point, and World's Edge. Sadly, there's no sign of Kings Canyon popping its head up in this mode any time soon. \nHowever, with new content comes sacrifice and the 3 vs 3 Arenas mode will be leaving the game as soon as the new season begins. There's still some time left to get in a few quick battles before the launch date next week, so Arenas fans still have some time to say their farewells.\n Read more",
-          "link": "https://www.eurogamer.net/apex-legends-season-16-launch-date-confirmed-includes-team-deathmatch",
-          "publishedOn": "2023-02-08T16:00:00.000Z",
-          "wordCount": 5615,
-          "title": "Apex Legends Season 16 launch date confirmed, includes Team Deathmatch",
-          "imageUrl": "https://assets.reedpopcdn.com/apex-legends-revelry-key-logo-art.jpg/BROK/thumbnail/1200x630/apex-legends-revelry-key-logo-art.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-gos-upcoming-hoenn-tour-marks-a-big-change-to-paid-events",
-          "author": "Tom Phillips",
-          "description": "Pokémon Go is currently gearing up for its third annual Tour event: a weekend-long spotlight on a particular region of the Pokémon world and all the species originally found within it. \r\n\n\r\nThis year, after the turns of Johto and Kanto in 2021 and 2022, it's time for Hoenn: the setting of Pokémon Ruby and Sapphire, and the home of Mudkip, Metagross and many other favourites. \r\n\n\r\nThe big difference this time around is that developer Niantic has dropped the need to buy a ticket for the majority of Tour's gameplay. It means fans can take part in the weekend's storyline, choose a focus on Ruby or Sapphire spawns, and catch Pokémon with a boosted chance of being in their sought-after Shiny versions without the need to pay up.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-gos-upcoming-hoenn-tour-marks-a-big-change-to-paid-events",
-          "publishedOn": "2023-02-08T15:43:40.000Z",
-          "wordCount": 5397,
-          "title": "Pokémon Go's upcoming Hoenn Tour marks a big change to paid events",
-          "imageUrl": "https://assets.reedpopcdn.com/unnamed_3CfU3zO.jpg/BROK/thumbnail/1200x630/unnamed_3CfU3zO.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/cities-skylines-and-atomic-heart-join-xbox-game-pass-in-february",
-          "author": "Tom Phillips",
-          "description": "Microsoft has announced February's first line-up of Xbox Game Pass additions, including Cities: Skylines and Atomic Heart.\r\n\n\r\nBefore those, Madden NFL 23 joins Xbox Game Pass tomorrow, if you prefer your sports a little more padded out than simply watching the Six Nations.\r\n\n\r\nSD Gundam Battle Alliance also arrives tomorrow, while Mount & Blade 2: Bannerlord joins the subscription service on Valentine's Day if you don't have other plans. Last year, our Bertie dubbed it as \"stubborn and unruly unless you have time to break it in\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/cities-skylines-and-atomic-heart-join-xbox-game-pass-in-february",
-          "publishedOn": "2023-02-08T14:21:53.000Z",
-          "wordCount": 4922,
-          "title": "Cities: Skylines and Atomic Heart join Xbox Game Pass in February",
-          "imageUrl": "https://assets.reedpopcdn.com/TW_ComingSoon_2.8.2023-9b1d0acc4fe5726aa39d.jpg/BROK/thumbnail/1200x630/TW_ComingSoon_2.8.2023-9b1d0acc4fe5726aa39d.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/fallout-76-leads-humble-choice-games-for-february",
-          "author": "Ed Nightingale",
-          "description": "Humble Bundle has revealed its Humble Choice games for February.\r\n\n\r\nEight games are available, including MMO Fallout 76 and the original Fallout game for those looking to experience the origins of the series.\r\n\n\r\nAlso included is Pathfinder: Wrath of the Righteous, the most recent game based on Paizo's Pathfinder franchise.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/fallout-76-leads-humble-choice-games-for-february",
-          "publishedOn": "2023-02-08T13:56:19.000Z",
-          "wordCount": 4899,
-          "title": "Fallout 76 leads Humble Choice games for February",
-          "imageUrl": "https://assets.reedpopcdn.com/Fallout-76_-Nuka-World-on-Tour-Official-Launch-Trailer-0-20-screenshot.png/BROK/thumbnail/1200x630/Fallout-76_-Nuka-World-on-Tour-Official-Launch-Trailer-0-20-screenshot.png"
         }
       ]
     },
