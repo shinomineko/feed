@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2750/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/flatten_the_planets.png\" title=\"We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.\" alt=\"We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.\" />",
+          "link": "https://xkcd.com/2750/",
+          "publishedOn": "2023-03-15T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Flatten the Planets",
+          "imageUrl": "https://imgs.xkcd.com/comics/flatten_the_planets_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2749/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/lymphocytes.png\" title=\"It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'\" alt=\"It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'\" />",
@@ -424,16 +434,6 @@
           "wordCount": 724,
           "title": "Upcoming Speaking Engagements",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/02/what-will-it-take.html",
-          "author": null,
-          "description": "<p>What will it take for policy makers to take cybersecurity seriously? Not minimal-change seriously. Not here-and-there seriously. But really seriously. What will it take for policy makers to take cybersecurity seriously enough to enact substantive legislative changes that would address the problems? It’s not enough for the average person to be afraid of cyberattacks. They need to know that there are engineering fixes&#8212;and that’s something we can provide.</p>\n<p>For decades, I have been waiting for the “big enough” incident that would finally do it. In 2015, Chinese military hackers hacked the Office of Personal Management and made off with the highly personal information of about 22 million Americans who had security clearances. In 2016, the Mirai botnet leveraged millions of Internet-of-Things devices with default admin passwords to launch a denial-of-service attack that disabled major Internet platforms and services in both North America and Europe. In 2017, hackers&#8212;years later we learned that it was the Chinese military&#8212;hacked the credit bureau Equifax and stole the personal information of 147 million Americans. In recent years, ransomware attacks have knocked hospitals offline, and many articles have been written about Russia inside the U.S. power grid. And last year, the Russian SVR hacked thousands of sensitive networks inside civilian critical infrastructure worldwide in what we’re now calling Sunburst (and used to call SolarWinds)...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/02/what-will-it-take.html",
-          "publishedOn": "2023-02-14T12:06:06.000Z",
-          "wordCount": 1687,
-          "title": "What Will It Take?",
-          "imageUrl": null
         }
       ]
     },
@@ -442,6 +442,116 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1924448",
+          "author": "John Timmer",
+          "description": "Use scientifically relevant descriptions, not outdated social ideas.",
+          "link": "https://arstechnica.com/?p=1924448",
+          "publishedOn": "2023-03-15T22:50:21.000Z",
+          "wordCount": 2620,
+          "title": "National Academies: We can’t define “race,” so stop using it in science",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/image-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924246",
+          "author": "Benj Edwards",
+          "description": "\"ARC's evaluation has much lower probability of leading to an AI takeover than the deployment itself.\"",
+          "link": "https://arstechnica.com/?p=1924246",
+          "publishedOn": "2023-03-15T22:09:56.000Z",
+          "wordCount": 2816,
+          "title": "OpenAI checked to see whether GPT-4 could take over the world",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/AI_world_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924411",
+          "author": "Dan Goodin",
+          "description": "GoAnywhere customers are dropping like flies, courtesy of code execution bug.",
+          "link": "https://arstechnica.com/?p=1924411",
+          "publishedOn": "2023-03-15T21:42:10.000Z",
+          "wordCount": 1889,
+          "title": "Security firm Rubrik is latest to be felled by GoAnywhere vulnerability",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/data-breach-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924177",
+          "author": "Jennifer Ouellette",
+          "description": "Was Caterina a slave kidnapped from the Caucasus region?",
+          "link": "https://arstechnica.com/?p=1924177",
+          "publishedOn": "2023-03-15T21:14:26.000Z",
+          "wordCount": 2069,
+          "title": "New theory re-ignites debate about identity of Leonardo da Vinci’s mother",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/leonardo-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924325",
+          "author": "Ashley Belanger",
+          "description": "Texas man suing now fears identity theft after his personal info was shared.",
+          "link": "https://arstechnica.com/?p=1924325",
+          "publishedOn": "2023-03-15T20:40:17.000Z",
+          "wordCount": 2050,
+          "title": "Lawsuit: Cop pulled over driver for TikTok livestream—and shared driver’s ID",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1327894263-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924315",
+          "author": "Kyle Orland",
+          "description": "Industry lobbying against remote access leaves researchers cut off from game archives.",
+          "link": "https://arstechnica.com/?p=1924315",
+          "publishedOn": "2023-03-15T20:11:42.000Z",
+          "wordCount": 2396,
+          "title": "Why game archivists are dreading this month’s 3DS/Wii U eShop shutdown",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/eshops-720x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924296",
+          "author": "Jon Brodkin",
+          "description": "US law prohibits FCC employees from owning stock in firms regulated by the agency.",
+          "link": "https://arstechnica.com/?p=1924296",
+          "publishedOn": "2023-03-15T19:43:14.000Z",
+          "wordCount": 1938,
+          "title": "FCC officials owned stock in Comcast, Charter, AT&T, and Verizon, watchdog says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-comcast-stock-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924209",
+          "author": "Scharon Harding",
+          "description": "Apex Storage claims consumer shipments begin this year.",
+          "link": "https://arstechnica.com/?p=1924209",
+          "publishedOn": "2023-03-15T18:51:13.000Z",
+          "wordCount": 1887,
+          "title": "Newbie firm plans $2,800 add-in card that holds up to 21 PCIe 4.0 SSDs, 168TB",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/exterior-1-listing-e1678902633968-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924156",
+          "author": "Ron Amadeo",
+          "description": "The Pixel 8 Pro, Pixel 8, Pixel 7a, and Pixel Fold have all made the news rounds.",
+          "link": "https://arstechnica.com/?p=1924156",
+          "publishedOn": "2023-03-15T18:38:26.000Z",
+          "wordCount": 2143,
+          "title": "The Pixel 8 Pro heralds the death of curved-screen smartphones",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/Pixel-8-Pro-5K4-760x380.webp"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924164",
+          "author": "Andrew Cunningham",
+          "description": "Processor speed will still be a problem, but it's a cute little gadget.",
+          "link": "https://arstechnica.com/?p=1924164",
+          "publishedOn": "2023-03-15T17:38:37.000Z",
+          "wordCount": 1927,
+          "title": "All-open source 7-inch MNT Reform Pocket laptop starts at $899, ships in October",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/pref-body-keyboard-rainbow-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1924157",
+          "author": "Chuong Nguyen",
+          "description": "Also, the ThinkPad X1 Carbon Gen 10 is still 50 percent off.",
+          "link": "https://arstechnica.com/?p=1924157",
+          "publishedOn": "2023-03-15T17:23:05.000Z",
+          "wordCount": 1791,
+          "title": "Dealmaster: Save nearly 60% on Lenovo’s Yoga convertible",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/open-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1924196",
           "author": "Nate Anderson",
@@ -4065,6 +4175,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/heinz-launches-tomato-awareness-campaign-in-fortnite",
+          "author": "Tom Phillips",
+          "description": "Baked beans and ketchup maker Heinz has built a tomato awareness campaign in Fortnite, using a map that attempts to recreate one of its own tomato farms. \r\n\n\r\nDubbed \"SOS Tomatoes\", the map is designed to highlight a genuine good cause: the falling levels of soil quality  worldwide due to over farming. Information on the map will detail more about the threats to soil health - and hopefully provide some proper STEM learning.\r\n\n\r\nHeinz describes the experience as a \"one-of-a-kind\", with a faster shrinking storm to... highlight the \"rapid rate at which soil health is declining\". Now that's quite the pickle.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heinz-launches-tomato-awareness-campaign-in-fortnite",
+          "publishedOn": "2023-03-16T00:01:00.000Z",
+          "wordCount": 5396,
+          "title": "Heinz launches tomato awareness campaign in Fortnite",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered_7rK9YCB.jpg/BROK/thumbnail/1200x630/Untitled-1-Recovered_7rK9YCB.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/need-for-speed-unbounds-volume-2-update-adds-multiplayer-cops-and-more-next-week",
+          "author": "Matt Wales",
+          "description": "Criterion and EA have unveiled Need for Speed Unbound: Volume 2, a free content update coming to all platforms next Wednesday, 21st March.\r\n\n\r\nVolume 2 - said to be the first in what will presumably be a series of post-launch updates for Criterion's well-received racer - looks to bring a little bit more of everything, starting with the introduction of cop chases in multiplayer. \"Stay ahead of the chase to make Bank while your friends help knock them off your tail,\" is how Criterion explains the addition in its announcement, \"or take the Heat off you for their own rewards.\r\n\n\r\nAlongside multiplayer cop skirmishes - which come complete with new banner rewards - Volume 2 ushers in Daily Challenges, with players able to complete up to three (selected from a pool of 40) each day in order to earn XP and Bank. There's also a \"special luxury ride\" for those that complete enough challenges.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/need-for-speed-unbounds-volume-2-update-adds-multiplayer-cops-and-more-next-week",
+          "publishedOn": "2023-03-15T22:37:29.000Z",
+          "wordCount": 5416,
+          "title": "Need for Speed Unbound's Volume 2 update adds multiplayer cops and more next week",
+          "imageUrl": "https://assets.reedpopcdn.com/need-for-speed-unbound_eakXur6.jpg/BROK/thumbnail/1200x630/need-for-speed-unbound_eakXur6.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sony-announces-playstation-plus-additions-for-march",
           "author": "Ed Nightingale",
@@ -7714,36 +7844,6 @@
           "wordCount": 5167,
           "title": "Thor's Kratos fight ended differently in early outline of God of War Ragnarök",
           "imageUrl": "https://assets.reedpopcdn.com/god-of-war-rag-thor-and-kratos-battle.jpg/BROK/thumbnail/1200x630/god-of-war-rag-thor-and-kratos-battle.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-5-stock-recovery-sees-european-console-sales-up-200",
-          "author": "Tom Phillips",
-          "description": "PlayStation 5 console sales were up 202 percent across Europe in January 2023, compared to the same month a year ago.\r\n\n\r\nThe statistic, per GamesIndustry.biz's Chris Dring, lays bare how well Sony's hardware shipments have recovered - or, depending on how you look at it, how constrained they were back in 2022. \r\n\n\r\nIn real terms, all of this means that getting hold of a PlayStation 5 should now be much easier, which is good news all round. Stock of the in-demand console has been limited since its launch in late 2020, and a target for greedy scalpers.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-5-stock-recovery-sees-european-console-sales-up-200",
-          "publishedOn": "2023-02-14T12:19:25.000Z",
-          "wordCount": 4759,
-          "title": "PlayStation 5 stock recovery sees European console sales up 200%",
-          "imageUrl": "https://assets.reedpopcdn.com/Live-from-PS5---Bringing-You-The-Extraordinary-_-PS5-0-55-screenshot.png/BROK/thumbnail/1200x630/Live-from-PS5---Bringing-You-The-Extraordinary-_-PS5-0-55-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-seeks-to-explain-its-own-admission-xbox-game-pass-lowers-base-game-sales",
-          "author": "Tom Phillips",
-          "description": "Microsoft has issued a statement in response to its own admission that titles entering Xbox Game Pass sell fewer copies in the 12 months following their addition to the service.\r\n\n\r\nYesterday, GamesIndustry.biz highlighted a line from the UK Competition and Markets Authority's provisional report on Microsoft's attempted Activision Blizzard takeover, published last week, in which Microsoft stated that a title's inclusion in Game Pass resulted in a subsequent decline in base game sales.\r\n\n\r\n\"Microsoft... submitted that its internal analysis shows a [redacted] percent decline in base game sales 12 months following their addition on Game Pass,\" the CMA stated.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-seeks-to-explain-its-own-admission-xbox-game-pass-lowers-base-game-sales",
-          "publishedOn": "2023-02-14T11:44:23.000Z",
-          "wordCount": 5149,
-          "title": "Microsoft seeks to explain its own admission Xbox Game Pass lowers base game sales",
-          "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass_odUfBJj.jpg/BROK/thumbnail/1200x630/xbox-game-pass_odUfBJj.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dreamcast-cult-classic-cosmic-smash-vr-revival-confirmed-psvr2-demo-inbound",
-          "author": "Victoria Kennedy",
-          "description": "Sony has confirmed that, as we all suspected, Cosmic Smash is being revived for PlayStation VR2.\r\n\n\r\nJust for a quick bit of background, Cosmic Smash initially launched all the way back in 2001. On its release, the game tasked players with traversing a futuristic subway-style map, with each 'stop' on the line challenging them to clear blocks at the end of a long room within a certain amount of time. This was all done by using a ball and racquet, offering players an experience somewhere between Breakout and squash.\r\n\n\r\nNow, 22 years later, the game is being brought back and reimagined for the PSVR2. This upcoming release is known as C-Smash VRS (the VRS stands for \"VR\" and \"versus\") and is being developed by RapidEyeMovers along with VR veterans Wolf & Wood (which is known for VR games such as The Exorcist: Legion VR and Hotel R'n'R). You can see a brief trailer for C-Smash VRS below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dreamcast-cult-classic-cosmic-smash-vr-revival-confirmed-psvr2-demo-inbound",
-          "publishedOn": "2023-02-14T11:42:32.000Z",
-          "wordCount": 4868,
-          "title": "Dreamcast cult classic Cosmic Smash VR revival confirmed, PSVR2 demo inbound",
-          "imageUrl": "https://assets.reedpopcdn.com/csmash.jpg/BROK/thumbnail/1200x630/csmash.jpg"
         }
       ]
     },
@@ -7752,6 +7852,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=70744",
+          "author": "Mario Rodriguez",
+          "description": "Hear from Grafana’s Armand Grillet about how his team uses GitHub Projects.",
+          "link": "https://github.blog/2023-03-15-how-the-grafana-alerting-team-scales-their-issue-management-with-github-projects/",
+          "publishedOn": "2023-03-15T21:18:11.000Z",
+          "wordCount": 2401,
+          "title": "How the Grafana Alerting team scales their issue management with GitHub Projects",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Engineering-Product@2x.png"
+        },
         {
           "id": "https://github.blog/?p=70731",
           "author": "Ed Summers",
