@@ -141,16 +141,6 @@
           "wordCount": 2436,
           "title": "Remote Debugging",
           "imageUrl": "https://www.monkeyuser.com/assets/images/2023/260-remote-debugging.png"
-        },
-        {
-          "id": "https://www.monkeyuser.com/2023/todo/",
-          "author": null,
-          "description": "Software development satire",
-          "link": "https://www.monkeyuser.com/2023/todo/",
-          "publishedOn": "2023-02-21T00:00:00.000Z",
-          "wordCount": 2479,
-          "title": "TODO",
-          "imageUrl": "https://www.monkeyuser.com/assets/images/covers/todo.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/03/chatgpt-privacy-flaw.html",
+          "author": null,
+          "description": "<p>OpenAI has disabled ChatGPT&#8217;s privacy history, almost certainly because they had a security flaw where users <a href=\"https://www.flyingpenguin.com/?p=46374\">were seeing each others&#8217; histories.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/03/chatgpt-privacy-flaw.html",
+          "publishedOn": "2023-03-22T11:14:06.000Z",
+          "wordCount": 680,
+          "title": "ChatGPT Privacy Flaw",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/03/us-citizen-hacked-by-spyware.html",
           "author": null,
@@ -4031,66 +4031,6 @@
           "wordCount": 1938,
           "title": "Viral Instagram photographer has a confession: His photos are AI-generated",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/avery_hero_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1918936",
-          "author": "Beth Mole",
-          "description": "It's unclear if the two lawmakers know what messenger RNA is exactly.",
-          "link": "https://arstechnica.com/?p=1918936",
-          "publishedOn": "2023-02-20T22:11:00.000Z",
-          "wordCount": 2066,
-          "title": "Bonkers Republican bill in Idaho would make mRNA-based vaccination a crime",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1238045983-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1918825",
-          "author": "Jennifer Ouellette",
-          "description": "Subsurface tactile tomography can detect details beneath a material's surface.",
-          "link": "https://arstechnica.com/?p=1918825",
-          "publishedOn": "2023-02-20T21:59:09.000Z",
-          "wordCount": 1849,
-          "title": "This bionic finger uses touch to “see” inside human tissue, electronics",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/bionicTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1918899",
-          "author": "Kyle Orland",
-          "description": "A telltale “and” in a CMA report appendix has speculation running wild.",
-          "link": "https://arstechnica.com/?p=1918899",
-          "publishedOn": "2023-02-20T20:17:12.000Z",
-          "wordCount": 1842,
-          "title": "Did the UK government just accidentally leak Nintendo’s Switch successor?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/graph3.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1918832",
-          "author": "Ron Amadeo",
-          "description": "Just like the EU, if Google can't require OEMs to bundle apps, it'll just pay them.",
-          "link": "https://arstechnica.com/?p=1918832",
-          "publishedOn": "2023-02-20T20:06:54.000Z",
-          "wordCount": 1965,
-          "title": "Android’s new OEM rules in India swap “requirements” with “revenue sharing”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1918835",
-          "author": "Scharon Harding",
-          "description": "Amazon would rather you buy its $35 remote for button customization.",
-          "link": "https://arstechnica.com/?p=1918835",
-          "publishedOn": "2023-02-20T19:32:34.000Z",
-          "wordCount": 1805,
-          "title": "Amazon hamstrings free app that makes Fire TV remotes reprogrammable",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Fire-TV-Stick-4K-Max-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1918854",
-          "author": "Jon Brodkin",
-          "description": "Some people still waiting for regular Starlink get invites for $200 roaming plan.",
-          "link": "https://arstechnica.com/?p=1918854",
-          "publishedOn": "2023-02-20T18:41:47.000Z",
-          "wordCount": 1852,
-          "title": "Starlink’s “Global Roaming” promises worldwide access for $200 a month",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-starlink-760x380.jpg"
         }
       ]
     },
@@ -4195,6 +4135,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ubisoft-sparks-debate-by-unveiling-ai-tool-to-aid-scriptwriting",
+          "author": "Tom Phillips",
+          "description": "Ubisoft has sparked debate by showing off its new Ghostwriter tool, an \"AI\" designed to aid its writers create dialogue for in-game NPCs. \r\n\n\r\nGhostwriter was demoed on stage at GDC this week by Ubisoft researcher Ben Swanson, who stated the tool was designed for use with background dialogue, barks (generic lines from NPCs triggered by the player), and descriptions for the game's user interface.\r\n\n\r\nAccording to Game Developer, which attended the GDC session, Swanson described the tool as like a \"30,000-sided die\" which could be rolled to build sentences based on an initial input combined with a modifier, with machine learning built in to ensure responses varied. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-sparks-debate-by-unveiling-ai-tool-to-aid-scriptwriting",
+          "publishedOn": "2023-03-22T11:55:19.000Z",
+          "wordCount": 5292,
+          "title": "Ubisoft sparks debate by unveiling AI tool to aid scriptwriting",
+          "imageUrl": "https://assets.reedpopcdn.com/Ubisoft-is-Developing-an-AI-Ghostwriter-to-Save-Scriptwriters-Time-0-30-screenshot.png/BROK/thumbnail/1200x630/Ubisoft-is-Developing-an-AI-Ghostwriter-to-Save-Scriptwriters-Time-0-30-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-part-1-pc-features-unlocked-framerate-speedrun-and-permadeath-modes",
+          "author": "Victoria Kennedy",
+          "description": "The Last of Us Part 1's PC release is just around the corner. In anticipation of this, Naughty Dog has released a short video showing off some more of its upcoming features. \r\n\n\r\nOn its PC launch, The Last of Us Part 1 will include unlocked framerate, FSR Support, a speedrun mode (although, depending on which edition you buy, some story progression may be required before this mode is unlocked) and a permadeath mode.\r\n\n\r\nHere is a little trailer showing how it all looks in play:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-last-of-us-part-1-pc-features-unlocked-framerate-speedrun-and-permadeath-modes",
+          "publishedOn": "2023-03-22T11:50:24.000Z",
+          "wordCount": 5452,
+          "title": "The Last of Us Part 1 PC features unlocked framerate, speedrun and permadeath modes",
+          "imageUrl": "https://assets.reedpopcdn.com/joel-runs-the-last-of-us.jpg/BROK/thumbnail/1200x630/joel-runs-the-last-of-us.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-next-resident-evil-4-anime-short-is-here-and-it-is-glorious",
+          "author": "Victoria Kennedy",
+          "description": "The second episode of the Resident Evil 4 anime has arrived, and dare I say it, it is better than the first. \r\n\n\r\nFollowing on from Leon's arrival in the village, this next episode - known as \"A promise between the two\" - starts with a rather sweet moment between Leon and Ashley. Leon presses the importance of Ashley staying close to him, and in turn Ashley promises that she will. Smash cut to Ashley not exactly doing that.\r\n\n\r\nI won't spoil the short clip for you. Instead, please take a moment to enjoy the next part of this glorious marketing beat from Capcom and Nippon Animation in the video below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-next-resident-evil-4-anime-short-is-here-and-it-is-glorious",
+          "publishedOn": "2023-03-22T11:00:44.000Z",
+          "wordCount": 5334,
+          "title": "The next Resident Evil 4 anime short is here, and it is glorious",
+          "imageUrl": "https://assets.reedpopcdn.com/leon-ashley-resident-evil.jpg/BROK/thumbnail/1200x630/leon-ashley-resident-evil.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/small-band-of-gamers-fail-to-block-microsoft-activision-blizzard-bid",
+          "author": "Tom Phillips",
+          "description": "A group of gamers have failed in their attempt to sue Microsoft over its impending $68.7bn Activision Blizzard acquisition. \r\n\n\r\nThe 10-strong party lawyered up late last year to launch a lawsuit which claimed Microsoft's buyout would give the Xbox owner too much influence over the games industry \"to foreclose rivals, limit output, reduce consumer choice, raise prices, and further inhibit competition\".\r\n\n\r\nThis week, a judge dismissed the \"so-called gamers' lawsuit\" as it \"does not plausibly allege the merger creates a reasonable probability of anticompetitive effects in any relevant market\" (thanks, Foss Patents). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/small-band-of-gamers-fail-to-block-microsoft-activision-blizzard-bid",
+          "publishedOn": "2023-03-22T10:54:32.000Z",
+          "wordCount": 5142,
+          "title": "Small band of gamers fail to block Microsoft Activision Blizzard bid",
+          "imageUrl": "https://assets.reedpopcdn.com/AdobeStock_430014769.jpeg/BROK/thumbnail/1200x630/AdobeStock_430014769.jpeg"
+        },
         {
           "id": "https://www.eurogamer.net/microsoft-tells-regulators-sony-could-create-a-call-of-duty-competitor-in-10-years",
           "author": "Matt Wales",
@@ -7844,36 +7824,6 @@
           "wordCount": 4888,
           "title": "Microsoft and Nintendo sign \"binding 10-year agreement\" for Call of Duty",
           "imageUrl": "https://assets.reedpopcdn.com/microsoft-logo-01.jpeg/BROK/thumbnail/1200x630/microsoft-logo-01.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/for-the-king-2s-latest-trailer-reveals-landboats-and-recruitable-pets",
-          "author": "Matt Wales",
-          "description": "Developer IronOak Games has teased a little more of For the King 2 - the sequel to its wonderful tabletop-RPG-meets-digital-board-game adventure - with its latest trailer revealing a handful of new features including landboats and recruitable pets.\r\n\n\r\nThe original For The King was a bit of a treat, blending familiar RPG staples - dungeon crawling, questing, turn-based exploration and combat, loot acquisition, and so on - into a light-hearted, optionally co-operative rogue-like adventure with some neat story generation through its myriad randomised narrative events.\r\n\n\r\nMuch of that core remains in place in For The King 2, but the sequel - which pits players against the kingdom of Fahrul's tyrannical queen 20 years after the end of the first game - adds new biomes, expanded co-op for up to four players (now also available online), increased customisaton across classes, armour, and weapons, plus a new, more strategic lane-based combat system which is detailed more thoroughly here.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/for-the-king-2s-latest-trailer-reveals-landboats-and-recruitable-pets",
-          "publishedOn": "2023-02-20T23:40:27.000Z",
-          "wordCount": 4835,
-          "title": "For the King 2's latest trailer reveals landboats and recruitable pets",
-          "imageUrl": "https://assets.reedpopcdn.com/for-the-king-2-art.jpg/BROK/thumbnail/1200x630/for-the-king-2-art.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/one-year-on-chrono-cross-wonky-remaster-is-getting-performance-fixes",
-          "author": "Matt Wales",
-          "description": "Square Enix has pledged to finally address issues affecting its wonky Chrono Cross remaster, known as The Radical Dreamers Edition, in a new patch arriving this month - almost a year after its initial release on PC, PlayStation, Xbox, and Switch.\r\n\n\r\nChrono Cross: The Radical Dreamers Edition launched last April, offering players a gentle remaster of Square's dimension-hopping 1999 PlayStation JRPG Chrono Cross, in which a teenage boy named Serge finds himself in an alternate reality where he died as a child.\r\n\n\r\nWhile the game itself has been celebrated over the years - Eurogamer contributor Edwin Evans-Thirwell called it an \"engrossing epic, mixing sadness, whimsy and a touch of cosmic dread\" when he reviewed The Radical Dreamers Edition last year - the remaster left a lot to be desired, with Digital Foundry coming away unimpressed by its performance on all platforms.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/one-year-on-chrono-cross-wonky-remaster-is-getting-performance-fixes",
-          "publishedOn": "2023-02-20T19:51:47.000Z",
-          "wordCount": 4966,
-          "title": "One year on, Chrono Cross' wonky remaster is getting performance fixes",
-          "imageUrl": "https://assets.reedpopcdn.com/chrono-cross-review-header.jpg/BROK/thumbnail/1200x630/chrono-cross-review-header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bloober-teams-layers-of-fear-remake-coming-in-june",
-          "author": "Matt Wales",
-          "description": "Bloober Team has announced a June launch window for Layers of Fear - the Layers of Fear 1 & 2 remake formally known as Layers of Fears - and shared a new trailer to coincide with the news.\r\n\n\r\nLayers of Fear is being co-developed with Anshar Studios, and sees the original Layers of Fear, its Inheritance DLC, and Layers of Fear 2 rebuilt in Unreal Engine 5 for a spot of new-gen shininess, and reimagined as a single, generations-spanning \"psychedelic horror chronicle\".\r\n\n\r\nThe first Layers of Fear game, which released back in 2016, charted the story of a painter on the verge of completing his masterpiece, while 2019's Layers of Fear 2 told the tale of an actor making a movie onboard a labyrinthine ocean liner. Bloober's remake(s) will revisit each protagonist's respective unravellings, bringing new visuals, gameplay, and expanded plot lines said to \"cast a new light on the overarching narrative\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bloober-teams-layers-of-fear-remake-coming-in-june",
-          "publishedOn": "2023-02-20T18:26:50.000Z",
-          "wordCount": 4955,
-          "title": "Bloober Team's Layers of Fear remake coming in June",
-          "imageUrl": "https://assets.reedpopcdn.com/Layers-of-Fears-Shadow.png/BROK/thumbnail/1200x630/Layers-of-Fears-Shadow.png"
         }
       ]
     },
