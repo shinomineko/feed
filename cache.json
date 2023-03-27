@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2755/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/effect_size.png\" title=\"Subgroup analysis is ongoing.\" alt=\"Subgroup analysis is ongoing.\" />",
+          "link": "https://xkcd.com/2755/",
+          "publishedOn": "2023-03-27T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Effect Size",
+          "imageUrl": "https://imgs.xkcd.com/comics/effect_size_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2754/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/relative_terms.png\" title=\"Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.\" alt=\"Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.\" />",
@@ -155,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/03/hacks-at-pwn2own-vancouver-2023.html",
+          "author": null,
+          "description": "<p>An impressive array of hacks were demonstrated at the <a href=\"https://www.bleepingcomputer.com/news/security/windows-11-tesla-ubuntu-and-macos-hacked-at-pwn2own-2023/\">first day</a> of the Pwn2Own conference in Vancouver:</p>\n<blockquote><p>On the first day of Pwn2Own Vancouver 2023, security researchers successfully demoed Tesla Model 3, Windows 11, and macOS zero-day exploits and exploit chains to win $375,000 and a Tesla Model 3.</p>\n<p>The first to fall was Adobe Reader in the enterprise applications category after Haboob SA&#8217;s Abdul Aziz Hariri (<a href=\"https://twitter.com/abdhariri\">@abdhariri</a>) used an exploit chain targeting a 6-bug logic chain abusing multiple failed patches which escaped the sandbox and bypassed a banned API list on macOS to earn $50,000...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/03/hacks-at-pwn2own-vancouver-2023.html",
+          "publishedOn": "2023-03-27T11:03:13.000Z",
+          "wordCount": 1395,
+          "title": "Hacks at Pwn2Own Vancouver 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/03/friday-squid-blogging-creating-batteries-out-of-squid-cells.html",
           "author": null,
@@ -382,6 +402,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1927009",
+          "author": "Jon Brodkin",
+          "description": "Twitter suspects code leaker is ex-employee, which doesn't narrow it down much.",
+          "link": "https://arstechnica.com/?p=1927009",
+          "publishedOn": "2023-03-27T16:01:08.000Z",
+          "wordCount": 1892,
+          "title": "Twitter source code was leaked on GitHub shortly after Musk’s layoff spree",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-twitter-magnifying-glass-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1926969",
+          "author": "Ars Staff",
+          "description": "Toyota will only make 200 of these hand-built hot hatches this year, perhaps ever.",
+          "link": "https://arstechnica.com/?p=1926969",
+          "publishedOn": "2023-03-27T14:15:20.000Z",
+          "wordCount": 1969,
+          "title": "We drive the most hardcore Toyota Corolla ever: The GR Morizo Edition",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/071A7834-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1926972",
+          "author": "Eric Berger",
+          "description": "The company says it intends to return to flight \"soon.\"",
+          "link": "https://arstechnica.com/?p=1926972",
+          "publishedOn": "2023-03-27T13:43:32.000Z",
+          "wordCount": 1775,
+          "title": "Blue Origin provides a detailed analysis of its launch failure",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/LIVE-Blue-Origin-New-Shepard-23-Cargo-Launch-1-23-0-screenshot-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1926914",
+          "author": "Dan Goodin",
+          "description": "Fast-growing e-commerce app Pinduoduo had an EvilParcel stow-away.",
+          "link": "https://arstechnica.com/?p=1926914",
+          "publishedOn": "2023-03-27T12:31:46.000Z",
+          "wordCount": 1828,
+          "title": "Android app from China executed 0-day exploit on millions of devices",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/hacked-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1925649",
+          "author": "Paul Sutter",
+          "description": "Here's the math behind making a star-encompassing megastructure.",
+          "link": "https://arstechnica.com/?p=1925649",
+          "publishedOn": "2023-03-27T11:40:34.000Z",
+          "wordCount": 1878,
+          "title": "Would building a Dyson sphere be worth it? We ran the numbers.",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/A_Dyson_Swarm_Superstructure_21983905140-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1926872",
           "author": "Undark Magazine",
@@ -4016,6 +4086,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/microsoft-stops-1-xbox-game-pass-trial",
+          "author": "Ed Nightingale",
+          "description": "Microsoft has stopped its £1 trial offer for Xbox Game Pass.\r\n\n\r\nThe trial has been around for some time and provided players with a month of Xbox Game Pass access, but Microsoft is now considering new promotions instead.\r\n\n\r\n\"We have stopped our previous introductory offer for Xbox Game Pass Ultimate and PC Game Pass and are evaluating different marketing promotions for new members in the future,\" a Microsoft spokesperson told Eurogamer.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-stops-1-xbox-game-pass-trial",
+          "publishedOn": "2023-03-27T14:58:05.000Z",
+          "wordCount": 5072,
+          "title": "Microsoft stops £1 Xbox Game Pass trial",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass_odUfBJj.jpg/BROK/thumbnail/1200x630/xbox-game-pass_odUfBJj.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-legend-of-zelda-tears-of-the-kingdom-nintendo-direct-set-for-tomorrow",
+          "author": "Ed Nightingale",
+          "description": "A The Legend of Zelda: Tears of the Kingdom Nintendo Direct will take place tomorrow, 28th March, at 3pm UK time.\r\n\n\r\nThe presentation will be hosted by series producer Eiji Aonuma and will include roughly ten minutes of gameplay.\r\n\n\r\nThe stream will be available to watch on Nintendo's YouTube channel.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-legend-of-zelda-tears-of-the-kingdom-nintendo-direct-set-for-tomorrow",
+          "publishedOn": "2023-03-27T14:38:37.000Z",
+          "wordCount": 5322,
+          "title": "The Legend of Zelda: Tears of the Kingdom Nintendo Direct set for tomorrow",
+          "imageUrl": "https://assets.reedpopcdn.com/zelda-tears-kingdom-rating.jpg/BROK/thumbnail/1200x630/zelda-tears-kingdom-rating.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-fans-find-references-to-previous-games-in-ff16",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy fans have been picking apart new footage of FF16 to discover possible references to previous games in the series.\r\n\n\r\nAs Vikki reported yesterday, new footage of the game has been released online, taken from a talk by producer Naoki Yoshida and localisation director Koji Fox at PAX East. It looks truly stunning.\r\n\r\n\n\r\nThe full panel presentation also includes further details on the game and answers a few fan questions.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-fans-find-references-to-previous-games-in-ff16",
+          "publishedOn": "2023-03-27T14:23:33.000Z",
+          "wordCount": 5690,
+          "title": "Final Fantasy fans find references to previous games in FF16",
+          "imageUrl": "https://assets.reedpopcdn.com/Yes%2C-You-Can-Pet-the-Torgal_-A-Final-Fantasy-XVI-Panel-at-PAX-East-2023-58-41-screenshot-(1).png/BROK/thumbnail/1200x630/Yes%2C-You-Can-Pet-the-Torgal_-A-Final-Fantasy-XVI-Panel-at-PAX-East-2023-58-41-screenshot-(1).png"
+        },
+        {
+          "id": "https://www.eurogamer.net/kerbal-space-program-2-developer-shares-update-on-second-patch",
+          "author": "Victoria Kennedy",
+          "description": "Intercept Games has shared an update on its second patch for Kerbal Space Program 2.\r\n\n\r\nKerbal Space Program 2, which released in early access in February, received its first (extensive) patch earlier this month. This followed a rather rocky launch for the space-flight simulator, which saw a steep fall in player numbers soon after release, with many asking for refunds due to the game's buggy state.\r\n\n\r\nNow, the KSP2 team is working on another patch, with creative director Nate Simpson noting that while it'll be \"tough to beat the sheer number of fixes that went into Patch One\", players can still expect \"a few big ones\" to arrive in Patch Two. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/kerbal-space-program-2-developer-shares-update-on-second-patch",
+          "publishedOn": "2023-03-27T13:10:01.000Z",
+          "wordCount": 5650,
+          "title": "Kerbal Space Program 2 developer shares update on second patch",
+          "imageUrl": "https://assets.reedpopcdn.com/ksp2-patch-2-header.jpg/BROK/thumbnail/1200x630/ksp2-patch-2-header.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/resident-evil-4-remake-dataminer-finds-separate-ways-dlc-reference",
+          "author": "Ed Nightingale",
+          "description": "A dataminer of Resident Evil 4 Remake has discovered a reference to Separate Ways, suggesting more DLC may be on the way soon.\r\n\n\r\nAs shared on Twitter by Resident Evil Central, dataminer Gosetsu found a folder named The Another Order within the game's files, alongside files for the Chainsaw demo and the Mercenaries mode.\r\n\n\r\nThe Another Order was the name of the extra game mode in the original game in Japan, what we in the west called Separate Ways.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/resident-evil-4-remake-dataminer-finds-separate-ways-dlc-reference",
+          "publishedOn": "2023-03-27T12:02:12.000Z",
+          "wordCount": 5350,
+          "title": "Resident Evil 4 Remake dataminer finds Separate Ways DLC reference",
+          "imageUrl": "https://assets.reedpopcdn.com/RE4_Ada_01.png/BROK/thumbnail/1200x630/RE4_Ada_01.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/dark-and-darker-developer-uses-chatgpt-ai-tool-in-bid-to-prove-it-hasnt-infringed-copyright-1",
+          "author": "Victoria Kennedy",
+          "description": "Ironmace, the Korean developer behind upcoming looter Dark and Darker, has used ChatGPT to try and prove it hasn't infringed any copyright claims. This follows an accusation from Nexon, another Korean developer and one which several Ironmace employees used to work for, which claimed its game (P3) was used as a prototype for Dark and Darker.\r\n\n\r\nOver the weekend, Ironmace stated it had been served a cease and desist letter and DMCA takedown by Nexon, something the developer said is \"based on distorted claims\". As a result, Dark and Darker was removed from Steam.\r\n\n\r\nAt this time, Ironamce asked for \"understanding\" as it worked to get the game back on the site, noting that \"due to the sensitive legal nature of this issue\" it has to be \"careful with [its] statements so as to not jeopardise [its] position\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dark-and-darker-developer-uses-chatgpt-ai-tool-in-bid-to-prove-it-hasnt-infringed-copyright-1",
+          "publishedOn": "2023-03-27T11:54:26.000Z",
+          "wordCount": 6140,
+          "title": "Dark and Darker developer uses ChatGPT AI tool in bid to prove it hasn't infringed copyright",
+          "imageUrl": "https://assets.reedpopcdn.com/Dark-and-Darker_ifddA4h.jpeg/BROK/thumbnail/1200x630/Dark-and-Darker_ifddA4h.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-offering-free-seven-day-trial-of-switch-online-until-april",
+          "author": "Ed Nightingale",
+          "description": "Nintendo is offering a free seven day trial of Switch Online until 2nd April for new users.\r\n\n\r\nThis provides Switch players with access to online features and access to the cloud to backup save files, in addition to classic games on NES, SNES and now Game Boy.\r\n\r\n\n\r\nOther classics are only available with the Nintendo Switch Online Expansion Pass.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-offering-free-seven-day-trial-of-switch-online-until-april",
+          "publishedOn": "2023-03-27T11:20:15.000Z",
+          "wordCount": 5107,
+          "title": "Nintendo offering free seven day trial of Switch Online until April",
+          "imageUrl": "https://assets.reedpopcdn.com/NSO_EN_1080_050521_h264.jpg/BROK/thumbnail/1200x630/NSO_EN_1080_050521_h264.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/resident-evil-4-remake-players-discover-method-to-stop-village-fight-early",
+          "author": "Ed Nightingale",
+          "description": "Resident Evil 4 players will be aware of its iconic village section from the start, whether that's in the original, the new remake, or its chainsaw demo.\r\n\n\r\nBut ingenious players have discovered a new method to end it early.\r\n\n\r\nIt's one of those 'that's really obvious, why didn't I think of that?' moments.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/resident-evil-4-remake-players-discover-method-to-stop-village-fight-early",
+          "publishedOn": "2023-03-27T10:37:27.000Z",
+          "wordCount": 5345,
+          "title": "Resident Evil 4 Remake players discover method to stop village fight early",
+          "imageUrl": "https://assets.reedpopcdn.com/Resident-Evil-4-remake-1.png/BROK/thumbnail/1200x630/Resident-Evil-4-remake-1.png"
+        },
         {
           "id": "https://www.eurogamer.net/multiplayer-shooter-hyenas-new-specialist-is-a-sonic-cosplayer",
           "author": "Vikki Blake",
