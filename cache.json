@@ -124,16 +124,6 @@
           "wordCount": 178,
           "title": "Fanservice",
           "imageUrl": "https://imgs.xkcd.com/comics/fanservice_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2743/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hand_dryers.png\" title=\"I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.\" alt=\"I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.\" />",
-          "link": "https://xkcd.com/2743/",
-          "publishedOn": "2023-02-27T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Hand Dryers",
-          "imageUrl": "https://imgs.xkcd.com/comics/hand_dryers_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/03/security-vulnerabilities-in-snipping-tools.html",
+          "author": null,
+          "description": "<p>Both <a href=\"https://www.bleepingcomputer.com/news/security/google-pixel-flaw-allowed-recovery-of-redacted-cropped-images/\">Google&#8217;s Pixel&#8217;s Markup Tool</a> and the <a href=\"https://www.bleepingcomputer.com/news/microsoft/windows-11-snipping-tool-privacy-bug-exposes-cropped-image-content/\">Windows Snipping Tool</a> have vulnerabilities that allow people to partially recover content that was edited out of images.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/03/security-vulnerabilities-in-snipping-tools.html",
+          "publishedOn": "2023-03-28T11:13:32.000Z",
+          "wordCount": 672,
+          "title": "Security Vulnerabilities in Snipping Tools",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/03/hacks-at-pwn2own-vancouver-2023.html",
           "author": null,
@@ -4186,6 +4186,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ubisoft-paris-developers-speak-of-morally-and-physically-exhausting-crunch-culture-in-new-report",
+          "author": "Victoria Kennedy",
+          "description": "Developers have spoken about the \"morally and physically exhausting\" crunch culture at Ubisoft Paris. \r\n\n\r\nIn a report by NME focused primarily on the development of Just Dance 2023, members of the Solidaires Informatique union group for Ubisoft Paris said pre-production for the game was a \"mess\". \r\n\n\r\nReportedly, the Just Dance 2023 team was \"tasked with changing the Just Dance 2023 engine just 11 months before launch\", while bosses continued to push ideas \"that had to be considered at all costs\". This was despite developers saying they were \"already underwater\" at this point.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-paris-developers-speak-of-morally-and-physically-exhausting-crunch-culture-in-new-report",
+          "publishedOn": "2023-03-28T11:44:06.000Z",
+          "wordCount": 5625,
+          "title": "Ubisoft Paris developers speak of \"morally and physically exhausting\" crunch culture in new report",
+          "imageUrl": "https://assets.reedpopcdn.com/jjust-dance-2023.jpg/BROK/thumbnail/1200x630/jjust-dance-2023.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/gamecube-and-wii-emulator-dolphin-coming-to-steam-this-year",
+          "author": "Ed Nightingale",
+          "description": "GameCube and Wii emulator Dolphin is coming to Steam in Early Access for free in Q2 2023.\r\n\n\r\nIt's currently available to wishlist in advance of a download through Steam. At launch a longer article will detail the features of the Steam release.\r\n\r\n\n\r\nFor now, there's a blog post on the Dolphin site (thanks Nintendo Life): \"We're pleased to finally tell the world of our experiment. This has been the product of many months of work, and we look forward to getting it into users' hands soon!\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/gamecube-and-wii-emulator-dolphin-coming-to-steam-this-year",
+          "publishedOn": "2023-03-28T11:19:22.000Z",
+          "wordCount": 5204,
+          "title": "GameCube and Wii emulator Dolphin coming to Steam this year",
+          "imageUrl": "https://assets.reedpopcdn.com/zelda-wind-waker-hd_vfnex2f.jpg/BROK/thumbnail/1200x630/zelda-wind-waker-hd_vfnex2f.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/us-congress-raises-concerns-about-sonys-monopoly-on-japans-gaming-market",
+          "author": "Ed Nightingale",
+          "description": "US Members of Congress have raised concerns to the Biden administration about Sony's \"monopoly\" on the gaming market in Japan.\r\n\n\r\nSenator Maria Cantwell last week remarked during a Senate Finance Committee hearing that Sony was engaging in \"blatant anti-competitive conduct\", reports Politico.\r\n\n\r\nFurther, she called upon US Trade Representative Katherine Tai to \"investigate these exclusionary conducts\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/us-congress-raises-concerns-about-sonys-monopoly-on-japans-gaming-market",
+          "publishedOn": "2023-03-28T10:51:30.000Z",
+          "wordCount": 5391,
+          "title": "US Congress raises concerns about Sony's \"monopoly\" on Japan's gaming market",
+          "imageUrl": "https://assets.reedpopcdn.com/sony-state-of-play.jpg/BROK/thumbnail/1200x630/sony-state-of-play.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/steam-to-stop-supporting-windows-7-windows-8-operating-systems-in-2024",
+          "author": "Victoria Kennedy",
+          "description": "A quick PSA for you all - From the 1st January, 2024, Steam will no longer support Windows 7, Windows 8 and Windows 8.1 operating systems.\r\n\n\r\nIn a brief update on the site, the platform stated that following the 1st January, the Steam Client will \"no longer run on those versions of Windows\".\r\n\n\r\nThose still using these versions of Windows will need to update to a more recent version to continue running Steam, including any games and products purchased through the platform.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/steam-to-stop-supporting-windows-7-windows-8-operating-systems-in-2024",
+          "publishedOn": "2023-03-28T10:33:33.000Z",
+          "wordCount": 5125,
+          "title": "Steam to stop supporting Windows 7, Windows 8 operating systems in 2024",
+          "imageUrl": "https://assets.reedpopcdn.com/steam_ROoZJs3.jpg/BROK/thumbnail/1200x630/steam_ROoZJs3.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/multiversus-to-shut-down-until-2024-with-no-refunds-for-paying-players",
+          "author": "Victoria Kennedy",
+          "description": "MultiVersus' open beta will come to an end on 25th June, developer Play First Games has announced. Following this date, the game's servers will shut down until Multiversus' full launch, which is scheduled for sometime in 2024. \r\n\n\r\nAdditionally, Player First Games has stated there will be no refunds being given outside of the normal storefront policies and terms.\r\n\n\r\nAs stated in an accompanying Multiversus FAQ regarding the closure: \"This announcement does not change any current refund policies or terms offered by the storefront(s) from which Founder's Packs or Gleamium bundles were purchased.\" \r\n \nRead more",
+          "link": "https://www.eurogamer.net/multiversus-to-shut-down-until-2024-with-no-refunds-for-paying-players",
+          "publishedOn": "2023-03-28T10:09:58.000Z",
+          "wordCount": 5646,
+          "title": "MultiVersus to shut down until 2024, with no refunds for paying players",
+          "imageUrl": "https://assets.reedpopcdn.com/bugs-bunny_tBKVihK.jpg/BROK/thumbnail/1200x630/bugs-bunny_tBKVihK.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/former-bioware-exec-returns-to-dragon-age-dreadwolf-along-with-mass-effect-team",
+          "author": "Ed Nightingale",
+          "description": "Members of the Mass Effect development team have now joined the Dragon Age team to assist in polishing Dreadwolf in post-production.\r\n\n\r\nIn addition, former BioWare executive producer Mark Darrah has returned to work on Dragon Age: Dreadwolf as a consultant. Darrah was director and executive producer on Dragon Age: Origins and Dragon Age 2, as well as working on Dragon Age: Inquisition and Anthem.\r\n\n\r\nThe next Mass Effect game is still in pre-production with a small core team, so the rest of the team is free to help with Dreadwolf in the meantime, reports GamesBeat.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/former-bioware-exec-returns-to-dragon-age-dreadwolf-along-with-mass-effect-team",
+          "publishedOn": "2023-03-28T09:54:39.000Z",
+          "wordCount": 5520,
+          "title": "Former BioWare exec returns to Dragon Age: Dreadwolf, along with Mass Effect team",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered-Recovered_KnaYZo4.jpg/BROK/thumbnail/1200x630/Untitled-1-Recovered-Recovered_KnaYZo4.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/microsoft-stops-1-xbox-game-pass-trial",
           "author": "Ed Nightingale",
