@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2756/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/qualifications.png\" title=\"'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'\" alt=\"'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'\" />",
+          "link": "https://xkcd.com/2756/",
+          "publishedOn": "2023-03-29T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Qualifications",
+          "imageUrl": "https://imgs.xkcd.com/comics/qualifications_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2755/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/effect_size.png\" title=\"Subgroup analysis is ongoing.\" alt=\"Subgroup analysis is ongoing.\" />",
@@ -384,16 +394,6 @@
           "wordCount": 680,
           "title": "Fooling a Voice Authentication System with an AI-Generated Voice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html",
-          "author": null,
-          "description": "<p><a href=\"https://pq-crystals.org/kyber/\">CRYSTALS-Kyber</a> is one of the public-key algorithms currently <a href=\"https://csrc.nist.gov/News/2022/pqc-candidates-to-be-standardized-and-round-4\">recommended</a> by NIST as part of its post-quantum cryptography <a href=\"https://csrc.nist.gov/projects/post-quantum-cryptography\">standardization process</a>.</p>\n<p>Researchers have <a href=\"https://eprint.iacr.org/2022/1713.pdf\">just published</a> a side-channel attack&#8212;using power consumption&#8212;against an implementation of the algorithm that was supposed to be resistant against that sort of attack.</p>\n<p>The algorithm is not &#8220;broken&#8221; or &#8220;cracked&#8221;&#8212;despite <a href=\"https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ai-helps-crack-a-nist-recommended-post-quantum-encryption-algorithm/amp/\">headlines</a> to the contrary&#8212;this is just a  side-channel attack. What makes this work really interesting is that the researchers used a machine-learning model to train the system to exploit the side channel...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html",
-          "publishedOn": "2023-02-28T12:19:15.000Z",
-          "wordCount": 739,
-          "title": "Side-Channel Attack against CRYSTALS-Kyber",
-          "imageUrl": null
         }
       ]
     },
@@ -402,6 +402,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1927378",
+          "author": "Jonathan M. Gitlin",
+          "description": "After the all-touchscreen Taycan, it's a welcome change.",
+          "link": "https://arstechnica.com/?p=1927378",
+          "publishedOn": "2023-03-29T22:00:56.000Z",
+          "wordCount": 1973,
+          "title": "Buttons are back at Porsche as we see the 2024 Cayenne interior",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/Interior_1_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927687",
+          "author": "Eric Berger",
+          "description": "\"It's just a matter of going through all that data.\"",
+          "link": "https://arstechnica.com/?p=1927687",
+          "publishedOn": "2023-03-29T21:39:46.000Z",
+          "wordCount": 1828,
+          "title": "NASA delays flight of Boeing’s Starliner again, this time for parachutes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258468286_be52c160ec_k-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927757",
+          "author": "Ron Amadeo",
+          "description": "Phones brought special gaming-centric Android hardware, but nobody made games for it.",
+          "link": "https://arstechnica.com/?p=1927757",
+          "publishedOn": "2023-03-29T21:27:41.000Z",
+          "wordCount": 1859,
+          "title": "Lenovo gives up on its dream of Android gaming phones",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/11-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927703",
+          "author": "Samuel Axon",
+          "description": "Autodesk has never said why this took so long compared to competitors.",
+          "link": "https://arstechnica.com/?p=1927703",
+          "publishedOn": "2023-03-29T20:12:42.000Z",
+          "wordCount": 1634,
+          "title": "After two years, Autodesk Maya and AutoCAD become Apple Silicon-native",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/AutoCAD-for-Mac-2024-Feature-760x380.webp"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927560",
+          "author": "Benj Edwards",
+          "description": "\"This pause should be public and verifiable, and include all key actors.\"",
+          "link": "https://arstechnica.com/?p=1927560",
+          "publishedOn": "2023-03-29T20:05:01.000Z",
+          "wordCount": 1959,
+          "title": "Fearing “loss of control,” AI critics call for 6-month pause in AI development",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/AI_pause_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927710",
+          "author": "Jon Brodkin",
+          "description": "Google in trouble for auto-deleting chats needed as evidence in Epic Games case.",
+          "link": "https://arstechnica.com/?p=1927710",
+          "publishedOn": "2023-03-29T19:46:27.000Z",
+          "wordCount": 1998,
+          "title": "Judge finds Google destroyed evidence and repeatedly gave false info to court",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-shredder-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927666",
+          "author": "Samuel Axon",
+          "description": "In addition to iOS 17 and macOS 14, Apple could announce its XR platform.",
+          "link": "https://arstechnica.com/?p=1927666",
+          "publishedOn": "2023-03-29T18:46:37.000Z",
+          "wordCount": 1681,
+          "title": "Apple’s WWDC 2023 keynote will take place on June 5",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/WWDC-2023-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927657",
+          "author": "Ashley Belanger",
+          "description": "Reddit also launched a transparency center to help users assess platform safety.",
+          "link": "https://arstechnica.com/?p=1927657",
+          "publishedOn": "2023-03-29T18:20:51.000Z",
+          "wordCount": 2080,
+          "title": "Reddit cracked down on revenge porn, creepshots with twofold spike in permabans",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1244516743-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1927612",
+          "author": "Ron Amadeo",
+          "description": "In 2020, Google bought 6% of ADT and promised this \"next gen\" security system.",
+          "link": "https://arstechnica.com/?p=1927612",
+          "publishedOn": "2023-03-29T17:41:55.000Z",
+          "wordCount": 2265,
+          "title": "Google and ADT have a new security system with lots of subscription fees",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/4-1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1927228",
           "author": "Jennifer Ouellette",
@@ -4107,6 +4197,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/",
+          "author": null,
+          "description": "Authors: Craig Box (ARMO), Ben Hirschberg (ARMO)\nAdmission control is an important part of the Kubernetes control plane, with several internal\nfeatures depending on the ability to approve or change an API object as it is submitted to the\nserver. It is also useful for an administrator to be able to define business logic, or policies,\nregarding what objects can be admitted into a cluster. To better support that use case, Kubernetes\nintroduced external admission control in\nv1.7.\nIn addition to countless custom, internal implementations, many open source projects and commercial\nsolutions implement admission controllers with user-specified policy, including\nKyverno and Open Policy Agent’s\nGatekeeper.\nWhile admission controllers for policy have seen adoption, there are blockers for their widespr…",
+          "link": "https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/",
+          "publishedOn": "2023-03-30T00:00:00.000Z",
+          "wordCount": 4656,
+          "title": "Blog: Kubernetes Validating Admission Policies: A Practical Example",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/03/17/upcoming-changes-in-kubernetes-v1-27/",
           "author": null,
           "description": "Author: Harshita Sao\nAs Kubernetes develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. Based on the information available at this point in the v1.27 release process, which is still ongoing and can introduce additional changes, this article identifies and describes some of the planned changes for the Kubernetes v1.27 release.\nA note about the k8s.gcr.io redirect to registry.k8s.io\nTo host its container images, the Kubernetes project uses a community-owned image registry called registry.k8s.io. On March 20th, all traffic from the out-of-date k8s.gcr.io registry will be redirected to registry.k8s.io. The deprecated k8s.gcr.io registry will eventually be phased out.\nWhat does this change mean?\nIf you are a subproject maintai…",
@@ -4217,6 +4317,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ea-laying-off-6-of-its-workforce-as-part-of-restructuring",
+          "author": "Matt Wales",
+          "description": "EA has announced a round of \"restructuring\" it says will likely impact around six percent of its workforce, potentially amounting to over 750 job losses based its latest employment figures.\r\n\n\r\nIn a letter to staff, later shared publicly on EA's website, CEO Andrew Wilson announced the job cuts while simultaneously insisting the company was \"operating from a position of strength\". \r\n\n\r\n\"As we drive greater focus across our portfolio, we are moving away from projects that do not contribute to our strategy, reviewing our real estate footprint, and restructuring some of our teams,\" Wilson told workers at the company. \"These decisions are expected to impact approximately six percent of our company's workforce.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-laying-off-6-of-its-workforce-as-part-of-restructuring",
+          "publishedOn": "2023-03-29T21:39:29.000Z",
+          "wordCount": 5183,
+          "title": "EA laying off 6% of its workforce as part of \"restructuring\"",
+          "imageUrl": "https://assets.reedpopcdn.com/ea-logo_tMgccMU.jpg/BROK/thumbnail/1200x630/ea-logo_tMgccMU.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/dungeons-dragons-dlc-heading-to-minecraft-with-10-hour-campaign",
+          "author": "Matt Wales",
+          "description": "Minecraft is setting forth for adventure in the Forgotten Realms, as developer Mojang teams up with Wizards of the Coast for an official Dungeons & Dragons DLC launching this \"spring\".\r\n\n\r\nThe newly announced DLC - created in collaboration with developer Everbloom Games - takes players across five familiar Forgotten Realms locations, including Candlekeep and Icewind Dale, all reimagined in chunky block-o-vision, just as you'd expect in a Minecraft crossover.\r\n\n\r\nThe DLC, however, goes the extra mile and then some by introducing a fully voiced 10-hour story campaign enabling adventurers and their friends - playing as either barbarians, paladins, wizards, or rogues, complete with associated abilities - to take on familiar D&D enemies including beholders, mimics, mindflayers, and, yes, dragons.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dungeons-dragons-dlc-heading-to-minecraft-with-10-hour-campaign",
+          "publishedOn": "2023-03-29T19:38:13.000Z",
+          "wordCount": 5373,
+          "title": "Dungeons & Dragons DLC heading to Minecraft with 10-hour campaign",
+          "imageUrl": "https://assets.reedpopcdn.com/dnd-minecraft-monster-beholder.png/BROK/thumbnail/1200x630/dnd-minecraft-monster-beholder.png"
+        },
         {
           "id": "https://www.eurogamer.net/caveblazers-studios-card-battling-roguelike-wildfrost-out-in-april",
           "author": "Matt Wales",
@@ -7726,56 +7846,6 @@
           "wordCount": 5111,
           "title": "Call Of Duty Modern Warfare 2 fans praise Hutch's seriously tight tights",
           "imageUrl": "https://assets.reedpopcdn.com/MWII-S02-BP-011.jpg/BROK/thumbnail/1200x630/MWII-S02-BP-011.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/resident-evil-5-steam-update-adds-local-split-screen-coop",
-          "author": "Victoria Kennedy",
-          "description": "Resident Evil 5 has received a new update on Steam. \r\n\n\r\nAlong with some smaller bug fixes, this update has also added local split-screen co-op. Yes, after nearly 14 years, it is here.\r\n\n\r\nThe split-screen co-op feature was native to all console versions, but has been notably absent from the PC version.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/resident-evil-5-steam-update-adds-local-split-screen-coop",
-          "publishedOn": "2023-02-28T12:03:17.000Z",
-          "wordCount": 5019,
-          "title": "Resident Evil 5 Steam update adds local split-screen coop",
-          "imageUrl": "https://assets.reedpopcdn.com/Resi-5.jpg/BROK/thumbnail/1200x630/Resi-5.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/miyamoto-discusses-how-nintendo-will-go-on-without-him",
-          "author": "Tom Phillips",
-          "description": "Nintendo's legendary Shigeru Miyamoto has been asked how he thinks the company will fare without him one day.\r\n\n\r\nMiyamoto, now 70, originally joined Nintendo in 1977, before going on to help create Donkey Kong, Mario and The Legend of Zelda. In the decades since, Miyamoto has become synonymous with Nintendo, and his projects have continually found huge success. \r\n\n\r\nIn an interview with NPR, Miyamoto was asked what Nintendo will look like without him. His response? That actually, it would be very similar. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/miyamoto-discusses-how-nintendo-will-go-on-without-him",
-          "publishedOn": "2023-02-28T11:54:28.000Z",
-          "wordCount": 5032,
-          "title": "Miyamoto discusses how Nintendo will eventually go on without him",
-          "imageUrl": "https://assets.reedpopcdn.com/miyamoto-pikmin_WgJYOUw.jpg/BROK/thumbnail/1200x630/miyamoto-pikmin_WgJYOUw.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/kerbal-space-program-2-rocky-launch-leaves-players-asking-for-refunds",
-          "author": "Victoria Kennedy",
-          "description": "Kerbal Space Program 2 released in early access last week, but has left players feeling like it needed longer on the launchpad.\r\n\n\r\nCurrent Steam reviews for the space-flight simulator are decidedly mixed, with many users lamenting the game's buggy state. \r\n\n\r\n\"Barely playable, feel like they should be paying me to play it at this point in development,\" wrote one user, with another adding the game is \"broken in almost every way possible\". Meanwhile, others have stated they have asked for refunds, and advise those interested in Kerbal Space Program to play the original instead.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/kerbal-space-program-2-rocky-launch-leaves-players-asking-for-refunds",
-          "publishedOn": "2023-02-28T11:13:07.000Z",
-          "wordCount": 5142,
-          "title": "Kerbal Space Program 2 rocky launch leaves players asking for refunds",
-          "imageUrl": "https://assets.reedpopcdn.com/ksp2.jpg/BROK/thumbnail/1200x630/ksp2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/forspoken-developer-luminous-productions-folded-into-square-enix",
-          "author": "Tom Phillips",
-          "description": "Forspoken developer Luminous Productions will be merged into Square Enix, ending its status as a separate entity. \r\n\n\r\nThe news follows a middling reception to Forspoken by critics and consumers, and will formally begin on 1st May. \r\n\n\r\nIn a statement, Luminous Productions said it would remain \"entirely focused on Forspoken\" until that date, and continue working on the game's previously-announced patch to address performance issues plus upcoming DLC \"In Tanta We Trust\" which is scheduled to launch this summer. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/forspoken-developer-luminous-productions-folded-into-square-enix",
-          "publishedOn": "2023-02-28T11:05:47.000Z",
-          "wordCount": 5013,
-          "title": "Forspoken developer Luminous Productions folded into Square Enix",
-          "imageUrl": "https://assets.reedpopcdn.com/GameplayShowcase_Screen008.png/BROK/thumbnail/1200x630/GameplayShowcase_Screen008.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/elden-ring-expansion-confirmed-by-fromsoftware",
-          "author": "Ed Nightingale",
-          "description": "FromSoftware has confirmed that an Elden Ring expansion is indeed on the way.\r\n\n\r\nCalled Shadow of the Erdtree, it's currently \"in development\" so the release date is unknown.\r\n\n\r\nThe developer shared the news on Twitter. \"Rise, Tarnished, and let us walk a new path together,\" it said. \"An upcoming expansion for Elden Ring Shadow of the Erdtree, is currently in development. We hope you look forward to new adventures in the Lands Between.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/elden-ring-expansion-confirmed-by-fromsoftware",
-          "publishedOn": "2023-02-28T09:16:27.000Z",
-          "wordCount": 5012,
-          "title": "Elden Ring expansion confirmed by FromSoftware",
-          "imageUrl": "https://assets.reedpopcdn.com/Elden-Ring-Shadow-of-the-Erdtree-Artwork.jpg/BROK/thumbnail/1200x630/Elden-Ring-Shadow-of-the-Erdtree-Artwork.jpg"
         }
       ]
     },

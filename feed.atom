@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T18:27:31.276Z</updated>
+    <updated>2023-03-30T00:31:11.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes Validating Admission Policies: A Practical Example]]></title>
+        <id>https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/</id>
+        <link href="https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/"/>
+        <updated>2023-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Craig Box (ARMO), Ben Hirschberg (ARMO)
+Admission control is an important part of the Kubernetes control plane, with several internal
+features depending on the ability to approve or change an API object as it is submitted to the
+server. It is also useful for an administrator to be able to define business logic, or policies,
+regarding what objects can be admitted into a cluster. To better support that use case, Kubernetes
+introduced external admission control in
+v1.7.
+In addition to countless custom, internal implementations, many open source projects and commercial
+solutions implement admission controllers with user-specified policy, including
+Kyverno and Open Policy Agent’s
+Gatekeeper.
+While admission controllers for policy have seen adoption, there are blockers for their widespr…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buttons are back at Porsche as we see the 2024 Cayenne interior]]></title>
+        <id>https://arstechnica.com/?p=1927378</id>
+        <link href="https://arstechnica.com/?p=1927378"/>
+        <updated>2023-03-29T22:00:56.000Z</updated>
+        <summary type="html"><![CDATA[After the all-touchscreen Taycan, it's a welcome change.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA delays flight of Boeing’s Starliner again, this time for parachutes]]></title>
+        <id>https://arstechnica.com/?p=1927687</id>
+        <link href="https://arstechnica.com/?p=1927687"/>
+        <updated>2023-03-29T21:39:46.000Z</updated>
+        <summary type="html"><![CDATA["It's just a matter of going through all that data."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA laying off 6% of its workforce as part of "restructuring"]]></title>
+        <id>https://www.eurogamer.net/ea-laying-off-6-of-its-workforce-as-part-of-restructuring</id>
+        <link href="https://www.eurogamer.net/ea-laying-off-6-of-its-workforce-as-part-of-restructuring"/>
+        <updated>2023-03-29T21:39:29.000Z</updated>
+        <summary type="html"><![CDATA[EA has announced a round of "restructuring" it says will likely impact around six percent of its workforce, potentially amounting to over 750 job losses based its latest employment figures.
+
+
+In a letter to staff, later shared publicly on EA's website, CEO Andrew Wilson announced the job cuts while simultaneously insisting the company was "operating from a position of strength". 
+
+
+"As we drive greater focus across our portfolio, we are moving away from projects that do not contribute to our strategy, reviewing our real estate footprint, and restructuring some of our teams," Wilson told workers at the company. "These decisions are expected to impact approximately six percent of our company's workforce."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo gives up on its dream of Android gaming phones]]></title>
+        <id>https://arstechnica.com/?p=1927757</id>
+        <link href="https://arstechnica.com/?p=1927757"/>
+        <updated>2023-03-29T21:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Phones brought special gaming-centric Android hardware, but nobody made games for it.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After two years, Autodesk Maya and AutoCAD become Apple Silicon-native]]></title>
+        <id>https://arstechnica.com/?p=1927703</id>
+        <link href="https://arstechnica.com/?p=1927703"/>
+        <updated>2023-03-29T20:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Autodesk has never said why this took so long compared to competitors.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fearing “loss of control,” AI critics call for 6-month pause in AI development]]></title>
+        <id>https://arstechnica.com/?p=1927560</id>
+        <link href="https://arstechnica.com/?p=1927560"/>
+        <updated>2023-03-29T20:05:01.000Z</updated>
+        <summary type="html"><![CDATA["This pause should be public and verifiable, and include all key actors."]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge finds Google destroyed evidence and repeatedly gave false info to court]]></title>
+        <id>https://arstechnica.com/?p=1927710</id>
+        <link href="https://arstechnica.com/?p=1927710"/>
+        <updated>2023-03-29T19:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Google in trouble for auto-deleting chats needed as evidence in Epic Games case.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeons & Dragons DLC heading to Minecraft with 10-hour campaign]]></title>
+        <id>https://www.eurogamer.net/dungeons-dragons-dlc-heading-to-minecraft-with-10-hour-campaign</id>
+        <link href="https://www.eurogamer.net/dungeons-dragons-dlc-heading-to-minecraft-with-10-hour-campaign"/>
+        <updated>2023-03-29T19:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Minecraft is setting forth for adventure in the Forgotten Realms, as developer Mojang teams up with Wizards of the Coast for an official Dungeons & Dragons DLC launching this "spring".
+
+
+The newly announced DLC - created in collaboration with developer Everbloom Games - takes players across five familiar Forgotten Realms locations, including Candlekeep and Icewind Dale, all reimagined in chunky block-o-vision, just as you'd expect in a Minecraft crossover.
+
+
+The DLC, however, goes the extra mile and then some by introducing a fully voiced 10-hour story campaign enabling adventurers and their friends - playing as either barbarians, paladins, wizards, or rogues, complete with associated abilities - to take on familiar D&D enemies including beholders, mimics, mindflayers, and, yes, dragons.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s WWDC 2023 keynote will take place on June 5]]></title>
+        <id>https://arstechnica.com/?p=1927666</id>
+        <link href="https://arstechnica.com/?p=1927666"/>
+        <updated>2023-03-29T18:46:37.000Z</updated>
+        <summary type="html"><![CDATA[In addition to iOS 17 and macOS 14, Apple could announce its XR platform.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit cracked down on revenge porn, creepshots with twofold spike in permabans]]></title>
+        <id>https://arstechnica.com/?p=1927657</id>
+        <link href="https://arstechnica.com/?p=1927657"/>
+        <updated>2023-03-29T18:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Reddit also launched a transparency center to help users assess platform safety.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google and ADT have a new security system with lots of subscription fees]]></title>
+        <id>https://arstechnica.com/?p=1927612</id>
+        <link href="https://arstechnica.com/?p=1927612"/>
+        <updated>2023-03-29T17:41:55.000Z</updated>
+        <summary type="html"><![CDATA[In 2020, Google bought 6% of ADT and promised this "next gen" security system.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Caveblazers studio's card-battling roguelike Wildfrost out in April]]></title>
         <id>https://www.eurogamer.net/caveblazers-studios-card-battling-roguelike-wildfrost-out-in-april</id>
@@ -278,6 +425,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[If you haven't patched your Aspera Faspex server, now would be an excellent time.]]></summary>
         <author>
             <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualifications]]></title>
+        <id>https://xkcd.com/2756/</id>
+        <link href="https://xkcd.com/2756/"/>
+        <updated>2023-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/qualifications.png" title="'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'" alt="'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10733,108 +10890,6 @@ This particular skin comes as part of the Red Fox Tracer pack.
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side-Channel Attack against CRYSTALS-Kyber]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html"/>
-        <updated>2023-02-28T12:19:15.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://pq-crystals.org/kyber/">CRYSTALS-Kyber</a> is one of the public-key algorithms currently <a href="https://csrc.nist.gov/News/2022/pqc-candidates-to-be-standardized-and-round-4">recommended</a> by NIST as part of its post-quantum cryptography <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">standardization process</a>.</p>
-<p>Researchers have <a href="https://eprint.iacr.org/2022/1713.pdf">just published</a> a side-channel attack&#8212;using power consumption&#8212;against an implementation of the algorithm that was supposed to be resistant against that sort of attack.</p>
-<p>The algorithm is not &#8220;broken&#8221; or &#8220;cracked&#8221;&#8212;despite <a href="https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ai-helps-crack-a-nist-recommended-post-quantum-encryption-algorithm/amp/">headlines</a> to the contrary&#8212;this is just a  side-channel attack. What makes this work really interesting is that the researchers used a machine-learning model to train the system to exploit the side channel...</p>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil 5 Steam update adds local split-screen coop]]></title>
-        <id>https://www.eurogamer.net/resident-evil-5-steam-update-adds-local-split-screen-coop</id>
-        <link href="https://www.eurogamer.net/resident-evil-5-steam-update-adds-local-split-screen-coop"/>
-        <updated>2023-02-28T12:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Resident Evil 5 has received a new update on Steam. 
-
-
-Along with some smaller bug fixes, this update has also added local split-screen co-op. Yes, after nearly 14 years, it is here.
-
-
-The split-screen co-op feature was native to all console versions, but has been notably absent from the PC version.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miyamoto discusses how Nintendo will eventually go on without him]]></title>
-        <id>https://www.eurogamer.net/miyamoto-discusses-how-nintendo-will-go-on-without-him</id>
-        <link href="https://www.eurogamer.net/miyamoto-discusses-how-nintendo-will-go-on-without-him"/>
-        <updated>2023-02-28T11:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo's legendary Shigeru Miyamoto has been asked how he thinks the company will fare without him one day.
-
-
-Miyamoto, now 70, originally joined Nintendo in 1977, before going on to help create Donkey Kong, Mario and The Legend of Zelda. In the decades since, Miyamoto has become synonymous with Nintendo, and his projects have continually found huge success. 
-
-
-In an interview with NPR, Miyamoto was asked what Nintendo will look like without him. His response? That actually, it would be very similar. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerbal Space Program 2 rocky launch leaves players asking for refunds]]></title>
-        <id>https://www.eurogamer.net/kerbal-space-program-2-rocky-launch-leaves-players-asking-for-refunds</id>
-        <link href="https://www.eurogamer.net/kerbal-space-program-2-rocky-launch-leaves-players-asking-for-refunds"/>
-        <updated>2023-02-28T11:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Kerbal Space Program 2 released in early access last week, but has left players feeling like it needed longer on the launchpad.
-
-
-Current Steam reviews for the space-flight simulator are decidedly mixed, with many users lamenting the game's buggy state. 
-
-
-"Barely playable, feel like they should be paying me to play it at this point in development," wrote one user, with another adding the game is "broken in almost every way possible". Meanwhile, others have stated they have asked for refunds, and advise those interested in Kerbal Space Program to play the original instead.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forspoken developer Luminous Productions folded into Square Enix]]></title>
-        <id>https://www.eurogamer.net/forspoken-developer-luminous-productions-folded-into-square-enix</id>
-        <link href="https://www.eurogamer.net/forspoken-developer-luminous-productions-folded-into-square-enix"/>
-        <updated>2023-02-28T11:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Forspoken developer Luminous Productions will be merged into Square Enix, ending its status as a separate entity. 
-
-
-The news follows a middling reception to Forspoken by critics and consumers, and will formally begin on 1st May. 
-
-
-In a statement, Luminous Productions said it would remain "entirely focused on Forspoken" until that date, and continue working on the game's previously-announced patch to address performance issues plus upcoming DLC "In Tanta We Trust" which is scheduled to launch this summer. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring expansion confirmed by FromSoftware]]></title>
-        <id>https://www.eurogamer.net/elden-ring-expansion-confirmed-by-fromsoftware</id>
-        <link href="https://www.eurogamer.net/elden-ring-expansion-confirmed-by-fromsoftware"/>
-        <updated>2023-02-28T09:16:27.000Z</updated>
-        <summary type="html"><![CDATA[FromSoftware has confirmed that an Elden Ring expansion is indeed on the way.
-
-
-Called Shadow of the Erdtree, it's currently "in development" so the release date is unknown.
-
-
-The developer shared the news on Twitter. "Rise, Tarnished, and let us walk a new path together," it said. "An upcoming expansion for Elden Ring Shadow of the Erdtree, is currently in development. We hope you look forward to new adventures in the Lands Between."
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
