@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2759/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/easily_confused_acronyms.png\" title=\"'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.\" alt=\"'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.\" />",
+          "link": "https://xkcd.com/2759/",
+          "publishedOn": "2023-04-05T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Easily Confused Acronyms",
+          "imageUrl": "https://imgs.xkcd.com/comics/easily_confused_acronyms_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2758/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/my_favorite_things.png\" title=\"When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / &quot;I got a bad deal / I'm maaaaad&quot;\" alt=\"When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / &quot;I got a bad deal / I'm maaaaad&quot;\" />",
@@ -4110,76 +4120,6 @@
           "wordCount": 2035,
           "title": "Hospital’s water purification system stripped out chlorine, killing 3 patients",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1238163265-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1922229",
-          "author": "Chuong Nguyen",
-          "description": "We've got smart cameras, locks, and doorbells to secure your home.",
-          "link": "https://arstechnica.com/?p=1922229",
-          "publishedOn": "2023-03-07T18:19:33.000Z",
-          "wordCount": 2196,
-          "title": "Dealmaster: Eufy’s smartest door lock is now on sale",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/eufy_doorbell-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1922261",
-          "author": "Jon Brodkin",
-          "description": "Twitter's paid-API project had \"only one site reliability engineer,\" report says.",
-          "link": "https://arstechnica.com/?p=1922261",
-          "publishedOn": "2023-03-07T18:03:19.000Z",
-          "wordCount": 1889,
-          "title": "After Musk’s mass layoffs, one engineer’s mistake “broke the Twitter API”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-twitter-broken-phone-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1922234",
-          "author": "Ron Amadeo",
-          "description": "Annoying banner ads that cover videos are getting the boot.",
-          "link": "https://arstechnica.com/?p=1922234",
-          "publishedOn": "2023-03-07T17:19:33.000Z",
-          "wordCount": 1440,
-          "title": "YouTube is killing the overlay ad format next month",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1921015",
-          "author": "Andrew Cunningham",
-          "description": "Mac Outlook is still a different app from the Windows version, but not forever.",
-          "link": "https://arstechnica.com/?p=1921015",
-          "publishedOn": "2023-03-07T16:34:30.000Z",
-          "wordCount": 1606,
-          "title": "Microsoft makes Outlook for Mac free, no Office or Microsoft 365 required",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/outlook-for-mac-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1922217",
-          "author": "WIRED",
-          "description": "A surprising number of industries, from embroidery to aviation, still use floppies.",
-          "link": "https://arstechnica.com/?p=1922217",
-          "publishedOn": "2023-03-07T14:49:17.000Z",
-          "wordCount": 1854,
-          "title": "Why the floppy disk just won’t die",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/floppies-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1922201",
-          "author": "Eric Berger",
-          "description": "Japan's science minister said the failure was \"extremely regrettable.\"",
-          "link": "https://arstechnica.com/?p=1922201",
-          "publishedOn": "2023-03-07T14:30:18.000Z",
-          "wordCount": 1644,
-          "title": "After nearly a decade in development, Japan’s new rocket fails in debut",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/tanega-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1922055",
-          "author": "Samuel Axon",
-          "description": "Plus: Sonos' Trueplay (sort of) comes to Android.",
-          "link": "https://arstechnica.com/?p=1922055",
-          "publishedOn": "2023-03-07T14:00:53.000Z",
-          "wordCount": 2140,
-          "title": "Sonos replaces the Sonos One with new Era 300 and 100 speakers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/Sonos-Era-Family-Black-760x380.jpg"
         }
       ]
     },
@@ -4205,6 +4145,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions/",
+          "author": null,
+          "description": "Author: Jordan Liggitt (Google)\nThe problem\nSince v1.19 (released in 2020), the Kubernetes project provides 12-14 months of patch releases for each minor version.\nThis enables users to qualify and adopt Kubernetes versions in an annual upgrade cycle and receive security fixes for a year.\nThe Go project releases new minor versions twice a year,\nand provides security fixes for the last two minor versions, resulting in about a year of support for each Go version.\nEven though each new Kubernetes minor version is built with a supported Go version when it is first released,\nthat Go version falls out of support before the Kubernetes minor version does,\nand the lengthened Kubernetes patch support since v1.19 only widened that gap.\nAt the time this was written, just over half of all Go patch releas…",
+          "link": "https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions/",
+          "publishedOn": "2023-04-06T00:00:00.000Z",
+          "wordCount": 4074,
+          "title": "Blog: Keeping Kubernetes Secure with Updated Go Versions",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/",
           "author": null,
@@ -7715,96 +7665,6 @@
           "wordCount": 5032,
           "title": "Pokémon Go dev's Tamagotchi-like Peridot launches this May",
           "imageUrl": "https://assets.reedpopcdn.com/peridotbanner.jpg/BROK/thumbnail/1200x630/peridotbanner.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playdate-launches-curated-on-device-store-announces-20-price-increase",
-          "author": "Matt Wales",
-          "description": "Playdate - the dinky yellow gaming handheld with a crank and some nifty games - is getting an on-device store known as Catalog and an imminent $20 USD price increase.\r\n\n\r\nCatalog, which Playdate creator Panic describes as a \"boutique digital on-device and web based storefront\", arrives today and marks something of a departure for the company, which has so far only distributed Playdate games through a seasonal release model.\r\n\n\r\nWith the arrival of Catalog, however, players can purchase individual titles on-demand either directly from their Playdate or via the Catalog website. 16 games and apps will be available at launch - 11 of which are brand-new - and Panic says it'll be expanding the curated selection over time. It also assures owners it'll remain possible to sideload and purchase Playdate games and apps from other storefronts such as Itch.io and Gumroad.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playdate-launches-curated-on-device-store-announces-20-price-increase",
-          "publishedOn": "2023-03-07T17:14:00.000Z",
-          "wordCount": 5081,
-          "title": "Playdate launches curated on-device store, announces $20 price increase",
-          "imageUrl": "https://assets.reedpopcdn.com/playdate-catalog-cropped.jpg/BROK/thumbnail/1200x630/playdate-catalog-cropped.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/twitch-addresses-livestreaming-of-explicit-deepfake-content",
-          "author": "Ed Nightingale",
-          "description": "Twitch has addressed the livestreaming of explicit deepfake content on its platform in a new safety blog post.\r\n\r\n\n\r\nIt follows an incident in January in which explicit fake content of female streamers was live streamed on Twitch. \r\n\n\r\n\"This moment caused immense distress to those whose images were used without their consent, and set off a wave of conversations about the dangers that AI-generated explicit imagery can pose,\" reads the blog post from Twitch.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/twitch-addresses-livestreaming-of-explicit-deepfake-content",
-          "publishedOn": "2023-03-07T16:52:12.000Z",
-          "wordCount": 5095,
-          "title": "Twitch addresses livestreaming of explicit deepfake content",
-          "imageUrl": "https://assets.reedpopcdn.com/twitch-logo-1024x577.webp/BROK/thumbnail/1200x630/twitch-logo-1024x577.webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/fortnite-chapter-4-season-2-release-date-confirmed-first-look-at-upcoming-battle-pass-skin",
-          "author": "Victoria Kennedy",
-          "description": "After rumour upon rumour upon leak, Fortnite has finally confirmed Chapter 4 Season 2 will kick off this Friday, 10th March. \r\n\n\r\nIn a brief tweet, the team shared this new season will be dubbed \"MEGA\", and teased it has all been \"made with precision\".\r\n\n\r\nAs well as these little titbits, there was also accompanying media of a Battle Pass character, that fans have stated is likely named Thunder. \n Read more",
-          "link": "https://www.eurogamer.net/fortnite-chapter-4-season-2-release-date-confirmed-first-look-at-upcoming-battle-pass-skin",
-          "publishedOn": "2023-03-07T16:00:27.000Z",
-          "wordCount": null,
-          "title": "Fortnite Chapter 4 Season 2 release date confirmed, first look at upcoming battle pass skin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.eurogamer.net/average-selling-price-of-games-in-uk-rose-67-in-2022",
-          "author": "Ed Nightingale",
-          "description": "The average amount of money spent on a single video game last year in the UK rose by 6.7 percent to £36.47.\r\n\n\r\nThat's based on physical retail sales, per data from GfK courtesy of the Entertainment Retailer's Association Yearbook (thanks GamesIndustry.biz). For digital downloads, the average selling price was £15.19, a rise of 7.3 percent over last year (from data firm Omdia).\r\n\r\n\n\r\nSince 2017, the average selling price of games has risen by 12 percent.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/average-selling-price-of-games-in-uk-rose-67-in-2022",
-          "publishedOn": "2023-03-07T15:41:19.000Z",
-          "wordCount": 4931,
-          "title": "Average selling price of games in UK rose 6.7% in 2022",
-          "imageUrl": "https://assets.reedpopcdn.com/fifa-23_wYbWHJV.jpg/BROK/thumbnail/1200x630/fifa-23_wYbWHJV.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/escape-from-tarkov-names-and-shames-cheaters-in-public-spreadsheet",
-          "author": "Victoria Kennedy",
-          "description": "I don't like cheaters, and I am sure you don't like them either. I am always happy to see video game developers doing what is necessary to get cheaters out of our games. It just makes the whole experience that bit better.\r\n\n\r\nHowever, not content with just booting the offending parties out of their games, the Escape from Tarkov team has taken things one step further and compiled a spreadsheet of all the cheaters it has booted out. It has then shared this document with the public (if you want to scroll through it for yourself, here it is).\r\n\n\r\nAs reported by TechCrunch (via PC Gamer), Battlestate Games said it recently banned 6700 cheaters and added all of their nicknames to this document.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/escape-from-tarkov-names-and-shames-cheaters-in-public-spreadsheet",
-          "publishedOn": "2023-03-07T15:29:29.000Z",
-          "wordCount": 5135,
-          "title": "Escape from Tarkov names and shames cheaters in public spreadsheet",
-          "imageUrl": "https://assets.reedpopcdn.com/escape-from-tarkov_Y19ZtjX.jpg/BROK/thumbnail/1200x630/escape-from-tarkov_Y19ZtjX.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-promises-consistency-with-halo-infinite-seasonal-updates",
-          "author": "Ed Nightingale",
-          "description": "Microsoft has promised more \"consistency\" with Halo Infinite seasonal updates, as its third season launches today.\r\n\n\r\nAs shared on Xbox Wire, 343 Industries' head of live performance Sean Baron discussed the future of seasonal updates.\r\n\r\n\n\r\n\"In our preview of Season 3, I said that this is the beginning of what seasonality is for Halo Infinite. But 'seasonality' is restrictive. To me, seasonality is really about consistency - we need to be consistent in everything. I feel very confident with where we've gone with Season 3, and I have very strong confidence that we're going to be able to keep improving that consistency, and avoid, completely, the long seasons of the past,\" he said.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-promises-consistency-with-halo-infinite-seasonal-updates",
-          "publishedOn": "2023-03-07T14:52:41.000Z",
-          "wordCount": 5331,
-          "title": "Microsoft promises \"consistency\" with Halo Infinite seasonal updates",
-          "imageUrl": "https://assets.reedpopcdn.com/Halo-Infinite-Oasis.png/BROK/thumbnail/1200x630/Halo-Infinite-Oasis.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/resident-evil-4-baby-eagle-is-missing-arg-website-appears-online",
-          "author": "Victoria Kennedy",
-          "description": "The Resident Evil 4 remake is set to release in just a few short weeks (24th March, to be precise). Ahead of this launch, a mysterious new ARG website has appeared online. \r\n\n\r\nAn ARG is an augmented reality game, and this one in particular covers the events just before Resident Evil 4 begins. It serves as a little bite size prequel, if you will. \r\n\n\r\nKnown as \"Baby Eagle Is Missing\", this ARG tasks players with solving a handful of puzzles that will help locate the US President's daughter, Ashley Graham (who is codenamed \"Baby Eagle\").\r\n \nRead more",
-          "link": "https://www.eurogamer.net/resident-evil-4-baby-eagle-is-missing-arg-website-appears-online",
-          "publishedOn": "2023-03-07T14:44:43.000Z",
-          "wordCount": 5248,
-          "title": "Resident Evil 4 \"Baby Eagle Is Missing\" ARG website appears online",
-          "imageUrl": "https://assets.reedpopcdn.com/baby-eagle-resi-4.jpg/BROK/thumbnail/1200x630/baby-eagle-resi-4.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-game-pass-games-for-march-revealed",
-          "author": "Ed Nightingale",
-          "description": "The next wave of games coming to Xbox Game Pass in March has now been announced.\r\n\n\r\nSid Meier's Civilization 6 is a big new addition, with the strategy game arriving on 16th March for Cloud, console and PC.\r\n\n\r\nValheim is another major addition, arriving as a game preview on 14th March for consoles only - it's still in Early Access on PC.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xbox-game-pass-games-for-march-revealed",
-          "publishedOn": "2023-03-07T14:29:01.000Z",
-          "wordCount": 5105,
-          "title": "Xbox Game Pass games for March revealed",
-          "imageUrl": "https://assets.reedpopcdn.com/TW_ComingSoon_3.7.2023-53e74d21add6a3085c72.png/BROK/thumbnail/1200x630/TW_ComingSoon_3.7.2023-53e74d21add6a3085c72.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/rovio-may-reverse-its-decision-to-remove-angry-birds-from-google-play-store",
-          "author": "Ed Nightingale",
-          "description": "Rovio could reverse its decision to de-list Angry Birds from the Google Play store.\r\n\n\r\nAt the end of February, the mobile publisher removed the original Angry Birds game from the store due to its business \"impact\" on the publisher's other games. On iOS, the game was renamed to Red's First Flight.\r\n\n\r\nNow, in a statement to Axios from a senior executive at the publisher, Rovio could reverse its decision to remove the game - or if the change is successful it could remove it from iOS too.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/rovio-may-reverse-its-decision-to-remove-angry-birds-from-google-play-store",
-          "publishedOn": "2023-03-07T12:52:58.000Z",
-          "wordCount": 5218,
-          "title": "Rovio may reverse its decision to remove Angry Birds from Google Play store",
-          "imageUrl": "https://assets.reedpopcdn.com/angry-birds_AqkEhcs.jpg/BROK/thumbnail/1200x630/angry-birds_AqkEhcs.jpg"
         }
       ]
     },
@@ -8112,16 +7972,6 @@
           "wordCount": 1815,
           "title": "GitHub Enterprise Server 3.8 is now generally available",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/03/1200x630-GHES-3.8-ga.png"
-        },
-        {
-          "id": "https://github.blog/?p=70552",
-          "author": "Alfredo Cerezo Luna",
-          "description": "Commit an update to a pull request, or start a new branch to squash a bug at any time, wherever you are using the GitHub Mobile apps.",
-          "link": "https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/",
-          "publishedOn": "2023-03-07T16:00:38.000Z",
-          "wordCount": 1345,
-          "title": "File editing on GitHub Mobile keeps leveling up",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/03/222069700-5082b63f-7b4d-45ce-a2a9-091b3b559ef6.png?fit=2400%2C1260"
         }
       ]
     },

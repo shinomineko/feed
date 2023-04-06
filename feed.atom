@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T00:31:00.225Z</updated>
+    <updated>2023-04-06T06:25:06.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Keeping Kubernetes Secure with Updated Go Versions]]></title>
+        <id>https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions/</id>
+        <link href="https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions/"/>
+        <updated>2023-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Jordan Liggitt (Google)
+The problem
+Since v1.19 (released in 2020), the Kubernetes project provides 12-14 months of patch releases for each minor version.
+This enables users to qualify and adopt Kubernetes versions in an annual upgrade cycle and receive security fixes for a year.
+The Go project releases new minor versions twice a year,
+and provides security fixes for the last two minor versions, resulting in about a year of support for each Go version.
+Even though each new Kubernetes minor version is built with a supported Go version when it is first released,
+that Go version falls out of support before the Kubernetes minor version does,
+and the lengthened Kubernetes patch support since v1.19 only widened that gap.
+At the time this was written, just over half of all Go patch releas…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Review: The Super Mario Bros. Movie is a madcap love letter to fans]]></title>
         <id>https://arstechnica.com/?p=1929552</id>
@@ -418,6 +437,16 @@ Nintendo has since moved away from Mario on mobile, after it shut down Dr. Mario
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easily Confused Acronyms]]></title>
+        <id>https://xkcd.com/2759/</id>
+        <link href="https://xkcd.com/2759/"/>
+        <updated>2023-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/easily_confused_acronyms.png" title="'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation." alt="'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10493,250 +10522,6 @@ Peridot, which was announced last April, is Niantic's spin on Tamagotchi-like vi
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dealmaster: Eufy’s smartest door lock is now on sale]]></title>
-        <id>https://arstechnica.com/?p=1922229</id>
-        <link href="https://arstechnica.com/?p=1922229"/>
-        <updated>2023-03-07T18:19:33.000Z</updated>
-        <summary type="html"><![CDATA[We've got smart cameras, locks, and doorbells to secure your home.]]></summary>
-        <author>
-            <name>Chuong Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Musk’s mass layoffs, one engineer’s mistake “broke the Twitter API”]]></title>
-        <id>https://arstechnica.com/?p=1922261</id>
-        <link href="https://arstechnica.com/?p=1922261"/>
-        <updated>2023-03-07T18:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Twitter's paid-API project had "only one site reliability engineer," report says.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube is killing the overlay ad format next month]]></title>
-        <id>https://arstechnica.com/?p=1922234</id>
-        <link href="https://arstechnica.com/?p=1922234"/>
-        <updated>2023-03-07T17:19:33.000Z</updated>
-        <summary type="html"><![CDATA[Annoying banner ads that cover videos are getting the boot.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playdate launches curated on-device store, announces $20 price increase]]></title>
-        <id>https://www.eurogamer.net/playdate-launches-curated-on-device-store-announces-20-price-increase</id>
-        <link href="https://www.eurogamer.net/playdate-launches-curated-on-device-store-announces-20-price-increase"/>
-        <updated>2023-03-07T17:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Playdate - the dinky yellow gaming handheld with a crank and some nifty games - is getting an on-device store known as Catalog and an imminent $20 USD price increase.
-
-
-Catalog, which Playdate creator Panic describes as a "boutique digital on-device and web based storefront", arrives today and marks something of a departure for the company, which has so far only distributed Playdate games through a seasonal release model.
-
-
-With the arrival of Catalog, however, players can purchase individual titles on-demand either directly from their Playdate or via the Catalog website. 16 games and apps will be available at launch - 11 of which are brand-new - and Panic says it'll be expanding the curated selection over time. It also assures owners it'll remain possible to sideload and purchase Playdate games and apps from other storefronts such as Itch.io and Gumroad.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitch addresses livestreaming of explicit deepfake content]]></title>
-        <id>https://www.eurogamer.net/twitch-addresses-livestreaming-of-explicit-deepfake-content</id>
-        <link href="https://www.eurogamer.net/twitch-addresses-livestreaming-of-explicit-deepfake-content"/>
-        <updated>2023-03-07T16:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Twitch has addressed the livestreaming of explicit deepfake content on its platform in a new safety blog post.
-
-
-
-It follows an incident in January in which explicit fake content of female streamers was live streamed on Twitch. 
-
-
-"This moment caused immense distress to those whose images were used without their consent, and set off a wave of conversations about the dangers that AI-generated explicit imagery can pose," reads the blog post from Twitch.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft makes Outlook for Mac free, no Office or Microsoft 365 required]]></title>
-        <id>https://arstechnica.com/?p=1921015</id>
-        <link href="https://arstechnica.com/?p=1921015"/>
-        <updated>2023-03-07T16:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Mac Outlook is still a different app from the Windows version, but not forever.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[File editing on GitHub Mobile keeps leveling up]]></title>
-        <id>https://github.blog/?p=70552</id>
-        <link href="https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/"/>
-        <updated>2023-03-07T16:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Commit an update to a pull request, or start a new branch to squash a bug at any time, wherever you are using the GitHub Mobile apps.]]></summary>
-        <author>
-            <name>Alfredo Cerezo Luna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortnite Chapter 4 Season 2 release date confirmed, first look at upcoming battle pass skin]]></title>
-        <id>https://www.eurogamer.net/fortnite-chapter-4-season-2-release-date-confirmed-first-look-at-upcoming-battle-pass-skin</id>
-        <link href="https://www.eurogamer.net/fortnite-chapter-4-season-2-release-date-confirmed-first-look-at-upcoming-battle-pass-skin"/>
-        <updated>2023-03-07T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[After rumour upon rumour upon leak, Fortnite has finally confirmed Chapter 4 Season 2 will kick off this Friday, 10th March. 
-
-
-In a brief tweet, the team shared this new season will be dubbed "MEGA", and teased it has all been "made with precision".
-
-
-As well as these little titbits, there was also accompanying media of a Battle Pass character, that fans have stated is likely named Thunder. 
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Average selling price of games in UK rose 6.7% in 2022]]></title>
-        <id>https://www.eurogamer.net/average-selling-price-of-games-in-uk-rose-67-in-2022</id>
-        <link href="https://www.eurogamer.net/average-selling-price-of-games-in-uk-rose-67-in-2022"/>
-        <updated>2023-03-07T15:41:19.000Z</updated>
-        <summary type="html"><![CDATA[The average amount of money spent on a single video game last year in the UK rose by 6.7 percent to £36.47.
-
-
-That's based on physical retail sales, per data from GfK courtesy of the Entertainment Retailer's Association Yearbook (thanks GamesIndustry.biz). For digital downloads, the average selling price was £15.19, a rise of 7.3 percent over last year (from data firm Omdia).
-
-
-
-Since 2017, the average selling price of games has risen by 12 percent.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape from Tarkov names and shames cheaters in public spreadsheet]]></title>
-        <id>https://www.eurogamer.net/escape-from-tarkov-names-and-shames-cheaters-in-public-spreadsheet</id>
-        <link href="https://www.eurogamer.net/escape-from-tarkov-names-and-shames-cheaters-in-public-spreadsheet"/>
-        <updated>2023-03-07T15:29:29.000Z</updated>
-        <summary type="html"><![CDATA[I don't like cheaters, and I am sure you don't like them either. I am always happy to see video game developers doing what is necessary to get cheaters out of our games. It just makes the whole experience that bit better.
-
-
-However, not content with just booting the offending parties out of their games, the Escape from Tarkov team has taken things one step further and compiled a spreadsheet of all the cheaters it has booted out. It has then shared this document with the public (if you want to scroll through it for yourself, here it is).
-
-
-As reported by TechCrunch (via PC Gamer), Battlestate Games said it recently banned 6700 cheaters and added all of their nicknames to this document.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft promises "consistency" with Halo Infinite seasonal updates]]></title>
-        <id>https://www.eurogamer.net/microsoft-promises-consistency-with-halo-infinite-seasonal-updates</id>
-        <link href="https://www.eurogamer.net/microsoft-promises-consistency-with-halo-infinite-seasonal-updates"/>
-        <updated>2023-03-07T14:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has promised more "consistency" with Halo Infinite seasonal updates, as its third season launches today.
-
-
-As shared on Xbox Wire, 343 Industries' head of live performance Sean Baron discussed the future of seasonal updates.
-
-
-
-"In our preview of Season 3, I said that this is the beginning of what seasonality is for Halo Infinite. But 'seasonality' is restrictive. To me, seasonality is really about consistency - we need to be consistent in everything. I feel very confident with where we've gone with Season 3, and I have very strong confidence that we're going to be able to keep improving that consistency, and avoid, completely, the long seasons of the past," he said.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the floppy disk just won’t die]]></title>
-        <id>https://arstechnica.com/?p=1922217</id>
-        <link href="https://arstechnica.com/?p=1922217"/>
-        <updated>2023-03-07T14:49:17.000Z</updated>
-        <summary type="html"><![CDATA[A surprising number of industries, from embroidery to aviation, still use floppies.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil 4 "Baby Eagle Is Missing" ARG website appears online]]></title>
-        <id>https://www.eurogamer.net/resident-evil-4-baby-eagle-is-missing-arg-website-appears-online</id>
-        <link href="https://www.eurogamer.net/resident-evil-4-baby-eagle-is-missing-arg-website-appears-online"/>
-        <updated>2023-03-07T14:44:43.000Z</updated>
-        <summary type="html"><![CDATA[The Resident Evil 4 remake is set to release in just a few short weeks (24th March, to be precise). Ahead of this launch, a mysterious new ARG website has appeared online. 
-
-
-An ARG is an augmented reality game, and this one in particular covers the events just before Resident Evil 4 begins. It serves as a little bite size prequel, if you will. 
-
-
-Known as "Baby Eagle Is Missing", this ARG tasks players with solving a handful of puzzles that will help locate the US President's daughter, Ashley Graham (who is codenamed "Baby Eagle").
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After nearly a decade in development, Japan’s new rocket fails in debut]]></title>
-        <id>https://arstechnica.com/?p=1922201</id>
-        <link href="https://arstechnica.com/?p=1922201"/>
-        <updated>2023-03-07T14:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Japan's science minister said the failure was "extremely regrettable."]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Game Pass games for March revealed]]></title>
-        <id>https://www.eurogamer.net/xbox-game-pass-games-for-march-revealed</id>
-        <link href="https://www.eurogamer.net/xbox-game-pass-games-for-march-revealed"/>
-        <updated>2023-03-07T14:29:01.000Z</updated>
-        <summary type="html"><![CDATA[The next wave of games coming to Xbox Game Pass in March has now been announced.
-
-
-Sid Meier's Civilization 6 is a big new addition, with the strategy game arriving on 16th March for Cloud, console and PC.
-
-
-Valheim is another major addition, arriving as a game preview on 14th March for consoles only - it's still in Early Access on PC.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonos replaces the Sonos One with new Era 300 and 100 speakers]]></title>
-        <id>https://arstechnica.com/?p=1922055</id>
-        <link href="https://arstechnica.com/?p=1922055"/>
-        <updated>2023-03-07T14:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Sonos' Trueplay (sort of) comes to Android.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rovio may reverse its decision to remove Angry Birds from Google Play store]]></title>
-        <id>https://www.eurogamer.net/rovio-may-reverse-its-decision-to-remove-angry-birds-from-google-play-store</id>
-        <link href="https://www.eurogamer.net/rovio-may-reverse-its-decision-to-remove-angry-birds-from-google-play-store"/>
-        <updated>2023-03-07T12:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Rovio could reverse its decision to de-list Angry Birds from the Google Play store.
-
-
-At the end of February, the mobile publisher removed the original Angry Birds game from the store due to its business "impact" on the publisher's other games. On iOS, the game was renamed to Red's First Flight.
-
-
-Now, in a statement to Axios from a senior executive at the publisher, Rovio could reverse its decision to remove the game - or if the change is successful it could remove it from iOS too.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
