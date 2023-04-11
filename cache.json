@@ -124,16 +124,6 @@
           "wordCount": 182,
           "title": "Flatten the Planets",
           "imageUrl": "https://imgs.xkcd.com/comics/flatten_the_planets_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2749/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/lymphocytes.png\" title=\"It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'\" alt=\"It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'\" />",
-          "link": "https://xkcd.com/2749/",
-          "publishedOn": "2023-03-13T00:00:00.000Z",
-          "wordCount": 178,
-          "title": "Lymphocytes",
-          "imageUrl": "https://imgs.xkcd.com/comics/lymphocytes_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/04/car-thieves-hacking-the-can-bus.html",
+          "author": null,
+          "description": "<p>Car thieves are <a href=\"https://kentindell.github.io/2023/04/03/can-injection/\">injecting malicious software</a> into a car&#8217;s network through wires in the headlights (or taillights) that fool the car into believing that the electronic key is nearby.</p>\n<p><a href=\"https://www.theregister.com/2023/04/06/can_injection_attack_car_theft\">News</a> <a href=\"https://jalopnik.com/car-thieves-hack-can-bus-headlight-wire-bluetooth-1850307214\">articles</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/04/car-thieves-hacking-the-can-bus.html",
+          "publishedOn": "2023-04-11T11:22:09.000Z",
+          "wordCount": 724,
+          "title": "Car Thieves Hacking the CAN Bus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/04/llms-and-phishing.html",
           "author": null,
@@ -4116,6 +4116,106 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/nintendo-lawyers-want-discord-to-divulge-details-of-zelda-art-book-leaker",
+          "author": "Tom Phillips",
+          "description": "Nintendo is seeking to subpoena Discord to obtain details of the individual who leaked 200 pages of details regarding the upcoming Legends of Zelda: Tears of the Kingdom via an unpublished art book. \r\n\n\r\nLawyers for Nintendo of America filed the subpoena on 4th April, Torrentfreak reported. In it, Nintendo seeks to order Discord to disclose the \"identity, including the name(s), address(es), telephone number(s) and email address(es) of the user\" in question. \r\n\n\r\nNintendo already knows their Discord alias. Now it wants to know who they really are. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-lawyers-want-discord-to-divulge-details-of-zelda-art-book-leaker",
+          "publishedOn": "2023-04-11T11:57:47.000Z",
+          "wordCount": 5623,
+          "title": "Nintendo lawyers want Discord to divulge details of Zelda art book leaker",
+          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-tears-of-the-kingdom-construct-battle-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-announces-another-10-year-partnership-this-time-with-ee",
+          "author": "Victoria Kennedy",
+          "description": "In its ongoing bid to acquire Activision Blizzard, Microsoft has announced another 10-year commitment. This time it's with mobile and internet service provider EE.\r\n\n\r\nSharing the news on Twitter, Xbox head Phil Spencer said Microsoft and EE were \"expanding [their] partnership\" with this 10-year agreement to bring Xbox and Activision Blizzard PC games to EE customers should the buyout go through. \r\n\n\r\n\"We are committed to bring more games to more people, however they choose to play,\" Spencer wrote, although he stopped short of sharing any details on how this partnership would be presented to customers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-announces-another-10-year-partnership-this-time-with-ee",
+          "publishedOn": "2023-04-11T11:55:10.000Z",
+          "wordCount": 5421,
+          "title": "Microsoft announces another 10-year partnership, this time with EE",
+          "imageUrl": "https://assetsio.reedpopcdn.com/EE_QdEkfPS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sensitive-us-military-documents-on-ukraine-war-leaked-via-minecraft-discord",
+          "author": "Ed Nightingale",
+          "description": "Sensitive US military documents pertaining to the war in Ukraine were leaked in a Minecraft Discord server.\r\n\n\r\nThe leak contained information about the types of weapons used by Ukrainian and US forces, details on Ukraine's air defence systems and offensive capabilities, battlefield fatality statistics, and communication about US military allies.\r\n\n\r\nAs The Wall Street Journal reports (via Kotaku), the documents were uploaded to a small Discord server of American users, but later spread to a Minecraft Discord server in March before appearing on 4chan, Twitter, and Telegram.\r\n\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sensitive-us-military-documents-on-ukraine-war-leaked-via-minecraft-discord",
+          "publishedOn": "2023-04-11T11:36:48.000Z",
+          "wordCount": 5568,
+          "title": "Sensitive US military documents on Ukraine war leaked via Minecraft Discord",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Minecraft-bans.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/tekken-8-crossplay-and-rollback-confirmed-beta-seemingly-in-the-pipeline",
+          "author": "Victoria Kennedy",
+          "description": "Tekken 8 director Katsuhiro Harada has confirmed in an oh-so-casual way on Twitter that the upcoming fighter will feature crossplay and rollback.\r\n\n\r\nIn addition to this, Harada has also seemingly confirmed there will be a beta for the game. \r\n\n\r\nHarada seemed to be having a rather nice time replying to fans on the social media platform over the weekend, confirming that \"of course\" crossplay would be included on Tekken 8's release (which is slated to be some time next year, although a firm date is yet to be announced). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/tekken-8-crossplay-and-rollback-confirmed-beta-seemingly-in-the-pipeline",
+          "publishedOn": "2023-04-11T11:18:03.000Z",
+          "wordCount": 5632,
+          "title": "Tekken 8 crossplay and rollback confirmed, beta seemingly in the pipeline",
+          "imageUrl": "https://assetsio.reedpopcdn.com/tekken-8-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/media-molecule-to-discontinue-dreams-live-support-in-september",
+          "author": "Ed Nightingale",
+          "description": "Media Molecule is set to discontinue live support for its game-making Dreams after 1st September 2023.\r\n\n\r\nThe \"difficult decision\" has been made as it shifts focus to \"an exciting new project\", according to a new blog post.\r\n\n\r\nPlayers will still be able to play, create and share Dreams with others, but no new updates will be released, or game events like DreamsCom, All Hallows' Dreams or the Impy awards. The game will remain available for purchase after 1st September.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/media-molecule-to-discontinue-dreams-live-support-in-september",
+          "publishedOn": "2023-04-11T11:09:04.000Z",
+          "wordCount": 5750,
+          "title": "Media Molecule to discontinue Dreams live support in September",
+          "imageUrl": "https://assetsio.reedpopcdn.com/dreams-logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/arcane-season-2-coming-2024-at-the-earliest",
+          "author": "Tom Phillips",
+          "description": "The brilliant animated series Arcane will not return to our screens this year. \r\n\n\r\nSeason 2 of Arcane is just \"not ready yet\", Riot Games boss Nicolo Laurent has said, when asked when the League of Legends spin-off show would be back.\r\n\n\r\nThe first season of Arcane debuted back in November 2021 to critical acclaim and an Emmy for Outstanding Animated Program. A second season was quickly confirmed by Netflix - though we've been waiting for more news ever since. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/arcane-season-2-coming-2024-at-the-earliest",
+          "publishedOn": "2023-04-11T10:56:11.000Z",
+          "wordCount": 5584,
+          "title": "Arcane season 2 coming 2024 at the earliest",
+          "imageUrl": "https://assetsio.reedpopcdn.com/arcane-act-1-review-riots-glossy-animated-netflix-series-opens-with-a-striking-if-familiar-bang-1636712280526.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/hi-fi-rush-adds-accessibility-options-to-simplify-parrying",
+          "author": "Ed Nightingale",
+          "description": "A new update for Hi-Fi Rush has been released that adds new accessibility options to make parrying easier.\r\n\n\r\nThat's alongside a new costume pack available to purchase and a number of bug fixes.\r\n\n\r\nThe stage select screen will also now display the number of collectibles found in each stage, with fully completed levels displaying a green checkmark.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/hi-fi-rush-adds-accessibility-options-to-simplify-parrying",
+          "publishedOn": "2023-04-11T10:45:15.000Z",
+          "wordCount": 5564,
+          "title": "Hi-Fi Rush adds accessibility options to simplify parrying",
+          "imageUrl": "https://assetsio.reedpopcdn.com/hi-fi-rush-chai-and-808-on-his-shoulder.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/fortnite-and-call-of-duty-criticised-over-poor-response-to-holocaust-denial-incidents",
+          "author": "Victoria Kennedy",
+          "description": "Epic Games and Activision Blizzard have both received damning grades from the Anti-Defamation League (ADL) in its 2023 Holocaust Denial Report Card.\r\n\n\r\nThe ADL published its online Holocaust Denial Report Card earlier this week. Here, the ADL lists the 10 most popular gaming and social media platforms and rates them based on the degree to which they aid the spread of Holocaust denial content.\r\n\n\r\nEpic Games and Fortnite received an F grade, the lowest score reported by the ADL. The ADL noted the game does not have an explicit Holocaust denial policy. Additionally, Epic took more than 24 hours to respond whenever an incident was reported to it, and also failed to take action on reports made by average users. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/fortnite-and-call-of-duty-criticised-over-poor-response-to-holocaust-denial-incidents",
+          "publishedOn": "2023-04-11T10:41:47.000Z",
+          "wordCount": 5836,
+          "title": "Fortnite and Call of Duty criticised over poor response to Holocaust denial incidents",
+          "imageUrl": "https://assetsio.reedpopcdn.com/fortnite_Fxjhl4W.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/super-mario-movie-beats-frozen-2-to-become-biggest-animated-film-debut-of-all-time",
+          "author": "Tom Phillips",
+          "description": "Nintendo's Super Mario Bros. Movie is a monster success, and has broken the record for the largest-ever opening weekend of any animated movie.\r\n\n\r\nThe Mario brothers brought in $377m in ticket sales worldwide  since their debut last week, beating previous record holder Frozen 2's $358m.\r\n\n\r\nAs you might expect, this also gives Mario the best opening for any video game adaptation ever, animated or otherwise. Indeed, Mario has already almost caught Sonic the Hedgehog 2's $405m total gross in just a few days. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/super-mario-movie-beats-frozen-2-to-become-biggest-animated-film-debut-of-all-time",
+          "publishedOn": "2023-04-11T10:26:39.000Z",
+          "wordCount": 5391,
+          "title": "Super Mario Movie beats Frozen 2 to become biggest animated film debut of all-time",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Super-Mario-Bros.-Plumbing-Commercial-0-4-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/voice-actress-lily-gao-hits-back-at-critics-of-her-ada-wong-in-resident-evil-4-remake",
+          "author": "Ed Nightingale",
+          "description": "Lily Gao, the voice actor behind Resident Evil 4 Remake's Ada Wong, has hit back at critics in a new Instagram post.\r\n\n\r\nThe actor deactivated her account at the start of the month following thousands of vitriolic messages complaining about her performance and claiming she \"ruined the remake\".\r\n\r\n\n\r\n\"My Ada is a survivor,\" said Gao in the new post, which also included images of Asian women in cinema who inspired her portrayal of the character.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/voice-actress-lily-gao-hits-back-at-critics-of-her-ada-wong-in-resident-evil-4-remake",
+          "publishedOn": "2023-04-11T10:11:02.000Z",
+          "wordCount": 5657,
+          "title": "Voice actress Lily Gao hits back at critics of her Ada Wong in Resident Evil 4 Remake",
+          "imageUrl": "https://assetsio.reedpopcdn.com/RE4_Ada_01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/behaviour-interactive-rollbacks-unpopular-healing-system-change-after-reviewing-player-feedback",
           "author": "Vikki Blake",
