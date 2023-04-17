@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/04/swatting-as-a-service.html",
+          "author": null,
+          "description": "<p>Motherboard is <a href=\"https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting\">reporting</a> on AI-generated voices being used for &#8220;swatting&#8221;:</p>\n<blockquote><p>In fact, Motherboard has found, this synthesized call and another against Hempstead High School were just one small part of a months-long, nationwide campaign of dozens, and potentially hundreds, of threats made by one swatter in particular who has weaponized computer generated voices. Known as &#8220;Torswats&#8221; on the messaging app Telegram, the swatter has been calling in bomb and mass shooting threats against highschools and other locations across the country. Torswat&#8217;s connection to these wide ranging swatting incidents has not been previously reported. The further automation of swatting techniques threatens to make an already dangerous harassment technique more prevalent...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/04/swatting-as-a-service.html",
+          "publishedOn": "2023-04-17T11:15:50.000Z",
+          "wordCount": 910,
+          "title": "Swatting as a Service",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/04/friday-squid-blogging-colossal-squid.html",
           "author": null,
           "description": "<p>Interesting <a href=\"https://www.kpax.com/news/a-wilder-view/a-wilder-view-get-to-know-the-biggest-squid-in-the-ocean\">article</a> on the colossal squid, which is larger than the giant squid.</p>\n<p>The article answers a vexing question:</p>\n<blockquote><p>So why do we always hear about the giant squid and not the colossal squid?</p>\n<p>Well, part of it has to do with the fact that the giant squid was discovered and studied long before the colossal squid.</p>\n<p>Scientists have been studying giant squid since the 1800s, while the colossal squid wasn&#8217;t even discovered until 1925.</p>\n<p>And its first discovery was just the head and arms found in a sperm whale&#8217;s stomach.</p>\n<p>It wasn&#8217;t until 1981 that the first whole animal was found by a trawler near the coast of Antarctica...</p></blockquote>",
@@ -391,6 +401,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1925668",
+          "author": "Ron Amadeo",
+          "description": "The death of physical SIM cards is quickly approaching. These are the alternatives.",
+          "link": "https://arstechnica.com/?p=1925668",
+          "publishedOn": "2023-04-17T11:00:54.000Z",
+          "wordCount": 1758,
+          "title": "iSIM vs eSIM vs SIM: The constantly shrinking ways carriers ID your phone",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/sim-cards-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1932092",
           "author": "Eric Berger",
@@ -3876,6 +3896,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/04/17/fine-grained-pod-topology-spread-features-beta/",
+          "author": null,
+          "description": "Authors: Alex Wang (Shopee), Kante Yin (DaoCloud), Kensei Nakada (Mercari)\nIn Kubernetes v1.19, Pod topology spread constraints\nwent to general availability (GA).\nAs time passed, we - SIG Scheduling - received feedback from users,\nand, as a result, we're actively working on improving the Topology Spread feature via three KEPs.\nAll of these features have reached beta in Kubernetes v1.27 and are enabled by default.\nThis blog post introduces each feature and the use case behind each of them.\nKEP-3022: min domains in Pod Topology Spread\nPod Topology Spread has the maxSkew parameter to define the degree to which Pods may be unevenly distributed.\nBut, there wasn't a way to control the number of domains over which we should spread.\nSome users want to force spreading Pods over a minimum number of …",
+          "link": "https://kubernetes.io/blog/2023/04/17/fine-grained-pod-topology-spread-features-beta/",
+          "publishedOn": "2023-04-17T00:00:00.000Z",
+          "wordCount": 4253,
+          "title": "Blog: Kubernetes 1.27: More fine-grained pod topology spread policies reached beta",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/04/11/kubernetes-v1-27-release/",
           "author": null,
           "description": "Authors: Kubernetes v1.27 Release Team\nAnnouncing the release of Kubernetes v1.27, the first release of 2023!\nThis release consist of 60 enhancements. 18 of those enhancements are entering Alpha, 29 are graduating to Beta, and 13 are graduating to Stable.\nRelease theme and logo\nKubernetes v1.27: Chill Vibes\nThe theme for Kubernetes v1.27 is Chill Vibes.\nIt's a little silly, but there were some important shifts in this release that helped inspire the theme. Throughout a typical Kubernetes release cycle, there are several deadlines that features need to meet to remain included. If a feature misses any of these deadlines, there is an exception process they can go through. Handling these exceptions is a very normal part of the release. But v1.27 is the first release that anyone can remember wh…",
@@ -3966,6 +3996,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/naughty-dog-continues-efforts-to-fix-the-last-of-us-part-1s-pc-port-releases-another-patch",
+          "author": "Victoria Kennedy",
+          "description": "Naughty Dog has released another update for The Last of Us Part 1 on PC, known as patch 1.0.3.\r\n\n\r\nThe developer has been doing its utmost to fix the game, which infamously released in an incredibly broken state earlier this year. In fact, Joel and Ellie quickly became memes on the PC game's release, with the characters becoming inexplicably wet during cutscenes and, well, the eyebrow situation.\n\r\nSince its PC launch, Naughty Dog along with Iron Galaxy has been steadily releasing patches to address things such as game crashes and various UI issues. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/naughty-dog-continues-efforts-to-fix-the-last-of-us-part-1s-pc-port-releases-another-patch",
+          "publishedOn": "2023-04-17T12:01:31.000Z",
+          "wordCount": 6467,
+          "title": "Naughty Dog continues efforts to fix The Last of Us Part 1's PC port, releases another patch",
+          "imageUrl": "https://assetsio.reedpopcdn.com/jjoel-ellie-the-last-of-us.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/mega-man-legacy-collection-acknowledges-insensitive-cultural-depictions-via-in-game-disclaimer",
+          "author": "Tom Phillips",
+          "description": "Capcom has chosen to acknowledge \"insensitive cultural depictions\" in its recently-released The Mega Man Battle Network Legacy Collection via a warning message at the start of the game. \r\n\n\r\nFans who spotted the warning have praised Capcom for taking note of the collection's content - while also leaving it intact to preserve the games as originally released. \r\n\n\r\n\"Capcom values diversity and inclusivity within its games and its community,\" the disclaimer notes. \"Please be aware the games in this collection may contain some cases of insensitive cultural depictions that are presented as originally created to preserve their authenticity.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mega-man-legacy-collection-acknowledges-insensitive-cultural-depictions-via-in-game-disclaimer",
+          "publishedOn": "2023-04-17T11:40:24.000Z",
+          "wordCount": 5536,
+          "title": "Mega Man Legacy Collection acknowledges \"insensitive cultural depictions\" via in-game disclaimer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/mega-man-battle-network-legacy-collection-scaled-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-copyright-claims-strike-again-this-time-with-zelda-breath-of-the-wild-multiplayer-modder",
+          "author": "Victoria Kennedy",
+          "description": "Prolific Zelda streamer and modder PointCrow has been hit by dozens of additional content claims and takedowns on his videos by Nintendo, in the run up to the release of Zelda: Tears of the Kingdom.\r\n\n\r\nPointCrow, who's real name is Eric Morino, has seen several of his videos affected by Nintendo's copyright claims recently, including ones pertaining to his Breath of the Wild multiplayer mod. Needless to say, he is not happy about it.  \r\n\n\r\nPointCrow recently released a video about the various claims and takedowns on his channel (a video which he said was vetted by his lawyer before its release). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-copyright-claims-strike-again-this-time-with-zelda-breath-of-the-wild-multiplayer-modder",
+          "publishedOn": "2023-04-17T11:29:55.000Z",
+          "wordCount": 6072,
+          "title": "Nintendo copyright claims strike again, this time with Zelda: Breath of the Wild multiplayer modder",
+          "imageUrl": "https://assetsio.reedpopcdn.com/botw-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/dark-and-darker-developer-sued-by-nexon-for-copyright-infringement",
+          "author": "Victoria Kennedy",
+          "description": "Nexon is suing Ironmace, the developer behind medieval dungeon looter Dark and Darker, for \"copyright infringement\". The Korean game publisher is now demanding a jury trial, as part of its ongoing dispute with Ironmace. \r\n\n\r\nThis lawsuit was officially filed last Friday (14th April) at the US District Court for the Western District of Washington.\r\n\n\r\nFor a quick bit of background, the team at Ironmace was accused of creating Dark and Darker \"using materials and assets they worked on during their time\" at Nexon. These accusations specifically pertained to a game known as P3.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dark-and-darker-developer-sued-by-nexon-for-copyright-infringement",
+          "publishedOn": "2023-04-17T10:27:21.000Z",
+          "wordCount": 5868,
+          "title": "Dark and Darker developer sued by Nexon for \"copyright infringement\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/dark-and-darker-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/stardew-valley-creator-pauses-haunted-chocolatier-development",
+          "author": "Tom Phillips",
+          "description": "Eric \"ConcernedApe\" Barone is \"taking a break\" from work on his long-awaited follow-up game Haunted Chocolatier in order to focus on Stardew Valley once again. \r\n\n\r\nBarone previously confirmed there would be more content for his hit faming life simulation back in June last year. \r\n\n\r\nStardew Valley update 1.6 will include changes to allow for easier and more powerful modding, Barone confirmed via Twitter, alongside some \"new game content, albeit much less than 1.5\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/stardew-valley-creator-pauses-haunted-chocolatier-development",
+          "publishedOn": "2023-04-17T09:47:12.000Z",
+          "wordCount": 5609,
+          "title": "Stardew Valley creator pauses Haunted Chocolatier development",
+          "imageUrl": "https://assetsio.reedpopcdn.com/haunted-chocolatier-combat.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sega-buys-angry-birds-maker-rovio-for-625m",
+          "author": "Wesley Yin-Poole",
+          "description": "Angry Birds maker Rovio has agreed to be bought by Sega.\r\n\n\r\nSega Sammy Holdings is buying Finland-based Rovio for €706m (£625m). Sega expects the acquisition to close in the second quarter of the 2024 financial year, so by the end of September.\r\n\nFor Sega's part, it reckons the mobile gaming market is projected to account for 56 percent of the global gaming market overall by 2026, so buying Rovio is an attempt to strenghten its position there.\n Read more",
+          "link": "https://www.eurogamer.net/sega-buys-angry-birds-maker-rovio-for-625m",
+          "publishedOn": "2023-04-17T08:17:06.000Z",
+          "wordCount": 5661,
+          "title": "Sega buys Angry Birds maker Rovio for £625m",
+          "imageUrl": "https://assetsio.reedpopcdn.com/angry-birds_52USvuS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/doctor-who-could-be-coming-to-fortnite-later-this-year",
           "author": "Vikki Blake",
