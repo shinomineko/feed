@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T00:30:51.430Z</updated>
+    <updated>2023-04-20T06:25:43.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: Single Pod Access Mode for PersistentVolumes Graduates to Beta]]></title>
+        <id>https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta/</id>
+        <link href="https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta/"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Chris Henzie (Google)
+With the release of Kubernetes v1.27 the ReadWriteOncePod feature has graduated
+to beta. In this blog post, we'll take a closer look at this feature, what it
+does, and how it has evolved in the beta release.
+What is ReadWriteOncePod?
+ReadWriteOncePod is a new access mode for
+PersistentVolumes (PVs)
+and PersistentVolumeClaims (PVCs)
+introduced in Kubernetes v1.22. This access mode enables you to restrict volume
+access to a single pod in the cluster, ensuring that only one pod can write to
+the volume at a time. This can be particularly useful for stateful workloads
+that require single-writer access to storage.
+For more context on access modes and how ReadWriteOncePod works read
+What are access modes and why are they important?
+in the Introducing Single Pod Acces…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic acquires Horizon Chase Turbo developer Aquiris to work on Fortnite]]></title>
         <id>https://www.eurogamer.net/epic-acquires-horizon-chase-turbo-developer-aquiris-to-work-on-fortnite</id>
@@ -10464,229 +10488,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Updates stop on April 10, site will be available for "a limited period" after.]]></summary>
         <author>
             <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror’s Edge, Battlefield 1943, Bad Company being pulled from sale in April]]></title>
-        <id>https://www.eurogamer.net/mirrors-edge-battlefield-1943-bad-company-being-pulled-from-sale-in-april</id>
-        <link href="https://www.eurogamer.net/mirrors-edge-battlefield-1943-bad-company-being-pulled-from-sale-in-april"/>
-        <updated>2023-03-21T18:23:28.000Z</updated>
-        <summary type="html"><![CDATA[EA will be permanently pulling Mirror’s Edge, Bad Company 1 & 2, and Battlefield 1943 from sale across all digital storefronts starting 28th April this year.
-
-
-EA says the move is being made as it prepares to shutdown the games' online services - a process currently scheduled to occur on 8th December 2023.
-
-
-After that date, owners will still be able to access all offline feature - including single-player campaigns - in Mirror's Edge and Bad Company 1 & 2. However, the multiplayer-only Battlefield 1943 will no longer be playable.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google defends auto-deletion of chats after US alleged it destroyed evidence]]></title>
-        <id>https://arstechnica.com/?p=1925623</id>
-        <link href="https://arstechnica.com/?p=1925623"/>
-        <updated>2023-03-21T18:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Despite deleted chats, Google says US wasn't denied access to "material" info.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google says late Pixel Watch alarms will be fixed “in the coming weeks”]]></title>
-        <id>https://arstechnica.com/?p=1925612</id>
-        <link href="https://arstechnica.com/?p=1925612"/>
-        <updated>2023-03-21T17:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Overly aggressive power savings is probably to blame for the late alarm feature.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-faked images of Donald Trump’s imagined arrest swirl on Twitter]]></title>
-        <id>https://arstechnica.com/?p=1925576</id>
-        <link href="https://arstechnica.com/?p=1925576"/>
-        <updated>2023-03-21T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Platforms have begun relying on users to clearly disclose AI-generated media.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2023 Dodge Challenger SRT Demon 170 will do 0-60 in just 1.66 seconds]]></title>
-        <id>https://arstechnica.com/?p=1925572</id>
-        <link href="https://arstechnica.com/?p=1925572"/>
-        <updated>2023-03-21T16:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Dodge is seeing out the Hemi V8 muscle car era with a 1,025 hp version.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XCOM designer Jake Solomon looking to fund new studio, move away from turn-based strategy games]]></title>
-        <id>https://www.eurogamer.net/xcom-designer-jake-solomon-looking-to-fund-new-studio-move-away-from-turn-based-strategy-games</id>
-        <link href="https://www.eurogamer.net/xcom-designer-jake-solomon-looking-to-fund-new-studio-move-away-from-turn-based-strategy-games"/>
-        <updated>2023-03-21T16:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Jake Solomon, best known for his work on the XCOM series and Marvel's Midnight Suns, is looking to fund a fresh studio in order to "make a new kind of game".
-
-
-Earlier this year, Solomon announced he was leaving Firaxis after more than two decades to "[embark] on a new chapter". 
-
-
-At this point, the XCOM designer did not go into specifics about what this new chapter would look like, only saying that his brain was "on fire with a new dream" and this was the "time to go chase it".
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New method gets better performance out of atomically thin transistors]]></title>
-        <id>https://arstechnica.com/?p=1925506</id>
-        <link href="https://arstechnica.com/?p=1925506"/>
-        <updated>2023-03-21T15:55:48.000Z</updated>
-        <summary type="html"><![CDATA[A new way of making wafer-scale electronics out of atomically thin sheets.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2023 BMW XM is purpose-built to get your attention]]></title>
-        <id>https://arstechnica.com/?p=1925500</id>
-        <link href="https://arstechnica.com/?p=1925500"/>
-        <updated>2023-03-21T15:30:55.000Z</updated>
-        <summary type="html"><![CDATA[The XM is a technical powerhouse geared for eating autobahns, not apices.]]></summary>
-        <author>
-            <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing’s AI chatbot can now generate unhinged images along with unhinged text]]></title>
-        <id>https://arstechnica.com/?p=1925511</id>
-        <link href="https://arstechnica.com/?p=1925511"/>
-        <updated>2023-03-21T15:06:43.000Z</updated>
-        <summary type="html"><![CDATA["Advanced" version of OpenAI's DALL-E will roll out to Bing preview users.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s answer to ChatGPT, Google Bard, is out]]></title>
-        <id>https://arstechnica.com/?p=1925539</id>
-        <link href="https://arstechnica.com/?p=1925539"/>
-        <updated>2023-03-21T14:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Google's "experimental" answer to Bing is finally ready, and you can join the waitlist.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft confirms Xbox Game Pass titles for rest of March]]></title>
-        <id>https://www.eurogamer.net/microsoft-confirms-xbox-game-pass-titles-for-rest-of-march</id>
-        <link href="https://www.eurogamer.net/microsoft-confirms-xbox-game-pass-titles-for-rest-of-march"/>
-        <updated>2023-03-21T14:31:15.000Z</updated>
-        <summary type="html"><![CDATA[With just 10 days left to go in March, today brings a brief update on the remaining titles set to join Xbox Game Pass over the coming week and a bit. 
-
-
-As previously announced, Ni No Kuni 2: Revenant Kingdom will become available for cloud, Xbox consoles and PC today. This is the follow-up to Level 5's role-playing game classic, and includes a fresh battle system that's more Pikmin than Pokémon. 
-
-
-Oh, and a nice touch - you get the Prince's Edition version of the game here, which includes extra DLCs. Handy!
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antisemitism on Twitter has more than doubled since Elon Musk took over]]></title>
-        <id>https://arstechnica.com/?p=1925490</id>
-        <link href="https://arstechnica.com/?p=1925490"/>
-        <updated>2023-03-21T13:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Musk's decision to roll back content moderation is partly to blame.]]></summary>
-        <author>
-            <name>The Conversation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket]]></title>
-        <id>https://arstechnica.com/?p=1925296</id>
-        <link href="https://arstechnica.com/?p=1925296"/>
-        <updated>2023-03-21T13:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Russia has spent nearly $1 billion on the development of the new Soyuz-5 rocket.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Genesis GV70 Electrified humbly sticks to its strengths]]></title>
-        <id>https://arstechnica.com/?p=1925324</id>
-        <link href="https://arstechnica.com/?p=1925324"/>
-        <updated>2023-03-21T13:00:05.000Z</updated>
-        <summary type="html"><![CDATA[With its latest, Genesis is one step closer to putting ICE in its rearview mirror.]]></summary>
-        <author>
-            <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moss developer Polyarc working on unnamed multiplayer VR project]]></title>
-        <id>https://www.eurogamer.net/moss-developer-polyarc-working-on-unnamed-multiplayer-vr-project</id>
-        <link href="https://www.eurogamer.net/moss-developer-polyarc-working-on-unnamed-multiplayer-vr-project"/>
-        <updated>2023-03-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The developer of Moss and Moss: Book 2, Polyarc, has announced its next project will be a competitive multiplayer game.
-
-
-Though unnamed at present, the game will once again be for VR. A playtest will take place from 14-16th April, which players can sign up for now.
-
-
-
-The project is something the studio has been wanting to develop since its inception in 2015, but required a large enough VR player base to support a multiplayer game.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash Team Rumble gets June release date, closed beta available with pre-orders]]></title>
-        <id>https://www.eurogamer.net/crash-team-rumble-gets-june-release-date-closed-beta-available-with-pre-orders</id>
-        <link href="https://www.eurogamer.net/crash-team-rumble-gets-june-release-date-closed-beta-available-with-pre-orders"/>
-        <updated>2023-03-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Following today's earlier gameplay leak, Activision has announced when you'll be able to get rumbling with Crash and his team in Crash Team Rumble - and how you can get playing ahead of launch.
-
-
-Toys For Bob's upcoming MOBA will launch on 20th June across PlayStation 4, PS5, Xbox One and Xbox Series X/S (with cross-play supported). 
-
-
-If you are keen, you can pre-order the game from today (21st March). Those that do this will also be invited to take part in Crash Team Rumble's closed beta, which will run between 20th April - 24th April.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Roblox’s new AI coding and art tools the future of game development?]]></title>
-        <id>https://arstechnica.com/?p=1925473</id>
-        <link href="https://arstechnica.com/?p=1925473"/>
-        <updated>2023-03-21T12:43:15.000Z</updated>
-        <summary type="html"><![CDATA[New initiative aims to take game development past "the hands of the skilled few."]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Citizen Hacked by Spyware]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/03/us-citizen-hacked-by-spyware.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/03/us-citizen-hacked-by-spyware.html"/>
-        <updated>2023-03-21T12:34:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>The <i>New York Times</i> is <a href="https://www.nytimes.com/2023/03/20/world/europe/greece-spyware-hacking-meta.html">reporting</a> that a US citizen&#8217;s phone was hacked by the Predator spyware.</p>
-<blockquote><p>A U.S. and Greek national who worked on Meta’s security and trust team while based in Greece was placed under a yearlong wiretap by the Greek national intelligence service and hacked with a powerful cyberespionage tool, according to documents obtained by The New York Times and officials with knowledge of the case.</p>
-<p>The disclosure is the first known case of an American citizen being targeted in a European Union country by the advanced snooping technology, the use of which has been the subject of a widening scandal in Greece. It demonstrates that the illicit use of spyware is spreading beyond use by authoritarian governments against opposition figures and journalists, and has begun to creep into European democracies, even ensnaring a foreign national working for a major global corporation...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
         </author>
     </entry>
 </feed>
