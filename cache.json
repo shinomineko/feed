@@ -3795,6 +3795,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/",
+          "author": null,
+          "description": "Author: Jeffrey Ying (Google), Antoine Pelisse (Google)\nBefore Kubernetes v1.8 (!), typos, mis-indentations or minor errors in\nYAMLs could have catastrophic consequences (e.g. a typo like\nforgetting the trailing s in replica: 1000 could cause an outage,\nbecause the value would be ignored and missing, forcing a reset of\nreplicas back to 1). This was solved back then by fetching the OpenAPI\nv2 in kubectl and using it to verify that fields were correct and\npresent before applying. Unfortunately, at that time, Custom Resource\nDefinitions didn’t exist, and the code was written under that\nassumption. When CRDs were later introduced, the lack of flexibility\nin the validation code forced some hard decisions in the way CRDs\nexposed their schema, leaving us in a cycle of bad validation causing\nbad O…",
+          "link": "https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/",
+          "publishedOn": "2023-04-24T00:00:00.000Z",
+          "wordCount": 4072,
+          "title": "Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/04/21/node-log-query-alpha/",
           "author": null,
           "description": "Author: Aravindh Puthiyaparambil (Red Hat)\nKubernetes 1.27 introduced a new feature called Node log query that allows\nviewing logs of services running on the node.\nWhat problem does it solve?\nCluster administrators face issues when debugging malfunctioning services\nrunning on the node. They usually have to SSH or RDP into the node to view the\nlogs of the service to debug the issue. The Node log query feature helps with\nthis scenario by allowing the cluster administrator to view the logs using\nkubectl. This is especially useful with Windows nodes where you run into the\nissue of the node going to the ready state but containers not coming up due to\nCNI misconfigurations and other issues that are not easily identifiable by\nlooking at the Pod status.\nHow does it work?\nThe kubelet already has a …",
@@ -7164,66 +7174,6 @@
           "wordCount": 6017,
           "title": "How Sony Santa Monica knocked God of War Ragnarok's big narrative climax into shape",
           "imageUrl": "https://assets.reedpopcdn.com/GOWR_Preview_Screenshot_17.png/BROK/thumbnail/1200x630/GOWR_Preview_Screenshot_17.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/csgo-keeps-on-smashing-its-own-all-time-concurrent-user-peak",
-          "author": "Vikki Blake",
-          "description": "Counter-Strike: Global Offensive (CS:GO) has smashed its all-time concurrent PC user peak. Yes, again.\r\n\nClocking up a record 1.5 million concurrent players earlier today (thanks, SteamDB), that means CS:GO now sports Steam's second-biggest concurrent players record ever.\r\n\nWhilst it still has some ways to go to take the top spot – pole position holder PUBG Battlegrounds' concurrent record is twice as high at CS:GO's at 3.2 million – it's an incredible feat for a decade-old shooter.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/csgo-keeps-on-smashing-its-own-all-time-concurrent-user-peak",
-          "publishedOn": "2023-03-25T17:52:35.000Z",
-          "wordCount": 5450,
-          "title": "CS:GO keeps on smashing its own all-time concurrent user peak",
-          "imageUrl": "https://assets.reedpopcdn.com/csgo_shoots_01.jpg.jpg/BROK/thumbnail/1200x630/csgo_shoots_01.jpg.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/chris-avellone-resolves-sexual-misconduct-allegations-claiming-a-seven-figure-payment",
-          "author": "Vikki Blake",
-          "description": "Games writer and designer, Chris Avellone, has reportedly settled a lawsuit after two women accused him of sexual misconduct. \r\n\nThe settlement dismisses the claims levied against him \"with prejudice\", \"pursuant to a confidential settlement\". Avellone claims the settlement includes a \"seven-figure payment\", which includes \"the return\" of his legal fees.\r\n\nAfter \"engaging with Mr. Avellone\", Karissa Barrows and Kelly Rae Bristol issued a joint statement, which was published on Avellone's personal blog earlier today:\r\n \nRead more",
-          "link": "https://www.eurogamer.net/chris-avellone-resolves-sexual-misconduct-allegations-claiming-a-seven-figure-payment",
-          "publishedOn": "2023-03-25T17:12:59.000Z",
-          "wordCount": 5276,
-          "title": "Chris Avellone resolves sexual misconduct allegations, claiming a \"seven-figure payment\"",
-          "imageUrl": "https://assets.reedpopcdn.com/chrisavellone3.gif/BROK/thumbnail/1200x630/chrisavellone3.gif"
-        },
-        {
-          "id": "https://www.eurogamer.net/surrealistic-platformer-after-us-wants-you-to-salvage-the-souls-of-extinct-animals",
-          "author": "Vikki Blake",
-          "description": "Piccolo Studios' \"surrealistic platformer\", After Us, will launch on 23rd May, 2023 for PC and current-gen consoles.\r\n\nThe emotional adventure game sees you play the Spirit of Life, Gaia, as you move through \"stunning environments\" to salvage the souls of extinct animals, reviving them to learn their fates.\r\n\nCheck out an all-new walkthrough trailer below:\n Read more",
-          "link": "https://www.eurogamer.net/surrealistic-platformer-after-us-wants-you-to-salvage-the-souls-of-extinct-animals",
-          "publishedOn": "2023-03-25T16:48:20.000Z",
-          "wordCount": 5270,
-          "title": "\"Surrealistic platformer\" After Us wants you to salvage the souls of extinct animals",
-          "imageUrl": "https://assets.reedpopcdn.com/AFUS_Announce_Screenshot02_3840x2160.jpg/BROK/thumbnail/1200x630/AFUS_Announce_Screenshot02_3840x2160.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/teenage-mutant-ninja-turtles-the-last-ronin-is-getting-a-dark-god-of-war-like-game-adaptation",
-          "author": "Vikki Blake",
-          "description": "Fan-favourite Teenage Mutant Ninja Turtles graphic novel, The Last Ronin, is getting a video game adaptation.\r\n\nParamount Global senior VP Doug Rosen confirmed to Polygon that the third-person action-RPG adaptation will be \"a darker, more mature take\" on the TMNT IP, reportedly likening the game to Sony Santa Monica's God of War games. \r\n\nAccording to Rosen, the game will follow a single Turtle – in the comic, it's Michaelangelo – although it may be possible to play as others, including perhaps other notable characters like April and Splinter, in flashbacks. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/teenage-mutant-ninja-turtles-the-last-ronin-is-getting-a-dark-god-of-war-like-game-adaptation",
-          "publishedOn": "2023-03-25T14:17:09.000Z",
-          "wordCount": 5439,
-          "title": "Teenage Mutant Ninja Turtles The Last Ronin is getting a dark God of War-like game adaptation",
-          "imageUrl": "https://assets.reedpopcdn.com/turtles1.png/BROK/thumbnail/1200x630/turtles1.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/dark-and-darker-has-been-removed-from-steam-following-a-cease-and-desist-demand",
-          "author": "Vikki Blake",
-          "description": "Dark and Darker has been removed from Steam after developer Ironmace received a cease and desist demand from Korean publisher Nexon.\r\n\nFans first noticed changes being made to the RPG's Steam store page overnight, when assets like videos and screenshots were quietly removed. Then they realised that online co-op and PvP had stopped working, followed by the complete removal of all traces of the game. Now, if you attempt to load the game's Steam store, it'll take you to Steam's front page.\r\n\n\"To all our fans, we have recently been served a cease and desist letter and DMCA takedown by Nexon regarding Dark and Darker based on distorted claims,\" Ironmace explained via the community's Discord server (thanks, Reddit). \r\n \nRead more",
-          "link": "https://www.eurogamer.net/dark-and-darker-has-been-removed-from-steam-following-a-cease-and-desist-demand",
-          "publishedOn": "2023-03-25T13:56:07.000Z",
-          "wordCount": 5558,
-          "title": "Dark and Darker has been removed from Steam following a cease and desist demand",
-          "imageUrl": "https://assets.reedpopcdn.com/dark-and-darker-header.jpg/BROK/thumbnail/1200x630/dark-and-darker-header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/try-wales-interactives-upcoming-fmv-mystery-game-the-isle-tide-hotel",
-          "author": "Vikki Blake",
-          "description": "A playable demo for Wales Interactive's upcoming FMV mystery game, The Isle Tide Hotel, is now available.\r\n\nRunning as part of ID@Xbox's GDC 2023 Online Demo Event, the demo is one of a dozen available between now and 27th March, alongside Xbox demos for Backbeat, BattleCakes, Booom-Slang!, Evil Wizard, Fall of Porcupine, Fractal Space, Soulvars, The Library of Babel, and Wales Interactive's survival FPS and Maid of Sker spin-off, Sker Ritual.\r\n\nWales Interactive's The Isle Tide Hotel – a new live-action interactive mystery about an absent father looking to rescue his teenage daughter from an \"eclectic cult\" – was announced last November.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/try-wales-interactives-upcoming-fmv-mystery-game-the-isle-tide-hotel",
-          "publishedOn": "2023-03-25T13:27:19.000Z",
-          "wordCount": 5279,
-          "title": "Try Wales Interactive's upcoming FMV mystery game, The Isle Tide Hotel",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_84c5a3a809d686b8a548fb1dca96bba668b05a63.jpeg/BROK/thumbnail/1200x630/ss_84c5a3a809d686b8a548fb1dca96bba668b05a63.jpeg"
         }
       ]
     },

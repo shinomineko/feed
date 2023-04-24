@@ -83,6 +83,65 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-24 datetime="2023-04-24T00:00:00.000Z">2023-04-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-24 datetime="2023-04-24T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Jeffrey Ying (Google), Antoine Pelisse (Google)
+Before Kubernetes v1.8 (!), typos, mis-indentations or minor errors in
+YAMLs could have catastrophic consequences (e.g. a typo like
+forgetting the trailing s in replica: 1000 could cause an outage,
+because the value would be ignored and missing, forcing a reset of
+replicas back to 1). This was solved back then by fetching the OpenAPI
+v2 in kubectl and using it to verify that fields were correct and
+present before applying. Unfortunately, at that time, Custom Resource
+Definitions didn’t exist, and the code was written under that
+assumption. When CRDs were later introduced, the lack of flexibility
+in the validation code forced some hard decisions in the way CRDs
+exposed their schema, leaving us in a cycle of bad validation causing
+bad O…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-23 datetime="2023-04-23T16:43:16.000Z">2023-04-23</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-23 datetime="2023-04-23T16:43:16.000Z"></time>
           </button>
@@ -19297,58 +19356,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/csgo-keeps-on-smashing-its-own-all-time-concurrent-user-peak"
-                        open
-                      >
-                        <summary class="article-expander__title">CS:GO keeps on smashing its own all-time concurrent user peak</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/csgo-keeps-on-smashing-its-own-all-time-concurrent-user-peak">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/csgo_shoots_01.jpg.jpg/BROK/thumbnail/1200x630/csgo_shoots_01.jpg.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Counter-Strike: Global Offensive (CS:GO) has smashed its all-time concurrent PC user peak. Yes, again.
-
-Clocking up a record 1.5 million concurrent players earlier today (thanks, SteamDB), that means CS:GO now sports Steam&#x27;s second-biggest concurrent players record ever.
-
-Whilst it still has some ways to go to take the top spot – pole position holder PUBG Battlegrounds&#x27; concurrent record is twice as high at CS:GO&#x27;s at 3.2 million – it&#x27;s an incredible feat for a decade-old shooter.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/chris-avellone-resolves-sexual-misconduct-allegations-claiming-a-seven-figure-payment"
-                        open
-                      >
-                        <summary class="article-expander__title">Chris Avellone resolves sexual misconduct allegations, claiming a &quot;seven-figure payment&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/chris-avellone-resolves-sexual-misconduct-allegations-claiming-a-seven-figure-payment">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/chrisavellone3.gif/BROK/thumbnail/1200x630/chrisavellone3.gif" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Games writer and designer, Chris Avellone, has reportedly settled a lawsuit after two women accused him of sexual misconduct. 
-
-The settlement dismisses the claims levied against him &quot;with prejudice&quot;, &quot;pursuant to a confidential settlement&quot;. Avellone claims the settlement includes a &quot;seven-figure payment&quot;, which includes &quot;the return&quot; of his legal fees.
-
-After &quot;engaging with Mr. Avellone&quot;, Karissa Barrows and Kelly Rae Bristol issued a joint statement, which was published on Avellone&#x27;s personal blog earlier today:
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -19388,141 +19395,10 @@ Read more</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-25 datetime="2023-03-25T16:48:20.000Z">2023-03-25</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-25 datetime="2023-03-25T16:48:20.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Eurogamer.net News Feed</button>
-                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/surrealistic-platformer-after-us-wants-you-to-salvage-the-souls-of-extinct-animals"
-                        open
-                      >
-                        <summary class="article-expander__title">&quot;Surrealistic platformer&quot; After Us wants you to salvage the souls of extinct animals</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/surrealistic-platformer-after-us-wants-you-to-salvage-the-souls-of-extinct-animals">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/AFUS_Announce_Screenshot02_3840x2160.jpg/BROK/thumbnail/1200x630/AFUS_Announce_Screenshot02_3840x2160.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Piccolo Studios&#x27; &quot;surrealistic platformer&quot;, After Us, will launch on 23rd May, 2023 for PC and current-gen consoles.
-
-The emotional adventure game sees you play the Spirit of Life, Gaia, as you move through &quot;stunning environments&quot; to salvage the souls of extinct animals, reviving them to learn their fates.
-
-Check out an all-new walkthrough trailer below:
- Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/teenage-mutant-ninja-turtles-the-last-ronin-is-getting-a-dark-god-of-war-like-game-adaptation"
-                        open
-                      >
-                        <summary class="article-expander__title">Teenage Mutant Ninja Turtles The Last Ronin is getting a dark God of War-like game adaptation</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/teenage-mutant-ninja-turtles-the-last-ronin-is-getting-a-dark-god-of-war-like-game-adaptation">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/turtles1.png/BROK/thumbnail/1200x630/turtles1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Fan-favourite Teenage Mutant Ninja Turtles graphic novel, The Last Ronin, is getting a video game adaptation.
-
-Paramount Global senior VP Doug Rosen confirmed to Polygon that the third-person action-RPG adaptation will be &quot;a darker, more mature take&quot; on the TMNT IP, reportedly likening the game to Sony Santa Monica&#x27;s God of War games. 
-
-According to Rosen, the game will follow a single Turtle – in the comic, it&#x27;s Michaelangelo – although it may be possible to play as others, including perhaps other notable characters like April and Splinter, in flashbacks. 
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/dark-and-darker-has-been-removed-from-steam-following-a-cease-and-desist-demand"
-                        open
-                      >
-                        <summary class="article-expander__title">Dark and Darker has been removed from Steam following a cease and desist demand</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/dark-and-darker-has-been-removed-from-steam-following-a-cease-and-desist-demand">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/dark-and-darker-header.jpg/BROK/thumbnail/1200x630/dark-and-darker-header.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Dark and Darker has been removed from Steam after developer Ironmace received a cease and desist demand from Korean publisher Nexon.
-
-Fans first noticed changes being made to the RPG&#x27;s Steam store page overnight, when assets like videos and screenshots were quietly removed. Then they realised that online co-op and PvP had stopped working, followed by the complete removal of all traces of the game. Now, if you attempt to load the game&#x27;s Steam store, it&#x27;ll take you to Steam&#x27;s front page.
-
-&quot;To all our fans, we have recently been served a cease and desist letter and DMCA takedown by Nexon regarding Dark and Darker based on distorted claims,&quot; Ironmace explained via the community&#x27;s Discord server (thanks, Reddit). 
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/try-wales-interactives-upcoming-fmv-mystery-game-the-isle-tide-hotel"
-                        open
-                      >
-                        <summary class="article-expander__title">Try Wales Interactive&#x27;s upcoming FMV mystery game, The Isle Tide Hotel</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/try-wales-interactives-upcoming-fmv-mystery-game-the-isle-tide-hotel">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/ss_84c5a3a809d686b8a548fb1dca96bba668b05a63.jpeg/BROK/thumbnail/1200x630/ss_84c5a3a809d686b8a548fb1dca96bba668b05a63.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A playable demo for Wales Interactive&#x27;s upcoming FMV mystery game, The Isle Tide Hotel, is now available.
-
-Running as part of ID@Xbox&#x27;s GDC 2023 Online Demo Event, the demo is one of a dozen available between now and 27th March, alongside Xbox demos for Backbeat, BattleCakes, Booom-Slang!, Evil Wizard, Fall of Porcupine, Fractal Space, Soulvars, The Library of Babel, and Wales Interactive&#x27;s survival FPS and Maid of Sker spin-off, Sker Ritual.
-
-Wales Interactive&#x27;s The Isle Tide Hotel – a new live-action interactive mystery about an absent father looking to rescue his teenage daughter from an &quot;eclectic cult&quot; – was announced last November.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/4781234990">
-        <time id="build-timestamp" datetime="2023-04-24T00:30:53.000Z">2023-04-24T00:30:53.000Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/4783177771">
+        <time id="build-timestamp" datetime="2023-04-24T06:25:53.014Z">2023-04-24T06:25:53.014Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

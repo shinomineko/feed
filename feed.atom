@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T00:30:53.057Z</updated>
+    <updated>2023-04-24T06:25:53.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA]]></title>
+        <id>https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/</id>
+        <link href="https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Jeffrey Ying (Google), Antoine Pelisse (Google)
+Before Kubernetes v1.8 (!), typos, mis-indentations or minor errors in
+YAMLs could have catastrophic consequences (e.g. a typo like
+forgetting the trailing s in replica: 1000 could cause an outage,
+because the value would be ignored and missing, forcing a reset of
+replicas back to 1). This was solved back then by fetching the OpenAPI
+v2 in kubectl and using it to verify that fields were correct and
+present before applying. Unfortunately, at that time, Custom Resource
+Definitions didn’t exist, and the code was written under that
+assumption. When CRDs were later introduced, the lack of flexibility
+in the validation code forced some hard decisions in the way CRDs
+exposed their schema, leaving us in a cycle of bad validation causing
+bad O…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Resident Evil 4 Remake fan recreated Leon's attache case to show how it would look in real life]]></title>
         <id>https://www.eurogamer.net/this-resident-evil-4-remake-fan-recreated-leons-attache-case-to-show-how-it-would-look-in-real-life</id>
@@ -9878,101 +9900,6 @@ The moment in question here is Atreus' big realisation, that bringing about Ragn
 Read more]]></summary>
         <author>
             <name>Chris Tapsell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CS:GO keeps on smashing its own all-time concurrent user peak]]></title>
-        <id>https://www.eurogamer.net/csgo-keeps-on-smashing-its-own-all-time-concurrent-user-peak</id>
-        <link href="https://www.eurogamer.net/csgo-keeps-on-smashing-its-own-all-time-concurrent-user-peak"/>
-        <updated>2023-03-25T17:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Counter-Strike: Global Offensive (CS:GO) has smashed its all-time concurrent PC user peak. Yes, again.
-
-Clocking up a record 1.5 million concurrent players earlier today (thanks, SteamDB), that means CS:GO now sports Steam's second-biggest concurrent players record ever.
-
-Whilst it still has some ways to go to take the top spot – pole position holder PUBG Battlegrounds' concurrent record is twice as high at CS:GO's at 3.2 million – it's an incredible feat for a decade-old shooter.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Avellone resolves sexual misconduct allegations, claiming a "seven-figure payment"]]></title>
-        <id>https://www.eurogamer.net/chris-avellone-resolves-sexual-misconduct-allegations-claiming-a-seven-figure-payment</id>
-        <link href="https://www.eurogamer.net/chris-avellone-resolves-sexual-misconduct-allegations-claiming-a-seven-figure-payment"/>
-        <updated>2023-03-25T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Games writer and designer, Chris Avellone, has reportedly settled a lawsuit after two women accused him of sexual misconduct. 
-
-The settlement dismisses the claims levied against him "with prejudice", "pursuant to a confidential settlement". Avellone claims the settlement includes a "seven-figure payment", which includes "the return" of his legal fees.
-
-After "engaging with Mr. Avellone", Karissa Barrows and Kelly Rae Bristol issued a joint statement, which was published on Avellone's personal blog earlier today:
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Surrealistic platformer" After Us wants you to salvage the souls of extinct animals]]></title>
-        <id>https://www.eurogamer.net/surrealistic-platformer-after-us-wants-you-to-salvage-the-souls-of-extinct-animals</id>
-        <link href="https://www.eurogamer.net/surrealistic-platformer-after-us-wants-you-to-salvage-the-souls-of-extinct-animals"/>
-        <updated>2023-03-25T16:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Piccolo Studios' "surrealistic platformer", After Us, will launch on 23rd May, 2023 for PC and current-gen consoles.
-
-The emotional adventure game sees you play the Spirit of Life, Gaia, as you move through "stunning environments" to salvage the souls of extinct animals, reviving them to learn their fates.
-
-Check out an all-new walkthrough trailer below:
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teenage Mutant Ninja Turtles The Last Ronin is getting a dark God of War-like game adaptation]]></title>
-        <id>https://www.eurogamer.net/teenage-mutant-ninja-turtles-the-last-ronin-is-getting-a-dark-god-of-war-like-game-adaptation</id>
-        <link href="https://www.eurogamer.net/teenage-mutant-ninja-turtles-the-last-ronin-is-getting-a-dark-god-of-war-like-game-adaptation"/>
-        <updated>2023-03-25T14:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Fan-favourite Teenage Mutant Ninja Turtles graphic novel, The Last Ronin, is getting a video game adaptation.
-
-Paramount Global senior VP Doug Rosen confirmed to Polygon that the third-person action-RPG adaptation will be "a darker, more mature take" on the TMNT IP, reportedly likening the game to Sony Santa Monica's God of War games. 
-
-According to Rosen, the game will follow a single Turtle – in the comic, it's Michaelangelo – although it may be possible to play as others, including perhaps other notable characters like April and Splinter, in flashbacks. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark and Darker has been removed from Steam following a cease and desist demand]]></title>
-        <id>https://www.eurogamer.net/dark-and-darker-has-been-removed-from-steam-following-a-cease-and-desist-demand</id>
-        <link href="https://www.eurogamer.net/dark-and-darker-has-been-removed-from-steam-following-a-cease-and-desist-demand"/>
-        <updated>2023-03-25T13:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Dark and Darker has been removed from Steam after developer Ironmace received a cease and desist demand from Korean publisher Nexon.
-
-Fans first noticed changes being made to the RPG's Steam store page overnight, when assets like videos and screenshots were quietly removed. Then they realised that online co-op and PvP had stopped working, followed by the complete removal of all traces of the game. Now, if you attempt to load the game's Steam store, it'll take you to Steam's front page.
-
-"To all our fans, we have recently been served a cease and desist letter and DMCA takedown by Nexon regarding Dark and Darker based on distorted claims," Ironmace explained via the community's Discord server (thanks, Reddit). 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try Wales Interactive's upcoming FMV mystery game, The Isle Tide Hotel]]></title>
-        <id>https://www.eurogamer.net/try-wales-interactives-upcoming-fmv-mystery-game-the-isle-tide-hotel</id>
-        <link href="https://www.eurogamer.net/try-wales-interactives-upcoming-fmv-mystery-game-the-isle-tide-hotel"/>
-        <updated>2023-03-25T13:27:19.000Z</updated>
-        <summary type="html"><![CDATA[A playable demo for Wales Interactive's upcoming FMV mystery game, The Isle Tide Hotel, is now available.
-
-Running as part of ID@Xbox's GDC 2023 Online Demo Event, the demo is one of a dozen available between now and 27th March, alongside Xbox demos for Backbeat, BattleCakes, Booom-Slang!, Evil Wizard, Fall of Porcupine, Fractal Space, Soulvars, The Library of Babel, and Wales Interactive's survival FPS and Maid of Sker spin-off, Sker Ritual.
-
-Wales Interactive's The Isle Tide Hotel – a new live-action interactive mystery about an absent father looking to rescue his teenage daughter from an "eclectic cult" – was announced last November.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
