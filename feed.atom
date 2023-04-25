@@ -2,10 +2,176 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T18:25:14.155Z</updated>
+    <updated>2023-04-25T00:31:00.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Updates to the Auto-refreshing Official CVE Feed]]></title>
+        <id>https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/</id>
+        <link href="https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Cailyn Edwards (Shopify), Mahé Tardy (Isovalent), Pushkar Joglekar
+Since launching the Auto-refreshing Official CVE feed as an alpha
+feature in the 1.25 release, we have made significant improvements and updates. We are excited to announce the release of the
+beta version of the feed. This blog post will outline the feedback received, the changes made, and talk about how you can help
+as we prepare to make this a stable feature in a future Kubernetes Release.
+Feedback from end-users
+SIG Security received some feedback from end-users:
+The JSON CVE Feed did not comply
+with the JSON Feed specification as its name would suggest.
+The feed could also support RSS
+in addition to JSON Feed format.
+Some metadata could be added to indicate the freshness of
+the feed overall, or specific CVEs. A…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploit released for 9.8-severity PaperCut flaw already under attack]]></title>
+        <id>https://arstechnica.com/?p=1934068</id>
+        <link href="https://arstechnica.com/?p=1934068"/>
+        <updated>2023-04-24T23:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Code-execution flaw was patched in March but doesn't seem to be widely installed.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Supermajority" of Sega of America workers announce plans to unionise]]></title>
+        <id>https://www.eurogamer.net/supermajority-of-sega-of-america-workers-announce-plans-to-unionise</id>
+        <link href="https://www.eurogamer.net/supermajority-of-sega-of-america-workers-announce-plans-to-unionise"/>
+        <updated>2023-04-24T23:04:05.000Z</updated>
+        <summary type="html"><![CDATA[A "supermajority" of employees at Sega of America have announced plans to unionise, with the aim of securing higher base pay, improved benefits, and a number of other goals.
+
+
+This latest unionisation effort is being organised in conjunction with the Communications Workers of America labour union - which has previously assisted employees at the likes of Activision Blizzard King and ZeniMax Studios - and represents a broad selection of departments and disciplines at Sega's  Irvine, California headquarters.
+
+
+According to Axios, the group - which calls itself the Allied Employees Guild Improving Sega, or AEGIS-CWA for short - consists of 144 employees with roles across marketing, localisation, product development, and quality assurance.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Details emerge about Apple headset’s tethered battery pack]]></title>
+        <id>https://arstechnica.com/?p=1934022</id>
+        <link href="https://arstechnica.com/?p=1934022"/>
+        <updated>2023-04-24T22:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Plus, a new Apple proprietary port for charging.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After demolishing swaths of San Jose, Google puts campus project on hold]]></title>
+        <id>https://arstechnica.com/?p=1933915</id>
+        <link href="https://arstechnica.com/?p=1933915"/>
+        <updated>2023-04-24T21:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Google's cost-cutting comes for its 80-acre "mega campus" in downtown San Jose.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grimes says anyone can AI-generate her voice “without penalty”]]></title>
+        <id>https://arstechnica.com/?p=1933978</id>
+        <link href="https://arstechnica.com/?p=1933978"/>
+        <updated>2023-04-24T20:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Musician vows to split 50% royalties on successful AI-generated songs that use her voice.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple trumpets "resounding victory" in Epic antitrust lawsuit appeal]]></title>
+        <id>https://www.eurogamer.net/apple-trumpets-resounding-victory-in-epic-anti-trust-lawsuit-appeal</id>
+        <link href="https://www.eurogamer.net/apple-trumpets-resounding-victory-in-epic-anti-trust-lawsuit-appeal"/>
+        <updated>2023-04-24T20:22:14.000Z</updated>
+        <summary type="html"><![CDATA[The US Ninth Circuit Court of Appeals has upheld a 2021 ruling on Epic Games' antitrust lawsuit against Apple, which both parties had appealed.
+
+
+Epic launched its lawsuit against the iPhone maker in August 2020, following the company's decision to revoke Epic's Fortnite developer account, blocking the battle royale game from being distributed on its devices. Apple made the move after Epic deliberately circumvented contractually mandated App Store payment mechanisms within its Fortnite iOS app, which would have allowed it to avoid Apple's 30 percent platform fees.
+
+
+The following year, California's Judge Yvonne Gonzalez-Rogers ruled against Epic in nine of its 10 claims, determining the company had failed to prove Apple held a monopoly as defined by antitrust laws. However, Gonzalez-Rogers did side with Epic in one matter, ruling Apple could not block developers linking out to alternative payment methods from within apps - a practice known as "anti-steering" - as that would constitute "anti-competitive conduct" under state law.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s iOS “walled garden” doesn’t break antitrust laws, appeals court affirms [Updated]]]></title>
+        <id>https://arstechnica.com/?p=1933993</id>
+        <link href="https://arstechnica.com/?p=1933993"/>
+        <updated>2023-04-24T19:58:42.000Z</updated>
+        <summary type="html"><![CDATA[But court leaves injunction against "anti-steering" payment language in place.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability AI launches StableLM, an open source ChatGPT alternative]]></title>
+        <id>https://arstechnica.com/?p=1933856</id>
+        <link href="https://arstechnica.com/?p=1933856"/>
+        <updated>2023-04-24T19:20:14.000Z</updated>
+        <summary type="html"><![CDATA[StableLM's 3B and 7B models are available now on GitHub under CC 4.0 license.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter verified fake Disney account, claims dead celebs subscribe to Twitter Blue]]></title>
+        <id>https://arstechnica.com/?p=1933921</id>
+        <link href="https://arstechnica.com/?p=1933921"/>
+        <updated>2023-04-24T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Living celebs want everyone to know they didn't pay Elon for those checkmarks.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Island 2 shifts 1m copies in its first weekend of release]]></title>
+        <id>https://www.eurogamer.net/dead-island-2-shifts-1m-copies-in-its-first-weekend-of-release</id>
+        <link href="https://www.eurogamer.net/dead-island-2-shifts-1m-copies-in-its-first-weekend-of-release"/>
+        <updated>2023-04-24T18:59:34.000Z</updated>
+        <summary type="html"><![CDATA[It might have had a bit of a tumultuous development journey - to put it mildly - but Dead Island 2 is off to a flying start, having successfully shifted over 1m copies in its first three days of release.
+
+
+Dead Island 2 finally launched last Friday, almost nine years after publisher Deep Silver announced it was in development. Since then, it's seen no less than three studios at the helm, but, despite that rocky road to release, its final form - which reached the finish line under the stewardship of Dambuster Studios - has clearly captured the public's imagination.
+
+
+In its press release announcing Dead Island 2's blast through the 1m sales barrier in just 72 hours, Deep Silver shared a selection of other notable stats. Over the course of those three days since launch, for instance, players have racked up 11m hours of play time, and 28m deaths.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry, cable—most of today’s most popular shows are on Netflix]]></title>
+        <id>https://arstechnica.com/?p=1933876</id>
+        <link href="https://arstechnica.com/?p=1933876"/>
+        <updated>2023-04-24T18:51:54.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic streaming biz, Netflix viewership, original shows still dominate.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Pixel Fold is real! First-ever live footage surfaces]]></title>
+        <id>https://arstechnica.com/?p=1933890</id>
+        <link href="https://arstechnica.com/?p=1933890"/>
+        <updated>2023-04-24T17:59:12.000Z</updated>
+        <summary type="html"><![CDATA[After years of rumors, someone finally has live footage of a real device.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Book Review: Red Team Blues]]></title>
         <id>http://blog.cryptographyengineering.com/?p=6955</id>
@@ -10043,81 +10209,6 @@ The conference - self-described as "the game industry's premiere professional ev
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[150.7m of us have clocked up 16.3bn hours in PUBG: Battlegrounds so far]]></title>
-        <id>https://www.eurogamer.net/1507m-of-us-have-clocked-up-163bn-hours-in-pubg-battlegrounds-so-far</id>
-        <link href="https://www.eurogamer.net/1507m-of-us-have-clocked-up-163bn-hours-in-pubg-battlegrounds-so-far"/>
-        <updated>2023-03-26T12:02:57.000Z</updated>
-        <summary type="html"><![CDATA[To mark its sixth anniversary, PUBG: Battlegrounds has dropped a neat little infographic that outlines exactly what we've collectively been doing over the last six years, including news that the free-to-play battle royale has now clocked up over 150.7 million players.
-
-That adds up to a staggering 16.3 billion hours played across PC and consoles by players living in 242 different countries.
-
-"The PUBG community has expanded and changed over the past six years, resulting in priceless memories, thrilling updates, and amazing gameplay experiences - with many more still to come," publisher Krafton said, confirming that the shooter generated 75 million sales before the game went free-to-play.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 new cars are coming to Gran Turismo 7 next week]]></title>
-        <id>https://www.eurogamer.net/5-new-cars-are-coming-to-gran-turismo-7-next-week</id>
-        <link href="https://www.eurogamer.net/5-new-cars-are-coming-to-gran-turismo-7-next-week"/>
-        <updated>2023-03-26T11:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Five new cars are on the way to Gran Turismo 7.
-
-Gran Turismo producer, Kazunori Yamauchi, confirmed they were coming in a cheeky tweet that showed the five vehicles in deep shadow, telling us only that the update was coming "next week", and reminding us that it's "cherry blossom season in Tokyo".
-
-As is usually the case, fans have already forensically examined the teaser image, and reckon it includes the new Mazda 3, and possibly a Panamera Sport Turismo or an Audi RS5 DTM.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your grocery bag might not have been recycled]]></title>
-        <id>https://arstechnica.com/?p=1926872</id>
-        <link href="https://arstechnica.com/?p=1926872"/>
-        <updated>2023-03-26T11:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Laws encourage recycling plastics, but verifying recycled content relies on tricky math.]]></summary>
-        <author>
-            <name>Undark Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Left4Dead3" has reportedly popped up in CS2 files]]></title>
-        <id>https://www.eurogamer.net/left4dead3-has-reportedly-popped-up-in-cs2-files</id>
-        <link href="https://www.eurogamer.net/left4dead3-has-reportedly-popped-up-in-cs2-files"/>
-        <updated>2023-03-26T11:08:05.000Z</updated>
-        <summary type="html"><![CDATA[The term "Left4Dead3" has reportedly popped up in CS2 files.
-
-Dubbed "version 2", the reference secreted in the files states that whilst the severity of Left4Dead3 is "high" – whatever that means – the priority is "none", which comes as no surprise to many of the commenters on Steam's subreddit page.
-
-Whispers of a new Left 4 Dead title have been heard from several sources for several years now. Back in December 2019, Valve News Network's well-connected Tyler McVicker told Twitter followers that "Left 4 Dead VR is real", while in January 2020, Chinese HTC president Alvin Wang Graylin shared slides from a VR presentation making mention of Left 4 Dead 3.
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Sony Santa Monica knocked God of War Ragnarok's big narrative climax into shape]]></title>
-        <id>https://www.eurogamer.net/how-sony-santa-monica-knocked-god-of-war-ragnaroks-big-narrative-climax-into-shape</id>
-        <link href="https://www.eurogamer.net/how-sony-santa-monica-knocked-god-of-war-ragnaroks-big-narrative-climax-into-shape"/>
-        <updated>2023-03-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler warning for God of War Ragnarok's late-game story!
-
-
-With much of the final, climactic level in place and the last few visual effects coming in, the developers at Sony Santa Monica realised they had a bit of a problem: there's a big plot development that happens here, essential to the entire story of God of War Ragnarok - but nobody who played the game would notice it.
-
-
-The moment in question here is Atreus' big realisation, that bringing about Ragnarok is, after all, maybe not the best idea - something he notices when dwarven companion Sindri sets off a kind of magical shockwave, which destroys the Asgardian villains' defences but, also, takes out a good few innocent civilians, too.
- 
-Read more]]></summary>
-        <author>
-            <name>Chris Tapsell</name>
         </author>
     </entry>
 </feed>
