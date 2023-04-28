@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T18:24:52.479Z</updated>
+    <updated>2023-04-28T00:31:11.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: StatefulSet Start Ordinal Simplifies Migration]]></title>
+        <id>https://kubernetes.io/blog/2023/04/28/statefulset-start-ordinal/</id>
+        <link href="https://kubernetes.io/blog/2023/04/28/statefulset-start-ordinal/"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Peter Schuurman (Google)
+Kubernetes v1.26 introduced a new, alpha-level feature for
+StatefulSets that controls
+the ordinal numbering of Pod replicas. As of Kubernetes v1.27, this feature is
+now beta. Ordinals can start from arbitrary
+non-negative numbers. This blog post will discuss how this feature can be
+used.
+Background
+StatefulSets ordinals provide sequential identities for pod replicas. When using
+OrderedReady Pod management
+Pods are created from ordinal index 0 up to N-1.
+With Kubernetes today, orchestrating a StatefulSet migration across clusters is
+challenging. Backup and restore solutions exist, but these require the
+application to be scaled down to zero replicas prior to migration. In today's
+fully connected world, even planned application downtime may not allow you to
+me…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age of Empires 2's Return of Rome DLC revisits a classic series expansion]]></title>
+        <id>https://www.eurogamer.net/age-of-empires-2s-return-of-rome-dlc-revisits-a-classic-series-expansion</id>
+        <link href="https://www.eurogamer.net/age-of-empires-2s-return-of-rome-dlc-revisits-a-classic-series-expansion"/>
+        <updated>2023-04-27T23:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Age of Empires 2: Definitive Edition is readying to reach even further into the series' past with the announcement of its Return of Rome DLC, a "new form" of the original Age of Empires' Rise of Rome expansion that's coming to PC and consoles on 16th May.
+
+
+There's quite a lot going on in Rise of Rome - which purchasers will need to switch to from the main screen in order to access its new stuff - but the most notable addition for series fans is arguably the return of all 16 civilisations from the original Age of Empires and Rise of Rome.
+
+
+That means the Assyrians, Babylonians, Carthaginians, Choson, Egyptians, Greeks, Hittites, Macedonians, Minoans, Palmyrans, Persians, Phoenicians, Romans, Shang, Sumerians, and Yamato will all be playable in Rise of Rome, with the Romans being unique in that they'll also be available to play in Age of Empires 2: Definitive Edition's base game.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebOps platform Pantheon defends hosting “hate groups” as developers quit]]></title>
+        <id>https://arstechnica.com/?p=1935089</id>
+        <link href="https://arstechnica.com/?p=1935089"/>
+        <updated>2023-04-27T22:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Developers quit Pantheon over its stance on hosting SPLC-designated hate groups.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raw milk from farm with no electricity sparks outbreak that nearly killed baby]]></title>
+        <id>https://arstechnica.com/?p=1935091</id>
+        <link href="https://arstechnica.com/?p=1935091"/>
+        <updated>2023-04-27T22:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Raw milk is dangerous for everyone, but especially younger children.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redfall accessibility options and PC requirements detailed]]></title>
+        <id>https://www.eurogamer.net/redfall-accessibility-options-and-pc-requirements-detailed</id>
+        <link href="https://www.eurogamer.net/redfall-accessibility-options-and-pc-requirements-detailed"/>
+        <updated>2023-04-27T21:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Arkane's co-op vampire shooter Redfall is just a week away now, and as the clock ticks down to release, Microsoft has shared a bunch of new info, including a new trailer, details on its accessibility options, and its PC system requirements - the latter being particularly intriguing in light of the recently announced 30fps limit on consoles.
+
+
+Starting with Redfall's accessibility options, these have now been shared as part of a full "settings" breakdown over on Arkane's blog. Accessbility options, specifically, include the likes of text-to-speech and speech-to-text support, screen narration, subtitles and closed captioning, font scaling, a colour blindness filter, notification duration settings, and an optional "accessibility reticule" for anyone that would benefit from a permanent fixation point on-screen.
+
+
+Arkane has also provided an extensive list of more general settings, highlighting things like toggleable head bob and camera shake, optional object highlights, and four difficulty settings - three of which are available when first starting the game. It's well worth checking out the full article for the considerably more expanded breakdown.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge slams Tesla for claiming Musk quotes captured on video may be deepfakes]]></title>
+        <id>https://arstechnica.com/?p=1935023</id>
+        <link href="https://arstechnica.com/?p=1935023"/>
+        <updated>2023-04-27T19:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Court will likely require Musk deposition in Tesla Autopilot wrongful death case.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gotham Knights' latest patch adds a tough new 15-floor Heroic Assault raid]]></title>
+        <id>https://www.eurogamer.net/gotham-knights-latest-patch-adds-a-tough-new-15-floor-heroic-assault-raid</id>
+        <link href="https://www.eurogamer.net/gotham-knights-latest-patch-adds-a-tough-new-15-floor-heroic-assault-raid"/>
+        <updated>2023-04-27T19:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Warner Bros' co-op action-adventure Gotham Knights has just received another update, this one bringing fixes, accessibility improvements, and a surprise new 15-floor Heroic Assault raid.
+
+
+Gotham Knights, of course, recieved a lukewarm reception when it launched last October, with particularly stern words being saved for its myriad technical issues. Since then, developer Warner Bros Montreal has been tinkering under the hood to improve the experience - with notable success, as Digital Foundry noted recently - making today's update the latest in a long line of patches.
+
+
+With most of the game's glaring technical issues seemingly now resolved, its latest update - which notably features accessibility improvements such as controller remapping, improved screen-reader support, and button press toggles, as detailed in the accompanying patch notes - is less about fixes and more about new content.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive West Nile Virus outbreak in Arizona shattered records, killed 101]]></title>
+        <id>https://arstechnica.com/?p=1935003</id>
+        <link href="https://arstechnica.com/?p=1935003"/>
+        <updated>2023-04-27T18:26:46.000Z</updated>
+        <summary type="html"><![CDATA[The cause is unclear, but climate change and the pandemic likely played roles.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists sequenced the genome of Balto, famous sled dog of 1925 “Serum Run”]]></title>
+        <id>https://arstechnica.com/?p=1934238</id>
+        <link href="https://arstechnica.com/?p=1934238"/>
+        <updated>2023-04-27T18:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Balto was just part Siberian husky and, contrary to popular legend, not part wolf.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twisted Metal live-action TV series gets a July air date in the US]]></title>
         <id>https://www.eurogamer.net/twisted-metal-live-action-tv-series-gets-a-july-air-date-in-the-us</id>
@@ -22,6 +151,16 @@ Sony first touted turning Twisted Metal into a television show back in 2019, but
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung makes its stunning 95 percent profit drop official for Q1 2023]]></title>
+        <id>https://arstechnica.com/?p=1934941</id>
+        <link href="https://arstechnica.com/?p=1934941"/>
+        <updated>2023-04-27T17:36:20.000Z</updated>
+        <summary type="html"><![CDATA[A glut of memory chips leaves Samsung with its lowest profits since 2009.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
         </author>
     </entry>
     <entry>
@@ -10707,119 +10846,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Transmission is now a big tension point for clean energy developers across the US.]]></summary>
         <author>
             <name>Inside Climate News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloober Team responds to Silent Hill 2 remake release rumours]]></title>
-        <id>https://www.eurogamer.net/bloober-team-responds-to-silent-hill-2-remake-release-rumours</id>
-        <link href="https://www.eurogamer.net/bloober-team-responds-to-silent-hill-2-remake-release-rumours"/>
-        <updated>2023-03-29T11:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Silent Hill 2 remake developer Bloober Team has issued a statement responding to rumours around the game's release date.
-
-
-Last week, Bloober Team president Pitor Babieno spoke with Polish site Bankier.pl, which reported the game was "technically ready".
-
-
-Bloober has now stated this was mistranslated and taken out of context, before clarifying it has not yet announced a release date.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Security Vulnerabilities of Message Interoperability]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/03/the-security-vulnerabilities-of-message-interoperability.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/03/the-security-vulnerabilities-of-message-interoperability.html"/>
-        <updated>2023-03-29T11:03:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>Jenny Blessing and Ross Anderson have <a href="https://www.lightbluetouchpaper.org/2023/03/24/interop-one-protocol-to-rule-them-all/">evaluated</a> the security of systems designed to allow the various Internet messaging platforms to interoperate with each other:</p>
-<blockquote><p>The Digital Markets Act ruled that users on different platforms should be able to exchange messages with each other. This opens up a real Pandora’s box. How will the networks manage keys, authenticate users, and moderate content? How much metadata will have to be shared, and how?</p>
-<p>In our latest paper, <a href="https://arxiv.org/abs/2303.14178">One Protocol to Rule Them All? On Securing Interoperable Messaging</a>, we explore the security tensions, the conflicts of interest, the usability traps, and the likely consequences for individual and institutional behaviour...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With Amazon Alexa’s future in peril, Fire TVs offer a glimmer of hope]]></title>
-        <id>https://arstechnica.com/?p=1926832</id>
-        <link href="https://arstechnica.com/?p=1926832"/>
-        <updated>2023-03-29T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Fire TV devices encourage the kind of Alexa interactions that actually make money.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil 4 Remake has already sold over 3m copies]]></title>
-        <id>https://www.eurogamer.net/resident-evil-4-remake-has-already-sold-over-3m-copies</id>
-        <link href="https://www.eurogamer.net/resident-evil-4-remake-has-already-sold-over-3m-copies"/>
-        <updated>2023-03-29T10:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Capcom has announced its Resident Evil 4 Remake has already sold over 3m copies in its first two days after release.
-
-
-It said the title was "off to a solid start".
-
-
-Sales are an improvement over other recent releases in the series, with Resident Evil Village and Resident Evil 2 Remake both selling over 3m units in their initial four days of release.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan approves Microsoft's Activision Blizzard takeover]]></title>
-        <id>https://www.eurogamer.net/japan-approves-microsofts-activision-blizzard-takeover</id>
-        <link href="https://www.eurogamer.net/japan-approves-microsofts-activision-blizzard-takeover"/>
-        <updated>2023-03-29T10:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Japan's JFTC has approved Microsoft's proposed $69bn takeover of Activision Blizzard.
-
-
-In a press release on its website, the JFTC "reviewed the transaction and reached the conclusion that the transaction is unlikely to result in substantially restraining competition in any particular fields of trade. Accordingly, the JFTC has notified the Parties that the JFTC will not issue a cease and desist order, resulting in the completion of its review."
-
-
-
-Japan joins the likes of Brazil and Saudi Arabia to approve the merger, while the deal remains under review across the world.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Activision CEO Bobby Kotick responds to "disappointing" Sony behaviour]]></title>
-        <id>https://www.eurogamer.net/activision-ceo-bobby-kotick-responds-to-disappointing-sony-behaviour</id>
-        <link href="https://www.eurogamer.net/activision-ceo-bobby-kotick-responds-to-disappointing-sony-behaviour"/>
-        <updated>2023-03-29T09:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Activision Blizzard CEO Bobby Kotick has sent an email to staff stating Sony's behaviour is "disappointing" but won't affect the long term relationship between the two companies.
-
-
-In a bid to prevent Microsoft's proposed $69bn takeover of Activision Blizzard, Sony has claimed the deal would be anti-competitive and even stated Microsoft could release a deliberately buggy version of Call of Duty on PlayStation.
-
-
-Kotick directly addresses these statements in his email.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a look at Jun Kazama gameplay from Tekken 8]]></title>
-        <id>https://www.eurogamer.net/heres-a-look-at-jun-kazama-gameplay-from-tekken-8</id>
-        <link href="https://www.eurogamer.net/heres-a-look-at-jun-kazama-gameplay-from-tekken-8"/>
-        <updated>2023-03-29T09:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Bandai Namco has shown off Jun Kazama gameplay from Tekken 8.
-
-
-This is a big moment for Tekken fans: Jun made her debut in 1995's Tekken 2 and hasn't been a playable character in the mainline Tekken series since. 28 years later, she's back and it looks like she hasn't aged a day. Tekken time logic!
-
-
-The footage kicks off with Jun fighting her own son, Jin, but the highlight is Jun's long-awaited encounter with Jin's dad, Kazuya Mishima. It's all a bit Jerry Springer.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
         </author>
     </entry>
 </feed>
