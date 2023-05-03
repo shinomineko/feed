@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/05/solarwinds-detected-six-months-earlier.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.wired.com/story/solarwinds-hack-public-disclosure/\">New reporting</a> from Wired reveals that the Department of Justice detected the SolarWinds attack six months before Mandient detected it in December 2020, but didn&#8217;t realize what they detected&#8212;and so ignored it.</p>\n<blockquote><p>WIRED can now confirm that the operation was actually discovered by the DOJ six months earlier, in late May 2020­but the scale and significance of the breach wasn&#8217;t immediately apparent. Suspicions were triggered when the department detected unusual traffic emanating from one of its servers that was running a trial version of the Orion software suite made by SolarWinds, according to sources familiar with the incident. The software, used by system administrators to manage and configure networks, was communicating externally with an unfamiliar system on the internet. The DOJ asked the security firm Mandiant to help determine whether the server had been hacked. It also engaged Microsoft, though it’s not clear why the software maker was also brought onto the investigation...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/solarwinds-detected-six-months-earlier.html",
+          "publishedOn": "2023-05-03T10:13:58.000Z",
+          "wordCount": 1071,
+          "title": "SolarWinds Detected Six Months Earlier",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/05/nist-draft-document-on-post-quantum-cryptography-guidance.html",
           "author": null,
           "description": "<p>NIST has release a <a href=\"https://csrc.nist.gov/publications/detail/sp/1800-38/draft\">draft</a> of Special Publication1800-38A: <a href=\"https://www.nccoe.nist.gov/sites/default/files/2023-04/pqc-migration-nist-sp-1800-38a-preliminary-draft.pdf\">Migration to Post-Quantum Cryptography: Preparation for Considering the Implementation and Adoption of Quantum Safe Cryptography</a>.&#8221; It&#8217;s only four pages long, and it doesn&#8217;t have a lot of detail&#8212;more &#8220;volumes&#8221; are coming, with more information&#8212;but it&#8217;s well worth reading.</p>\n<p>We are going to need to migrate to <a href=\"https://csrc.nist.gov/projects/post-quantum-cryptography\">quantum-resistant public-key algorithms</a>, and the sooner we implement key agility the easier it will be to do so.</p>\n<p>News <a href=\"https://www.nextgov.com/technology-news/2023/04/nist-releases-draft-post-quantum-encryption-document/385580/\">article</a>.</p>",
@@ -411,6 +421,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1928262",
+          "author": "Kevin Purdy",
+          "description": "A comfy keyboard, weird trackpad, blah webcam, and notably mature Linux desktop.",
+          "link": "https://arstechnica.com/?p=1928262",
+          "publishedOn": "2023-05-03T11:00:52.000Z",
+          "wordCount": 2233,
+          "title": "I used System76’s Pangolin for weeks, and Linux was not the biggest problem",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/pangolin_front-copy-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1936159",
           "author": "Beth Mole",
@@ -3960,96 +3980,6 @@
           "wordCount": 1746,
           "title": "Virgin Orbit formally enters bankruptcy, seeking a buyer",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/Virgin-Orbit-42-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928561",
-          "author": "Eric Berger",
-          "description": "\"Artemis II is more than a mission to the Moon and back.\"",
-          "link": "https://arstechnica.com/?p=1928561",
-          "publishedOn": "2023-04-03T22:21:10.000Z",
-          "wordCount": 2190,
-          "title": "All of a sudden, NASA’s return to the Moon feels rather real",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/artemis-2crew-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928824",
-          "author": "Beth Mole",
-          "description": "FDA found brown slime, lack of sterility checks at Global Pharma's facility.",
-          "link": "https://arstechnica.com/?p=1928824",
-          "publishedOn": "2023-04-03T21:43:28.000Z",
-          "wordCount": 1991,
-          "title": "Maker of eye drops linked to deadly outbreak flunks FDA inspection",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-89163099-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928803",
-          "author": "Jon Brodkin",
-          "description": "Judge rules Fox statements false; jury will decide on \"actual malice\" and damages.",
-          "link": "https://arstechnica.com/?p=1928803",
-          "publishedOn": "2023-04-03T21:07:05.000Z",
-          "wordCount": 1881,
-          "title": "Judge slams Fox News for false election claims as Dominion wins key ruling",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-fox-protest-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928764",
-          "author": "John Timmer",
-          "description": "The quarks that give it charge aren't hanging out with the gluons that provide mass.",
-          "link": "https://arstechnica.com/?p=1928764",
-          "publishedOn": "2023-04-03T20:30:42.000Z",
-          "wordCount": 2336,
-          "title": "Proton’s mass radius is apparently shorter than its charge radius",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Jefferson-Lab-Aerial-Photo-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928670",
-          "author": "Corey Gaskin",
-          "description": "The Macs are matching their lowest tracked prices, as are the latest Kindles.",
-          "link": "https://arstechnica.com/?p=1928670",
-          "publishedOn": "2023-04-03T20:01:51.000Z",
-          "wordCount": 2026,
-          "title": "Today’s best deals: Apple MacBook Air, Apple Watch, Mac mini, Amazon Kindle",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/IMG_0531-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928628",
-          "author": "Ron Amadeo",
-          "description": "Google dives into the competitive world of Windows + Android file sharing.",
-          "link": "https://arstechnica.com/?p=1928628",
-          "publishedOn": "2023-04-03T19:42:44.000Z",
-          "wordCount": 1980,
-          "title": "Google brings “Nearby Share” to Windows, making it easy to transfer files",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/8-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928711",
-          "author": "Dan Goodin",
-          "description": "The compromise allowed hackers to steal data, raising the specter of ransomware.",
-          "link": "https://arstechnica.com/?p=1928711",
-          "publishedOn": "2023-04-03T19:07:14.000Z",
-          "wordCount": 1838,
-          "title": "Users fume after My Cloud network breach locks them out of their data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/my-cloud-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928647",
-          "author": "Jennifer Ouellette",
-          "description": "\"The universe has sent you a gift. You have to figure out what you're gonna do with it.\"",
-          "link": "https://arstechnica.com/?p=1928647",
-          "publishedOn": "2023-04-03T18:55:35.000Z",
-          "wordCount": 2025,
-          "title": "Blue Beetle trailer promises a classic superhero origin story",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/bluebeetle1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1928660",
-          "author": "Kevin Purdy",
-          "description": "An app-based version of a giveaway contest was a rich target for mathematics.",
-          "link": "https://arstechnica.com/?p=1928660",
-          "publishedOn": "2023-04-03T18:44:00.000Z",
-          "wordCount": 2087,
-          "title": "Canadian statistics professor games Tim Hortons contest for 80-98% win rates",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1240891947-760x380.jpg"
         }
       ]
     },
@@ -4215,6 +4145,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/elden-ring-mod-to-include-bloodborne-inspired-boss",
+          "author": "Ed Nightingale",
+          "description": "Modding community The Garden of Eyes has revealed the first original boss it will add to Elden Ring in a forthcoming mod.\r\n\n\r\nThe Garden of Eyes Overhaul Mod is still in development, but will add unique weapons, armours, spells, and new mechanics in what is dubbed a \"fan-made DLC\".\r\n\n\r\nThe group's latest video is a showcase of new boss Oedon the Primeval Current, which combines the best of Elden Ring with Bloodborne.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/elden-ring-mod-to-include-bloodborne-inspired-boss",
+          "publishedOn": "2023-05-03T11:20:25.000Z",
+          "wordCount": 6004,
+          "title": "Elden Ring mod to include Bloodborne-inspired boss",
+          "imageUrl": "https://assetsio.reedpopcdn.com/2022-best-games-Elden-Ring.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/warhammer-40000-chaos-gate-daemonhunters-and-windjammers-2-headline-mays-latest-humble-bundle",
+          "author": "Victoria Kennedy",
+          "description": "Those bundle building rascals at Humble are at it again. This month, the team is offering XCOM-style strategy game Warhammer 40,000: Chaos Gate - Daemonhunters and Windjammers 2 as part of May's Humble Choice bundle.\r\n\n\r\nHumble Choice is Humble Bundle's take on PC gaming memberships. Every month, Humble Bundle's game scouts choose a selection of PC games for their members, all of which they can own forever.\r\n\n\r\nIn addition to the already mentioned games above, this month's Choice bundle also includes Spiritfarer: Farewell Edition, Bendy and the Dark Revival, Operation Tango, Builder Simulator, Behind the Frame and The Invisible Hand.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/warhammer-40000-chaos-gate-daemonhunters-and-windjammers-2-headline-mays-latest-humble-bundle",
+          "publishedOn": "2023-05-03T10:32:19.000Z",
+          "wordCount": 5686,
+          "title": "Warhammer 40,000: Chaos Gate - Daemonhunters and Windjammers 2 headline May's latest Humble Bundle",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Warhammer-40000-Chaos-Gate-Daemonhunters-10.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/atomic-heart-getting-dlc-this-summer",
+          "author": "Ed Nightingale",
+          "description": "Soviet fantasy Atomic Heart is set to receive its first piece of DLC this summer.\r\n\n\r\nA new teaser trailer has been released, which hints at some of the undiscovered locations yet to be explored in Facility 3826.\r\n\n\r\nIt's only 20 seconds long, but begins underwater (how very Bioshock!) before revealing some squiggly pathways in the sky. You can check it out below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/atomic-heart-getting-dlc-this-summer",
+          "publishedOn": "2023-05-03T09:56:54.000Z",
+          "wordCount": 5456,
+          "title": "Atomic Heart getting DLC this summer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Atomic-Heart-review-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/weird-west-definitive-edition-lassos-its-way-onto-pc-ps5-xbox-series-xs-next-week",
+          "author": "Victoria Kennedy",
+          "description": "A little over a year since it made its debut on PC, PlayStation 4 and Xbox One, WolfEye Studios' cowboy-themed action-RPG Weird West will be coming to current gen consoles. \r\n\n\r\nOn 8th May - so, this Monday - the game's Definitive Edition will launch on PS5 and Xbox Series X/S (where it will also available on Game Pass). Along with these consoles, Weird West's definitive edition will also be available for PC. \r\n\n\r\nWhile details on this upcoming edition are still rather scant, it does promise 4K resolution and 60fps. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/weird-west-definitive-edition-lassos-its-way-onto-pc-ps5-xbox-series-xs-next-week",
+          "publishedOn": "2023-05-03T09:50:04.000Z",
+          "wordCount": 5654,
+          "title": "Weird West: Definitive Edition lassos its way onto PC, PS5, Xbox Series X/S next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/weird-west-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/saints-rows-the-heist-and-the-hazardous-paid-story-dlc-out-next-week",
           "author": "Matt Wales",
@@ -7941,16 +7911,6 @@
           "wordCount": 1725,
           "title": "What’s new with GitHub Sponsors",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/04/229850565-b9666ee2-5b4f-4c9f-89d7-7322764c9e69.png"
-        },
-        {
-          "id": "https://github.blog/?p=71053",
-          "author": "Jim Boyle",
-          "description": "A high-quality audit log is an essential tool for enterprises to ensure compliance, maintain security, investigate issues, and promote accountability.",
-          "link": "https://github.blog/2023-04-03-level-up-monitoring-and-reporting-for-your-enterprise/",
-          "publishedOn": "2023-04-03T19:00:21.000Z",
-          "wordCount": 2209,
-          "title": "Level up monitoring and reporting for your enterprise",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/12/GitHub-security_teal-banner.png"
         }
       ]
     },
