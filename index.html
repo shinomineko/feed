@@ -83,11 +83,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-04 datetime="2023-05-03T22:07:42.000Z">2023-05-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-04 datetime="2023-05-03T22:07:42.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-04 datetime="2023-05-04T00:00:00.000Z">2023-05-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-04 datetime="2023-05-04T00:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/05/04/kubernetes-1-27-statefulset-pvc-auto-deletion-beta/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.27: StatefulSet PVC Auto-Deletion (beta)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/05/04/kubernetes-1-27-statefulset-pvc-auto-deletion-beta/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Matthew Cary (Google)
+Kubernetes v1.27 graduated to beta a new policy mechanism for
+StatefulSets that controls the lifetime of
+their PersistentVolumeClaims (PVCs). The new PVC
+retention policy lets users specify if the PVCs generated from the StatefulSet spec template should
+be automatically deleted or retrained when the StatefulSet is deleted or replicas in the StatefulSet
+are scaled down.
+What problem does this solve?
+A StatefulSet spec can include Pod and PVC templates. When a replica is first created, the
+Kubernetes control plane creates a PVC for that replica if one does not already exist. The behavior
+before the PVC retention policy was that the control plane never cleaned up the PVCs created for
+StatefulSets - this was left up to the cluster administrator, or to some add-on …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -1430,6 +1474,40 @@ Read more</span>
                               <span>New reporting from Wired reveals that the Department of Justice detected the SolarWinds attack six months before Mandient detected it in December 2020, but didn’t realize what they detected—and so ignored it.
 WIRED can now confirm that the operation was actually discovered by the DOJ six months earlier, in late May 2020­but the scale and significance of the breach wasn’t immediately apparent. Suspicions were triggered when the department detected unusual traffic emanating from one of its servers that was running a trial version of the Orion software suite made by SolarWinds, according to sources familiar with the incident. The software, used by system administrators to manage and configure networks, was communicating externally with an unfamiliar system on the internet. The DOJ asked the security firm Mandiant to help determine whether the server had been hacked. It also engaged Microsoft, though it’s not clear why the software maker was also brought onto the investigation...</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >xkcd.com</button>
+                  <a class="source-heading__link" href="https://xkcd.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://xkcd.com/2771/"
+                        open
+                      >
+                        <summary class="article-expander__title">College Knowledge</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xkcd.com/2771/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://imgs.xkcd.com/comics/college_knowledge_2x.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>No content preview</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -20318,26 +20396,6 @@ At the time this was written, just over half of all Go patch releas…</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928976"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928976">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/surface-dock-tb4-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Does this mean the Surface Connect port is going away?</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -20780,373 +20838,10 @@ But earlier today, multiple domains associated with Genesis had their homepages 
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-04 datetime="2023-04-04T16:51:48.000Z">2023-04-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-04 datetime="2023-04-04T16:51:48.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Ars Technica - All content</button>
-                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928985"
-                        open
-                      >
-                        <summary class="article-expander__title">Tesla worker who rejected $15M award in racism case has payout cut to $3M</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928985">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-tesla-factory-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>One jury awarded Owen Diaz $137 million—new jury says $3.2 million is enough.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928856"
-                        open
-                      >
-                        <summary class="article-expander__title">After disrupting businesses, Google Drive’s secret file cap is dead for now</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928856">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/google-workspace-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The reaction to Google Drive&#x27;s secret 5 million file limit makes Google hit &quot;undo.&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928962"
-                        open
-                      >
-                        <summary class="article-expander__title">Nintendo promises unlimited repairs for “drifting” Joy-Cons throughout Europe</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928962">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/01/DSC01634-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>But consumer group says it&#x27;s just a &quot;short-term fix&quot; for a solvable hardware &quot;bug.&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928954"
-                        open
-                      >
-                        <summary class="article-expander__title">Report: Spring COVID booster to be authorized for high-risk people in US</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928954">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1245318243-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The move will put US in line with Canada, the UK, and WHO recommendations.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928901"
-                        open
-                      >
-                        <summary class="article-expander__title">VW and Redwood want to recycle your old laptop and cell phone batteries</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928901">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/IMG_3661-2-178-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Volkswagen dealerships will put out collection bins for old consumer batteries.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928916"
-                        open
-                      >
-                        <summary class="article-expander__title">In the war on bacteria, it’s time to call in the phages</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928916">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/phages-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Regulators have to figure out how to get them on the market.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1928887"
-                        open
-                      >
-                        <summary class="article-expander__title">Virgin Orbit formally enters bankruptcy, seeking a buyer</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1928887">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/10/Virgin-Orbit-42-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Branson further cements his position as a &quot;senior&quot; creditor.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >The GitHub Blog</button>
-                  <a class="source-heading__link" href="https://github.blog/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://github.blog/?p&#x3D;71068"
-                        open
-                      >
-                        <summary class="article-expander__title">What’s new with GitHub Sponsors</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.blog/2023-04-04-whats-new-with-github-sponsors/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://github.blog/wp-content/uploads/2023/04/229850565-b9666ee2-5b4f-4c9f-89d7-7322764c9e69.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>GitHub Sponsors is now generally available for organizations. Also, new tooling for bulk sponsorships and an update on how we’re ensuring sustainability for GitHub Sponsors.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Eurogamer.net News Feed</button>
-                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/xbox-unveils-sustainable-remix-special-edition-wireless-controller"
-                        open
-                      >
-                        <summary class="article-expander__title">Xbox unveils &#x27;sustainable&#x27; Remix Special Edition wireless controller</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/xbox-unveils-sustainable-remix-special-edition-wireless-controller">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Remix-Front-Back-2935d327514f62f55126.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Microsoft&#x27;s perpetually expanding line-up of wireless Xbox controllers continues to flourish with a new &#x27;sustainable&#x27; variant released to coincide with this year&#x27;s impending Earth Day.
-
-
-The new Xbox Wireless Controller – Remix Special Edition, as it&#x27;s known, takes some design inspiration from nature, sporting a two-tone green facade - apparently drawing on lichen found in the Pacific Northwest Forest - as well as earthy grips finished with a topographic pattern. It also incorporates a blue underside, presumably representing the sky, or the sea, or a blueberry.
-
-
-As for the sustainability bit, one third of the controller is made from a mix of reclaimed materials (including plastic jugs and CDs) and regrind - regrind, in this instance, being a process that mechanically recycles leftover Xbox One controller parts into a raw material that can be used to partially create new controllers, Microsoft explains.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/monster-energy-targets-indie-game-in-latest-trademark-lawsuit"
-                        open
-                      >
-                        <summary class="article-expander__title">Monster Energy targets indie game in latest trademark lawsuit</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/monster-energy-targets-indie-game-in-latest-trademark-lawsuit">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Untitled-1_sM2sohv.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Energy drink maker Monster has another video game trademark victim in its sights - this time, indie game Dark Deception: Monsters &amp; Mortals. 
-
-
-According to the game&#x27;s developer Glowstick Entertainment, Monster has lodged a legal complaint that takes exception to Dark Deception: Monsters &amp; Mortals including the word &quot;Monsters&quot; in its title. 
-
-
-Glowstick founder Vincent Livings has chosen to make the situation public via a thread on Twitter (as spotted by TheGamer), and pledged to fight Monster&#x27;s claim in court.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/steam-deck-compatibility-not-a-priority-for-the-last-of-us-part-1"
-                        open
-                      >
-                        <summary class="article-expander__title">Steam Deck compatibility not a priority for The Last of Us Part 1</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/steam-deck-compatibility-not-a-priority-for-the-last-of-us-part-1">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/TLOU-PERF-SITE_hhscwqN.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>With another patch expected today for The Last of Us Part 1 on PC, Naughty Dog has said it is focusing on improving the performance of the game before considering submitting it for Valve&#x27;s Steam Deck Compatibility Review.
-
-
-Today&#x27;s patch will address camera movement and game crashes amongst other fixes. Another patch has been confirmed for Friday by Naughty Dog, which will share details of what the patch contains before it&#x27;s rolled out. 
-
-
-The Last of Us Part 1&#x27;s PC port has not been well-received, with the game gaining largely negative reviews on Steam at launch.  Naughty Dog responded to the criticism by promising to address issues in patches.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/microsoft-announces-april-xbox-game-pass-games"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft announces April Xbox Game Pass games</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/microsoft-announces-april-xbox-game-pass-games">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Xbox-Game-Pass-April-Wave-1-4-0559d4f01076cf2ed74d.webp?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Microsoft has announced its next wave of Xbox Game Pass games, this time for the beginning of April.
-
-
-Arriving today, we have Loop Hero, which is available across console and PC. Our Christian Donlan was rather taken with Loop Hero on its release, awarding it a Recommended badge. You can see a little trailer for it below.
-
-
-Following this, we then have Iron Brigade arriving on 6th April across cloud and console. Then, on 12th April, Ghostwire: Tokyo will join the service via cloud, console and PC.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Schneier on Security</button>
-                  <a class="source-heading__link" href="https://www.schneier.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.schneier.com/blog/archives/2023/04/north-korea-hacking-cryptocurrency-sites-with-3cx-exploit.html"
-                        open
-                      >
-                        <summary class="article-expander__title">North Korea Hacking Cryptocurrency Sites with 3CX Exploit</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.schneier.com/blog/archives/2023/04/north-korea-hacking-cryptocurrency-sites-with-3cx-exploit.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>News:
-Researchers at Russian cybersecurity firm Kaspersky today revealed that they identified a small number of cryptocurrency-focused firms as at least some of the victims of the 3CX software supply-chain attack that’s unfolded over the past week. Kaspersky declined to name any of those victim companies, but it notes that they’re based in “western Asia.”
-Security firms CrowdStrike and SentinelOne last week pinned the operation on North Korean hackers, who compromised 3CX installer software that’s used by 600,000 organizations worldwide, according to the vendor. Despite the potentially massive breadth of that attack, which SentinelOne dubbed “Smooth Operator,” Kaspersky has now found that the hackers combed through the victims infected with its corrupted software to ultimately target fewer than 10 machines­—at least as far as Kaspersky could observe so far—­and that they seemed to be focusing on cryptocurrency firms with “surgical precision.”...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/4877834458">
-        <time id="build-timestamp" datetime="2023-05-04T00:30:58.960Z">2023-05-04T00:30:58.960Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/4879741702">
+        <time id="build-timestamp" datetime="2023-05-04T06:25:17.187Z">2023-05-04T06:25:17.187Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
