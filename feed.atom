@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T18:24:50.279Z</updated>
+    <updated>2023-05-05T00:30:45.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: Quality-of-Service for Memory Resources (alpha)]]></title>
+        <id>https://kubernetes.io/blog/2023/05/05/qos-memory-resources/</id>
+        <link href="https://kubernetes.io/blog/2023/05/05/qos-memory-resources/"/>
+        <updated>2023-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Dixita Narang (Google)
+Kubernetes v1.27, released in April 2023, introduced changes to
+Memory QoS (alpha) to improve memory management capabilites in Linux nodes.
+Support for Memory QoS was initially added in Kubernetes v1.22, and later some
+limitations
+around the formula for calculating memory.high were identified. These limitations are
+addressed in Kubernetes v1.27.
+Background
+Kubernetes allows you to optionally specify how much of each resources a container needs
+in the Pod specification. The most common resources to specify are CPU and Memory.
+For example, a Pod manifest that defines container resource requirements could look like:
+apiVersion: v1
+kind: Pod
+metadata:
+name: example
+spec:
+containers:
+- name: nginx
+resources:
+requests:
+memory: "64Mi"
+cpu: "250m"
+limits:
+memory: "6…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a world first, RSV vaccines wins FDA approval for adults 60 and up]]></title>
+        <id>https://arstechnica.com/?p=1936993</id>
+        <link href="https://arstechnica.com/?p=1936993"/>
+        <updated>2023-05-04T22:42:56.000Z</updated>
+        <summary type="html"><![CDATA[It's an achievement decades in the making, and more vaccines are in the pipeline.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Alexa flounders, Amazon hopes homegrown generative AI can find it revenue]]></title>
+        <id>https://arstechnica.com/?p=1936871</id>
+        <link href="https://arstechnica.com/?p=1936871"/>
+        <updated>2023-05-04T22:22:19.000Z</updated>
+        <summary type="html"><![CDATA[With voice assistants on the brink of death, Amazon targets Alexa large language model.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luke’s Awakening fan art merges Star Wars with Zelda to delightful 8-bit effect]]></title>
+        <id>https://arstechnica.com/?p=1936707</id>
+        <link href="https://arstechnica.com/?p=1936707"/>
+        <updated>2023-05-04T21:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Game Boy Color pixel art mashes up Star Wars and Zelda into a faux game we wish was real.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Q2 earnings are down, as everything but iPhones is harder to sell]]></title>
+        <id>https://arstechnica.com/?p=1936882</id>
+        <link href="https://arstechnica.com/?p=1936882"/>
+        <updated>2023-05-04T21:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Nothing compares to those sweet Apple Silicon-powered quarters of yore.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea of Thieves' second ARG-like Mystery is a hunt for a valuable real-world prize]]></title>
+        <id>https://www.eurogamer.net/sea-of-thieves-second-arg-like-mystery-is-a-hunt-for-a-valuable-real-world-prize</id>
+        <link href="https://www.eurogamer.net/sea-of-thieves-second-arg-like-mystery-is-a-hunt-for-a-valuable-real-world-prize"/>
+        <updated>2023-05-04T20:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Sea of Thieves is preparing to send bamboozle-proof buccaneers off on another ARG-like adventure, with the multiplayer pirate game's second Mystery, The Hoarder's Hunt, now confirmed to launch next Thursday, 11th May.
+
+
+Sea of Thieves' first Mystery, which ran from May to September last year, was a lovely idea in principle, weaving a web of devious clues - both in and out of the game - that would eventually reveal the culprit behind the murder of prominent character DeMarco Singh.
+
+
+It certainly had its moments - the magical in-game lantern given to players at the start of the Mystery, revealing clues wherever its light shone in the world, was a lovely bit of clue-hunting paraphernalia - but, unfortunately, the whole thing just ended up lurching awkwardly to its less-than-stellar conclusion, hindered by a clumsy, immersion-shattering insistence on gating progress behind social media engagement targets.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google makes the Pixel Fold official]]></title>
+        <id>https://arstechnica.com/?p=1936858</id>
+        <link href="https://arstechnica.com/?p=1936858"/>
+        <updated>2023-05-04T19:53:52.000Z</updated>
+        <summary type="html"><![CDATA[After years of delays, Google's foldable is finally confirmed.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs]]></title>
+        <id>https://arstechnica.com/?p=1936849</id>
+        <link href="https://arstechnica.com/?p=1936849"/>
+        <updated>2023-05-04T19:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundar Pichai compared to Lord Farquaad as employees share memes about CEO pay.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snoop Dogg on AI risk: “Sh–, what the f—?”]]></title>
+        <id>https://arstechnica.com/?p=1936767</id>
+        <link href="https://arstechnica.com/?p=1936767"/>
+        <updated>2023-05-04T19:30:47.000Z</updated>
+        <summary type="html"><![CDATA[The music legend expressed his concerns during a Milken Institute panel with Larry Jackson.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tabletop-inspired RPG sequel For the King 2 getting a closed beta next week]]></title>
+        <id>https://www.eurogamer.net/tabletop-inspired-rpg-sequel-for-the-king-2-getting-a-closed-beta-next-week</id>
+        <link href="https://www.eurogamer.net/tabletop-inspired-rpg-sequel-for-the-king-2-getting-a-closed-beta-next-week"/>
+        <updated>2023-05-04T19:01:01.000Z</updated>
+        <summary type="html"><![CDATA[For the King 2 - the sequel to IronOak Games' wonderful tabletop-RPG-meets-digital-board-game adventure - is getting a closed beta next week, and registration is now open.
+
+
+IronOak's follow-up - which pits players against the kingdom of Fahrul's tyrannical queen 20 years after the end of the first game - is, from what's been shown so far, less a bold new direction for the series and more a deepening of the original's already hugely entertaining core.
+
+
+That means another light-hearted, optionally co-operative rogue-like adventure blending familiar RPG staples - dungeon crawling, questing, turn-based exploration and combat, loot acquisition, and so on - with some neat story generation through randomised narrative events.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage your application security stack effectively with the tool status page]]></title>
+        <id>https://github.blog/?p=71609</id>
+        <link href="https://github.blog/2023-05-04-manage-your-application-security-stack-effectively-with-the-tool-status-page/"/>
+        <updated>2023-05-04T18:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Code scanning’s tool status gives you a bird's eye view of your application security stack, allowing you to quickly confirm everything is working, or troubleshoot any tool in your application security arsenal.]]></summary>
+        <author>
+            <name>Walker Chabbott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Narrative game festival LudoNarraCon now live on Steam with dev talks, demos, and more]]></title>
         <id>https://www.eurogamer.net/narrative-game-festival-ludonarracon-now-live-on-steam-with-dev-talks-demos-and-more</id>
@@ -10950,52 +11099,6 @@ Read more]]></summary>
 Creative 2.0, which launched last month, allows players to add custom assets and programming to their creations on PC. Shortly after it became available, Epic updated their terms and conditions to allow players to create and publish remakes of old Fortnite maps from Chapter 1.
 Epic also reiterated that players are not allowed to use Creative 2.0 to "create, publish, or monetise content based on others' copyrighted IP", though that did not stop players.
  Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donkey Kong rap composer criticises Mario movie for not crediting him]]></title>
-        <id>https://www.eurogamer.net/donkey-kong-rap-composer-criticises-mario-movie-for-not-crediting-him</id>
-        <link href="https://www.eurogamer.net/donkey-kong-rap-composer-criticises-mario-movie-for-not-crediting-him"/>
-        <updated>2023-04-05T11:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Composer Grant Kirkhope has taken to Twitter to express his disappointment in Super Mario Bros. Movie for failing to credit him for the DK rap.
-
-
-The DK Rap, created by Kirkhope for 1999's Donkey Kong 64, is quite the legendary number, if you've never heard it before.
-
-
-And last week, Seth Rogen, who voices leader of the bunch Donkey Kong in the Mario movie, revealed the DK Rap would feature in the film. Kirkhope initially responded with excitement, which has now turned into frustration.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT vs Google Bard: Which is better? We put them to the test.]]></title>
-        <id>https://arstechnica.com/?p=1928609</id>
-        <link href="https://arstechnica.com/?p=1928609"/>
-        <updated>2023-04-05T11:00:18.000Z</updated>
-        <summary type="html"><![CDATA[We compare two top AI language models in seven categories to pick a winner.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a mobile Mario game was "challenging", Shigeru Miyamoto says]]></title>
-        <id>https://www.eurogamer.net/designing-a-mobile-mario-game-was-challenging-shigeru-miyamoto-says</id>
-        <link href="https://www.eurogamer.net/designing-a-mobile-mario-game-was-challenging-shigeru-miyamoto-says"/>
-        <updated>2023-04-05T10:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Shigeru Miyamoto, creator of the Super Mario series, has revealed the difficulty faced when creating Mario games for mobile.
-
-
-Mario has had a few mobile outings over the last seven years - starting with Super Mario Run in 2016, and then Mario Kart Tour and Dr. Mario World in 2019.
-
-
-Nintendo has since moved away from Mario on mobile, after it shut down Dr. Mario World for good just two years after it launched. 
- 
-Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
         </author>
