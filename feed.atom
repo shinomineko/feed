@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T00:30:46.478Z</updated>
+    <updated>2023-05-08T06:25:40.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: Introducing An API For Volume Group Snapshots]]></title>
+        <id>https://kubernetes.io/blog/2023/05/08/kubernetes-1-27-volume-group-snapshot-alpha/</id>
+        <link href="https://kubernetes.io/blog/2023/05/08/kubernetes-1-27-volume-group-snapshot-alpha/"/>
+        <updated>2023-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Xing Yang (VMware)
+Volume group snapshot is introduced as an Alpha feature in Kubernetes v1.27.
+This feature introduces a Kubernetes API that allows users to take crash consistent
+snapshots for multiple volumes together. It uses a label selector to group multiple
+PersistentVolumeClaims for snapshotting.
+This new feature is only supported for CSI volume drivers.
+An overview of volume group snapshots
+Some storage systems provide the ability to create a crash consistent snapshot of
+multiple volumes. A group snapshot represents “copies” from multiple volumes that
+are taken at the same point-in-time. A group snapshot can be used either to rehydrate
+new volumes (pre-populated with the snapshot data) or to restore existing volumes to
+a previous state (represented by the snapshots).
+Why ad…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Activision and Riot class-action settlement payments have been detailed]]></title>
         <id>https://www.eurogamer.net/activision-and-riot-class-action-settlement-payments-have-been-detailed</id>
@@ -10561,85 +10583,6 @@ Read more]]></summary>
 The premium content - added alongside the much-anticipated, and free, Mercenaries DLC mode - has been introduced to give players "access to a weapon's exclusive upgrade at any time". 
 
 Although there's been no formal word from Capcom that the microtransactions were coming, 11 £2.49 "Exclusive Upgrade Tickets" popped up on digital storefronts just before the weekend. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women in Games CEO warns "we are going backwards as an industry"]]></title>
-        <id>https://www.eurogamer.net/women-in-games-ceo-warns-we-are-going-backwards-as-an-industry</id>
-        <link href="https://www.eurogamer.net/women-in-games-ceo-warns-we-are-going-backwards-as-an-industry"/>
-        <updated>2023-04-08T15:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Women in Games CEO Marie-Claire Isaaman has released a statement asking if the games industry is "going backwards" following reports that "multiple folks" were assaulted or spiked at this year's GDC event.
-
-In a public statement, Isaaman reflected on employment stats and revealed that whilst "both male and female gamers experienced similarly high levels of toxicity, showing that toxicity is an issue across the entire gaming community", "the experience that girls and women encounter are often much darker and threatening".
-
-"Sexist stereotypes and being aggressively quizzed about their gaming skills often lead to more violent verbal abuse and threats of rape," Isaaman says. "Even more disturbingly, the abuse doesn’t always stop once players leave the game – some instances manifest into serious consequences outside of gaming, including stalking on other platforms and threats of this transferring into real life. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Wholesome narrative puzzle adventure" Tin Hearts comes to Switch later this month]]></title>
-        <id>https://www.eurogamer.net/wholesome-narrative-puzzle-adventure-tin-hearts-comes-to-switch-later-this-month</id>
-        <link href="https://www.eurogamer.net/wholesome-narrative-puzzle-adventure-tin-hearts-comes-to-switch-later-this-month"/>
-        <updated>2023-04-08T15:26:05.000Z</updated>
-        <summary type="html"><![CDATA["Wholesome narrative puzzle adventure" Tin Hearts is coming to Nintendo Switch.
-
-Tin Hearts came to life as a VR game that Wes described as "part Lemmings, part Charles Dickens' A Christmas Carol", but it's now coming to Switch on 20th April, with a release on PC and current- and last-gen consoles a month later on 16th May.
-
-Winner of the 'Most Wanted Nintendo Switch Game' Accolade during Gamescom 2022, Tin Hearts is described as "an immersive, narrative-based, puzzle adventure wrapped up in a powerful tale of love and compromise". 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA's upcoming magic FPS, Immortals of Aveum, will reportedly release in July]]></title>
-        <id>https://www.eurogamer.net/eas-upcoming-magic-fps-immortals-of-aveum-will-reportedly-release-in-july</id>
-        <link href="https://www.eurogamer.net/eas-upcoming-magic-fps-immortals-of-aveum-will-reportedly-release-in-july"/>
-        <updated>2023-04-08T15:06:13.000Z</updated>
-        <summary type="html"><![CDATA[EA's upcoming magic FPS, Immortals of Aveum, will reportedly release in July.
-
-Created by Ascendant Studios and released by EA Originals, the shooter is only officially slated to come to PC, PlayStation 5, and Xbox Series X|S at some indeterminate time in 2023. 
-According to the-ever reliable dataminer billbil-kun, however, the specific release date is 20th July.  
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Halo director Joseph Staten has now left Microsoft entirely]]></title>
-        <id>https://www.eurogamer.net/former-halo-director-joseph-staten-has-now-left-microsoft-entirely</id>
-        <link href="https://www.eurogamer.net/former-halo-director-joseph-staten-has-now-left-microsoft-entirely"/>
-        <updated>2023-04-08T14:24:55.000Z</updated>
-        <summary type="html"><![CDATA[Former Halo director, Joseph Staten, has left Microsoft.
-
-Veteran of Halo development at both Bungie and 343 Industries, Staten left Microsoft's blockbuster space shooter franchise in January 2023, but it was reported at the time that he would remain at Microsoft.
-
-Now, however, it seems Staten is leaving his position as creative director at Microsoft entirely.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Wild Hearts free trial is available now]]></title>
-        <id>https://www.eurogamer.net/a-wild-hearts-free-trial-is-available-now</id>
-        <link href="https://www.eurogamer.net/a-wild-hearts-free-trial-is-available-now"/>
-        <updated>2023-04-08T13:58:06.000Z</updated>
-        <summary type="html"><![CDATA[A playable demo is now available for Wild Hearts. 
-
-The free trial for Omega Force's take on Monster Hunter formula is downloadable now on current-gen console systems, PS5 and Xbox Series X. 
-
-You'll need an EA account to play but once you're all signed up, you'll get access to the "latest content" for free from today until 13th April, 2023, where you'll be free to explore the game "right up to the gates of Minato".
  
 Read more]]></summary>
         <author>
