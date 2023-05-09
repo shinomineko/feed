@@ -269,6 +269,48 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.27: Safer, More Performant Pruning in kubectl apply</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Authors: Katrina Verey (independent) and Justin Santa Barbara (Google)
+Declarative configuration management with the kubectl apply command is the gold standard approach
+to creating or modifying Kubernetes resources. However, one challenge it presents is the deletion
+of resources that are no longer needed. In Kubernetes version 1.5, the --prune flag was
+introduced to address this issue, allowing kubectl apply to automatically clean up previously
+applied resources removed from the current configuration.
+Unfortunately, that existing implementation of --prune has design flaws that diminish its
+performance and can result in unexpected behaviors. The main issue stems from the lack of explicit
+encoding of the previously applied set by the preceding apply operation, necessitating
+error-prone dynam…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >The GitHub Blog</button>
                   <a class="source-heading__link" href="https://github.blog/">Open</a>
                 </h3>
@@ -20636,26 +20678,6 @@ It&#x27;s a little silly, but there were some important shifts in this release t
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1930327"
-                        open
-                      >
-                        <summary class="article-expander__title">Musk admits NPR isn’t state-affiliated after asking questions he could have Googled</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1930327">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/npr-twitter-government-funded-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>NPR now labeled &quot;Government Funded&quot; despite getting under 1% of funds from US.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -20729,142 +20751,10 @@ But while it’s an easy experiment to run, it misses the real risk of large lan
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-09 datetime="2023-04-09T16:27:17.000Z">2023-04-09</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-09 datetime="2023-04-09T16:27:17.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Eurogamer.net News Feed</button>
-                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/behaviour-interactive-rollbacks-unpopular-healing-system-change-after-reviewing-player-feedback"
-                        open
-                      >
-                        <summary class="article-expander__title">Behaviour Interactive rollbacks unpopular healing system change after &quot;reviewing player feedback&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/behaviour-interactive-rollbacks-unpopular-healing-system-change-after-reviewing-player-feedback">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/dead-by-daylight-killers.png?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Behaviour Interactive is reverting Dead By Daylight&#x27;s healing system change following player feedback.
-
-Behaviour figured that the change – which saw the time to heal slowed from 16 to 24 seconds – would be contentious, and said that it would keep &quot;an extra close eye on this change to see how it would play out&quot;. 
-
-&quot;After reviewing player feedback, we found that many of you agreed that the speed which you heal others was already in a good spot prior to the update,&quot; the team explained in an update. &quot;This change also had knock-on effects elsewhere in the game, making effects like Mangled and Hemorrhage stronger and making ‘slugging’ (leaving Survivors in the dying state) even more effective.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/castle-of-shikigami-2-is-getting-a-physical-release-on-switch-later-this-year"
-                        open
-                      >
-                        <summary class="article-expander__title">Castle of Shikigami 2 is getting a physical release on Switch later this year</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/castle-of-shikigami-2-is-getting-a-physical-release-on-switch-later-this-year">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Post-Facebook-_-Twitter.png?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Physical copies of Castle of Shikigami 2 on Switch will release later this year in the US and Europe.
-
-Whilst Red Art Games stopped short of revealing when, exactly, the physical editions will be ready, in a press release the studio said that the &quot;reworked&quot; scrolling shooter – the 2021 PC version of which sits on a &quot;positive&quot; score on Steam – is set to come in 2023.
-
-&quot;Castle of Shikigami 2 is a &quot;story-driven bullet-hell shooting game that first appeared in arcades in 2003 and was later ported to home video game consoles such as the SEGA Dreamcast and Nintendo GameCube,&quot; the publisher teases.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/heres-star-wars-jedi-survivors-final-gameplay-trailer"
-                        open
-                      >
-                        <summary class="article-expander__title">Here&#x27;s Star Wars Jedi: Survivor&#x27;s &quot;final&quot; gameplay trailer</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/heres-star-wars-jedi-survivors-final-gameplay-trailer">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/jedi-survivor-header.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>EA has dropped a new – and final – gameplay trailer for Star Wars Jedi: Survivor.
-
-The teaser, which was released alongside the weekend&#x27;s Star War Celebration extravaganza, gives us our final two minutes of footage before the game releases at the end of the month.
-
-You can check it out below:
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/the-super-mario-bros-movies-opening-weekend-looks-set-to-break-records"
-                        open
-                      >
-                        <summary class="article-expander__title">The Super Mario Bros. Movie&#x27;s opening weekend looks set to break records</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/the-super-mario-bros-movies-opening-weekend-looks-set-to-break-records">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/super-mario-movie-mushroom-kingdom.webp?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The Super Mario Bros. Movie is off to a rip-roaring start and looks set to hit a record-breaking £296m ($368m) over the Easter weekend, making it the second-best global debut ever for an animated movie at the domestic box office. 
-
-According to The Hollywood Reporter, the Mario movie is projected to take £110m ($137m) over the three-day weekend, making it the US&#x27; second-best animated movie start after Incredibles 2, taking the silver from Finding Dory.
-
-THR reports that this is Illumination&#x27;s best-ever start – besting both Minions and Despicable Me – and is currently the top movie opening of the year, and the second-biggest five-day launch ever after Transformers: Revenge of the Fallen, which also debuted over the Easter bank holiday.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/4920975986">
-        <time id="build-timestamp" datetime="2023-05-09T00:32:25.701Z">2023-05-09T00:32:25.701Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/4923034847">
+        <time id="build-timestamp" datetime="2023-05-09T06:25:27.556Z">2023-05-09T06:25:27.556Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

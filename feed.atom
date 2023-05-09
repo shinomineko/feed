@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T00:32:25.753Z</updated>
+    <updated>2023-05-09T06:25:27.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
@@ -14,6 +14,25 @@
         <summary type="html"><![CDATA[The DDoS whack-a-mole game between law enforcement and miscreants continues.]]></summary>
         <author>
             <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: Safer, More Performant Pruning in kubectl apply]]></title>
+        <id>https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/</id>
+        <link href="https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Katrina Verey (independent) and Justin Santa Barbara (Google)
+Declarative configuration management with the kubectl apply command is the gold standard approach
+to creating or modifying Kubernetes resources. However, one challenge it presents is the deletion
+of resources that are no longer needed. In Kubernetes version 1.5, the --prune flag was
+introduced to address this issue, allowing kubectl apply to automatically clean up previously
+applied resources removed from the current configuration.
+Unfortunately, that existing implementation of --prune has design flaws that diminish its
+performance and can result in unexpected behaviors. The main issue stems from the lack of explicit
+encoding of the previously applied set by the preceding apply operation, necessitating
+error-prone dynam…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
         </author>
     </entry>
     <entry>
@@ -10694,80 +10713,6 @@ It's a little silly, but there were some important shifts in this release that h
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/1_to_1_scale.png" title="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." alt="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musk admits NPR isn’t state-affiliated after asking questions he could have Googled]]></title>
-        <id>https://arstechnica.com/?p=1930327</id>
-        <link href="https://arstechnica.com/?p=1930327"/>
-        <updated>2023-04-09T18:23:38.000Z</updated>
-        <summary type="html"><![CDATA[NPR now labeled "Government Funded" despite getting under 1% of funds from US.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behaviour Interactive rollbacks unpopular healing system change after "reviewing player feedback"]]></title>
-        <id>https://www.eurogamer.net/behaviour-interactive-rollbacks-unpopular-healing-system-change-after-reviewing-player-feedback</id>
-        <link href="https://www.eurogamer.net/behaviour-interactive-rollbacks-unpopular-healing-system-change-after-reviewing-player-feedback"/>
-        <updated>2023-04-09T16:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Behaviour Interactive is reverting Dead By Daylight's healing system change following player feedback.
-
-Behaviour figured that the change – which saw the time to heal slowed from 16 to 24 seconds – would be contentious, and said that it would keep "an extra close eye on this change to see how it would play out". 
-
-"After reviewing player feedback, we found that many of you agreed that the speed which you heal others was already in a good spot prior to the update," the team explained in an update. "This change also had knock-on effects elsewhere in the game, making effects like Mangled and Hemorrhage stronger and making ‘slugging’ (leaving Survivors in the dying state) even more effective.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castle of Shikigami 2 is getting a physical release on Switch later this year]]></title>
-        <id>https://www.eurogamer.net/castle-of-shikigami-2-is-getting-a-physical-release-on-switch-later-this-year</id>
-        <link href="https://www.eurogamer.net/castle-of-shikigami-2-is-getting-a-physical-release-on-switch-later-this-year"/>
-        <updated>2023-04-09T16:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Physical copies of Castle of Shikigami 2 on Switch will release later this year in the US and Europe.
-
-Whilst Red Art Games stopped short of revealing when, exactly, the physical editions will be ready, in a press release the studio said that the "reworked" scrolling shooter – the 2021 PC version of which sits on a "positive" score on Steam – is set to come in 2023.
-
-"Castle of Shikigami 2 is a "story-driven bullet-hell shooting game that first appeared in arcades in 2003 and was later ported to home video game consoles such as the SEGA Dreamcast and Nintendo GameCube," the publisher teases.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's Star Wars Jedi: Survivor's "final" gameplay trailer]]></title>
-        <id>https://www.eurogamer.net/heres-star-wars-jedi-survivors-final-gameplay-trailer</id>
-        <link href="https://www.eurogamer.net/heres-star-wars-jedi-survivors-final-gameplay-trailer"/>
-        <updated>2023-04-09T15:45:02.000Z</updated>
-        <summary type="html"><![CDATA[EA has dropped a new – and final – gameplay trailer for Star Wars Jedi: Survivor.
-
-The teaser, which was released alongside the weekend's Star War Celebration extravaganza, gives us our final two minutes of footage before the game releases at the end of the month.
-
-You can check it out below:
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Super Mario Bros. Movie's opening weekend looks set to break records]]></title>
-        <id>https://www.eurogamer.net/the-super-mario-bros-movies-opening-weekend-looks-set-to-break-records</id>
-        <link href="https://www.eurogamer.net/the-super-mario-bros-movies-opening-weekend-looks-set-to-break-records"/>
-        <updated>2023-04-09T12:43:55.000Z</updated>
-        <summary type="html"><![CDATA[The Super Mario Bros. Movie is off to a rip-roaring start and looks set to hit a record-breaking £296m ($368m) over the Easter weekend, making it the second-best global debut ever for an animated movie at the domestic box office. 
-
-According to The Hollywood Reporter, the Mario movie is projected to take £110m ($137m) over the three-day weekend, making it the US' second-best animated movie start after Incredibles 2, taking the silver from Finding Dory.
-
-THR reports that this is Illumination's best-ever start – besting both Minions and Despicable Me – and is currently the top movie opening of the year, and the second-biggest five-day launch ever after Transformers: Revenge of the Fallen, which also debuted over the Easter bank holiday.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
