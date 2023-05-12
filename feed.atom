@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T00:31:22.918Z</updated>
+    <updated>2023-05-12T06:24:54.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: In-place Resource Resize for Kubernetes Pods (alpha)]]></title>
+        <id>https://kubernetes.io/blog/2023/05/12/in-place-pod-resize-alpha/</id>
+        <link href="https://kubernetes.io/blog/2023/05/12/in-place-pod-resize-alpha/"/>
+        <updated>2023-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Vinay Kulkarni (Kubescaler Labs)
+If you have deployed Kubernetes pods with CPU and/or memory resources
+specified, you may have noticed that changing the resource values involves
+restarting the pod. This has been a disruptive operation for running
+workloads... until now.
+In Kubernetes v1.27, we have added a new alpha feature that allows users
+to resize CPU/memory resources allocated to pods without restarting the
+containers. To facilitate this, the resources field in a pod's containers
+now allow mutation for cpu and memory resources. They can be changed
+simply by patching the running pod spec.
+This also means that resources field in the pod spec can no longer be
+relied upon as an indicator of the pod's actual resources. Monitoring tools
+and other such applications must now look at n…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Layers of Fear remake getting a "short" demo next week on Steam]]></title>
         <id>https://www.eurogamer.net/layers-of-fear-remake-getting-a-short-demo-next-week-on-steam</id>
@@ -10850,335 +10872,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The JAMMA adapters, superguns, and low-lag upscalers needed for Kong-scale Kong.]]></summary>
         <author>
             <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk reportedly purchases thousands of GPUs for generative AI project at Twitter]]></title>
-        <id>https://arstechnica.com/?p=1931052</id>
-        <link href="https://arstechnica.com/?p=1931052"/>
-        <updated>2023-04-12T18:19:59.000Z</updated>
-        <summary type="html"><![CDATA[Reports say it's a commitment to AI, despite signing cautionary AI "pause" letter.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WW1 horror Amensia: The Bunker delayed again, but only by a week]]></title>
-        <id>https://www.eurogamer.net/soma-devs-ww1-horror-amensia-the-bunker-delayed-again-but-only-by-a-week</id>
-        <link href="https://www.eurogamer.net/soma-devs-ww1-horror-amensia-the-bunker-delayed-again-but-only-by-a-week"/>
-        <updated>2023-04-12T18:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Amnesia: The Bunker, SOMA developer Frictional Games "unscripted" WW1 horror, has been delayed again, albeit only by a week. It's now due to release for PC on 23rd May, giving the studio a little extra time to "make sure everything is perfect before launch".
-
-
-The Bunker, as you might already know, is the fourth game in Frictional's Amnesia series, following on from 2010's acclaimed The Dark Descent, its Chinese-Room-developed successor A Machine for Pigs, and 2021's Rebirth. It's also a bit of a departure for the series, trading traditionally linear tales of horror for "unscripted" scares in a nightmarish semi-open-world.
-
-
-This time around, players take on the role of Henri Clément, a French soldier who, over the course of the game, is relentlessly pursued by an "adaptive" otherworldly creature through the claustrophobic confines of a dimly lit underground bunker.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYPD Robocops: Hulking, 400-lb robots will start patrolling New York City]]></title>
-        <id>https://arstechnica.com/?p=1931061</id>
-        <link href="https://arstechnica.com/?p=1931061"/>
-        <updated>2023-04-12T17:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Mayor says new surveillance bots are "only the beginning" of police force revamp.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eve Online player rigs in-game CEO vote to steal $22,000 of assets]]></title>
-        <id>https://arstechnica.com/?p=1931135</id>
-        <link href="https://arstechnica.com/?p=1931135"/>
-        <updated>2023-04-12T16:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Absentee corporate leadership failed to notice the vote before it was too late.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon of the Endless spiritual successor Endless Dungeon delayed to October]]></title>
-        <id>https://www.eurogamer.net/dungeon-of-the-endless-spiritual-successor-endless-dungeon-delayed-to-october</id>
-        <link href="https://www.eurogamer.net/dungeon-of-the-endless-spiritual-successor-endless-dungeon-delayed-to-october"/>
-        <updated>2023-04-12T16:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Amplitude Studios has announced a delay for its tactical action roguelite and Dungeon of the Endless spiritual successor, Endless Dungeon, pushing its release back from next Tuesday to 19th October in order to ensure "the game reaches its full potential".
-
-
-Endless Dungeon, which was originally due to launch on 18th May, maroons players on a mysterious space station and tasks them with recruiting a team of heroes in an effort to transport a crystal to their crashed ship's core, protecting it - via some frenetic top-down twin-stick shooting action - from ceaseless waves of monsters along the way.
-
-
-It features a new storyline set in the Endless universe, and can be played either solo - one player controlling the entire squad - or alongside friends in multiplayer, with available heroes including Comrade (Gunsmith), Bunker (Tank), Blaze (Artificer), and Shroom (Medic).
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet PassGAN, the supposedly “terrifying” AI password cracker that’s mostly hype]]></title>
-        <id>https://arstechnica.com/?p=1930980</id>
-        <link href="https://arstechnica.com/?p=1930980"/>
-        <updated>2023-04-12T16:22:32.000Z</updated>
-        <summary type="html"><![CDATA[AI cracking is on par with conventional methods, but you'd be forgiven for thinking otherwise.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PowerWash Simulator's new roadmap promises free and paid DLC across 2023]]></title>
-        <id>https://www.eurogamer.net/powerwash-simulators-new-roadmap-promises-free-and-paid-dlc-throughout-2023</id>
-        <link href="https://www.eurogamer.net/powerwash-simulators-new-roadmap-promises-free-and-paid-dlc-throughout-2023"/>
-        <updated>2023-04-12T16:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Having spent the first half of this year whisking players off to Croft Manor and Midgar, PowerWash Simulator is set to embark on a whole new set of adventures, with developer FuturLab having now unveiled its content roadmap for the remainder of 2023.
-
-
-FuturLab has divided its new roadmap up into convenient quarters, each offering a mix of both free and paid DLC. The free stuff will reveal more of Muckingham, the not-entirely sensible setting of PowerWash Simulator's base game, while the paid Special Packs will take players outside of the Muckingham universe - presumably in a similar fashion to those aforementioned Tomb Raider and Final Fantasy 7 crossovers.
-
-
-No more details have been shared on the paid stuff as yet, but FutureLab has confirmed PowerWash Simulator's first free update - The Muckingham Files (AKA Update 1.2) – will arrive next Tuesday, 18th April, transporting players to never-before-seen corners of Muckingham.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 beta changes what the Print Screen button does after 33 years]]></title>
-        <id>https://arstechnica.com/?p=1931059</id>
-        <link href="https://arstechnica.com/?p=1931059"/>
-        <updated>2023-04-12T16:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Key now opens the Snipping Tool by default rather than copying to the clipboard.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Accelerator: our first cohort and what’s next]]></title>
-        <id>https://github.blog/?p=71292</id>
-        <link href="https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/"/>
-        <updated>2023-04-12T16:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Meet the individuals that make up the first GitHub Accelerator cohort and learn about how GitHub is helping bring their visions to reality.]]></summary>
-        <author>
-            <name>Kara Sowles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethesda games dominate PlayStation Plus Premium offering for April]]></title>
-        <id>https://www.eurogamer.net/bethesda-games-dominate-playstation-plus-premium-offering-for-april</id>
-        <link href="https://www.eurogamer.net/bethesda-games-dominate-playstation-plus-premium-offering-for-april"/>
-        <updated>2023-04-12T15:52:36.000Z</updated>
-        <summary type="html"><![CDATA[April's list of PlayStation Plus games for Extra and Premium subscribers is dominated by Bethesda-published classics, with numerous titles from franchises such as Doom, Wolfenstein, Dishonored and The Evil Within.
-
-
-It's curious timing for the Microsoft-owned Bethesda to suddenly flood the service with its back catalogue in this way. 
-
-
-Could it be another push by Microsoft to show regulators it doesn't limit access to titles from companies it previously bought, as the decision on whether Microsoft's $68.7bn Activision Blizzard acquisition will succeed nears?
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New EPA rules would cut car emissions 56% by 2032]]></title>
-        <id>https://arstechnica.com/?p=1931069</id>
-        <link href="https://arstechnica.com/?p=1931069"/>
-        <updated>2023-04-12T15:37:29.000Z</updated>
-        <summary type="html"><![CDATA[New rules would affect light- and medium-duty vehicles.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend of Zelda: Tears of the Kingdom final trailer airing tomorrow]]></title>
-        <id>https://www.eurogamer.net/the-legend-of-zelda-tears-of-the-kingdom-final-trailer-airing-tomorrow</id>
-        <link href="https://www.eurogamer.net/the-legend-of-zelda-tears-of-the-kingdom-final-trailer-airing-tomorrow"/>
-        <updated>2023-04-12T15:20:32.000Z</updated>
-        <summary type="html"><![CDATA[For those of you so hungry for more The Legend of Zelda: Tears of the Kingdom news you simply must consume it the second it appears (understandable), Nintendo has announced it'll be airing the final pre-launch trailer for its hugely anticipated Breath of the Wild follow-up tomorrow, Thursday 13th April.
-
-
-If you need a little more in the way of specifics for your diary, Nintendo says the new trailer will be livestreamed at 3pm in the UK/7am PT, and will run to around three minutes in length. There's no word on what it'll feature as yet, but if Tingle's not included, I'll bloody riot.
-
-
-Our last look at Tears of the Kingdom came toward the end of March, when Nintendo shared 10 minutes of new gameplay footage, showcasing some of Link's new abilities, new enemies, and the sky islands. It was enough to set Eurogamer's Christian Donlan a-quiver, and he subsequently named it Game of the Week.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redfall locked to 30fps on Xbox Series X/S at launch]]></title>
-        <id>https://www.eurogamer.net/redfall-locked-to-30fps-on-xbox-series-xs-at-launch</id>
-        <link href="https://www.eurogamer.net/redfall-locked-to-30fps-on-xbox-series-xs-at-launch"/>
-        <updated>2023-04-12T15:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Arkane's co-op vampire shooter Redfall will arrive locked at 30fps on Xbox Series X and S.
-
-
-On Xbox Series S, the game will run at 1440p and 30fps. On Xbox Series X, Redfall will run at 4K and 30fps. These options represent the game's "Quality mode" setting for each platform. 
-
-
-A 60fps "Performance mode" option is still planned for Redfall on consoles, but will now arrive post-launch via an update, publisher Bethesda confirmed today. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPR says goodbye to Elon Musk’s Twitter]]></title>
-        <id>https://arstechnica.com/?p=1931063</id>
-        <link href="https://arstechnica.com/?p=1931063"/>
-        <updated>2023-04-12T15:08:54.000Z</updated>
-        <summary type="html"><![CDATA[NPR: Twitter is "falsely implying that we are not editorially independent."]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if the US followed Germany and shut down its nuclear plants?]]></title>
-        <id>https://arstechnica.com/?p=1931043</id>
-        <link href="https://arstechnica.com/?p=1931043"/>
-        <updated>2023-04-12T14:56:31.000Z</updated>
-        <summary type="html"><![CDATA[There's a huge cost in lives from shutting off low-emission power plants.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LocalStack: Why Local Development for Cloud Workloads Makes Sense]]></title>
-        <id>https://www.lastweekinaws.com/?p=13916</id>
-        <link href="https://www.lastweekinaws.com/blog/localstack-why-local-development-for-cloud-workloads-makes-sense/"/>
-        <updated>2023-04-12T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[LocalStack 2.0 emulates AWS APIs and their responses for local development. In some cases, the benefits outweigh the silliness of mocking cloud services locally.
-The post LocalStack: Why Local Development for Cloud Workloads Makes Sense appeared first on Last Week in AWS.]]></summary>
-        <author>
-            <name>Corey Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relativity Space is moving on from the Terran 1 rocket to something much bigger]]></title>
-        <id>https://arstechnica.com/?p=1930939</id>
-        <link href="https://arstechnica.com/?p=1930939"/>
-        <updated>2023-04-12T14:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Relativity Space is not going to launch again until at least 2026.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Determined Dark and Darker fan recreating troubled game in Fortnite]]></title>
-        <id>https://www.eurogamer.net/determined-dark-and-darker-fan-recreating-troubled-game-in-fortnite</id>
-        <link href="https://www.eurogamer.net/determined-dark-and-darker-fan-recreating-troubled-game-in-fortnite"/>
-        <updated>2023-04-12T13:51:26.000Z</updated>
-        <summary type="html"><![CDATA[A player has set to work recreating Dark and Darker's map within Fortnite's recently released Creative 2.0 mode.
-
-
-For a quick bit of background before we get into it, Dark and Darker is facing a lot of issues at the moment, with developer Ironmace currently under investigation after gaming company Nexon claimed its game (P3) was used as a prototype for Dark and Darker. 
-
-
-This all led to Dark and Darker being removed from Steam, where it was once the most wishlisted game. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMG tells Apple and Spotify to block AI lyric, melody scraping]]></title>
-        <id>https://arstechnica.com/?p=1931028</id>
-        <link href="https://arstechnica.com/?p=1931028"/>
-        <updated>2023-04-12T13:22:15.000Z</updated>
-        <summary type="html"><![CDATA[Universal Music Group says new tech relies on unauthorized use of copyrighted material.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s $599 GeForce RTX 4070 is a more reasonably priced (and sized) Ada GPU]]></title>
-        <id>https://arstechnica.com/?p=1930722</id>
-        <link href="https://arstechnica.com/?p=1930722"/>
-        <updated>2023-04-12T13:00:18.000Z</updated>
-        <summary type="html"><![CDATA[But it's the cheapest way (so far) to add DLSS 3 support to your gaming PC.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trine 5: A Clockwork Conspiracy is official and launching this "summer"]]></title>
-        <id>https://www.eurogamer.net/trine-5-a-clockwork-conspiracy-is-official-and-launching-this-summer</id>
-        <link href="https://www.eurogamer.net/trine-5-a-clockwork-conspiracy-is-official-and-launching-this-summer"/>
-        <updated>2023-04-12T13:00:13.000Z</updated>
-        <summary type="html"><![CDATA[After a bit of a leak earlier this year, developer FrozenByte has made it official; acclaimed physics-based co-op platformer Trine is returning for a fifth instalment - subtitled A Clockwork Conspiracy - sometime this "summer" on PlayStation, Xbox, Switch, and PC.
-
-
-First things first, Trine 5 once again adopts the series' classic 2.5D side-scrolling perspective after Trine 3's ambitious, but ultimately poorly received, foray into full 3D back in 2015. That's likely a reassurance for series fans, but also makes for a new instalment that perhaps doesn't particularly distinguish itself from its predecessors at first glance.
-
-
-Not that more of the same is necessarily a bad thing; Trine has carved something of a niche for itself over the years, and its platform puzzling - built around using the unique abilities of the series' wizard, knight, and thief protagonists, from heavy lifting to block conjuring and hook grappling - remains as enjoyable today as it did when the series debuted almost 15 years ago.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Counter-Strike is getting a virtual esports stadium]]></title>
-        <id>https://www.eurogamer.net/counter-strike-is-getting-a-virtual-esports-stadium</id>
-        <link href="https://www.eurogamer.net/counter-strike-is-getting-a-virtual-esports-stadium"/>
-        <updated>2023-04-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Virtex is launching the first ever virtual esports stadium to allow viewers to watch matches from inside the arena - and the game's map.
-
-
-The software developer has partnered with spectating and analysis platform Skybox to create the Virtex Stadium, which will launch with Counter-Strike (both CS:GO and Counter-Strike 2 will be compatible).
-
-
-The virtual stadium is currently available in closed beta via desktop and compatible VR headsets. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are Dead Island 2's PC specs, from Minimum to Ultra]]></title>
-        <id>https://www.eurogamer.net/here-are-dead-island-2s-pc-specs-from-minimum-to-ultra</id>
-        <link href="https://www.eurogamer.net/here-are-dead-island-2s-pc-specs-from-minimum-to-ultra"/>
-        <updated>2023-04-12T12:44:25.000Z</updated>
-        <summary type="html"><![CDATA[After an elongated development, Dead Island 2's release is almost upon us. 
-
-
-Earlier this year, Dambuster Studios revealed Dead Island 2 will make its debut on 21st April, so a week on Friday. 
-
-
-Now, the studio has revealed the PC specs players will need to get the game up and running when the time finally comes for us all to dive into the zombie-riddled shores off LA (or, Hell-A, as the team has christened it). 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elderly couple wins at Wii Bowling tournament in wholesome gaming moment]]></title>
-        <id>https://www.eurogamer.net/elderly-couple-wins-at-wii-bowling-tournament-in-wholesome-gaming-moment</id>
-        <link href="https://www.eurogamer.net/elderly-couple-wins-at-wii-bowling-tournament-in-wholesome-gaming-moment"/>
-        <updated>2023-04-12T12:40:55.000Z</updated>
-        <summary type="html"><![CDATA[You may remember the Wii being marketed as a console for everyone and it seems that motto is still going strong.
-
-
-Over the weekend an elderly couple competed in a Wii Bowling tournament in France and won.
-
-
-Jeanine (96) and Gilbert (85) competed representing their retirement home at a Wii Bowling LAN hosted by Gamers Assembly.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
