@@ -155,6 +155,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/05/friday-squid-blogging-giant-squid-video.html",
+          "author": null,
+          "description": "<p>A video&#8212;authentic, not a deep fake&#8212;of a <a href=\"https://www.deeperblue.com/divers-capture-rare-footage-of-live-giant-squid/\">giant squid</a> close to the surface.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/friday-squid-blogging-giant-squid-video.html",
+          "publishedOn": "2023-05-12T21:04:27.000Z",
+          "wordCount": 743,
+          "title": "Friday Squid Blogging: Giant Squid Video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/05/ted-chiang-on-the-risks-of-ai.html",
           "author": null,
           "description": "<p>Ted Chiang has an <a href=\"https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey\">excellent essay</a> in the <i>New Yorker</i>: &#8220;Will A.I. Become the New McKinsey?&#8221;</p>\n<blockquote><p>The question we should be asking is: as A.I. becomes more powerful and flexible, is there any way to keep it from being another version of McKinsey? The question is worth considering across different meanings of the term “A.I.” If you think of A.I. as a broad set of technologies being marketed to companies to help them cut their costs, the question becomes: how do we keep those technologies from working as “capital’s willing executioners”? Alternatively, if you imagine A.I. as a semi-autonomous software program that solves problems that humans ask it to solve, the question is then: how do we prevent that software from assisting corporations in ways that make people’s lives worse? Suppose you&#8217;ve built a semi-autonomous A.I. that’s entirely obedient to humans­&#8212;one that repeatedly checks to make sure it hasn&#8217;t misinterpreted the instructions it has received. This is the dream of many A.I. researchers. Yet such software could easily still cause as much harm as McKinsey has...</p></blockquote>",
@@ -413,16 +423,6 @@
           "wordCount": 1125,
           "title": "Gaining an Advantage in Roulette",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/04/bypassing-a-theft-threat-model.html",
-          "author": null,
-          "description": "<p>Thieves <a href=\"https://www.vice.com/en/article/v7bmw4/thieves-cut-through-coffee-shop-wall-to-pull-off-dollar500000-apple-store-heist\">cut through</a> the wall of a coffee shop to get to an Apple store, bypassing the alarms in the process.</p>\n<p>I wrote about this kind of thing in 2000, in <a href=\"https://www.schneier.com/books/secrets-and-lies/\"><i>Secrets and Lies</i></a> (page 318):</p>\n<blockquote><p>My favorite example is a band of California art thieves that would break into people&#8217;s houses by cutting a hole in their walls with a chainsaw.  The attacker completely bypassed the threat model of the defender.  The countermeasures that the homeowner put in place were door and window alarms; they didn&#8217;t make a difference to this attack.</p></blockquote>\n<p>The article says they took half a million dollars worth of iPhones. I don&#8217;t understand iPhone device security, but don&#8217;t they have a system of denying stolen phones access to the network?...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/04/bypassing-a-theft-threat-model.html",
-          "publishedOn": "2023-04-13T11:22:19.000Z",
-          "wordCount": 900,
-          "title": "Bypassing a Theft Threat Model",
-          "imageUrl": null
         }
       ]
     },
@@ -431,6 +431,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1938634",
+          "author": "Jennifer Ouellette",
+          "description": "'In a way, we’ve gotten closure on a question that started with James Clerk Maxwell.”",
+          "link": "https://arstechnica.com/?p=1938634",
+          "publishedOn": "2023-05-12T21:41:40.000Z",
+          "wordCount": 2149,
+          "title": "More evidence emerges that Saturn’s rings are much younger than the planet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/saturnTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1939003",
+          "author": "Dan Goodin",
+          "description": "Answering common questions about how passkeys work.",
+          "link": "https://arstechnica.com/?p=1939003",
+          "publishedOn": "2023-05-12T20:43:14.000Z",
+          "wordCount": 2271,
+          "title": "Passkeys may not be for you, but they are safe and easy—here’s why",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-forensics-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1939110",
+          "author": "Ashley Belanger",
+          "description": "\"If Google is going to advertise in Texas, their statements better be true.\"",
+          "link": "https://arstechnica.com/?p=1939110",
+          "publishedOn": "2023-05-12T20:23:50.000Z",
+          "wordCount": 1633,
+          "title": "Google to pay $8M settlement for “lying to Texans,” state AG says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1406209689-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1938944",
+          "author": "Ron Amadeo",
+          "description": "Third-party Bluetooth trackers plug in to Google's massive Find My Device Network.",
+          "link": "https://arstechnica.com/?p=1938944",
+          "publishedOn": "2023-05-12T20:13:22.000Z",
+          "wordCount": 2070,
+          "title": "Bluetooth tags for Android’s 3 billion-strong tracking network are here",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Protection-Header-2880x1200.width-1200.format-webp-760x380.webp"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1939081",
+          "author": "Scharon Harding",
+          "description": "Mobile users could already share naughty pics.",
+          "link": "https://arstechnica.com/?p=1939081",
+          "publishedOn": "2023-05-12T20:01:52.000Z",
+          "wordCount": 1694,
+          "title": "Reddit welcomes NSFW desktop image uploads ahead of Imgur’s ban",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1231060013-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1939047",
+          "author": "Ashley Belanger",
+          "description": "The maximum sentence for YouTuber's admitted crimes is 20 years.",
+          "link": "https://arstechnica.com/?p=1939047",
+          "publishedOn": "2023-05-12T19:39:59.000Z",
+          "wordCount": 1833,
+          "title": "YouTuber who crashed plane admits he did it for money and views",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Trevor-Jacob-22I-Crashed-My-Airplane22-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1939056",
+          "author": "John Timmer",
+          "description": "Lensed images of a supernova appear at different times.",
+          "link": "https://arstechnica.com/?p=1939056",
+          "publishedOn": "2023-05-12T19:31:51.000Z",
+          "wordCount": 1922,
+          "title": "Gravitational lens gives us a third estimate of the Universe’s expansion",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/image-4-700x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1939016",
+          "author": "Beth Mole",
+          "description": "The newly emerging fungal pathogen is often misidentified in common lab tests.",
+          "link": "https://arstechnica.com/?p=1939016",
+          "publishedOn": "2023-05-12T18:44:01.000Z",
+          "wordCount": 2063,
+          "title": "Drug-resistant ringworm reported in US for first time; community spread likely",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/jof-08-00757-g001-686x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1938950",
+          "author": "Scharon Harding",
+          "description": "Google is expanding Bard availability as the EU crafts landmark AI regulation.",
+          "link": "https://arstechnica.com/?p=1938950",
+          "publishedOn": "2023-05-12T18:09:34.000Z",
+          "wordCount": 1742,
+          "title": "Google Bard hits over 180 countries and territories—none are in the EU",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/google_bard_hero-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1938927",
           "author": "Ron Amadeo",
@@ -3930,16 +4020,6 @@
           "wordCount": 1927,
           "title": "From the original series to Picard, we’ve ranked every starship Enterprise",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/enterprise-feature-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1931284",
-          "author": "Jennifer Ouellette",
-          "description": "“PRIMO is a new approach to the difficult task of constructing images from EHT observations.”",
-          "link": "https://arstechnica.com/?p=1931284",
-          "publishedOn": "2023-04-13T11:00:35.000Z",
-          "wordCount": 1890,
-          "title": "Iconic image of M87 black hole just got a machine-learning makeover",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/blackhole1-760x380.jpg"
         }
       ]
     },
@@ -4176,6 +4256,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-sims-4-players-can-now-vote-on-the-themes-for-its-next-few-kit-expansions",
+          "author": "Matt Wales",
+          "description": "EA is dabbling in a spot of democracy by throwing caution to the wind and letting The Sims 4 players decide what they want to see in some upcoming DLC.\r\n\n\r\nPerhaps thankfully (I say this as someone who spends a lot of time on The Sims 4 subreddits), this isn't a free-for-all, and voters must operate within some extremely rigid parameters.\r\n\n\r\nEA is specifically canvassing players to decide on the themes of two upcoming Kit packs, one focused around Create-a-Sim fashion and the other around building.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-sims-4-players-can-now-vote-on-the-themes-for-its-next-few-kit-expansions",
+          "publishedOn": "2023-05-12T19:13:43.000Z",
+          "wordCount": 5528,
+          "title": "The Sims 4 players can now vote on the themes for its next few Kit expansions",
+          "imageUrl": "https://assetsio.reedpopcdn.com/maxis-shares-progress-update-and-first-look-at-the-sims-4s-customisable-pronouns-feature-1642627129508.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/gone-home-studio-fullbright-now-solo-outfit-as-controversial-co-founder-goes-it-alone",
           "author": "Matt Wales",
@@ -7755,116 +7845,6 @@
           "wordCount": 5241,
           "title": "PSVR2 firework puzzle game Fantavision 202X heading to PC this month",
           "imageUrl": "https://assetsio.reedpopcdn.com/fantavision-202x-pc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-responds-to-re-filed-gamers-lawsuit-against-activision-acquisition",
-          "author": "Tom Phillips",
-          "description": "Microsoft has responded to the re-filing of a lawsuit by a group of gamers bringing their own legal challenge against the company's $68.7bn Activsion Blizzard acquisition. \r\n\n\r\nA new 73-page missive by the self-proclaimed gamers includes fresh details they say have been taken from redacted documents given \"directly to the board of directors\" at Microsoft, as well as information given by Sony.\r\n\n\r\nIn a statement to Reuters, Microsoft said this latest complaint was based on \"unsupported and implausible claims about the deal's effect on competition\". Microsoft said it will \"bring more games to more people\" through its proposed deal with Activision.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-responds-to-re-filed-gamers-lawsuit-against-activision-acquisition",
-          "publishedOn": "2023-04-13T12:07:24.000Z",
-          "wordCount": 5300,
-          "title": "Microsoft responds to re-filed \"gamer's lawsuit\" against Activision acquisition",
-          "imageUrl": "https://assetsio.reedpopcdn.com/COD-again.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/valve-reducing-steam-decks-shader-caches-leaving-more-room-for-games",
-          "author": "Victoria Kennedy",
-          "description": "An update for the Steam Deck's open source video driver will reduce the handheld PC's shader cache files by more than half. \r\n\n\r\nThat's according to PC Gamer, which stated this update will shrink the files by \"approximately\" 60 percent.\r\n\n\r\nJust quickly for those who, like me, aren't as technologically minded as others: Steam Decks come in set sizes in terms of the internal SSD memory. However, these aren't particularly big - though memory can be expanded through microSD cards. So, with Valve now planning on reducing the size of its shader caches, this update will free up more space for games on the console.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/valve-reducing-steam-decks-shader-caches-leaving-more-room-for-games",
-          "publishedOn": "2023-04-13T12:04:27.000Z",
-          "wordCount": 5396,
-          "title": "Valve reducing Steam Deck's shader caches, leaving more room for games",
-          "imageUrl": "https://assetsio.reedpopcdn.com/steam-deck-header-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-game-cast-will-star-in-david-gaiders-stray-gods-the-roleplaying-musical",
-          "author": "Ed Nightingale",
-          "description": "Stray Gods: The Roleplaying Musical, the next game from Dragon Age writer David Gaider, now has a release date of 3rd August.\r\n\n\r\nIn a stream last night hosted by Twitch channel Critical Role, further details on the game were provided, including its star-studded cast that includes the likes of Troy Baker, Ashley Johnson, Felicia Day, Laura Bailey, and many more.\r\n\n\r\nThe game is set for release on PC and is available to wishlist now on Steam. Check out the latest trailer below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-last-of-us-game-cast-will-star-in-david-gaiders-stray-gods-the-roleplaying-musical",
-          "publishedOn": "2023-04-13T11:46:30.000Z",
-          "wordCount": 5597,
-          "title": "The Last of Us game cast will star in David Gaider's Stray Gods: The Roleplaying Musical",
-          "imageUrl": "https://assetsio.reedpopcdn.com/stray-gods-protagonist-closeup.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/players-voice-anger-as-warzone-20-dmz-introduces-pay-to-win-bundles",
-          "author": "Liv Ngan",
-          "description": "Last night, Season 3 of Call of Duty Modern Warfare 2 Warzone 2.0 went live. Reception to the added content in Warzone 2.0 DMZ has been negative, with players taking to social media to criticise Activision for including pay-to-win elements.\nThe patch notes for the Season 3 update state that \"certain\" bundles have been added to the game's store which have additional Active Duty Operator Slots included.\nPlayers start out with 3 slots by default, and there's no other way to obtain more other than buying the new Bomb Squad bundle, which costs about £8.40. The cosmetic bundle contains other perks which players have pointed out will give those who pay for it an advantage over those who don't.\n Read more",
-          "link": "https://www.eurogamer.net/players-voice-anger-as-warzone-20-dmz-introduces-pay-to-win-bundles",
-          "publishedOn": "2023-04-13T11:43:08.000Z",
-          "wordCount": 5506,
-          "title": "Players voice anger as Warzone 2.0 DMZ introduces pay-to-win bundles",
-          "imageUrl": "https://assetsio.reedpopcdn.com/warzone-2-mw2-season-3-header-size.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-pressured-gamestop-to-fire-employee-who-leaked-word-of-zelda-switch-worker-claims",
-          "author": "Tom Phillips",
-          "description": "A Gamestop employee who sparked speculation regarding the Zelda: Tears of the Kingdom special edition Nintendo Switch Pro console has claimed they were fired following pressure by Nintendo itself.\r\n\n\r\nWhile the special edition Switch Pro was only officially confirmed by Nintendo during its Direct broadcast last month, fans had long expected a Zelda-themed model to arrive alongside the upcoming game. Indeed, earlier leaks online had even suggested at its design. \r\n\n\r\nSo when Massachusetts GameStop employee Mike (last name kept anonymous) saw a \"HW TBD Switch\" entry pop up on his store's system hours before the Direct's broadcast, it didn't seem too surprising. Mike snapped a picture of the screen and uploaded it to reddit.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-pressured-gamestop-to-fire-employee-who-leaked-word-of-zelda-switch-worker-claims",
-          "publishedOn": "2023-04-13T11:36:39.000Z",
-          "wordCount": 5663,
-          "title": "Nintendo pressured GameStop to fire employee who leaked word of Zelda Switch, worker claims",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Zelda-Tears-of-the-Kindgom-Nintendo-Switch-OLED.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-russia-ceo-running-import-company-to-skirt-official-sales-ban-report",
-          "author": "Tom Phillips",
-          "description": "The controversial boss of Nintendo's Russian division has reportedly set up a secondary company to import and sell Nintendo games, skirting the Super Mario maker's official Russian sales ban. \r\n\nNintendo officially halted product shipments to Russia in March 2022, and said its decision would remain in place for the \"forseeable future\". Nintendo also shut down its digital eShop in the region, citing \"the suspension of transactions in Rubles by the payment provider\". \r\n\n\r\nNow, a report by Russian outlet Kommersant has highlighted the recent sale of Metroid Prime Remastered in Russia by a company named Achivka, which has been set up by Nintendo Russia boss Yasha Haddazhi to import Nintendo games and consoles to Russian game stores. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-russia-ceo-running-import-company-to-skirt-official-sales-ban-report",
-          "publishedOn": "2023-04-13T11:04:22.000Z",
-          "wordCount": 5634,
-          "title": "Nintendo Russia CEO running import company to skirt official sales ban - report",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_hLYToNn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/over-30-games-will-leave-playstation-plus-in-may-including-spider-man",
-          "author": "Ed Nightingale",
-          "description": "Yesterday Sony announced the next games joining its PlayStation Plus subscription in May, including a number of Bethesda-published games.\r\n\r\n\n\r\nThe PlayStation Blog also noted Marvel's Spider-Man, Resident Evil, and NBA 2K Playgrounds 2 \"will be among some of the titles leaving the PlayStation Plus Game Catalogue in May\" as part of its \"normal content refresh\".\r\n\n\r\nIt doesn't list any further games, but checking the Last Chance To Play section of the PSN Store reveals there are in fact over 30 games leaving the subscription on 15th May.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/over-30-games-will-leave-playstation-plus-in-may-including-spider-man",
-          "publishedOn": "2023-04-13T10:52:48.000Z",
-          "wordCount": 5607,
-          "title": "Over 30 games will leave PlayStation Plus in May, including Spider-Man",
-          "imageUrl": "https://assetsio.reedpopcdn.com/spider-man_dn7Jqot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/russian-intelligence-trying-to-penetrate-gaming-communities-microsoft-exec-says",
-          "author": "Victoria Kennedy",
-          "description": "Microsoft president Brad Smith has claimed Russian intelligence agencies and private military company The Wagner Group were trying to \"penetrate gaming communities\". \r\n\n\r\nDuring a chat at Semafor's World Economy Summit, the discussion turned to leaked Pentagon documents that appear to stem from a gaming chatroom and contain sensitive information about the Ukraine war. This allegedly includes details about the deployment of British special forces, among others. \nIn response to these comments, Smith stated Microsoft's threat analysis team had \"been identifying efforts by the Russians\" to weave their way into gaming communities, with the intention to spread information from there. Smith specifically mentioned Discord and Minecraft, as an example. He said Microsoft has been \"advising governments\" on this issue, before stating: \"It's the Wagner Group, it's Russian intelligence.\" \n Read more",
-          "link": "https://www.eurogamer.net/russian-intelligence-trying-to-penetrate-gaming-communities-microsoft-exec-says",
-          "publishedOn": "2023-04-13T10:38:08.000Z",
-          "wordCount": 5649,
-          "title": "Russian intelligence trying to \"penetrate gaming communities\", Microsoft exec says",
-          "imageUrl": "https://assetsio.reedpopcdn.com/microsoft-logo-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-appears-to-have-stopped-email-receipts-for-playstation-plus-games",
-          "author": "Ed Nightingale",
-          "description": "Sony appears to have stopped sending out email receipts for downloads of PlayStation Plus games.\r\n\n\r\nEmail receipts are sent whenever games are downloaded from the PSN store, but this includes 'free' games downloaded as part of the PS Plus subscription.\r\n\n\r\nThis is something Sony has been doing since the PlayStation 3 days and likely caused many players confusion when downloading multiple games at once and receiving individual email receipts for each - despite them being for £0.00.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-appears-to-have-stopped-email-receipts-for-playstation-plus-games",
-          "publishedOn": "2023-04-13T10:20:12.000Z",
-          "wordCount": 5293,
-          "title": "Sony appears to have stopped email receipts for PlayStation Plus games",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Playstation-Plus_TLjZ9GB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-veteran-shuhei-yoshida-is-now-a-digital-collectible",
-          "author": "Liv Ngan",
-          "description": "PlayStation Stars, Sony's PlayStation loyalty programme, has revealed a new digital collectible of Shuhei Yoshida. \nPlayStation Stars was first announced in July last year. In September, Sony showed some of the collectibles that can be obtained by completing tasks, including 3D models of Ape Escape and a PlayStation 3.\nThe new collectible is a 3D model of Yoshida as a bobblehead, complete with a short explanation of his role at PlayStation in working with third-party and indie developers. \n Read more",
-          "link": "https://www.eurogamer.net/sony-veteran-shuhei-yoshida-is-now-a-digital-collectible",
-          "publishedOn": "2023-04-13T10:10:58.000Z",
-          "wordCount": 5262,
-          "title": "Sony veteran Shuhei Yoshida is now a digital collectible",
-          "imageUrl": "https://assetsio.reedpopcdn.com/shuhei-yoshida_lqA6l1V.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/peppa-pig-game-developer-hopes-inclusive-family-character-creator-sparks-healthy-conversations",
-          "author": "Victoria Kennedy",
-          "description": "When you think of Peppa Pig, you probably don't think of a brand that pushes boundaries. After all, Peppa comes from your typical nuclear family, and her adventures within the show are generally confined to the day to day dealings of their lives together: Peppa and her family taking a trip to the recycling centre, for example, or visiting a theme park, or doing some DIY around the house. You get the idea.\r\n\n\r\nThat said, the team behind the newly-released Peppa Pig: World Adventures video game wanted players to fully immerse themselves into Peppa's world, no matter what their family dynamic, blueprint or fabric looks like. As such, developer Petoons Studio and publisher Outright Games included a character creator so players can customise their animalistic avatar, from gender and species to fur colour and accessories. Then, once their own character is designed, players can do the same for the rest of their family. \r\n\n\r\nThis means if players want to make their character a brown fox with a blue rabbit for a parent, they can. If they want their character to have siblings that are different animals to them, they can. If they want their parents to be the same gender, they can. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/peppa-pig-game-developer-hopes-inclusive-family-character-creator-sparks-healthy-conversations",
-          "publishedOn": "2023-04-13T09:00:00.000Z",
-          "wordCount": 5972,
-          "title": "Peppa Pig game developer hopes inclusive family character creator sparks \"healthy conversations\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/peppa-pig-family.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
