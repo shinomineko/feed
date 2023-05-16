@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T18:24:33.943Z</updated>
+    <updated>2023-05-16T00:32:08.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.27: KMS V2 Moves to Beta]]></title>
+        <id>https://kubernetes.io/blog/2023/05/16/kms-v2-moves-to-beta/</id>
+        <link href="https://kubernetes.io/blog/2023/05/16/kms-v2-moves-to-beta/"/>
+        <updated>2023-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Anish Ramasekar, Mo Khan, and Rita Zhang (Microsoft)
+With Kubernetes 1.27, we (SIG Auth) are moving Key Management Service (KMS) v2 API to beta.
+What is KMS?
+One of the first things to consider when securing a Kubernetes cluster is encrypting etcd data at
+rest. KMS provides an interface for a provider to utilize a key stored in an external key service to
+perform this encryption.
+KMS v1 has been a feature of Kubernetes since version 1.10, and is currently in beta as of version
+v1.12. KMS v2 was introduced as alpha in v1.25.
+Note
+the previous blog post
+was written and it is not compatible with the design in this blog post. Attempting to upgrade from
+old versions with the alpha feature enabled will result in data loss.
+
+What’s new in v2beta1?
+The KMS encryption provider uses an envel…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreamy Ecuadorian football adventure Despelote re-emerges for 2024 release]]></title>
+        <id>https://www.eurogamer.net/dreamy-ecuadorian-football-adventure-despelote-re-emerges-with-a-2024-release</id>
+        <link href="https://www.eurogamer.net/dreamy-ecuadorian-football-adventure-despelote-re-emerges-with-a-2024-release"/>
+        <updated>2023-05-15T23:23:48.000Z</updated>
+        <summary type="html"><![CDATA[It's been a good long while since we first laid eyes on dreamy Ecuadorian football adventure Despelote, but now, after several years away from the spotlight, it's resurfaced with a publisher and a planned 2024 release on PlayStation, Xbox, and PC.
+
+
+Created by Julián Cordero and Sebastian Valbuena, Despelote is described as a semi-autobiographical slice-of-life adventure about "childhood and the magical grip soccer held over the people of Quito, Ecuador in 2001". It's set during a period when the country's football team was on the verge of qualifying for the World Cup for the first time, helping instil a sense of hope in a population still reeling from a major financial crisis. 
+
+
+That translates to "bittersweet and sometimes dreamy" game of kick-abouts and conversations, in which sees players - viewing the world through the eyes and ears of eight-year-old Julián - explore a dense corner of Quito, "full of activities, interactions, and mischief to get up to".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diet sodas are not actually good for your diet, WHO guidance suggests]]></title>
+        <id>https://arstechnica.com/?p=1939427</id>
+        <link href="https://arstechnica.com/?p=1939427"/>
+        <updated>2023-05-15T23:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Artificial sweeteners don't help control weight, and that's where the problems start.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmic rays reveal hidden ancient burial chamber underneath Naples]]></title>
+        <id>https://arstechnica.com/?p=1939194</id>
+        <link href="https://arstechnica.com/?p=1939194"/>
+        <updated>2023-05-15T22:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Rectangular chamber was probably the tomb of a wealthy individual or family.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canned multiplayer mech shooter Hawken being revived as PvE game]]></title>
+        <id>https://www.eurogamer.net/canned-multiplayer-mech-shooter-hawken-is-being-revived-as-a-free-to-play-pve-game</id>
+        <link href="https://www.eurogamer.net/canned-multiplayer-mech-shooter-hawken-is-being-revived-as-a-free-to-play-pve-game"/>
+        <updated>2023-05-15T22:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Five years after free-to-play multiplayer mech shooter Hawken was pulled offline following a tumultuous development, the brand is being revived by 505 Games as the PvE-focused, and initially single-player, Hawken Reborn.
+
+
+The original Hawken burst onto the scene back in 2011 with an eye-catching work-in-progress trailer, but it struggled to find an audience once out in the real world. A failed early access attempt in 2014 saw development stall until a "relaunch" in 2017, but even that wasn't enough to get bums in mechs, and the game's PC servers were yanked for good the following year.
+
+
+Which does make Hawken something of an odd choice for a revival, but here we are, five years later, with the free-to-play Hawken Reborn now listed on Steam and poised to launch into early access as a "genuinely early-in-development" title this Wednesday, 17th May.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Willow could be the $50 hardware piece of the DIY voice assistant puzzle]]></title>
+        <id>https://arstechnica.com/?p=1939388</id>
+        <link href="https://arstechnica.com/?p=1939388"/>
+        <updated>2023-05-15T22:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Installation is a mess, but Home Asssistant-ready voice gear is sorely needed.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk defends enabling Turkish censorship on Twitter, calling it his “choice”]]></title>
+        <id>https://arstechnica.com/?p=1939412</id>
+        <link href="https://arstechnica.com/?p=1939412"/>
+        <updated>2023-05-15T21:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Musk said he cannot go beyond the laws of the country to defend free speech.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 months after launch, battle royale Vampire The Masquerade: Bloodhunt is ending development]]></title>
+        <id>https://www.eurogamer.net/12-months-on-battle-royale-vampire-the-masquerade-bloodhunt-is-ending-development</id>
+        <link href="https://www.eurogamer.net/12-months-on-battle-royale-vampire-the-masquerade-bloodhunt-is-ending-development"/>
+        <updated>2023-05-15T20:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Just 12 months after its full launch, development is ending on free-to-play battle royale game Vampire The Masquerade: Bloodhunt, with its developer Sharkmob blaming the title's failure "reach the critical mass needed" to continue support.
+
+
+Bloodhunt was announced toward the end of 2020 and, following a limited Steam early access release, recieved its full launch on PlayStation and PC last April. It offered players a vampiric spin on the well-worn battle royale formula, setting them loose across the rain-soaked, moon-drenched streets and rooftops of Prague, armed with supernatural parkour abilities and other clan-specific powers - plus, rather more boringly, guns.
+
+
+It made for an interesting twist on a familiar genre - even if Eurogamer's Robert Purchese didn't much like the whole shooty thing when he played it back in early access - but that clearly wasn't enough to attact and retain the kind of player base Bloodhunt needed.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cable TV has fewest subscribers since 1992, YouTube TV is the only riser]]></title>
+        <id>https://arstechnica.com/?p=1939351</id>
+        <link href="https://arstechnica.com/?p=1939351"/>
+        <updated>2023-05-15T20:20:15.000Z</updated>
+        <summary type="html"><![CDATA[YouTube TV is up 5 percent, and that's before NFL Sunday Ticket kicks in.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double-screen ‘free’ TV will show you ads, even when not in use]]></title>
+        <id>https://arstechnica.com/?p=1939289</id>
+        <link href="https://arstechnica.com/?p=1939289"/>
+        <updated>2023-05-15T19:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Telly is free, but with all the data tracking, you should get paid to use it.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witcher spin-off studio The Molasses Flood hit by layoffs after project reboot]]></title>
+        <id>https://www.eurogamer.net/the-witcher-spin-off-studio-the-molasses-flood-hit-by-layoffs-following-project-reboot</id>
+        <link href="https://www.eurogamer.net/the-witcher-spin-off-studio-the-molasses-flood-hit-by-layoffs-following-project-reboot"/>
+        <updated>2023-05-15T18:37:44.000Z</updated>
+        <summary type="html"><![CDATA[The Molasses Flood, the CD-Projekt-owned studio currently working on The Witcher spin-off Project Sirius, has been hit by layoffs following the game's recent reboot.
+
+
+Development on Project Sirius - previously described as a part-solo, part-multiplayer experience - was confirmed to have stalled back in March, after CD Projekt re-evaluated the "scope and commercial potential of the original concept". At the time, the company told investors it was "formulating a new framework" for the game that was better "aligned with [its] strategy".
+
+
+Last week, CD Projekt shared an update on Project Sirius, announcing its "work on defining a new framework" was now complete. But that news was followed by growing reports of layoffs at the Boston-based The Molasses Flood, which was acquired by CD Projekt in 2021, with the studio's technical narrative designer Robert Bailey, environment artist Eleanore Falck, senior environment artist and world builder Gannon Jasper, and art producer Caryn M. Boehm, all revealing they had lost their jobs in tweets shared since last week.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s purchase of Activision gets the OK from the EU]]></title>
+        <id>https://arstechnica.com/?p=1939342</id>
+        <link href="https://arstechnica.com/?p=1939342"/>
+        <updated>2023-05-15T18:17:14.000Z</updated>
+        <summary type="html"><![CDATA[In break with UK, Europe says Microsoft's promises will remedy cloud-gaming concerns.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As AI-generated fakes proliferate, Google plans to fight back]]></title>
+        <id>https://arstechnica.com/?p=1939223</id>
+        <link href="https://arstechnica.com/?p=1939223"/>
+        <updated>2023-05-15T17:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Google will track image provenance, label AI-generated images, display metadata.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Musk’s Tesla tweets to remain on SEC leash, court rules]]></title>
         <id>https://arstechnica.com/?p=1939292</id>
@@ -238,6 +414,16 @@ Aonuma agreed Ocarina of Time did create a format but it was ultimately restrict
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crystal Ball]]></title>
+        <id>https://xkcd.com/2776/</id>
+        <link href="https://xkcd.com/2776/"/>
+        <updated>2023-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/crystal_ball.png" title="They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball." alt="They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10574,70 +10760,6 @@ Read more]]></summary>
 According to Windows Central, O'Connor's LinkedIn page was recently updated with an end date to his 20-year tenure with Microsoft.
 
 Furthermore, O'Connor now lists his franchise creator director position with Microsoft is now listed as having ended in April 2023, although there's been no formal word from O'Connor nor Microsoft that they've parted ways. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capcom quietly removes raytracing from Resident 2 and 3 Remakes]]></title>
-        <id>https://www.eurogamer.net/capcom-quietly-removes-raytracing-from-resident-2-and-3-remakes</id>
-        <link href="https://www.eurogamer.net/capcom-quietly-removes-raytracing-from-resident-2-and-3-remakes"/>
-        <updated>2023-04-16T12:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Capcom has quietly removed raytracing from the Steam versions of both the Resident Evil 2 and Resident Evil 3 remakes.
-
-Right now, no-one's entirely sure why the feature has been removed, but whilst "they are still DirectX 12", raytracing has disappeared - as has Dolby Atmos for the third remake, too.
-
-The issue came to light when u/pmc64 popped up on the PC Gaming subreddit to say that "Capcom removed raytracing" from both games overnight, whilst someone else brought it to everyone's attention on the Resident Evil 3 Steam community around the same time.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American McGee asks fans to "respect his decision to move on" after EA "killed" a third Alice game]]></title>
-        <id>https://www.eurogamer.net/american-mcgee-asks-fans-to-respect-his-decision-to-move-on-after-ea-killed-a-third-alice-game</id>
-        <link href="https://www.eurogamer.net/american-mcgee-asks-fans-to-respect-his-decision-to-move-on-after-ea-killed-a-third-alice-game"/>
-        <updated>2023-04-16T11:41:51.000Z</updated>
-        <summary type="html"><![CDATA[American McGee has asked people to "stop asking questions about Alice" following confirmation that EA would not let him continue the macabre cult series.
-
-In a follow-up Q&A posted to his Patreon page, McGee admitted that he was "feeling the same pain and anger as many of you" but said it was time for he and his fans "to move on".
-
-American McGee's confirmed last week that his attempt to develop a third instalment in his fan-favourite Alice series "is at an end".
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honaki Star Rail has 10 million users and it's not even out yet]]></title>
-        <id>https://www.eurogamer.net/honaki-star-rail-has-10-million-users-and-its-not-even-out-yet</id>
-        <link href="https://www.eurogamer.net/honaki-star-rail-has-10-million-users-and-its-not-even-out-yet"/>
-        <updated>2023-04-16T11:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Honaki: Star Rail isn't out until 26th April, 2023, but it already boasts 10 million users.
-
-That's according to developer HoYoverse, which announced the milestone on its social media channels over the weekend.
-
-To celebrate, the studio is encouraging players to retweet the message as many times as possible to secure some in-game goodies, and one participant is in line to win "about" $100.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie says it takes the recent Destiny 2 leaks "extremely seriously" and is "taking action"]]></title>
-        <id>https://www.eurogamer.net/bungie-says-it-takes-the-recent-destiny-2-leaks-extremely-seriously-and-is-taking-action</id>
-        <link href="https://www.eurogamer.net/bungie-says-it-takes-the-recent-destiny-2-leaks-extremely-seriously-and-is-taking-action"/>
-        <updated>2023-04-16T10:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Bungie has opened up about a "breach of trust" after a recent creator summit ended in a leak of Destiny 2's upcoming season.
-
-In a statement posted to the studio's social media channels, the company said it it was "taking actions to reinforce its policies" but if it couldn't trust its carefully curated attendees, it "could result in its inability to hold more summits". 
-
-"Community interaction and engagement is central to Bungie and our games," Bungie explained in a tweet. "For years, we've invited creators and other members of the community to confidential summits to provide feedback on the future of Destiny. This is a beloved part of the process, but relies heavily on trust.
  
 Read more]]></summary>
         <author>
