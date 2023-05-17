@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/05/microsoft-secure-boot-bug.html",
+          "author": null,
+          "description": "<p>Microsoft is currently <a href=\"https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/\">patching</a> a zero-day Secure-Boot bug.</p>\n<blockquote><p>The BlackLotus bootkit is the first-known real-world malware that can bypass Secure Boot protections, allowing for the execution of malicious code before your PC begins loading Windows and its many security protections. Secure Boot has been enabled by default for over a decade on most Windows PCs sold by companies like Dell, Lenovo, HP, Acer, and others. PCs running Windows 11 must have it enabled to meet the software&#8217;s system requirements.</p>\n<p>Microsoft says that the vulnerability can be exploited by an attacker with either physical access to a system or administrator rights on a system. It can affect physical PCs and virtual machines with Secure Boot enabled...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/microsoft-secure-boot-bug.html",
+          "publishedOn": "2023-05-17T11:01:08.000Z",
+          "wordCount": 1187,
+          "title": "Microsoft Secure Boot Bug",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/05/micro-star-international-signing-key-stolen.html",
           "author": null,
           "description": "<p>Micro-Star International&#8212;aka MSI&#8212;had its UEFI signing key <a href=\"https://arstechnica.com/information-technology/2023/05/leak-of-msi-uefi-signing-keys-stokes-concerns-of-doomsday-supply-chain-attack/\">stolen</a> last month.</p>\n<blockquote><p>This raises the possibility that the leaked key could push out updates that would infect a computer&#8217;s most nether regions without triggering a warning. To make matters worse, Matrosov said, MSI doesn&#8217;t have an automated patching process the way Dell, HP, and many larger hardware makers do. Consequently, MSI doesn&#8217;t provide the same kind of key revocation capabilities.</p></blockquote>\n<p>Delivering a signed payload isn&#8217;t as easy as all that. &#8220;Gaining the kind of control required to compromise a software build system is generally a non-trivial event that requires a great deal of skill and possibly some luck.&#8221; But it just got a whole lot easier...</p>",
@@ -3860,86 +3870,6 @@
           "wordCount": 1733,
           "title": "Porsche bumps battery capacity, charging speed for 2024 Cayenne hybrid",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/2024-Porsche-Cayenne-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932403",
-          "author": "Ron Amadeo",
-          "description": "With an upgraded screen, cameras, and wireless charging, Google wants $50 more.",
-          "link": "https://arstechnica.com/?p=1932403",
-          "publishedOn": "2023-04-17T21:19:31.000Z",
-          "wordCount": 1649,
-          "title": "Report: Pixel 7a will cost $499, Pixel 6a will continue at a reduced price",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/Pixel_Zing_9_of_14_-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932354",
-          "author": "Benj Edwards",
-          "description": "\"Firefly for Video\" will generate sound effects and music, edit footage via text.",
-          "link": "https://arstechnica.com/?p=1932354",
-          "publishedOn": "2023-04-17T20:57:31.000Z",
-          "wordCount": 1837,
-          "title": "Adobe teases generative AI video tools",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/adobe_editing_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932368",
-          "author": "Jon Brodkin",
-          "description": "FBI: Guardsman owned AR-15 and was willing to take fingers and ears as trophies.",
-          "link": "https://arstechnica.com/?p=1932368",
-          "publishedOn": "2023-04-17T20:41:47.000Z",
-          "wordCount": 1723,
-          "title": "FBI: Rent-a-Hitman site nabbed Air National Guardsman who was “excited” to kill",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/josiah-garcia-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1931767",
-          "author": "Jennifer Ouellette",
-          "description": "Onggi have just the right amount of porosity to enable kimchi to ferment faster.",
-          "link": "https://arstechnica.com/?p=1931767",
-          "publishedOn": "2023-04-17T20:24:02.000Z",
-          "wordCount": 1984,
-          "title": "Science confirms it: The best kimchi is made in traditional clay jars (onggi)",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/kimchi1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932356",
-          "author": "Ashley Belanger",
-          "description": "Discord-leaks suspect used security clearance to track investigation, FBI says.",
-          "link": "https://arstechnica.com/?p=1932356",
-          "publishedOn": "2023-04-17T19:37:51.000Z",
-          "wordCount": 1910,
-          "title": "Discord flushes leaked docs, reposters after leading FBI to prime suspect",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1251792045-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932318",
-          "author": "Scharon Harding",
-          "description": "Apple expands financial services push as the hardware market remains tumultuous.",
-          "link": "https://arstechnica.com/?p=1932318",
-          "publishedOn": "2023-04-17T19:09:32.000Z",
-          "wordCount": 1634,
-          "title": "Apple launches high-yield savings account with 4.15 percent APY",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/savings-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932346",
-          "author": "John Timmer",
-          "description": "Floating plastic is forming its own ecosystems with mixes of species.",
-          "link": "https://arstechnica.com/?p=1932346",
-          "publishedOn": "2023-04-17T19:01:10.000Z",
-          "wordCount": 1702,
-          "title": "Pacific garbage patch providing a deep ocean home for coastal species",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1217870828-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932328",
-          "author": "Jonathan M. Gitlin",
-          "description": "Seven others qualify for a $3,500 tax credit.",
-          "link": "https://arstechnica.com/?p=1932328",
-          "publishedOn": "2023-04-17T18:28:45.000Z",
-          "wordCount": 1750,
-          "title": "These 10 EVs and plug-in hybrids still get the full $7,500 tax credit",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1311094306-760x380.jpg"
         }
       ]
     },
@@ -4186,6 +4116,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/here-are-the-17-ps5-and-ps4-games-leaving-ps-plus-soon-including-keywe-and-descenders",
+          "author": "Victoria Kennedy",
+          "description": "Sony has updated its list of PlayStation 5 and PS4 games leaving PS Plus soon. \r\n\n\r\nThese titles include the recently arrived Descenders and the cute looking co-op game KeyWe (pictured above). \r\n\n\r\nHere's the full list of the PlayStation Plus games leaving the service soon, as found in the console's Last Chance To Play section:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/here-are-the-17-ps5-and-ps4-games-leaving-ps-plus-soon-including-keywe-and-descenders",
+          "publishedOn": "2023-05-17T11:35:16.000Z",
+          "wordCount": 5854,
+          "title": "Here are the 17 PS5 and PS4 games leaving PS Plus soon, including KeyWe and Descenders",
+          "imageUrl": "https://assetsio.reedpopcdn.com/keywe_FUv52hW.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-your-first-look-at-the-five-nights-at-freddys-movie",
+          "author": "Tom Phillips",
+          "description": "Today brings the first trailer for Five Nights at Freddy's, the upcoming movie based on the enormously-popular horror game series of the same name. \r\n\n\r\nThis trailer first leaked online earlier in the month - though legal notices and a fairly successful community boycott stemmed its spread.  \r\n\n\r\nHere we get our first look at The Hunger Games' Josh Hutcherson, cast as a new security guard for creepy pizza chain Freddy Fazbear's Pizza. An evil-looking Matthew Lillard (Scream, Scooby-Doo) can also be seen. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-your-first-look-at-the-five-nights-at-freddys-movie",
+          "publishedOn": "2023-05-17T11:02:12.000Z",
+          "wordCount": 5829,
+          "title": "Here's your first look at the Five Nights at Freddy's movie",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Five-Nights-At-Freddy's-_-Official-Teaser-0-21-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/arc-raiders-from-ex-dice-devs-embark-studios-has-had-a-genre-change",
+          "author": "Ed Nightingale",
+          "description": "ARC Raiders, the forthcoming shooter from Embark Studios, has had a genre change.\r\n\n\r\nOriginally a co-operative third-person shooter, the free-to-play game is now being described as a \"PvPvE extraction shooter\".\r\n\n\r\nThe change has been updated on the game's Steam page, along with a new blog post from executive producer Aleksander Grøndal giving more details.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/arc-raiders-from-ex-dice-devs-embark-studios-has-had-a-genre-change",
+          "publishedOn": "2023-05-17T11:00:27.000Z",
+          "wordCount": 5707,
+          "title": "ARC Raiders, from ex-DICE devs Embark Studios, has had a genre change",
+          "imageUrl": "https://assetsio.reedpopcdn.com/arc-raiders.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-obliged-to-refund-players-money-for-fifa-fut-packs-after-austrian-loot-box-ruling-goes-unchallenged",
+          "author": "Victoria Kennedy",
+          "description": "Sony has not appealed the Austrian loot box verdict which ordered it to refund a number of Austrian FIFA players, after a court ruled that FIFA Ultimate Team (FUT) packs constituted a form of gambling.\r\n\nEarlier this year, a court in Hermagor ruled that the football game's FUT packs violated the country's gambling laws. At this time, lawyer Ulrich Salburg stated the plaintiffs - which included one minor - had allegedly \"gambled away\" hundreds of euros on FUT packs when the uncertain monetary value of the packs purportedly violated the Austrian Gaming Act.\r\n\n\r\nConsequently, the court alleged that the controversial loot boxes could be classified as \"illegal gambling\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-obliged-to-refund-players-money-for-fifa-fut-packs-after-austrian-loot-box-ruling-goes-unchallenged",
+          "publishedOn": "2023-05-17T10:59:08.000Z",
+          "wordCount": 6034,
+          "title": "Sony obliged to refund players' money for FIFA FUT packs, after Austrian loot box ruling goes unchallenged",
+          "imageUrl": "https://assetsio.reedpopcdn.com/fifa-23-release-time-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/zelda-tears-of-the-kingdom-fan-launches-instructional-website-to-help-you-make-builds",
+          "author": "Ed Nightingale",
+          "description": "Zelda: Tears of the Kingdom players have been busy making some weird and wonderful contraptions to get around Hyrule, defeat enemies, and torture koroks.\r\n\r\n\r\n\n\r\nBut have you wondered: how do they do that?\r\n\n\r\nOne Zelda fan has put together a Zelda DIY site to help you build your own versions of these creations.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/zelda-tears-of-the-kingdom-fan-launches-instructional-website-to-help-you-make-builds",
+          "publishedOn": "2023-05-17T10:58:34.000Z",
+          "wordCount": 5879,
+          "title": "Zelda: Tears of the Kingdom fan launches instructional website to help you make builds",
+          "imageUrl": "https://assetsio.reedpopcdn.com/The-Legend-of-Zelda_-Tears-of-the-Kingdom-%E2%80%93-Coming-May-12th%2C-2023-%E2%80%93-Nintendo-Switch-1-6-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/steam-dabbling-with-90-minute-game-trials-starting-with-eas-dead-space-remake",
           "author": "Matt Wales",
@@ -7695,26 +7675,6 @@
           "wordCount": 5894,
           "title": "Pokémon Go developer announces Monster Hunter Now",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-2_Rf0URHs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/valheim-dev-reveals-customisable-difficulty-modifiers-and-creative-mode",
-          "author": "Matt Wales",
-          "description": "Having teased the introduction of difficulty modifiers to its viking survival game Valheim back in January, developer Iron Gate Studio has now offered a first look at the feature's progress.\r\n\n\r\nWord that Iron Gate was looking to introduce difficulty settings to Valheim first came as part of an very early glimpse at the game's upcoming Ashlands biome. And now, three months on, development has reached a point where the studio is able to share more.\r\n\n\r\nAs detailed by Iron Gate's Jonathan Smårs on Twitter, Valheim's difficulty settings will take the form of both pre-set and customisable \"world modifiers\". Some you'd expect - Easy, Hard, and Hardcore variations are all present and correct, for instance, impacting combat difficulty, the frequency of enemy raids on player bases, and items kept on death - but Iron Gate is throwing in a number of more unusual presets too.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/valheim-dev-reveals-customisable-difficulty-modifiers-and-creative-mode",
-          "publishedOn": "2023-04-17T21:59:49.000Z",
-          "wordCount": 5855,
-          "title": "Valheim dev reveals customisable difficulty modifiers and creative mode",
-          "imageUrl": "https://assetsio.reedpopcdn.com/valheim-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-wins-case-against-french-filesharing-service-hosting-pirated-games",
-          "author": "Matt Wales",
-          "description": "A French court has sided with Nintendo in an appeal launched by filehosting website operator Dstorarge, which was previously ordered to pay €935,500 (around £826k) after it refused to withdraw access to pirated Nintendo games.\r\n\n\r\nNintendo initially took legal action against Dstorarge after it ignored copyright notifications demanding it remove illegal copies of Nintendo games hosted on its 1fichier service. The Judicial Court of Paris ultimately ruled in Nintendo's favour, saying filehosting services such as 1fichier were responsible for blocking access to pirated content and ordering Dstorage pay the Mario maker €935,500 in damages.\r\n\n\r\nDstorage, in turn, launched an appeal against the ruling, and, two years on, that appeal has now failed. The Paris Court of Appeals has once again sided with Nintendo, ordering Dstorage to pay the company €442,750 (£391k) in compensation, plus €25,000 (£22k) to cover legal fees.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-wins-case-against-french-filesharing-service-hosting-pirated-games",
-          "publishedOn": "2023-04-17T19:31:01.000Z",
-          "wordCount": 5482,
-          "title": "Nintendo wins case against French filesharing service hosting pirated games",
-          "imageUrl": "https://assetsio.reedpopcdn.com/nintendo-logo-1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
