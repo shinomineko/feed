@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/05/security-risks-of-new-zip-and-mov-domains.html",
+          "author": null,
+          "description": "<p>Researchers are <a href=\"https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/\">worried</a> about Google&#8217;s .zip and .mov domains, because they are confusing. Mistaking a URL for a filename could be a security vulnerability.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/security-risks-of-new-zip-and-mov-domains.html",
+          "publishedOn": "2023-05-19T11:11:52.000Z",
+          "wordCount": 825,
+          "title": "Security Risks of New .zip and .mov Domains",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/05/microsoft-secure-boot-bug.html",
           "author": null,
           "description": "<p>Microsoft is currently <a href=\"https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/\">patching</a> a zero-day Secure-Boot bug.</p>\n<blockquote><p>The BlackLotus bootkit is the first-known real-world malware that can bypass Secure Boot protections, allowing for the execution of malicious code before your PC begins loading Windows and its many security protections. Secure Boot has been enabled by default for over a decade on most Windows PCs sold by companies like Dell, Lenovo, HP, Acer, and others. PCs running Windows 11 must have it enabled to meet the software&#8217;s system requirements.</p>\n<p>Microsoft says that the vulnerability can be exploited by an attacker with either physical access to a system or administrator rights on a system. It can affect physical PCs and virtual machines with Secure Boot enabled...</p></blockquote>",
@@ -381,6 +391,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1940052",
+          "author": "Eric Berger",
+          "description": "\"I fell to my knees, sobbing, from witnessing such an incredible feat.\"",
+          "link": "https://arstechnica.com/?p=1940052",
+          "publishedOn": "2023-05-19T11:00:30.000Z",
+          "wordCount": 2289,
+          "title": "Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FwbB1IzaIAIaBvb-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1940097",
+          "author": "Chuong Nguyen",
+          "description": "Summer is here, but that shouldn't keep you from your cable management project.",
+          "link": "https://arstechnica.com/?p=1940097",
+          "publishedOn": "2023-05-19T09:00:48.000Z",
+          "wordCount": 1777,
+          "title": "Dealmaster: Save on Dell XPS 15, smartwatches, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/xps15OLED1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1940400",
           "author": "Dan Goodin",
@@ -3850,76 +3880,6 @@
           "wordCount": 1792,
           "title": "SpaceX to make a second attempt to launch its massive Starship rocket",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Starship-4-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933162",
-          "author": "Ashley Belanger",
-          "description": "Musk says his own tweets might be labeled under new hateful conduct policy.",
-          "link": "https://arstechnica.com/?p=1933162",
-          "publishedOn": "2023-04-19T22:40:16.000Z",
-          "wordCount": 2043,
-          "title": "Twitter quietly edited its hateful conduct policy to drop transgender protections",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/elon-musk-unleashes-twitter-birds-from-his-mouth-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933098",
-          "author": "Ron Amadeo",
-          "description": "There's a new app coming and an option for a free phone after 24 months of service.",
-          "link": "https://arstechnica.com/?p=1933098",
-          "publishedOn": "2023-04-19T21:13:13.000Z",
-          "wordCount": 1688,
-          "title": "Google Fi gets third rebrand in 8 years, adds free trial for eSim phones",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/42-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933080",
-          "author": "Kevin Purdy",
-          "description": "LLMs can no longer lurk, learn, and profit from 18 years of links and chatter.",
-          "link": "https://arstechnica.com/?p=1933080",
-          "publishedOn": "2023-04-19T20:32:25.000Z",
-          "wordCount": 1703,
-          "title": "Reddit will start charging AI models learning from its extremely human archives",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/reddit_alient-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933065",
-          "author": "Jennifer Ouellette",
-          "description": "\"The next great Age of Exploration starts with us.\"",
-          "link": "https://arstechnica.com/?p=1933065",
-          "publishedOn": "2023-04-19T20:27:54.000Z",
-          "wordCount": 1953,
-          "title": "First teaser for Star Trek: Strange New Worlds S2 is giving us all the feels",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/strange1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933111",
-          "author": "John Timmer",
-          "description": "A clear performance edge, though the relevance to practical problems remains unclear.",
-          "link": "https://arstechnica.com/?p=1933111",
-          "publishedOn": "2023-04-19T19:52:44.000Z",
-          "wordCount": 1772,
-          "title": "Quantum effects of D-Wave’s hardware boost its performance",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/Screen-Shot-2019-10-01-at-12.13.03-PM-745x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933073",
-          "author": "Jon Brodkin",
-          "description": "Global task force claims tech firms \"blindfold themselves to child sexual abuse.\"",
-          "link": "https://arstechnica.com/?p=1933073",
-          "publishedOn": "2023-04-19T19:12:19.000Z",
-          "wordCount": 1882,
-          "title": "FBI and others urge Meta to halt encryption plans, citing child abuse risk",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-security-illustration-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1932932",
-          "author": "Jennifer Ouellette",
-          "description": "Organic additives produced plasters with similar properties to sea urchin spines, mollusk shells.",
-          "link": "https://arstechnica.com/?p=1932932",
-          "publishedOn": "2023-04-19T18:35:56.000Z",
-          "wordCount": 1879,
-          "title": "Archaeologists are unlocking the secrets of Maya lime plasters and mortars",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/mayaTOP-760x380.jpg"
         }
       ]
     },
@@ -4104,16 +4064,6 @@
           "wordCount": 3751,
           "title": "Blog: Kubernetes 1.27: Query Node Logs Using The Kubelet API",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta/",
-          "author": null,
-          "description": "Author: Chris Henzie (Google)\nWith the release of Kubernetes v1.27 the ReadWriteOncePod feature has graduated\nto beta. In this blog post, we'll take a closer look at this feature, what it\ndoes, and how it has evolved in the beta release.\nWhat is ReadWriteOncePod?\nReadWriteOncePod is a new access mode for\nPersistentVolumes (PVs)\nand PersistentVolumeClaims (PVCs)\nintroduced in Kubernetes v1.22. This access mode enables you to restrict volume\naccess to a single pod in the cluster, ensuring that only one pod can write to\nthe volume at a time. This can be particularly useful for stateful workloads\nthat require single-writer access to storage.\nFor more context on access modes and how ReadWriteOncePod works read\nWhat are access modes and why are they important?\nin the Introducing Single Pod Acces…",
-          "link": "https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta/",
-          "publishedOn": "2023-04-20T00:00:00.000Z",
-          "wordCount": 3676,
-          "title": "Blog: Kubernetes 1.27: Single Pod Access Mode for PersistentVolumes Graduates to Beta",
-          "imageUrl": null
         }
       ]
     },
@@ -4166,6 +4116,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/horizon-forbidden-west-developers-discuss-burning-shores-ending-choice-review-bombing",
+          "author": "Victoria Kennedy",
+          "description": "Developers behind Horizon Forbidden West: Burning Shores have addressed the DLC's ending decision, and the subequent review bombing the game suffered as a result.\r\n\n\r\nPlease note, there will be spoilers for Horizon Forbidden West Burning Shores below.\r\n\n\r\n\r\nDuring the events of Burning Shores, Aloy meets Seyka, an \"ambitious marine of the Quen tribe who has stepped up to help her people survive\". Ahead of the DLC's release, Seyka was touted as a character that would be Aloy's equal, with actress Ashly Burch even saying \"Aloy may have met her match\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/horizon-forbidden-west-developers-discuss-burning-shores-ending-choice-review-bombing",
+          "publishedOn": "2023-05-19T11:43:07.000Z",
+          "wordCount": 5983,
+          "title": "Horizon Forbidden West developers discuss Burning Shores ending choice, review bombing",
+          "imageUrl": "https://assetsio.reedpopcdn.com/FuGirP0XgAAPtxF.jfif?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/john-carmack-responds-to-convention-attendance-criticism",
+          "author": "Tom Phillips",
+          "description": "Legendary game developer John Carmack has defended his decision to attend a science fiction and fantasy convention for \"non-leftist\" writers, following social media criticism.\r\n\n\r\nCarmack announced he would attend BasedCon this week via Twitter, prompting displeasure from followers upset at the event's description as an alternative to the \"publishing industry's hostility to authors who are critical of progressive dogma\". \r\n\n\r\nThe event's name stems from the internet slang \"based\", which BasedCon's own About page describes as \"the opposite of social justice activism\" and identified by \"based beliefs\" such as \"discriminating against white people is racism\", \"men cannot give birth\", and also \"guns don't kill people, people kill people\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/john-carmack-responds-to-convention-attendance-criticism",
+          "publishedOn": "2023-05-19T11:28:50.000Z",
+          "wordCount": 5683,
+          "title": "John Carmack responds to convention attendance criticism",
+          "imageUrl": "https://assetsio.reedpopcdn.com/zenimax-alleges-john-carmack-stole-thousands-of-documents-developing-oculus-147189943791.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/blizzard-details-diablo-4-accessibility-features",
+          "author": "Ed Nightingale",
+          "description": "Blizzard has detailed the accessibility features that have been implemented in the forthcoming Diablo 4.\r\n\n\r\nA new blog post lists the major features relating to dexterity assistance, text assistance, and vision assistance.\r\n\r\n\n\r\nSaid lead accessibility designer Drew McCrory: \"The only limitation to adventuring in Sanctuary should be interest, not capability.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/blizzard-details-diablo-4-accessibility-features",
+          "publishedOn": "2023-05-19T11:07:23.000Z",
+          "wordCount": 5726,
+          "title": "Blizzard details Diablo 4 accessibility features",
+          "imageUrl": "https://assetsio.reedpopcdn.com/diablo4-banner.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/zelda-tears-of-the-kingdoms-first-patch-doesnt-remove-item-duplication-glitches",
+          "author": "Ed Nightingale",
+          "description": "Nintendo has released the first patch to Zelda: Tears of the Kingdom, but the game's duplication glitches remain.\r\n\n\r\nThe patch itself is minimal, fixing \"several issues\" to \"improve the gameplay experience\", as well as an issue with the main quest 'The Closed Door' that prevented players from completing it (I am not that far, but if you know, you know).\r\n\n\r\nMore interesting is that the game's item duplication glitches remain intact.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/zelda-tears-of-the-kingdoms-first-patch-doesnt-remove-item-duplication-glitches",
+          "publishedOn": "2023-05-19T10:43:56.000Z",
+          "wordCount": 5852,
+          "title": "Zelda: Tears of the Kingdom's first patch doesn't remove item duplication glitches",
+          "imageUrl": "https://assetsio.reedpopcdn.com/The-Legend-of-Zelda_-Tears-of-the-Kingdom-%E2%80%93-Official-Trailer-%232-1-36-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/link-and-zelda-are-in-a-relationship-voice-actress-says",
+          "author": "Tom Phillips",
+          "description": "The Legend of Zelda: Tears of the Kingdom shows Link and Zelda \"in a relationship\", according to Zelda's voice actress. \r\n\n\r\nNintendo has typically left Link and Zelda's relationship up to players' own interpretations, and gives the series' two main characters only a limited amount of screentime together. \r\n\n\r\nNow, voice actress Patricia Summersett has discussed her take on the character, after voicing Zelda in Breath of the Wild, Tears of the Kingdom and spin-off Hyrule Warriors: Age of Calamity.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/link-and-zelda-are-in-a-relationship-voice-actress-says",
+          "publishedOn": "2023-05-19T10:42:10.000Z",
+          "wordCount": 5965,
+          "title": "Link and Zelda \"are in a relationship\", voice actress says",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_cMEswCL.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/birdos-debut-game-coming-to-nintendo-switch-online",
+          "author": "Victoria Kennedy",
+          "description": "Nintendo has announced the next batch of Game Boy Advance titles for its Switch Online + Expansion Pack service. \r\n\n\r\nOn 26th May, Nintendo Switch Online subscribers will get their hands on Super Mario Advance, Super Mario World: Super Mario Advance 2, and Yoshi's Island: Super Mario Advance 3. \r\n\n\r\nIn Super Mario Advance, players are tasked with launching a load of vegetables and other items at their enemies, in order to reign victorious. This is the Game Boy Advance version of Super Mario Bros. 2 - the game that introduced the world to Nintendo's pink, bow wearing, anthropomorphic dinosaur, Birdo. Birdo is a bit of a favourite here at Eurogamer, and you can find out more about her in our article dedicated to the Nintendo icon here. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/birdos-debut-game-coming-to-nintendo-switch-online",
+          "publishedOn": "2023-05-19T10:25:22.000Z",
+          "wordCount": 5767,
+          "title": "Birdo's debut game coming to Nintendo Switch Online",
+          "imageUrl": "https://assetsio.reedpopcdn.com/birdo-mario.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/heres-a-look-at-90s-cult-classic-little-big-adventures-unreal-engine-5-remaster",
           "author": "Matt Wales",
@@ -7785,26 +7795,6 @@
           "wordCount": 5562,
           "title": "Blizzard teases surprise Diablo 4 beta ahead of launch",
           "imageUrl": "https://assetsio.reedpopcdn.com/Diablo-4_EJKp8QW.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/epic-acquires-horizon-chase-turbo-developer-aquiris-to-work-on-fortnite",
-          "author": "Matt Wales",
-          "description": "Epic Games has gripped another studio in a permanent money hug, this time acquiring Horizon Chase Turbo developer Aquiris to work on Fortnite.\r\n\n\r\nThe Brazil-based Aquiris was founded in 2007 and went on to develop the well-received Wonderbox: The Adventure Maker and Looney Tunes World of Mayhem for mobile, as well as its retro-inspired arcade racer Horizon Chase which released in 2015.\r\n\n\r\nA much-expanded - and critically acclaimed - follow-up, Horizon Chase Turbo, arrived in 2018, whisking the series from mobile to PC and consoles, and Aquiris launched a third entry in the series, Horizon Chase 2, on Apple Arcade at the end of last year.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/epic-acquires-horizon-chase-turbo-developer-aquiris-to-work-on-fortnite",
-          "publishedOn": "2023-04-19T22:44:17.000Z",
-          "wordCount": 5394,
-          "title": "Epic acquires Horizon Chase Turbo developer Aquiris to work on Fortnite",
-          "imageUrl": "https://assetsio.reedpopcdn.com/horizon-chase-2-screen.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/everything-featured-in-todays-nintendo-indie-world-showcase",
-          "author": "Matt Wales",
-          "description": "Nintendo's latest Indie World Showcase has been and gone, serving up another busy, breakneck run-down of indie titles heading to Switch before the year is through. Obvious highlights included a release date for the highly anticipated Oxenfree 2, as well as a first look at Blasphemous 2, but you'll find a full breakdown of everything featured during the show below.\r\n\nMineko's Night Market\n\n\r\nThe lovely looking Mineko's Night Market from Meowza Games is part narrative adventure, part social sim, all inspired by Japanese culture. It promises a mix of exploration, puzzle solving, and village life - and cats! - as player prepare for a weekly visit from the titular Night Market. After a long old wait, this one finally has a release date and is coming to Switch on 26th September.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/everything-featured-in-todays-nintendo-indie-world-showcase",
-          "publishedOn": "2023-04-19T21:26:46.000Z",
-          "wordCount": 7199,
-          "title": "Everything featured in today's Nintendo Indie World Showcase",
-          "imageUrl": "https://assetsio.reedpopcdn.com/nintendo-indie-world_DDZ27gB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
