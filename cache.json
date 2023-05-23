@@ -124,16 +124,6 @@
           "wordCount": 182,
           "title": "Definition of e",
           "imageUrl": "https://imgs.xkcd.com/comics/definition_of_e_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2767/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/recipe_relativity.png\" title=\"It says to cut the onions into 1/4&quot; slices, but I'd better correct for length contraction.\" alt=\"It says to cut the onions into 1/4&quot; slices, but I'd better correct for length contraction.\" />",
-          "link": "https://xkcd.com/2767/",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Recipe Relativity",
-          "imageUrl": "https://imgs.xkcd.com/comics/recipe_relativity_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/05/credible-handwriting-machine.html",
+          "author": null,
+          "description": "<p>In case you don&#8217;t have enough to worry about, someone has <a href=\"https://www.hackster.io/news/homework-machine-hand-writes-ai-generated-assignments-52a2ad5a46c1\">built</a> a credible handwriting machine:</p>\n<blockquote><p>This is still a work in progress, but the project seeks to solve one of the biggest problems with other homework machines, such as <a href=\"https://www.hackster.io/news/clever-student-has-ai-write-their-homework-by-hand-4087f25994c2\">this one that I covered a few months ago</a> after it blew up on social media. The problem with most homework machines is that they&#8217;re too perfect. Not only is their content output too well-written for most students, but they also have perfect grammar and punctuation ­ something even we professional writers fail to consistently achieve. Most importantly, the machine&#8217;s &#8220;handwriting&#8221; is too consistent. Humans always include small variations in their writing, no matter how honed their penmanship...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/credible-handwriting-machine.html",
+          "publishedOn": "2023-05-23T11:15:25.000Z",
+          "wordCount": 995,
+          "title": "Credible Handwriting Machine",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/05/google-is-not-deleting-old-youtube-videos.html",
           "author": null,
@@ -4104,16 +4104,6 @@
           "wordCount": 3721,
           "title": "Blog: Updates to the Auto-refreshing Official CVE Feed",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/",
-          "author": null,
-          "description": "Author: Jeffrey Ying (Google), Antoine Pelisse (Google)\nBefore Kubernetes v1.8 (!), typos, mis-indentations or minor errors in\nYAMLs could have catastrophic consequences (e.g. a typo like\nforgetting the trailing s in replica: 1000 could cause an outage,\nbecause the value would be ignored and missing, forcing a reset of\nreplicas back to 1). This was solved back then by fetching the OpenAPI\nv2 in kubectl and using it to verify that fields were correct and\npresent before applying. Unfortunately, at that time, Custom Resource\nDefinitions didn’t exist, and the code was written under that\nassumption. When CRDs were later introduced, the lack of flexibility\nin the validation code forced some hard decisions in the way CRDs\nexposed their schema, leaving us in a cycle of bad validation causing\nbad O…",
-          "link": "https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 4072,
-          "title": "Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA",
-          "imageUrl": null
         }
       ]
     },
@@ -4167,6 +4157,56 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/blizzard-hops-on-controversial-ai-train-with-concept-art-tool",
+          "author": "Victoria Kennedy",
+          "description": "Blizzard's chief design officer Allen Adham has reportedly told staff to \"prepare to be amazed\" by the company's AI technology. \r\n\n\r\nAn email seen by the New York Times  regarding 'Blizzard Diffusion' was sent to employees earlier this year. Blizzard Diffusion is the company's internal AI tool, which has allegedly been trained as an image generator on Blizzard's own titles (its name is a play on Stable Diffusion, another AI image generation platform). \r\n\n\r\nReportedly, this tool was being used \"to help generate concept art for game environments as well as characters and their outfits\". Adham also made mention of possible tools for \"autonomous, intelligent, in-game NPCs,\" \"procedurally assisted level design\" and AI-assisted \"voice cloning,\" \"game coding\" and \"anti-toxicity\" in his email. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/blizzard-hops-on-controversial-ai-train-with-concept-art-tool",
+          "publishedOn": "2023-05-23T12:07:23.000Z",
+          "wordCount": 6255,
+          "title": "Blizzard hops on controversial AI train with concept art tool",
+          "imageUrl": "https://assetsio.reedpopcdn.com/wow_bWPmDr4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/boy-sues-nintendo-over-immoral-mario-kart-lootboxes-after-spending-170-via-dads-credit-card",
+          "author": "Tom Phillips",
+          "description": "Mario Kart Tour maker Nintendo is facing a lawsuit over the smartphone app's now-removed randomised reward mechanic, lodged by a boy who racked up $170 (£137) in-game using his father's credit card.\r\n\n\r\nThe class action suit was lodged this month by an unidentified minor - albeit via his legal guardian (thanks, Axios). The suit claims that Nintendo's gacha-style rewards system in Mario Kart Tour violated consumer protection and business profession laws.\r\n\n\r\nSpecifically, the boy is seeking compensation for Mario Kart Tour's Spotlight Pipes, which let you pay real-world money for in-game Ruby currency, and spend them on chances for randomised rewards.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/boy-sues-nintendo-over-immoral-mario-kart-lootboxes-after-spending-170-via-dads-credit-card",
+          "publishedOn": "2023-05-23T11:52:04.000Z",
+          "wordCount": 5755,
+          "title": "Boy sues Nintendo over \"immoral\" Mario Kart lootboxes, after spending $170 via dad's credit card",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_fKVAi5B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/square-enix-has-discussed-ditching-series-numbering-for-future-final-fantasy-games",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 16 producer Naoki Yoshida has discussed the possibility of dropping numbers from future games in the series.\r\n\n\r\nEach game in the Final Fantasy series is individual - only a couple have had direct sequels - but Yoshida admitted this can be tough for marketing as some players approach the latest game wondering if the story continues from previous games.\r\n\n\r\n\"A lot of players are going to come in and they're going to look at it like a comic book where you have to read from the beginning to know what's going on now,\" Yoshida told GQ in an interview.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/square-enix-has-discussed-ditching-series-numbering-for-future-final-fantasy-games",
+          "publishedOn": "2023-05-23T10:56:14.000Z",
+          "wordCount": 6081,
+          "title": "Square Enix has \"discussed\" ditching series' numbering for future Final Fantasy games",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ff16---cid-clive-torgal-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/meet-me-at-the-corner-of-jigglypuff-and-charmander-las-vegas-neighbourhood-takes-inspiration-from-pokemon",
+          "author": "Victoria Kennedy",
+          "description": "Charmander is arriving in Las Vegas' neighbourhood, baby, but perhaps not in the way you expect. Rather, this is thanks to a new Nevada housing development and its wholesome approach to street names. \r\n\n\r\nLocated in Henderson, roughly 16 miles southeast of downtown Las Vegas, housing project Serenity Place includes street names inspired by Pokémon. This includes Charmander Lane, Charizard Lane, Jigglypuff Place, Snorlax Lane and Squirtle Lane. Yes, really.\r\n\n\r\nNaming streets in the Vegas neighbourhood isn't an easy job, project construction manager Andrea Miller told local news station KLAS 8 News Now (via Polygon). However, Miller was inspired to use the above names as her sons are \"obsessed\" with Pokémon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/meet-me-at-the-corner-of-jigglypuff-and-charmander-las-vegas-neighbourhood-takes-inspiration-from-pokemon",
+          "publishedOn": "2023-05-23T10:44:43.000Z",
+          "wordCount": 5813,
+          "title": "Pokémon-inspired Las Vegas street names feature Jigglypuff Place, Snorlax Lane",
+          "imageUrl": "https://assetsio.reedpopcdn.com/jigglypuff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/tears-of-the-kingdom-voice-actress-backtracks-after-stating-link-and-zelda-were-in-a-relationship",
+          "author": "Tom Phillips",
+          "description": "The Legend of Zelda: Tears of the Kingdom voice actress Patricia Summersett has issued a statement meant to \"clarify\" her previous comments on Link and Zelda being \"in a relationship\".\r\n\n\r\nSummersett previously discussed the dynamic between Link and Zelda in an interview with The Gamer, in which she stated: \"I know that they are in a relationship with each other, it's active, there's a lot of care and a lot of listening, and I just love that about it.\"\r\n\n\r\nThe quote was notable for going further than Nintendo itself has officially gone in defining the bond between The Legend of Zelda's two main characters, and while it was simply Summersett's own opinion, as voice actress for the series' namesake, it was pounced upon by fans. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/tears-of-the-kingdom-voice-actress-backtracks-after-stating-link-and-zelda-were-in-a-relationship",
+          "publishedOn": "2023-05-23T10:38:14.000Z",
+          "wordCount": 6083,
+          "title": "Tears of the Kingdom voice actress backtracks after stating Link and Zelda \"in a relationship\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/TLOZ_TearsOfTheKingdom_28032023_scrn_45.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/ubisofts-open-world-star-wars-game-reportedly-targeting-early-2024-release",
           "author": "Matt Wales",
           "description": "Amid records losses and a raft of cancelled games, Ubisoft is reportedly aiming to release Massive Entertainment's long-awaited open-world Star Wars game in \"early 2024\".\r\n\n\r\nAnnounced back in 2021, little is known about The Division developer Massive Entertainment's open-world Star Wars game, beyond the fact it's being helmed by The Division 2 director Julian Gerighty and will utilise the studio's Snowdrop engine.\r\n\n\r\nWith so little information currently out in the wild, many had assumed Massive's Star Wars project was still some considerable way off, but Kotaku is now reporting the title is, in fact, the mysterious \"another large game\" Ubisoft has previously confirmed to be launching during its 2023-24 fiscal year, with the publisher said to be targeting an \"early 2024\" launch.\r\n \nRead more",
@@ -4195,6 +4235,16 @@
           "wordCount": 5691,
           "title": "Summer Game Fest live show will feature three or four \"pretty big\" things",
           "imageUrl": "https://assetsio.reedpopcdn.com/summer-game-fest-2023-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/former-battlefield-creative-director-lars-gustavsson-unveils-new-studio-ttk-games",
+          "author": "Matt Wales",
+          "description": "Lars Gustavsson, former creative director on DICE's long-running Battlefield series, has unveiled his new studio TTK Games, which is currently developing an online shooter.\r\n\n\r\nGustavsson departed DICE last September after more than 20 years at the studio, having - as EA wrote in its announcement - \"decided he is ready for a new adventure\". Gustavsson offered no suggestion of what that new adventure might be at the time, but all has now been revealed.\r\n\n\r\nGustavsson's new studio, the Stockholm-based TTK Games, has been co-founded by four former members of DICE; Gustavsson will serve as CEO and creative director, while Daniel Berlin (previously lead world designer and design director on Battlefield) is senior design director. They're joined by chief technical officer and technical director Vidar Nygren (technical director on Battlefield), plus art director Peter Hoyles, who served as studio art director at DICE LA.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/former-battlefield-creative-director-lars-gustavsson-unveils-new-studio-ttk-games",
+          "publishedOn": "2023-05-22T19:09:14.000Z",
+          "wordCount": 5883,
+          "title": "Former Battlefield creative director Lars Gustavsson unveils new studio TTK Games",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ttk-games-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
           "id": "https://www.eurogamer.net/former-wwe-developer-yukes-returns-to-wrestling-with-aew-fight-forever-this-june",
