@@ -2,10 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T18:24:31.223Z</updated>
+    <updated>2023-05-24T00:31:55.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Using OCI artifacts to distribute security profiles for seccomp, SELinux and AppArmor]]></title>
+        <id>https://kubernetes.io/blog/2023/05/24/oci-security-profiles/</id>
+        <link href="https://kubernetes.io/blog/2023/05/24/oci-security-profiles/"/>
+        <updated>2023-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Sascha Grunert
+The Security Profiles Operator (SPO) makes managing seccomp, SELinux and
+AppArmor profiles within Kubernetes easier than ever. It allows cluster
+administrators to define the profiles in a predefined custom resource YAML,
+which then gets distributed by the SPO into the whole cluster. Modification and
+removal of the security profiles are managed by the operator in the same way,
+but that’s a small subset of its capabilities.
+Another core feature of the SPO is being able to stack seccomp profiles. This
+means that users can define a baseProfileName in the YAML specification, which
+then gets automatically resolved by the operator and combines the syscall rules.
+If a base profile has another baseProfileName, then the operator will
+recursively resolve the profiles up to a ce…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metal Gear Solid 3 remake reportedly real and getting a multi-platform release]]></title>
+        <id>https://www.eurogamer.net/metal-gear-solid-3-remake-reportedly-real-and-getting-a-multi-platform-release</id>
+        <link href="https://www.eurogamer.net/metal-gear-solid-3-remake-reportedly-real-and-getting-a-multi-platform-release"/>
+        <updated>2023-05-23T23:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The long-rumoured Metal Gear Solid 3 remake is real and getting a multi-platform release on Xbox, PlayStation, and PC according to a new report by Windows Central.
+
+
+A Metal Gear Solid 3 remake was first rumoured in October 2021, when it was claimed Virtuos, a studio primarily known for its porting work, had been handed the development reins by Konami. The project has popped up intermittently since then, albeit never officially confirmed, and now Windows Central's Jez Corden says he's been able to "hard-confirm" it's real.
+
+
+Corden also lends credence to a recent report by Insider Gaming, which claimed the remake would be a multi-platform release, contrary to speculation Sony might have snaffled it up as a PlayStation exclusive. According to Corden, the remake will indeed be coming to Xbox and PC alongside PlayStation, "despite a marketing deal".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your fave illustration of Franklin’s kite experiment is likely riddled with errors]]></title>
+        <id>https://arstechnica.com/?p=1941212</id>
+        <link href="https://arstechnica.com/?p=1941212"/>
+        <updated>2023-05-23T22:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Most date from 19th century and were heavily influenced by Joseph Priestley's 1767 account.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Widespread FBI abuse of foreign spy law sets off “alarm bells,” tech group says]]></title>
+        <id>https://arstechnica.com/?p=1941492</id>
+        <link href="https://arstechnica.com/?p=1941492"/>
+        <updated>2023-05-23T22:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Section 702 debate rages after another FISA Court opinion is unclassified.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix's password sharing clampdown reaches the UK]]></title>
+        <id>https://www.eurogamer.net/netflixs-password-sharing-clampdown-hits-uk</id>
+        <link href="https://www.eurogamer.net/netflixs-password-sharing-clampdown-hits-uk"/>
+        <updated>2023-05-23T21:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Netflix's clampdown on subscribers sharing accounts between households has reached the UK, with the streaming service now charging an additional £4.99 a month for any user not predominantly based in an account's "primary location".
+
+
+Netflix has been threatening a crackdown on password sharing as a means of shoring up is stagnating subscriber numbers for some time now, and it began rolling out a related series of measures built around the notion of a designated "primary location" in February, albeit initially only in a limited number of countries.
+
+
+Since then, Netflix's measures have continued to spread around the globe, and, as of today, are live in the UK. The streaming service says it has started emailing members that share their accounts with users outside their household, telling them they'll need to cough up an additional £4.99 a month if they want to continue doing so.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix crackdown on account sharing hits US with $8 fee for each extra user]]></title>
+        <id>https://arstechnica.com/?p=1941574</id>
+        <link href="https://arstechnica.com/?p=1941574"/>
+        <updated>2023-05-23T21:35:18.000Z</updated>
+        <summary type="html"><![CDATA["Your Netflix account is for you and the people you live with," email tells users.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake Pentagon “explosion” photo sows confusion on Twitter]]></title>
+        <id>https://arstechnica.com/?p=1941475</id>
+        <link href="https://arstechnica.com/?p=1941475"/>
+        <updated>2023-05-23T21:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Incident shows weakness of Twitter's verification system, speed of misinformation.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $1,600 Dyson 360 Vis Nav promises to be the world’s most powerful robovac]]></title>
+        <id>https://arstechnica.com/?p=1941294</id>
+        <link href="https://arstechnica.com/?p=1941294"/>
+        <updated>2023-05-23T20:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Dyson's new robovac has a unique design, both inside and out.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman with untreated TB still on the lam three months after arrest warrant]]></title>
+        <id>https://arstechnica.com/?p=1941465</id>
+        <link href="https://arstechnica.com/?p=1941465"/>
+        <updated>2023-05-23T20:01:21.000Z</updated>
+        <summary type="html"><![CDATA["If we knew where she was, she would be in custody."]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega lays off 121 employees at Company of Heroes studio Relic Entertainment]]></title>
+        <id>https://www.eurogamer.net/sega-lays-off-121-employees-at-company-of-heroes-studio-relic-entertainment</id>
+        <link href="https://www.eurogamer.net/sega-lays-off-121-employees-at-company-of-heroes-studio-relic-entertainment"/>
+        <updated>2023-05-23T19:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Sega has laid off 121 employees at Company of Heroes and Age of Empires 4 studio Relic Entertainment, blaming "external factors [that] are challenging our industry more than ever".
+
+
+Confirmation of job cuts at the Canada-based developer, which has been part of Sega since its acquisition in 2013, came via a statement shared on Twitter.
+
+
+"Relic Entertainment and Sega Europe want to share the difficult news that our studio has been impacted by layoffs, affecting 121 employees," Relic wrote. "This comes at a time when external factors are challenging our industry more than ever, and we made this decision to restructure our organisation to ensure maximum focus is placed on our core franchises."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study: People think undermining democracy is ok if others do it first]]></title>
+        <id>https://arstechnica.com/?p=1941414</id>
+        <link href="https://arstechnica.com/?p=1941414"/>
+        <updated>2023-05-23T19:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Merely thinking the other guys wreck democracy raises support for wrecking democracy.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google bans Downloader app after TV firms complain it can load a pirate website]]></title>
+        <id>https://arstechnica.com/?p=1941388</id>
+        <link href="https://arstechnica.com/?p=1941388"/>
+        <updated>2023-05-23T19:13:03.000Z</updated>
+        <summary type="html"><![CDATA["It's a ridiculous claim and abuse of the DMCA," Downloader app developer says.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Photoshop’s new “Generative Fill” AI tool lets you manipulate photos with text]]></title>
+        <id>https://arstechnica.com/?p=1941261</id>
+        <link href="https://arstechnica.com/?p=1941261"/>
+        <updated>2023-05-23T19:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Firefly-powered AI generations match image perspective, lighting, and style.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THQ Nordic's Alone in the Dark reboot gets new showcase this week]]></title>
+        <id>https://www.eurogamer.net/thq-nordics-alone-in-the-dark-reimagining-getting-a-showcase-this-week</id>
+        <link href="https://www.eurogamer.net/thq-nordics-alone-in-the-dark-reimagining-getting-a-showcase-this-week"/>
+        <updated>2023-05-23T18:43:58.000Z</updated>
+        <summary type="html"><![CDATA[It's been a fair old while since we last heard from THQ Nordic's promising Alone in the Dark 'reimagining', but the publisher has now announced it'll be giving the survival horror revamp another airing in a fresh showcase this Friday, 26th May.
+
+
+THQ hasn't given much indication of what it'll be revealing this time around, but it's promising fans the opportunity to "learn more about the upcoming reimagination of Alone in the Dark" when its latest Spotlight showcase airs at 1am BST this Friday/5pm PST this Thursday, 25th May.
+
+
+Announced last August, THQ Nordic's reimagined version of Alone in the Dark is being handled by Swedish developer Pieces Interactive with Mikael Hedberg - who wrote developer Frictional Games' Soma and Amnesia: The Dark Descent - at the helm.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta has no choice but to sell Giphy at $262M loss to Shutterstock]]></title>
+        <id>https://arstechnica.com/?p=1941299</id>
+        <link href="https://arstechnica.com/?p=1941299"/>
+        <updated>2023-05-23T18:15:52.000Z</updated>
+        <summary type="html"><![CDATA[With UK forcing a sale and GIFs losing popularity, Meta was bound to take a hit.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Destiny 2's new PlayStation-themed cosmetics include a Clicker Ghost and Kratos armour]]></title>
         <id>https://www.eurogamer.net/destiny-2s-new-playstation-themed-cosmetics-include-a-clicker-ghost-and-kratos-armour</id>
@@ -22,6 +215,46 @@ As for Destiny 2's PlayStation collaboration, that's happening over on the premi
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unexpected 3DS update breaks many common homebrew hacking methods]]></title>
+        <id>https://arstechnica.com/?p=1941347</id>
+        <link href="https://arstechnica.com/?p=1941347"/>
+        <updated>2023-05-23T17:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Latest "stability" update comes months after the 3DS eShop shut down.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Built-in ChatGPT-driven Copilot will transform Windows 11 starting in June]]></title>
+        <id>https://arstechnica.com/?p=1941293</id>
+        <link href="https://arstechnica.com/?p=1941293"/>
+        <updated>2023-05-23T17:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Copilot is coming alongside another batch of new Windows 11 features this year.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activision shuts down popular fan servers for legacy Call of Duty games]]></title>
+        <id>https://arstechnica.com/?p=1941303</id>
+        <link href="https://arstechnica.com/?p=1941303"/>
+        <updated>2023-05-23T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Meanwhile, official servers see reports of massive hacking and security issues.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ford reverses plan to ditch AM radio after congressional attention]]></title>
+        <id>https://arstechnica.com/?p=1941308</id>
+        <link href="https://arstechnica.com/?p=1941308"/>
+        <updated>2023-05-23T16:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Pending legislation would mandate an AM radio in all new cars.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
         </author>
     </entry>
     <entry>
@@ -11004,130 +11237,6 @@ While nothing has been officially announced, according to Lego leaker Falconbric
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Universe sucks: The mysterious Great Attractor that’s pulling us in]]></title>
-        <id>https://arstechnica.com/?p=1933708</id>
-        <link href="https://arstechnica.com/?p=1933708"/>
-        <updated>2023-04-24T11:45:21.000Z</updated>
-        <summary type="html"><![CDATA[We're headed toward something we can't clearly see—and we'll never get there.]]></summary>
-        <author>
-            <name>Paul Sutter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guerrilla casually confirms Horizon Forbidden West sequel]]></title>
-        <id>https://www.eurogamer.net/guerrilla-casually-confirms-horizon-forbidden-west-sequel</id>
-        <link href="https://www.eurogamer.net/guerrilla-casually-confirms-horizon-forbidden-west-sequel"/>
-        <updated>2023-04-24T11:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Horizon Zero Dawn and Forbidden West's developer has casually confirmed something we all expected. Yes, that's right, we will be getting another outing with Aloy and co in the future. 
-
-
-In a recent management update, Guerrilla announced that its studio director and executive producer Angie Smets was set to start a new role at PlayStation Studios, as head of development strategy.
-
-
-Along with the customary words of appreciation for Smets' work at the company, Guerrilla also laid out the groundwork for its new look management team. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK decision on $68.7bn Microsoft Activision Blizzard deal due this week]]></title>
-        <id>https://www.eurogamer.net/uk-decision-on-687bn-microsoft-activision-blizzard-deal-due-this-week</id>
-        <link href="https://www.eurogamer.net/uk-decision-on-687bn-microsoft-activision-blizzard-deal-due-this-week"/>
-        <updated>2023-04-24T11:22:39.000Z</updated>
-        <summary type="html"><![CDATA[The UK will finally issue its ruling on Microsoft's $68.7bn attempt to buy Call of Duty publisher Activision Blizzard this week, following months of deliberation.
-
-
-The UK's Competition and Markets Authority (CMA) is one of three key regulators around the world still scrutinising Microsoft's deal, alongside the US Federal Trade Commission and the EU's European Commission. 
-
-
-A final ruling by the CMA must arrive before the end of its deadline day - this Wednesday, 26th April - and Microsoft has recently had reason to hope its efforts to win over the UK authority will ultimately prove successful. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorry speedrunners, Capcom just nerfed one of Resident Evil 4's niftiest tricks]]></title>
-        <id>https://www.eurogamer.net/sorry-speedrunners-capcom-just-nerfed-one-of-resident-evil-4s-niftiest-tricks</id>
-        <link href="https://www.eurogamer.net/sorry-speedrunners-capcom-just-nerfed-one-of-resident-evil-4s-niftiest-tricks"/>
-        <updated>2023-04-24T10:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Capcom has released a new patch for its Resident Evil 4 remake. 
-This patch addresses a number of issues, and can generally be seen as a very good thing. After all, we all want our games to look and play as smooth as possible. 
-
-If you are one of the many trying to speedrun your way through the game, I'm afraid this may now be a little harder, as this update has 'fixed' the glitch that allowed players to warp through walls when using the scope in certain areas. This means no more shortcutting your way through doors. Welp!
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember LawBreakers? Five years after it shut down, CliffyB wants it to come back]]></title>
-        <id>https://www.eurogamer.net/remember-lawbreakers-five-years-after-it-shut-down-cliffyb-wants-it-to-come-back</id>
-        <link href="https://www.eurogamer.net/remember-lawbreakers-five-years-after-it-shut-down-cliffyb-wants-it-to-come-back"/>
-        <updated>2023-04-24T10:54:39.000Z</updated>
-        <summary type="html"><![CDATA[LawBreakers died back in 2018 - but its chief creator now wants it to come back.
-
-
-LawBreakers was a hero shooter developed by Boss Key Productions, the now defunct studio set up by Cliff "CliffyB" Bleszinski after he left Epic having famously worked on the Unreal Tournament and Gears of War franchises.
-
-
-Despite a big pre-release push by publisher Nexon, LawBreakers flopped, with its Steam concurrent player count peaking at 7482 in June 2017 when it launched via open beta. Nexon later blamed LawBreakers' disastrous fortunes on battle royale PUBG, which at the time was just about the biggest game in the world.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Threatens End-to-End Encryption]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html"/>
-        <updated>2023-04-24T10:39:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>In an <a href="https://blog.whatsapp.com/an-open-letter">open letter</a>, seven secure messaging apps&#8212;including Signal and WhatsApp&#8212;point out that the UK&#8217;s <a href="https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill">Online Safety Bill</a> could destroy end-to-end encryption:</p>
-<blockquote><p>As currently drafted, the Bill could break end-to-end encryption,opening the door to routine, general and indiscriminate surveillance of personal messages of friends, family members, employees, executives, journalists, human rights activists and even politicians themselves, which would fundamentally undermine everyone’s ability to communicate securely.</p>
-<p>The Bill provides no explicit protection for encryption, and if implemented as written, could empower OFCOM to try to force the proactive scanning of private messages on end-to-end encrypted communication services &#8211; nullifying the purpose of end-to-end encryption as a result and compromising the privacy of all users...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Division 2 native current-gen versions "unlikely" due to PS4/Xbox One audience]]></title>
-        <id>https://www.eurogamer.net/the-division-2-native-current-gen-versions-unlikely-due-to-ps4xbox-one-audience</id>
-        <link href="https://www.eurogamer.net/the-division-2-native-current-gen-versions-unlikely-due-to-ps4xbox-one-audience"/>
-        <updated>2023-04-24T10:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft has said it is unlikely to launch native PlayStation 5 and Xbox Series X/S versions of Tom Clancy's The Division 2, as taking "full advantage" of the current console generation would also mean leaving players on PS4 and Xbox One behind.
-
-The Division 2 originally launched back in March 2019, with versions for PS4, Xbox One and PC. Streaming versions for Google Stadia and Amazon Luna launched in 2020, and it is playable now on new consoles via backwards compatibility.
-
-Last week, The Division 2's fifth year of content was laid out for fans of Ubisoft's ongoing post-pandemic co-op shooter. Speaking to MP1st, the game's creative director Yannick Banchereau also discussed whether a ground-up PS5 and Xbox Series X/S version could also release - but it seems unlikely.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lili confirmed for Tekken 8 - here's a gameplay trailer]]></title>
-        <id>https://www.eurogamer.net/lili-confirmed-for-tekken-8-heres-a-gameplay-trailer</id>
-        <link href="https://www.eurogamer.net/lili-confirmed-for-tekken-8-heres-a-gameplay-trailer"/>
-        <updated>2023-04-24T09:58:56.000Z</updated>
-        <summary type="html"><![CDATA[Lili is confirmed as a playable character in Tekken 8.
-
-
-Bandai Namco released the gameplay video, below, that shows off Lili's look in the upcoming fighting game.
-
-The pampered Monégasque heiress makes the playable character cut complete with a Siamese cat named Salt. In the video, we see Lili square off against rival Asuka, who was confirmed for Tekken 8 a few weeks ago. In her new rage art, Lili counts to three while knocking lumps out of her opponent, before saying adieu with a somersault kick.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
         </author>
     </entry>
 </feed>
