@@ -124,16 +124,6 @@
           "wordCount": 180,
           "title": "Overlapping Circles",
           "imageUrl": "https://imgs.xkcd.com/comics/overlapping_circles_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2768/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/definition_of_e.png\" title=\"Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.\" alt=\"Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.\" />",
-          "link": "https://xkcd.com/2768/",
-          "publishedOn": "2023-04-26T00:00:00.000Z",
-          "wordCount": 182,
-          "title": "Definition of e",
-          "imageUrl": "https://imgs.xkcd.com/comics/definition_of_e_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/05/on-the-poisoning-of-llms.html",
+          "author": null,
+          "description": "<p>Interesting <a href=\"https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/\">essay</a> on the poisoning of LLMs&#8212;ChatGPT in particular:</p>\n<blockquote><p>Given that we&#8217;ve known about model poisoning for years, and given the strong incentives the black-hat SEO crowd has to manipulate results, it&#8217;s entirely possible that bad actors have been poisoning ChatGPT for months. We don&#8217;t know because OpenAI doesn&#8217;t talk about their processes, how they validate the prompts they use for training, how they vet their training data set, or how they fine-tune ChatGPT. Their secrecy means we don&#8217;t know if ChatGPT has been safely managed.</p>\n<p>They&#8217;ll also have to update their training data set at some point. They can&#8217;t leave their models stuck in 2021 forever...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/on-the-poisoning-of-llms.html",
+          "publishedOn": "2023-05-25T11:05:43.000Z",
+          "wordCount": 861,
+          "title": "On the Poisoning of LLMs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html",
           "author": null,
@@ -4080,56 +4080,6 @@
           "wordCount": 1603,
           "title": "Remember the EV Honda is building with GM? It goes on sale in 2024",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/05-2024-Acura-ZDX-Prototype-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1934370",
-          "author": "Beth Mole",
-          "description": "JAMA study highlights quality control issues common in dietary supplements.",
-          "link": "https://arstechnica.com/?p=1934370",
-          "publishedOn": "2023-04-25T22:33:53.000Z",
-          "wordCount": 1881,
-          "title": "Melatonin in sleep-aid gummies can be off by up to 350%, study finds",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-143194340-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1934271",
-          "author": "Benj Edwards",
-          "description": "Unsaved chats will be retained 30 days for \"abuse monitoring\" before permanent deletion.",
-          "link": "https://arstechnica.com/?p=1934271",
-          "publishedOn": "2023-04-25T21:01:17.000Z",
-          "wordCount": 1741,
-          "title": "ChatGPT now allows disabling chat history, declining training, and exporting data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/chatgpt_merge-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1934254",
-          "author": "Ashley Belanger",
-          "description": "RNC calls Biden \"out of touch\" for asking voters to let him \"finish the job!\"",
-          "link": "https://arstechnica.com/?p=1934254",
-          "publishedOn": "2023-04-25T19:49:33.000Z",
-          "wordCount": 1848,
-          "title": "GOP releases AI-generated ad to fearmonger over Biden’s reelection bid",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1934235",
-          "author": "Diana Gitig",
-          "description": "Don’t be alarmed: They only infect plankton.",
-          "link": "https://arstechnica.com/?p=1934235",
-          "publishedOn": "2023-04-25T19:05:38.000Z",
-          "wordCount": 1643,
-          "title": "Link between herpesviruses and giant viruses no longer missing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1134490002-e1682447921795-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1934219",
-          "author": "Jon Brodkin",
-          "description": "Rules apply to five Google sites, Facebook, Apple, Bing, Twitter, TikTok, etc.",
-          "link": "https://arstechnica.com/?p=1934219",
-          "publishedOn": "2023-04-25T18:49:27.000Z",
-          "wordCount": 1958,
-          "title": "EU names 19 large tech platforms that must follow Europe’s new Internet rules",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-google-logo-760x380.jpg"
         }
       ]
     },
@@ -4346,6 +4296,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/night-in-the-woods-co-creators-reveal-next-game-revenant-hill",
+          "author": "Ed Nightingale",
+          "description": "Revenant Hill is the next game from Night in the Woods co-creators Bethany Hockenberry and Scott Benson, and the first project from their new studio The Glory Society.\r\n\n\r\nThe game was revealed at last night's PlayStation Showcase and features lead cat character Twigs, who bears a striking resemblance to Mae from the previous game.\r\n\n\r\nHowever, this game is set in 1919 and features animals and humans together. Check out the trailer below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/night-in-the-woods-co-creators-reveal-next-game-revenant-hill",
+          "publishedOn": "2023-05-25T12:17:09.000Z",
+          "wordCount": 5570,
+          "title": "Night in the Woods co-creators reveal next game, Revenant Hill",
+          "imageUrl": "https://assetsio.reedpopcdn.com/RH_KeyArt_NoLogo_3840x2160-scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-exclusive-pvp-shooter-concord-is-firewalk-studios-first-game",
+          "author": "Tom Phillips",
+          "description": "Last night's PlayStation Showcase brought us plenty of teasers for upcoming games - even if many of them were CGI. Among them was the briefest of announcements for Concord, the debut game from FireWalk Studios.\r\n\n\r\nClocking in at just 50 seconds, Concord's reveal trailer gives little away. An accompanying blog post offers only a little more detail. \r\n\n\r\nConcord will be a PVP first-person shooter set in space, headed to PS4 and PS5 in 2024. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-exclusive-pvp-shooter-concord-is-firewalk-studios-first-game",
+          "publishedOn": "2023-05-25T11:59:05.000Z",
+          "wordCount": 5517,
+          "title": "PlayStation exclusive PVP shooter Concord is FireWalk Studios' first game",
+          "imageUrl": "https://assetsio.reedpopcdn.com/feb498bc7a874470e7ff763b7935460b21442b0c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-a-look-at-promising-puzzle-sequel-the-talos-principle-2",
+          "author": "Liv Ngan",
+          "description": "An official reveal of The Talos Principle 2 was one of the many announcements during last night's PlayStation Showcase.\r\n\n\r\nThe Talos Principle first came out in 2014 on PC, and was followed up with DLC called Road to Gehenna and ports to Xbox One, PS4, Switch and mobile.\r\n\n\r\nThe sequel was first announced in 2016, developer Alen Ladavac sneakily slipped the news in at the end of his talk at that year's Nordic Game conference. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-a-look-at-promising-puzzle-sequel-the-talos-principle-2",
+          "publishedOn": "2023-05-25T11:32:09.000Z",
+          "wordCount": 5639,
+          "title": "Here's a look at promising puzzle sequel The Talos Principle 2",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Talos2_KeyArt_4k.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/slick-looking-action-rpg-phantom-blade-zero-blends-chinese-martial-arts-with-punk-spirit",
+          "author": "Victoria Kennedy",
+          "description": "There were plenty of announcements during Sony's Playstation Showcase last night, but the one that stood out most to me was Phantom Blade Zero. This quickfire action RPG looks brilliant and oh so slick. It blends Chinese martial arts and punk together, to create a new direction its developer has dubbed \"Kungfupunk\".\r\n\n\r\nIn Phantom Blade Zero, you take on the role of Soul. According to Soulframe Liang, founder of the game's developer S-Game, Soul is \"an elite assassin serving an elusive but powerful organisation known simply as 'The Order'.\" Soul was framed for the murder of this organisation's patriarch, and was then wounded in the \"manhunt that ensued\". Thankfully, he was saved from death by a \"mystic healer\". \r\n\n\r\nThis all sounds enticing enough already, in my opinion, but there is more. While Soul may have been saved by this healer, there is a catch - the cure only lasts for 66 days, and Soul needs to find out who framed him for killing The Order's patriarch before time runs out. Of course, this will not be an easy job, and Soul will have to fight against \"powerful foes and inhuman monstrosities\" on his journey. You can see how it all looks in the trailer below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/slick-looking-action-rpg-phantom-blade-zero-blends-chinese-martial-arts-with-punk-spirit",
+          "publishedOn": "2023-05-25T10:15:04.000Z",
+          "wordCount": 5987,
+          "title": "Slick looking action-RPG Phantom Blade Zero blends Chinese martial arts with \"punk spirit\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/52922901787_c299f866ee_k.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/beat-saber-out-now-on-psvr2",
+          "author": "Ed Nightingale",
+          "description": "Beat Saber is finally available now on Sony's PS VR2 headset.\r\n\n\r\nThe game was announced for the platform at the start of the year, but missed out on February's launch.\r\n\r\n\n\r\nThen, at last night's PlayStation Showcase, the game was made immediately available alongside a new pack of Queen songs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/beat-saber-out-now-on-psvr2",
+          "publishedOn": "2023-05-25T10:06:45.000Z",
+          "wordCount": 5684,
+          "title": "Beat Saber out now on PSVR2",
+          "imageUrl": "https://assetsio.reedpopcdn.com/beat-saber-psvr2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/microsoft-cheekily-highlights-how-many-playstation-showcase-games-will-also-be-on-xbox",
           "author": "Tom Phillips",
@@ -8075,26 +8075,6 @@
           "wordCount": 6107,
           "title": "Xbox Series X and S sales struggle as Microsoft reports gaming revenue down 4%",
           "imageUrl": "https://assetsio.reedpopcdn.com/xbox_zlq6vRy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-flight-simulator-off-to-oceania-and-antartica-in-its-latest-world-update",
-          "author": "Matt Wales",
-          "description": "Microsoft Flight Simulator has released its latest World Update, this time bringing geographical enhancements and handcrafted landmarks to 13 countries and 28 non-sovereign territories across its digital rendition of Oceania and Antartica.\r\n\n\r\nAs per developer Asobo's announcement post, World Update 13 brings improvements to Microsoft Flight Sim's Polynesia (Hawaii and Easter Island), Melanesia (Fiji, New Caledonia, New Guinea, Indonesia's West Papua, and the Solomon Islands), the Galapagos Islands, and key regions of Antarctica, including the Antarctic Peninsula.\r\n\n\r\nToday's update expands on each region's previous renditions with new aerial photographs, satellite imagery, and digital elevation modelling data, including an updated height field for Hawaii and a version of Honolulu city introducing \"dozens\" of handmade buildings.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-flight-simulator-off-to-oceania-and-antartica-in-its-latest-world-update",
-          "publishedOn": "2023-04-25T19:59:47.000Z",
-          "wordCount": 5690,
-          "title": "Microsoft Flight Simulator off to Oceania and Antartica in latest World Update",
-          "imageUrl": "https://assetsio.reedpopcdn.com/flight-simulator-world-update-13.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/rusty-lakes-latest-adventure-rides-an-underground-train-through-its-protagonists-life",
-          "author": "Matt Wales",
-          "description": "It barely seems like yesterday, developer Rusty Lake was wowing us with its wonderfully inventive co-operative puzzler The Past Within, but now the studio is back to announced its next adventure, Undergound Blossom, coming later this year.\r\n\n\r\nTo date, Rusty Lake has released 16 games under the Rusty Lake and Cube Escape banner - some fully fledged premium offerings, others free-to-play companion pieces - blending casual point-and-click puzzling and room-escape-style conundrums into a wonderfully sinister, narratively intertwined saga charting the lives of the Vanderboom family.\r\n\n\r\nAs with developer Rusty Lake's last few titles, the newly announced Underground Blossom ditches the Rusty Lake moniker but is still very much set in its sprawling universe, this time taking players on a journey via the Rusty Lake underground system through the life and memories of Laura Vanderboom - first introducd all the way back in Cube Escape: Seasons.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/rusty-lakes-latest-adventure-rides-an-underground-train-through-its-protagonists-life",
-          "publishedOn": "2023-04-25T18:29:06.000Z",
-          "wordCount": 5525,
-          "title": "Rusty Lake's next adventure rides an underground train through its protagonist's life",
-          "imageUrl": "https://assetsio.reedpopcdn.com/rusty-lake-underground-blossom-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
