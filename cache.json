@@ -124,16 +124,6 @@
           "wordCount": 180,
           "title": "Tapetum Lucidum",
           "imageUrl": "https://imgs.xkcd.com/comics/tapetum_lucidum_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2769/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/overlapping_circles.png\" title=\"&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality\" alt=\"&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality\" />",
-          "link": "https://xkcd.com/2769/",
-          "publishedOn": "2023-04-28T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Overlapping Circles",
-          "imageUrl": "https://imgs.xkcd.com/comics/overlapping_circles_2x.png"
         }
       ]
     },
@@ -391,6 +381,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1942536",
+          "author": "Diana Gitig",
+          "description": "Until it hit, the local firefighters couldn't conceive of something that ferocious.",
+          "link": "https://arstechnica.com/?p=1942536",
+          "publishedOn": "2023-05-27T11:00:42.000Z",
+          "wordCount": 2391,
+          "title": "The lessons of a wildfire that destroyed a town and burned for 15 months",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-530107578-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1942660",
           "author": "Dan Goodin",
@@ -4070,46 +4070,6 @@
           "wordCount": 1998,
           "title": "OLED is great, but where are all the Mini LED laptops?",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1458790591-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1935089",
-          "author": "Ashley Belanger",
-          "description": "Developers quit Pantheon over its stance on hosting SPLC-designated hate groups.",
-          "link": "https://arstechnica.com/?p=1935089",
-          "publishedOn": "2023-04-27T22:40:09.000Z",
-          "wordCount": 1986,
-          "title": "WebOps platform Pantheon defends hosting “hate groups” as developers quit",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1302552855-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1935091",
-          "author": "Beth Mole",
-          "description": "Raw milk is dangerous for everyone, but especially younger children.",
-          "link": "https://arstechnica.com/?p=1935091",
-          "publishedOn": "2023-04-27T22:09:50.000Z",
-          "wordCount": 1830,
-          "title": "Raw milk from farm with no electricity sparks outbreak that nearly killed baby",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1038813590-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1935023",
-          "author": "Jon Brodkin",
-          "description": "Court will likely require Musk deposition in Tesla Autopilot wrongful death case.",
-          "link": "https://arstechnica.com/?p=1935023",
-          "publishedOn": "2023-04-27T19:55:15.000Z",
-          "wordCount": 1947,
-          "title": "Judge slams Tesla for claiming Musk quotes captured on video may be deepfakes",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-elon-musk-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1935003",
-          "author": "Beth Mole",
-          "description": "The cause is unclear, but climate change and the pandemic likely played roles.",
-          "link": "https://arstechnica.com/?p=1935003",
-          "publishedOn": "2023-04-27T18:26:46.000Z",
-          "wordCount": 1895,
-          "title": "Massive West Nile Virus outbreak in Arizona shattered records, killed 101",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-51149081-760x380.jpeg"
         }
       ]
     },
@@ -4254,16 +4214,6 @@
           "wordCount": 3905,
           "title": "Blog: Kubernetes 1.27: HorizontalPodAutoscaler ContainerResource type metric moves to beta",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/04/28/statefulset-start-ordinal/",
-          "author": null,
-          "description": "Author: Peter Schuurman (Google)\nKubernetes v1.26 introduced a new, alpha-level feature for\nStatefulSets that controls\nthe ordinal numbering of Pod replicas. As of Kubernetes v1.27, this feature is\nnow beta. Ordinals can start from arbitrary\nnon-negative numbers. This blog post will discuss how this feature can be\nused.\nBackground\nStatefulSets ordinals provide sequential identities for pod replicas. When using\nOrderedReady Pod management\nPods are created from ordinal index 0 up to N-1.\nWith Kubernetes today, orchestrating a StatefulSet migration across clusters is\nchallenging. Backup and restore solutions exist, but these require the\napplication to be scaled down to zero replicas prior to migration. In today's\nfully connected world, even planned application downtime may not allow you to\nme…",
-          "link": "https://kubernetes.io/blog/2023/04/28/statefulset-start-ordinal/",
-          "publishedOn": "2023-04-28T00:00:00.000Z",
-          "wordCount": 4474,
-          "title": "Blog: Kubernetes 1.27: StatefulSet Start Ordinal Simplifies Migration",
-          "imageUrl": null
         }
       ]
     },
@@ -4316,6 +4266,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/co-op-horror-fps-sker-rituals-fourth-and-final-episode-drops-next-week-heres-a-teaser-trailer",
+          "author": "Vikki Blake",
+          "description": "Wales Interactive has unveiled the fourth and final episode coming to its co-op horror FPS, Sker Ritual, Deadly Lover's Fortress.\r\n\nThe team also promised that \"an extended roadmap will be revealed soon to highlight the early access progress with the 1.0 release on PC, PS5, and Xbox Series X release in sight\", although the horror game – which is a spin-off from atmospheric horror Maid of Sker – was due to leave early access in Q1 2023. \r\n\nYou can check out the action yourself in the teaser below:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/co-op-horror-fps-sker-rituals-fourth-and-final-episode-drops-next-week-heres-a-teaser-trailer",
+          "publishedOn": "2023-05-27T11:07:59.000Z",
+          "wordCount": 5909,
+          "title": "Co-op horror FPS Sker Ritual's fourth and final episode drops next week - here's a teaser trailer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/sker-ritual_277AnvB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/media-molecule-appoints-its-new-creative-director",
+          "author": "Vikki Blake",
+          "description": "Media Molecule has appointed former lead designer John Beech as its new creative director.\r\n\nBeech steps in to replace co-founder Mark Healy, who left the studio last month after 17 years.\r\n\n\"Today we're extremely honoured to introduce you to our new Creative Director - @Johnee_B!\" the studio tweeted.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/media-molecule-appoints-its-new-creative-director",
+          "publishedOn": "2023-05-27T10:18:13.000Z",
+          "wordCount": 5952,
+          "title": "Media Molecule appoints its new creative director",
+          "imageUrl": "https://assetsio.reedpopcdn.com/LittleBigPlanet-scaled-2419592952?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/naughty-dog-says-the-last-of-us-multiplayer-game-needs-more-time",
           "author": "Matt Wales",
@@ -7965,36 +7935,6 @@
           "wordCount": 5479,
           "title": "Microsoft enters yet another 10-year agreement, despite CMA setback",
           "imageUrl": "https://assetsio.reedpopcdn.com/microsoft-clouds.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/age-of-empires-2s-return-of-rome-dlc-revisits-a-classic-series-expansion",
-          "author": "Matt Wales",
-          "description": "Age of Empires 2: Definitive Edition is readying to reach even further into the series' past with the announcement of its Return of Rome DLC, a \"new form\" of the original Age of Empires' Rise of Rome expansion that's coming to PC and consoles on 16th May.\r\n\n\r\nThere's quite a lot going on in Rise of Rome - which purchasers will need to switch to from the main screen in order to access its new stuff - but the most notable addition for series fans is arguably the return of all 16 civilisations from the original Age of Empires and Rise of Rome.\r\n\n\r\nThat means the Assyrians, Babylonians, Carthaginians, Choson, Egyptians, Greeks, Hittites, Macedonians, Minoans, Palmyrans, Persians, Phoenicians, Romans, Shang, Sumerians, and Yamato will all be playable in Rise of Rome, with the Romans being unique in that they'll also be available to play in Age of Empires 2: Definitive Edition's base game.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/age-of-empires-2s-return-of-rome-dlc-revisits-a-classic-series-expansion",
-          "publishedOn": "2023-04-27T23:50:11.000Z",
-          "wordCount": 5412,
-          "title": "Age of Empires 2's Return of Rome DLC revisits a classic series expansion",
-          "imageUrl": "https://assetsio.reedpopcdn.com/age-of-empires-2-return-of-rome_O5YAUpm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/redfall-accessibility-options-and-pc-requirements-detailed",
-          "author": "Matt Wales",
-          "description": "Arkane's co-op vampire shooter Redfall is just a week away now, and as the clock ticks down to release, Microsoft has shared a bunch of new info, including a new trailer, details on its accessibility options, and its PC system requirements - the latter being particularly intriguing in light of the recently announced 30fps limit on consoles.\r\n\n\r\nStarting with Redfall's accessibility options, these have now been shared as part of a full \"settings\" breakdown over on Arkane's blog. Accessbility options, specifically, include the likes of text-to-speech and speech-to-text support, screen narration, subtitles and closed captioning, font scaling, a colour blindness filter, notification duration settings, and an optional \"accessibility reticule\" for anyone that would benefit from a permanent fixation point on-screen.\r\n\n\r\nArkane has also provided an extensive list of more general settings, highlighting things like toggleable head bob and camera shake, optional object highlights, and four difficulty settings - three of which are available when first starting the game. It's well worth checking out the full article for the considerably more expanded breakdown.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/redfall-accessibility-options-and-pc-requirements-detailed",
-          "publishedOn": "2023-04-27T21:18:06.000Z",
-          "wordCount": 5830,
-          "title": "Redfall accessibility options and PC requirements detailed",
-          "imageUrl": "https://assetsio.reedpopcdn.com/redfall-ambush-screen.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/gotham-knights-latest-patch-adds-a-tough-new-15-floor-heroic-assault-raid",
-          "author": "Matt Wales",
-          "description": "Warner Bros' co-op action-adventure Gotham Knights has just received another update, this one bringing fixes, accessibility improvements, and a surprise new 15-floor Heroic Assault raid.\r\n\n\r\nGotham Knights, of course, recieved a lukewarm reception when it launched last October, with particularly stern words being saved for its myriad technical issues. Since then, developer Warner Bros Montreal has been tinkering under the hood to improve the experience - with notable success, as Digital Foundry noted recently - making today's update the latest in a long line of patches.\r\n\n\r\nWith most of the game's glaring technical issues seemingly now resolved, its latest update - which notably features accessibility improvements such as controller remapping, improved screen-reader support, and button press toggles, as detailed in the accompanying patch notes - is less about fixes and more about new content.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/gotham-knights-latest-patch-adds-a-tough-new-15-floor-heroic-assault-raid",
-          "publishedOn": "2023-04-27T19:07:57.000Z",
-          "wordCount": 5715,
-          "title": "Gotham Knights' latest patch adds a tough new 15-floor Heroic Assault raid",
-          "imageUrl": "https://assetsio.reedpopcdn.com/GOTHAM-NEW-SITE.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
