@@ -124,16 +124,6 @@
           "wordCount": 180,
           "title": "College Knowledge",
           "imageUrl": "https://imgs.xkcd.com/comics/college_knowledge_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2770/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/tapetum_lucidum.png\" title=\"Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.\" alt=\"Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.\" />",
-          "link": "https://xkcd.com/2770/",
-          "publishedOn": "2023-05-01T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Tapetum Lucidum",
-          "imageUrl": "https://imgs.xkcd.com/comics/tapetum_lucidum_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/05/brute-forcing-a-fingerprint-reader.html",
+          "author": null,
+          "description": "<p>It&#8217;s <a href=\"https://arstechnica.com/information-technology/2023/05/hackers-can-brute-force-fingerprint-authentication-of-android-devices/#p3\">neither hard nor expensive</a>:</p>\n<blockquote><p>Unlike password authentication, which requires a direct match between what is inputted and what&#8217;s stored in a database, fingerprint authentication determines a match using a reference threshold. As a result, a successful fingerprint brute-force attack requires only that an inputted image provides an acceptable approximation of an image in the fingerprint database. BrutePrint manipulates the false acceptance rate (FAR) to increase the threshold so fewer approximate images are accepted.</p>\n<p>BrutePrint acts as an adversary in the middle between the fingerprint sensor and the trusted execution environment and exploits vulnerabilities that allow for unlimited guesses...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/05/brute-forcing-a-fingerprint-reader.html",
+          "publishedOn": "2023-05-30T11:16:43.000Z",
+          "wordCount": 1070,
+          "title": "Brute-Forcing a Fingerprint Reader",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/05/friday-squid-blogging-online-cephalopod-course.html",
           "author": null,
@@ -371,6 +371,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1942080",
+          "author": "Aurich Lawson",
+          "description": "Capcom breathes new life into its classic fighting game franchise.",
+          "link": "https://arstechnica.com/?p=1942080",
+          "publishedOn": "2023-05-30T07:01:28.000Z",
+          "wordCount": 1905,
+          "title": "Street Fighter 6 is great fun for both casual and dedicated players",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/street-fighter-6-intro-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1937362",
           "author": "Jennifer Ouellette",
@@ -4026,6 +4036,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/simple-airbike-makes-travelling-in-zelda-tears-of-the-kingdom-a-breeze",
+          "author": "Liv Ngan",
+          "description": "A design for an airbike in Zelda: Tears of the Kingdom has become hugely popular for its simplicity and ease of use.\r\n\nTraversing the vast space of Hyrule (and the Depths) can be a bit of a slog on foot or horse, but one vehicle has easily solved this problem.\r\n\nThe airbike, as demonstrated by YouTuber Uncle Dane, only requires two fans and one steering stick, which can be easily gotten from Zonai Device Dispensers or found scattered about.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/simple-airbike-makes-travelling-in-zelda-tears-of-the-kingdom-a-breeze",
+          "publishedOn": "2023-05-30T11:20:49.000Z",
+          "wordCount": 6052,
+          "title": "Simple airbike makes travelling in Zelda: Tears of the Kingdom a breeze",
+          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-glider-build.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/valheim-devs-urge-fans-not-to-charge-for-mods",
+          "author": "Ed Nightingale",
+          "description": "The developer of viking survival game Valheim has urged fans not to charge for mods they create.\r\n\n\r\nIn a new blog post on Steam, the Iron Gate team noted it's been receiving \"a lot of questions regarding mods\" and addressed some issues around the modding scene.\r\n\n\r\nThe game doesn't have any official mod support, but the team is flattered and \"definitely happy to see that people are engaging with our game\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/valheim-devs-urge-fans-not-to-charge-for-mods",
+          "publishedOn": "2023-05-30T10:53:39.000Z",
+          "wordCount": 5773,
+          "title": "Valheim devs urge fans not to charge for mods",
+          "imageUrl": "https://assetsio.reedpopcdn.com/valheim-mistlands-9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/fans-think-microsoft-teasing-psychonauts-3",
+          "author": "Victoria Kennedy",
+          "description": "Over the weekend, Microsoft's Australian Xbox account shared a cryptic tweet, and this communication has led many to speculate a Psychonauts 3 announcement is imminent. \r\n\n\r\nThe tweet in question showed your typical naughts and crosses style grid layout, with the letters H, S, X, Y, X, O, C, X, P filling out the nine spaces.\r\n\n\r\n\"WHAT DOES IT MEAN?? No please seriously, someone help us out,\" the account teased.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fans-think-microsoft-teasing-psychonauts-3",
+          "publishedOn": "2023-05-30T10:43:10.000Z",
+          "wordCount": 5890,
+          "title": "Fans think Microsoft teasing Psychonauts 3",
+          "imageUrl": "https://assetsio.reedpopcdn.com/psychonauts_2-Raz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/yakuza-developer-announces-summer-livestream-set-for-next-month",
+          "author": "Liv Ngan",
+          "description": "RGG Studio will hold its next RGG Summit livestream event next month.\r\n\n\r\nThe developer is best known as the team behind the Yakuza/Like a Dragon series and its spin-off Judgment games.\r\n\n\r\nWe know what's in the pipeline for Like a Dragon, so here's what we could see shown off.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/yakuza-developer-announces-summer-livestream-set-for-next-month",
+          "publishedOn": "2023-05-30T10:31:59.000Z",
+          "wordCount": 5861,
+          "title": "Yakuza developer announces summer livestream, set for next month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/yakuza-8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/behind-the-scenes-of-zelda-tears-of-the-kingdoms-ascend-ability",
+          "author": "Ed Nightingale",
+          "description": "Link's Ascend ability in Zelda: Tears of the Kingdom is a particularly useful addition, but have you ever wondered exactly how it works?\r\n\n\r\nWhen ascending, Link is transported through rock via, seemingly, a loading screen of darkness and green swirls.\r\n\n\r\nThanks to a new video from YouTube channel Boundary Break, we can see what's going on behind the scenes.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/behind-the-scenes-of-zelda-tears-of-the-kingdoms-ascend-ability",
+          "publishedOn": "2023-05-30T10:28:31.000Z",
+          "wordCount": 5871,
+          "title": "Behind the scenes of Zelda: Tears of the Kingdom's Ascend ability",
+          "imageUrl": "https://assetsio.reedpopcdn.com/2023051320125800_s.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-witcher-3-has-sold-50m-copies-entire-trilogy-over-75m",
+          "author": "Victoria Kennedy",
+          "description": "The Witcher 3 has now sold 50m copies, cementing the title's position as one of the best-selling games of all time. \r\n\n\r\nDeveloper CD Projekt Red announced this latest milestone during its recent earnings call. Here, CDPR exec Adam Kicinski also revealed the Witcher trilogy combined has now sold in excess of 75m copies. \r\n\n\r\n\"This clearly shows the strength of the franchise and we are excited looking forward to our next projects within the Witcher universe,\" he said on these latest figures.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-witcher-3-has-sold-50m-copies-entire-trilogy-over-75m",
+          "publishedOn": "2023-05-30T10:13:03.000Z",
+          "wordCount": 6128,
+          "title": "The Witcher 3 has sold 50m copies, entire trilogy over 75m",
+          "imageUrl": "https://assetsio.reedpopcdn.com/the-witcher-3-thumbs-up_AjlLb8j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-witcher-developer-shuts-down-rumour-of-sale-to-sony",
+          "author": "Tom Phillips",
+          "description": "CD Projekt, developer of The Witcher and Cyberpunk 2077, has dismissed speculation it will be bought by Sony. \r\n\n\r\nOnline reports had suggested the maker of PlayStation was interested in snapping up CD Projekt for itself, apparently based on a rumour spread by a well-known Destiny leaker. \r\n\n\r\nCD Projekt has previously insisted the studio wished to remain independent. And now, in an investor call, CD Projekt boss Adam Kicinski has ruled out the developer being available to buy.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-witcher-developer-shuts-down-rumour-of-sale-to-sony",
+          "publishedOn": "2023-05-30T10:06:15.000Z",
+          "wordCount": 5799,
+          "title": "The Witcher developer shuts down rumour of sale to Sony",
+          "imageUrl": "https://assetsio.reedpopcdn.com/CD-Projekt-RED-Confirms-As-Phantom-Liberty-Moves-Towards-Release-The-Witcher-4-Development-Ramps-Up-e1685389195787.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/optimus-prime-is-coming-to-fortnite-leak-suggests",
           "author": "Vikki Blake",
