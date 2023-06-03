@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T06:24:38.089Z</updated>
+    <updated>2023-06-03T12:28:11.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Texas Chain Saw Massacre game director tells fans that demanding content is "not how Hollywood works"]]></title>
+        <id>https://www.eurogamer.net/the-texas-chain-saw-massacre-game-director-tells-fans-that-demanding-content-is-not-how-hollywood-works</id>
+        <link href="https://www.eurogamer.net/the-texas-chain-saw-massacre-game-director-tells-fans-that-demanding-content-is-not-how-hollywood-works"/>
+        <updated>2023-06-03T11:51:35.000Z</updated>
+        <summary type="html"><![CDATA[The director of upcoming The Texas Chain Saw Massacre game wants us to know that Hollywood licensing is "a total mess" so Gun Interactive probably can't add your favourite Texas Chain Saw character into the game.
+
+CEO Wes Keltner broke the news on Twitter, offering a "friendly reminder" to players that despite their demands, Gun can't add just any character or location from the movie series' considerable back catalogue because it doesn't "have those rights". 
+
+"Friendly reminder. We have the interactive rights to the 1974 film. We can't put characters or locations in from other [Texas Chain Saw] films because we don't have those rights," Keltner explained. "Demanding we add them is not how Hollywood works. Licensing in general is usually a total mess."
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More than 400 Grail patients incorrectly told they may have cancer]]></title>
+        <id>https://arstechnica.com/?p=1944244</id>
+        <link href="https://arstechnica.com/?p=1944244"/>
+        <updated>2023-06-03T11:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Life assurance customers  pause review relationship with early-detection biotech.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Wars: Knights of the Old Republic 2 – The Sith Lords' Restored Content DLC has been cancelled]]></title>
+        <id>https://www.eurogamer.net/star-wars-knights-of-the-old-republic-2-the-sith-lords-restored-content-dlc-has-been-cancelled</id>
+        <link href="https://www.eurogamer.net/star-wars-knights-of-the-old-republic-2-the-sith-lords-restored-content-dlc-has-been-cancelled"/>
+        <updated>2023-06-03T11:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Aspyr Media has revealed that Star Wars: Knights of the Old Republic 2 – The Sith Lords' highly-anticipated DLC, Restored Content, will now not be coming to Nintendo Switch after all.
+
+Whilst the team confirmed that the DLC plans would "not be moving forward", it did not offer an explanation as to why the content – which started out as a fan-made mod to restore content to the original game – had been scrapped. 
+
+After thanking the KOTOR community for its "immense passion and support for the Star Wars: Knights of the Old Republic series", Aspyr said: "Sadly, today we are announcing that the Restored Content DLC for the Nintendo Switch version of Star Wars: Knights of the Old Republic 2 – The Sith Lords will not be moving forward for release"."
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They plugged GPT-4 into Minecraft—and unearthed new potential for AI]]></title>
+        <id>https://arstechnica.com/?p=1944184</id>
+        <link href="https://arstechnica.com/?p=1944184"/>
+        <updated>2023-06-03T10:54:06.000Z</updated>
+        <summary type="html"><![CDATA[A bot plays the video game by tapping the text generator to pick up new skills.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pandemic lessons: More health workers, less faxing—an Ars Frontiers recap]]></title>
         <id>https://arstechnica.com/?p=1944284</id>
@@ -10603,165 +10655,6 @@ Season 1 will begin in June, with a second to follow in autumn, a third in winte
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commemorative Plaque]]></title>
-        <id>https://xkcd.com/2772/</id>
-        <link href="https://xkcd.com/2772/"/>
-        <updated>2023-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/commemorative_plaque.png" title="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." alt="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.27: Quality-of-Service for Memory Resources (alpha)]]></title>
-        <id>https://kubernetes.io/blog/2023/05/05/qos-memory-resources/</id>
-        <link href="https://kubernetes.io/blog/2023/05/05/qos-memory-resources/"/>
-        <updated>2023-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Dixita Narang (Google)
-Kubernetes v1.27, released in April 2023, introduced changes to
-Memory QoS (alpha) to improve memory management capabilites in Linux nodes.
-Support for Memory QoS was initially added in Kubernetes v1.22, and later some
-limitations
-around the formula for calculating memory.high were identified. These limitations are
-addressed in Kubernetes v1.27.
-Background
-Kubernetes allows you to optionally specify how much of each resources a container needs
-in the Pod specification. The most common resources to specify are CPU and Memory.
-For example, a Pod manifest that defines container resource requirements could look like:
-apiVersion: v1
-kind: Pod
-metadata:
-name: example
-spec:
-containers:
-- name: nginx
-resources:
-requests:
-memory: "64Mi"
-cpu: "250m"
-limits:
-memory: "6…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In a world first, RSV vaccines wins FDA approval for adults 60 and up]]></title>
-        <id>https://arstechnica.com/?p=1936993</id>
-        <link href="https://arstechnica.com/?p=1936993"/>
-        <updated>2023-05-04T22:42:56.000Z</updated>
-        <summary type="html"><![CDATA[It's an achievement decades in the making, and more vaccines are in the pipeline.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Alexa flounders, Amazon hopes homegrown generative AI can find it revenue]]></title>
-        <id>https://arstechnica.com/?p=1936871</id>
-        <link href="https://arstechnica.com/?p=1936871"/>
-        <updated>2023-05-04T22:22:19.000Z</updated>
-        <summary type="html"><![CDATA[With voice assistants on the brink of death, Amazon targets Alexa large language model.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luke’s Awakening fan art merges Star Wars with Zelda to delightful 8-bit effect]]></title>
-        <id>https://arstechnica.com/?p=1936707</id>
-        <link href="https://arstechnica.com/?p=1936707"/>
-        <updated>2023-05-04T21:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Game Boy Color pixel art mashes up Star Wars and Zelda into a faux game we wish was real.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Q2 earnings are down, as everything but iPhones is harder to sell]]></title>
-        <id>https://arstechnica.com/?p=1936882</id>
-        <link href="https://arstechnica.com/?p=1936882"/>
-        <updated>2023-05-04T21:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Nothing compares to those sweet Apple Silicon-powered quarters of yore.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea of Thieves' second ARG-like Mystery is a hunt for a valuable real-world prize]]></title>
-        <id>https://www.eurogamer.net/sea-of-thieves-second-arg-like-mystery-is-a-hunt-for-a-valuable-real-world-prize</id>
-        <link href="https://www.eurogamer.net/sea-of-thieves-second-arg-like-mystery-is-a-hunt-for-a-valuable-real-world-prize"/>
-        <updated>2023-05-04T20:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Sea of Thieves is preparing to send bamboozle-proof buccaneers off on another ARG-like adventure, with the multiplayer pirate game's second Mystery, The Hoarder's Hunt, now confirmed to launch next Thursday, 11th May.
-
-
-Sea of Thieves' first Mystery, which ran from May to September last year, was a lovely idea in principle, weaving a web of devious clues - both in and out of the game - that would eventually reveal the culprit behind the murder of prominent character DeMarco Singh.
-
-
-It certainly had its moments - the magical in-game lantern given to players at the start of the Mystery, revealing clues wherever its light shone in the world, was a lovely bit of clue-hunting paraphernalia - but, unfortunately, the whole thing just ended up lurching awkwardly to its less-than-stellar conclusion, hindered by a clumsy, immersion-shattering insistence on gating progress behind social media engagement targets.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google makes the Pixel Fold official]]></title>
-        <id>https://arstechnica.com/?p=1936858</id>
-        <link href="https://arstechnica.com/?p=1936858"/>
-        <updated>2023-05-04T19:53:52.000Z</updated>
-        <summary type="html"><![CDATA[After years of delays, Google's foldable is finally confirmed.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs]]></title>
-        <id>https://arstechnica.com/?p=1936849</id>
-        <link href="https://arstechnica.com/?p=1936849"/>
-        <updated>2023-05-04T19:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Sundar Pichai compared to Lord Farquaad as employees share memes about CEO pay.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snoop Dogg on AI risk: “Sh–, what the f—?”]]></title>
-        <id>https://arstechnica.com/?p=1936767</id>
-        <link href="https://arstechnica.com/?p=1936767"/>
-        <updated>2023-05-04T19:30:47.000Z</updated>
-        <summary type="html"><![CDATA[The music legend expressed his concerns during a Milken Institute panel with Larry Jackson.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabletop-inspired RPG sequel For the King 2 getting a closed beta next week]]></title>
-        <id>https://www.eurogamer.net/tabletop-inspired-rpg-sequel-for-the-king-2-getting-a-closed-beta-next-week</id>
-        <link href="https://www.eurogamer.net/tabletop-inspired-rpg-sequel-for-the-king-2-getting-a-closed-beta-next-week"/>
-        <updated>2023-05-04T19:01:01.000Z</updated>
-        <summary type="html"><![CDATA[For the King 2 - the sequel to IronOak Games' wonderful tabletop-RPG-meets-digital-board-game adventure - is getting a closed beta next week, and registration is now open.
-
-
-IronOak's follow-up - which pits players against the kingdom of Fahrul's tyrannical queen 20 years after the end of the first game - is, from what's been shown so far, less a bold new direction for the series and more a deepening of the original's already hugely entertaining core.
-
-
-That means another light-hearted, optionally co-operative rogue-like adventure blending familiar RPG staples - dungeon crawling, questing, turn-based exploration and combat, loot acquisition, and so on - with some neat story generation through randomised narrative events.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage your application security stack effectively with the tool status page]]></title>
-        <id>https://github.blog/?p=71609</id>
-        <link href="https://github.blog/2023-05-04-manage-your-application-security-stack-effectively-with-the-tool-status-page/"/>
-        <updated>2023-05-04T18:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Code scanning’s tool status gives you a bird's eye view of your application security stack, allowing you to quickly confirm everything is working, or troubleshoot any tool in your application security arsenal.]]></summary>
-        <author>
-            <name>Walker Chabbott</name>
         </author>
     </entry>
 </feed>
