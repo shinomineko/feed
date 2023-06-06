@@ -124,16 +124,6 @@
           "wordCount": 178,
           "title": "Taxiing",
           "imageUrl": "https://imgs.xkcd.com/comics/taxiing_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2773/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/planetary_scientist.png\" title=\"This rumpled fabric at the corner looks like evidence of ongoing tectonic activity.\" alt=\"This rumpled fabric at the corner looks like evidence of ongoing tectonic activity.\" />",
-          "link": "https://xkcd.com/2773/",
-          "publishedOn": "2023-05-08T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Planetary Scientist",
-          "imageUrl": "https://imgs.xkcd.com/comics/planetary_scientist_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html",
+          "author": null,
+          "description": "<p>In 2013 and 2014, I wrote extensively about new revelations regarding NSA surveillance based on the documents provided by Edward Snowden. But I had a more personal involvement as well.</p>\n<p>I wrote the essay below in September 2013. The <i>New Yorker</i> agreed to publish it, but the <i>Guardian</i> asked me not to. It was scared of UK law enforcement, and worried that this essay would reflect badly on it. And given that the UK police would raid its offices in July 2014, it had legitimate cause to be worried.</p>\n<p>Now, ten years later, I offer this as a time capsule of what those early months of Snowden were like...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html",
+          "publishedOn": "2023-06-06T11:17:07.000Z",
+          "wordCount": 3754,
+          "title": "Snowden Ten Years Later",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/06/the-software-defined-car.html",
           "author": null,
@@ -4124,16 +4124,6 @@
           "wordCount": 3840,
           "title": "Blog: Kubernetes 1.27: Safer, More Performant Pruning in kubectl apply",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/05/08/kubernetes-1-27-volume-group-snapshot-alpha/",
-          "author": null,
-          "description": "Author: Xing Yang (VMware)\nVolume group snapshot is introduced as an Alpha feature in Kubernetes v1.27.\nThis feature introduces a Kubernetes API that allows users to take crash consistent\nsnapshots for multiple volumes together. It uses a label selector to group multiple\nPersistentVolumeClaims for snapshotting.\nThis new feature is only supported for CSI volume drivers.\nAn overview of volume group snapshots\nSome storage systems provide the ability to create a crash consistent snapshot of\nmultiple volumes. A group snapshot represents “copies” from multiple volumes that\nare taken at the same point-in-time. A group snapshot can be used either to rehydrate\nnew volumes (pre-populated with the snapshot data) or to restore existing volumes to\na previous state (represented by the snapshots).\nWhy ad…",
-          "link": "https://kubernetes.io/blog/2023/05/08/kubernetes-1-27-volume-group-snapshot-alpha/",
-          "publishedOn": "2023-05-08T00:00:00.000Z",
-          "wordCount": 4887,
-          "title": "Blog: Kubernetes 1.27: Introducing An API For Volume Group Snapshots",
-          "imageUrl": null
         }
       ]
     },
@@ -4186,6 +4176,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/resident-evil-death-island-release-date-announced",
+          "author": "Liv Ngan",
+          "description": "Capcom and Sony Pictures have announced when CGI movie Resident Evil: Death Island will be out.\r\n\n\r\nThe upcoming animated film was announced in February. It's a big deal for fans, as it'll mark the first time favourite characters such as Leon Kennedy and Jill Valentine are on-screen together. \r\n\n\r\nThe pair, as well as returning protagonists Rebecca Chambers, Chris and Claire Redfield, are brought together when investigating a number of bioweapon-related cases. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/resident-evil-death-island-release-date-announced",
+          "publishedOn": "2023-06-06T11:29:26.000Z",
+          "wordCount": 5784,
+          "title": "Resident Evil: Death Island release date announced",
+          "imageUrl": "https://assetsio.reedpopcdn.com/resident-evil-death-island-box-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-fined-20m-for-violating-online-child-protection-laws",
+          "author": "Ed Nightingale",
+          "description": "Microsoft has been fined $20m by the FTC for violating the Children's Online Privacy Protection Act (COPPA).\r\n\n\r\nThe fine is in response to the collection of personal information from children via Xbox without parents being notified or giving consent, as well as the illegal retention of that information, the FTC has said.\r\n\r\n\n\r\nAs a result, Microsoft is required to make a number of changes to improve privacy protection for children on Xbox.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-fined-20m-for-violating-online-child-protection-laws",
+          "publishedOn": "2023-06-06T10:51:39.000Z",
+          "wordCount": 6150,
+          "title": "Microsoft fined $20m for violating online child protection laws",
+          "imageUrl": "https://assetsio.reedpopcdn.com/f817aa8c-02c1-4ba9-84a8-20d357d52939.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/diablo-4-has-two-expansions-in-development-blizzard-confirms",
+          "author": "Ed Nightingale",
+          "description": "Diablo general manager Rod Fergusson has confirmed that two expansions are in development for Diablo 4.\r\n\n\r\nFergusson was interviewed by Kinda Funny Games and discussed the live-service format for the game and how it allows for substantial updates.\r\n\n\r\n\"As I sit here we're about to launch the main game, we're finishing up season one, we're working on season two, we're working on expansion one, we're kicking off expansion two,\" said Fergusson. \"All that's happening right now and we haven't even launched the game yet.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/diablo-4-has-two-expansions-in-development-blizzard-confirms",
+          "publishedOn": "2023-06-06T10:21:17.000Z",
+          "wordCount": 6128,
+          "title": "Diablo 4 has two expansions in development, Blizzard confirms",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Diablo-4-release-time%2C-early-access-and-preload-details.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-switch-online-adds-kirby-and-harvest-moon",
+          "author": "Liv Ngan",
+          "description": "Nintendo has announced the next games to join its NES, SNES, and Game Boy libraries.\r\n\n\r\nSwitch Online members can now access Kirby Tilt 'n' Tumble, Blaster Master: Enemy Below, Harvest Moon, and Mystery Tower through the subscription service.\r\n\n\r\nTake a look at the compilation video below to see the games in action!\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-switch-online-adds-kirby-and-harvest-moon",
+          "publishedOn": "2023-06-06T10:07:49.000Z",
+          "wordCount": 5936,
+          "title": "Nintendo Switch Online adds Kirby and Harvest Moon",
+          "imageUrl": "https://assetsio.reedpopcdn.com/2250x1266_Switch_News_6_NSO.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/capcom-showcase-confirmed-date-set-for-next-week",
+          "author": "Tom Phillips",
+          "description": "Capcom has announced its own summer game reveal event, to take place next Monday, 12th June at 11pm UK time.\r\n\n\r\nThe livestream will run for \"roughly 36 minutes\", Capcom has said, and features \"news and updates on our latest games\". \r\n\n\r\nNo specific titles are mentioned, but it seems likely we'll see more of dinosaur shooting game Exoprimal (which is out next month) and perhaps a bit of Dragon's Dogma 2 (which we got a glimpse of last month at Sony's PlayStation Showcase). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/capcom-showcase-confirmed-date-set-for-next-week",
+          "publishedOn": "2023-06-06T09:39:52.000Z",
+          "wordCount": 5980,
+          "title": "Capcom Showcase confirmed, date set for next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/RE4_Ada_01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/death-stranding-directors-cut-and-future-kojima-production-games-heading-to-mac",
           "author": "Matt Wales",
