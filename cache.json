@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/06/how-attorneys-are-harming-cybersecurity-incident-response.html",
+          "author": null,
+          "description": "<p>New paper: &#8220;<a href=\"https://www.usenix.org/system/files/sec23fall-prepub-292-woods.pdf\">Lessons Lost: Incident Response in the Age of Cyber Insurance and Breach Attorneys</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Incident Response (IR) allows victim firms to detect, contain, and recover from security incidents. It should also help the wider community avoid similar attacks in the future. In pursuit of these goals, technical practitioners are increasingly influenced by stakeholders like cyber insurers and lawyers. This paper explores these impacts via a multi-stage, mixed methods research design that involved 69 expert interviews, data on commercial relationships, and an online validation workshop. The first stage of our study established 11 stylized facts that describe how cyber insurance sends work to a small numbers of IR firms, drives down the fee paid, and appoints lawyers to direct technical investigators. The second stage showed that lawyers when directing incident response often: introduce legalistic contractual and communication steps that slow-down incident response; advise IR practitioners not to write down remediation steps or to produce formal reports; and restrict access to any documents produced...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/06/how-attorneys-are-harming-cybersecurity-incident-response.html",
+          "publishedOn": "2023-06-07T11:06:33.000Z",
+          "wordCount": 909,
+          "title": "How Attorneys Are Harming Cybersecurity Incident Response",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html",
           "author": null,
           "description": "<p>In 2013 and 2014, I wrote extensively about new revelations regarding NSA surveillance based on the documents provided by Edward Snowden. But I had a more personal involvement as well.</p>\n<p>I wrote the essay below in September 2013. The <i>New Yorker</i> agreed to publish it, but the <i>Guardian</i> asked me not to. It was scared of UK law enforcement, and worried that this essay would reflect badly on it. And given that the UK police would raid its offices in July 2014, it had legitimate cause to be worried.</p>\n<p>Now, ten years later, I offer this as a time capsule of what those early months of Snowden were like...</p>",
@@ -4020,56 +4030,6 @@
           "wordCount": 1752,
           "title": "Ambitious Arab mission to explore seven asteroids, including a very red one",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/trans-Neptunian-objects-artist-illustration-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937636",
-          "author": "Dan Goodin",
-          "description": "The DDoS whack-a-mole game between law enforcement and miscreants continues.",
-          "link": "https://arstechnica.com/?p=1937636",
-          "publishedOn": "2023-05-09T00:06:44.000Z",
-          "wordCount": 1775,
-          "title": "Feds seize 13 more DDoS-for-hire platforms in ongoing international crackdown",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/domain-seizure-notice-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937601",
-          "author": "John Timmer",
-          "description": "The good news? Big oil companies are on the hook for the costs.",
-          "link": "https://arstechnica.com/?p=1937601",
-          "publishedOn": "2023-05-08T22:03:42.000Z",
-          "wordCount": 2120,
-          "title": "US Gulf states’ inactive, uncapped oil and gas wells a $30 billion liability",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-179275466-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937589",
-          "author": "Ashley Belanger",
-          "description": "Senators accuse Tesla of hiding “untold number” of complaints.",
-          "link": "https://arstechnica.com/?p=1937589",
-          "publishedOn": "2023-05-08T21:34:50.000Z",
-          "wordCount": 1768,
-          "title": "US senators call Tesla’s safety review a “sham,” demand answers from Musk",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1246507429-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937544",
-          "author": "Samuel Axon",
-          "description": "The technical preview that started in December 2021 is now available to everyone.",
-          "link": "https://arstechnica.com/?p=1937544",
-          "publishedOn": "2023-05-08T20:48:29.000Z",
-          "wordCount": 1607,
-          "title": "After 18 months, GitHub’s big code search overhaul is generally available",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/github-code-view-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937567",
-          "author": "Andrew Cunningham",
-          "description": "The chip's new CPU will reportedly be based on the Apple A15 instead of the A13.",
-          "link": "https://arstechnica.com/?p=1937567",
-          "publishedOn": "2023-05-08T20:31:11.000Z",
-          "wordCount": 1614,
-          "title": "Next-gen Apple Watch will reportedly get its first major CPU upgrade in years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Ars-Technica-Apple-Watch-Series-7-Review-9-760x380.jpg"
         }
       ]
     },
@@ -4154,16 +4114,6 @@
           "wordCount": 4223,
           "title": "Blog: Kubernetes 1.27: Avoid Collisions Assigning Ports to NodePort Services",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/",
-          "author": null,
-          "description": "Authors: Katrina Verey (independent) and Justin Santa Barbara (Google)\nDeclarative configuration management with the kubectl apply command is the gold standard approach\nto creating or modifying Kubernetes resources. However, one challenge it presents is the deletion\nof resources that are no longer needed. In Kubernetes version 1.5, the --prune flag was\nintroduced to address this issue, allowing kubectl apply to automatically clean up previously\napplied resources removed from the current configuration.\nUnfortunately, that existing implementation of --prune has design flaws that diminish its\nperformance and can result in unexpected behaviors. The main issue stems from the lack of explicit\nencoding of the previously applied set by the preceding apply operation, necessitating\nerror-prone dynam…",
-          "link": "https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/",
-          "publishedOn": "2023-05-09T00:00:00.000Z",
-          "wordCount": 3840,
-          "title": "Blog: Kubernetes 1.27: Safer, More Performant Pruning in kubectl apply",
-          "imageUrl": null
         }
       ]
     },
@@ -4198,24 +4148,63 @@
       "title": "Alpine Linux News",
       "feedUrl": "https://alpinelinux.org/atom.xml",
       "siteUrl": "https://alpinelinux.org/atom.xml",
-      "articles": [
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.18.0-released.html",
-          "author": null,
-          "description": "Alpine 3.18.0 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.18.0-released.html",
-          "publishedOn": "2023-05-09T00:00:00.000Z",
-          "wordCount": 757,
-          "title": "Alpine 3.18.0 released",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Eurogamer.net News Feed",
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/diablo-4-designer-confirms-its-world-is-in-fact-round",
+          "author": "Ed Nightingale",
+          "description": "A Diablo 4 designer has confirmed that Sanctuary is in fact a round planet, not a flat world.\r\n\n\r\nThis may seem obvious - after all, our own planet is of course a sphere (sorry Flat Earthers) - but when so many games present a flat map, it's easy to misinterpret.\r\n\n\r\nHarrison Pink, senior quest designer on the game, shared this \"tiny lore nugget\" on Twitter.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/diablo-4-designer-confirms-its-world-is-in-fact-round",
+          "publishedOn": "2023-06-07T11:55:18.000Z",
+          "wordCount": 6287,
+          "title": "Diablo 4 designer confirms its world is in fact round",
+          "imageUrl": "https://assetsio.reedpopcdn.com/diablo-4-sanctuary.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ghostwire-tokyo-heads-up-junes-latest-humble-bundle",
+          "author": "Victoria Kennedy",
+          "description": "The bundle building rascals at Humble are offering Ghostwire: Tokyo as part of June's Humble Choice.\r\n\n\r\nIn addition, this month's Choice bundle also includes Remnant: From the Ashes - Complete Edition, Curse of the Dead Gods, Eternal Threads, Honey, I Joined a Cult, GRIME, Meeple Station and Turbo Golf Racing.\r\n\nAs with every month, five percent of every Humble Choice membership is donated to the team's featured charity. This month's charity - in honour of Pride Month - is The Trevor Project, which is the leading suicide prevention and crisis intervention organisation for lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ) young people.\n Read more",
+          "link": "https://www.eurogamer.net/ghostwire-tokyo-heads-up-junes-latest-humble-bundle",
+          "publishedOn": "2023-06-07T11:46:49.000Z",
+          "wordCount": 6276,
+          "title": "Ghostwire: Tokyo heads up June’s latest Humble Bundle",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_eb2642ee902c4a34db5489fec084d1ee6db78105.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/twitch-apologises-after-changes-to-branded-content-met-by-streamer-backlash",
+          "author": "Ed Nightingale",
+          "description": "Twitch has apologised for updates made to its branded content policy which have upset streamers across the platform.\r\n\n\r\nYesterday, the company updated its Branded Content Guidelines that detail what is and isn't allowed on the platform in terms of branded and sponsored streams, a major way streamers generate extra revenue.\r\n\n\r\nThe new rules were met with anger by large swathes of the streaming community, forcing Twitch to apologise and rewrite its guidelines.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/twitch-apologises-after-changes-to-branded-content-met-by-streamer-backlash",
+          "publishedOn": "2023-06-07T10:59:17.000Z",
+          "wordCount": 6646,
+          "title": "Twitch apologises after changes to branded content met by streamer backlash",
+          "imageUrl": "https://assetsio.reedpopcdn.com/twitch-logo-1024x577.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/animated-angry-birds-series-coming-to-amazon-prime-stars-a-piglet-called-hamylton",
+          "author": "Victoria Kennedy",
+          "description": "Amazon and Rovio have announced a new animated TV series based on the popular mobile game Angry Birds. \r\n\n\r\nAngry Birds: Mystery Island will follow the escapades of three new hatchlings - Mia, Rosie, and Buddy. There is also a new foreign-exchange piglet, and his name is the rather brilliant Hamylton. \r\n\n\r\nAccording to a press release, these four \"rambunctious tweens\" receive an all expenses paid island getaway, but of course things are not going to go to plan. Rather than landing where they intended, they instead get unceremoniously catapulted onto an \"uncharted island\" (where I assume they will meet Nathan Drake). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/animated-angry-birds-series-coming-to-amazon-prime-stars-a-piglet-called-hamylton",
+          "publishedOn": "2023-06-07T10:40:45.000Z",
+          "wordCount": 6391,
+          "title": "Animated Angry Birds series coming to Amazon Prime, stars a piglet called Hamylton",
+          "imageUrl": "https://assetsio.reedpopcdn.com/angry-birds_KIsPcwc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-developer-sorry-for-technical-issue-which-saw-recently-nerfed-remote-raids-offer-worse-shiny-odds",
+          "author": "Tom Phillips",
+          "description": "Pokémon Go developer Niantic has apologised for a \"technical issue\" discovered by players this week which affected the odds of encountering the game's much-coveted Shiny Pokémon when battling bosses using a Remote Raid Pass. \r\n\nNiantic will now return any Remote Raid Pass used on these bosses, and hold an additional \"special event\" to make up for the error.\nRemote Raid Passes were recently nerfed by Niantic to make them less attractive for players to use, with a limit on the number of times they can be used per day and a more expensive price tag. The discovery that Remote Raid Passes were giving lower-than-expected Shiny odds left fans wondering whether this was yet another change by Niantic.\n Read more",
+          "link": "https://www.eurogamer.net/pokemon-go-developer-sorry-for-technical-issue-which-saw-recently-nerfed-remote-raids-offer-worse-shiny-odds",
+          "publishedOn": "2023-06-07T09:58:42.000Z",
+          "wordCount": 6511,
+          "title": "Pokémon Go developer sorry for \"technical issue\" which saw recently-nerfed Remote Raids offer worse Shiny odds",
+          "imageUrl": "https://assetsio.reedpopcdn.com/img_SOzBblI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/star-wars-the-old-republic-reportedly-moving-from-bioware-to-third-party-developer",
           "author": "Matt Wales",
