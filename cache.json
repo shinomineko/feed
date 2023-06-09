@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/06/operation-triangulation-zero-click-iphone-malware.html",
+          "author": null,
+          "description": "<p>Kaspersky is <a href=\"https://securelist.com/operation-triangulation/109842/\">reporting</a> a zero-click iOS exploit in the wild:</p>\n<blockquote><p>Mobile device backups contain a partial copy of the filesystem, including some of the user data and service databases. The timestamps of the files, folders and the database records allow to roughly reconstruct the events happening to the device. The mvt-ios utility produces a sorted timeline of events into a file called &#8220;timeline.csv,&#8221; similar to a super-timeline used by conventional digital forensic tools.</p>\n<p>Using this timeline, we were able to identify specific artifacts that indicate the compromise. This allowed to move the research forward, and to reconstruct the general infection sequence:...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/06/operation-triangulation-zero-click-iphone-malware.html",
+          "publishedOn": "2023-06-09T11:12:42.000Z",
+          "wordCount": 952,
+          "title": "Operation Triangulation: Zero-Click iPhone Malware",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/06/paragon-solutions-spyware-graphite.html",
           "author": null,
           "description": "<p>Paragon Solutions is yet another <a href=\"https://www.ft.com/content/11cb394d-a13e-4826-b580-823b9367fedb\">Israeli spyware company</a>. Their product is called &#8220;Graphite,&#8221; and is a lot like NSO Group&#8217;s Pegasus. And Paragon is working with what seems to be US approval:</p>\n<blockquote><p>American approval, even if indirect, has been at the heart of Paragon&#8217;s strategy. The company sought a list of allied nations that the US wouldn&#8217;t object to seeing deploy Graphite. People with knowledge of the matter suggested 35 countries are on that list, though the exact nations involved could not be determined. Most were in the EU and some in Asia, the people said...</p></blockquote>",
@@ -381,6 +391,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1938612",
+          "author": "Benj Edwards",
+          "description": "The still-updated World Book Encyclopedia is my antidote to the information apocalypse.",
+          "link": "https://arstechnica.com/?p=1938612",
+          "publishedOn": "2023-06-09T11:30:47.000Z",
+          "wordCount": 1983,
+          "title": "I just bought the only physical encyclopedia still in print, and I regret nothing",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/world_book_hero_2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1946339",
+          "author": "Chuong Nguyen",
+          "description": "Our curated Father's Day list of the favorite toys and tech dads will love.",
+          "link": "https://arstechnica.com/?p=1946339",
+          "publishedOn": "2023-06-09T11:00:45.000Z",
+          "wordCount": 2926,
+          "title": "Dealmaster: Savings on practical Father’s Day tech gift ideas",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Apple-AirPods-Max-with-charging-case-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1946626",
           "author": "John Timmer",
@@ -4050,106 +4080,6 @@
           "wordCount": 2476,
           "title": "Leak of MSI UEFI signing keys stokes fears of “doomsday” supply chain attack",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/grub2-boot-worm-update-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1938356",
-          "author": "Samuel Axon",
-          "description": "Google says it's still early days, though.",
-          "link": "https://arstechnica.com/?p=1938356",
-          "publishedOn": "2023-05-10T22:47:45.000Z",
-          "wordCount": 1699,
-          "title": "Google jumps into the AI coding assistant fray with Codey and Studio Bot",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Android-Studio-AI-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937672",
-          "author": "Chuong Nguyen",
-          "description": "Plus: discounts on several Mac laptops.",
-          "link": "https://arstechnica.com/?p=1937672",
-          "publishedOn": "2023-05-10T20:52:13.000Z",
-          "wordCount": 2034,
-          "title": "Dealmaster: Lenovo’s ThinkPad X1 Carbon Gen 10 tops our list",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_0331-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1938256",
-          "author": "Benj Edwards",
-          "description": "More languages, image inputs, and extension support among Bard features at I/O '23.",
-          "link": "https://arstechnica.com/?p=1938256",
-          "publishedOn": "2023-05-10T20:16:52.000Z",
-          "wordCount": 1800,
-          "title": "Google’s answer to ChatGPT is now open to everyone in US, packing new features",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/google_bard_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1937592",
-          "author": "Andrew Cunningham",
-          "description": "Opinion: 2013 Nexus 7 was the right tablet at the right price at the right time.",
-          "link": "https://arstechnica.com/?p=1937592",
-          "publishedOn": "2023-05-10T20:08:40.000Z",
-          "wordCount": 2364,
-          "title": "The Nexus 7 was Google’s only great tablet, and it has never tried to replace it",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/nexus-7-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1938251",
-          "author": "Beth Mole",
-          "description": "\"We need to trust women.\"",
-          "link": "https://arstechnica.com/?p=1938251",
-          "publishedOn": "2023-05-10T20:00:40.000Z",
-          "wordCount": 2123,
-          "title": "FDA advisers vote unanimously in favor of OTC birth control pills",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Opill-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1938195",
-          "author": "Ron Amadeo",
-          "description": "Google will soon have a big green box of generative text above the search results.",
-          "link": "https://arstechnica.com/?p=1938195",
-          "publishedOn": "2023-05-10T19:37:17.000Z",
-          "wordCount": 1598,
-          "title": "Google finally demos generative AI in Search, with a waitlist starting today",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/Labs_hero.width-1200.format-webp-760x380.webp"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1938066",
-          "author": "Scharon Harding",
-          "description": "What display traits would you sacrifice for an integrated eReader?",
-          "link": "https://arstechnica.com/?p=1938066",
-          "publishedOn": "2023-05-10T19:28:01.000Z",
-          "wordCount": 1871,
-          "title": "eReader-LCD hybrid gadgets keep coming—and so do the trade-offs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/philips-monitor-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1938017",
-          "author": "Ron Amadeo",
-          "description": "Did Google really make one of the best-designed foldables out there?",
-          "link": "https://arstechnica.com/?p=1938017",
-          "publishedOn": "2023-05-10T19:01:18.000Z",
-          "wordCount": 2362,
-          "title": "Google Pixel Fold: The thinnest foldable (with the biggest battery) in the US",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/17-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1936103",
-          "author": "Ron Amadeo",
-          "description": "Google says its tablet is \"not a Nest Hub replacement\" despite the identical design.",
-          "link": "https://arstechnica.com/?p=1936103",
-          "publishedOn": "2023-05-10T19:00:17.000Z",
-          "wordCount": 1817,
-          "title": "Google’s Pixel Tablet looks just like a smart display, so why isn’t it one?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/18-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1935766",
-          "author": "Ron Amadeo",
-          "description": "The Pixel 7a packs a 90 Hz display, wireless charging, and lots more aluminum.",
-          "link": "https://arstechnica.com/?p=1935766",
-          "publishedOn": "2023-05-10T18:58:56.000Z",
-          "wordCount": 2396,
-          "title": "Pixel 7a review: More of Google’s winning formula",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/31-760x380.jpg"
         }
       ]
     },
@@ -4234,16 +4164,6 @@
           "wordCount": 4575,
           "title": "Blog: Kubernetes 1.27: In-place Resource Resize for Kubernetes Pods (alpha)",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/05/11/nodeport-dynamic-and-static-allocation/",
-          "author": null,
-          "description": "Author: Xu Zhenglun (Alibaba)\nIn Kubernetes, a Service can be used to provide a unified traffic endpoint for\napplications running on a set of Pods. Clients can use the virtual IP address (or VIP) provided\nby the Service for access, and Kubernetes provides load balancing for traffic accessing\ndifferent back-end Pods, but a ClusterIP type of Service is limited to providing access to\nnodes within the cluster, while traffic from outside the cluster cannot be routed.\nOne way to solve this problem is to use a type: NodePort Service, which sets up a mapping\nto a specific port of all nodes in the cluster, thus redirecting traffic from the\noutside to the inside of the cluster.\nHow Kubernetes allocates node ports to Services?\nWhen a type: NodePort Service is created, its corresponding port(s) are al…",
-          "link": "https://kubernetes.io/blog/2023/05/11/nodeport-dynamic-and-static-allocation/",
-          "publishedOn": "2023-05-11T00:00:00.000Z",
-          "wordCount": 4223,
-          "title": "Blog: Kubernetes 1.27: Avoid Collisions Assigning Ports to NodePort Services",
-          "imageUrl": null
         }
       ]
     },
@@ -4285,6 +4205,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/baby-steps-is-a-man-baby-walking-sim-out-next-year-from-devolver",
+          "author": "Ed Nightingale",
+          "description": "At the Devolver Direct showcase, the publisher announced brand new game Baby Steps, from the developer behind Ape Out and Getting Over It.\r\n\n\r\nIt is, quite literally, a walking simulator and features adult man-baby Nate (not of the Drake variety) learning how to walk.\r\n\n\r\nNate, you see, is unemployed and lives with his parents, spending his time nestled in front of the television until he's sucked into a fantasy world inside the screen.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baby-steps-is-a-man-baby-walking-sim-out-next-year-from-devolver",
+          "publishedOn": "2023-06-09T11:59:44.000Z",
+          "wordCount": 5840,
+          "title": "Baby Steps is a man-baby walking sim out next year from Devolver",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Baby-Steps-_-2024-_-PlayStation-5-and-PC-0-14-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/legend-of-zelda-film-reportedly-in-the-works-universal-closing-big-deal-with-nintendo",
+          "author": "Victoria Kennedy",
+          "description": "Hot off the heels of the Super Mario Bros. Movie's success, it looks like another Nintendo IP could be making the transition to the big screen. \r\n\n\r\nAccording to well-informed film critic Jeff Sneider, Universal and Illumination are close to closing a \"big deal\" with Nintendo to adapt the Legend of Zelda. \r\n\n\r\nStating he doesn't believe this news to be a huge surprise, Sneider told The Hot Mic Podcast \"Zelda is looking like the next big Illumination x Nintendo franchise\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/legend-of-zelda-film-reportedly-in-the-works-universal-closing-big-deal-with-nintendo",
+          "publishedOn": "2023-06-09T11:58:37.000Z",
+          "wordCount": 6645,
+          "title": "Legend of Zelda film reportedly in the works, Universal closing \"big deal\" with Nintendo",
+          "imageUrl": "https://assetsio.reedpopcdn.com/princess-zelda-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/activision-removes-nickmercs-skin-from-call-of-duty-following-anti-lgbt-comment",
+          "author": "Ed Nightingale",
+          "description": "Activision has removed Nickmercs' Call of Duty skin from sale, after the streamer made an anti-LGBT+ comment.\r\n\n\r\nThe skin is no longer available to buy in both Modern Warfare 2 and Warzone.\r\n\n\r\nNickmercs' comment was in response to a video shared by esports caster Chris Puckett in which pro-LGBT+ demonstrators were attacked outside of a school in California. \"Americans are in a sad place right now,\" said Puckett. \"Let people love who they love and live your own life.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-removes-nickmercs-skin-from-call-of-duty-following-anti-lgbt-comment",
+          "publishedOn": "2023-06-09T10:00:58.000Z",
+          "wordCount": 6333,
+          "title": "Activision removes Nickmercs skin from Call of Duty shop following anti-LGBT+ comment",
+          "imageUrl": "https://assetsio.reedpopcdn.com/NICKMERCS-Warzone-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/lara-croft-tumbles-into-fall-guys-with-tomb-raider-crossover",
+          "author": "Victoria Kennedy",
+          "description": "Famed archaeologist Lara Croft will join the bumbling beans of Fall Guys, thanks to a new Tomb Raider crossover. \r\n\n\r\n\"A Lara Croft bean is something you never knew you needed,\" Tomb Raider's Twitter announced last night. \"All the obstacle course training at Croft Manor is going to pay off!\"\r\n\n\r\nAs for the Lara Croft bean skin, it is taking inspiration from the classic Lara of old, complete with short shorts, tank top, dinky backpack and braided hair. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/lara-croft-tumbles-into-fall-guys-with-tomb-raider-crossover",
+          "publishedOn": "2023-06-09T09:56:10.000Z",
+          "wordCount": 6244,
+          "title": "Lara Croft tumbles into Fall Guys with Tomb Raider crossover",
+          "imageUrl": "https://assetsio.reedpopcdn.com/fall-guys-lara.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/heres-everything-featured-in-day-of-the-devs-latest-indie-showcase",
           "author": "Matt Wales",
@@ -8124,16 +8084,6 @@
           "wordCount": 6241,
           "title": "Blizzard details Diablo 4 seasons, battle passes and shop",
           "imageUrl": "https://assetsio.reedpopcdn.com/d4_oDZ1Qlc.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/latest-mortal-kombat-teaser-drops-heavy-hints-next-series-entry-is-a-reboot",
-          "author": "Matt Wales",
-          "description": "NetherRealm Studios has released yet another video teasing the next entry in its long-running Mortal Kombat series - and there's mounting speculation it could be hinting at a reboot.\r\n\n\r\nNetherRealm shared a first teaser at the start of this month, appended to a video celebrating Mortal Kombat's 30th anniversary. It showed sands steadily trickling through an hourglass before a sudden camera zoom focused in on the very last grain, which then exploded.\r\n\n\r\nIt's now been four years since the launch of Mortal Kombat 11, and news-starved fans immediately began speculating NetherRealm's mysterious video was in some way teasing an imminent reveal for Mortal Kombat 12 - with one theory suggesting Kronika's time-and-space-altering hourglass, which featured prominently in the previous game, may have gone awry, somehow resetting the universe.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/latest-mortal-kombat-teaser-drops-heavy-hints-next-series-entry-is-a-reboot",
-          "publishedOn": "2023-05-10T20:42:41.000Z",
-          "wordCount": 5774,
-          "title": "Latest Mortal Kombat teaser drops heavy hints next series entry is a reboot",
-          "imageUrl": "https://assetsio.reedpopcdn.com/mortal-kombat-12-teaser-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -8371,16 +8321,6 @@
           "wordCount": 2173,
           "title": "Unlocking inclusive design: how Primer’s color system is making GitHub.com more inclusive",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/05/image1-4.png"
-        },
-        {
-          "id": "https://github.blog/?p=71844",
-          "author": "Andrea Griffiths",
-          "description": "GitHub Codespaces is reliable, accessible, and always-ready. Try it out during Maintainer Month and take your projects to new heights!",
-          "link": "https://github.blog/2023-05-10-revolutionize-your-open-source-workflows-the-top-3-reasons-why-github-codespaces-is-a-must-have-for-maintainers/",
-          "publishedOn": "2023-05-10T19:09:40.000Z",
-          "wordCount": 5406,
-          "title": "Revolutionize your open source workflows: the top 3 reasons why GitHub Codespaces is a must-have for maintainers",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/05/codespaces-for-maintainers.jpeg"
         }
       ]
     },
