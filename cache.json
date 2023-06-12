@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/06/ai-generated-steganography.html",
+          "author": null,
+          "description": "<p><a href=\"https://arxiv.org/abs/2210.14889\">New research</a> suggests that AIs can produce perfectly secure steganographic images:</p>\n<blockquote><p><b>Abstract:</b> Steganography is the practice of encoding secret information into innocuous content in such a manner that an adversarial third party would not realize that there is hidden meaning. While this problem has classically been studied in security literature, recent advances in generative models have led to a shared interest among security and machine learning researchers in developing scalable steganography techniques. In this work, we show that a steganography procedure is perfectly secure under Cachin (1998)&#8217;s information theoretic-model of steganography if and only if it is induced by a coupling. Furthermore, we show that, among perfectly secure procedures, a procedure is maximally efficient if and only if it is induced by a minimum entropy coupling. These insights yield what are, to the best of our knowledge, the first steganography algorithms to achieve perfect security guarantees with non-trivial efficiency; additionally, these algorithms are highly scalable. To provide empirical validation, we compare a minimum entropy coupling-based approach to three modern baselines&#8212;arithmetic coding, Meteor, and adaptive dynamic grouping&#8212;using GPT-2, WaveRNN, and Image Transformer as communication channels. We find that the minimum entropy coupling-based approach achieves superior encoding efficiency, despite its stronger security constraints. In aggregate, these results suggest that it may be natural to view information-theoretic steganography through the lens of minimum entropy coupling...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/06/ai-generated-steganography.html",
+          "publishedOn": "2023-06-12T11:18:12.000Z",
+          "wordCount": 913,
+          "title": "AI-Generated Steganography",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/06/friday-squid-blogging-light-emitting-squid.html",
           "author": null,
           "description": "<p>It&#8217;s a <a href=\"https://nautil.us/the-mystery-of-the-largest-light-in-the-sea-308189/\"><i>Taningia danae</i></a>:</p>\n<blockquote><p>Their arms are lined with two rows of sharp retractable hooks. And, like most deep-sea squid, they are adorned with light organs called photophores. They have some on the underside of their mantle. There are more facing upward, near one of their eyes. But it’s the photophores at the tip of two stubby arms that are truly unique. The size and shape of lemons­&#8212;each nestled within a retractable lid like an eyeball in a socket­&#8212;they are by far the largest photophores known to science.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered...</p>",
@@ -3964,6 +3974,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/south-of-midnight-developer-ensured-its-black-heroine-was-created-by-black-women",
+          "author": "Victoria Kennedy",
+          "description": "Last night, developer Compulsion unveiled its new game South of Midnight, and introduced us to its heroine, Hazel. \r\n\n\r\nHazel is a Weaver, a \"magical mender of broken bonds and spirits\". Compulsion has described her as \"outwardly confident, wisecracking, and actively on the hunt\". Hazel is also Black, something that narrative producer and creative specialist James Lewis lamented is \"unfortunately... still pretty unique for video games\". \r\n\n\r\nThankfully, the South of Midnight developer has ensured its Black heroine was created by Black women and women of colour, calling this inclusion \"key for understanding and writing Hazel's voice.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/south-of-midnight-developer-ensured-its-black-heroine-was-created-by-black-women",
+          "publishedOn": "2023-06-12T11:35:11.000Z",
+          "wordCount": 6150,
+          "title": "South of Midnight developer ensured its Black heroine was created by Black women",
+          "imageUrl": "https://assetsio.reedpopcdn.com/hazel-south-of-midnight-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-will-continue-to-support-flight-simulator-2020-after-launch-of-2024-sequel",
+          "author": "Matt Wales",
+          "description": "Microsoft and developer Asobo have moved to assure Microsoft Flight Simulator players the current 2020 release will continue to receive updates after yesterday's announcement of a \"standalone sequel\" shed doubt the companies would continue their long-standing pledge to provide 10 years' worth of support for the current game.\r\n\n\r\nMicrosoft Flight Simulator head Jorg Neumann initially spoke of the studio's plans to support the 2020 version of the sim for a decade back in 2019, a year prior to its release, and it's a stance that's been reiterated intermittently ever since. As such, there was much confusion among fans following last night's Xbox Games Showcase reveal of a standalone sequel for 2024 - particularly as Neumann had already hinted at some of its flagship new features, including cargo delivery jobs, in relation to the current sim.\r\n\n\r\nNow though, in an effort to quell confusion and de-escalate mounting controversy, Neumann has offered clarification on continued support for the 2020 release in a FAQ posted on the Flight Simulator website, beginning with the reiteration that Flight Simulator 2024 is a \"standalone simulator and the next-generation sequel\" and not an update for the existing game.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-will-continue-to-support-flight-simulator-2020-after-launch-of-2024-sequel",
+          "publishedOn": "2023-06-12T10:51:27.000Z",
+          "wordCount": 6210,
+          "title": "Microsoft will \"continue to support\" Flight Simulator 2020 after launch of 2024 sequel",
+          "imageUrl": "https://assetsio.reedpopcdn.com/msfs-2024-grab-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/bioshock-infinite-trailer-producer-highlights-similarities-with-clockwork-revolution",
+          "author": "Liv Ngan",
+          "description": "The producer of BioShock Infinite's trailers has spoken up on Clockwork Revolution, the time-bending steampunk RPG from Wasteland 3 developer InXile Entertainment which was announced at yesterday's Xbox Games Showcase.\r\n\nThe reveal sparked immediate comparisons to BioShock Infinite from many viewers, thanks to its setting, combat, characters, enemy designs...\r\n\nThe similarities did not escape the eye of Twitter user Butmac, who said they produced the trailers for BioShock Infinite which were released in the run-up to the game's launch in 2013.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bioshock-infinite-trailer-producer-highlights-similarities-with-clockwork-revolution",
+          "publishedOn": "2023-06-12T10:38:53.000Z",
+          "wordCount": 5972,
+          "title": "BioShock Infinite trailer producer highlights similarities with Clockwork Revolution",
+          "imageUrl": "https://assetsio.reedpopcdn.com/clockwork-revolution-a_OrnxxUd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ebenezer-and-the-invisible-world-is-a-side-scrolling-spectral-adventure",
+          "author": "Tom Phillips",
+          "description": "Everyone knows the best adaptation of A Christmas Carol is the Muppets version - and there's no way this can be beaten. Still, if you're looking for another oddball take on Ebenezer Scrooge, there's a new adventure for the Victorian miser now on the horizon. \r\n\n\r\nEbenezer Scrooge and the Invisible World is a side-scrolling platform adventure with something of a Doctor Who Christmas special to it, while the art style gives me vibes of Forgotton Anne. \r\n\n\r\nScrooge - acting here as the protagonist and good guy - must jump and fight his way across London to fight wealthy industrialist Caspar Malthus, a press release reveals, using \"a team of spectral allies\" to fight Malthus' own private guard. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/ebenezer-and-the-invisible-world-is-a-side-scrolling-spectral-adventure",
+          "publishedOn": "2023-06-12T10:19:32.000Z",
+          "wordCount": 5906,
+          "title": "Ebenezer and the Invisible World is a side-scrolling spectral adventure",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Ebenezer-and-The-Invisible-World-Official-Announcement-Trailer-0-8-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/soulcalibur-5-will-be-delisted-next-week-on-ps3-and-xbox-360",
+          "author": "Ed Nightingale",
+          "description": "Soulcalibur 5 is set to be delisted next week across PlayStation 3 and Xbox 360.\r\n\n\r\nFrom 19th June, the game and its DLC will no longer be available for purchase.\r\n\n\r\nThe news was announced on Twitter this morning, following a flurry of game announcements made over the weekend.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/soulcalibur-5-will-be-delisted-next-week-on-ps3-and-xbox-360",
+          "publishedOn": "2023-06-12T10:19:10.000Z",
+          "wordCount": 6078,
+          "title": "Soulcalibur 5 will be delisted next week on PS3 and Xbox 360",
+          "imageUrl": "https://assetsio.reedpopcdn.com/SOULCALIBUR-V---Launch-Trailer-0-34-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/you-can-now-play-mega-man-and-street-fighter-in-browser-for-free",
+          "author": "Liv Ngan",
+          "description": "Capcom has made a selection of its retro games playable in-browser to celebrate the company's 40th anniversary.\r\n\nThe games can be found by visiting Capcom Town, a website set up specifically for the anniversary and which was first teased back in March.\r\n\nThe site acts as a hub for all the different franchises Capcom owns, and you can hover over all the pins to find links to websites for each. There's also plenty of Capcom's most famous characters dotted around - I'm particularly enjoying watching Jill Valentine strolling around in horror as she's followed by Nemesis and his huge rocket launcher.  \n Read more",
+          "link": "https://www.eurogamer.net/you-can-now-play-mega-man-and-street-fighter-in-browser-for-free",
+          "publishedOn": "2023-06-12T10:00:23.000Z",
+          "wordCount": 6270,
+          "title": "You can now play Mega Man and Street Fighter in-browser for free",
+          "imageUrl": "https://assetsio.reedpopcdn.com/capcom-town.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/persona-3-remake-wont-include-later-edtions-female-lead-extra-content",
+          "author": "Ed Nightingale",
+          "description": "Persona 3 Reload, the newly announced remake of the original game, won't include extra content from other versions.\r\n\n\r\nPersona 3 was re-released as Persona 3 FES and Persona 3 Portable: the former included a new playable epilogue, while the latter included a new female protagonist, the ability to directly control party members, and other major changes.\r\n\n\r\nHowever, this won't be included in Reload as the development team focus on \"recreating the Persona 3 experience\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/persona-3-remake-wont-include-later-edtions-female-lead-extra-content",
+          "publishedOn": "2023-06-12T09:58:52.000Z",
+          "wordCount": 6043,
+          "title": "Persona 3 remake won't include later edition's female lead, extra content",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Persona-3-Reload-%E2%80%94-Announcement-Trailer-0-21-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/vampire-survivor-gets-chaotic-free-update-across-steam-xbox-and-mobile",
+          "author": "Victoria Kennedy",
+          "description": "A free and extensive update for Vampire Survivors is available today. Developer Poncle shared this news during the PC Gaming Show last night, revealing update 1.5 will introduce players to a new stage known as Astral Stair. \r\n\n\r\nThe team has dubbed this stage as \"chaotic\", and I can understand why. This level will see players coming face to face with \"seemingly endless corridors, flying paintings\" and, my personal favourite, \"a gameshow-like spinning wheel that triggers random events\". \r\n\n\r\nThere is also a new pick up known as GoldFinger, and if you didn't read that and immediately start singing Shirley Bassey then, I am sorry, but I am not sure we can remain friends. You can see how it all looks in the trailer below. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/vampire-survivor-gets-chaotic-free-update-across-steam-xbox-and-mobile",
+          "publishedOn": "2023-06-12T09:58:47.000Z",
+          "wordCount": 6366,
+          "title": "Vampire Survivors gets chaotic free update across Steam, Xbox and mobile",
+          "imageUrl": "https://assetsio.reedpopcdn.com/vamp-surv.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/banner-saga-studios-towerborne-launches-on-xbox-game-pass-day-one",
+          "author": "Tom Phillips",
+          "description": "The Banner Saga trilogy developer Stoic has announced Towerborne, a side-scrolling co-op action adventure for PC and Xbox, coming next year. \r\n\n\r\nThis is the project previously referred to internally as Project Belfry, and was revealed in the Xbox Games Showcase last night as coming from both Stoic and Xbox Game Studios. The suggestion is it won't be coming to other consoles. \r\n\n\r\nAfter some new apocalypse razes humanity's cities, survivors accumulate in the Belfry, a towering windmill that looks like something from the Moomins. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/banner-saga-studios-towerborne-launches-on-xbox-game-pass-day-one",
+          "publishedOn": "2023-06-12T09:58:13.000Z",
+          "wordCount": 5827,
+          "title": "Banner Saga studio's Towerborne launches on Xbox Game Pass day one",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Towerborne---Announce-Trailer-0-41-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/final-fantasy-16-demo-launches-today",
           "author": "Tom Phillips",
