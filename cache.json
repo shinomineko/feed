@@ -363,16 +363,6 @@
           "wordCount": 1187,
           "title": "Microsoft Secure Boot Bug",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/05/micro-star-international-signing-key-stolen.html",
-          "author": null,
-          "description": "<p>Micro-Star International&#8212;aka MSI&#8212;had its UEFI signing key <a href=\"https://arstechnica.com/information-technology/2023/05/leak-of-msi-uefi-signing-keys-stokes-concerns-of-doomsday-supply-chain-attack/\">stolen</a> last month.</p>\n<blockquote><p>This raises the possibility that the leaked key could push out updates that would infect a computer&#8217;s most nether regions without triggering a warning. To make matters worse, Matrosov said, MSI doesn&#8217;t have an automated patching process the way Dell, HP, and many larger hardware makers do. Consequently, MSI doesn&#8217;t provide the same kind of key revocation capabilities.</p></blockquote>\n<p>Delivering a signed payload isn&#8217;t as easy as all that. &#8220;Gaining the kind of control required to compromise a software build system is generally a non-trivial event that requires a great deal of skill and possibly some luck.&#8221; But it just got a whole lot easier...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/05/micro-star-international-signing-key-stolen.html",
-          "publishedOn": "2023-05-15T11:18:10.000Z",
-          "wordCount": 965,
-          "title": "Micro-Star International Signing Key Stolen",
-          "imageUrl": null
         }
       ]
     },
@@ -381,6 +371,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1947108",
+          "author": "Jennifer Ouellette",
+          "description": "\"Lucy’s muscles suggest that she was as proficient at bipedalism as we are.\"",
+          "link": "https://arstechnica.com/?p=1947108",
+          "publishedOn": "2023-06-13T23:01:43.000Z",
+          "wordCount": 1988,
+          "title": "3D muscle reconstruction shows 3.2 million-year-old “Lucy” walked upright",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucyTOP2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947545",
+          "author": "Benj Edwards",
+          "description": "API updates include 4x larger conversation memory for GPT-3.5 and function calling.",
+          "link": "https://arstechnica.com/?p=1947545",
+          "publishedOn": "2023-06-13T21:48:24.000Z",
+          "wordCount": 1930,
+          "title": "OpenAI rolls out big chatbot API upgrades for developers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/chatgpt_superhero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947631",
+          "author": "Jon Brodkin",
+          "description": "DOJ: Website had \"section devoted to the sexual abuse of infants and toddlers.\"",
+          "link": "https://arstechnica.com/?p=1947631",
+          "publishedOn": "2023-06-13T21:25:20.000Z",
+          "wordCount": 1763,
+          "title": "Lead admin of child sex abuse website pleads guilty, faces 20 years to life",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-519951874-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947571",
+          "author": "Scharon Harding",
+          "description": "Furor \"will pass,\" Huffman says in internal memo reportedly viewed by The Verge.",
+          "link": "https://arstechnica.com/?p=1947571",
+          "publishedOn": "2023-06-13T21:01:32.000Z",
+          "wordCount": 2071,
+          "title": "Reddit CEO assures employees that API pricing protests haven’t hurt revenue",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947600",
+          "author": "Ars Contributors",
+          "description": "Are you afraid of the dark?",
+          "link": "https://arstechnica.com/?p=1947600",
+          "publishedOn": "2023-06-13T20:31:15.000Z",
+          "wordCount": 1870,
+          "title": "Alan Wake II preview: A waking nightmare",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/aw2game-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947557",
+          "author": "Andrew Cunningham",
+          "description": "Krool Games regularly develops new games for Nintendo's 25-year-old handheld.",
+          "link": "https://arstechnica.com/?p=1947557",
+          "publishedOn": "2023-06-13T20:13:25.000Z",
+          "wordCount": 1864,
+          "title": "For reasons no one can fathom, McDonald’s has released a new Game Boy Color game",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_7519-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947549",
+          "author": "Ashley Belanger",
+          "description": "Official: “Montana’s emissions are simply too minuscule to make any difference.\"",
+          "link": "https://arstechnica.com/?p=1947549",
+          "publishedOn": "2023-06-13T20:00:41.000Z",
+          "wordCount": 1770,
+          "title": "Montana calls UN climate report “hearsay” at landmark youth-led climate trial",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1274394420-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947502",
+          "author": "Ars Contributors",
+          "description": "Enceladus' rapid orbit and large geysers spread water widely near Saturn.",
+          "link": "https://arstechnica.com/?p=1947502",
+          "publishedOn": "2023-06-13T18:44:52.000Z",
+          "wordCount": 2067,
+          "title": "Megaplume of water vapor erupting on Enceladus caught by Webb Telescope",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-1-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947415",
+          "author": "Andrew Cunningham",
+          "description": "Today's Atari could hardly have less to do with the one that released the VCS.",
+          "link": "https://arstechnica.com/?p=1947415",
+          "publishedOn": "2023-06-13T18:25:17.000Z",
+          "wordCount": 1948,
+          "title": "A company called Atari is releasing a brand-new 2600 cartridge this year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mr-Run-and-Jump-Cart-Render-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1947520",
+          "author": "Kyle Orland",
+          "description": "Xbox exec: \"Every QA person in our... company [is] playing Starfield right now.\"",
+          "link": "https://arstechnica.com/?p=1947520",
+          "publishedOn": "2023-06-13T18:16:32.000Z",
+          "wordCount": 1913,
+          "title": "Microsoft promises Starfield has “fewest bugs” of any Bethesda game",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/starfieldboom-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1947422",
           "author": "Kevin Purdy",
@@ -4060,16 +4150,6 @@
           "wordCount": 2158,
           "title": "A private company has an audacious plan to rescue NASA’s last “Great Observatory”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/hd_spitzer_side_visible-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1933473",
-          "author": "Howard Lee",
-          "description": "Biology, geology, and chemistry all worked together to make the present atmosphere.",
-          "link": "https://arstechnica.com/?p=1933473",
-          "publishedOn": "2023-05-15T11:30:53.000Z",
-          "wordCount": 1823,
-          "title": "The complicated history of how the Earth’s atmosphere became breathable",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/earth-oxygenization-760x380.jpg"
         }
       ]
     },
@@ -4164,6 +4244,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/geoff-keighley-confirms-summer-game-fest-will-return-in-2024",
+          "author": "Matt Wales",
+          "description": "Summer Game Fest's live showcase might have struggled to consistently entertain with its saggy middle and excessive runtime, but the overall season-wide event has apparently already done what it needed to - producer Geoff Keighley has now confirmed Summer Game Fest will return next year, live showcase and all.\r\n\n\r\nSummer Game Fest is currently in its fourth consecutive year - having initially started amid the COVID-19 pandemic in 2020, as a response to major in-person gaming events being shut down - and 2023's offering has been bigger than ever.\r\n\n\r\nIt was, of course, originally expected to have some competition from the returning E3 this year, but after that show's cancellation, Summer Game Fest swelled to fill the gap, hoovering up a number of publisher showcases and events under the Summer Game Fest banner.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/geoff-keighley-confirms-summer-game-fest-will-return-in-2024",
+          "publishedOn": "2023-06-13T23:18:59.000Z",
+          "wordCount": 5949,
+          "title": "Geoff Keighley confirms Summer Game Fest will return in 2024",
+          "imageUrl": "https://assetsio.reedpopcdn.com/summer-game-fest-2023-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/powerwash-simulators-spongebob-squarepants-dlc-arrives-at-the-end-of-june",
+          "author": "Matt Wales",
+          "description": "It's finally almost time to ready your nozzles and prepare for a trip to the briny depths: PowerWash Simulator's SpongeBob SquarePants DLC has a release date, and is launching for Switch, Xbox, PlayStation, and PC on 29th June.\r\n\n\r\nPowerWash Simulator's SpongeBob SquarePants Special Pack was announced back in May but, beyond its Bikini Bottom setting, developer FuturLab didn't give much away.\r\n\n\r\nNow, though, with a release in sight, the studio is finally ready to share more, confirming its Spongebob DLC will feature a mini campaign split across six new maps: Conch Street, The Bikini Bottom Bus, The Krusty Krab, The Patty Wagon, The Invisible Boatmobile, and The Mermalair.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/powerwash-simulators-spongebob-squarepants-dlc-arrives-at-the-end-of-june",
+          "publishedOn": "2023-06-13T20:39:43.000Z",
+          "wordCount": 6121,
+          "title": "PowerWash Simulator's SpongeBob SquarePants DLC out at the end of June",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Patty-Wagon-Screenshot-2048x1152.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/stunning-stop-motion-style-space-adventure-harold-halibut-arrives-early-2024",
+          "author": "Matt Wales",
+          "description": "It's been a long old wait for developer Slow Bros' gorgeous stop-motion-style space adventure Harold Halibut - but now, some seven years after its initial reveal, an end is in almost sight, with its Xbox, PlayStation, and PC release set for \"early\" next year.\r\n\n\r\nHarold Halibut tells the story of a young lab assistant (the Harold of the title) forced to live his life onboard the Fedora, a city sized spaceship still submerged beneath an alien ocean 250 years after it fled Earth to preserve the human race.\r\n\n\r\nWhile some of its inhabitants have reconciled themselves to a life on the sunken ship, others still works tirelessly to find a way to leave the planet and reach a new, dryer home. Harold's story lies somewhere between all that, told in absolutely sumptuous style, part fully voiced stop-motion movie, part narrative-driven adventure. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/stunning-stop-motion-style-space-adventure-harold-halibut-arrives-early-2024",
+          "publishedOn": "2023-06-13T19:55:43.000Z",
+          "wordCount": 6030,
+          "title": "Stunning stop-motion-style adventure Harold Halibut arrives \"early 2024\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/harold-halibut-c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/battletech-devs-pulpy-strategy-adventure-the-lamplighters-league-out-in-october",
+          "author": "Matt Wales",
+          "description": "Shadowrun and Battletech studio Harebrained Schemes' extremely promising pulp-inspired tactical turn-based strategy adventure, The Lamplighters League, now has a release date, and is launching for PC, Xbox Series X/S, and Game Pass on 3rd October.\r\n\n\r\nThe Lamplighters League unfolds in an alternative version of the 1930s, where players - taking control of the titular organisation's gang of misfits and scoundrels - travel the world in an effort to thwart the Banished Court cult's nefarious schemes.\r\n\n\r\nIt's an adventure that'll swoop from dockyards and other urban corners to far more exotic locales, including deserts and jungles. Here, players must battle the Banished Court's army using a mix of real-time infiltration, stealth, turn-based tactical combat, and team management.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/battletech-devs-pulpy-strategy-adventure-the-lamplighters-league-out-in-october",
+          "publishedOn": "2023-06-13T18:50:25.000Z",
+          "wordCount": 5968,
+          "title": "Battletech dev's pulpy strategy The Lamplighters League out in October",
+          "imageUrl": "https://assetsio.reedpopcdn.com/lamplighters-league-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/hi-fi-rush-gets-two-new-modes-and-more-in-julys-arcade-challenge-update",
           "author": "Matt Wales",
@@ -8293,46 +8413,6 @@
           "wordCount": 5946,
           "title": "Diablo 4 player beats Ashava world boss solo - with a hardcore character on veteran difficulty",
           "imageUrl": "https://assetsio.reedpopcdn.com/D4_6WTZJOi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/zelda-tears-of-the-kingdom-ultrahand-ability-has-birthed-some-wild-creations",
-          "author": "Victoria Kennedy",
-          "description": "It is not just Koroks that are getting transported around Hyrule in a myriad of unusual ways thanks to Zelda: Tears of the Kingdom's new Ultrahand ability. Link is also making his merry way through Hyrule's many regions and camps in a range of eclectic creations, from mechs to trucks and tanks.\r\n\n\r\nAs a reminder, Link's new Ultrahand ability allows players to pick up, move, and rotate objects. These objects can then be fused to other objects, and with a bit of creativity players can conjure up their own vehicles and such to beetle across Hyrule. \r\n\n\r\nWhile I have been happy enough to just place a fan on the back of my timber board to make it go, others clearly have a much better imagination (and a lot more patience, I won't lie, I am still finding Ultrahand quite fiddly to get the hang of) than I do. As a result, there have been some truly remarkable Ultrahand designs making the rounds online. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/zelda-tears-of-the-kingdom-ultrahand-ability-has-birthed-some-wild-creations",
-          "publishedOn": "2023-05-15T12:06:00.000Z",
-          "wordCount": 6309,
-          "title": "Zelda: Tears of the Kingdom Ultrahand ability has birthed some wild creations",
-          "imageUrl": "https://assetsio.reedpopcdn.com/346985362_624651316256259_169593722786794612_n.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-14-patch-64-out-next-week-heres-a-trailer",
-          "author": "Ed Nightingale",
-          "description": "The next patch for Final Fantasy 14 arrives on 23rd May and a new trailer has given a glimpse of what to expect.\r\n\n\r\nContinuing the story post-Endwalker, patch 6.4 will include new main story quests, as well as trials, dungeons, and extended Duty Support.\r\n\n\r\nThe patch is titled The Dark Throne - check out the trailer below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-14-patch-64-out-next-week-heres-a-trailer",
-          "publishedOn": "2023-05-15T11:50:25.000Z",
-          "wordCount": 5720,
-          "title": "Final Fantasy 14 patch 6.4 out next week, here's a trailer",
-          "imageUrl": "https://assetsio.reedpopcdn.com/FINAL-FANTASY-XIV-Patch-6.4---The-Dark-Throne-2-52-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/zelda-tears-of-the-kingdom-players-cant-guarantee-korok-safety-from-crucifixion-to-rotisserie",
-          "author": "Victoria Kennedy",
-          "description": "Koroks are back in Zelda: Tears of the Kingdom. As with its predecessor, Breath of the Wild, Link can search the lands of Hyrule to find these woodland spirits, and return the seeds to Hestu. As in Breath of the Wild, Hestu will then add these seeds to his prized maracas, do a little shimmy, and grant you a new weapon slot. It's all very wholesome. \r\n\n\r\nOr, at least it was in Breath of the Wild. However, Tears of the Kingdom has upped the ante when it comes to Korok puzzles. This time around, Link often has to reunite two separated Korok companions. This sounds innocent enough - who doesn't want to see two long lost friends reunited? Well, apparently many Tears of the Kingdom players, that's who. \r\n\n\r\nThanks to the sequel's new Ultrahand ability, which allows Link to pick up, move, and rotate objects (including Koroks), many players out there have taken to fusing these poor blighters to homemade crucifixes, rockets and even spit roasting the innocent spirits.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/zelda-tears-of-the-kingdom-players-cant-guarantee-korok-safety-from-crucifixion-to-rotisserie",
-          "publishedOn": "2023-05-15T11:04:53.000Z",
-          "wordCount": 6513,
-          "title": "Zelda: Tears of the Kingdom players can't guarantee Korok safety, from crucifixion to rotisserie",
-          "imageUrl": "https://assetsio.reedpopcdn.com/korok.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/open-world-zelda-is-a-format-for-the-future-of-the-series-says-producer-eiji-aonuma",
-          "author": "Ed Nightingale",
-          "description": "Zelda series producer Eiji Aonuma has stated the Breath of the Wild style of gameplay, continued in Zelda: Tears of the Kingdom, is a new kind of format for the future of the series.\r\n\n\r\nIn an interview with Game Informer, Aonuma was asked if the open world design would be the foundation for the next several games, just as Ocarina of Time previously established the 3D format.\r\n\n\r\nAonuma agreed Ocarina of Time did create a format but it was ultimately restrictive for the designers, while Breath of the Wild offered a new type of play.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/open-world-zelda-is-a-format-for-the-future-of-the-series-says-producer-eiji-aonuma",
-          "publishedOn": "2023-05-15T10:33:12.000Z",
-          "wordCount": 6130,
-          "title": "Open world Zelda is a format for the future of the series, says producer Eiji Aonuma",
-          "imageUrl": "https://assetsio.reedpopcdn.com/The-Legend-of-Zelda_-Tears-of-the-Kingdom-%E2%80%93-Official-Trailer-%232-1-36-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
