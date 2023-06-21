@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/06/ethical-problems-in-computer-security.html",
+          "author": null,
+          "description": "<p>Tadayoshi Kohno, Yasemin Acar, and Wulf Loh wrote excellent paper on ethical thinking within the computer security community: &#8220;<a href=\"https://securityethics.cs.washington.edu/ComputerSecurityTrolleyProblems.pdf\">Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversation</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> The computer security research community regularly tackles ethical questions. The field of ethics / moral philosophy has for centuries considered what it means to be &#8220;morally good&#8221; or at least &#8220;morally allowed / acceptable.&#8221; Among philosophy&#8217;s contributions are (1) frameworks for evaluating the morality of actions&#8212;including the well-established consequentialist and deontological frameworks&#8212;and (2) scenarios (like trolley problems) featuring moral dilemmas that can facilitate discussion about and intellectual inquiry into different perspectives on moral reasoning and decision-making. In a classic trolley problem, consequentialist and deontological analyses may render different opinions. In this research, we explicitly make and explore connections between moral questions in computer security research and ethics / moral philosophy through the creation and analysis of trolley problem-like computer security-themed moral dilemmas and, in doing so, we seek to contribute to conversations among security researchers about the morality of security research-related decisions. We explicitly do not seek to define what is morally right or wrong, nor do we argue for one framework over another. Indeed, the consequentialist and deontological frameworks that we center, in addition to coming to different conclusions for our scenarios, have significant limitations. Instead, by offering our scenarios and by comparing two different approaches to ethics, we strive to contribute to how the computer security research field considers and converses about ethical questions, especially when there are different perspectives on what is morally right or acceptable. Our vision is for this work to be broadly useful to the computer security community, including to researchers as they embark on (or choose not to embark on), conduct, and write about their research, to program committees as they evaluate submissions, and to educators as they teach about computer security and ethics...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/06/ethical-problems-in-computer-security.html",
+          "publishedOn": "2023-06-21T17:54:35.000Z",
+          "wordCount": 1100,
+          "title": "Ethical Problems in Computer Security",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/06/power-led-side-channel-attack.html",
           "author": null,
           "description": "<p>This is a clever new &#60;a href=&#8221;https://www.nassiben.com/video-based-crypta&#62;side-channel attack</a>:</p>\n<blockquote><p>The first attack uses an Internet-connected surveillance camera to take a high-speed video of the power LED on a smart card reader­or of an attached peripheral device­during cryptographic operations. This technique allowed the researchers to pull a 256-bit ECDSA key off the same government-approved smart card used in Minerva. The other allowed the researchers to recover the private SIKE key of a Samsung Galaxy S8 phone by training the camera of an iPhone 13 on the power LED of a USB speaker connected to the handset, in a similar way to how Hertzbleed pulled SIKE keys off Intel and AMD CPUs...</p></blockquote>",
@@ -371,6 +381,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1949165",
+          "author": "The Conversation",
+          "description": "It's boosting long-term ocean warming.",
+          "link": "https://arstechnica.com/?p=1949165",
+          "publishedOn": "2023-06-21T17:03:14.000Z",
+          "wordCount": 1744,
+          "title": "Hurricanes push heat deeper into the ocean than scientists realized, new research shows",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/maria_tmo_2017263_lrg-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1949137",
+          "author": "Kevin Purdy",
+          "description": "Metal Gear, Batman Arkham series also get Switch releases this fall.",
+          "link": "https://arstechnica.com/?p=1949137",
+          "publishedOn": "2023-06-21T16:23:22.000Z",
+          "wordCount": 1941,
+          "title": "New 2D Super Mario Bros. Wonder, RPG remake lead Nintendo Direct reveals",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-21-at-11.18.37-AM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1949117",
+          "author": "Jonathan M. Gitlin",
+          "description": "The technical director for the Ferrari 499P tells Ars about returning to Le Mans.",
+          "link": "https://arstechnica.com/?p=1949117",
+          "publishedOn": "2023-06-21T14:59:08.000Z",
+          "wordCount": 1761,
+          "title": "Here’s how Ferrari designed a car that won Le Mans on its first attempt",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/2023_24hLeMans_lm_17545-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1949089",
+          "author": "Andrew Cunningham",
+          "description": "Amazon layoffs were supposed to shut down the 25-year-old site back in April.",
+          "link": "https://arstechnica.com/?p=1949089",
+          "publishedOn": "2023-06-21T12:44:03.000Z",
+          "wordCount": 1747,
+          "title": "Camera review site DPReview finds a buyer, avoids shutdown by Amazon",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/canon-eos-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1949093",
+          "author": "Kyle Orland",
+          "description": "US Army, NASA, and more piggyback off years of familiar game controller design.",
+          "link": "https://arstechnica.com/?p=1949093",
+          "publishedOn": "2023-06-21T12:38:20.000Z",
+          "wordCount": 2352,
+          "title": "Beyond missing Titanic sub, handheld gamepads are a common military interface",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/9181776961_99a0489bc8_h-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1947948",
           "author": "Ars Contributors",
@@ -3752,6 +3812,16 @@
       "siteUrl": "https://www.lastweekinaws.com/",
       "articles": [
         {
+          "id": "https://www.lastweekinaws.com/?p=14030",
+          "author": "Corey Quinn",
+          "description": "Chief Cloud Economist Corey Quinn answers the Federal Trade Commission's Request for Information about the business practices of cloud computing providers.\nThe post FTC Request, Answered: How Cloud Providers Do Business appeared first on Last Week in AWS.",
+          "link": "https://www.lastweekinaws.com/blog/ftc-request-answered-how-cloud-providers-do-business/",
+          "publishedOn": "2023-06-21T14:30:00.000Z",
+          "wordCount": 3682,
+          "title": "FTC Request, Answered: How Cloud Providers Do Business",
+          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2023/06/183146297_l_normal_none-scaled.jpg"
+        },
+        {
           "id": "https://www.lastweekinaws.com/?p=14006",
           "author": "Corey Quinn",
           "description": "I originally had a throwaway joke on Twitter that became an article: 17 Ways to Run Containers on AWS. That was all well and good, and because I don't know when to leave well enough alone, a few months later I wrote 17 More Ways to Run Containers on AWS. And now, since I don't know when to leave well enough alone and stop beating the greasy smear on the sidewalk where the horse used to be, I want to introduce the third article in this series.\nThe post 17 Final Ways to Run Containers appeared first on Last Week in AWS.",
@@ -3795,6 +3865,136 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/microsoft-raising-prices-for-xbox-series-x-game-pass-in-coming-months",
+          "author": "Matt Wales",
+          "description": "Microsoft has announced a price hike for its Xbox Series X console across most of the world, as well as for monthly Xbox Game Pass and Xbox Game Pass Ultimate subscriptions, with the increases set to come into effect over the next few months.\r\n\n\r\nAs reported by The Verge, Xbox Game Pass for Console and Xbox Game Pass Ultimate will be impacted by the changes first. Prices are set to rise for new customers on 6th July, but existing monthly subscribers won't see the changes until 13th August (13th September in Germany).\r\n\n\r\nXbox Game Pass Ultimate will increase from £10.99/€12.99/$14.99 USD a month to £12.99/€14.99/$16.99, while Game Pass for Console rises from £7.99/€9.99/$8.99 a month to £8.99/€10.99/$10.99. Xbox Game Pass for PC will be unaffected.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-raising-prices-for-xbox-series-x-game-pass-in-coming-months",
+          "publishedOn": "2023-06-21T17:58:51.000Z",
+          "wordCount": 6023,
+          "title": "Microsoft raising prices for Xbox Series X, Game Pass in coming months",
+          "imageUrl": "https://assetsio.reedpopcdn.com/xbox-game-pass-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/everything-from-todays-june-nintendo-direct",
+          "author": "Ed Nightingale",
+          "description": "After the release of The Legend of Zelda: Tears of the Kingdom, Nintendo's Switch slate was looking a little bare bones for the rest of 2023.\r\n\n\r\nBut after today's Nintendo Direct we have a much clearer picture of what's still to come, with a look at Pikmin 4 headlining the showcase, plus reveals of a Super Mario RPG remake and a brand new 2D Mario game.\r\n\n\r\nFirst, though, Nintendo showed a fresh look at the forthcoming Pokémon Scarlet and Violet DLC heading to Switch later this year.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/everything-from-todays-june-nintendo-direct",
+          "publishedOn": "2023-06-21T15:32:47.000Z",
+          "wordCount": 6519,
+          "title": "Everything from today's June Nintendo Direct",
+          "imageUrl": "https://assetsio.reedpopcdn.com/image-(5)_rMjYpp4.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/kamek-and-wiggler-join-mario-kart-8-deluxe-booster-course-pass-this-summer",
+          "author": "Victoria Kennedy",
+          "description": "As part of this afternoon's Direct, Nintendo shared more details on the next wave of Mario Kart 8 Deluxe DLC content. \r\n\n\r\nWave five will arrive this summer, complete with a new course known as Squeaky Clean Sprint. \r\n\n\r\nFrom what we can see in the trailer, this course looks to be taking us around a sud-filled bathroom, with plenty of bubbles and bottles to negotiate. It will be joined by another seven courses, which are yet to be announced. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/kamek-and-wiggler-join-mario-kart-8-deluxe-booster-course-pass-this-summer",
+          "publishedOn": "2023-06-21T15:09:11.000Z",
+          "wordCount": 6157,
+          "title": "Kamek and Wiggler join Mario Kart 8 Deluxe Booster Course Pass this summer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/wiggler-mk8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/super-mario-bros-wonder-is-a-delirious-new-side-scrolling-platformer-out-in-october",
+          "author": "Matt Wales",
+          "description": "As rumoured ahead of today's Direct, Nintendo has a new side-scrolling Mario platformer in the works. It's called Super Mario Bros. Wonder and it comes to Switch on 20th October.\r\n\n\r\nAt first glance, Super Mario Bros. Wonder's presentation is all very New Super Mario, with its crisp, clean lines - albeit this time slightly stylised - and familiar Mario motifs. But then, midway through its announcement trailer, Mario encounters a new power-up and things get weird.\r\n\n\r\nWarp pipes come alive in wiggly choreography, heaving and bending all over the place; spherical cows come tumbling in; Mario - and the world around him - gets a new stretchy, silhouetted look, and here come mega-herds of adorable sheep! \r\n \nRead more",
+          "link": "https://www.eurogamer.net/super-mario-bros-wonder-is-a-delirious-new-side-scrolling-platformer-out-in-october",
+          "publishedOn": "2023-06-21T15:03:34.000Z",
+          "wordCount": 5929,
+          "title": "Super Mario Bros. Wonder is a delirious new side-scrolling platformer coming to Switch in October",
+          "imageUrl": "https://assetsio.reedpopcdn.com/super-mario-wonder-elephant-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/theres-a-new-warioware-coming-to-nintendo-switch-this-year",
+          "author": "Tom Phillips",
+          "description": "Nintendo has just announced WarioWare: Move It! for Switch, which is set for launch on 3rd November.\r\n\n\r\nThis latest entry in the fast-paced microgame series contains 200 quickfire rounds, controlled via your Joy-Con. \r\n\n\r\nThere's co-op play for two players, plus party modes for up to four. A quick trailer shown off in today's Nintendo Direct featured a smattering of classic Nintendo titles repurposed as party game experiences, such as being able to skid down Princess Peach's slide from Mario 64, and an appearance from Olimar in Pikmin 1.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/theres-a-new-warioware-coming-to-nintendo-switch-this-year",
+          "publishedOn": "2023-06-21T15:02:02.000Z",
+          "wordCount": 5957,
+          "title": "There's a new WarioWare coming to Nintendo Switch this year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/WarioWare_-Move-It!---Nintendo-Direct-6.21.2023-0-55-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/solid-snake-and-commander-shepard-stars-discuss-threat-of-ai-on-voice-acting",
+          "author": "Victoria Kennedy",
+          "description": "AI is a hot topic of discussion across the video game industry right now. Several developers have flirted with this new technology, with the likes of Ubisoft announcing its Ghostwriter AI tool earlier this year. Meanwhile, the High on Life team used AI to create video game voice dialogue.\r\n\n\r\nLast week, I had the opportunity to chat with voice actors Jennifer Hale and David Hayter about their upcoming release, Synapse, and during this conversation, the topic of AI came up.\r\n\n\r\n\"I have been staying on top of it,\" Hale assured me when I asked about the actors' personal take on the matter. \"And the number one thing I want to say to everybody out there is: Stay out of fear. Stay in action.\" \r\n \nRead more",
+          "link": "https://www.eurogamer.net/solid-snake-and-commander-shepard-stars-discuss-threat-of-ai-on-voice-acting",
+          "publishedOn": "2023-06-21T15:00:00.000Z",
+          "wordCount": 6819,
+          "title": "Solid Snake and Commander Shepard stars discuss threat of AI on voice acting",
+          "imageUrl": "https://assetsio.reedpopcdn.com/david-hayter-jennifer-hale-synapse-ai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pikmin-1-2-get-a-surprise-switch-eshop-release-later-today",
+          "author": "Matt Wales",
+          "description": "Pikmin 4 not enough Pikmin for you? Well then it's your lucky day! Nintendo has announced Pikmin 1 & 2 are coming to Switch, with both titles getting a surprise release on eShop today.\r\n\n\r\nThe first Pikmin introduced the world to Captain Olimar and his titular half-plant, half-animal pals back on GameCube in 2001. A sequel followed in 2004, expanding on the original's real-time strategy style puzzling with new Pikmin, cave exploration, and more.\r\n\n\r\nSince then, both titles have received gentle updates for Wii, introducing a pointer-style control system. However, it's not entirely clear which editions of Pikmin 1 & 2 are coming to Switch, with Nintendo only referring to them as \"HD versions\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pikmin-1-2-get-a-surprise-switch-eshop-release-later-today",
+          "publishedOn": "2023-06-21T14:45:34.000Z",
+          "wordCount": 6140,
+          "title": "Pikmin 1 & 2 get a surprise Switch eShop release later today",
+          "imageUrl": "https://assetsio.reedpopcdn.com/pikmin-1-2-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/princess-peach-new-game-enhanced-version-of-luigis-mansion-2-coming-next-year",
+          "author": "Victoria Kennedy",
+          "description": "An upcoming Princess Peach-focused game was announced at today's Nintendo Direct. \r\n\n\r\nDetails are still incredibly sparse. The short teaser showed the platform's Princess Toadstool making her way along a rather fairytale-looking street set on a theatre stage. Then she made a tree burst into bloom to open a door, all thanks to a nifty use of magic. \r\n\n\r\nShe then magically changed from her standard pink dress into something a little more dazzling, and the trailer ends. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/princess-peach-new-game-enhanced-version-of-luigis-mansion-2-coming-next-year",
+          "publishedOn": "2023-06-21T14:38:29.000Z",
+          "wordCount": 5965,
+          "title": "Princess Peach game, enhanced version of Luigi's Mansion 2 coming next year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/princess-peach-new-game.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pikmin-4-demo-on-the-way-next-week",
+          "author": "Ed Nightingale",
+          "description": "A demo for Pikmin 4 will be available to the public from 28th June.\r\n\n\r\nThe demo will comprise the opening area of the game, with save data transferring over into the main game.\r\n\n\r\nThe news was revealed during today's Nintendo Direct, which included further details on the Pikmin sequel.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pikmin-4-demo-on-the-way-next-week",
+          "publishedOn": "2023-06-21T14:36:25.000Z",
+          "wordCount": 6036,
+          "title": "Pikmin 4 demo on the way next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Nintendo-Direct-%E2%80%93-21_06_2023-50-1-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/detective-pikachu-returns-this-october-on-switch",
+          "author": "Matt Wales",
+          "description": "It's been a long time coming, but Detective Pikachu is finally set to make his long-awaited return in the appropriately named Detective Pikachu Returns, coming to Switch on 6th October.\r\n\n\r\nA sequel to Detective Pikachu's original 2019 3DS adventure was announced that same year, but The Pokémon Company has shared little about the project in the years since.\r\n\n\r\nNow, though, Detective Pikachu has resurfaced during Nintendo's latest Direct showcase. It'll once again see the titular sleuthing fuzzball team up with human pal Tim Goodman for some crime-fighting adventure, but beyond that details are limited.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/detective-pikachu-returns-this-october-on-switch",
+          "publishedOn": "2023-06-21T14:25:34.000Z",
+          "wordCount": 5848,
+          "title": "Detective Pikachu Returns this October on Switch",
+          "imageUrl": "https://assetsio.reedpopcdn.com/detective-pikachu-returns-vid-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-announces-remake-of-super-mario-rpg",
+          "author": "Ed Nightingale",
+          "description": "At today's Nintendo Direct, the company announced a remake of SNES classic Super Mario RPG.\r\n\n\r\nOriginally released in 1996, it was developer by (then) Squaresoft and was the start of the Mario RPG series that led to the Paper Mario games.\r\n\n\r\nIt's coming to Switch on 17th November this year.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-announces-remake-of-super-mario-rpg",
+          "publishedOn": "2023-06-21T14:22:55.000Z",
+          "wordCount": 5859,
+          "title": "Nintendo announces remake of Super Mario RPG",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Nintendo-Direct-%E2%80%93-21_06_2023-35-32-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/batman-arkham-trilogy-headed-to-nintendo-switch",
+          "author": "Tom Phillips",
+          "description": "Rocksteady's brilliant series of Batman Arkham games will be coming to Nintendo Switch this autumn, in one package. \r\n\n\r\nThe Batman Arkham Trilogy will include all three games - Arkham Asylum, Arkham City and Arkham Knight - and \"all DLC\". \n\r\nAn initial trailer for the re-release was shown today in the Nintendo Direct. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/batman-arkham-trilogy-headed-to-nintendo-switch",
+          "publishedOn": "2023-06-21T14:22:35.000Z",
+          "wordCount": 6051,
+          "title": "Batman Arkham trilogy headed to Nintendo Switch",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Batman-Arkham-Knight2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/keeping-bethesda-games-microsoft-exclusives-powerful-evidence-against-activision-blizzard-takeover-says-ftc",
+          "author": "Victoria Kennedy",
+          "description": "Microsoft's decision to keep Bethesda's games exclusive is \"powerful evidence\" against its Activision Blizzard takeover bid, US antitrust agency the Federal Trade Commission has said.\r\n\n\r\nEarlier this month, the FTC succeeded in getting a temporary ban placed on Microsoft's $68.7bn Activision Blizzard buyout bid. Now, ahead of an upcoming hearing regarding the agency's request for a preliminary injunction, the FTC has submitted further documentation on the matter.\r\n\n\r\nIn a new and heavily redacted filing, the FTC has refered back to Microsoft's acquisition of ZeniMax and Bethesda. The company stated Microsoft's decision to make ZeniMax games exclusive is \"powerful evidence of incentive to foreclosure\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/keeping-bethesda-games-microsoft-exclusives-powerful-evidence-against-activision-blizzard-takeover-says-ftc",
+          "publishedOn": "2023-06-21T12:28:21.000Z",
+          "wordCount": 6484,
+          "title": "Keeping Bethesda games Microsoft exclusives \"powerful evidence\" against Activision Blizzard takeover, says FTC",
+          "imageUrl": "https://assetsio.reedpopcdn.com/starfield-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/dont-worry-the-dodge-in-lies-of-p-will-be-fixed-before-release",
           "author": "Ed Nightingale",
@@ -7702,6 +7902,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=72597",
+          "author": "Joshua Brown",
+          "description": "The new GitHub Code View brings users many new features to improve the code reading and exploration experiences, and we overcame a number of unique technical hurdles in order to deliver those features without compromising performance.",
+          "link": "https://github.blog/2023-06-21-crafting-a-better-faster-code-view/",
+          "publishedOn": "2023-06-21T17:35:17.000Z",
+          "wordCount": 3746,
+          "title": "Crafting a better, faster code view",
+          "imageUrl": "https://github.blog/wp-content/uploads/2023/05/1200.630-Productivity-wLogo@2x.png"
+        },
         {
           "id": "https://github.blog/?p=72576",
           "author": "Rizel Scarlett",
