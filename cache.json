@@ -3840,76 +3840,6 @@
           "wordCount": 1764,
           "title": "Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-robot-hand-lawyer-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942891",
-          "author": "Jonathan M. Gitlin",
-          "description": "Instead of making the EVs park by a charger, this charger can come to the EV.",
-          "link": "https://arstechnica.com/?p=1942891",
-          "publishedOn": "2023-05-30T17:52:05.000Z",
-          "wordCount": 2074,
-          "title": "Dallas airport will demo this cute little mobile EV charging robot",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ZiGGY-Demonstrator-Charging-cr2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942840",
-          "author": "Scharon Harding",
-          "description": "Microsoft working with OEMs on permanent driver fix for Windows-on-Arm devices.",
-          "link": "https://arstechnica.com/?p=1942840",
-          "publishedOn": "2023-05-30T17:40:00.000Z",
-          "wordCount": 1953,
-          "title": "Microsoft drops Surface Pro X webcam quality to get broken cameras working again",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/Surface-Pro-X-2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942784",
-          "author": "Benj Edwards",
-          "description": "Strategically vague statement on AI risk prompts critics' response.",
-          "link": "https://arstechnica.com/?p=1942784",
-          "publishedOn": "2023-05-30T17:12:29.000Z",
-          "wordCount": 1810,
-          "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942869",
-          "author": "Beth Mole",
-          "description": "Nearly all of the attendees were vaccinated, but 70% said they didn't mask.",
-          "link": "https://arstechnica.com/?p=1942869",
-          "publishedOn": "2023-05-30T17:03:06.000Z",
-          "wordCount": 1780,
-          "title": "COVID outbreak at CDC gathering infects 181 disease detectives",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1207345889-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942861",
-          "author": "Kyle Orland",
-          "description": "Cloud-gaming market at issue is a \"niche\" that \"is quickly becoming obsolete.\"",
-          "link": "https://arstechnica.com/?p=1942861",
-          "publishedOn": "2023-05-30T16:47:06.000Z",
-          "wordCount": 1784,
-          "title": "Activision says UK was “irrational” in blocking Microsoft purchase",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/abk-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942623",
-          "author": "Aaron Zimmerman",
-          "description": "Annoying-but-ignorable microtransactions can't ruin nigh-endless looter fun.",
-          "link": "https://arstechnica.com/?p=1942623",
-          "publishedOn": "2023-05-30T16:00:03.000Z",
-          "wordCount": 1885,
-          "title": "Diablo 4 review: Off to a hell of a good start",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/D4_Lilith_3440x1440-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1942757",
-          "author": "Eric Berger",
-          "description": "A little less than seven years have passed since the company's last Falcon failure.",
-          "link": "https://arstechnica.com/?p=1942757",
-          "publishedOn": "2023-05-30T14:06:11.000Z",
-          "wordCount": 1895,
-          "title": "The Falcon 9 may double the record for consecutive launch success tonight",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/52761312254_0fa6ef7d7b_k-760x380.jpg"
         }
       ]
     },
@@ -3924,6 +3854,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/06/29/container-image-signature-verification/",
+          "author": null,
+          "description": "Author: Sascha Grunert\nThe Kubernetes community has been signing their container image-based artifacts\nsince release v1.24. While the graduation of the corresponding enhancement\nfrom alpha to beta in v1.26 introduced signatures for the binary artifacts,\nother projects followed the approach by providing image signatures for their\nreleases, too. This means that they either create the signatures within their\nown CI/CD pipelines, for example by using GitHub actions, or rely on the\nKubernetes image promotion process to automatically sign the images by\nproposing pull requests to the k/k8s.io repository. A requirement for\nusing this process is that the project is part of the kubernetes or\nkubernetes-sigs GitHub organization, so that they can utilize the community\ninfrastructure for pushing images…",
+          "link": "https://kubernetes.io/blog/2023/06/29/container-image-signature-verification/",
+          "publishedOn": "2023-06-29T00:00:00.000Z",
+          "wordCount": 4872,
+          "title": "Blog: Verifying Container Image Signatures Within CRI Runtimes",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/06/09/dl-adopt-cdn/",
           "author": null,
@@ -7744,56 +7684,6 @@
           "wordCount": 5792,
           "title": "Mortal Kombat 1 opens registrations for upcoming online stress test",
           "imageUrl": "https://assetsio.reedpopcdn.com/mortal-kombat-1-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsofts-appeal-against-uk-activision-blizzard-block-pencilled-in-for-late-july",
-          "author": "Matt Wales",
-          "description": "Microsoft's appeal against the UK Competition and Merger Authority's decision to reject its Activision Blizzard deal has been given a preliminary 24th July start date.\r\n\n\r\nThe CMA made the shock decision to block Microsoft proposed $69bn acquisition of Activision Blizzard in April, highlighting concerns relating to the burgeoning cloud gaming sector and arguing the deal would risk \"stifling competition in this growing market\".\r\n\n\r\nAnd now, following the recent publication of Microsoft's summary of application to appeal the CMA's decision - in which it accused the UK regulator of making \"fundamental errors in its assessment\" - the UK's Competition Appeal Tribunal has held a case management conference to iron out preliminary details of the hearing between Microsoft and the CMA.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsofts-appeal-against-uk-activision-blizzard-block-pencilled-in-for-late-july",
-          "publishedOn": "2023-05-30T17:37:23.000Z",
-          "wordCount": 5565,
-          "title": "Microsoft's appeal against UK Activision Blizzard block pencilled in for late July",
-          "imageUrl": "https://assetsio.reedpopcdn.com/activision-blizzard_p0yB13e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ratchet-and-clank-rift-apart-coming-to-pc-in-july",
-          "author": "Victoria Kennedy",
-          "description": "Ratchet and Clank: Rift Apart is getting a PC release. \r\n\n\r\nFirst shared by prolific and reliable leaker bilbil-kun, Sony and Insomniac Games made the news official this afternoon. \n\r\nThis PC version of Ratchet and Clank's latest outing will feature ray-traced reflections with a variety of quality levels to choose from and newly added ray-traced shadows for natural light in outdoor areas. \n Read more",
-          "link": "https://www.eurogamer.net/ratchet-and-clank-rift-apart-coming-to-pc-in-july",
-          "publishedOn": "2023-05-30T15:21:33.000Z",
-          "wordCount": 5977,
-          "title": "Ratchet and Clank: Rift Apart coming to PC in July",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_e81acf4c2289d3368ef6d00be361e524444fe3a5.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sci-fi-adventure-a-long-journey-to-an-uncertain-end-finally-gets-a-release-date",
-          "author": "Ed Nightingale",
-          "description": "A Long Journey to an Uncertain End, the sci-fi narrative adventure game, finally has a release date of 28th June on PC.\r\n\n\r\nWhat's more, it will also be released on Nintendo Switch later this year.\r\n\n\r\nThe game will mark the debut of studio Crispy Creative, whose founder Kylan Coats was a UI designer at Obsidian, and a team including former members of Telltale Games.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sci-fi-adventure-a-long-journey-to-an-uncertain-end-finally-gets-a-release-date",
-          "publishedOn": "2023-05-30T14:49:43.000Z",
-          "wordCount": 5609,
-          "title": "Sci-fi adventure A Long Journey to an Uncertain End finally gets a release date",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ALJ-KeyArt.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/two-narrative-games-join-xbox-games-with-gold-this-june",
-          "author": "Ed Nightingale",
-          "description": "Two narrative games will arrive on Xbox Games with Gold this June.\r\n\n\r\nXbox Live Gold members will have access to both games for a limited time, beginning with Adios from 1st June to the end of the month.\r\n\n\r\nThe second game is The Vale: Shadow of the Crown, available from 15th June to 15th July.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/two-narrative-games-join-xbox-games-with-gold-this-june",
-          "publishedOn": "2023-05-30T14:30:45.000Z",
-          "wordCount": 5705,
-          "title": "Two narrative games join Xbox Games with Gold this June",
-          "imageUrl": "https://assetsio.reedpopcdn.com/adios-xbox-screenshot-pigs.2b257ddb-047a-41e7-bacf-e4e7ecbfeae9?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-junes-first-wave-of-xbox-game-pass-games-with-chicory-available-now",
-          "author": "Victoria Kennedy",
-          "description": "Microsoft has announced the next wave of games coming to its Xbox Game Pass service. \r\n\n\r\nFrom today, users will be able to get their hands on Chicory: A Colorful Tale (Cloud, Console, and PC) and Farworld Pioneers (Console and PC). Ed recently interviewed Chicory's composer Lena Raine, which you can read here.\r\n\n\r\nThen, on 1st June, Car Mechanic Simulator 2021 (Cloud, Console, and PC), Slayers X: Terminal Aftermath: Vengance of the Slayer (Cloud, Console, and PC) and The Big Con (Cloud, Console, and PC) will arrive. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-junes-first-wave-of-xbox-game-pass-games-with-chicory-available-now",
-          "publishedOn": "2023-05-30T13:59:10.000Z",
-          "wordCount": 6098,
-          "title": "Here's June's first wave of Xbox Game Pass games, with Chicory available now",
-          "imageUrl": "https://assetsio.reedpopcdn.com/chicory-a-colorful-tale.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
