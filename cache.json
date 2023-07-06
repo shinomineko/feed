@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2798/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/room_temperature.png\" title=\"They're also refusing to fund my device that demonstrates uncontrolled hot fusion.\" alt=\"They're also refusing to fund my device that demonstrates uncontrolled hot fusion.\" />",
+          "link": "https://xkcd.com/2798/",
+          "publishedOn": "2023-07-05T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Room Temperature",
+          "imageUrl": "https://imgs.xkcd.com/comics/room_temperature_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2797/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/actual_progress.png\" title=\"Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'\" alt=\"Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'\" />",
@@ -373,16 +383,6 @@
           "wordCount": 909,
           "title": "How Attorneys Are Harming Cybersecurity Incident Response",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html",
-          "author": null,
-          "description": "<p>In 2013 and 2014, I wrote extensively about new revelations regarding NSA surveillance based on the documents provided by Edward Snowden. But I had a more personal involvement as well.</p>\n<p>I wrote the essay below in September 2013. The <i>New Yorker</i> agreed to publish it, but the <i>Guardian</i> asked me not to. It was scared of UK law enforcement, and worried that this essay would reflect badly on it. And given that the UK police would raid its offices in July 2014, it had legitimate cause to be worried.</p>\n<p>Now, ten years later, I offer this as a time capsule of what those early months of Snowden were like...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html",
-          "publishedOn": "2023-06-06T11:17:07.000Z",
-          "wordCount": 3754,
-          "title": "Snowden Ten Years Later",
-          "imageUrl": null
         }
       ]
     },
@@ -391,6 +391,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1951838",
+          "author": "Beth Mole",
+          "description": "Black people have the highest overall rates of deaths in the US.",
+          "link": "https://arstechnica.com/?p=1951838",
+          "publishedOn": "2023-07-05T22:37:14.000Z",
+          "wordCount": 1938,
+          "title": "US maternal deaths more than doubled over two decades, study estimates",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1150538652-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1951792",
+          "author": "Ron Amadeo",
+          "description": "The Fold 5 and Flip 5 will do battle against an increasing number of foldables.",
+          "link": "https://arstechnica.com/?p=1951792",
+          "publishedOn": "2023-07-05T22:20:04.000Z",
+          "wordCount": 1783,
+          "title": "Check out the official renders of Samsung’s next foldables",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Galaxy-Flip5-5K4-render-reveal-728x410.jpeg-728x380.webp"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1951723",
+          "author": "Jennifer Ouellette",
+          "description": "Spanish missionaries deemed Lyobaa to be a \"back door to hell\" and sealed all entrances.",
+          "link": "https://arstechnica.com/?p=1951723",
+          "publishedOn": "2023-07-05T22:07:07.000Z",
+          "wordCount": 1901,
+          "title": "Archaeologists may have found ruins of fabled entrance to Zapotec underworld",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/mitla2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1951780",
+          "author": "Dan Goodin",
+          "description": "Organizations using unpatched SolarView products face potentially serious consequences.",
+          "link": "https://arstechnica.com/?p=1951780",
+          "publishedOn": "2023-07-05T20:21:53.000Z",
+          "wordCount": 1850,
+          "title": "Actively exploited vulnerability threatens hundreds of solar power stations",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/solar-panels-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1951770",
+          "author": "Jonathan M. Gitlin",
+          "description": "The powertrain has been designed and built in-house for a 450,000-mile life.",
+          "link": "https://arstechnica.com/?p=1951770",
+          "publishedOn": "2023-07-05T19:59:52.000Z",
+          "wordCount": 2212,
+          "title": "This EV truckmaker is gigacasting its battery packs for longevity",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Harbinger_050223-8754-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1951768",
+          "author": "John Timmer",
+          "description": "23 cubic kilometers of mountain plunged into the valley below.",
+          "link": "https://arstechnica.com/?p=1951768",
+          "publishedOn": "2023-07-05T19:39:25.000Z",
+          "wordCount": 2276,
+          "title": "Massive peak collapses may reshape Himalayas",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-148713619-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1951745",
+          "author": "Jon Brodkin",
+          "description": "Missouri and Louisiana sued Biden over attempts to limit COVID misinformation.",
+          "link": "https://arstechnica.com/?p=1951745",
+          "publishedOn": "2023-07-05T18:22:55.000Z",
+          "wordCount": 2222,
+          "title": "Judge rules White House pressured social networks to “suppress free speech”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-biden-twitter-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1951683",
           "author": "Chuong Nguyen",
@@ -3555,6 +3625,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/heres-a-fresh-look-at-16-bit-sci-fi-classic-sequel-flashback-2-ahead-of-novembers-launch",
+          "author": "Matt Wales",
+          "description": "Flashback, the classic 16-bit sci-fi platformer from Delphine Software, is, as you probably already know, getting a sequel before the end of 2023, some 31 years after its original release. And new developer Microids has now offered a fresh look at Flashback 2's action - specifically the jungle-y bits - in a new trailer as it prepares for a November release.\r\n\n\r\nThe original Flashback, which arrived to much acclaim back in 1992 - when everything was still in black and white, and computers were powered by magic - followed the far-flung future adventures of agent Conrad B. Hart on the trail of shapeshifting aliens attempting to infiltrate human society. It was an investigation that, much like Delphine's earlier Another World, took the form of a strikingly rotoscoped platform-puzzler.\r\n\n\r\nFlashback 2 (which, somewhat confusingly, isn't technically the game's first sequel, given the existence of 1995's 3D follow-up Fade to Black) sees Conrad B. Hart return for more sci-fi adventure - somewhere in the 22nd century - as he goes in search of his friend Ian. Again.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-a-fresh-look-at-16-bit-sci-fi-classic-sequel-flashback-2-ahead-of-novembers-launch",
+          "publishedOn": "2023-07-05T21:50:04.000Z",
+          "wordCount": 6267,
+          "title": "16-bit sci-fi classic sequel Flashback 2 shows off its leafy parts in new trailer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/flashback-2-screen-jungle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/friday-the-13th-the-game-dev-bestows-max-power-on-all-players-ahead-of-shutdown",
+          "author": "Matt Wales",
+          "description": "Friday the 13th: The Game's days are regrettably numbered, but developer Gun Interactive is bidding it farewell in something like celebratory style, bestowing maximum power on all players for their maximum enjoyment (but also to alleviate some pressure on servers) as the game's doomsday clock ticks down toward its closure at the end of next year.\r\n\n\r\nGun announced an end for Friday the 13th: The Game back in June, confirming the asymmetrical multiplayer horror would be pulled from stores on 31st December this year, the same day its Friday the 13th licence officially expires. There's some small solace for owners, however, in that the studio has promised the game will remain playable through \"at least\" 31st December 2024.\r\n\n\r\nAnd now, it's announced some new measures that, while primarily designed to \"reduce the dependence on database servers\", will also allow players to go about their merry slaughtering and killer-evading survival in chaotically maxed-out fashion.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/friday-the-13th-the-game-dev-bestows-max-power-on-all-players-ahead-of-shutdown",
+          "publishedOn": "2023-07-05T19:06:51.000Z",
+          "wordCount": 6568,
+          "title": "Friday the 13th: The Game developer bestows max power on all players ahead of shutdown",
+          "imageUrl": "https://assetsio.reedpopcdn.com/friday-the-13th-game.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/ea-sports-fcs-release-date-leaks-and-unsurprisingly-its-in-fifas-old-september-slot",
           "author": "Matt Wales",
@@ -7134,56 +7224,6 @@
           "wordCount": 5856,
           "title": "WD_Black Xbox Series X/S memory expansion cards confirmed",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_tnRVIBR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/resident-evil-death-island-release-date-announced",
-          "author": "Liv Ngan",
-          "description": "Capcom and Sony Pictures have announced when CGI movie Resident Evil: Death Island will be out.\r\n\n\r\nThe upcoming animated film was announced in February. It's a big deal for fans, as it'll mark the first time favourite characters such as Leon Kennedy and Jill Valentine are on-screen together. \r\n\n\r\nThe pair, as well as returning protagonists Rebecca Chambers, Chris and Claire Redfield, are brought together when investigating a number of bioweapon-related cases. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/resident-evil-death-island-release-date-announced",
-          "publishedOn": "2023-06-06T11:29:26.000Z",
-          "wordCount": 5784,
-          "title": "Resident Evil: Death Island release date announced",
-          "imageUrl": "https://assetsio.reedpopcdn.com/resident-evil-death-island-box-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-fined-20m-for-violating-online-child-protection-laws",
-          "author": "Ed Nightingale",
-          "description": "Microsoft has been fined $20m by the FTC for violating the Children's Online Privacy Protection Act (COPPA).\r\n\n\r\nThe fine is in response to the collection of personal information from children via Xbox without parents being notified or giving consent, as well as the illegal retention of that information, the FTC has said.\r\n\r\n\n\r\nAs a result, Microsoft is required to make a number of changes to improve privacy protection for children on Xbox.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-fined-20m-for-violating-online-child-protection-laws",
-          "publishedOn": "2023-06-06T10:51:39.000Z",
-          "wordCount": 6150,
-          "title": "Microsoft fined $20m for violating online child protection laws",
-          "imageUrl": "https://assetsio.reedpopcdn.com/f817aa8c-02c1-4ba9-84a8-20d357d52939.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/diablo-4-has-two-expansions-in-development-blizzard-confirms",
-          "author": "Ed Nightingale",
-          "description": "Diablo general manager Rod Fergusson has confirmed that two expansions are in development for Diablo 4.\r\n\n\r\nFergusson was interviewed by Kinda Funny Games and discussed the live-service format for the game and how it allows for substantial updates.\r\n\n\r\n\"As I sit here we're about to launch the main game, we're finishing up season one, we're working on season two, we're working on expansion one, we're kicking off expansion two,\" said Fergusson. \"All that's happening right now and we haven't even launched the game yet.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/diablo-4-has-two-expansions-in-development-blizzard-confirms",
-          "publishedOn": "2023-06-06T10:21:17.000Z",
-          "wordCount": 6128,
-          "title": "Diablo 4 has two expansions in development, Blizzard confirms",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Diablo-4-release-time%2C-early-access-and-preload-details.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-switch-online-adds-kirby-and-harvest-moon",
-          "author": "Liv Ngan",
-          "description": "Nintendo has announced the next games to join its NES, SNES, and Game Boy libraries.\r\n\n\r\nSwitch Online members can now access Kirby Tilt 'n' Tumble, Blaster Master: Enemy Below, Harvest Moon, and Mystery Tower through the subscription service.\r\n\n\r\nTake a look at the compilation video below to see the games in action!\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-switch-online-adds-kirby-and-harvest-moon",
-          "publishedOn": "2023-06-06T10:07:49.000Z",
-          "wordCount": 5936,
-          "title": "Nintendo Switch Online adds Kirby and Harvest Moon",
-          "imageUrl": "https://assetsio.reedpopcdn.com/2250x1266_Switch_News_6_NSO.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/capcom-showcase-confirmed-date-set-for-next-week",
-          "author": "Tom Phillips",
-          "description": "Capcom has announced its own summer game reveal event, to take place next Monday, 12th June at 11pm UK time.\r\n\n\r\nThe livestream will run for \"roughly 36 minutes\", Capcom has said, and features \"news and updates on our latest games\". \r\n\n\r\nNo specific titles are mentioned, but it seems likely we'll see more of dinosaur shooting game Exoprimal (which is out next month) and perhaps a bit of Dragon's Dogma 2 (which we got a glimpse of last month at Sony's PlayStation Showcase). \r\n \nRead more",
-          "link": "https://www.eurogamer.net/capcom-showcase-confirmed-date-set-for-next-week",
-          "publishedOn": "2023-06-06T09:39:52.000Z",
-          "wordCount": 5980,
-          "title": "Capcom Showcase confirmed, date set for next week",
-          "imageUrl": "https://assetsio.reedpopcdn.com/RE4_Ada_01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
