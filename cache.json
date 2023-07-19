@@ -383,16 +383,6 @@
           "wordCount": 1100,
           "title": "Ethical Problems in Computer Security",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/06/power-led-side-channel-attack.html",
-          "author": null,
-          "description": "<p>This is a clever new &#60;a href=&#8221;https://www.nassiben.com/video-based-crypta&#62;side-channel attack</a>:</p>\n<blockquote><p>The first attack uses an Internet-connected surveillance camera to take a high-speed video of the power LED on a smart card reader­or of an attached peripheral device­during cryptographic operations. This technique allowed the researchers to pull a 256-bit ECDSA key off the same government-approved smart card used in Minerva. The other allowed the researchers to recover the private SIKE key of a Samsung Galaxy S8 phone by training the camera of an iPhone 13 on the power LED of a USB speaker connected to the handset, in a similar way to how Hertzbleed pulled SIKE keys off Intel and AMD CPUs...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/06/power-led-side-channel-attack.html",
-          "publishedOn": "2023-06-19T10:52:19.000Z",
-          "wordCount": 941,
-          "title": "Power LED Side-Channel Attack",
-          "imageUrl": null
         }
       ]
     },
@@ -401,6 +391,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1954593",
+          "author": "Jennifer Ouellette",
+          "description": "Zenas Marshall Crane usually credited with introducing fibers to paper currency in 1844.",
+          "link": "https://arstechnica.com/?p=1954593",
+          "publishedOn": "2023-07-18T22:51:30.000Z",
+          "wordCount": 1976,
+          "title": "Was Benjamin Franklin the first to incorporate colored fiber into currency?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/franklin1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954890",
+          "author": "Beth Mole",
+          "description": "The family, defending itself in the trial, declined to provide an opening statement.",
+          "link": "https://arstechnica.com/?p=1954890",
+          "publishedOn": "2023-07-18T22:30:02.000Z",
+          "wordCount": 1880,
+          "title": "“Church of Bleach” family goes to trial, representing themselves in court",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/genesis-mms-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954677",
+          "author": "Benj Edwards",
+          "description": "GPT-4's image capabilities can recognize certain individuals, according to NYT.",
+          "link": "https://arstechnica.com/?p=1954677",
+          "publishedOn": "2023-07-18T21:35:04.000Z",
+          "wordCount": 1856,
+          "title": "Report: OpenAI holding back GPT-4 image features on fears of privacy issues",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/facial_recognition_hero_4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954854",
+          "author": "Jonathan M. Gitlin",
+          "description": "GM's efforts to scale up EV production are being hampered by supply issues.",
+          "link": "https://arstechnica.com/?p=1954854",
+          "publishedOn": "2023-07-18T21:18:18.000Z",
+          "wordCount": 1867,
+          "title": "Battery shortage forces GM to pause commercial EV production",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cami-stc-3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954791",
+          "author": "Ron Amadeo",
+          "description": "A big year-over-year battery increase, same-y design, and maybe more RAM.",
+          "link": "https://arstechnica.com/?p=1954791",
+          "publishedOn": "2023-07-18T21:00:07.000Z",
+          "wordCount": 1697,
+          "title": "OnePlus 12 spec leak promises giant 5400 mAh battery",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/106-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954819",
+          "author": "Dan Goodin",
+          "description": "The exploited code-execution flaws are the kind coveted by ransomware and nation-state hackers.",
+          "link": "https://arstechnica.com/?p=1954819",
+          "publishedOn": "2023-07-18T20:22:57.000Z",
+          "wordCount": 1908,
+          "title": "Exploited 0-days, an incomplete fix, and a botched disclosure: Infosec snafu reigns",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954747",
+          "author": "Benj Edwards",
+          "description": "A family of pretrained and fine-tuned language models in sizes from 7 to 70 billion parameters.",
+          "link": "https://arstechnica.com/?p=1954747",
+          "publishedOn": "2023-07-18T20:07:49.000Z",
+          "wordCount": 2176,
+          "title": "Meta launches Llama 2, an open source AI model that allows commercial applications",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954753",
+          "author": "John Timmer",
+          "description": "Cells from the developing spinal cord make the sturgeon's bony, armored plates.",
+          "link": "https://arstechnica.com/?p=1954753",
+          "publishedOn": "2023-07-18T18:26:20.000Z",
+          "wordCount": 1789,
+          "title": "The armor of armored fish started out as part of the nervous system",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-522709030-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1954761",
+          "author": "Jon Brodkin",
+          "description": "Shareholder lawsuit said Tesla board pay \"grossly exceeds\" corporate norms.",
+          "link": "https://arstechnica.com/?p=1954761",
+          "publishedOn": "2023-07-18T18:17:42.000Z",
+          "wordCount": 2073,
+          "title": "Musk, Tesla board to return $735M after being sued for overpaying themselves",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1954721",
           "author": "Ashley Belanger",
@@ -3520,16 +3600,6 @@
           "wordCount": 1950,
           "title": "Even galaxies recycle",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/7754604918_f4f123dfd5_o-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1948679",
-          "author": "Ars Contributors",
-          "description": "This discovery is literally the hottest thing in a while.",
-          "link": "https://arstechnica.com/?p=1948679",
-          "publishedOn": "2023-06-19T11:15:25.000Z",
-          "wordCount": 2005,
-          "title": "Parker Solar Probe images the launch of the solar wind",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-3-760x380.jpeg"
         }
       ]
     },
@@ -6763,56 +6833,6 @@
           "wordCount": 5881,
           "title": "New York Times responds to Only Connect resemblance",
           "imageUrl": "https://assetsio.reedpopcdn.com/NYT-Connections-og-image.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-zelda-tears-of-the-kingdom-duplication-glitch-will-make-you-rich-from-frozen-meat",
-          "author": "Liv Ngan",
-          "description": "A new duplication glitch has been discovered in Zelda: Tears of the Kingdom which can fill up your wallet very quickly, depending on how fast you can press the A button.\r\n\nThe glitch is relatively simple and requires a couple of weapons, some raw meat, and at least 57 Zonaite. It should be replicable in versions of the game up to 1.1.2, which is the version I tested it on and can confirm it works.\r\n\nIf you want a video guide to follow, the earliest video I can find of the glitch is from YouTube channel No Hypothesis. YouTuber Austin John Plays has a thorough guide too, in which he notes where things could go wrong.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-zelda-tears-of-the-kingdom-duplication-glitch-will-make-you-rich-from-frozen-meat",
-          "publishedOn": "2023-06-19T11:56:54.000Z",
-          "wordCount": 6358,
-          "title": "New Zelda: Tears of the Kingdom duplication glitch will make you rich from frozen meat",
-          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-tears-of-the-kingdom-frozen-meat-glitch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-16-day-one-update-announced",
-          "author": "Victoria Kennedy",
-          "description": "Final Fantasy 16 will have a day one update to address a small variety of issues, but will not be required to play the game. \r\n\n\r\nThe developer apologised for this update, stating the team \"didn't want to do any pre-release or release day updates\" for Final Fantasy 16 - even one this minor. \r\n\n\r\nHere are the full Final Fantasy 16 day one patch notes:\n Read more",
-          "link": "https://www.eurogamer.net/final-fantasy-16-day-one-update-announced",
-          "publishedOn": "2023-06-19T11:45:15.000Z",
-          "wordCount": 6351,
-          "title": "Final Fantasy 16 day one update announced",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ff16_wi1uaY6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/henry-cavill-bids-farewell-to-the-witcher-co-stars-says-characters-at-risk-of-being-oversimplified",
-          "author": "Victoria Kennedy",
-          "description": "Henry Cavill has praised his co-stars on The Witcher, complimenting their work bringing characters to life that could otherwise have been \"oversimplified\". \r\n\n\r\nCavill was speaking at Netflix's Global Fan Event, Tudum over the weekend. There, the actor was joined on stage by fellow Witcher stars Freya Allan, Anya Chalotra, and Joey Batey to discuss the show's upcoming third season, which will apparently feature \"a very shocking death\". Also, those of us who have not read the books are going to be \"blown away\" by season three's \"big bad\". \r\n\n\r\nBut, of course, what most people wanted to hear about was Cavill's departure from the show, something he announced towards the end of last year. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/henry-cavill-bids-farewell-to-the-witcher-co-stars-says-characters-at-risk-of-being-oversimplified",
-          "publishedOn": "2023-06-19T11:05:48.000Z",
-          "wordCount": 6625,
-          "title": "Henry Cavill bids farewell to The Witcher co-stars, who worked to ensure characters not \"oversimplified\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/henry-c-kicking-butt-in-the-witcher.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/square-enix-details-final-fantasy-16-new-game-plus-offering",
-          "author": "Tom Phillips",
-          "description": "Final Fantasy 16 will include a New Game Plus mode, Square Enix has confirmed. \r\n\n\r\nNamed as \"Final Fantasy Mode\", this option will sit on the game's main menu once you have beaten the main campaign, and allow you to carry over your items, abilities and level progression into a fresh playthrough. \r\n\n\r\nHere, the level cap will be raised to 100, though you'll also have to face \"far more powerful\" enemies. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/square-enix-details-final-fantasy-16-new-game-plus-offering",
-          "publishedOn": "2023-06-19T10:34:48.000Z",
-          "wordCount": 6105,
-          "title": "Square Enix details Final Fantasy 16 New Game Plus offering",
-          "imageUrl": "https://assetsio.reedpopcdn.com/%E3%80%8EFINAL-FANTASY-XVI%E3%80%8F%E7%99%BA%E5%A3%B2%E7%9B%B4%E5%89%8D%EF%BC%81%E6%83%85%E5%A0%B1%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E7%94%9F%E6%94%BE%E9%80%81-1-12-24-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ghost-of-tsushima-film-director-considering-ways-to-expand-further",
-          "author": "Liv Ngan",
-          "description": "Chad Stahelski, director of the upcoming Ghost of Tsushima film adaptation, has stated he is looking for ways to \"leave [the film] open to expand further from there\".\r\n\n\r\nStahelski made the comments in an interview with Comic Book Movie to promote John Wick: Chapter 4's release on Blu-ray.\r\n\n\r\nThe adaptation of Ghost of Tsushima was announced in 2021 with Stahelski as its director, and Takashi Doscher was named as its writer in 2022. Since then, Stahelski has stated the adaptation will be \"a complete Japanese cast, in Japanese\" with Sony on-board backing his choice.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ghost-of-tsushima-film-director-considering-ways-to-expand-further",
-          "publishedOn": "2023-06-19T10:16:02.000Z",
-          "wordCount": 6212,
-          "title": "Ghost of Tsushima film director considering ways to \"expand further\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ghost-of-tsushima-continues-to-look-stunning-in-latest-video-reveal-1589494143721.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
