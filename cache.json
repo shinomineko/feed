@@ -124,16 +124,6 @@
           "wordCount": 182,
           "title": "Real Estate Analysis",
           "imageUrl": "https://imgs.xkcd.com/comics/real_estate_analysis_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2795/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/glass_topped_table.png\" title=\"You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.\" alt=\"You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.\" />",
-          "link": "https://xkcd.com/2795/",
-          "publishedOn": "2023-06-28T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Glass-Topped Table",
-          "imageUrl": "https://imgs.xkcd.com/comics/glass_topped_table_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/07/fooling-an-ai-article-writer.html",
+          "author": null,
+          "description": "<p><em>World of Warcraft</em> players wrote about a fictional game element, &#8220;Glorbo,&#8221; on a subreddit for the game, trying to entice an AI bot to write an article about it. It <a href=\"https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/\">worked</a>:</p>\n<blockquote><p>And it&#8230;worked. Zleague auto-published a post titled &#8220;World of Warcraft Players Excited For Glorbo’s Introduction.&#8221;</p>\n<p>[&#8230;]</p>\n<p>That is&#8230;all essentially nonsense. The article was left online for a while but has finally been taken down (<a href=\"https://archive.ph/4mOWr\">here’s a mirror, it’s hilarious</a>). All the authors listed as having bylines on the site are fake. It appears this entire thing is run with close to zero oversight...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/07/fooling-an-ai-article-writer.html",
+          "publishedOn": "2023-07-27T11:04:51.000Z",
+          "wordCount": 898,
+          "title": "Fooling an AI Article Writer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/07/backdoor-in-tetra-police-radios.html",
           "author": null,
@@ -434,16 +434,6 @@
           "wordCount": 868,
           "title": "Stalkerware Vendor Hacked",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/06/typing-incriminating-evidence-in-the-memo-field.html",
-          "author": null,
-          "description": "<p>Don&#8217;t <a href=\"https://onefoottsunami.com/2023/06/26/fun-with-the-memo-field-while-committing-abhorrent-crimes/\">do it</a>:</p>\n<blockquote><p>Recently, the manager of the Harvard Med School morgue was accused of stealing and selling human body parts. Cedric Lodge and his wife Denise were among a half-dozen people <a href=\"https://www.wbur.org/news/2023/06/14/cedric-lodge-massachusetts-nh-harvard-morgue-cadavers-indictment\">arrested for some pretty grotesque crimes</a>. This part is also at least a little bit funny though:</p>\n<blockquote><p>Over a three-year period, Taylor appeared to pay Denise Lodge more than $37,000 for human remains. One payment, for $1,000 included the memo &#8220;head number 7.&#8221; Another, for $200, read &#8220;braiiiiiins.&#8221;</p></blockquote>\n</blockquote>\n<p>It&#8217;s so easy to think that you won&#8217;t get caught.</p>\n...",
-          "link": "https://www.schneier.com/blog/archives/2023/06/typing-incriminating-evidence-in-the-memo-field.html",
-          "publishedOn": "2023-06-27T20:36:50.000Z",
-          "wordCount": 896,
-          "title": "Typing Incriminating Evidence in the Memo Field",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +442,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1956567",
+          "author": "Stephen Clark",
+          "description": "Commercial space industry argues for extension to moratorium on regulations.",
+          "link": "https://arstechnica.com/?p=1956567",
+          "publishedOn": "2023-07-27T11:00:37.000Z",
+          "wordCount": 1991,
+          "title": "A nearly 20-year ban on human spaceflight regulations is set to expire",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1358501579-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1956957",
           "author": "Beth Mole",
@@ -3801,106 +3801,6 @@
           "wordCount": 2228,
           "title": "GeForce RTX 4060 review: Not thrilling, but a super-efficient $299 workhorse",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1328-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950380",
-          "author": "Ars Contributors",
-          "description": "Lightning seen \"at heights and rates not previously observed.\"",
-          "link": "https://arstechnica.com/?p=1950380",
-          "publishedOn": "2023-06-28T00:00:08.000Z",
-          "wordCount": 2030,
-          "title": "Electrifying volcano eruption set off the most extreme lightning detected",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-2-743x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950459",
-          "author": "Jonathan M. Gitlin",
-          "description": "And SAE International will make the specification a standard within 6 months.",
-          "link": "https://arstechnica.com/?p=1950459",
-          "publishedOn": "2023-06-27T23:45:04.000Z",
-          "wordCount": 2155,
-          "title": "Now Volvo is switching to Tesla’s charging plug",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/volvo-tesla-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950451",
-          "author": "Dan Goodin",
-          "description": "The dramatic fallout continues, with as many as 122 organizations now breached.",
-          "link": "https://arstechnica.com/?p=1950451",
-          "publishedOn": "2023-06-27T23:18:42.000Z",
-          "wordCount": 1899,
-          "title": "Casualties keep growing in this month’s mass exploitation of MOVEit 0-day",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/skull-ones-zeros-cROPPED-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950352",
-          "author": "Ars Contributors",
-          "description": "A probe sent toward the Sun ran into the debris of an asteroid breakup.",
-          "link": "https://arstechnica.com/?p=1950352",
-          "publishedOn": "2023-06-27T22:56:31.000Z",
-          "wordCount": 2041,
-          "title": "We finally know how the mysterious Geminid meteor shower originated",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-7.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950376",
-          "author": "Ron Amadeo",
-          "description": "YouTube's demands for eternal growth could mean branching out into casual games.",
-          "link": "https://arstechnica.com/?p=1950376",
-          "publishedOn": "2023-06-27T22:05:36.000Z",
-          "wordCount": 1769,
-          "title": "YouTube “Playables” could bring Facebook-style casual games to YouTube",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/youtube-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950406",
-          "author": "Beth Mole",
-          "description": "After 23 days in jail, she agreed to take her meds and must open her door to officials.",
-          "link": "https://arstechnica.com/?p=1950406",
-          "publishedOn": "2023-06-27T21:51:21.000Z",
-          "wordCount": 1808,
-          "title": "Woman who went on the lam with untreated TB is now out of the slammer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1358937217-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950232",
-          "author": "Scharon Harding",
-          "description": "Search term + Reddit = John Oliver?",
-          "link": "https://arstechnica.com/?p=1950232",
-          "publishedOn": "2023-06-27T21:39:11.000Z",
-          "wordCount": 1897,
-          "title": "Protests broke Reddit hack for useful Google search results—and Google knows it",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1243641630-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950360",
-          "author": "Stephen Clark",
-          "description": "Major space industry players are still keeping Russia at arm's length.",
-          "link": "https://arstechnica.com/?p=1950360",
-          "publishedOn": "2023-06-27T20:42:59.000Z",
-          "wordCount": 2086,
-          "title": "Trend or aberration? Russia is launching foreign satellites again",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/soyuzlaunchphidemo-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950008",
-          "author": "Kevin Purdy",
-          "description": "It's not an easy process, but it's getting close to a nearly full SteamOS feel.",
-          "link": "https://arstechnica.com/?p=1950008",
-          "publishedOn": "2023-06-27T20:14:36.000Z",
-          "wordCount": 2275,
-          "title": "The Linux coders turning the ROG Ally and other handhelds into Steam Deck clones",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_3016-EDIT-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1950308",
-          "author": "Beth Mole",
-          "description": "Despite cases in Texas and Florida, the overall risk is considered \"extremely low.\"",
-          "link": "https://arstechnica.com/?p=1950308",
-          "publishedOn": "2023-06-27T18:56:26.000Z",
-          "wordCount": 2111,
-          "title": "Malaria spreading in Texas and Florida; first US-based cases in two decades",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-760x380.jpeg"
         }
       ]
     },
@@ -3985,6 +3885,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/blizzard-to-host-another-diablo-4-campfire-chat-covering-patch-111",
+          "author": "Victoria Kennedy",
+          "description": "Blizzard has announced another Campfire Chat, this time to discuss Diablo 4 Patch 1.1.1. \r\n\n\r\nThe upcoming patch's content will include class balance changes - something that has previously caused dismay among the Diablo 4 community - as well as various quality of life updates, and \"more\". \r\n\n\r\nThe chat will be hosted by game director Joe Shely, among others, and will also include a community Q&A session at the end of the stream. This will allow players to field any remaining questions they may have about the game directly to the team.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/blizzard-to-host-another-diablo-4-campfire-chat-covering-patch-111",
+          "publishedOn": "2023-07-27T12:26:11.000Z",
+          "wordCount": 6809,
+          "title": "Blizzard to host another Diablo 4 Campfire Chat covering Patch 1.1.1",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F16FniaX0AMGv3w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-like-monster-hunter-now-gets-final-launch-date",
+          "author": "Tom Phillips",
+          "description": "Monster Hunter Now, the next project from Pokémon Go maker Niantic, now has a final release date. \r\n\n\r\nYou'll be able to download and play the real-world smartphone app worldwide from 14th September, Niantic and co-developer Capcom announced today. \r\n\n\r\nIn a video presentation streamed this afternoon on YouTube, we also learned some of the monsters you'll be able to encounter in the game, such as Great Jagras, Kulu-Ya-Ku and Pukei-Pukei.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-go-like-monster-hunter-now-gets-final-launch-date",
+          "publishedOn": "2023-07-27T12:06:30.000Z",
+          "wordCount": 6483,
+          "title": "Pokémon Go-like Monster Hunter Now gets final launch date",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_93joysq.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/mcdonalds-uk-happy-meal-pokemon-card-promotion-begins-in-august",
+          "author": "Tom Phillips",
+          "description": "The annual bunfight over Pokémon trading cards available from McDonald's Happy Meals is about to begin anew.  \r\n\n\r\nThe promotion has began today, 27th July, in some European countries - but it's not available in the UK yet.\r\n\n\r\nAccording to reliable fansite Pokébeach, the cards will finally reach British shores on 23rd August. So mark that date in your diaries to get ahead of the scalpers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mcdonalds-uk-happy-meal-pokemon-card-promotion-begins-in-august",
+          "publishedOn": "2023-07-27T11:42:44.000Z",
+          "wordCount": 6778,
+          "title": "McDonald's UK Happy Meal Pokémon card promotion begins in August",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Welcome-to-the-Paldea-region!-_-Pok%C3%A9mon-Scarlet-%26-Pok%C3%A9mon-Violet-1-42-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/baldurs-gate-3-romantic-scenes-used-intimacy-coordinators",
+          "author": "Victoria Kennedy",
+          "description": "Baldur's Gate 3 developer Larian hired intimacy coordinators to ensure its actors felt safe and comfortable during romantic scenes.\r\n\n\r\nIn an interview with BBC, actor Devora Wilde - who plays githyanki warrior Lae'zel in the upcoming release - revealed the studio had hired the coordinators, saying she was pleased at this decision. \r\n\n\r\nAn intimacy coordinator or director is \"a choreographer, an advocate for actors, and a liaison between actors and production for scenes that involve nudity / hyper-exposed work, simulated sex acts, and/or intimate physical contact,\" according to idcprofessionals.com. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3-romantic-scenes-used-intimacy-coordinators",
+          "publishedOn": "2023-07-27T11:36:22.000Z",
+          "wordCount": 7016,
+          "title": "Baldur's Gate 3 romantic scenes used intimacy coordinators",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Baldur's-Gate-3-kiss.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/two-classic-game-boy-color-zelda-titles-arrive-on-nintendo-switch-online",
+          "author": "Victoria Kennedy",
+          "description": "Nintendo has expanded its Nintendo Switch Online catalogue with two classic Game Boy Colour Zelda games.\r\n\n\r\nBoth The Legend of Zelda: Oracle of Ages and The Legend of Zelda: Oracle of Seasons are now available for Nintendo Switch Online subscribers. \r\n\nIn Oracle of Ages, our hero Link finds himself on a quest to save the land of Labrynna. To do this, he will have to do a spot of time travel, flitting between the past and the present to manipulate the enviroment around him.\n Read more",
+          "link": "https://www.eurogamer.net/two-classic-game-boy-color-zelda-titles-arrive-on-nintendo-switch-online",
+          "publishedOn": "2023-07-27T09:51:00.000Z",
+          "wordCount": 6642,
+          "title": "Two classic Game Boy Color Zelda titles arrive on Nintendo Switch Online",
+          "imageUrl": "https://assetsio.reedpopcdn.com/the_legend_of_zelda_oracle_of_seasons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/netflix-castlevania-series-release-date-detailed",
+          "author": "Tom Phillips",
+          "description": "Castlevania: Nocturne, Netflix's upcoming animated series based on Konami's classic franchise, now has a release date. \r\n\n\r\nThe show will premiere via the streaming service on 28th September, Netflix announced, sharing a very brief teaser trailer. \r\n\n\r\nNetflix's take on Castlevania follows Richter Belmont, a character which franchise fans will know well (and who also popped up in Super Smash Bros. Ultimate), alongside fellow fan-favourite Maria Renard during the French Revolution.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflix-castlevania-series-release-date-detailed",
+          "publishedOn": "2023-07-27T09:47:04.000Z",
+          "wordCount": 6529,
+          "title": "Netflix Castlevania series release date detailed",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Castlevania_-Nocturne-_-Announcement-_-Netflix-0-13-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-7-remake-plot-hole-officially-explained-by-square-enix",
+          "author": "Ed Nightingale",
+          "description": "Square Enix has officially explained a plot hole in Final Fantasy 7 Remake that may have implications for the forthcoming Rebirth.\r\n\n\r\nThe explanation comes from a tweet from the Japanese Final Fantasy 7 Remake account, which has been translated by Siliconera.\r\n\nSpoilers for Final Fantasy 7 Remake and the original follow.\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-7-remake-plot-hole-officially-explained-by-square-enix",
+          "publishedOn": "2023-07-27T09:46:17.000Z",
+          "wordCount": 6697,
+          "title": "Final Fantasy 7 Remake plot hole officially explained by Square Enix",
+          "imageUrl": "https://assetsio.reedpopcdn.com/FF7REBIRTH_SGF_09.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-plus-august-games-include-dreams",
+          "author": "Tom Phillips",
+          "description": "Sony has named its offering of games available to all PlayStation Plus members for the month of August. \r\n\n\r\nThe selection is headlined by Dreams, Sony's own mini-game creation toolkit built by LittleBigPlanet studio Media Molecule, updates for which are now being wound down. \r\n\nDreams becoming available in PlayStation Plus will give you access to Media Molecule's latest game Tren, released inside of Dreams. Sony describes it as \"a nostalgic adventure that puts you in the driving seat of a remarkable toy train\" in a coming-of-age tale meant to reflect the power of play.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-plus-august-games-include-dreams",
+          "publishedOn": "2023-07-27T09:44:41.000Z",
+          "wordCount": 6589,
+          "title": "PlayStation Plus August games include Dreams",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F1-RmE1aYAIoHIs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/xbox-launches-shiny-new-home-dashboard-for-series-xs-one-consoles",
           "author": "Victoria Kennedy",
@@ -6904,46 +6884,6 @@
           "wordCount": 6068,
           "title": "Stray, BioShock and Borderlands all leaving PlayStation Plus Extra and Premium in July",
           "imageUrl": "https://assetsio.reedpopcdn.com/image_fsPPVvh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bioware-confirms-layoffs-as-star-wars-the-old-republic-development-shifts-to-new-studio",
-          "author": "Matt Wales",
-          "description": "Following the news that development of BioWare's free-to-play MMO Star Wars: The Old Republic would be shifting to a third-party studio, BioWare general manager Gary McKay has now confirmed some team members will lose their jobs as a result of the move.\r\n\n\r\nWriting on the BioWare website, McKay explained that \"most of the current team will be invited to accompany\" Star Wars: The Old Republic as its development switches over to Ultima Online and Dark Age of Camelot studio Broadsword Online Games - a move EA previously said was necessary so BioWare could focus on its new Mass Effect and Dragon Age titles.\r\n\n\r\n\"Unfortunately,\" McKay continued, \"not every role will make the move. This is the hardest part of this transition, and these decisions were not made lightly.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bioware-confirms-layoffs-as-star-wars-the-old-republic-development-shifts-to-new-studio",
-          "publishedOn": "2023-06-28T00:14:00.000Z",
-          "wordCount": 6340,
-          "title": "BioWare confirms layoffs as Star Wars: The Old Republic shifts to new studio",
-          "imageUrl": "https://assetsio.reedpopcdn.com/star-wars-old-republic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-sims-5-gets-another-airing-as-ea-shares-more-early-development-experiments",
-          "author": "Matt Wales",
-          "description": "The Sims 5 - or Project Rene, as EA is currently calling - is still some considerable way from release, but that isn't stopping developer Maxis from showing off its early experiments exploring what this \"next generation\" Sims game could be - and the studio has now shared a little more as part of its latest Sims stream.\r\n\n\r\nWhen Project Rene was officially unveiled in October last year, EA teased a game built on a foundation of \"charming sims, powerful tools, and meaningful stories\" that would be designed with real-time collaboration in mind (solo play is still supported) and be simultaneously playable across a range of devices, including mobile and PC.\r\n\n\r\nAt the time, footage was limited to some expanded creativity tools inspired by The Sims 3's Create a Style options, but Project Rene's latest airing in EA's new Behind the Sims showcase (which also had a lot to say about horses) has gone into a little more detail about what The Sims 5 might look like if Maxis' current experiments prove fruitful.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-sims-5-gets-another-airing-as-ea-shares-more-early-development-experiments",
-          "publishedOn": "2023-06-27T23:05:19.000Z",
-          "wordCount": 6419,
-          "title": "The Sims 5 gets another airing as EA shares more early development experiments",
-          "imageUrl": "https://assetsio.reedpopcdn.com/sims-5-prototype-simulation-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/stardew-valley-and-slay-the-spire-heading-to-apple-arcade-in-july",
-          "author": "Matt Wales",
-          "description": "Apple has announced a new batch of titles heading to its Apple Arcade subscription service in July, including two particularly notable oldies-but-goodies: Stardew Valley and Slay the Spire, which both arrive in '+' form, denoting they were previously available on the iOS App Store.\r\n\n\r\nStardew Valley+, as if it needs an introduction, is developer Eric \"ConcernedApe\" Barone's wildly popular spin on the farm life sim genre, having now sold over 20m copies since its launch in 2016. Apple Arcade subscribers will have the opportunity to succumb to its endearing blend of agricultural wealth accumulation and pixel wooing from 28th July.\r\n\n\r\nAs for Slay the Spire+, it's also a bit of a modern classic. Developer Mega Crit Games' roguelike deck-building dungeon-crawler - which sees players attempting to fend off monsters and scale the titular spire with nothing but a fist of battle-ready cards - is a wonderfully refined, richly rewarding experience, and well worth seeking out.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/stardew-valley-and-slay-the-spire-heading-to-apple-arcade-in-july",
-          "publishedOn": "2023-06-27T21:08:45.000Z",
-          "wordCount": 5958,
-          "title": "Stardew Valley and Slay the Spire heading to Apple Arcade in July",
-          "imageUrl": "https://assetsio.reedpopcdn.com/stardew-valley-image-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/among-us-sci-fi-social-deduction-is-getting-the-animated-adaptation-treatment",
-          "author": "Matt Wales",
-          "description": "Among Us, the popular sci-fi social deduction game from developer Innersloth, is being turned into an animated series by CBS Studios.\r\n\n\r\nAs reported by Variety, the new series - which is being handled by Big Mouth and Star: Trek Lower Decks animation studio Titmouse - looks to be adhering closely to the core murder-and-deduction premise of its video game source material.\r\n\n\r\nThe show's official longline reads, \"Members of your crew have been replaced by an alien shapeshifter intent on causing confusion, sabotaging the ship, and killing everyone. Root out the 'Impostor' or fall victim to its murderous designs.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/among-us-sci-fi-social-deduction-is-getting-the-animated-adaptation-treatment",
-          "publishedOn": "2023-06-27T18:46:59.000Z",
-          "wordCount": 6133,
-          "title": "Among Us' sci-fi social deduction is getting an animated adaptation",
-          "imageUrl": "https://assetsio.reedpopcdn.com/among-us-is-coming-to-xbox-next-year-1608287434062.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
