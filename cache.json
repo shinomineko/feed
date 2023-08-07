@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html",
+          "author": null,
+          "description": "<p>A bunch of networks, including <a href=\"https://techcrunch.com/2023/07/12/chinese-hackers-us-government-microsoft-email/\">US Government networks</a>, have been hacked by the Chinese. The hackers used forged authentication tokens to access user email, using a <a href=\"https://www.bleepingcomputer.com/news/microsoft/microsoft-still-unsure-how-hackers-stole-azure-ad-signing-key/\">stolen</a> <a href=\"https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/\">Microsoft</a> Azure account consumer signing key. Congress <a href=\"https://www.documentcloud.org/documents/23888590-wyden_letter_to_cisa-doj-ftc_re_2023_microsoft_breach\">wants</a> <a href=\"https://www.washingtonpost.com/politics/2023/08/03/congressional-scrutiny-microsoft-hack-picks-up-steam/\">answers</a>. The phrase &#8220;<a href=\"https://arstechnica.com/security/2023/07/us-senator-blasts-microsoft-for-negligent-cybersecurity-practices/\">negligent security practices</a>&#8221; is being tossed about&#8212;and with good reason. Master signing keys are not supposed to be left around, waiting to be stolen.</p>\n<p>Actually, two things went badly wrong here. The first is that Azure accepted an expired signing key, implying a vulnerability in whatever is supposed to check key validity. The second is that this key was supposed to remain in the the system&#8217;s Hardware Security Module&#8212;and not be in software. This implies a really serious breach of good security practice. The fact that Microsoft has not been forthcoming about the details of what happened tell me that the details are really bad...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html",
+          "publishedOn": "2023-08-07T11:03:56.000Z",
+          "wordCount": 1051,
+          "title": "Microsoft Signing Key Stolen by Chinese",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/08/friday-squid-blogging-2023-squid-oil-global-market-report.html",
           "author": null,
           "description": "<p>I had no idea that squid contain sufficient oil to be <a href=\"https://finance.yahoo.com/news/squid-oil-global-market-report-152400818.html\">worth extracting</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -422,6 +432,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1951787",
+          "author": "Kevin Purdy",
+          "description": "\"Reuse\" doesn't get as much attention as the other two Rs, but it's important.",
+          "link": "https://arstechnica.com/?p=1951787",
+          "publishedOn": "2023-08-07T11:00:08.000Z",
+          "wordCount": 1895,
+          "title": "Turning my Framework laptop into a tiny desktop was fun. Now it needs a job.",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/slabtop2-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1959183",
           "author": "Eric Berger",
@@ -3906,6 +3926,56 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/bayonettas-hideki-kamiya-believes-japanese-developers-should-be-proud-of-jrpg-term",
+          "author": "Ed Nightingale",
+          "description": "Hideki Kamiya, creator of Bayonetta and Devil May Cry, believes Japanese developers should be \"proud\" of the term JRPG.\r\n\n\r\nDebate around the term recently resurfaced following comments from Final Fantasy 16 producer Naoki Yoshida in an interview with Skill-Up. Yoshida stated the term \"wasn't a compliment to a lot of developers in Japan\" and was seen as \"discriminatory\".\r\n\n\r\nKamiya, however, is more positive about the term, believing it reflects the \"unique sensitivity\" of Japanese creators in the games they make.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bayonettas-hideki-kamiya-believes-japanese-developers-should-be-proud-of-jrpg-term",
+          "publishedOn": "2023-08-07T11:57:02.000Z",
+          "wordCount": 6982,
+          "title": "Bayonetta's Hideki Kamiya believes Japanese developers should be \"proud\" of JRPG term",
+          "imageUrl": "https://assetsio.reedpopcdn.com/bayonetta-3_i0iupyu.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/mortal-kombat-1-adds-three-returning-characters-to-its-roster",
+          "author": "Ed Nightingale",
+          "description": "A new trailer for Mortal Kombat 1 at Evo 2023 revealed three returning characters joining the roster.\r\n\n\r\nA new Kameo was also revealed, alongside another glimpse at the game's story.\r\n\n\r\nCheck out the trailer below: expect plenty of blood, of course.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mortal-kombat-1-adds-three-returning-characters-to-its-roster",
+          "publishedOn": "2023-08-07T11:23:44.000Z",
+          "wordCount": 6654,
+          "title": "Mortal Kombat 1 adds three returning characters to its roster",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Mortal-Kombat-1---Official-Banished-Trailer-3-4-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-tekken-8-character-azucena-is-the-coffee-queen",
+          "author": "Ed Nightingale",
+          "description": "An all-new character will join Tekken 8: Azucena, a Peruvian MMA fighter.\r\n\n\r\nAs announced at Evo 2023, Azucena is known as the \"Coffee Queen\" as she's the latest heir in the Ortiz family line who's entered The King of Iron Fist Tournament to promote their coffee plantation.\r\n\n\r\nAzucena's movement is based on Mixed Martial Arts but with some unconventional twists - she's able to switch to the Liberador stance where she dodges attacks by instinct instead of blocking.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-tekken-8-character-azucena-is-the-coffee-queen",
+          "publishedOn": "2023-08-07T10:49:48.000Z",
+          "wordCount": 6649,
+          "title": "New Tekken 8 character Azucena is the \"Coffee Queen\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/TK8_Azucena_Drama-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/street-fighter-6-reveals-new-character-aki-who-poisons-her-opponents-to-death",
+          "author": "Liv Ngan",
+          "description": "Capcom made two Street Fighter 6 announcements this weekend at Evo 2023.\r\n\nThe first was a reveal for the game's next character to be added, A.K.I., and the second was for an upcoming collaboration with Teenage Mutant Ninja Turtles to promote the latter's new movie.\r\n\nA.K.I. is described as a \"maniacal poison aficionado\", and it's easy to see why from her reveal trailer.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/street-fighter-6-reveals-new-character-aki-who-poisons-her-opponents-to-death",
+          "publishedOn": "2023-08-07T10:30:15.000Z",
+          "wordCount": 6693,
+          "title": "Street Fighter 6 reveals new character A.K.I. who poisons her opponents to death",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Street-Fighter-6---A.K.I.-Teaser-Trailer-0-48-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-16-sales-did-not-meet-high-expectations-says-square-enix-president",
+          "author": "Ed Nightingale",
+          "description": "Sales of Final Fantasy 16 did not meet Square Enix's high expectations, said president Takashi Kiryu.\r\n\n\r\nLast week the company's latest earnings report was released and while net sales increased, operating profit dropped 79 percent from ¥14.4bn to just ¥3.0bn.\r\n\n\r\nDuring a post-earnings call to analysts, Kiryu said the high end of the company's expectations were not met and the slow adoption of the PlayStation 5 was a limiting factor, Bloomberg reports.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-16-sales-did-not-meet-high-expectations-says-square-enix-president",
+          "publishedOn": "2023-08-07T10:23:47.000Z",
+          "wordCount": 6855,
+          "title": "Final Fantasy 16 sales did not meet high expectations, says Square Enix president",
+          "imageUrl": "https://assetsio.reedpopcdn.com/FF16---Clive-extreme-close-up.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/diablo-4s-season-journey-progress-bug-will-be-fixed-in-a-few-days",
           "author": "Vikki Blake",
           "description": "Blizzard boss Mike Ybarra has confirmed that the team hopes to have \"fixed\" the bug that's preventing some Diablo 4 players from progressing and collecting their rewards in the new season by 15th August.\r\n\nAfter tweeting his progress thus far, confirming that he had fully completed Season 1, Ybarra received a reply from a Diablo 4 fan who said: \"Unfortunately some of us cannot do this due [to] a bug\".\r\n\nThe issue sees players stuck at Slayer level because the game won't accept that they've completed the A Boon in the Tide quest no matter how many times they attempt to open the Tortured Gift Helltide chest.\n Read more",
@@ -6944,16 +7014,6 @@
           "wordCount": 6507,
           "title": "Exoprimal's team shooter won't have cross-platform party chat at launch",
           "imageUrl": "https://assetsio.reedpopcdn.com/Capcom-Spotlight-_-3.9.2023-_-US-English-28-22-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nba-2k24-will-feature-console-crossplay-for-the-very-first-time",
-          "author": "Vikki Blake",
-          "description": "For the first time in the 25-year-old basketball franchise's history, NBA 2K24 will feature crossplay across PS5 and Xbox Series X/S when it releases worldwide on 8th September.\r\n\n2K has also revealed that the \"18-time All-Star, five-time NBA Champion, two-time Finals MVP, two-time Olympic Gold Medalist, all-time leading scorer for the Los Angeles Lakers and Naismith Memorial Basketball Hall of Famer\", Kobe Bryant, will be featured as the NBA 2K24 Kobe Bryant Edition and Black Mamba Edition cover athlete. \r\n\nNew features include Bryant's \"Mamba Moments\" mode, which allows you to channel your \"inner-Mamba\" and \"recreate some of Kobe’s most captivating performances and progress through his transcendent journey from a young phenom to one of the greatest players of all time\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/nba-2k24-will-feature-console-crossplay-for-the-very-first-time",
-          "publishedOn": "2023-07-08T20:04:00.000Z",
-          "wordCount": 6237,
-          "title": "NBA 2K24 will feature console crossplay for the very first time",
-          "imageUrl": "https://assetsio.reedpopcdn.com/unnamed_1uOKNoh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
