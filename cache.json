@@ -124,16 +124,6 @@
           "wordCount": 180,
           "title": "Contact Merge",
           "imageUrl": "https://imgs.xkcd.com/comics/contact_merge_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2800/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/down.png\" title=\"It's just that I get nervous about heights.\" alt=\"It's just that I get nervous about heights.\" />",
-          "link": "https://xkcd.com/2800/",
-          "publishedOn": "2023-07-10T00:00:00.000Z",
-          "wordCount": 178,
-          "title": "Down",
-          "imageUrl": "https://imgs.xkcd.com/comics/down_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/08/you-cant-rush-post-quantum-computing-standards.html",
+          "author": null,
+          "description": "<p>I just read <a href=\"https://www.esecurityplanet.com/trends/nist-encryption-standards/\">an article</a> complaining that NIST is taking too long in finalizing its post-quantum-computing cryptography standards.</p>\n<blockquote><p>This process has been going on since 2016, and since that time there has been a huge increase in quantum technology and an equally large increase in quantum understanding and interest. Yet seven years later, we have <a href=\"https://www.esecurityplanet.com/trends/quantum-safe-cryptography-standards/\">only four algorithms</a>, although last week NIST <a href=\"https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates\">announced</a> that a number of other candidates are under consideration, a process that is expected to take &#8220;several years.</p>\n<p>The delay in developing quantum-resistant algorithms is especially troubling given the time it will take to get those products to market. It generally takes four to six years with a new standard for a vendor to develop an ASIC to implement the standard, and it then takes time for the vendor to get the product validated, which seems to be taking a troubling amount of time...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/you-cant-rush-post-quantum-computing-standards.html",
+          "publishedOn": "2023-08-08T11:13:22.000Z",
+          "wordCount": 1318,
+          "title": "You Can’t Rush Post-Quantum-Computing Cryptography Standards",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html",
           "author": null,
@@ -4046,6 +4046,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/playstation-5-cloud-game-streaming-beta-rolling-out-to-ps-plus-premium-members",
+          "author": "Liv Ngan",
+          "description": "Following the announcement of cloud game streaming in June, Sony has started to roll out a beta for the offering to PS Plus Premium subscribers.\r\n\nBack in June, Sony didn't mention when to expect the feature to release, though Sony exec Nick Maguire stated it was in the \"early stages\" of testing.\r\n\nYesterday, users on ResetEra and Reddit began to report they had received invitations to an exclusive beta for PS5 cloud streaming.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-cloud-game-streaming-beta-rolling-out-to-ps-plus-premium-members",
+          "publishedOn": "2023-08-08T10:33:49.000Z",
+          "wordCount": 6454,
+          "title": "PlayStation 5 cloud game streaming beta rolling out to PS Plus Premium members",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ps-plus-logo_NO2qdIS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/dd-rules-make-any-baldurs-gate-3-expansion-difficult-developer-says",
+          "author": "Tom Phillips",
+          "description": "Baldur's Gate 3 developer Larian has explained why the rules of Dungeons and Dragons make any potential expansion to its hit PC role-player \"very hard\" to make. \r\n\n\r\nIndeed, Larian currently has no Baldur's Gate 3 expansion in the works.\r\n\n\r\nSpeaking to PC Gamer, Larian boss Swen Vincke said the rules of D&D - which Baldur's Gate 3 follows closely - mean any continuation of the game would enter potentially tricky territory, with characters at higher levels able to wield game-breaking godlike powers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dd-rules-make-any-baldurs-gate-3-expansion-difficult-developer-says",
+          "publishedOn": "2023-08-08T10:28:03.000Z",
+          "wordCount": 7046,
+          "title": "D&D rules make any Baldur's Gate 3 expansion \"difficult\", developer says",
+          "imageUrl": "https://assetsio.reedpopcdn.com/All-companions-in-Baldur's-Gate-3-and-where-to-find-all-companions-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/heres-everything-devolver-digitals-delayed-showcase-shunted-into-next-year",
           "author": "Matt Wales",
