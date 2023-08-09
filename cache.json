@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/08/using-machine-learning-to-detect-keystrokes.html",
+          "author": null,
+          "description": "<p>Researchers have trained a ML model to <a href=\"https://arxiv.org/pdf/2308.01074.pdf\">detect keystrokes</a> by sound with 95% accuracy.</p>\n<blockquote><p>&#8220;A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards&#8221;</p>\n<p><b>Abstract:</b> With recent developments in deep learning, the ubiquity of microphones and the rise in online services via personal devices, acoustic side channel attacks present a greater threat to keyboards than ever. This paper presents a practical implementation of a state-of-the-art deep learning model in order to classify laptop keystrokes, using a smartphone integrated microphone. When trained on keystrokes recorded by a nearby phone, the classifier achieved an accuracy of 95%, the highest accuracy seen without the use of a language model. When trained on keystrokes recorded using the video-conferencing software Zoom, an accuracy of 93% was achieved, a new best for the medium. Our results prove the practicality of these side channel attacks via off-the-shelf equipment and algorithms. We discuss a series of mitigation methods to protect users against these series of attacks...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/using-machine-learning-to-detect-keystrokes.html",
+          "publishedOn": "2023-08-09T11:08:07.000Z",
+          "wordCount": 972,
+          "title": "Using Machine Learning to Detect Keystrokes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/08/you-cant-rush-post-quantum-computing-standards.html",
           "author": null,
           "description": "<p>I just read <a href=\"https://www.esecurityplanet.com/trends/nist-encryption-standards/\">an article</a> complaining that NIST is taking too long in finalizing its post-quantum-computing cryptography standards.</p>\n<blockquote><p>This process has been going on since 2016, and since that time there has been a huge increase in quantum technology and an equally large increase in quantum understanding and interest. Yet seven years later, we have <a href=\"https://www.esecurityplanet.com/trends/quantum-safe-cryptography-standards/\">only four algorithms</a>, although last week NIST <a href=\"https://csrc.nist.gov/news/2023/additional-pqc-digital-signature-candidates\">announced</a> that a number of other candidates are under consideration, a process that is expected to take &#8220;several years.</p>\n<p>The delay in developing quantum-resistant algorithms is especially troubling given the time it will take to get those products to market. It generally takes four to six years with a new standard for a vendor to develop an ASIC to implement the standard, and it then takes time for the vendor to get the product validated, which seems to be taking a troubling amount of time...</p></blockquote>",
@@ -4001,66 +4011,6 @@
           "wordCount": 1791,
           "title": "Is distributed computing dying, or just fading into the background?",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/image-1-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952660",
-          "author": "Jonathan M. Gitlin",
-          "description": "The AMG treatment is overkill for this electric vehicle.",
-          "link": "https://arstechnica.com/?p=1952660",
-          "publishedOn": "2023-07-10T22:01:40.000Z",
-          "wordCount": 2065,
-          "title": "We drive a gilded lily: The 2024 Mercedes-AMG EQE SUV",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/2024-Mercedes-AMG-EQE-SUV-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952557",
-          "author": "Benj Edwards",
-          "description": "Dropping waitlist, devs can build the GPT-4 language model into their apps.",
-          "link": "https://arstechnica.com/?p=1952557",
-          "publishedOn": "2023-07-10T19:50:22.000Z",
-          "wordCount": 1693,
-          "title": "OpenAI launches GPT-4 API for everyone",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/gpt4_api_hero_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952424",
-          "author": "Ashley Belanger",
-          "description": "AI models allegedly trained on books copied from popular pirate e-book sites.",
-          "link": "https://arstechnica.com/?p=1952424",
-          "publishedOn": "2023-07-10T19:42:59.000Z",
-          "wordCount": 2132,
-          "title": "Sarah Silverman sues OpenAI, Meta for being “industrial-strength plagiarists”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1475417987-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952561",
-          "author": "Ron Amadeo",
-          "description": "Fairphone proves the usual excuses for ending Android support aren't valid.",
-          "link": "https://arstechnica.com/?p=1952561",
-          "publishedOn": "2023-07-10T19:18:36.000Z",
-          "wordCount": 1750,
-          "title": "Fairphone 3 gets seven years of updates, besting every other Android OEM",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/17-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952442",
-          "author": "Kevin Purdy",
-          "description": "Launched in 2004, the company once sought to be the world's brain dump.",
-          "link": "https://arstechnica.com/?p=1952442",
-          "publishedOn": "2023-07-10T19:07:00.000Z",
-          "wordCount": 2354,
-          "title": "Evernote, the memory app people forgot about, lays off entire US staff",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/evernote_mind_map-1-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952570",
-          "author": "Jon Brodkin",
-          "description": "EU-US data pact approved; privacy advocates to appeal because of US surveillance.",
-          "link": "https://arstechnica.com/?p=1952570",
-          "publishedOn": "2023-07-10T18:43:07.000Z",
-          "wordCount": 2090,
-          "title": "Big Tech can transfer Europeans’ data to US in win for Facebook and Google",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-us-eu-flags-data-760x380.jpg"
         }
       ]
     },
@@ -4146,6 +4096,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/nintendo-patents-links-tears-of-the-kingdom-abilities-and-the-loading-screen",
+          "author": "Ed Nightingale",
+          "description": "Nintendo has patented Link's Ultrahand and Fuse abilities from Zelda: Tears of the Kingdom.\r\n\n\r\nThe company has recently made a number of its registered patents public, including 31 related to the latest Zelda game, Automaton reports.\r\n\n\r\nMany of those patents relate to Link's main suite of abilities, but there are some more general and unusual patents too - including the game's loading screen, for instance.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-patents-links-tears-of-the-kingdom-abilities-and-the-loading-screen",
+          "publishedOn": "2023-08-09T12:20:08.000Z",
+          "wordCount": 6802,
+          "title": "Nintendo patents Link's Tears of the Kingdom abilities, and the loading screen",
+          "imageUrl": "https://assetsio.reedpopcdn.com/The-Legend-of-Zelda_-Tears-of-the-Kingdom-%E2%80%93-Official-Trailer-%232-1-36-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-5-sales-reach-417m",
+          "author": "Tom Phillips",
+          "description": "Sony has now shipped 41.7m PlayStation 5 consoles worldwide, according to the firm's latest financial results. \r\n\n\r\nThat figure is accurate to the end of June this year, and includes 3.3m consoles shifted between April and June - a figure that's up by almost 1m on the same period in 2022.\r\n\n\r\nRevenue from PlayStation's Network Services - essentially, PlayStation Plus subscriptions - is also up. Sony raked in roughly £685k over the past three months, the most of any quarter in the past year.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-sales-reach-417m",
+          "publishedOn": "2023-08-09T11:51:49.000Z",
+          "wordCount": 6517,
+          "title": "PlayStation 5 sales reach 41.7m",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_U5Nt4Po.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/goldeneye-007-switch-update-alters-textures-but-various-other-issues-remain",
+          "author": "Liv Ngan",
+          "description": "Dataminers have noticed updates made to the Nintendo Switch Online version of Goldeneye 007 which have quietly changed the game.\r\n\nFollowing yesterday's announcement that Pokémon TCG and Pokémon Stadium 2 have been added to the Nintendo Switch Online library, an update was rolled out to the N64 app - something which prompted dataminers to take a look at what had been changed.\r\n\nThis is when the differences in Goldeneye 007 were noticed, though dataminer LuigiBlood has also suggested they could have been made during an earlier update to the N64 emulator.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/goldeneye-007-switch-update-alters-textures-but-various-other-issues-remain",
+          "publishedOn": "2023-08-09T11:42:54.000Z",
+          "wordCount": 6730,
+          "title": "Goldeneye 007 Switch update alters textures, but various other issues remain",
+          "imageUrl": "https://assetsio.reedpopcdn.com/GoldenEye-Site.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/street-fighter-6s-extortionate-teenage-mutant-ninja-turtles-items-total-80",
+          "author": "Ed Nightingale",
+          "description": "If you're looking to purchase all of the Teenage Mutant Ninja Turtles items in Street Fighter 6, you'll need to fork out £80.\r\n\n\r\nEarlier this week Capcom announced the crossover - including costumes, stickers, poses and more - which has since gone live, but did not mention the pricing at the time of reporting.\r\n\n\r\nThe items are bought with Fighter Coins, premium in-game currency, that is purchased on the store for real money (though it can also be earned by playing).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/street-fighter-6s-extortionate-teenage-mutant-ninja-turtles-items-total-80",
+          "publishedOn": "2023-08-09T10:55:14.000Z",
+          "wordCount": 6800,
+          "title": "Street Fighter 6's extortionate Teenage Mutant Ninja Turtles items total £80",
+          "imageUrl": "https://assetsio.reedpopcdn.com/tmnt-sf6.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/take-two-ceo-calls-red-dead-redemption-ports-40-price-tag-commercially-accurate",
           "author": "Matt Wales",
@@ -7235,26 +7225,6 @@
           "wordCount": 6325,
           "title": "Final Fantasy 16 is being adapted into a Japanese musical",
           "imageUrl": "https://assetsio.reedpopcdn.com/Yes%2C-You-Can-Pet-the-Torgal_-A-Final-Fantasy-XVI-Panel-at-PAX-East-2023-58-41-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sega-of-america-workers-successfully-vote-to-form-a-union",
-          "author": "Matt Wales",
-          "description": "Sega of America workers have formally voted to unionise, under the name the Allied Employees Guild Improving Sega (AEGIS-CWA), after announcing plans to do so earlier this year.\r\n\n\r\nA \"supermajority\" of 144 employees spread across marketing, localisation, product development, and quality assurance at Sega of America revealed its intention to unionise back in April, with the aim of securing higher base pay, improving benefits, and more.\r\n\n\r\nAt the time, the group confirmed it had contacted the National Labor Relations Board in order to file for an election, to which Sega management were said to be \"investigating and considering the options available\". That election has now taken place, with 91 employees voting yes and 26 voting no out of 200+ eligible employees.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sega-of-america-workers-successfully-vote-to-form-a-union",
-          "publishedOn": "2023-07-10T21:41:13.000Z",
-          "wordCount": 6138,
-          "title": "Sega of America workers successfully vote to form a union",
-          "imageUrl": "https://assetsio.reedpopcdn.com/sega-union-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-and-warzone-2-getting-collab-with-amazons-the-boys",
-          "author": "Matt Wales",
-          "description": "Amazon Prime Video's superhero series The Boys is infiltrating Call of Duty: Modern Warfare 2 and Warzone 2 as part of this week's Season 4 Reloaded update, which launches on 12th July.\r\n\n\r\nCall of Duty's The Boys collaboration was first teased via a telltale bit of graffiti during a Summer Game Fest trailer for Modern Warfare 2's new 6v6 Vondel Waterfront map - also arriving as part of Season 4 Reloaded - but it's now been made official, with Activision confirming three The Boys characters will join the action via new Operator bundles.\r\n\n\r\nStarlight, Homelander (who's also rumoured to be making the jump to NetherRealm's Mortal Kombat 1), and Black Noir are all set to recieve Operator bundles as part of Season 4 Reloaded - arriving on 12th, 16th, and 20th July respectively - each costing 2,400 COD Points.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-2-and-warzone-2-getting-collab-with-amazons-the-boys",
-          "publishedOn": "2023-07-10T20:10:21.000Z",
-          "wordCount": 6336,
-          "title": "Amazon's The Boys coming to Call of Duty: Modern Warfare 2 and Warzone 2",
-          "imageUrl": "https://assetsio.reedpopcdn.com/call-of-duty-the-boys.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
