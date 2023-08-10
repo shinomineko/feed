@@ -124,16 +124,6 @@
           "wordCount": 178,
           "title": "Fireflies",
           "imageUrl": "https://imgs.xkcd.com/comics/fireflies_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2801/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/contact_merge.png\" title=\"I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.\" alt=\"I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.\" />",
-          "link": "https://xkcd.com/2801/",
-          "publishedOn": "2023-07-12T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Contact Merge",
-          "imageUrl": "https://imgs.xkcd.com/comics/contact_merge_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/08/cryptographic-flaw-in-libbitcoin-explorer-cryptocurrency-wallet.html",
+          "author": null,
+          "description": "<p>Cryptographic flaws still matter. Here&#8217;s a <a href=\"https://milksad.info/\">flaw</a> in the random-number generator used to create private keys. The seed has only 32 bits of entropy.</p>\n<p>Seems like this flaw is being exploited in the wild.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/cryptographic-flaw-in-libbitcoin-explorer-cryptocurrency-wallet.html",
+          "publishedOn": "2023-08-10T11:12:46.000Z",
+          "wordCount": 752,
+          "title": "Cryptographic Flaw in Libbitcoin Explorer Cryptocurrency Wallet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/08/using-machine-learning-to-detect-keystrokes.html",
           "author": null,
@@ -3981,106 +3981,6 @@
           "wordCount": 2174,
           "title": "A calculated risk: How ants judge when to commit their bodies to a ladder",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-127324483-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953108",
-          "author": "Stephen Clark",
-          "description": "The Janus asteroid probes will remain on Earth.",
-          "link": "https://arstechnica.com/?p=1953108",
-          "publishedOn": "2023-07-12T00:21:29.000Z",
-          "wordCount": 1925,
-          "title": "NASA decides not to launch two already-built asteroid probes",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Janus_Illustration-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953090",
-          "author": "Beth Mole",
-          "description": "One soldier's horrifying collection of superbugs highlights hidden war.",
-          "link": "https://arstechnica.com/?p=1953090",
-          "publishedOn": "2023-07-11T23:04:11.000Z",
-          "wordCount": 2000,
-          "title": "Ukraine war spurs horrifying rise in extensively drug-resistant bacteria",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1250861215-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952878",
-          "author": "Jennifer Ouellette",
-          "description": "\"War is inevitable. One must destroy in order to create.\"",
-          "link": "https://arstechnica.com/?p=1952878",
-          "publishedOn": "2023-07-11T22:14:14.000Z",
-          "wordCount": 2169,
-          "title": "We get our first good look at Grand Admiral Thrawn in Ahsoka trailer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/ahsoka1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952999",
-          "author": "Andrew Cunningham",
-          "description": "Intel has exited several side-businesses as it tries to stop losing money.",
-          "link": "https://arstechnica.com/?p=1952999",
-          "publishedOn": "2023-07-11T20:51:19.000Z",
-          "wordCount": 1879,
-          "title": "No more NUC: Intel’s weirdly named mini PCs seem to be going away",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/DSC03747-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952976",
-          "author": "Samuel Axon",
-          "description": "Departure follows layoffs, project cancellations, and other chaos.",
-          "link": "https://arstechnica.com/?p=1952976",
-          "publishedOn": "2023-07-11T20:16:08.000Z",
-          "wordCount": 1824,
-          "title": "Google’s head of AR software quits, citing “unstable commitment and vision”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/44-1-1440x1080-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952993",
-          "author": "Dan Goodin",
-          "description": "Microsoft blocks a new batch of system drivers, but the loophole empowering them remains.",
-          "link": "https://arstechnica.com/?p=1952993",
-          "publishedOn": "2023-07-11T20:07:34.000Z",
-          "wordCount": 1969,
-          "title": "Hackers exploit gaping Windows loophole to give their malware kernel access",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952822",
-          "author": "Benj Edwards",
-          "description": "US and UK users can converse with Claude 2 through the Anthropic website.",
-          "link": "https://arstechnica.com/?p=1952822",
-          "publishedOn": "2023-07-11T19:43:04.000Z",
-          "wordCount": 1913,
-          "title": "New ChatGPT rival, Claude 2, launches for open beta testing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/claude2_hero_4-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952925",
-          "author": "Ashley Belanger",
-          "description": "\"There’s only ONE Twitter,\" Linda Yaccarino tweeted.",
-          "link": "https://arstechnica.com/?p=1952925",
-          "publishedOn": "2023-07-11T19:22:31.000Z",
-          "wordCount": 1800,
-          "title": "Twitter is “tanking” amid Threads’ surging popularity, analysts say",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1513199878-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952844",
-          "author": "Ron Amadeo",
-          "description": "It has a light-up back and last year's flagship SoC.",
-          "link": "https://arstechnica.com/?p=1952844",
-          "publishedOn": "2023-07-11T18:54:12.000Z",
-          "wordCount": 2031,
-          "title": "The Nothing Phone 2 is official, with a US price of $599",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/26-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1952782",
-          "author": "Eric Berger",
-          "description": "Three for NASA, and one each for India, Russia, and Japan.",
-          "link": "https://arstechnica.com/?p=1952782",
-          "publishedOn": "2023-07-11T18:30:05.000Z",
-          "wordCount": 2000,
-          "title": "Here come the Moon landing missions (probably)",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/c3isro-760x380.jpg"
         }
       ]
     },
@@ -4166,6 +4066,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/author-says-tetris-movie-copied-his-book",
+          "author": "Tom Phillips",
+          "description": "The author of a book telling the story of Tetris' creation has launched a lawsuit against the makers of this year's Tetris movie.\r\n\n\r\nDan Ackerman, a writer and video game journalist, published The Tetris Effect: The Game that Hypnotised the World back in 2016. In it, he describes the Cold War-era battle to get Tetris made.\r\n\n\r\nThis year's Tetris film, starring Taron Egerton, retells the same story - which is of course based closely on real-life events. Still, Ackerman has now launched legal proceedings over the movie being \"similar in almost all material aspects\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/author-says-tetris-movie-copied-his-book",
+          "publishedOn": "2023-08-10T11:22:19.000Z",
+          "wordCount": 6341,
+          "title": "Author says Tetris movie copied his book",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Apple_TV_Tetris_key_art_graphic_header_4_1_show_home.jpg.og.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/uncharted-film-team-definitely-looking-to-make-another-says-producer",
+          "author": "Ed Nightingale",
+          "description": "Film producer Charles Roven is \"definitely looking to make another\" Uncharted film adaptation.\r\n\n\r\nIn an interview with The Hollywood Reporter, Roven was asked if there was a desire to continue the film franchise after its impressive box office success.\r\n\n\r\n\"Oh yeah! We had a really good time with that movie,\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/uncharted-film-team-definitely-looking-to-make-another-says-producer",
+          "publishedOn": "2023-08-10T10:54:47.000Z",
+          "wordCount": 6471,
+          "title": "Uncharted film team \"definitely looking to make another\", says producer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/uncharted-film-trailer-shows-tom-holland-swinging-onto-a-pirate-ship-being-carried-by-a-helicopter-1643295109476.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-unveils-official-wiglett-toy",
+          "author": "Tom Phillips",
+          "description": "The official Pokémon Center shop has launched its latest plush toy - and it's for Wiglett, the long, pink-tipped worm-like creature that stands erect at 10-and-a-quarter inches.\r\n\n\r\nWiglett debuted in last year's Pokémon Scarlet and Violet, and quickly became something of a favourite.\r\n\n\r\nThe Pokémon Company releases plush toys of most Pokémon species, though the product photos for Wiglett's design have caught the eye of fans, and are being rapidly shared around social media.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-unveils-official-wiglett-toy",
+          "publishedOn": "2023-08-10T10:46:56.000Z",
+          "wordCount": 6763,
+          "title": "Pokémon unveils official Wiglett toy",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-2_F8T2nHI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-7-ever-crisis-will-release-next-month",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 7 Ever Crisis is set to release on iOS and Android on 7th September.\r\n\n\r\nEver Crisis is the mobile adaptation of the original Final Fantasy 7 announced a few years back. The last we heard was at this year's Summer Games Fest, when its beta test was announced.\r\n\r\n\nPre-registration is open now ahead of the full release.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-7-ever-crisis-will-release-next-month",
+          "publishedOn": "2023-08-10T10:23:15.000Z",
+          "wordCount": 6620,
+          "title": "Final Fantasy 7 Ever Crisis will release next month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/%E3%80%8EFINAL-FANTASY-VII-EVER-CRISIS%E3%80%8F-Winter-2022-Trailer-1-48-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/telltale-buys-erica-developer-flavourworks",
+          "author": "Tom Phillips",
+          "description": "Narrative adventure developer Telltale has snapped up Flavourworks, the UK-based studio behind FMV game Erica.\r\n\n\r\nThis is, of course, the more recently-reborn version of Telltale which sprung back to life at the end of 2018 under new management, after the original Telltale went under.\r\n\n\r\nFlavourworks, meanwhile, remains best known as the developer of Erica, which first launched for PlayStation 4 back in 2019. In the years since it has refocused around mobile, and released the similarly movie-like Hush - Crane, based around the company's smart TouchVideo tech.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/telltale-buys-erica-developer-flavourworks",
+          "publishedOn": "2023-08-10T10:18:30.000Z",
+          "wordCount": 6532,
+          "title": "Telltale buys Erica developer Flavourworks",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_ad7e86110e762d2c0a0ff3c453b293064dafcb66.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/halo-infinite-update-turns-off-personal-ai-chat-and-adds-new-map",
+          "author": "Ed Nightingale",
+          "description": "An update for Halo Infinite has been released including a new map, bug fixes, and switching off Personal AI chatter.\r\n\n\r\nYour Personal AI is there in multiplayer, chatting away with some helpful (and unhelpful) quips. If that's too much for you, it can now be disabled in the audio settings.\r\n\n\r\nThe update also brings a new map, Dredge, available in custom games and matchmaking playlists.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-infinite-update-turns-off-personal-ai-chat-and-adds-new-map",
+          "publishedOn": "2023-08-10T09:59:18.000Z",
+          "wordCount": 6703,
+          "title": "Halo Infinite update turns off Personal AI chat and adds new map",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_139cc855c27fe902e58ba8e7af0aad1aee6ac876.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/papers-please-gets-game-watch-style-demake-to-celebrate-10th-anniversary",
           "author": "Matt Wales",
@@ -7175,46 +7135,6 @@
           "wordCount": 6229,
           "title": "Japan-set Assassin's Creed Codename Red looks like it will launch next year",
           "imageUrl": "https://assetsio.reedpopcdn.com/Assassins_Creed_Nexus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-tv-series-writer-craig-mazin-distances-himself-from-borderlands-movie-script",
-          "author": "Matt Wales",
-          "description": "Craig Mazin, writer and showrunner on HBO's smash hit The Last of Us TV adaptation (and creator of HBO and Sky Atlantic's acclaimed prestige drama Chernobyl), has removed his name from Gearbox's long-in-the-works Borderlands movie amid what appears to be an increasingly tumultuous post-production period for the project.\r\n\n\r\nA Borderlands movie was first announced back in 2015, but it wasn't until five years later, when Gearbox announced Hostel director Eli Roth would be directing from a script by Mazin, that the project finally appeared to be moving forward in earnest.\r\n\n\r\nThings progressed quickly after Roth and Mazin's involvement was confirmed, with a succession of major acting talent - including the likes Cate Blanchett, Jamie Lee Curtis, and Jack Black - all signing up to join the star-studded cast prior to the start of shooting in 2021.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-last-of-us-tv-series-writer-craig-mazin-distances-himself-from-borderlands-movie-script",
-          "publishedOn": "2023-07-11T23:09:43.000Z",
-          "wordCount": 6540,
-          "title": "The Last of Us TV showrunner Craig Mazin distances himself from Borderlands movie script",
-          "imageUrl": "https://assetsio.reedpopcdn.com/hostel-director-eli-roth-is-helming-the-borderlands-movie-1582228885460.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/prince-of-persia-designers-classic-karateka-getting-interactive-documentary-from-atari-50-studio",
-          "author": "Matt Wales",
-          "description": "Digital Eclipse, the studio behind last year's acclaimed Atari 50: The Anniversary Celebration, has announced it's giving a similar \"interactive documentary\" treatment to Prince of Persia designer Jordan Mechner's 1984 classic Karateka later this year on Xbox and PC - as part of a new series of releases, each one focusing on a different seminal game.\r\n\n\r\nThings kick off with The Making of Karateka, a historical delve into Mechner's noted martial arts game that'll combine interviews, video, design documents, audio, and photos to create what the studio is calling the \"deepest, most exhaustive exploration of the making of a single video game that's ever been attempted in a video game itself.\"\r\n\n\r\n\"In The Making of Karateka,\" the studio explains on Xbox Wire, \"you'll meet Jordan Mechner - not the legendary veteran game designer we know today, but the unknown teenage college student who was desperate to break into the video game business. Through excerpts from his college journals, galleries of his design documents, and all-new video interviews, you'll share Jordan’s struggles and triumphs as he creates a video game like no one had ever seen before.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/prince-of-persia-designers-classic-karateka-getting-interactive-documentary-from-atari-50-studio",
-          "publishedOn": "2023-07-11T20:21:13.000Z",
-          "wordCount": 6355,
-          "title": "Prince of Persia designer's classic Karateka getting \"interactive documentary\" from Atari 50 studio",
-          "imageUrl": "https://assetsio.reedpopcdn.com/the-making-of-karateka-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/two-years-later-axiom-verge-2-finally-launches-for-xbox-today",
-          "author": "Matt Wales",
-          "description": "Two years (well, one year and 11 months to be more precise) after its debut on Switch, PlayStation and PC, Axiom Verge 2 - the sequel to developer Thomas Happ's acclaimed retro-styled Metroid-a-like - is finally available for Xbox One and Xbox Series X/S.\r\n\n\r\nAxiom Verge 2 builds on its 2015 predecessor's exploratory action with a quest to \"discover the origins of the Axiom Verge universe\", beginning as new protagonist (and billionaire owner of the Globe 3 conglomerate) Indra heads to Antarctica in search of her daughter.\r\n\n\r\nHere, Indra discovers a portal to an entirely different reality - a ruined Earth-like world infected by parasitic machines - that she'll need to explore and overcome, battling deadly monsters along the way with her melee-focused abilities if she wants to survive.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/two-years-later-axiom-verge-2-finally-launches-for-xbox-today",
-          "publishedOn": "2023-07-11T19:37:28.000Z",
-          "wordCount": 6314,
-          "title": "Two years later, Axiom Verge 2 finally launches for Xbox today",
-          "imageUrl": "https://assetsio.reedpopcdn.com/axiom-verge-2-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/hellboy-web-of-wyrd-debuts-roguelike-action-brawler-gameplay-in-new-trailer",
-          "author": "Matt Wales",
-          "description": "West of Dead studio Upstream Arcade and publisher Good Shepherd Entertainment have given a first proper taste of Hellboy Web of Wyrd's gameplay in a brisk new trailer as the \"roguelite action brawler\" continues its journey toward a release on Xbox, PlayStation, Switch, and PC.\r\n\n\r\nHellboy Web of Wyrd was formally announced last December, teasing an original storyline crafted in collaboration with series creator Mike Mignola, as well as a striking aesthetic designed to evoke the visuals and atmosphere of the comics.\r\n\n\r\nWhile specifics still remain relatively sparse some six months on, we do known it'll take place in The Butterfly House, a strange residence built upon \"occult ley-energies\" whose many doorways lead to a \"terrible and fascinating\" dimension known as The Wyrd.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hellboy-web-of-wyrd-debuts-roguelike-action-brawler-gameplay-in-new-trailer",
-          "publishedOn": "2023-07-11T18:27:05.000Z",
-          "wordCount": 6247,
-          "title": "Hellboy Web of Wyrd debuts \"roguelike action brawler\" gameplay in new trailer",
-          "imageUrl": "https://assetsio.reedpopcdn.com/hellboy-web-of-wyrd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -7502,16 +7422,6 @@
           "wordCount": 1966,
           "title": "Introducing passwordless authentication on GitHub.com",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/07/Product-Engineering-Security.png"
-        },
-        {
-          "id": "https://github.blog/?p=72981",
-          "author": "Ariel Deitcher",
-          "description": "Level up your use of GitHub Projects on the command line and in GitHub Actions with the new project CLI command.",
-          "link": "https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/",
-          "publishedOn": "2023-07-11T21:52:34.000Z",
-          "wordCount": 2088,
-          "title": "GitHub CLI project command is now generally available!",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/07/Open-Source-Engineering@2x.png"
         }
       ]
     },
