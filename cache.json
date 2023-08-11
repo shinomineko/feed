@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/08/the-inability-to-simultaneously-verify-sentience-location-and-identity.html",
+          "author": null,
+          "description": "<p>Really interesting &#8220;systematization of knowledge&#8221; <a href=\"https://arxiv.org/pdf/2308.02202.pdf\">paper</a>:</p>\n<blockquote><p>&#8220;SoK: The Ghost Trilemma&#8221;</p>\n<p><b>Abstract:</b> Trolls, bots, and sybils distort online discourse and compromise the security of networked platforms. User identity is central to the vectors of attack and manipulation employed in these contexts. However it has long seemed that, try as it might, the security community has been unable to stem the rising tide of such problems. We posit the Ghost Trilemma, that there are three key properties of identity&#8212;sentience, location, and uniqueness&#8212;that cannot be simultaneously verified in a fully-decentralized setting. Many fully-decentralized systems&#8212;whether for communication or social coordination&#8212;grapple with this trilemma in some way, perhaps unknowingly. In this Systematization of Knowledge (SoK) paper, we examine the design space, use cases, problems with prior approaches, and possible paths forward. We sketch a proof of this trilemma and outline options for practical, incrementally deployable schemes to achieve an acceptable tradeoff of trust in centralized trust anchors, decentralized operation, and an ability to withstand a range of attacks, while protecting user privacy...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/the-inability-to-simultaneously-verify-sentience-location-and-identity.html",
+          "publishedOn": "2023-08-11T11:08:17.000Z",
+          "wordCount": 906,
+          "title": "The Inability to Simultaneously Verify Sentience, Location, and Identity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/08/cryptographic-flaw-in-libbitcoin-explorer-cryptocurrency-wallet.html",
           "author": null,
           "description": "<p>Cryptographic flaws still matter. Here&#8217;s a <a href=\"https://milksad.info/\">flaw</a> in the random-number generator used to create private keys. The seed has only 32 bits of entropy.</p>\n<p>Seems like this flaw is being exploited in the wild.</p>",
@@ -432,6 +442,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1960015",
+          "author": "Eric Berger",
+          "description": "\"The new Delta class will be designed for much cheaper operations.\"",
+          "link": "https://arstechnica.com/?p=1960015",
+          "publishedOn": "2023-08-11T11:30:30.000Z",
+          "wordCount": 1745,
+          "title": "Virgin Galactic just flew again, but is the company going anywhere?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1233923032-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960059",
+          "author": "Stephen Clark",
+          "description": "What are Blue Origin's 11,000 employees doing?",
+          "link": "https://arstechnica.com/?p=1960059",
+          "publishedOn": "2023-08-11T11:00:37.000Z",
+          "wordCount": 2355,
+          "title": "Rocket Report: Astra layoffs; next SLS core stage needs repairs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/maf_20230311_cs2_esjoinbolt16_orig-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1960296",
           "author": "Stephen Clark",
@@ -3901,96 +3931,6 @@
           "wordCount": 2113,
           "title": "Pixel Fold review: The first foldable that actually feels like a tablet",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/36-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953490",
-          "author": "John Timmer",
-          "description": "No clear implications for life, but some samples could be brought back to Earth.",
-          "link": "https://arstechnica.com/?p=1953490",
-          "publishedOn": "2023-07-12T22:18:43.000Z",
-          "wordCount": 2050,
-          "title": "Rover sampling finds organic molecules in water-altered rocks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/image-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953373",
-          "author": "Kevin Purdy",
-          "description": "Linux gains (or loses), Windows slumps, macOS jumps—it's been quite a year.",
-          "link": "https://arstechnica.com/?p=1953373",
-          "publishedOn": "2023-07-12T21:47:32.000Z",
-          "wordCount": 1919,
-          "title": "Linux could be 3% of global desktops. What happened to Windows?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/image-1-1.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953453",
-          "author": "Stephen Clark",
-          "description": "LandSpace says its test flight lays the foundation for a reusable rocket.",
-          "link": "https://arstechnica.com/?p=1953453",
-          "publishedOn": "2023-07-12T21:17:27.000Z",
-          "wordCount": 2073,
-          "title": "Chinese company wins race for first methane-fueled rocket to orbit",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/zq2-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953394",
-          "author": "Ron Amadeo",
-          "description": "Instead of Internet knowledge, NotebookLM's chatbot is based on a source document.",
-          "link": "https://arstechnica.com/?p=1953394",
-          "publishedOn": "2023-07-12T20:49:06.000Z",
-          "wordCount": 1864,
-          "title": "Google’s language model “NotebookLM” app hits public testing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/google-office-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953325",
-          "author": "Chuong Nguyen",
-          "description": "From Tears of the Kingdom to Ghosts of Tsushima.",
-          "link": "https://arstechnica.com/?p=1953325",
-          "publishedOn": "2023-07-12T20:40:06.000Z",
-          "wordCount": 2091,
-          "title": "These are the last Prime Day deals on Switch, Xbox, and PlayStation games",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/nintendo-switch-3061237_960_720-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953412",
-          "author": "Ashley Belanger",
-          "description": "One tax preparer said the scandal likely impacts every user of its services.",
-          "link": "https://arstechnica.com/?p=1953412",
-          "publishedOn": "2023-07-12T20:36:01.000Z",
-          "wordCount": 2068,
-          "title": "Tax preparers that shared private data with Meta, Google could be fined billions",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-174879501-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953297",
-          "author": "Benj Edwards",
-          "description": "xAI will feature veterans from DeepMind, Google, Microsoft, and Tesla.",
-          "link": "https://arstechnica.com/?p=1953297",
-          "publishedOn": "2023-07-12T19:20:49.000Z",
-          "wordCount": 1772,
-          "title": "Musk announces new AI company that seeks to “understand the universe”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/musk_speaking-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953250",
-          "author": "Chuong Nguyen",
-          "description": "Get it while it's still hot: These Prime Day bestsellers won't last long.",
-          "link": "https://arstechnica.com/?p=1953250",
-          "publishedOn": "2023-07-12T18:45:18.000Z",
-          "wordCount": 2144,
-          "title": "Bestselling Prime Day deals that are still in stock, according to Amazon",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/prime-day-image-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953240",
-          "author": "WIRED",
-          "description": "Roger Thomas Clark, aka Variety Jones, helped build the world’s first dark-web drug market.",
-          "link": "https://arstechnica.com/?p=1953240",
-          "publishedOn": "2023-07-12T18:31:48.000Z",
-          "wordCount": 2065,
-          "title": "Silk Road’s second-in-command gets 20 years in prison",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1230250968-760x380.jpg"
         }
       ]
     },
@@ -4076,6 +4016,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/10-baldurs-gate-3-mods-to-make-or-break-combat",
+          "author": "Ed Nightingale",
+          "description": "It's been a week since Baldur's Gate 3 released in full on PC and already there are a whole host of mods available, aimed at both aiding combat and character development - or potentially breaking the game.\r\n\n\r\nAs a newbie to both Baldur's Gate 3 and D&D, I've found the game a little impenetrable so far (but still enjoyable!) and combat is certainly tricky. So, I won't lie, I've been eyeing up some mods to help out.\r\n\n\r\nSo, here are ten mods to help out in Baldur's Gate 3 - available now on NexusMods. Just beware, they may end up ruining the balance.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/10-baldurs-gate-3-mods-to-make-or-break-combat",
+          "publishedOn": "2023-08-11T11:54:20.000Z",
+          "wordCount": 7353,
+          "title": "10 Baldur's Gate 3 mods to make or break combat",
+          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Party.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/roblox-to-begin-holding-job-interviews-within-roblox",
+          "author": "Tom Phillips",
+          "description": "What better way to find out if a prospective candidate has knowledge of your game than to launch a job interview process within the game itself?\r\n\n\r\nMetaverse-y game hub Roblox has now done just this, and launched a virtual company career centre where keen applicants can turn up for event, podcasts and conversations with existing employees. \r\n\n\r\nFor now, the experience is designed for candidates in junior roles, with the idea that it will appeal to those who played Roblox as they were growing up.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/roblox-to-begin-holding-job-interviews-within-roblox",
+          "publishedOn": "2023-08-11T10:19:26.000Z",
+          "wordCount": 6690,
+          "title": "Roblox to begin holding job interviews within Roblox",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Adobe_Premiere_Pro_cYAFc0NrZY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/baldurs-gate-3-narrators-outtakes-are-gloriously-unhinged",
+          "author": "Ed Nightingale",
+          "description": "Baldur's Gate 3 features some fantastic companion characters, all wonderfully voiced throughout the game. It really adds to its immersion.\r\n\n\r\nBut perhaps the most underrated character is the narrator, acting as the DM and narrating the story with typical second-person phrasing. Far from a blank narration, there's plenty of personality in the delivery.\r\n\n\r\nThat's thanks to voice actor Amelia Tyler, who's been sharing hilarious outtakes over on her YouTube channel.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3-narrators-outtakes-are-gloriously-unhinged",
+          "publishedOn": "2023-08-11T10:19:14.000Z",
+          "wordCount": 6864,
+          "title": "Baldur's Gate 3 narrator's outtakes are gloriously unhinged",
+          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Astarion.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/lollipop-chainsaw-remake-delayed-to-2024",
+          "author": "Tom Phillips",
+          "description": "The upcoming Lollipop Chainsaw remake has been delayed from 2023 to the summer of 2024.\r\n\n\r\nDeveloper Dragami Games announced the delay today, alongside a fresh name for the project: Lollipop Chainsaw RePop.\r\n\n\r\nDragami blamed the delay on a need to ensure the game reached \"the best possible quality experience\", something which required it to \"extend the development period\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lollipop-chainsaw-remake-delayed-to-2024",
+          "publishedOn": "2023-08-11T09:48:54.000Z",
+          "wordCount": 6522,
+          "title": "Lollipop Chainsaw remake delayed to 2024",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Lollipop-Chainsaw-RePOP-Delay_08-10-23.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/larian-boss-suggests-ignoring-baldurs-gate-3-companions-in-multiplayer",
+          "author": "Ed Nightingale",
+          "description": "Larian boss Swen Vincke has suggested Baldur's Gate 3 players ignore the game's companions when playing multiplayer.\r\n\n\r\nThe hit RPG is playable in four-player co-op, which fills out the party and leaves no room for companions like Lae'zel, Astarion, and Gale and means players could miss out on their unique stories.\r\n\n\r\nVincke, however, has suggested not interacting with companions and saving them instead for solo play.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/larian-boss-suggests-ignoring-baldurs-gate-3-companions-in-multiplayer",
+          "publishedOn": "2023-08-11T09:33:35.000Z",
+          "wordCount": 6977,
+          "title": "Larian boss suggests ignoring Baldur's Gate 3 companions in multiplayer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/All-companions-in-Baldur's-Gate-3-and-where-to-find-all-companions-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/darkwood-dev-announces-5-10-years-hiatus-just-months-after-revealing-new-game",
           "author": "Matt Wales",
@@ -7075,36 +7065,6 @@
           "wordCount": 6229,
           "title": "Final Fantasy creator debunks myth of series' name",
           "imageUrl": "https://assetsio.reedpopcdn.com/ff1-artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/test-drive-unlimited-solar-crown-has-been-delayed-again-now-arriving-early-2024",
-          "author": "Matt Wales",
-          "description": "Test Drive Unlimited: Solar Crown, the latest instalment in the open-world racing series, has been delayed again, and is now due to arrive on Xbox Series X/S, PlayStation 5, PC, and Switch in \"early 2024\". In better news, its long-promised closed beta begins later this month.\r\n\n\r\nSolar Crown - which ambitiously promises a full digital recreation of Hong Kong Island and its 550km of roads to recklessly careern around - got its official unveiling back in 2020, and was originally expected to launch across all platforms in September last year.\r\n\n\r\nHowever, as May 2022 rolled around, publisher Nacon announced it was shifting Solar Crown's release back to some undisclosed point in 2023, and confirmed it was ceasing development of the previously announced PS4 and Xbox One versions \"with the aim of making the most of the technology in the latest consoles and maximising the overall quality of the game\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/test-drive-unlimited-solar-crown-has-been-delayed-again-now-arriving-early-2024",
-          "publishedOn": "2023-07-12T21:36:22.000Z",
-          "wordCount": 6356,
-          "title": "Test Drive Unlimited: Solar Crown delayed again, now due \"early 2024\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/test-drive-unlimited-solar-crown-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/hbos-the-last-of-us-live-action-tv-adaptation-has-been-nominated-for-24-emmys",
-          "author": "Matt Wales",
-          "description": "HBO's barnstorming live-action television adaptation of Naughty Dog's The Last of Us is gearing up for what could well be a very successful awards season, with the show now confirmed to have been nominated for a total of 24 Emmys.\r\n\n\r\nThe Last of Us is in the running to win Emmy awards across a whole sweep of categories, including best drama series, best directing in a drama series (for Peter Hoar's work on the show's standout third episode Long, Long Time), best writing for a drama series, outstanding production design for a narrative contemporary program, outstanding contemporary costumes for a series, and outstanding casting for a drama series.\r\n\n\r\nAnd speaking of casting, The Last of Us' talented acting ensemble is also up for a range of awards, with Pedro Pascal nominated for best lead actor in a drama series as Joel and Bella Ramsey nominated for best lead actress in a drama series as Ellie.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hbos-the-last-of-us-live-action-tv-adaptation-has-been-nominated-for-24-emmys",
-          "publishedOn": "2023-07-12T19:39:58.000Z",
-          "wordCount": 6554,
-          "title": "HBO's The Last of Us TV adaptation has been nominated for 24 Emmys",
-          "imageUrl": "https://assetsio.reedpopcdn.com/the-anarchists-s01-ka-1920.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/roblox-is-coming-to-meta-quest-vr-headsets-soon",
-          "author": "Matt Wales",
-          "description": "Controversial game platform Roblox is adding support for Meta Quest VR headsets.\r\n\n\r\nReports that Roblox was coming to Meta Quest first surfaced earlier this year, when sources told The Verge the move would likely happen toward the end of 2023. It now seems those estimates were a little off; today's confirmation of incoming Meta Quest support doesn't provide an exact launch date, but it does reveal an open beta will be added to Meta Quest's App Lab \"soon\".\r\n\n\r\nIn an official announcement on the Roblox developer forum, the company explained, \"Traditionally, developing a VR experience required a team that had VR-specific experience and skills. With Roblox, developers will soon be able to publish their existing experiences to support VR with little to no additional coding effort required. This is because Roblox is designed to be universal, allowing the same experiences to run everywhere.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/roblox-is-coming-to-meta-quest-vr-headsets-soon",
-          "publishedOn": "2023-07-12T18:27:32.000Z",
-          "wordCount": 6423,
-          "title": "Roblox is coming to Meta Quest VR headsets \"soon\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/-1639480384520_bqFdpPw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -7352,26 +7312,6 @@
           "wordCount": 3323,
           "title": "Moving from a product to a service mindset",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/04/1200.630-Community.png"
-        },
-        {
-          "id": "https://github.blog/?p=73052",
-          "author": "Jakub Oleksy",
-          "description": "In June, we experienced two incidents that resulted in degraded performance across GitHub services.  June 7 16:11 UTC (lasting 2 hours 28 minutes) On June 7 at 16:11 UTC, GitHub started experiencing increasing delays in an internal job queue used to process Git pushes. Our monitoring systems alerted our first responders after 19 minutes. During […]",
-          "link": "https://github.blog/2023-07-12-github-availability-report-june-2023/",
-          "publishedOn": "2023-07-12T20:00:32.000Z",
-          "wordCount": 1385,
-          "title": "GitHub Availability Report: June 2023",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=73068",
-          "author": "Mike Linksvayer",
-          "description": "Have your say to protect open source in the EU.",
-          "link": "https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/",
-          "publishedOn": "2023-07-12T18:36:57.000Z",
-          "wordCount": 2462,
-          "title": "No cyber resilience without open source sustainability",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/07/Policy-Open-Source@2x.png"
         }
       ]
     },
