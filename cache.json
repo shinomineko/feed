@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/08/friday-squid-blogging-niwa-annual-squid-survey.html",
+          "author": null,
+          "description": "<p>Results from the National Institute of Water and Atmospheric Research Limited annual <a href=\"https://niwa.co.nz/news/fascinating-finds-from-niwas-annual-squid-survey\">squid survey</a>:</p>\n<blockquote><p>This year, the team unearthed spectacular large hooked squids, weighing about 15kg and sitting at 2m long, a Taningia&#8212;­which has the largest known light organs in the animal kingdom­&#8212;and a few species that remain very rare in collections worldwide, such as the &#8220;scaled&#8221; squid Lepidoteuthis and the Batoteuthis skolops.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines ...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/friday-squid-blogging-niwa-annual-squid-survey.html",
+          "publishedOn": "2023-08-11T21:09:27.000Z",
+          "wordCount": 1118,
+          "title": "Friday Squid Blogging: NIWA Annual Squid Survey",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/08/the-inability-to-simultaneously-verify-sentience-location-and-identity.html",
           "author": null,
           "description": "<p>Really interesting &#8220;systematization of knowledge&#8221; <a href=\"https://arxiv.org/pdf/2308.02202.pdf\">paper</a>:</p>\n<blockquote><p>&#8220;SoK: The Ghost Trilemma&#8221;</p>\n<p><b>Abstract:</b> Trolls, bots, and sybils distort online discourse and compromise the security of networked platforms. User identity is central to the vectors of attack and manipulation employed in these contexts. However it has long seemed that, try as it might, the security community has been unable to stem the rising tide of such problems. We posit the Ghost Trilemma, that there are three key properties of identity&#8212;sentience, location, and uniqueness&#8212;that cannot be simultaneously verified in a fully-decentralized setting. Many fully-decentralized systems&#8212;whether for communication or social coordination&#8212;grapple with this trilemma in some way, perhaps unknowingly. In this Systematization of Knowledge (SoK) paper, we examine the design space, use cases, problems with prior approaches, and possible paths forward. We sketch a proof of this trilemma and outline options for practical, incrementally deployable schemes to achieve an acceptable tradeoff of trust in centralized trust anchors, decentralized operation, and an ability to withstand a range of attacks, while protecting user privacy...</p></blockquote>",
@@ -434,16 +444,6 @@
           "wordCount": 913,
           "title": "Buying Campaign Contributions as a Hack",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/07/french-police-will-be-able-to-spy-on-people-through-their-cell-phones.html",
-          "author": null,
-          "description": "<p>The French police are getting <a href=\"https://www.lemonde.fr/en/france/article/2023/07/06/france-set-to-allow-police-to-spy-through-phones_6044269_7.html\">new surveillance powers</a>:</p>\n<blockquote><p>French police should be able to spy on suspects by remotely activating the camera, microphone and GPS of their phones and other devices, lawmakers agreed late on Wednesday, July 5.</p>\n<p>[&#8230;]</p>\n<p>Covering laptops, cars and other connected objects as well as phones, the measure would allow the geolocation of suspects in crimes punishable by at least five years&#8217; jail. Devices could also be remotely activated to record sound and images of people suspected of terror offenses, as well as delinquency and organized crime...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/07/french-police-will-be-able-to-spy-on-people-through-their-cell-phones.html",
-          "publishedOn": "2023-07-13T11:20:19.000Z",
-          "wordCount": 961,
-          "title": "French Police Will Be Able to Spy on People through Their Cell Phones",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +452,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1960598",
+          "author": "Beth Mole",
+          "description": "Tenpenny lost her license for refusing to cooperate with a board investigation.",
+          "link": "https://arstechnica.com/?p=1960598",
+          "publishedOn": "2023-08-11T21:52:01.000Z",
+          "wordCount": 2022,
+          "title": "Anti-magnetizing-vaccine doctor loses medical license",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/tenpenny-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960108",
+          "author": "Benj Edwards",
+          "description": "Restrictions don't apply to current OpenAI models, but will affect future versions.",
+          "link": "https://arstechnica.com/?p=1960108",
+          "publishedOn": "2023-08-11T21:22:34.000Z",
+          "wordCount": 2027,
+          "title": "Sites scramble to block ChatGPT web crawler after instructions emerge",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960538",
+          "author": "Dan Goodin",
+          "description": "Exploitation is hard and patches are already out, but the potential risk is great.",
+          "link": "https://arstechnica.com/?p=1960538",
+          "publishedOn": "2023-08-11T20:42:49.000Z",
+          "wordCount": 2374,
+          "title": "Microsoft finds vulnerabilities it says could be used to shut down power plants",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/industrial-control-system-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960540",
+          "author": "Ashley Belanger",
+          "description": "Judge also denied SBF's request to delay jail time.",
+          "link": "https://arstechnica.com/?p=1960540",
+          "publishedOn": "2023-08-11T20:25:41.000Z",
+          "wordCount": 1552,
+          "title": "Sam Bankman-Fried is going to jail",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1258714385-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960461",
+          "author": "Ashley Belanger",
+          "description": "States crack down on doxxing, but there's still no federal law.",
+          "link": "https://arstechnica.com/?p=1960461",
+          "publishedOn": "2023-08-11T19:40:51.000Z",
+          "wordCount": 2188,
+          "title": "Illinois just made it possible to sue people for doxxing attacks",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1134677003-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960446",
+          "author": "Andrew Cunningham",
+          "description": "Vague ToS previously implied that customer data could be used for AI training.",
+          "link": "https://arstechnica.com/?p=1960446",
+          "publishedOn": "2023-08-11T18:49:09.000Z",
+          "wordCount": 1745,
+          "title": "Zoom updates terms of service to clarify that it won’t use your calls to train AI",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/blog-global-email-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1960414",
+          "author": "Stephen Clark",
+          "description": "\"This is how the spacecraft will get mounted onto the interface to the Falcon Heavy.”",
+          "link": "https://arstechnica.com/?p=1960414",
+          "publishedOn": "2023-08-11T18:05:56.000Z",
+          "wordCount": 1779,
+          "title": "Everything is coming together for launch of NASA’s mission to a metal asteroid",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/psyche1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1960136",
           "author": "Beth Mole",
@@ -3981,26 +4051,6 @@
           "wordCount": 1900,
           "title": "A new, thin-lensed telescope design could far surpass James Webb",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/a10b551f6cf6f444921c3290aeb8a13d-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1953562",
-          "author": "Kyle Orland",
-          "description": "But stopping the deal from moving forward still looks like an uphill battle.",
-          "link": "https://arstechnica.com/?p=1953562",
-          "publishedOn": "2023-07-13T12:26:35.000Z",
-          "wordCount": 1930,
-          "title": "FTC appeal in Microsoft/Activision case shows US regulator isn’t giving up yet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2010/06/activision_solider-wrestle.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1949235",
-          "author": "Ron Amadeo",
-          "description": "Google takes foldable software to the next level, and it makes a big difference.",
-          "link": "https://arstechnica.com/?p=1949235",
-          "publishedOn": "2023-07-13T10:45:19.000Z",
-          "wordCount": 2113,
-          "title": "Pixel Fold review: The first foldable that actually feels like a tablet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/36-760x380.jpg"
         }
       ]
     },
@@ -4086,6 +4136,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/milky-way-prince-devs-dark-stylish-summer-adventure-mediterranea-inferno-arrives-this-month",
+          "author": "Matt Wales",
+          "description": "Mediterranea Inferno, the \"mature and treacherous\" summer adventure from Lorenzo Redaelli, the creator of The Milky Way Prince - Vampire star, is coming to Steam on 24th August.\r\n\n\r\nMediterranea Inferno, which is being published by the ever-wonderful Santa Ragione (Saturnalia, MirrorMoon EP), tells the story of three young men in their early 20s who reunite for a sensual summer retreat in southern Italy after some time apart during the isolation of the COVID pandemic, hoping to rekindle their friendship.\r\n\n\r\n\"A lazy afternoon by the pool, a lustful night at the club, or even a morbid visit to the local cemetery,\" explains Mediterranea Inferno's Steam page, \"you'll decide how to spend this summer vacation, but wherever you go, something or someone will be waiting, offering an additional, forbidden trip through the arcane inner spaces of conscience.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/milky-way-prince-devs-dark-stylish-summer-adventure-mediterranea-inferno-arrives-this-month",
+          "publishedOn": "2023-08-11T22:00:40.000Z",
+          "wordCount": 6627,
+          "title": "Milky Way Prince dev's dark, stylish summer adventure Mediterranea Inferno arrives this month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Mediterranea-Inferno-art-crop-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/south-park-snow-day-and-everything-else-from-todays-thq-nordic-digital-showcase",
+          "author": "Matt Wales",
+          "description": "THQ Nordic's annual digital showcase has been and gone for another year, and while there were plenty of familiar faces returning from 2022's outing, it did bring a couple of new reveals. The publisher's South Park game finally got a proper unveiling in the form of Snow Day, for instance, and was followed by announcements for the likes of Titan Quest 2 and Teenage Mutant Ninja Turtles: The Last Ronin. For a full recap of everything shown, do read on.\r\n\nSouth Park: Snow Day!\n\r\nEschewing the cartoon's classic construction paper looks in favour of boring old 3D, South Park: Snow Day is a co-op adventure that sees up to four players - in the roles of Cartman, Stan, Kyle, and Kenny, naturally - enjoying their day away from school by battling through the snow-blanketed South Park streets on a quest to save the world. There's no release date for this one yet (expect to read this a lot as the recap presses on), but it's coming to PC, PlayStation 5, Xbox Series X/S, and Nintendo Switch some time next year.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/south-park-snow-day-and-everything-else-from-todays-thq-nordic-digital-showcase",
+          "publishedOn": "2023-08-11T19:39:32.000Z",
+          "wordCount": 8347,
+          "title": "South Park: Snow Day and everything else from today's THQ Nordic showcase",
+          "imageUrl": "https://assetsio.reedpopcdn.com/south-park-snow-day-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/netflix-quietly-releases-ios-controller-app-so-you-can-play-its-games-on-a-tv",
           "author": "Matt Wales",
@@ -7085,86 +7155,6 @@
           "wordCount": 6337,
           "title": "Nintendo opens pre-orders for Pikmin vases",
           "imageUrl": "https://assetsio.reedpopcdn.com/pikmin-4-vases.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/life-is-strange-studios-action-rpg-banishers-ghosts-of-new-eden-gets-release-date",
-          "author": "Liv Ngan",
-          "description": "Banishers: Ghosts of New Eden, the next game from Life is Strange and Vampyr developer Dontnod, will release on 7th November.\nBanishers was unveiled in December last year, and is a supernatural action RPG which follows the story of ghost-hunters (and lovers) Antea Duarte and Red mac Raith. The pair go to New Eden, a community being haunted by spirits, where Antea becomes a spirit herself. \nToday, Dont Nod has announced a release date along with a new trailer which gives a few more hints about the game's plot. The video below shows the perspective of Charles Davenport, a friend of the protagonists who seems to blame himself for what has happened to them.\n Read more",
-          "link": "https://www.eurogamer.net/life-is-strange-studios-action-rpg-banishers-ghosts-of-new-eden-gets-release-date",
-          "publishedOn": "2023-07-13T12:05:37.000Z",
-          "wordCount": 6199,
-          "title": "Life is Strange studio's action RPG Banishers: Ghosts of New Eden gets release date",
-          "imageUrl": "https://assetsio.reedpopcdn.com/banishers-ghosts-of-new-eden-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bungie-wins-lawsuit-against-destiny-2-player-following-racist-harassment-and-threats-to-employee",
-          "author": "Victoria Kennedy",
-          "description": "Destiny maker Bungie has won a lawsuit against a player who repeatedly harassed, threatened, and doxxed one of its employees. \r\n\n\r\nLast year, one of Bungie's community managers shared artwork by UhMaayyze, who is described as a \"talented Black fan and creator of Destiny 2 fan works\", as a part of Bungie's 'My Destiny 2 Story' series.\r\n\n\r\nFollowing this artwork's appearance, a Destiny 2 player took it upon themselves to begin a campaign of racist, stochastic terrorism against the community manager who highlighted UhMaayyze's work.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bungie-wins-lawsuit-against-destiny-2-player-following-racist-harassment-and-threats-to-employee",
-          "publishedOn": "2023-07-13T11:45:27.000Z",
-          "wordCount": 6654,
-          "title": "Bungie wins lawsuit against Destiny 2 player, following racist harassment and threats to employee",
-          "imageUrl": "https://assetsio.reedpopcdn.com/destiny-2-cayde-6_1596993179.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/twitchs-partner-plus-programme-is-anti-community-say-streamers",
-          "author": "Ed Nightingale",
-          "description": "Twitch recently unveiled its new Partner Plus programme that offers an improved revenue split, but streamers have now described to Eurogamer it as \"anti-community\".\r\n\n\r\nThe programme was announced last month for launch in October, and is set to offer a 70/30 revenue split - higher than the usual 50/50 between streamers and Twitch. However, the criteria for this higher revenue split is very specific, meaning few streamers will likely reach the necessary requirements.\r\n\r\n\n\r\nSpeaking to Eurogamer at TwitchCon Paris, many Twitch Partners criticised the programme and stated its threshold was unattainable.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/twitchs-partner-plus-programme-is-anti-community-say-streamers",
-          "publishedOn": "2023-07-13T11:38:14.000Z",
-          "wordCount": 7258,
-          "title": "Twitch's Partner Plus programme is \"anti-community\", say streamers",
-          "imageUrl": "https://assetsio.reedpopcdn.com/twitch-blog-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/square-enix-thinking-about-final-fantasy-16-dlc-yoshida-says",
-          "author": "Ed Nightingale",
-          "description": "Final Fantasy 16 producer Naoki Yoshida has discussed the possibility of story DLC.\r\n\n\r\nPreviously, Yoshida confirmed the \"one-off\" game was a complete story and DLC to expand its narrative was not in the works, though this could change depending on fan reception.\r\n\r\n\n\r\nNow, in a new interview with GamerBraves, Yoshida noted fan interest in further stories set in Valisthea and said the team was now \"thinking about our options\".\r\n\r\n \nRead more",
-          "link": "https://www.eurogamer.net/square-enix-thinking-about-final-fantasy-16-dlc-yoshida-says",
-          "publishedOn": "2023-07-13T10:50:28.000Z",
-          "wordCount": 6455,
-          "title": "Square Enix \"thinking about\" Final Fantasy 16 DLC, Yoshida says",
-          "imageUrl": "https://assetsio.reedpopcdn.com/IMG_2950_EMi57uu.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/jurassic-park-castlevania-advance-collection-re-releases-announced",
-          "author": "Liv Ngan",
-          "description": "An array of retro classics are getting fresh releases from publisher Limited Run Games, with 20 titles confirmed via a showcase event streamed last night that featured numerous retro classics.\r\n\nHeadlining the showcase were Jurassic Park: Classic Games Collection, which includes the original Jurassic Park NES game and its sequel Jurassic Park 2: The Chaos Continues, plus the Castlevania Advance Collection, which includes Circle of the Moon, Harmony of Dissonance, Aria of Sorrow, and Dracula X.\r\n\nA slew of PS1 titles were announced as well, including platformers Gex and Tomba!, and survival horror point-and-click Clock Tower. This will mark the first time Clock Tower has been officially released outside of Japan.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/jurassic-park-castlevania-advance-collection-re-releases-announced",
-          "publishedOn": "2023-07-13T10:45:41.000Z",
-          "wordCount": 6549,
-          "title": "Jurassic Park, Castlevania Advance Collection re-releases announced",
-          "imageUrl": "https://assetsio.reedpopcdn.com/castlevania-advance-collection-limited-run-games-game-shot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-disappointed-as-ftc-launches-appeal",
-          "author": "Tom Phillips",
-          "description": "Xbox maker Microsoft has said it is \"disappointed\" to see the US Federal Trade Commission (FTC) launch a formal appeal to try and overturn this week's bombshell court decision.\r\n\n\r\nFollowing months of legal wrangling a US judge cleared the way for Microsoft to complete its $68.7bn Activision Blizzard acquisition, after deciding the FTC had not sufficiently proven why it should be blocked. \r\n\n\r\nThe FTC, as had been expected, is now appealing this decision - and has already filed to begin the process as quickly as possible. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-disappointed-as-ftc-launches-appeal",
-          "publishedOn": "2023-07-13T10:26:44.000Z",
-          "wordCount": 6181,
-          "title": "Microsoft \"disappointed\" as FTC launches appeal",
-          "imageUrl": "https://assetsio.reedpopcdn.com/pexels-towfiqu-barbhuiya-8693379.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/activision-blizzard-set-to-leave-stock-exchange-following-court-ruling",
-          "author": "Victoria Kennedy",
-          "description": "Activision Blizzard is set to leave the US stock exchange this weekend. \r\n\n\r\nThis move comes just days after Microsoft won its case against the US Federal Trade Commission (FTC) in its ongoing bid to buy the Call of Duty maker - something the FTC has now said it will appeal.\r\n\n\r\nAmerican based stock exchange Nasdaq announced that another company would join the Nasdaq-100 Index in the coming days, replacing Activision Blizzard in the process. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/activision-blizzard-set-to-leave-stock-exchange-following-court-ruling",
-          "publishedOn": "2023-07-13T10:19:22.000Z",
-          "wordCount": 6218,
-          "title": "Activision Blizzard set to leave stock exchange following court ruling",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ghost-ptc.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-creator-debunks-myth-of-series-name",
-          "author": "Ed Nightingale",
-          "description": "Final Fantasy creator Hironobu Sakaguchi has confirmed the origins of the series' name.\r\n\n\r\nFor years, myths have circulated and fans have speculated, but in a new interview to celebrate the 35th anniversary of the series, Sakaguchi gave a definitive answer.\r\n\n\r\n\"It's not actually all that cool a story,\" he said. \"It was inspired by Fighting Fantasy.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-creator-debunks-myth-of-series-name",
-          "publishedOn": "2023-07-13T10:06:37.000Z",
-          "wordCount": 6229,
-          "title": "Final Fantasy creator debunks myth of series' name",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ff1-artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
