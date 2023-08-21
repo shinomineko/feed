@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T18:23:02.066Z</updated>
+    <updated>2023-08-21T00:30:36.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.28: Improved failure handling for Jobs]]></title>
+        <id>https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update/</id>
+        <link href="https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update/"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Kevin Hannon (G-Research), Michał Woźniak (Google)
+This blog discusses two new features in Kubernetes 1.28 to improve Jobs for batch
+users: Pod replacement policy
+and Backoff limit per index.
+These features continue the effort started by the
+Pod failure policy
+to improve the handling of Pod failures in a Job.
+Pod replacement policy
+By default, when a pod enters a terminating state (e.g. due to preemption or
+eviction), Kubernetes immediately creates a replacement Pod. Therefore, both Pods are running
+at the same time. In API terms, a pod is considered terminating when it has a
+deletionTimestamp and it has a phase Pending or Running.
+The scenario when two Pods are running at a given time is problematic for
+some popular machine learning frameworks, such as
+TensorFlow and JAX, which r…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark and Darker's next battle is with its own cheaters]]></title>
         <id>https://www.eurogamer.net/dark-and-darkers-next-battle-is-with-its-own-cheaters</id>
@@ -8705,80 +8729,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Netflix has a mixed track record when it comes to adapting beloved Japanese anime.]]></summary>
         <author>
             <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Hill: Ascension creators are also working on an "interactive streaming series" for Borderlands]]></title>
-        <id>https://www.eurogamer.net/silent-hill-ascension-creators-are-also-working-on-an-interactive-streaming-series-for-borderlands</id>
-        <link href="https://www.eurogamer.net/silent-hill-ascension-creators-are-also-working-on-an-interactive-streaming-series-for-borderlands"/>
-        <updated>2023-07-22T12:00:30.000Z</updated>
-        <summary type="html"><![CDATA[The team behind the mysterious "interactive streaming series" Silent Hill: Ascension is also working on a similar project for Borderlands.
-
-Borderlands EchoVision Live was announced at San Diego Comic-Con where Genvid Entertainment confirmed it was working on an interactive streaming series that explores the "(mis)adventures of eight unsuspecting tourists who find themselves in peril, marooned on Eden-6 after setting off on an Adventure Safari to follow in the footsteps of Vault Hunters and bask in their glory".
-
-As yet, there's no video or a release date, but a press release reveals that "what's meant to be a three-week vacation turns into a permanent nightmare when the tourists find themselves stranded in the backwater town of Greywater Junction". 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amnesia developer Frictional Games plans to "cut back a bit" on horror games]]></title>
-        <id>https://www.eurogamer.net/amnesia-developer-frictional-games-plans-to-cut-back-a-bit-on-horror-games</id>
-        <link href="https://www.eurogamer.net/amnesia-developer-frictional-games-plans-to-cut-back-a-bit-on-horror-games"/>
-        <updated>2023-07-22T11:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Horror masters Frictional Games have announced plans to "cut back a bit" on horror games "in order to give greater focus on other emotional qualities".
-
-In an interview with 80.lv (thanks, NME), creative director Thomas Grip talked about the studio's next steps after the recent release of the excellent Amnesia: The Bunker, revealing plans to "explore themes outside of making things spooky".
-
-"At Frictional, we work on games holistically. This plays a crucial part in how our games look and feel. While all of our games have been horror in some way, what we really try to do is to get a kind of 'playable immersion'," Grip said. "Horror games naturally are where emotions are front and centre. Games really excel at this. However, we are also exploring themes outside of making things spooky. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-forgotten frozen soil sample offers a warning for the future]]></title>
-        <id>https://arstechnica.com/?p=1955679</id>
-        <link href="https://arstechnica.com/?p=1955679"/>
-        <updated>2023-07-22T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Ancient soil was buried under a mile of ice until excavated during the Cold War.]]></summary>
-        <author>
-            <name>The Conversation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's Mortal Kombat 1's full DLC roster]]></title>
-        <id>https://www.eurogamer.net/heres-mortal-kombat-1s-full-dlc-roster</id>
-        <link href="https://www.eurogamer.net/heres-mortal-kombat-1s-full-dlc-roster"/>
-        <updated>2023-07-22T11:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Mortal Kombat 1's full DLC roster has now been revealed. 
-
-Confirmed to appear in the expanded roster are Ermac, Homelander, Omni Man, Peacemaker, Quan Chi, and Takeda, and you can see them in action in the teaser below:
-
-That's not all, though. NetherRealm Studios also dropped a new story trailer at the same time, too, detailing the Umgadi warrior priestesses, "selected from the first-born daughters of Outworld" who are trained to protect the royal family from infancy". We also get a peek at some of the fighting game's glorious cut-scenes and environments.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armored Core 6: Fires of Rubicon's all-new story trailer is here]]></title>
-        <id>https://www.eurogamer.net/armored-core-6-fires-of-rubicons-all-new-story-trailer-is-here</id>
-        <link href="https://www.eurogamer.net/armored-core-6-fires-of-rubicons-all-new-story-trailer-is-here"/>
-        <updated>2023-07-22T10:48:27.000Z</updated>
-        <summary type="html"><![CDATA[From Software and Bandai Namco have released a new teaser for Armored Core 6: Fires of Rubicon, this time shining a spotlight on the eager-anticipated sequel's story.
-
-The three-minute video shows "the exciting and dangerous world awaiting them" and introduces us to Handler Walter and "the realities of turning a profit on Rubicon 3". You can check it out in the trailer below:
-
-"Watch as Walter's Hounds execute their mission with ruthless tenacity and get a glimpse of the events that will lead up to the beginning of Armored Core 6: Fires of Rubicon," the developer teases. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
