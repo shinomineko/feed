@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/08/friday-squid-blogging-chinas-squid-fishing-ban-ineffective.html",
+          "author": null,
+          "description": "<p>China <a href=\"https://www.theguardian.com/environment/2023/aug/10/china-moratoriums-on-fishing-do-nothing-to-protect-squid\">imposed</a> a &#8220;pilot program banning fishing in parts of the south-west Atlantic Ocean from July to October, and parts of the eastern Pacific Ocean from September to December.&#8221; However, the conservation group Oceana analyzed the data and figured out that the Chinese weren&#8217;t fishing in those areas in those months, anyway.</p>\n<p>&#60;</p>\n<p>blockquote&#62;In the south-west Atlantic moratorium area, Oceana found there had been no fishing conducted by Chinese fleets in the same time period in 2019. Between 1,800 and 8,500 fishing hours were detected in the zone in each of the five years to 2019. In the eastern Pacific zone, China&#8217;s fishing fleet appeared to fish only 38 hours in the year before the ban&#8217;s introduction...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/08/friday-squid-blogging-chinas-squid-fishing-ban-ineffective.html",
+          "publishedOn": "2023-08-25T21:06:48.000Z",
+          "wordCount": 976,
+          "title": "Friday Squid Blogging: China’s Squid Fishing Ban Ineffective",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/08/hacking-food-labeling-laws.html",
           "author": null,
           "description": "<p>This <a href=\"https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/\">article</a> talks about new Mexican laws about food labeling, and the lengths to which food manufacturers are going to ensure that they are not effective. There are the typical high-pressure lobbying tactics and lawsuits. But there&#8217;s also examples of companies hacking the laws:</p>\n<blockquote><p>Companies like Coca-Cola and Kraft Heinz have begun designing their products so that their packages don&#8217;t have a true front or back, but rather two nearly identical labels&#8212;except for the fact that only one side has the required warning. As a result, supermarket clerks often place the products with the warning facing inward, effectively hiding it...</p></blockquote>",
@@ -393,16 +403,6 @@
           "wordCount": 798,
           "title": "Indirect Instruction Injection in Multi-Modal LLMs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/07/fooling-an-ai-article-writer.html",
-          "author": null,
-          "description": "<p><em>World of Warcraft</em> players wrote about a fictional game element, &#8220;Glorbo,&#8221; on a subreddit for the game, trying to entice an AI bot to write an article about it. It <a href=\"https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/\">worked</a>:</p>\n<blockquote><p>And it&#8230;worked. Zleague auto-published a post titled &#8220;World of Warcraft Players Excited For Glorbo’s Introduction.&#8221;</p>\n<p>[&#8230;]</p>\n<p>That is&#8230;all essentially nonsense. The article was left online for a while but has finally been taken down (<a href=\"https://archive.ph/4mOWr\">here’s a mirror, it’s hilarious</a>). All the authors listed as having bylines on the site are fake. It appears this entire thing is run with close to zero oversight...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/07/fooling-an-ai-article-writer.html",
-          "publishedOn": "2023-07-27T11:04:51.000Z",
-          "wordCount": 898,
-          "title": "Fooling an AI Article Writer",
-          "imageUrl": null
         }
       ]
     },
@@ -411,6 +411,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1963225",
+          "author": "Scharon Harding",
+          "description": "Cherry fights mechanical switch copycats with a new, yet familiar, lineup.",
+          "link": "https://arstechnica.com/?p=1963225",
+          "publishedOn": "2023-08-25T22:28:01.000Z",
+          "wordCount": 1861,
+          "title": "Hands-on with Cherry MX2A switches: A lot less wobble, a little more confusion",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IMG-3973-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963387",
+          "author": "Kevin Purdy",
+          "description": "RiiConnect has been offering Wii online services for longer than Nintendo.",
+          "link": "https://arstechnica.com/?p=1963387",
+          "publishedOn": "2023-08-25T21:55:29.000Z",
+          "wordCount": 2008,
+          "title": "Trump’s mug shot was on the Wii News channel, thanks to RiiConnect24 devs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wii-news-trump-mugshot-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963498",
+          "author": "Beth Mole",
+          "description": "\"This is on the shoulders of governments right now.\"",
+          "link": "https://arstechnica.com/?p=1963498",
+          "publishedOn": "2023-08-25T21:36:34.000Z",
+          "wordCount": 2135,
+          "title": "Global COVID monitoring is crashing as BA.2.86 variant raises alarm",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1245605621-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963185",
+          "author": "Benj Edwards",
+          "description": "New \"Code Llama\" coding model is free for research and commercial use.",
+          "link": "https://arstechnica.com/?p=1963185",
+          "publishedOn": "2023-08-25T21:14:35.000Z",
+          "wordCount": 2115,
+          "title": "10X coders beware: Meta’s new AI model boosts coding and debugging for free",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/code_llamas_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963410",
+          "author": "Eric Berger",
+          "description": "SpaceX has not set a public launch target yet for Starship.",
+          "link": "https://arstechnica.com/?p=1963410",
+          "publishedOn": "2023-08-25T20:41:08.000Z",
+          "wordCount": 1920,
+          "title": "SpaceX completes successful hot fire test of its massive Starship rocket",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/spacex-static-fire-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963228",
+          "author": "Jennifer Ouellette",
+          "description": "Ötzi’s ancestors were early Anatolian farmers, not Steppe Herders as previously believed.",
+          "link": "https://arstechnica.com/?p=1963228",
+          "publishedOn": "2023-08-25T20:13:36.000Z",
+          "wordCount": 1831,
+          "title": "New genetic analysis of Ötzi the Iceman yields some surprising findings",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/otziTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963405",
+          "author": "Andrew Cunningham",
+          "description": "Some people have taken \"as much space as you need\" too literally.",
+          "link": "https://arstechnica.com/?p=1963405",
+          "publishedOn": "2023-08-25T19:33:23.000Z",
+          "wordCount": 1658,
+          "title": "Too many users abused unlimited Dropbox plans, so they’re getting limits",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/dropbox-logo-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963314",
+          "author": "Jonathan M. Gitlin",
+          "description": "Highlights include a distinctive 3-cylinder burble and an adjustable torque-split.",
+          "link": "https://arstechnica.com/?p=1963314",
+          "publishedOn": "2023-08-25T17:54:45.000Z",
+          "wordCount": 1840,
+          "title": "Not your average Toyota: The all-wheel drive GR Corolla, reviewed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2023-Toyota-GR-Corolla-1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1963275",
           "author": "Jon Brodkin",
@@ -3770,16 +3850,6 @@
           "wordCount": 1919,
           "title": "Ultra-fast niobium batteries boast 6-min charge for Lotus Elise-based EV",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Nyobolt-EV-at-2023-GFOS-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1956567",
-          "author": "Stephen Clark",
-          "description": "Commercial space industry argues for extension to moratorium on regulations.",
-          "link": "https://arstechnica.com/?p=1956567",
-          "publishedOn": "2023-07-27T11:00:37.000Z",
-          "wordCount": 1991,
-          "title": "A nearly 20-year ban on human spaceflight regulations is set to expire",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1358501579-760x380.jpg"
         }
       ]
     },
@@ -3946,6 +4016,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/phasmophobias-console-release-has-been-delayed-due-to-office-fire-incident",
+          "author": "Matt Wales",
+          "description": "PlayStation 5 and Xbox Series X/S owners eagerly awaiting the previously announced August release of ghost hunting hit Phasmophobia will now have a bit longer to wait; developer Kinetic Games has opted to push launch back to October after a \"recent fire incident\".\r\n\n\r\nPhasmophobia first made waves when it launched into early access on PC back in September 2020, quickly amassing an enthusiastic following after streamers helped propel its spooky investigatory ghost hunting action - which sees players attempting to gather evidence and complete objectives across a variety of haunted locales - up the charts as Halloween struck.\r\n\n\r\nSince then, Kinetic Games has continued to expand and evolve the core co-operative ghost hunting experience with new maps, new equipment, new ghost types, better haunting AI, and, more recently, custom difficulty settings. And with the PC version developing nicely, a console release was confirmed earlier this year, with the studio announcing Phasmophobia would hit PlayStation 5 (including PSVR2) and Xbox Series X/S this August.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/phasmophobias-console-release-has-been-delayed-due-to-office-fire-incident",
+          "publishedOn": "2023-08-25T21:02:29.000Z",
+          "wordCount": 6799,
+          "title": "Phasmophobia's console release delayed to October due to \"fire incident\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_c88170bed9bf8690963323d20e3f9e836cb9aed9.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/hyenas-developers-discuss-segas-claim-its-been-a-challenging-title",
+          "author": "Tom Phillips",
+          "description": "What's happening with Hyenas? Announced a year ago but still without a release date, Creative Assembly's team-based sci-fi extraction shooter was playable publicly this week for the first time at Gamescom in Cologne, following a somewhat eye-opening summation of its status last week from Sega top brass.\r\n\n\r\nI played a brief match of Hyenas on the Gamescom showfloor and found it a bright and breezy shooter with fun PVPVE moments and some promising zero-G sections. But my time with it was too brief to really leave with much of a lasting impression. \r\n\n\r\nIt's good news, then, that Hyenas will soon be available to play more widely, via a Steam beta test you can sign up for now, with access going live on 31st August. It's from that, I think, that people will finally be able to decide for themselves what is working and what is not - and this is Creative Assembly told me it is waiting for as well. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/hyenas-developers-discuss-segas-claim-its-been-a-challenging-title",
+          "publishedOn": "2023-08-25T20:51:23.000Z",
+          "wordCount": 7227,
+          "title": "Hyenas developers discuss Sega's claim it's been a \"challenging title\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/hyenas_Gamescom-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/accclaimed-automation-sim-factorio-is-exploring-space-for-it-first-expansion",
+          "author": "Matt Wales",
+          "description": "A little over three years after acclaimed construction and automation sim Factorio left its lengthy early access with a 1.0 release, developer Wube Software has shared details of its first expansion, Space Age, which will be picking up right where the base game stops.\r\n\n\r\nFactorio, for the uninitiated, casts players as impromptu space industrialists, tasking them with building increasingly elaborate contraptions in a ceaseless grasp for ever-more efficient automation. The ultimate goal is to build a rocket ship enabling you to escape the planet you've crash-landed on, which is the point where Space Age kicks in.\r\n\n\r\nIn a post revealing first concrete details of Factorio's expansion, Wube explained Space Age continues the journey after those rockets have launched, taking players out among the stars where they can \"discover new worlds with unique challenges, exploit their novel resources for advanced technological gains, and manage [their] fleet of interplanetary space platforms.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/accclaimed-automation-sim-factorio-is-exploring-space-for-it-first-expansion",
+          "publishedOn": "2023-08-25T19:25:22.000Z",
+          "wordCount": 7035,
+          "title": "Acclaimed automation sim Factorio is exploring space for its first expansion",
+          "imageUrl": "https://assetsio.reedpopcdn.com/factorio-space-age-expansion-image-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/heres-how-mortal-kombat-1s-single-player-boardgame-invasion-mode-works",
           "author": "Ed Nightingale",
@@ -7045,86 +7145,6 @@
           "wordCount": 7086,
           "title": "Old School RuneScape adds sequel to classic 2005 Desert Treasure quest",
           "imageUrl": "https://assetsio.reedpopcdn.com/Old-School-RuneScape-Desert-Treasure-II-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/blizzard-to-host-another-diablo-4-campfire-chat-covering-patch-111",
-          "author": "Victoria Kennedy",
-          "description": "Blizzard has announced another Campfire Chat, this time to discuss Diablo 4 Patch 1.1.1. \r\n\n\r\nThe upcoming patch's content will include class balance changes - something that has previously caused dismay among the Diablo 4 community - as well as various quality of life updates, and \"more\". \r\n\n\r\nThe chat will be hosted by game director Joe Shely, among others, and will also include a community Q&A session at the end of the stream. This will allow players to field any remaining questions they may have about the game directly to the team.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/blizzard-to-host-another-diablo-4-campfire-chat-covering-patch-111",
-          "publishedOn": "2023-07-27T12:26:11.000Z",
-          "wordCount": 6809,
-          "title": "Blizzard to host another Diablo 4 Campfire Chat covering Patch 1.1.1",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F16FniaX0AMGv3w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-go-like-monster-hunter-now-gets-final-launch-date",
-          "author": "Tom Phillips",
-          "description": "Monster Hunter Now, the next project from Pokémon Go maker Niantic, now has a final release date. \r\n\n\r\nYou'll be able to download and play the real-world smartphone app worldwide from 14th September, Niantic and co-developer Capcom announced today. \r\n\n\r\nIn a video presentation streamed this afternoon on YouTube, we also learned some of the monsters you'll be able to encounter in the game, such as Great Jagras, Kulu-Ya-Ku and Pukei-Pukei.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-go-like-monster-hunter-now-gets-final-launch-date",
-          "publishedOn": "2023-07-27T12:06:30.000Z",
-          "wordCount": 6483,
-          "title": "Pokémon Go-like Monster Hunter Now gets final launch date",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_93joysq.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/mcdonalds-uk-happy-meal-pokemon-card-promotion-begins-in-august",
-          "author": "Tom Phillips",
-          "description": "The annual bunfight over Pokémon trading cards available from McDonald's Happy Meals is about to begin anew.  \r\n\n\r\nThe promotion has began today, 27th July, in some European countries - but it's not available in the UK yet.\r\n\n\r\nAccording to reliable fansite Pokébeach, the cards will finally reach British shores on 23rd August. So mark that date in your diaries to get ahead of the scalpers.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mcdonalds-uk-happy-meal-pokemon-card-promotion-begins-in-august",
-          "publishedOn": "2023-07-27T11:42:44.000Z",
-          "wordCount": 6778,
-          "title": "McDonald's UK Happy Meal Pokémon card promotion begins in August",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Welcome-to-the-Paldea-region!-_-Pok%C3%A9mon-Scarlet-%26-Pok%C3%A9mon-Violet-1-42-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/baldurs-gate-3-romantic-scenes-used-intimacy-coordinators",
-          "author": "Victoria Kennedy",
-          "description": "Baldur's Gate 3 developer Larian hired intimacy coordinators to ensure its actors felt safe and comfortable during romantic scenes.\r\n\n\r\nIn an interview with BBC, actor Devora Wilde - who plays githyanki warrior Lae'zel in the upcoming release - revealed the studio had hired the coordinators, saying she was pleased at this decision. \r\n\n\r\nAn intimacy coordinator or director is \"a choreographer, an advocate for actors, and a liaison between actors and production for scenes that involve nudity / hyper-exposed work, simulated sex acts, and/or intimate physical contact,\" according to idcprofessionals.com. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/baldurs-gate-3-romantic-scenes-used-intimacy-coordinators",
-          "publishedOn": "2023-07-27T11:36:22.000Z",
-          "wordCount": 7016,
-          "title": "Baldur's Gate 3 romantic scenes used intimacy coordinators",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Baldur's-Gate-3-kiss.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/two-classic-game-boy-color-zelda-titles-arrive-on-nintendo-switch-online",
-          "author": "Victoria Kennedy",
-          "description": "Nintendo has expanded its Nintendo Switch Online catalogue with two classic Game Boy Colour Zelda games.\r\n\n\r\nBoth The Legend of Zelda: Oracle of Ages and The Legend of Zelda: Oracle of Seasons are now available for Nintendo Switch Online subscribers. \r\n\nIn Oracle of Ages, our hero Link finds himself on a quest to save the land of Labrynna. To do this, he will have to do a spot of time travel, flitting between the past and the present to manipulate the enviroment around him.\n Read more",
-          "link": "https://www.eurogamer.net/two-classic-game-boy-color-zelda-titles-arrive-on-nintendo-switch-online",
-          "publishedOn": "2023-07-27T09:51:00.000Z",
-          "wordCount": 6642,
-          "title": "Two classic Game Boy Color Zelda titles arrive on Nintendo Switch Online",
-          "imageUrl": "https://assetsio.reedpopcdn.com/the_legend_of_zelda_oracle_of_seasons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflix-castlevania-series-release-date-detailed",
-          "author": "Tom Phillips",
-          "description": "Castlevania: Nocturne, Netflix's upcoming animated series based on Konami's classic franchise, now has a release date. \r\n\n\r\nThe show will premiere via the streaming service on 28th September, Netflix announced, sharing a very brief teaser trailer. \r\n\n\r\nNetflix's take on Castlevania follows Richter Belmont, a character which franchise fans will know well (and who also popped up in Super Smash Bros. Ultimate), alongside fellow fan-favourite Maria Renard during the French Revolution.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/netflix-castlevania-series-release-date-detailed",
-          "publishedOn": "2023-07-27T09:47:04.000Z",
-          "wordCount": 6529,
-          "title": "Netflix Castlevania series release date detailed",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Castlevania_-Nocturne-_-Announcement-_-Netflix-0-13-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-7-remake-plot-hole-officially-explained-by-square-enix",
-          "author": "Ed Nightingale",
-          "description": "Square Enix has officially explained a plot hole in Final Fantasy 7 Remake that may have implications for the forthcoming Rebirth.\r\n\n\r\nThe explanation comes from a tweet from the Japanese Final Fantasy 7 Remake account, which has been translated by Siliconera.\r\n\nSpoilers for Final Fantasy 7 Remake and the original follow.\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-7-remake-plot-hole-officially-explained-by-square-enix",
-          "publishedOn": "2023-07-27T09:46:17.000Z",
-          "wordCount": 6697,
-          "title": "Final Fantasy 7 Remake plot hole officially explained by Square Enix",
-          "imageUrl": "https://assetsio.reedpopcdn.com/FF7REBIRTH_SGF_09.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-plus-august-games-include-dreams",
-          "author": "Tom Phillips",
-          "description": "Sony has named its offering of games available to all PlayStation Plus members for the month of August. \r\n\n\r\nThe selection is headlined by Dreams, Sony's own mini-game creation toolkit built by LittleBigPlanet studio Media Molecule, updates for which are now being wound down. \r\n\nDreams becoming available in PlayStation Plus will give you access to Media Molecule's latest game Tren, released inside of Dreams. Sony describes it as \"a nostalgic adventure that puts you in the driving seat of a remarkable toy train\" in a coming-of-age tale meant to reflect the power of play.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-plus-august-games-include-dreams",
-          "publishedOn": "2023-07-27T09:44:41.000Z",
-          "wordCount": 6589,
-          "title": "PlayStation Plus August games include Dreams",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F1-RmE1aYAIoHIs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
