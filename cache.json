@@ -3576,6 +3576,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/08/28/kubernetes-1-28-feature-mixed-version-proxy-alpha/",
+          "author": null,
+          "description": "Author: Richa Banker (Google)\nThis blog describes the mixed version proxy, a new alpha feature in Kubernetes 1.28. The\nmixed version proxy enables an HTTP request for a resource to be served by the correct API server\nin cases where there are multiple API servers at varied versions in a cluster. For example,\nthis is useful during a cluster upgrade, or when you're rolling out the runtime configuration of\nthe cluster's control plane.\nWhat problem does this solve?\nWhen a cluster undergoes an upgrade, the kube-apiservers existing at different versions in that scenario can serve different sets (groups, versions, resources) of built-in resources. A resource request made in this scenario may be served by any of the available apiservers, potentially resulting in the request ending up at an apiserve…",
+          "link": "https://kubernetes.io/blog/2023/08/28/kubernetes-1-28-feature-mixed-version-proxy-alpha/",
+          "publishedOn": "2023-08-28T00:00:00.000Z",
+          "wordCount": 4148,
+          "title": "Blog: Kubernetes 1.28: A New (alpha) Mechanism For Safer Cluster Upgrades",
+          "imageUrl": "/images/blog/2023-08-28-a-new-alpha-mechanism-for-safer-cluster-upgrades/mvp-flow-diagram.svg"
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/08/25/native-sidecar-containers/",
           "author": null,
           "description": "Authors: Todd Neal (AWS), Matthias Bertschy (ARMO), Sergey Kanzhelev (Google), Gunju Kim (NAVER), Shannon Kularathna (Google)\nThis post explains how to use the new sidecar feature, which enables restartable init containers and is available in alpha in Kubernetes 1.28. We want your feedback so that we can graduate this feature as soon as possible.\nThe concept of a “sidecar” has been part of Kubernetes since nearly the very beginning. In 2015, sidecars were described in a blog post about composite containers as additional containers that “extend and enhance the ‘main’ container”. Sidecar containers have become a common Kubernetes deployment pattern and are often used for network proxies or as part of a logging system. Until now, sidecars were a concept that Kubernetes users applied without n…",
@@ -6725,36 +6735,6 @@
           "wordCount": 6806,
           "title": "Final Fantasy 14 patch 6.5 due early October, called Growing Light",
           "imageUrl": "https://assetsio.reedpopcdn.com/FFXIV_PUB_FANFESTIVAL_2023_in_LAS_VEGAS_06_png_jpgcopy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/remnant-2-doubles-the-steam-concurrent-user-record-of-its-predecessor",
-          "author": "Vikki Blake",
-          "description": "Shooter sequel Remnant 2 has doubled the Steam concurrent player record of its predecessor, securing over 109,000 simultaneous players earlier today.\r\n\nThat may not sound impressive given PUBG: Battlegrounds holds the top spot with 3.2 million concurrent users – dwarfing that of second place CS:GO's 1.8m peak – but it's a considerable achievement, eclipsing the top concurrent Steam totals for games like Resident Evil Village (106,000), Battlefield 2042 (105,000), and The Witcher 3: Wild Hunt (103,000).\r\n\nIts predecessor, Remnant, holds a more modest concurrent record of 48,289 players on Steam, according to SteamDB.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/remnant-2-doubles-the-steam-concurrent-user-record-of-its-predecessor",
-          "publishedOn": "2023-07-29T17:56:21.000Z",
-          "wordCount": 6823,
-          "title": "Remnant 2 doubles the Steam concurrent user record of its predecessor",
-          "imageUrl": "https://assetsio.reedpopcdn.com/1_gT29kK8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/tekken-8s-roster-is-partially-leaked-via-its-closed-network-test",
-          "author": "Vikki Blake",
-          "description": "Players using Cheat Engine in Tekken 8's network test have been able to get a sneaky peek at part of Tekken 8's roster.\r\n\nWhilst a number of characters have already been confirmed as returning to the eighth iteration of the fan-favourite fighting game, at least half a dozen names that popped up on Cheat Engine's list are presently unannounced. \r\n\nTekken 8's recent closed network test allowed players to sample five stages and 16 playable characters, including Asuka Kazama, Bryan Fury, Claudio Serafino, Hwoarang, Jin Kazama, Jun Kazama, Leroy Smith, and Nina Williams, and Paul Phoenix, amongst others.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/tekken-8s-roster-is-partially-leaked-via-its-closed-network-test",
-          "publishedOn": "2023-07-29T17:27:35.000Z",
-          "wordCount": 6712,
-          "title": "Tekken 8's roster is partially leaked via its closed network test",
-          "imageUrl": "https://assetsio.reedpopcdn.com/tekken-8-reveal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/diablo-4s-next-patch-will-buff-sorcerers-and-barbarians",
-          "author": "Vikki Blake",
-          "description": "Blizzard has vowed to buff Diablo 4's Sorcerers and Barbarians following a backlash from fans over its latest patch.\r\n\nIn another fireside chat with key members of the development team, the team confirmed that when Patch 1.1.1 rolls out on 8th August, you'll see improved \"effectiveness and fun\" for Sorcerers and Barbarians.\r\n\n\"Our goal is to find a way – and we're working on it right now – for all those different ways of dealing damage to have a lot of parity,\" lead class designer Adam Jackson explained.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/diablo-4s-next-patch-will-buff-sorcerers-and-barbarians",
-          "publishedOn": "2023-07-29T16:02:06.000Z",
-          "wordCount": 6982,
-          "title": "Diablo 4's next patch will buff Sorcerers and Barbarians",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F16FniaX0AMGv3w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
