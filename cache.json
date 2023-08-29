@@ -412,6 +412,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1963971",
+          "author": "Financial Times",
+          "description": "US and its allies struggle to copy Kyiv’s collaborative efforts.",
+          "link": "https://arstechnica.com/?p=1963971",
+          "publishedOn": "2023-08-29T13:18:05.000Z",
+          "wordCount": 2151,
+          "title": "Cybersecurity experts say the west has failed to learn lessons from Ukraine",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/black-hat-uk-list-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1963698",
+          "author": "Eric Berger",
+          "description": "\"I don't think I'll run out of people who are willing to fly the spaceship any time soon.\"",
+          "link": "https://arstechnica.com/?p=1963698",
+          "publishedOn": "2023-08-29T11:30:44.000Z",
+          "wordCount": 2138,
+          "title": "Virgin Galactic’s president explains how VSS Unity is now flying frequently",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/02/Second_Spaceflight_Rocket_Motor_Burn-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1963906",
           "author": "Stephen Clark",
           "description": "This will be the first launch for ULA's Atlas V rocket in nearly 10 months.",
@@ -3706,6 +3726,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/08/29/gateway-api-v0-8/",
+          "author": null,
+          "description": "Authors: Flynn (Buoyant), John Howard (Google), Keith Mattix (Microsoft), Michael Beaumont (Kong), Mike Morris (independent), Rob Scott (Google)\nWe are thrilled to announce the v0.8.0 release of Gateway API! With this\nrelease, Gateway API support for service mesh has reached Experimental\nstatus. We look forward to your feedback!\nWe're especially delighted to announce that Kuma 2.3+, Linkerd 2.14+, and Istio\n1.16+ are all fully-conformant implementations of Gateway API service mesh\nsupport.\nService mesh support in Gateway API\nWhile the initial focus of Gateway API was always ingress (north-south)\ntraffic, it was clear almost from the beginning that the same basic routing\nconcepts should also be applicable to service mesh (east-west) traffic. In\n2022, the Gateway API subproject started the G…",
+          "link": "https://kubernetes.io/blog/2023/08/29/gateway-api-v0-8/",
+          "publishedOn": "2023-08-29T18:00:00.000Z",
+          "wordCount": 4525,
+          "title": "Blog: Gateway API v0.8.0: Introducing Service Mesh Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/08/28/kubernetes-1-28-feature-mixed-version-proxy-alpha/",
           "author": null,
           "description": "Author: Richa Banker (Google)\nThis blog describes the mixed version proxy, a new alpha feature in Kubernetes 1.28. The\nmixed version proxy enables an HTTP request for a resource to be served by the correct API server\nin cases where there are multiple API servers at varied versions in a cluster. For example,\nthis is useful during a cluster upgrade, or when you're rolling out the runtime configuration of\nthe cluster's control plane.\nWhat problem does this solve?\nWhen a cluster undergoes an upgrade, the kube-apiservers existing at different versions in that scenario can serve different sets (groups, versions, resources) of built-in resources. A resource request made in this scenario may be served by any of the available apiservers, potentially resulting in the request ending up at an apiserve…",
@@ -3846,6 +3876,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/moss-developer-polyarc-announces-live-service-multiplayer-vr-game-glassbreakers",
+          "author": "Ed Nightingale",
+          "description": "I don't think I've ever been quite so enamoured by a menu screen. Spinning wheels and pressing buttons to make selections. Picking up figurines with my hands to inspect them closely. Looking down at the dusty library below me from my cosy attic - a library Moss fans will certainly be familiar with.\r\n\n\r\nThat's the power of virtual reality, something developer Polyarc is particularly adept at harnessing. Moss and its sequel remain two of the best adventures playable in VR; now there's Glassbreakers, a game set in the same world but with totally different gameplay.\r\n\n\r\nPolyarc describes the game as a live service 1v1 real-time battler. In practice, it's you against another player online aiming to take control of a hex board using three champions who auto-battle in real time. You strategically manoeuvre your characters across the board to destroy your opponent's tower. It looks a bit like holochess in Star Wars, but with woodland creatures instead of aliens.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/moss-developer-polyarc-announces-live-service-multiplayer-vr-game-glassbreakers",
+          "publishedOn": "2023-08-29T16:00:00.000Z",
+          "wordCount": 6906,
+          "title": "Moss developer Polyarc announces live service multiplayer VR game Glassbreakers",
+          "imageUrl": "https://assetsio.reedpopcdn.com/GlassbreakersScreenshots_Match_12.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/shadow-gambit-the-cursed-crew-developer-announces-closure",
+          "author": "Liv Ngan",
+          "description": "German developer Mimimi Games has announced the studio's closure, which will gradually happen over the coming months.\r\n\nThe announcement comes shortly after the release of real-time strategy stealth game Shadow Gambit: The Cursed Crew two weeks ago. Other games under Mimimi's belt include Shadow Tactics: Blades of the Shogun and Desperados 3.\r\n\nThe statement regarding the studio's closure, attributed to co-founders Dominik Abé and Johannes Roth, was posted on Mimimi's website which, at time of writing, returns a 403 error but can be viewed as a cached version via Google.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/shadow-gambit-the-cursed-crew-developer-announces-closure",
+          "publishedOn": "2023-08-29T14:55:36.000Z",
+          "wordCount": 6927,
+          "title": "Shadow Gambit: The Cursed Crew developer announces closure",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_0d8cafab5d8ccfd54a1d62cd910812d063c169f1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-direct-announced-for-this-week-1",
+          "author": "Tom Phillips",
+          "description": "Nintendo will broadcast a special Nintendo Direct presentation this week focusing entirely on Super Mario Bros. Wonder, its upcoming trippy side-scroller.\r\n\n\r\nTune in this Thursday, 31st August at 3pm UK time for roughly 15 minutes of action from the game, broadcast via YouTube - or hosted right here on Eurogamer. \r\n\n\r\nSuper Mario Bros. Wonder is the first all-new side-scrolling Mario game from Nintendo for a decade, and it looks to shake up the series' formula. Oh, and yes, Mario can turn into an elephant.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-direct-announced-for-this-week-1",
+          "publishedOn": "2023-08-29T14:30:09.000Z",
+          "wordCount": 6545,
+          "title": "Nintendo Direct announced for this week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F4tESRLb0AEKSQ1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-dutys-lara-croft-mixes-classic-and-reboot-tomb-raider-designs",
+          "author": "Victoria Kennedy",
+          "description": "Activision has given us our best look yet at Tomb Raider's Lara Croft in Call of Duty.\r\n\n\r\nThe design has taken most of its inspiration from the 'Classic Lara' look of old, with her dual pistols, tank top and braid all taking pride of place in the promotional shots released so far (see header above, and image below). \nThis version of Lara also wears the necklace from the Tomb Raider reboot games, perhaps giving us a look at how Lara might appear in the series' future, unified timeline. She certainly looks older than the 'Survivor' timeline Lara, who we last saw in 2018's Shadow of the Tomb Raider. \n Read more",
+          "link": "https://www.eurogamer.net/call-of-dutys-lara-croft-mixes-classic-and-reboot-tomb-raider-designs",
+          "publishedOn": "2023-08-29T13:04:52.000Z",
+          "wordCount": 6998,
+          "title": "Call of Duty's Lara Croft mixes classic and reboot Tomb Raider designs",
+          "imageUrl": "https://assetsio.reedpopcdn.com/mwii-s05-reloaded-announcement-018-1693306445978.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/armored-core-6-player-beats-game-with-no-weapons-just-punches",
           "author": "Liv Ngan",
