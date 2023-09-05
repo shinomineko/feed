@@ -124,16 +124,6 @@
           "wordCount": 182,
           "title": "What to Do",
           "imageUrl": "https://imgs.xkcd.com/comics/what_to_do_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2812/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/solar_panel_placement.png\" title=\"Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.\" alt=\"Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.\" />",
-          "link": "https://xkcd.com/2812/",
-          "publishedOn": "2023-08-07T00:00:00.000Z",
-          "wordCount": 182,
-          "title": "Solar Panel Placement",
-          "imageUrl": "https://imgs.xkcd.com/comics/solar_panel_placement_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/09/inconsistencies-in-the-common-vulnerability-scoring-system-cvss.html",
+          "author": null,
+          "description": "<p>Interesting <a href=\"https://arxiv.org/abs/2308.15259\">research</a>:</p>\n<blockquote><p>Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities</p>\n<p><b>Abstract:</b> The Common Vulnerability Scoring System (CVSS) is a popular method for evaluating the severity of vulnerabilities in vulnerability management. In the evaluation process, a numeric score between 0 and 10 is calculated, 10 being the most severe (critical) value. The goal of CVSS is to provide comparable scores across different evaluators. However, previous works indicate that CVSS might not reach this goal: If a vulnerability is evaluated by several analysts, their scores often differ. This raises the following questions: Are CVSS evaluations consistent? Which factors influence CVSS assessments? We systematically investigate these questions in an online survey with 196 CVSS users. We show that specific CVSS metrics are inconsistently evaluated for widespread vulnerability types, including Top 3 vulnerabilities from the &#8221;2022 CWE Top 25 Most Dangerous Software Weaknesses&#8221; list. In a follow-up survey with 59 participants, we found that for the same vulnerabilities from the main study, 68% of these users gave different severity ratings. Our study reveals that most evaluators are aware of the problematic aspects of CVSS, but they still see CVSS as a useful tool for vulnerability assessment. Finally, we discuss possible reasons for inconsistent evaluations and provide recommendations on improving the consistency of scoring...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/inconsistencies-in-the-common-vulnerability-scoring-system-cvss.html",
+          "publishedOn": "2023-09-05T11:03:00.000Z",
+          "wordCount": 955,
+          "title": "Inconsistencies in the Common Vulnerability Scoring System (CVSS)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/09/friday-squid-blogging-were-genetically-engineering-squid-now.html",
           "author": null,
@@ -3530,16 +3530,6 @@
           "wordCount": 1895,
           "title": "Turning my Framework laptop into a tiny desktop was fun. Now it needs a job.",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/slabtop2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1959183",
-          "author": "Eric Berger",
-          "description": "There were positives and negatives to be taken away from the test firing.",
-          "link": "https://arstechnica.com/?p=1959183",
-          "publishedOn": "2023-08-06T20:55:09.000Z",
-          "wordCount": 2072,
-          "title": "SpaceX conducts a mostly successful test of its Super Heavy booster",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/super-heavy-fire-760x380.jpg"
         }
       ]
     },
@@ -3708,24 +3698,63 @@
       "title": "Alpine Linux News",
       "feedUrl": "https://alpinelinux.org/atom.xml",
       "siteUrl": "https://alpinelinux.org/atom.xml",
-      "articles": [
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.15.10-3.16.7-3.17.5-3.18.3-released.html",
-          "author": null,
-          "description": "Alpine 3.15.10, 3.16.7, 3.17.5 and 3.18.3 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.15.10-3.16.7-3.17.5-3.18.3-released.html",
-          "publishedOn": "2023-08-07T00:00:00.000Z",
-          "wordCount": 91,
-          "title": "Alpine 3.15.10, 3.16.7, 3.17.5 and 3.18.3 released",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Eurogamer.net News Feed",
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/heres-hollow-knight-as-a-3d-game",
+          "author": "Ed Nightingale",
+          "description": "As Hollow Knight fans still (im)patiently wait for news on sequel Silksong, one talented community member has taken matters into their own hands.\r\n\n\r\nOn the game's subreddit, Poly Knight shared a video of the Mantis Lords boss fight recreated in full 3D (thanks TheGamer).\r\n\n\r\nIt's a faithful recreation that proves what the 2D Metroidvania might look like as a 3D adventure.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-hollow-knight-as-a-3d-game",
+          "publishedOn": "2023-09-05T10:56:55.000Z",
+          "wordCount": 6609,
+          "title": "Here's Hollow Knight as a 3D game",
+          "imageUrl": "https://assetsio.reedpopcdn.com/I-remade-Hollow-Knight-as-a-3D-Game!-6-33-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-has-an-xbox-series-xs-version-of-minecraft-in-the-works",
+          "author": "Tom Phillips",
+          "description": "A new version of Minecraft for Xbox Series X/S consoles is on the way.\r\n\n\r\nThe currently-unannounced edition has now cropped up via a pair of ratings board listings - first in August via the German USK ratings board, and now in the US via the ESRB.\r\n\n\r\nNeither listing details any new feature headed to these fresh versions of Minecraft, but fans have high hopes that an Xbox Series X/S edition will finally include the game's long-awaited ray-tracing option.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-has-an-xbox-series-xs-version-of-minecraft-in-the-works",
+          "publishedOn": "2023-09-05T10:51:34.000Z",
+          "wordCount": 6660,
+          "title": "Microsoft has an Xbox Series X/S version of Minecraft in the works",
+          "imageUrl": "https://assetsio.reedpopcdn.com/XboxSeriesXTech_Inline5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/armored-core-6-modder-creates-easy-mode",
+          "author": "Ed Nightingale",
+          "description": "Armored Core 6 now has an easy mode, thanks to a modder.\r\n\n\r\nFromSoftware's latest mech battler is a notoriously tricky game to get to grips with, especially its bosses.\r\n\n\r\nYet thanks to modder Vawser and their EZ-Core mod on NexusMods, the game is a breeze (spotted by TheGamer).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/armored-core-6-modder-creates-easy-mode",
+          "publishedOn": "2023-09-05T10:18:06.000Z",
+          "wordCount": 6859,
+          "title": "Armored Core 6 modder creates easy mode",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ARMORED-CORE-VI_18_4K.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/charles-martinet-still-doesnt-actually-know-what-a-mario-ambassador-is",
+          "author": "Victoria Kennedy",
+          "description": "Mario Ambassador Charles Martinet is still unsure what his new role actually entails.\r\n\n\r\nLast month, Nintendo announced that Martinet, the exuberant voice of Mario, will no longer be the English voice actor behind Nintendo's most recognisable mascot, after almost 30 years in the job.\r\n\n\r\nInstead, it was announced, Martinet will now take on the role of a Mario Ambassador for the company. Nintendo said this new position will see the actor continuing to \"travel the world sharing the joy of Mario and interacting with you all!\" Other than that, it did not go into specifics on the job's actual requirements.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/charles-martinet-still-doesnt-actually-know-what-a-mario-ambassador-is",
+          "publishedOn": "2023-09-05T10:09:14.000Z",
+          "wordCount": 6870,
+          "title": "Charles Martinet still doesn't actually know what a Mario Ambassador is",
+          "imageUrl": "https://assetsio.reedpopcdn.com/mario-wedding-suit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sea-of-stars-developer-sabotage-working-on-dlc",
+          "author": "Ed Nightingale",
+          "description": "It looks like Sabotage Studio is working on DLC for its retro RPG Sea of Stars.\r\n\n\r\nThe company's CEO Thierry Boulanger was recently interviewed on Canada Radio, where he explained the company is working on another game with the same development process it adopted for previous game The Messenger (thanks Kakuchopurei, GamesRadar).\r\n\n\r\nEssentially that means the main development team will start work on the next game, while a smaller team will remain to work on DLC for Sea of Stars, just as it did with its ninja platformer.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sea-of-stars-developer-sabotage-working-on-dlc",
+          "publishedOn": "2023-09-05T09:45:49.000Z",
+          "wordCount": 6697,
+          "title": "Sea of Stars developer Sabotage working on DLC",
+          "imageUrl": "https://assetsio.reedpopcdn.com/sea-of-stars-keyart.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/patapon-spiritual-successor-ratatan-wraps-up-kickstarter-campaign-with-over-1m-in-funding",
           "author": "Matt Wales",
