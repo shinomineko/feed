@@ -383,16 +383,6 @@
           "wordCount": 1318,
           "title": "You Can’t Rush Post-Quantum-Computing Cryptography Standards",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html",
-          "author": null,
-          "description": "<p>A bunch of networks, including <a href=\"https://techcrunch.com/2023/07/12/chinese-hackers-us-government-microsoft-email/\">US Government networks</a>, have been hacked by the Chinese. The hackers used forged authentication tokens to access user email, using a <a href=\"https://www.bleepingcomputer.com/news/microsoft/microsoft-still-unsure-how-hackers-stole-azure-ad-signing-key/\">stolen</a> <a href=\"https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/\">Microsoft</a> Azure account consumer signing key. Congress <a href=\"https://www.documentcloud.org/documents/23888590-wyden_letter_to_cisa-doj-ftc_re_2023_microsoft_breach\">wants</a> <a href=\"https://www.washingtonpost.com/politics/2023/08/03/congressional-scrutiny-microsoft-hack-picks-up-steam/\">answers</a>. The phrase &#8220;<a href=\"https://arstechnica.com/security/2023/07/us-senator-blasts-microsoft-for-negligent-cybersecurity-practices/\">negligent security practices</a>&#8221; is being tossed about&#8212;and with good reason. Master signing keys are not supposed to be left around, waiting to be stolen.</p>\n<p>Actually, two things went badly wrong here. The first is that Azure accepted an expired signing key, implying a vulnerability in whatever is supposed to check key validity. The second is that this key was supposed to remain in the the system&#8217;s Hardware Security Module&#8212;and not be in software. This implies a really serious breach of good security practice. The fact that Microsoft has not been forthcoming about the details of what happened tell me that the details are really bad...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html",
-          "publishedOn": "2023-08-07T11:03:56.000Z",
-          "wordCount": 1051,
-          "title": "Microsoft Signing Key Stolen by Chinese",
-          "imageUrl": null
         }
       ]
     },
@@ -401,6 +391,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1965629",
+          "author": "Beth Mole",
+          "description": "You are still not a horse, but FDA will go to court over its authority to advise you.",
+          "link": "https://arstechnica.com/?p=1965629",
+          "publishedOn": "2023-09-05T22:54:36.000Z",
+          "wordCount": 2041,
+          "title": "Conservative judges revive case on FDA’s “you are not a horse” ivermectin posts",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-1232983095-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965563",
+          "author": "Stephen Clark",
+          "description": "The Pentagon is mum about this test launch from Cape Canaveral.",
+          "link": "https://arstechnica.com/?p=1965563",
+          "publishedOn": "2023-09-05T22:32:43.000Z",
+          "wordCount": 2032,
+          "title": "Here’s what we know about a mysterious launch from Florida this week",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/lrhw1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965440",
+          "author": "Kevin Purdy",
+          "description": "A peek inside the Strong Museum of Play's latest history-focused expansion.",
+          "link": "https://arstechnica.com/?p=1965440",
+          "publishedOn": "2023-09-05T21:00:30.000Z",
+          "wordCount": 1948,
+          "title": "Seeing this Pong chip has me finding excuses to visit Rochester’s Strong Museum",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/High-Score-World-Video-Game-Hall-of-Fame-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965548",
+          "author": "Dan Goodin",
+          "description": "Attackers already had credentials. Now, they just needed to bypass 2FA protections.",
+          "link": "https://arstechnica.com/?p=1965548",
+          "publishedOn": "2023-09-05T20:28:28.000Z",
+          "wordCount": 2012,
+          "title": "4 Okta customers hit by campaign that gave attackers super admin control",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/multi-factor-authentication-mfa-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965538",
+          "author": "Ashley Belanger",
+          "description": "YouTube had the discretion to take down content that harmed users, judge said.",
+          "link": "https://arstechnica.com/?p=1965538",
+          "publishedOn": "2023-09-05T20:08:16.000Z",
+          "wordCount": 1965,
+          "title": "YouTube under no obligation to host anti-vaccine advocate’s videos, court says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1237714593-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965467",
+          "author": "Benj Edwards",
+          "description": "Meanwhile, readers say that some AI-penned articles switch languages halfway through.",
+          "link": "https://arstechnica.com/?p=1965467",
+          "publishedOn": "2023-09-05T19:57:36.000Z",
+          "wordCount": 1842,
+          "title": "“AI took my job, literally”—Gizmodo fires Spanish staff amid switch to AI translator",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965506",
+          "author": "Jon Brodkin",
+          "description": "Nonprofit Museum of Classic Chicago TV fights termination of YouTube channel.",
+          "link": "https://arstechnica.com/?p=1965506",
+          "publishedOn": "2023-09-05T19:45:51.000Z",
+          "wordCount": 2209,
+          "title": "Sony copyright claims for Bewitched spell trouble for group that preserves old TV [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Bewitched-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965508",
+          "author": "Kyle Orland",
+          "description": "But full DLSS3 support is hidden behind a Patreon paywall.",
+          "link": "https://arstechnica.com/?p=1965508",
+          "publishedOn": "2023-09-05T19:22:45.000Z",
+          "wordCount": 1805,
+          "title": "Starfield’s missing Nvidia DLSS support has been added by a free mod",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/starfield-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1965327",
+          "author": "Chuong Nguyen",
+          "description": "From wearables to laptops, there are plenty of savings in this latest Dealmaster.",
+          "link": "https://arstechnica.com/?p=1965327",
+          "publishedOn": "2023-09-05T18:11:52.000Z",
+          "wordCount": 3540,
+          "title": "Dealmaster: Garmin watches, Lenovo ThinkPads, Apple MacBooks, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/Garmin-Venu-2-2S-Ars-Technica-4-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1965314",
           "author": "Jennifer Ouellette",
@@ -3590,16 +3670,6 @@
           "wordCount": 1856,
           "title": "Physicists achieve fusion with net energy gain for second time",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/fusion1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1951787",
-          "author": "Kevin Purdy",
-          "description": "\"Reuse\" doesn't get as much attention as the other two Rs, but it's important.",
-          "link": "https://arstechnica.com/?p=1951787",
-          "publishedOn": "2023-08-07T11:00:08.000Z",
-          "wordCount": 1895,
-          "title": "Turning my Framework laptop into a tiny desktop was fun. Now it needs a job.",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/slabtop2-760x380.jpg"
         }
       ]
     },
@@ -3775,6 +3845,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/baldurs-gate-3s-hotfix-5-brings-a-chattier-minthara-ps5-fixes-and-more",
+          "author": "Matt Wales",
+          "description": "More Baldur's Gate 3 fixes have spilled forth from the depths of developer Larian Studios' ceaseless patch factory, this latest update - officially known as Hotfix #5 - remedying some previously acknowledged Minthara progression issues, as well as bringing a number of improvements specifically targeting the newly released PlayStation 5 version.\r\n\n\r\nStarting with Minthara, Hotfix #5 aims to address some behind-the-scenes weirdness that was blocking certain lines of her dialogue, as well preventing player romances with the character from progressing in Act 3. There'd been some concern in the community, you might recall, that Minthara had been a victim of last-minute content cuts to meet Baldur's Gate 3's shifted deadline - but Larian had instead blamed her silence on a bug, promising an imminent fix, which, now here, should hopefully reinstate all missing Minthara content.\r\n\n\r\n\"This hotfix takes care of a bug that blocked access to some of Minthara’s lines of dialogue, including some hot takes from your companions about your decision to date the ruthless Oath of Vengeance Paladin,\" Larian explains in today's release notes. \"If approval is high enough, your romance with Minthara will progress in Act 3. This unlocks several new dialogues allowing you to explore and deepen the relationship, and discover more details of Minthara's backstory. Alongside many lines of interactive dialogue, many more non-interactive voiced lines are available with Minthara as a romantic partner.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3s-hotfix-5-brings-a-chattier-minthara-ps5-fixes-and-more",
+          "publishedOn": "2023-09-05T23:26:10.000Z",
+          "wordCount": 7107,
+          "title": "Baldur's Gate 3's Hotfix #5 is here with a chattier Minthara, PS5 fixes, and more",
+          "imageUrl": "https://assetsio.reedpopcdn.com/PS_BG3_07_Minthara-scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/codemasters-ea-sports-wrc-gets-november-release-date-and-first-trailer",
+          "author": "Matt Wales",
+          "description": "EA Sports WRC - the officially licensed, Codemasters-developed FIA World Rally Championship game - has been officially unveiled, bringing with it a first gameplay trailer and a release date of 3rd November on PlayStation 5, Xbox Series X/S, and PC.\r\n\n\r\nEA Sports WRC features 18 official FIA World Rally Championship locations across asphalt, gravel, and snow, alongside 78 vehicles, licensed from the likes of  Ford, Toyota, and Hyundai. There are 10 current WRC, WRC2, and Junior WRC vehicles, plus 68 \"iconic\" rally cars covering 60 years of the sport - all making use of a \"dynamic handling system\" promising \"the most realistic off-road experience to date\".\r\n\n\r\nAdditionally, EA and Codemasters are touting EA Sports WRC's Builder featuring - enabling players to construct their own modern-era rally car by selecting from chassis, body shells, and mechanical parts, before diving into the interior, exterior, and livery editors - and there's cross-platform multiplayer support for up to 32 players.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/codemasters-ea-sports-wrc-gets-november-release-date-and-first-trailer",
+          "publishedOn": "2023-09-05T21:35:48.000Z",
+          "wordCount": 6627,
+          "title": "Codemasters' EA Sports WRC gets November release date and first trailer",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ea-sports-wrc-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/xboxs-september-update-brings-discord-streaming-and-voice-reporting-to-all",
+          "author": "Matt Wales",
+          "description": "Xbox's September Update will begin rolling out this week, Microsoft has confirmed, giving all users access to a number of features previously only available to Xbox Insiders - including Xbox voice reporting and the ability to stream Xbox One and Series X/S gameplay directly to Discord.\r\n\n\r\nThose interested in gameplay streaming will first need to link their Discord account to their console, after which they can select the 'Discord' option from 'Parties & chats' via the guide, pick a server, then directly share gameplay after jumping into a voice channel with friends.\r\n\n\r\nXbox voice reporting, meanwhile - another feature that made headlines on its Xbox Insiders debut - enables players to easily capture a 60-second video clip of an in-game voice incident they believe violates Xbox Community Standards then submit it as evidence for review.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/xboxs-september-update-brings-discord-streaming-and-voice-reporting-to-all",
+          "publishedOn": "2023-09-05T20:13:23.000Z",
+          "wordCount": 6671,
+          "title": "Xbox's September Update brings direct Discord streaming and voice chat reporting to all",
+          "imageUrl": "https://assetsio.reedpopcdn.com/01_Stream-from-Xbox-to-Discord_GA_Final-6d882ea95e9776963bdc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/acclaimed-cat-adventure-stray-is-being-turned-into-an-animated-movie",
+          "author": "Matt Wales",
+          "description": "Stray, the much-loved cat adventure from developer BlueTwelve Studio and publisher Annapurna Interactive is being turned into an animated movie by Annapurna's own in-house animation studio - the team behind this year's Nimona.\r\n\n\r\nStray, if you're unfamiliar, launched last summer for PlayStation, Xbox, and PC, depositing players in a dystopian sci-fi metropolis for some exploration, adventure, and a touch of mystery, as its four-legged protagonist searches for a way home.\r\n\n\r\nNews of Stray's animated adaptation comes via Entertainment Weekly, and while specifics are limited at this seemingly early juncture, there's a least a of hint at what Annapurna Animation will be trying to achieve in its own \"respectful\" adaptation.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/acclaimed-cat-adventure-stray-is-being-turned-into-an-animated-movie",
+          "publishedOn": "2023-09-05T18:24:55.000Z",
+          "wordCount": 6532,
+          "title": "Acclaimed cat adventure Stray is being turned into an animated movie",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Stray_mWB3TVX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/payday-3-is-having-a-three-day-technical-open-beta-starting-this-week",
           "author": "Matt Wales",
@@ -6684,56 +6794,6 @@
           "wordCount": 6767,
           "title": "Universal Studios to host a The Last of Us Halloween Horror Nights attraction later this year",
           "imageUrl": "https://assetsio.reedpopcdn.com/the-last-of-us-part-1-pittsburgh-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bayonettas-hideki-kamiya-believes-japanese-developers-should-be-proud-of-jrpg-term",
-          "author": "Ed Nightingale",
-          "description": "Hideki Kamiya, creator of Bayonetta and Devil May Cry, believes Japanese developers should be \"proud\" of the term JRPG.\r\n\n\r\nDebate around the term recently resurfaced following comments from Final Fantasy 16 producer Naoki Yoshida in an interview with Skill-Up. Yoshida stated the term \"wasn't a compliment to a lot of developers in Japan\" and was seen as \"discriminatory\".\r\n\n\r\nKamiya, however, is more positive about the term, believing it reflects the \"unique sensitivity\" of Japanese creators in the games they make.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bayonettas-hideki-kamiya-believes-japanese-developers-should-be-proud-of-jrpg-term",
-          "publishedOn": "2023-08-07T11:57:02.000Z",
-          "wordCount": 6982,
-          "title": "Bayonetta's Hideki Kamiya believes Japanese developers should be \"proud\" of JRPG term",
-          "imageUrl": "https://assetsio.reedpopcdn.com/bayonetta-3_i0iupyu.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/mortal-kombat-1-adds-three-returning-characters-to-its-roster",
-          "author": "Ed Nightingale",
-          "description": "A new trailer for Mortal Kombat 1 at Evo 2023 revealed three returning characters joining the roster.\r\n\n\r\nA new Kameo was also revealed, alongside another glimpse at the game's story.\r\n\n\r\nCheck out the trailer below: expect plenty of blood, of course.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mortal-kombat-1-adds-three-returning-characters-to-its-roster",
-          "publishedOn": "2023-08-07T11:23:44.000Z",
-          "wordCount": 6654,
-          "title": "Mortal Kombat 1 adds three returning characters to its roster",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Mortal-Kombat-1---Official-Banished-Trailer-3-4-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-tekken-8-character-azucena-is-the-coffee-queen",
-          "author": "Ed Nightingale",
-          "description": "An all-new character will join Tekken 8: Azucena, a Peruvian MMA fighter.\r\n\n\r\nAs announced at Evo 2023, Azucena is known as the \"Coffee Queen\" as she's the latest heir in the Ortiz family line who's entered The King of Iron Fist Tournament to promote their coffee plantation.\r\n\n\r\nAzucena's movement is based on Mixed Martial Arts but with some unconventional twists - she's able to switch to the Liberador stance where she dodges attacks by instinct instead of blocking.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-tekken-8-character-azucena-is-the-coffee-queen",
-          "publishedOn": "2023-08-07T10:49:48.000Z",
-          "wordCount": 6649,
-          "title": "New Tekken 8 character Azucena is the \"Coffee Queen\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/TK8_Azucena_Drama-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/street-fighter-6-reveals-new-character-aki-who-poisons-her-opponents-to-death",
-          "author": "Liv Ngan",
-          "description": "Capcom made two Street Fighter 6 announcements this weekend at Evo 2023.\r\n\nThe first was a reveal for the game's next character to be added, A.K.I., and the second was for an upcoming collaboration with Teenage Mutant Ninja Turtles to promote the latter's new movie.\r\n\nA.K.I. is described as a \"maniacal poison aficionado\", and it's easy to see why from her reveal trailer.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/street-fighter-6-reveals-new-character-aki-who-poisons-her-opponents-to-death",
-          "publishedOn": "2023-08-07T10:30:15.000Z",
-          "wordCount": 6693,
-          "title": "Street Fighter 6 reveals new character A.K.I. who poisons her opponents to death",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Street-Fighter-6---A.K.I.-Teaser-Trailer-0-48-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-16-sales-did-not-meet-high-expectations-says-square-enix-president",
-          "author": "Ed Nightingale",
-          "description": "Sales of Final Fantasy 16 did not meet Square Enix's high expectations, said president Takashi Kiryu.\r\n\n\r\nLast week the company's latest earnings report was released and while net sales increased, operating profit dropped 79 percent from ¥14.4bn to just ¥3.0bn.\r\n\n\r\nDuring a post-earnings call to analysts, Kiryu said the high end of the company's expectations were not met and the slow adoption of the PlayStation 5 was a limiting factor, Bloomberg reports.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-16-sales-did-not-meet-high-expectations-says-square-enix-president",
-          "publishedOn": "2023-08-07T10:23:47.000Z",
-          "wordCount": 6855,
-          "title": "Final Fantasy 16 sales did not meet high expectations, says Square Enix president",
-          "imageUrl": "https://assetsio.reedpopcdn.com/FF16---Clive-extreme-close-up.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
