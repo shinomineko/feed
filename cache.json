@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2827/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/brassica.png\" title=\"Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.\" alt=\"Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.\" />",
+          "link": "https://xkcd.com/2827/",
+          "publishedOn": "2023-09-11T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Brassica",
+          "imageUrl": "https://imgs.xkcd.com/comics/brassica_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2826/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/gold.png\" title=\"It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.\" alt=\"It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.\" />",
@@ -391,6 +401,56 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1967187",
+          "author": "Beth Mole",
+          "description": "The fall boosters target XBB.1.5 and have shown effective against current variants.",
+          "link": "https://arstechnica.com/?p=1967187",
+          "publishedOn": "2023-09-11T21:38:45.000Z",
+          "wordCount": 2250,
+          "title": "FDA approves and authorizes updated COVID boosters for everyone 6 months and up",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1967124",
+          "author": "Ron Amadeo",
+          "description": "The do-it-all dock has a faux wood top, making it look like a small table.",
+          "link": "https://arstechnica.com/?p=1967124",
+          "publishedOn": "2023-09-11T21:15:50.000Z",
+          "wordCount": 2210,
+          "title": "Top-end Roomba can now refill itself with water via furniture-sized dock",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/RoombaCombo2_1693594881545-HR-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1967015",
+          "author": "Kevin Purdy",
+          "description": "25 years ago, Apple was cool with firms hacking up kiosk-friendly touch iMacs.",
+          "link": "https://arstechnica.com/?p=1967015",
+          "publishedOn": "2023-09-11T18:41:29.000Z",
+          "wordCount": 1878,
+          "title": "Unearthed touchscreen iMac G3 prototype evokes a very different era of Apple",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/imac_touchscreen-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1967090",
+          "author": "Jonathan M. Gitlin",
+          "description": "It's quick, comfortable, and almost silent. And it fast-charges in 18 minutes.",
+          "link": "https://arstechnica.com/?p=1967090",
+          "publishedOn": "2023-09-11T18:29:26.000Z",
+          "wordCount": 1895,
+          "title": "The Genesis Electrified GV70 is a truly luxurious electric SUV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2023-Genesis-GV70-4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1966985",
+          "author": "Jennifer Ouellette",
+          "description": "German physicists used an ion-exchange microbead as a very tiny \"pen.\"",
+          "link": "https://arstechnica.com/?p=1966985",
+          "publishedOn": "2023-09-11T18:16:05.000Z",
+          "wordCount": 1963,
+          "title": "Scientists figured out how to write in water",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/waterwrite1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1967034",
           "author": "Jon Brodkin",
@@ -3666,6 +3726,16 @@
       "siteUrl": "https://kubernetes.io/",
       "articles": [
         {
+          "id": "https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools/",
+          "author": null,
+          "description": "Author: Eyal Bukchin (MetalBear)\nThe Kubernetes development cycle is an evolving landscape with a myriad of tools seeking to streamline the process. Each tool has its unique approach, and the choice often comes down to individual project requirements, the team's expertise, and the preferred workflow.\nAmong the various solutions, a category we dubbed “Local K8S Development tools” has emerged, which seeks to enhance the Kubernetes development experience by connecting locally running components to the Kubernetes cluster. This facilitates rapid testing of new code in cloud conditions, circumventing the traditional cycle of Dockerization, CI, and deployment.\nIn this post, we compare three solutions in this category: Telepresence, Gefyra, and our own contender, mirrord.\nTelepresence\nThe oldest a…",
+          "link": "https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools/",
+          "publishedOn": "2023-09-12T00:00:00.000Z",
+          "wordCount": 4075,
+          "title": "Blog: Comparing Local Kubernetes Development Tools: Telepresence, Gefyra, and mirrord",
+          "imageUrl": null
+        },
+        {
           "id": "https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/",
           "author": null,
           "description": "Authors: Bob Killen (Google), Chris Short (AWS), Jeremy Rickard (Microsoft), Marko Mudrinić (Kubermatic), Tim Bannister (The Scale Factory)\nOn August 15, 2023, the Kubernetes project announced the general availability of\nthe community-owned package repositories for Debian and RPM packages available\nat pkgs.k8s.io. The new package repositories are replacement for the legacy\nGoogle-hosted package repositories: apt.kubernetes.io and yum.kubernetes.io.\nThe\nannouncement blog post for pkgs.k8s.io\nhighlighted that we will stop publishing packages to the legacy repositories in\nthe future.\nToday, we're formally deprecating the legacy package repositories (apt.kubernetes.io\nand yum.kubernetes.io), and we're announcing our plans to freeze the contents of\nthe repositories as of September 13, 2023.\nPle…",
@@ -3815,6 +3885,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/ubisofts-free-to-play-shooter-xdefiant-delayed-due-to-console-certification-issues",
+          "author": "Matt Wales",
+          "description": "XDefiant, the Tom-Clancy-adjacent free-to-play shooter from Ubisoft, has been delayed out of its previously planned summer window, with the publisher blaming certification issues on Xbox and PlayStation for the game's slip into what's now \"likely\" to be an October release.\r\n\n\r\nXDefiant - a 6v6 mash-up of Splinter Cell, Ghost Recon, and The Division initially announced as Tom Clancy's XDefiant back in 2021 before dropping its prefix - has had a number of closed Insider tests and open sessions throughout its development and was expected to get its full launch for PS5, PS4, Xbox One, Xbox Series X/S, and PC some time this summer.\r\n\n\r\nHowever, writing in a post on Ubisoft's website, XDefiant executive producer Mark Rubin explained the game's continuing lack of a release date can largely be blamed on complication arising during Microsoft and Sony's certification processes for their respective consoles.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisofts-free-to-play-shooter-xdefiant-delayed-due-to-console-certification-issues",
+          "publishedOn": "2023-09-11T23:14:08.000Z",
+          "wordCount": 7136,
+          "title": "Ubisoft's free-to-play shooter XDefiant delayed due to console certification issues",
+          "imageUrl": "https://assetsio.reedpopcdn.com/xdefiant_7yBYVAd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/official-xbox-credit-cards-are-now-a-thing-in-the-us",
+          "author": "Matt Wales",
+          "description": "Last time you got up from playing Xbox in your Xbox-branded onesie to grab yourself some food made with your Xbox-branded cookbook from your Xbox-branded mini-fridge, did you by any chance say to yourself, \"Gee, I really wish I'd been able to buy all this Xbox tat with an Xbox-branded credit card\"? Well, guess what? Anything is possible in this darkest of timelines.\r\n\n\r\nThe official Xbox credit card will soon be a thing, albeit only in the US for the time being, having been conjured into existence through a partnership between Microsoft and Mastercard. It'll initially be available exclusively to Xbox Insiders (it's expected to expand to all US-based Xbox players starting next year) and offers one of those reward-based scheme things, which - and I'm not sure there's a nicer way of putting this - essentially incentivises people to increase their debt, so, you know, please use responsibly and all that.\r\n\n\r\nBasically, everyday purchases made on the card will steadily accrue points that can be spent on games and add-ons via Xbox.com, but an initial purchase using the card will also reward cardholders with 5,000 points (equating to $50 USD), plus three months of Xbox Game Pass Ultimate. Only new members are eligible for that three-month deal, incidentally, but it can be gifted to other people if you're already a Game Pass subscriber yourself.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/official-xbox-credit-cards-are-now-a-thing-in-the-us",
+          "publishedOn": "2023-09-11T21:31:04.000Z",
+          "wordCount": 7002,
+          "title": "Official Xbox credit cards will soon be a thing in the US",
+          "imageUrl": "https://assetsio.reedpopcdn.com/xbox-master-card-image.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/ea-sports-fc-24-top-ratings-revealed-mixes-men-and-women-for-first-time",
           "author": "Tom Phillips",
@@ -6734,26 +6824,6 @@
           "wordCount": 7443,
           "title": "Baldur's Gate 3 PSA: \"Long Rest as often as possible. It will reduce bugs\"",
           "imageUrl": "https://assetsio.reedpopcdn.com/Baldur's-Gate-3---Release-Date-Reveal-Trailer-1-1-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/17-years-later-were-finally-getting-a-titan-quest-sequel",
-          "author": "Vikki Blake",
-          "description": "Epic action-RPG Titan Quest is back for a new generation with a new sequel.\r\n\nPicking up where its 2006's predecessor left off, Titan Quest 2 offers a \"world is full of mysteries and secrets to discover\", boasting an \"exploration-focused campaign\" and a \"challenge fit for a hero\".\r\n\nYou can check out the striking announcement teaser below:\r\n \nRead more",
-          "link": "https://www.eurogamer.net/17-years-later-were-finally-getting-a-titan-quest-sequel",
-          "publishedOn": "2023-08-13T12:11:06.000Z",
-          "wordCount": 6740,
-          "title": "17 years later, we're finally getting a Titan Quest sequel",
-          "imageUrl": "https://assetsio.reedpopcdn.com/screenshot-05.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/players-who-send-silly-threats-to-harada-about-tekken-8s-roster-has-a-bigger-impact-than-you-think",
-          "author": "Vikki Blake",
-          "description": "Tekken 8 director Katsuhiro Harada has spoken up the impact of trolling, revealing that even \"silly threats\" affect \"everyone\" in the fighting game community.\r\n\nIn a lengthy tweet earlier this week, Harada expressed his frustration at some of the messages he receives, appending an image of one which threatened to \"hit [him] with a burning hammer\" if Eddy isn't in Tekken 8.\r\n\n\"When people make these silly threats, I and everyone at FGC suffer the following losses,\" Harada said, and then detailed the impact \"silly\" threats have.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/players-who-send-silly-threats-to-harada-about-tekken-8s-roster-has-a-bigger-impact-than-you-think",
-          "publishedOn": "2023-08-13T11:42:41.000Z",
-          "wordCount": 7166,
-          "title": "Players who send \"silly threats\" to Harada about Tekken 8's roster have a bigger impact than you think",
-          "imageUrl": "https://assetsio.reedpopcdn.com/TK8_Azucena_Drama-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
