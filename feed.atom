@@ -2,10 +2,189 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T18:24:02.872Z</updated>
+    <updated>2023-09-13T00:30:36.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: User Namespaces: Now Supports Running Stateful Pods in Alpha!]]></title>
+        <id>https://kubernetes.io/blog/2023/09/13/userns-alpha/</id>
+        <link href="https://kubernetes.io/blog/2023/09/13/userns-alpha/"/>
+        <updated>2023-09-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Rodrigo Campos Catelin (Microsoft), Giuseppe Scrivano (Red Hat), Sascha Grunert (Red Hat)
+Kubernetes v1.25 introduced support for user namespaces for only stateless
+pods. Kubernetes 1.28 lifted that restriction, after some design changes were
+done in 1.27.
+The beauty of this feature is that:
+it is trivial to adopt (you just need to set a bool in the pod spec)
+doesn't need any changes for most applications
+improves security by drastically enhancing the isolation of containers and
+mitigating CVEs rated HIGH and CRITICAL.
+This post explains the basics of user namespaces and also shows:
+the changes that arrived in the recent Kubernetes v1.28 release
+a demo of a vulnerability rated as HIGH that is not exploitable with user namespaces
+the runtime requirements to use this feature
+what yo…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coca-Cola embraces controversial AI image generator with new “Y3000” flavor]]></title>
+        <id>https://arstechnica.com/?p=1967928</id>
+        <link href="https://arstechnica.com/?p=1967928"/>
+        <updated>2023-09-12T22:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Tie-in Coca-Cola mobile app uses Stable Diffusion to modify your photos.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The physics of saltwater taffy]]></title>
+        <id>https://arstechnica.com/?p=1967089</id>
+        <link href="https://arstechnica.com/?p=1967089"/>
+        <updated>2023-09-12T22:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Air bubbles, oil droplets are the primary factors, plus emulsifiers for extra chewiness]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone should get a COVID booster this fall, CDC says]]></title>
+        <id>https://arstechnica.com/?p=1968004</id>
+        <link href="https://arstechnica.com/?p=1968004"/>
+        <updated>2023-09-12T22:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Not everyone is at the same risk, but advisors called for simplicity and equity.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIP to the Microsoft Surface Duo’s support window, an unmitigated disaster]]></title>
+        <id>https://arstechnica.com/?p=1967377</id>
+        <link href="https://arstechnica.com/?p=1967377"/>
+        <updated>2023-09-12T21:49:23.000Z</updated>
+        <summary type="html"><![CDATA[The $1,400 device never ran a current version of Android.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA confirms The Sims 5 will be free-to-play and co-exist alongside The Sims 4]]></title>
+        <id>https://www.eurogamer.net/ea-confirms-the-sims-5-will-be-free-to-play-and-co-exist-alongside-the-sims-4</id>
+        <link href="https://www.eurogamer.net/ea-confirms-the-sims-5-will-be-free-to-play-and-co-exist-alongside-the-sims-4"/>
+        <updated>2023-09-12T21:47:41.000Z</updated>
+        <summary type="html"><![CDATA[EA has launched another of its Behind the Sims showcases at the internet, this one bringing confirmation that The Sims 5 - or codename Project Rene as it's officially known at present - will indeed be a free-to-play game, as previously leaked, and will coexist alongside The Sims 4. Oh, and there was also some news on The Sims 4's first Stuff Pack in over two-and-a-half years.
+
+
+First, though, Project Rene and the news it'll definitely be free-to-play - or as EA is more insistently phrasing it, "free-to-download". Either way, the important thing here is that no core game purchase will be required, and EA is also keen to add there'll be no subscription and no "energy mechanics" - so that's at least one predatory mobile monetisation tactic off the table.
+
+
+As to what a new mainline Sims game designed from the ground-up to be free-to-play might look like, a Project Rene job listing hastily removed from EA's website earlier this year pointed to an in-game marketplace featuring official and user-generated content (both free and paid) - something else EA has now more or less confirmed.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iPhone 13 mini is dead, leaving small phone lovers in a lurch]]></title>
+        <id>https://arstechnica.com/?p=1967913</id>
+        <link href="https://arstechnica.com/?p=1967913"/>
+        <updated>2023-09-12T21:25:17.000Z</updated>
+        <summary type="html"><![CDATA[One-handed phones are a dying breed. It makes sense, but it's also a bummer.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's new iPhone 15 Pro getting Assassin's Creed Mirage, Resident Evil 4 Remake, more]]></title>
+        <id>https://www.eurogamer.net/apples-new-iphone-15-pro-getting-assassins-creed-mirage-resident-evil-4-remake-more</id>
+        <link href="https://www.eurogamer.net/apples-new-iphone-15-pro-getting-assassins-creed-mirage-resident-evil-4-remake-more"/>
+        <updated>2023-09-12T19:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Apple has revealed its new iPhone 15 line-up, bringing the news that its ray-tracing-enabled iPhone 15 Pro will be getting native versions of some AAA titles - including Capcom's Resident Evil 4 Remake and Ubisoft's upcoming Assassin's Creed Mirage - over the next 12 months.
+
+
+The newly unveiled iPhone 15 starts at £799 with 128GB storage, and features a 6.1" Super Retina XDR display (bumped up to 6.7" if you opt for the £899 "Plus" model), an aluminium body, the A16 Bionic Chip with 5-core GPU, and a 4x optical dual camera system capable of taking photos at up to 48MP. It'll also ditch Apple's proprietary Lighting port in favour of USB-C to comply with upcoming EU regulations. 
+
+
+The pricier iPhone 15 Pro model (starting at £999 with 128GB storage) is where things get a little more interesting for gaming. Its specs are broadly similar to the standard model (the £1,199 Pro Max even has the 6.7" screen), but it switches in a 10x optical "telephoto" camera zoom, titanium body, and the A17 Pro chip with 6-core GPU.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password-stealing Linux malware served for 3 years and no one noticed]]></title>
+        <id>https://arstechnica.com/?p=1967881</id>
+        <link href="https://arstechnica.com/?p=1967881"/>
+        <updated>2023-09-12T19:34:27.000Z</updated>
+        <summary type="html"><![CDATA[It's not too late to check if a Linux device you use was targeted.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This student-built EV just set a new world record for 0–62 mph]]></title>
+        <id>https://arstechnica.com/?p=1967894</id>
+        <link href="https://arstechnica.com/?p=1967894"/>
+        <updated>2023-09-12T19:26:10.000Z</updated>
+        <summary type="html"><![CDATA[This student-built electric racer needed just 12.3 meters to hit 62 mph.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS 14 Sonoma will release on September 26, weeks earlier than usual]]></title>
+        <id>https://arstechnica.com/?p=1967870</id>
+        <link href="https://arstechnica.com/?p=1967870"/>
+        <updated>2023-09-12T18:58:36.000Z</updated>
+        <summary type="html"><![CDATA[It's the first time a macOS update has released in September since 2018.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge in US v. Google trial didn’t know if Firefox is a browser or search engine]]></title>
+        <id>https://arstechnica.com/?p=1967759</id>
+        <link href="https://arstechnica.com/?p=1967759"/>
+        <updated>2023-09-12T18:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Google accused DOJ of aiming to force people to use “inferior” search products.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17 hits supported devices on September 18]]></title>
+        <id>https://arstechnica.com/?p=1964612</id>
+        <link href="https://arstechnica.com/?p=1964612"/>
+        <updated>2023-09-12T18:30:04.000Z</updated>
+        <summary type="html"><![CDATA[StandBy for the new Journaling app (and a lot more).]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s iPhone 15 adds Dynamic Island and switches to USB-C]]></title>
+        <id>https://arstechnica.com/?p=1964590</id>
+        <link href="https://arstechnica.com/?p=1964590"/>
+        <updated>2023-09-12T18:12:01.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 15 starts at $799, iPhone 15 Plus starts at $899. Available September 22.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s new iPhone 15 Pro gets new chips, better cameras, and a titanium frame]]></title>
+        <id>https://arstechnica.com/?p=1964599</id>
+        <link href="https://arstechnica.com/?p=1964599"/>
+        <updated>2023-09-12T17:59:55.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 15 Pro still starts at $999, Pro Max at $1,199, available September 22.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity reveals plans to charge per game install, drawing criticism from development community]]></title>
         <id>https://www.eurogamer.net/unity-reveals-plans-to-charge-per-game-install-drawing-criticism-from-development-community</id>
@@ -22,6 +201,26 @@ As of 1st January, 2024, however, developers will be expected to pay an addition
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple announces the Apple Watch Ultra 2, with a blazing 3,000-nit display]]></title>
+        <id>https://arstechnica.com/?p=1967598</id>
+        <link href="https://arstechnica.com/?p=1967598"/>
+        <updated>2023-09-12T17:38:34.000Z</updated>
+        <summary type="html"><![CDATA[It's a modest update spearheaded by a super-bright new display.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Apple Watch Series 9 improves Siri processing, iPhone-finding, and more]]></title>
+        <id>https://arstechnica.com/?p=1964606</id>
+        <link href="https://arstechnica.com/?p=1964606"/>
+        <updated>2023-09-12T17:15:32.000Z</updated>
+        <summary type="html"><![CDATA[New models are $399, available Sept. 22, with new "Double Tap" finger gestures.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
         </author>
     </entry>
     <entry>
@@ -9311,109 +9510,6 @@ The post Nine years of the GitHub Security Bug Bounty program appeared first on 
         <summary type="html"><![CDATA[If you can't beat 'em, buy 'em.]]></summary>
         <author>
             <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Scarlet and Violet DLC trailer confirms returning starters]]></title>
-        <id>https://www.eurogamer.net/pokemon-scarlet-and-violet-dlc-trailer-confirms-returning-starters</id>
-        <link href="https://www.eurogamer.net/pokemon-scarlet-and-violet-dlc-trailer-confirms-returning-starters"/>
-        <updated>2023-08-14T11:54:47.000Z</updated>
-        <summary type="html"><![CDATA[All 24 previous starter Pokémon are set to arrive in Scarlet and Violet in the second part of its Hidden Treasure of Area Zero expansion.
-A new trailer confirming which starters will return in The Indigo Disk was shown yesterday during the Pokémon World Championships 2023. 
-"Past first partner Pokémon are appearing in spades," the trailer states, suggesting the starters can be encountered and caught in the wild.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pokémon Company donates $200k to Hawaii after announcing it as 2024 tournament location]]></title>
-        <id>https://www.eurogamer.net/the-pokemon-company-donates-200k-to-hawaii-after-announcing-it-as-2024-tournament-location</id>
-        <link href="https://www.eurogamer.net/the-pokemon-company-donates-200k-to-hawaii-after-announcing-it-as-2024-tournament-location"/>
-        <updated>2023-08-14T11:37:35.000Z</updated>
-        <summary type="html"><![CDATA[The Pokémon Company has pledged $200k to the Hawaii Wildfire Relief Fund after announcing Honolulu as the location of next year's Pokémon World Championship.
-
-
-The next destination was announced at the end of this year's tournament, which took place in Yokohama, Japan, this past weekend.
-
-
-However, Honolulu has proven a controversial choice.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Hacked Japan’s Military Networks]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/08/china-hacked-japans-military-networks.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/08/china-hacked-japans-military-networks.html"/>
-        <updated>2023-08-14T11:02:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>The NSA discovered the intrusion in 2020&#8212;we don&#8217;t know how&#8212;and alerted the Japanese. The <i>Washington Post</i> has the <a href="https://www.washingtonpost.com/national-security/2023/08/07/china-japan-hack-pentagon/">story</a>:</p>
-<blockquote><p>The hackers had deep, persistent access and appeared to be after anything they could get their hands on&#8212;plans, capabilities, assessments of military shortcomings, according to three former senior U.S. officials, who were among a dozen current and former U.S. and Japanese officials interviewed, who spoke on the condition of anonymity because of the matter&#8217;s sensitivity.</p>
-<p>[&#8230;]</p>
-<p>The 2020 penetration was so disturbing that Gen. Paul Nakasone, the head of the NSA and U.S. Cyber Command, and Matthew Pottinger, who was White House deputy national security adviser at the time, raced to Tokyo. They briefed the defense minister, who was so concerned that he arranged for them to alert the prime minister himself...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kids Online Safety Act isn’t all right, critics say]]></title>
-        <id>https://arstechnica.com/?p=1960313</id>
-        <link href="https://arstechnica.com/?p=1960313"/>
-        <updated>2023-08-14T11:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Critics warn KOSA could trigger widespread censorship, privacy concerns.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon World Championships disqualifies pros with hacked creatures, sparking community debate]]></title>
-        <id>https://www.eurogamer.net/pokemon-world-championships-disqualifies-pros-with-hacked-creatures-sparking-community-debate</id>
-        <link href="https://www.eurogamer.net/pokemon-world-championships-disqualifies-pros-with-hacked-creatures-sparking-community-debate"/>
-        <updated>2023-08-14T10:43:00.000Z</updated>
-        <summary type="html"><![CDATA[This year's Pokémon World Championship tournament saw organisers disqualify multiple pros using hacked Pokémon teams, sparking debate across the community.
-
-
-Using hacked Pokémon is technically against the rules, but players haven't always been caught. However, at this year's tournament in Yokohama, Japan, the rules were seemingly tightened and many players who travelled across the world were disqualified.
-
-
-As a result, the community has been debating whether using hacked teams is an acceptable method of saving time, or if it's against the spirit of the monster training games.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forza Motorsport won't have splitscreen at launch due to "heavy investment" in graphics]]></title>
-        <id>https://www.eurogamer.net/forza-motorsport-wont-have-splitscreen-at-launch-due-to-heavy-investment-in-graphics</id>
-        <link href="https://www.eurogamer.net/forza-motorsport-wont-have-splitscreen-at-launch-due-to-heavy-investment-in-graphics"/>
-        <updated>2023-08-14T10:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Forza Motorsport won't include splitscreen at launch.
-Several other offerings such as the ability to spectate and to race with AI will be missing from the game's Featured Multiplayer, a new mode which aims to recreate a race weekend experience where races will take place at specific times.
-Creative director Chris Esaki revealed Turn 10 has omitted the features during the latest Forza Monthly livestream, and explained why each was not available in the game.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pokémon Company having "more conversations" about game quality, as fan complaints grow louder]]></title>
-        <id>https://www.eurogamer.net/the-pokemon-company-having-more-conversations-about-game-quality-as-fan-complaints-grow-louder</id>
-        <link href="https://www.eurogamer.net/the-pokemon-company-having-more-conversations-about-game-quality-as-fan-complaints-grow-louder"/>
-        <updated>2023-08-14T10:07:40.000Z</updated>
-        <summary type="html"><![CDATA[As fan complaints over game quality grow, The Pokémon Company  has said it is now having "more and more conversations" about ensuring game standards - while keeping to the series' relentless release schedule.
-
-
-The Pokémon series' breakneck launch rate has recently seen at least one major game or pair of expansions released per calendar year, and it's something fans say is having a detrimental effect on the games themselves, particularly as the series has morphed to become fully open-world. 
-
-
-Last year, Nintendo was forced to apologise for the state Pokémon Scarlet and Violet arrived in at launch, and acknowledged the technical issues affecting each games' performance. Now, The Pokémon Company has also addressed the issue.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
         </author>
     </entry>
 </feed>
