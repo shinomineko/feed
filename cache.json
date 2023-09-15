@@ -3820,96 +3820,6 @@
           "wordCount": 2077,
           "title": "Tech error let people with empty bank accounts withdraw hundreds in cash",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1419266114-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961279",
-          "author": "Jon Brodkin",
-          "description": "X, formerly Twitter, \"confirmed the delay was removed but did not elaborate.\"",
-          "link": "https://arstechnica.com/?p=1961279",
-          "publishedOn": "2023-08-16T17:40:25.000Z",
-          "wordCount": 1993,
-          "title": "X apparently added 5-second delay for links to sites Musk doesn’t like",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-x-musk-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961136",
-          "author": "Dan Goodin",
-          "description": "Windows Secure Time Seeding resets clocks months or years off the correct time.",
-          "link": "https://arstechnica.com/?p=1961136",
-          "publishedOn": "2023-08-16T17:23:29.000Z",
-          "wordCount": 2006,
-          "title": "Windows feature that resets system clocks based on random data is wreaking havoc",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/broken-clock-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961256",
-          "author": "Financial Times",
-          "description": "Financial Times identified 110 large-scale manufacturing announcements.",
-          "link": "https://arstechnica.com/?p=1961256",
-          "publishedOn": "2023-08-16T17:17:19.000Z",
-          "wordCount": 1918,
-          "title": "$220 billion is helping build US cleantech infrastructure. Here are the projects.",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/getty-biden-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961146",
-          "author": "Benj Edwards",
-          "description": "\"I swear I thought that was my wall.\"",
-          "link": "https://arstechnica.com/?p=1961146",
-          "publishedOn": "2023-08-16T16:40:33.000Z",
-          "wordCount": 1768,
-          "title": "AI chatbot scares Snapchat users by posting mysterious video",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/snapchat_spoofy-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961189",
-          "author": "Ashley Belanger",
-          "description": "Deal ends with Intel paying a $353 million termination fee to Tower.",
-          "link": "https://arstechnica.com/?p=1961189",
-          "publishedOn": "2023-08-16T15:56:45.000Z",
-          "wordCount": 1882,
-          "title": "China blocks Intel’s $5.4B merger with Tower Semiconductor",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1541925995-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961182",
-          "author": "Jonathan M. Gitlin",
-          "description": "Volta and Tesla Superchargers had the most satisfied customers, according to JD Power.",
-          "link": "https://arstechnica.com/?p=1961182",
-          "publishedOn": "2023-08-16T15:47:34.000Z",
-          "wordCount": 2121,
-          "title": "Public EV charging keeps getting worse, according to new study",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1232464216-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961150",
-          "author": "Howard Lee",
-          "description": "A chunk of Western Australia once raced across the globe at over 64 cm a year.",
-          "link": "https://arstechnica.com/?p=1961150",
-          "publishedOn": "2023-08-16T15:30:56.000Z",
-          "wordCount": 1842,
-          "title": "Early plate tectonics was surprisingly speedy",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/P1020589-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961156",
-          "author": "Jeanne Timmons",
-          "description": "A non-flying precursor to pterosaurs shared the Earth with the first dinosaurs.",
-          "link": "https://arstechnica.com/?p=1961156",
-          "publishedOn": "2023-08-16T15:08:59.000Z",
-          "wordCount": 1913,
-          "title": "New Triassic fossil features sharp claws and a nasty beak",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Venetoraptor-gassenae-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961158",
-          "author": "Kyle Orland",
-          "description": "Eight strikes = one-year suspension; \"egregious\" infractions can cause permanent bans.",
-          "link": "https://arstechnica.com/?p=1961158",
-          "publishedOn": "2023-08-16T14:35:59.000Z",
-          "wordCount": 1984,
-          "title": "Xbox’s new “8 strikes” mod rollout judges hate speech 3x worse than cheating",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2013/07/xbox-trolls-640x215.jpg"
         }
       ]
     },
@@ -4034,16 +3944,6 @@
           "wordCount": 3673,
           "title": "Blog: Kubernetes v1.28: Retroactive Default StorageClass move to GA",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/08/16/kubernetes-1-28-non-graceful-node-shutdown-ga/",
-          "author": null,
-          "description": "Authors: Xing Yang (VMware) and Ashutosh Kumar (Elastic)\nThe Kubernetes Non-Graceful Node Shutdown feature is now GA in Kubernetes v1.28.\nIt was introduced as\nalpha\nin Kubernetes v1.24, and promoted to\nbeta\nin Kubernetes v1.26.\nThis feature allows stateful workloads to restart on a different node if the\noriginal node is shutdown unexpectedly or ends up in a non-recoverable state\nsuch as the hardware failure or unresponsive OS.\nWhat is a Non-Graceful Node Shutdown\nIn a Kubernetes cluster, a node can be shutdown in a planned graceful way or\nunexpectedly because of reasons such as power outage or something else external.\nA node shutdown could lead to workload failure if the node is not drained\nbefore the shutdown. A node shutdown can be either graceful or non-graceful.\nThe Graceful Node Shutd…",
-          "link": "https://kubernetes.io/blog/2023/08/16/kubernetes-1-28-non-graceful-node-shutdown-ga/",
-          "publishedOn": "2023-08-16T18:00:00.000Z",
-          "wordCount": 4021,
-          "title": "Blog: Kubernetes 1.28: Non-Graceful Node Shutdown Moves to GA",
-          "imageUrl": null
         }
       ]
     },
@@ -4061,16 +3961,6 @@
           "wordCount": 2499,
           "title": "Why Your CPU-Based Utilisation Metric is Absolute Nonsense",
           "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2023/09/200997094_l_normal_none-scaled.jpg"
-        },
-        {
-          "id": "https://www.lastweekinaws.com/?p=14126",
-          "author": "Corey Quinn",
-          "description": "How much would AWS cost for Amazon Prime Day? Here's Corey Quinn's best guess at the company's AWS bill for the two-day shopping event.\nThe post The Amazon Prime Day 2023 AWS Bill appeared first on Last Week in AWS.",
-          "link": "https://www.lastweekinaws.com/blog/the-amazon-prime-day-2023-aws-bill/",
-          "publishedOn": "2023-08-16T14:30:00.000Z",
-          "wordCount": 3166,
-          "title": "The Amazon Prime Day 2023 AWS Bill",
-          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2023/08/3c8195ae-cfd7-4859-a17e-a46280d4e013-1024x1024.png"
         }
       ]
     },
@@ -7174,26 +7064,6 @@
           "wordCount": 6873,
           "title": "Call of Duty: Modern Warfare 3 details shared ahead of tomorrow's big reveal",
           "imageUrl": "https://assetsio.reedpopcdn.com/call-of-duty-modern-warfare-3-2023-teaser-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/starfield-preloads-start-tomorrow-on-xbox-series-xs-and-windows-pc",
-          "author": "Matt Wales",
-          "description": "If you're so eager to get stuck into Starfield the thought of having to wait even a second after launch fills you with shuddering anguish, there's some good news! Bethesda has announced that preloads will be available from tomorrow, 17th August.\r\n\n\r\nThe hugely anticipated Starfield - an ambitious mash-up of Garfield and Stars in Their Eyes - is still a little way off, of course, launching for PC and Xbox Series X/S on 6th September. Impatient sorts with languorous internet connects can, however, begin the potentially lengthy process of downloading its 125GB of space-fun well in advance as per today's announcement.\r\n\n\r\nThose looking to play Starfield on Xbox Series X/S or on PC via the Windows Store can get their pre-load going starting tomorrow, 17th August, while Steam users will need to wait a little longer; Bethesda says preloads via Valve's store will begin on Wednesday, 30th August.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/starfield-preloads-start-tomorrow-on-xbox-series-xs-and-windows-pc",
-          "publishedOn": "2023-08-16T15:52:58.000Z",
-          "wordCount": 6780,
-          "title": "Starfield preloads start tomorrow on Xbox Series X/S and Windows PC",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Starfield-release-date%2C-early-access-date%2C-preload%2C-and-PC-requirements-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/segas-licensed-loot-shooter-hyenas-resurfaces-with-closed-beta",
-          "author": "Tom Phillips",
-          "description": "Hyenas, the upcoming extraction shooter where teams race to secure pop culture memorabilia, has resurfaced today with word of an imminent closed beta test.\r\n\n\r\nIt's been a little while since we've heard something on Hyenas' development, and it feels a long time since the project was first publicly confirmed a year ago, back in August 2022, following an early alpha test footage leak.\r\n\n\r\nNow, you'll soon be able to play it for yourself - via a PC closed beta test running from 31st August to 11th September. Interested? You can register now via Steam. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/segas-licensed-loot-shooter-hyenas-resurfaces-with-closed-beta",
-          "publishedOn": "2023-08-16T14:00:00.000Z",
-          "wordCount": 6548,
-          "title": "Sega's licensed loot shooter Hyenas resurfaces with closed beta",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Face_Off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
