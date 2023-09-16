@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T06:24:07.091Z</updated>
+    <updated>2023-09-16T12:29:06.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apex Legends bans over 2000 cheaters as it gets set for the Harbingers Collection Event]]></title>
+        <id>https://www.eurogamer.net/apex-legends-bans-over-2000-cheaters-as-it-gets-set-for-the-harbingers-collection-event</id>
+        <link href="https://www.eurogamer.net/apex-legends-bans-over-2000-cheaters-as-it-gets-set-for-the-harbingers-collection-event"/>
+        <updated>2023-09-16T11:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Apex Legends developer Respawn has banned over 2000 accounts for cheating as it gets set for next week's Harbingers Collection Event.
+
+In a note posted to X/Twitter, the studio said it had identified and removed "2000+" cheaters and reminded players to "report any suspicious player activity through [its] in-game tools".
+
+The Harbingers Collection Event – which sees our Legends "gear up to fight the end of the world" – launches on all platforms on 19th September and includes Living Shell Trios, World’s Edge After Dark, and the usual cosmetics.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA clears the air: No evidence that UFOs are aliens]]></title>
+        <id>https://arstechnica.com/?p=1968866</id>
+        <link href="https://arstechnica.com/?p=1968866"/>
+        <updated>2023-09-16T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[NASA attempts to make conversations about aerial phenomena more scientific.]]></summary>
+        <author>
+            <name>The Conversation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toddler poisoned after eating deadly plant mislabeled as diet supplement]]></title>
         <id>https://arstechnica.com/?p=1968912</id>
@@ -9354,211 +9380,6 @@ But that will change in September with an opt-in feature for all Twitch streamer
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron Holes]]></title>
-        <id>https://xkcd.com/2817/</id>
-        <link href="https://xkcd.com/2817/"/>
-        <updated>2023-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/electron_holes.png" title="They tried to report me to the authorities, but because I had the device they couldn't charge me." alt="They tried to report me to the authorities, but because I had the device they couldn't charge me." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes v1.28: Retroactive Default StorageClass move to GA]]></title>
-        <id>https://kubernetes.io/blog/2023/08/18/retroactive-default-storage-class-ga/</id>
-        <link href="https://kubernetes.io/blog/2023/08/18/retroactive-default-storage-class-ga/"/>
-        <updated>2023-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Roman Bednář (Red Hat)
-Announcing graduation to General Availability (GA) - Retroactive Default StorageClass Assignment in Kubernetes v1.28!
-Kubernetes SIG Storage team is thrilled to announce that the "Retroactive Default StorageClass Assignment" feature,
-introduced as an alpha in Kubernetes v1.25, has now graduated to GA and is officially part of the Kubernetes v1.28 release.
-This enhancement brings a significant improvement to how default
-StorageClasses are assigned to PersistentVolumeClaims (PVCs).
-With this feature enabled, you no longer need to create a default StorageClass first and then a PVC to assign the class.
-Instead, any PVCs without a StorageClass assigned will now be retroactively updated to include the default StorageClass.
-This enhancement ensures that PVCs no longer get stuck in an unbound state, and storage provisioning works seamlessly,
-even when a default StorageClass is not defined at the time of PVC creation.
-What changed?
-The PersistentVolume (PV) controller has been modified to automatically assign a default StorageClass to any unbound
-PersistentVolumeClaim with the storageClassName not set. Additionally, the PersistentVolumeClaim
-admission validation mechanism within
-the API server has been adjusted to allow changing values from an unset state to an actual StorageClass name.
-How to use it?
-As this feature has graduated to GA, there's no need to enable a feature gate anymore.
-Simply make sure you are running Kubernetes v1.28 or later, and the feature will be available for use.
-For more details, read about
-default StorageClass assignment in the Kubernetes documentation.
-You can also read the previous blog post announcing beta graduation in v1.26.
-To provide feedback, join our Kubernetes Storage Special-Interest-Group (SIG)
-or participate in discussions on our public Slack channel.]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atari 50 studio's The Making of Karateka interactive documentary out this month]]></title>
-        <id>https://www.eurogamer.net/atari-50-studios-the-making-of-karateka-interactive-documentary-arrives-this-month</id>
-        <link href="https://www.eurogamer.net/atari-50-studios-the-making-of-karateka-interactive-documentary-arrives-this-month"/>
-        <updated>2023-08-17T22:58:26.000Z</updated>
-        <summary type="html"><![CDATA[The Making of Karateka, a new "interactive documentary" telling the story of Prince of Persia and The Last Express creator Jordan Mechner's classic 1984 martial arts game, is launching for PC, Xbox, and PlayStation on 29th August, with a Switch version to follow in September.
-
-
-It's the work of Digital Eclipse, the studio behind last year's acclaimed Atari 50: The Anniversary Celebration, and promises a similarly styled delve into video gaming's past, combining interviews, new video features, design documents, audio, and photos to create what the developer is calling the "deepest, most exhaustive exploration of the making of a single video game that's ever been attempted in a video game itself."
-
-
-"Jordan Mechner," the studio explains, "was an 18-year-old college student when he started making the martial arts adventure that would become one of the most influential games of the Apple II era. The Making of Karateka presents the story behind Mechner's first published game through an exhaustive archive...that can be explored at your own pace."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA’s buildings are even older than its graying workforce]]></title>
-        <id>https://arstechnica.com/?p=1961706</id>
-        <link href="https://arstechnica.com/?p=1961706"/>
-        <updated>2023-08-17T22:55:20.000Z</updated>
-        <summary type="html"><![CDATA[The space agency says its facilities are in an "increasing state of decline."]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teenage Mutant Ninja Turtles: Shredder's Revenge gets first paid DLC on 31st August]]></title>
-        <id>https://www.eurogamer.net/teenage-mutant-ninja-turtles-shredders-revenge-gets-first-paid-dlc-later-this-month</id>
-        <link href="https://www.eurogamer.net/teenage-mutant-ninja-turtles-shredders-revenge-gets-first-paid-dlc-later-this-month"/>
-        <updated>2023-08-17T22:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Dimension Shellshock, the first paid DLC expansion for Tribute Games' acclaimed brawler Teenage Mutant Ninja Turtles: Shredder's Revenge, launches for all platforms on 31st August.
-
-
-Previously, Tribute revealed Dimension Shellshock would add a new playable character in the form of the Ninja Turtles' occasional ally Miyamoto Usagi - who originally made the jump from his own Usagi Yojimbo comic series into the turtles' world back in 1987 - and the developer has now unveiled a second playable character: the former Foot Clan member, Karai.
-
-
-"Karai's signature snark brings a bite to the fight alongside her deadly skills with her swift ninjutsu strikes," publisher Dotemu explains in its release date annoucement. "With Karai at your side there's no stopping the Turtles as they kick, punch and party their way across the various new worlds in Dimension Shellshock's rift-jumping battles."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baldur's Gate 3 dev is "changing the way we deploy patches" following hotfix rollback]]></title>
-        <id>https://www.eurogamer.net/baldurs-gate-3-dev-is-changing-the-way-we-deploy-patches-following-hotfix-rollback</id>
-        <link href="https://www.eurogamer.net/baldurs-gate-3-dev-is-changing-the-way-we-deploy-patches-following-hotfix-rollback"/>
-        <updated>2023-08-17T21:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Baldur's Gate 3 developer Larian has said it's "changing the way we deploy patches" after it was forced to rollback yesterday's Hotfix #4 due to crashing issues - a move that temporarily prevented players from accessing any saves made during the time the update was deployed.
-
-
-Understandably, the rollback caused consternation among affected players, and now, in a message accompanying today's redeployment of Hotfix #4 on PC, Larian says, "We recognise the frustration caused by this and want to apologise. That's why we're changing things up."
-
-
-First, though, it offered context for yesterday's bungled release, explaining, "Hotfix #4 went through a rigorous QA pipeline and was confirmed as a candidate for release yesterday. However, we triggered a rebuild of the version relatively last minute to change the version number. The version that was cooked was unfortunately plagued by compiler corruption, which was causing certain exceptions that normally wouldn't cause crashes to - you guessed it - cause crashes." Larian calls these kinds of compiler issues "extremely rare", adding, "We weren't prepared for it. We should've been. We messed up."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mTLS: When certificate authentication is done wrong]]></title>
-        <id>https://github.blog/?p=73738</id>
-        <link href="https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/"/>
-        <updated>2023-08-17T21:22:26.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll deep dive into some interesting attacks on mTLS authentication. We'll have a look at implementation vulnerabilities and how developers can make their mTLS systems vulnerable to user impersonation, privilege escalation, and information leakages.
-The post mTLS: When certificate authentication is done wrong appeared first on The GitHub Blog.]]></summary>
-        <author>
-            <name>Michael Stepankin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End of the road: The Xbox 360 game marketplace will shut down]]></title>
-        <id>https://arstechnica.com/?p=1961603</id>
-        <link href="https://arstechnica.com/?p=1961603"/>
-        <updated>2023-08-17T21:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Players will still be able to download previously purchased games.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Western Digital, SanDisk Extreme SSDs don’t store data safely, lawsuit says]]></title>
-        <id>https://arstechnica.com/?p=1961557</id>
-        <link href="https://arstechnica.com/?p=1961557"/>
-        <updated>2023-08-17T21:04:04.000Z</updated>
-        <summary type="html"><![CDATA[The suit is seeking class-action certification.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heavy, highly magnetic star may be first magnetar precursor we’ve seen]]></title>
-        <id>https://arstechnica.com/?p=1961639</id>
-        <link href="https://arstechnica.com/?p=1961639"/>
-        <updated>2023-08-17T20:36:19.000Z</updated>
-        <summary type="html"><![CDATA[A strange history has produced a helium-rich star with kilogauss magnetic fields.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft AI suggests food bank as a “cannot miss” tourist spot in Canada]]></title>
-        <id>https://arstechnica.com/?p=1961606</id>
-        <link href="https://arstechnica.com/?p=1961606"/>
-        <updated>2023-08-17T20:14:17.000Z</updated>
-        <summary type="html"><![CDATA[AI-penned Microsoft Travel article recommends food bank as a must-see destination.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mars keeps spinning faster every year, NASA InSight data says]]></title>
-        <id>https://arstechnica.com/?p=1961299</id>
-        <link href="https://arstechnica.com/?p=1961299"/>
-        <updated>2023-08-17T20:03:23.000Z</updated>
-        <summary type="html"><![CDATA[Radio signals from the lander help us track Mars' spin as it slowly shifts.]]></summary>
-        <author>
-            <name>Elizabeth Rayne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty: Modern Warfare 3's big reveal brings campaign and multiplayer details, gameplay trailer]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-3s-big-reveal-campaign-and-multiplayers-details-gameplay</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-3s-big-reveal-campaign-and-multiplayers-details-gameplay"/>
-        <updated>2023-08-17T19:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Following its odd little pre-amble last night, Activision and developer Sledgehammer have given Call of Duty: Modern Warfare 3 the full reveal treatment, sharing first details on its campaign, multiplayer, and zombies mode, alongside a brief look at the game in action.
-
-
-Call of Duty: Modern Warfare 3, which launches this November, is a direct sequel to last year's Infinity Ward developed Modern Warfare 2, pitting Captain Price and Task Force 141 against recurring antagonist Vladimir Makarov, who continues to extend his grasp across the world.
-
-
-Starting with its campaign, Call of Duty's familiar cinematic missions will be joined by what Activision is calling Open Combat Missions, which are intended as more open-ended objectives, featuring multiple paths and approaches, that emphasise player choice. These will take place "across the sizeable landscape of a mission's AO " and "adapt to different playstyles", from stealth to run-and-gun action, so "players can truly play how they want."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buyers of Bored Ape NFTs sue after digital apes turn out to be bad investment]]></title>
-        <id>https://arstechnica.com/?p=1961571</id>
-        <link href="https://arstechnica.com/?p=1961571"/>
-        <updated>2023-08-17T18:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit: Sotheby's $24M sale to FTX gave Bored Ape NFTs "an air of legitimacy."]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dealmaster: Early Labor Day deals on laptops, smartphones, and more]]></title>
-        <id>https://arstechnica.com/?p=1961469</id>
-        <link href="https://arstechnica.com/?p=1961469"/>
-        <updated>2023-08-17T18:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Early Labor Day sales bring terrific savings on some of our tech favorites.]]></summary>
-        <author>
-            <name>Chuong Nguyen</name>
         </author>
     </entry>
 </feed>
