@@ -155,6 +155,26 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/09/friday-squid-blogging-cleaning-squid.html",
+          "author": null,
+          "description": "<p><a href=\"https://www.thedailymeal.com/1371488/how-properly-clean-squid-guide/\">Two</a> <a href=\"https://www.mashed.com/1359929/cleaning-squid-isnt-faint-hearted/\">links</a> on how to properly clean squid.</p>\n<p>I learned a few years ago, in Spain, and got pretty good at it.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/friday-squid-blogging-cleaning-squid.html",
+          "publishedOn": "2023-09-15T21:08:38.000Z",
+          "wordCount": 811,
+          "title": "Friday Squid Blogging: Cleaning Squid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/09/llm-summary-of-my-book-beyond-fear.html",
+          "author": null,
+          "description": "<p>Claude (Anthropic&#8217;s LLM) was given this prompt: Please summarize the themes and arguments of Bruce Schneier&#8217;s book <em>Beyond Fear</em>. I&#8217;m particularly interested in a taxonomy of his ethical arguments&#8212;please expand on that.  Then lay out the most salient criticisms of the book.</p>\n<p>Claude&#8217;s reply:</p>\n<blockquote><p>Here&#8217;s a brief summary of the key themes and arguments made in security expert Bruce Schneier&#8217;s book <em>Beyond Fear: Thinking Sensibly About Security in an Uncertain World</em>:</p>\n<p>Central Themes:</p>\n<ul>\n<li>Effective security requires realistic risk assessment, not fear-driven responses. We need to rationally determine actual threats versus perceived ones.\n...</li></ul></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/llm-summary-of-my-book-beyond-fear.html",
+          "publishedOn": "2023-09-15T19:12:10.000Z",
+          "wordCount": 1884,
+          "title": "LLM Summary of My Book Beyond Fear",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/09/on-technologies-for-automatic-facial-recognition.html",
           "author": null,
           "description": "<p>Interesting <a href=\"https://dnyuz.com/2023/09/09/the-technology-facebook-and-google-didnt-dare-release/\">article</a> on technologies that will automatically identify people:</p>\n<blockquote><p>With technology like that on Mr. Leyvand&#8217;s head, Facebook could prevent users from ever forgetting a colleague&#8217;s name, give a reminder at a cocktail party that an acquaintance had kids to ask about or help find someone at a crowded conference. However, six years later, the company now known as Meta has not released a version of that product and Mr. Leyvand has departed for Apple to work on its Vision Pro augmented reality glasses.</p></blockquote>\n<p>The technology is here. Maybe the implementation is still dorky, but that will change. The social implications will be enormous...</p>",
@@ -403,16 +423,6 @@
           "wordCount": 1368,
           "title": "Bots Are Better than Humans at Solving CAPTCHAs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/08/detecting-violations-of-social-norms-in-text-with-ai.html",
-          "author": null,
-          "description": "<p>Researchers are trying to use AI to <a href=\"https://www.nature.com/articles/s41598-023-35350-x\">detect</a> &#8220;social norms violations.&#8221; Feels a little sketchy right now, but this is the sort of thing that AIs will get better at. (Like all of these systems, anything but a very low false positive rate makes the detection useless in practice.)</p>\n<p>News <a href=\"https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa-study-1850673979\">article</a>.</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/08/detecting-violations-of-social-norms-in-text-with-ai.html",
-          "publishedOn": "2023-08-17T11:07:58.000Z",
-          "wordCount": 794,
-          "title": "Detecting “Violations of Social Norms” in Text with AI",
-          "imageUrl": null
         }
       ]
     },
@@ -421,6 +431,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1968912",
+          "author": "Beth Mole",
+          "description": "Nine out of 10 Tejocote Root products tested were actually deadly yellow oleander.",
+          "link": "https://arstechnica.com/?p=1968912",
+          "publishedOn": "2023-09-15T22:00:12.000Z",
+          "wordCount": 1847,
+          "title": "Toddler poisoned after eating deadly plant mislabeled as diet supplement",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-629413131-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1968790",
+          "author": "Benj Edwards",
+          "description": "\"This was the point where AI-generated art passed the Turing Test for me.\"",
+          "link": "https://arstechnica.com/?p=1968790",
+          "publishedOn": "2023-09-15T21:13:13.000Z",
+          "wordCount": 2178,
+          "title": "Funky AI-generated spiraling medieval village captivates social media",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/spiral_hero_2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1968849",
+          "author": "Ashley Belanger",
+          "description": "Previous efforts to unmask the people behind Libgen have failed.",
+          "link": "https://arstechnica.com/?p=1968849",
+          "publishedOn": "2023-09-15T20:56:08.000Z",
+          "wordCount": 2157,
+          "title": "“Most notorious” illegal shadow library sued by textbook publishers [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1437356693-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1968789",
+          "author": "Ashley Belanger",
+          "description": "After a report called out Musk's union-busting, UAW's blue check got reinstated.",
+          "link": "https://arstechnica.com/?p=1968789",
+          "publishedOn": "2023-09-15T19:04:50.000Z",
+          "wordCount": 1915,
+          "title": "Musk’s X revokes paid blue check from United Auto Workers after strike called",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1678530091-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1968375",
+          "author": "Andrew Cunningham",
+          "description": "Season 2 is past the halfway point, and the showrunners are stomping on the gas.",
+          "link": "https://arstechnica.com/?p=1968375",
+          "publishedOn": "2023-09-15T18:45:55.000Z",
+          "wordCount": 4675,
+          "title": "Things get serious this week in a really solid The Wheel of Time episode",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/WOFT_S2_UT_THIJAN_00122_1_700-700x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1968724",
+          "author": "Kyle Orland",
+          "description": "Confusing, contradictory terms of service clauses leave potential opening for lawsuits.",
+          "link": "https://arstechnica.com/?p=1968724",
+          "publishedOn": "2023-09-15T18:06:19.000Z",
+          "wordCount": 2388,
+          "title": "Wait, is Unity allowed to just change its fee structure like that?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/unity-is-altering-the-deal-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1968668",
           "author": "Kevin Purdy",
@@ -4016,6 +4086,26 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/ps5-will-soon-be-get-three-new-metallic-covers-with-matching-controllers",
+          "author": "Matt Wales",
+          "description": "Tired of that giant white slab of a PlayStation 5 in your living room and looking to add a bit of pizzazz to your surroundings? Well then Sony might just, depending on your idea of tasteful, have what you're looking for: three new metallic console covers (and matching controllers) that are almost certainly not going to match your existing decor!\r\n\n\r\nSony's newly announced Volcanic Red, Cobalt Blue, and Sterling Silver cover/controller combos are, according to a post on the PlayStation Blog, inspired by the \"beautiful and powerful hues found in the depths of planet Earth\" - all of which have then bee \"elevated\" with a metallic finish for a \"touch of sophistication.\"\r\n\n\r\nThose interested in giving their PS5 a \"Deep Earth\" makeover can, when the appropriate time comes, pick up each of the three shiny new covers for £49.99/€59.99/$59.99 USD, while the DualSense controllers (sold separately) will each cost £64.99/€74.99/$74.99 USD.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ps5-will-soon-be-get-three-new-metallic-covers-with-matching-controllers",
+          "publishedOn": "2023-09-15T21:59:22.000Z",
+          "wordCount": 6797,
+          "title": "PS5 will soon get three new metallic covers with matching controllers",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ps5-deep-earth-promo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/amnesia-the-bunker-gets-even-more-upsettingly-intense-in-new-update-this-halloween",
+          "author": "Matt Wales",
+          "description": "Frictional Games fans could be forgiven for thinking the horror-focused studio has been getting a little soft in recent years, having introduced death-free and monster-free modes in post-launch updates for its acclaimed SOMA and Amnesia: Rebirth. This year, though, it's going in completely the opposite direction, and its recently launched WW1 horror Amnesia: The Bunker will be getting even more nerve-frayingly horrifying, just in time for Halloween.\r\n\n\r\nAs spotted by Rock Paper Shotgun, Frictional's creative lead Fredrik Olsson has recently been using social media to detail some of the delightfully sadistic new features coming to Amnesia: The Bunker soon in what will known as Shell Shocked mode.\r\n\n\r\nFor starters, players who've been relying on the comparative tranquility of The Bunker's Admin Office safe room to emotionally, physically, and mentally regroup will, in Shell Shocked mode, be a little bit screwed. Now, its reassuringly sturdy steel doors will be replaced wood, which, you know, isn't all that resistant to scrambling, pounding, shredding monster claws.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/amnesia-the-bunker-gets-even-more-upsettingly-intense-in-new-update-this-halloween",
+          "publishedOn": "2023-09-15T19:19:33.000Z",
+          "wordCount": 7287,
+          "title": "Amnesia: The Bunker gets even more terrifying in new update this Halloween",
+          "imageUrl": "https://assetsio.reedpopcdn.com/amnesia-the-bunker-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/ubisoft-montreals-mandatory-return-to-office-order-reportedly-leaves-staff-in-turmoil",
           "author": "Matt Wales",
           "description": "Ubisoft Montreal - the studio behind the likes of Assassin's Creed Valhalla and Far Cry 5 - has been accused of leaving staff in \"turmoil\" after it reportedly reneged on promises that \"100% remote work would be possible\", forcing all 4,000 of its workers back to the office for a \"minimum\" of two days a week, as of 11th September.\r\n\n\r\nBack in June 2021, Ubisoft announced it would be adopting a \"hybrid and tailored approach to work arrangements\" where staff would be able \"to balance in-office work with work from home\". However, according to a new report by IGN, Ubisoft Montreal staff were repeatedly told they could remain 100% remote long-term, leading many to make significant life decision or accept jobs at the company based around these assurances.\r\n\n\r\n\"100% remote work will be possible depending on various criteria,\" reads an internal Ubisoft document seen by IGN and detailed in its report, \"such as productivity and impact on the team, as well as the nature of the work being done.\"\r\n \nRead more",
@@ -7074,66 +7164,6 @@
           "wordCount": 8077,
           "title": "Chatting with Jesus: the rise of Twitch AI streams",
           "imageUrl": "https://assetsio.reedpopcdn.com/AI-Jesus-on-Twitch.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/gta-5-ai-mod-taken-down-by-take-two-lawyers",
-          "author": "Ed Nightingale",
-          "description": "The creator of a GTA AI mod has had their mod shutdown entirely by Take-Two.\r\n\n\r\nEarlier this week we reported on the Sentient Streets mods for GTA 5 created by Bloc, which uses AI to generate free conversations with NPCs.\r\n\r\n\n\r\nNow, the mod's NexusMods listing and a YouTube video showcasing its gameplay have both been made unavailable due to copyright claims by publisher Take-Two. Sentient Streets is no longer available to download.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/gta-5-ai-mod-taken-down-by-take-two-lawyers",
-          "publishedOn": "2023-08-17T10:42:59.000Z",
-          "wordCount": 7008,
-          "title": "GTA 5 AI mod taken down by Take-Two lawyers",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Sentient-Streets-GTA-5-AI-mod.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-wont-contest-9k-fifa-ultimate-team-fine-in-austria",
-          "author": "Tom Phillips",
-          "description": "EA says it will not contest a €10.8k (£9.2k) fine laid down by an Austrian court that decided FIFA Ultimate Team packs constituted a breach of the country's gambling laws. \r\n\n\r\nNaturally, EA says it still disagrees with the verdict.\r\n\n\r\nThis decision will likely have no wider impact, GamesIndustry.biz reports, as Austrian courts rule on individual cases without a need for their impact to be felt in subsequent cases.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ea-wont-contest-9k-fifa-ultimate-team-fine-in-austria",
-          "publishedOn": "2023-08-17T10:06:24.000Z",
-          "wordCount": 6790,
-          "title": "EA won't contest £9k FIFA Ultimate Team fine in Austria",
-          "imageUrl": "https://assetsio.reedpopcdn.com/TOTW9.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/deathloop-leaving-playstation-plus-next-month",
-          "author": "Ed Nightingale",
-          "description": "Deathloop will leave Sony's PS Plus service next month, along with seven other games.\r\n\n\r\nThe Bethesda game will therefore leave the service a year after it joined, and two years after it was first released. The game also launched on Game Pass last year, where it will remain across both Xbox Series X/S and PC.\r\n\n\r\nPlayStation owners have until 19th September to break the loop.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/deathloop-leaving-playstation-plus-next-month",
-          "publishedOn": "2023-08-17T10:01:16.000Z",
-          "wordCount": 6810,
-          "title": "Deathloop leaving PlayStation Plus next month",
-          "imageUrl": "https://assetsio.reedpopcdn.com/deathloop_m1q0dQQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-tv-showrunner-discusses-series-overall-length",
-          "author": "Tom Phillips",
-          "description": "It sounds like we'll see around four seasons of The Last of Us, according to co-creator and showrunner Craig Mazin.\r\n\n\r\nSpeaking to The Hollywood Reporter, Mazin was asked how many seasons the show would likely need to tell all of its story. In response, Mazin stated that \"four seems like a good number\". \r\n\n\r\n\"You never know,\" he said. \"It can end up being three or five. But four seems like a good number. Some seasons, because of the story we're telling, will need fewer episodes and some will need more.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-last-of-us-tv-showrunner-discusses-series-overall-length",
-          "publishedOn": "2023-08-17T09:45:15.000Z",
-          "wordCount": 6829,
-          "title": "The Last of Us TV showrunner discusses series' overall length",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ellie-hides-from-david-tlou.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/larian-rolls-back-baldurs-gate-3-hotfix-4-due-to-crashes",
-          "author": "Ed Nightingale",
-          "description": "Larian Studios has rolled back last night's Baldur's Gate 3 Hotfix 4 due to new crashes.\r\n\n\r\nThe developer shared the news last night on X, formerly Twitter, shortly after the update went live.\r\n\n\r\n\"Due to a build error causing new crashes, we've rolled back Hotfix 4 for the time being. We'll re-release it as soon as we've fixed the cause,\" reads the statement.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/larian-rolls-back-baldurs-gate-3-hotfix-4-due-to-crashes",
-          "publishedOn": "2023-08-17T09:40:45.000Z",
-          "wordCount": 6837,
-          "title": "Larian rolls back Baldur's Gate 3 Hotfix 4 due to crashes",
-          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Party.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sega-dubs-hyenas-development-challenging",
-          "author": "Tom Phillips",
-          "description": "UPDATE 11.15am UK: Hyenas publisher Sega has stopped short of confirming the game has transitioned to a free-to-play business model when questioned by Eurogamer about the \"adjustments\" being made.\r\n\n\"We have dedicated the past year to reviewing our business model alongside months of extremely valuable player testing of the gameplay experience,\" a Sega spokesperson told me. \r\n\n\"We're very excited with this progress and the reaction to yesterday's gameplay reveal. We'll build on that foundation with our Closed Beta test beginning 31st August and use this insight to finalise our plans for launch.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sega-dubs-hyenas-development-challenging",
-          "publishedOn": "2023-08-17T09:26:12.000Z",
-          "wordCount": 6708,
-          "title": "Sega dubs Hyenas development \"challenging\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/hyenas_preview.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
