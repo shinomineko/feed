@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/09/using-hacked-lastpass-keys-to-steal-cryptocurrency.html",
+          "author": null,
+          "description": "<p>Remember last November, when hackers <a href=\"https://www.theverge.com/2022/12/22/23523322/lastpass-data-breach-cloud-encrypted-password-vault-hackers\">broke into</a> the network for LastPass&#8212;a password database&#8212;and stole password vaults with both encrypted and plaintext data for over 25 million users?</p>\n<p>Well, they&#8217;re now <a href=\"https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/\">using that data</a> break into crypto wallets and drain them: $35 million and counting, all going into a single wallet.</p>\n<p>That&#8217;s a really profitable hack. (It&#8217;s also bad opsec. The hackers need to move and launder all that money quickly.)</p>\n<p>Look, I know that online password databases are more convenient. But they&#8217;re also risky. This is why my <a href=\"https://www.schneier.com/academic/passsafe/\">Password Safe...</a></p>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/using-hacked-lastpass-keys-to-steal-cryptocurrency.html",
+          "publishedOn": "2023-09-18T11:02:52.000Z",
+          "wordCount": 837,
+          "title": "Using Hacked LastPass Keys to Steal Cryptocurrency",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/09/friday-squid-blogging-cleaning-squid.html",
           "author": null,
           "description": "<p><a href=\"https://www.thedailymeal.com/1371488/how-properly-clean-squid-guide/\">Two</a> <a href=\"https://www.mashed.com/1359929/cleaning-squid-isnt-faint-hearted/\">links</a> on how to properly clean squid.</p>\n<p>I learned a few years ago, in Spain, and got pretty good at it.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
@@ -3600,16 +3610,6 @@
           "wordCount": 1988,
           "title": "Windows 11 has made the “clean Windows install” an oxymoron",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/windows-11-not-so-clean-but-slightly-moreso-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961927",
-          "author": "Eric Berger",
-          "description": "\"The management team is currently analyzing the situation.\"",
-          "link": "https://arstechnica.com/?p=1961927",
-          "publishedOn": "2023-08-19T19:06:17.000Z",
-          "wordCount": 1832,
-          "title": "Is Luna 25 alive? Russia says an “emergency situation” has occurred",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/luna-25-730x380.jpg"
         }
       ]
     },
@@ -3755,6 +3755,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/70-mortal-kombat-1-switch-version-called-robbery-as-graphical-comparisons-flood-the-internet",
+          "author": "Victoria Kennedy",
+          "description": "Mortal Kombat 1 released in early access last week across Nintendo Switch, PC, PlayStation 5, and Xbox Series X/S. Since then, several users have uploaded footage and screenshots showcasing the Switch version of the game - and the results aren't great. \r\n\n\r\nIn fact, the version available on Nintendo's hybrid console has been widely panned, with many wondering how the developer can ask the same price on Switch as on other platforms. \r\n\n\r\nFans have taken to the likes of X (formerly Twitter) and TikTok to question NetherRealm's decision to market Mortal Kombat 1 as a $70 Switch release. It has been called \"robbery\" and \"disrespectful\" to users.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/70-mortal-kombat-1-switch-version-called-robbery-as-graphical-comparisons-flood-the-internet",
+          "publishedOn": "2023-09-18T11:03:13.000Z",
+          "wordCount": 7557,
+          "title": "$70 Mortal Kombat 1 Switch version called \"robbery\" as graphical comparisons flood the internet",
+          "imageUrl": "https://assetsio.reedpopcdn.com/MK1-switch-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/marvels-avengers-receives-hulking-discount-ahead-of-delisting",
+          "author": "Ed Nightingale",
+          "description": "Marvel's Avengers has been heavily discounted as support ends ahead of full delisting.\r\n\n\r\nIt's now available on Steam with a 90 percent discount for just £2.99. Similarly, on PSN and Xbox it's £4.49.\r\n\n\r\nBack in January, Crystal Dynamics announced that support for the live-service game would end on 30th September this year and will no longer be available to purchase after this date. Its final update was at the end of March.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/marvels-avengers-receives-hulking-discount-ahead-of-delisting",
+          "publishedOn": "2023-09-18T10:52:49.000Z",
+          "wordCount": 7073,
+          "title": "Marvel's Avengers receives hulking discount ahead of delisting",
+          "imageUrl": "https://assetsio.reedpopcdn.com/marvels-avengers-is-increasing-the-grind-to-level-up-in-next-update-1614885105046.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/unity-apologises-for-confusion-and-angst-over-fee-changes",
+          "author": "Tom Phillips",
+          "description": "Unity has apologised following the furore around its disastrous plans to charge developers when people download games made using its technology.\r\n\n\r\nThe plans prompted an enormous backlash from developers across the industry, and threw up a multitude of questions around how the new policy would work in practice - answers which Unity belatedly scrambled to work out itself.\r\n\n\r\nThis morning, Unity said it was sorry for the \"confusion and angst\" its changes had caused, and promised it would make unspecified \"changes\" to its plans. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/unity-apologises-for-confusion-and-angst-over-fee-changes",
+          "publishedOn": "2023-09-18T10:49:09.000Z",
+          "wordCount": 7186,
+          "title": "Unity apologises for \"confusion and angst\" over fee changes",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_pEbnXpE.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/weird-west-prodeus-amongst-game-pass-leavers-at-the-end-of-the-month",
+          "author": "Liv Ngan",
+          "description": "Although Xbox hasn't announced September's second wave of Game Pass titles, the next set of games leaving the service has been spotted. \nStill to come this month is Soulslike Lies of P, which joins Game Pass tomorrow as a day one addition.\nThe list of games that'll no longer be available on Game Pass on 1st October can be found in the leaving soon section of the Xbox app.\n Read more",
+          "link": "https://www.eurogamer.net/weird-west-prodeus-amongst-game-pass-leavers-at-the-end-of-the-month",
+          "publishedOn": "2023-09-18T10:45:58.000Z",
+          "wordCount": 7795,
+          "title": "Weird West, Prodeus amongst Game Pass leavers at the end of the month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ar1j63.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/titanfall-2-players-think-respawn-has-finally-fixed-its-years-old-server-issues",
           "author": "Vikki Blake",
