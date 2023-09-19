@@ -124,16 +124,6 @@
           "wordCount": 178,
           "title": "Pronunciation",
           "imageUrl": "https://imgs.xkcd.com/comics/pronunciation_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2818/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/circuit_symbols.png\" title=\"A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.\" alt=\"A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.\" />",
-          "link": "https://xkcd.com/2818/",
-          "publishedOn": "2023-08-21T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Circuit Symbols",
-          "imageUrl": "https://imgs.xkcd.com/comics/circuit_symbols_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/09/detecting-ai-generated-text.html",
+          "author": null,
+          "description": "<p>There are no reliable ways to distinguish text written by a human from text written by an large language model. OpenAI <a href=\"https://help.openai.com/en/articles/8313351-how-can-educators-respond-to-students-presenting-ai-generated-content-as-their-own\">writes</a>:</p>\n<blockquote><p>Do AI detectors work?</p>\n<ul>\n<li>In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\n<li>Additionally, ChatGPT has no &#8220;knowledge&#8221; of what content could be AI-generated. It will sometimes make up responses to questions like &#8220;did you write this [essay]?&#8221; or &#8220;could this have been written by AI?&#8221; These responses are random and have no basis in fact.\n...</li></li></ul></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/detecting-ai-generated-text.html",
+          "publishedOn": "2023-09-19T11:08:45.000Z",
+          "wordCount": 946,
+          "title": "Detecting AI-Generated Text",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/09/using-hacked-lastpass-keys-to-steal-cryptocurrency.html",
           "author": null,
@@ -3914,16 +3914,6 @@
           "wordCount": 4328,
           "title": "Blog: Kubernetes 1.28: Node podresources API Graduates to GA",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update/",
-          "author": null,
-          "description": "Authors: Kevin Hannon (G-Research), Michał Woźniak (Google)\nThis blog discusses two new features in Kubernetes 1.28 to improve Jobs for batch\nusers: Pod replacement policy\nand Backoff limit per index.\nThese features continue the effort started by the\nPod failure policy\nto improve the handling of Pod failures in a Job.\nPod replacement policy\nBy default, when a pod enters a terminating state (e.g. due to preemption or\neviction), Kubernetes immediately creates a replacement Pod. Therefore, both Pods are running\nat the same time. In API terms, a pod is considered terminating when it has a\ndeletionTimestamp and it has a phase Pending or Running.\nThe scenario when two Pods are running at a given time is problematic for\nsome popular machine learning frameworks, such as\nTensorFlow and JAX, which r…",
-          "link": "https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update/",
-          "publishedOn": "2023-08-21T00:00:00.000Z",
-          "wordCount": 4483,
-          "title": "Blog: Kubernetes 1.28: Improved failure handling for Jobs",
-          "imageUrl": null
         }
       ]
     },
@@ -3955,6 +3945,96 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/military-documents-leak-once-again-on-war-thunder-forum",
+          "author": "Liv Ngan",
+          "description": "You know the drill. Classified military documents get posted onto the War Thunder forum, until it's noticed by a moderator who deletes it. In a surprise to nobody, it happened yet again last week.\nThe document shared this time was a flight manual for the Lockheed F-117 Nighthawk, Niche Gamer reported. Information such as sensor locations, firing angles, and engine specifications were shown on the pages circulated on the thread.\nThe entire thread has since been deleted, though developer Gaijin Entertainment confirmed the information had been posted onto its forum. \n Read more",
+          "link": "https://www.eurogamer.net/military-documents-leak-once-again-on-war-thunder-forum",
+          "publishedOn": "2023-09-19T12:26:44.000Z",
+          "wordCount": 7103,
+          "title": "Military documents leak once again on War Thunder forum",
+          "imageUrl": "https://assetsio.reedpopcdn.com/war-thunder-ss-planes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/starfields-delay-was-disaster-situation-for-xbox-game-pass-phil-spencer-said",
+          "author": "Ed Nightingale",
+          "description": "Phil Spencer admitted the hole in Game Pass left by Starfield's delay was a \"disaster situation\" and suggested FromSoftware's Dark Souls games to plug the gap following the success of Elden Ring, among other third-party releases.\r\n\n\r\nToday's enormous leak of internal Microsoft documents includes a particularly candid email from Spencer sent in May 2022, revealing his frustration around \"a huge hole with our games lineup\". That was due to Starfield's delay, \"not a tonne of clarity on the launch date of Redfall\", and Stalker 2 development impacted by Russia's invasion of Ukraine.\r\n\n\r\n\"We keep talking about a big AAA a quarter in the service [Game Pass] and it feels like we are likely to go through a gap of almost 16 months between big exclusive launches on our platform,\" Spencer lamented.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/starfields-delay-was-disaster-situation-for-xbox-game-pass-phil-spencer-said",
+          "publishedOn": "2023-09-19T12:02:16.000Z",
+          "wordCount": 7592,
+          "title": "Starfield's delay was \"disaster situation\" for Xbox Game Pass, Phil Spencer said",
+          "imageUrl": "https://assetsio.reedpopcdn.com/%5B4K%5D-Xbox-Games-Showcase-%2B-Starfield-Direct-1-29-41-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/baldurs-gate-3-developer-says-pull-your-ps5-offline-to-fix-sudden-crash-issue",
+          "author": "Tom Phillips",
+          "description": "The developer of Baldur's Gate 3 has recommended PlayStation 5 owners take their console offline to fix a sudden spate of game crashes.\r\n\n\r\nLarian noted last night that \"some PS5 players\" were \"experiencing sudden Baldur's Gate 3 crashes in what appears to be a PSN-related issue\".\r\n\n\r\n\"We're investigating the problem,\" Larian continued, via a post on X, formerly Twitter. \"But for now, the workaround is to disconnet your PS5 from the internet.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3-developer-says-pull-your-ps5-offline-to-fix-sudden-crash-issue",
+          "publishedOn": "2023-09-19T11:37:15.000Z",
+          "wordCount": 7223,
+          "title": "Baldur's Gate 3 developer says pull your PS5 offline to fix sudden crash issue",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Baldur's-Gate-3---Release-Date-Reveal-Trailer-1-1-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/procedural-detective-noir-shadows-of-doubt-adds-infidelity-investigations-next-week",
+          "author": "Matt Wales",
+          "description": "Shadows of Doubt, the ambitious procedural detective noir sandbox from developer Cole Jefferies, is introducing new cases themed around infidelity on 25th September, as part of its first major update since entering Steam early access in April.\r\n\n\r\nShadows of Doubt, for those in need of a quick refresher, is a first-person, open-world detective sim set in a noirish sci-fi city. Its unique selling point, however, is that procedural generation governs virtually every aspect of it in a bid to create an endlessly replayable crime-solving caper - from the layout of its city streets to the schedules of its citizens, right through to the cases you'll need to solve through stealth, subtrefuge, and sleuthing.\r\n\n\r\nAnd from next Monday, 25th September, come the arrival of its Cheats and Liars update, Shadows of Doubt will have another trick in its toolbox - as players might just find themselves asked to investigate cases of infidelity, should it suit the procedural generation's whims.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/procedural-detective-noir-shadows-of-doubt-adds-infidelity-investigations-next-week",
+          "publishedOn": "2023-09-19T10:00:00.000Z",
+          "wordCount": 7158,
+          "title": "Procedural detective noir Shadows of Doubt adds infidelity investigations next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/shadows-of-doubt_7CRFxzb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/phil-spencer-describes-nintendo-as-the-prime-asset-for-xbox-to-acquire",
+          "author": "Ed Nightingale",
+          "description": "Phil Spencer described Nintendo as \"THE prime asset\" in a leaked internal email concerning possible Microsoft acquisitions.\r\n\n\r\nThe email chain, sent in 2020 between Spencer, chief marketing officer Chris Capossela, and commercial chief marketing officer Takeshi Numoto, discusses the possibility of acquiring Nintendo at some point in the future, with Numoto initially noting Nintendo's \"rich set of franchises\".\r\n\n\r\n\"I totally agree that Nintendo is THE prime asset for us in gaming and today gaming is our most likely path to consumer relevance,\" replied Spencer.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/phil-spencer-describes-nintendo-as-the-prime-asset-for-xbox-to-acquire",
+          "publishedOn": "2023-09-19T09:27:38.000Z",
+          "wordCount": 7099,
+          "title": "Phil Spencer describes Nintendo as \"THE prime asset\" for Xbox to acquire",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Phil-Spencer-Xbox-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-xbox-controller-with-swappable-battery-spotted-in-huge-microsoft-leak",
+          "author": "Liv Ngan",
+          "description": "A new Xbox controller, codenamed Sebile, has been spotted as part of the massive overnight leak of Microsoft documents.\nSebile, formally called Xbox Universal Controller according to the leak, is included in a hardware roadmap emailed internally on 5th February 2022. Sebile has a higher focus on sustainability as well as improvements in durability.\nSebile will also be available in the Xbox Design Lab, allowing buyers to customise the colours on the controller, with special and limited editions expected down the line.\n Read more",
+          "link": "https://www.eurogamer.net/new-xbox-controller-with-swappable-battery-spotted-in-huge-microsoft-leak",
+          "publishedOn": "2023-09-19T09:24:59.000Z",
+          "wordCount": 6905,
+          "title": "New Xbox controller with swappable battery spotted in huge Microsoft leak",
+          "imageUrl": "https://assetsio.reedpopcdn.com/pexels-photo-4068701.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/leaked-bethesda-roadmap-reveals-unannounced-releases-including-dishonored-3",
+          "author": "Victoria Kennedy",
+          "description": "As part of the recent Microsoft leaks, a slate of Bethesda games - including several unannounced titles -  have been revealed. \r\n\n\r\nThis sizable list was part of an internal Microsoft document from July 2020, which was issued ahead of the company's acquisition of Bethesda. \r\n\n\r\nAlong with games such as this year's Starfield and Redfall, the list also includes titles up until the end of 2024's financial year. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/leaked-bethesda-roadmap-reveals-unannounced-releases-including-dishonored-3",
+          "publishedOn": "2023-09-19T09:20:34.000Z",
+          "wordCount": 7324,
+          "title": "Leaked Bethesda roadmap reveals unannounced releases including Dishonored 3",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_09a97431ef9a96276d20628e1539e2ea3259c74d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/leaked-microsoft-documents-reveal-2028-next-generation-xbox-console-release-plan",
+          "author": "Victoria Kennedy",
+          "description": "A cascade of confidential Microsoft documents leaked overnight, detailing the company's Xbox plans for the coming years. \r\n\n\r\nAlong with emails detailing the likes of a potential eye on acquiring Nintendo and a Series X/S refresh for 2024, the leak also revealed Microsoft's plans to release a new next-generation console in 2028.\r\n\n\r\nThe leaked slides, as seen below, show Microsoft has its next-gen console planned for in five years time. It will support \"cloud hybrid games\", and is currently described as an \"immersive game and app platform\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/leaked-microsoft-documents-reveal-2028-next-generation-xbox-console-release-plan",
+          "publishedOn": "2023-09-19T08:40:39.000Z",
+          "wordCount": 6931,
+          "title": "Leaked Microsoft documents reveal 2028 next generation Xbox console release plan",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Xbox-Logo_vEsBvGH.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-xbox-series-xs-consoles-detailed-in-enormous-microsoft-leak",
+          "author": "Tom Phillips",
+          "description": "Microsoft will launch a refreshed version of both the Xbox Series X and S next year, according to documentation included in an enormous leak of information from the company's recent FTC court trial. \nThe company's mid-gen refresh is slated to arrive in 2024, four years before plans for a proper next-gen Xbox console expected in 2028.\r\n\n\r\nNext year's new Xbox Series X (codenamed \"Brooklin\") will be all-digital and sports a new cyclindrical design. It's set for launch next October.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-xbox-series-xs-consoles-detailed-in-enormous-microsoft-leak",
+          "publishedOn": "2023-09-19T08:24:34.000Z",
+          "wordCount": 7434,
+          "title": "New Xbox Series X/S consoles detailed in enormous Microsoft leak",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_2JH6hcA.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/the-sims-4s-home-chef-hustle-stuff-pack-is-out-next-week",
           "author": "Matt Wales",
