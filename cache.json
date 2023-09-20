@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/09/on-the-cybersecurity-jobs-shortage.html",
+          "author": null,
+          "description": "<p>In April, Cybersecurity Ventures <a href=\"https://apnews.com/press-release/ein-presswire-newsmatics/technology-steve-morgan-ein-presswire-newsmatics-2c99c00b8673966bde5eca81f6535320\">reported</a> on extreme cybersecurity job shortage:</p>\n<blockquote><p>Global cybersecurity job vacancies grew by 350 percent, from one million openings in 2013 to 3.5 million in 2021, according to <a href=\"https://cybersecurityventures.com\">Cybersecurity Ventures</a>. The number of unfilled jobs leveled off in 2022, and remains at 3.5 million in 2023, with more than 750,000 of those positions in the U.S. Industry efforts to source new talent and tackle burnout continues, but we predict that the disparity between demand and supply will remain through at least 2025.</p></blockquote>\n<p>The numbers never made sense to me, and Ben Rothke has dug in and ...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/on-the-cybersecurity-jobs-shortage.html",
+          "publishedOn": "2023-09-20T11:06:33.000Z",
+          "wordCount": 1085,
+          "title": "On the Cybersecurity Jobs Shortage",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/09/detecting-ai-generated-text.html",
           "author": null,
           "description": "<p>There are no reliable ways to distinguish text written by a human from text written by an large language model. OpenAI <a href=\"https://help.openai.com/en/articles/8313351-how-can-educators-respond-to-students-presenting-ai-generated-content-as-their-own\">writes</a>:</p>\n<blockquote><p>Do AI detectors work?</p>\n<ul>\n<li>In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\n<li>Additionally, ChatGPT has no &#8220;knowledge&#8221; of what content could be AI-generated. It will sometimes make up responses to questions like &#8220;did you write this [essay]?&#8221; or &#8220;could this have been written by AI?&#8221; These responses are random and have no basis in fact.\n...</li></li></ul></blockquote>",
@@ -3820,56 +3830,6 @@
           "wordCount": 1890,
           "title": "Konami warns players of “outdated” content in Metal Gear Solid collection",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/mgs-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1962114",
-          "author": "Stephen Clark",
-          "description": "No country besides China has successfully landed on the Moon since 1976.",
-          "link": "https://arstechnica.com/?p=1962114",
-          "publishedOn": "2023-08-22T00:25:03.000Z",
-          "wordCount": 2097,
-          "title": "After Russia’s failure, India is next in line to attempt a Moon landing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/ch3_3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1962109",
-          "author": "John Timmer",
-          "description": "Republicans seem to depolarize more than Democrats.",
-          "link": "https://arstechnica.com/?p=1962109",
-          "publishedOn": "2023-08-21T23:11:53.000Z",
-          "wordCount": 1841,
-          "title": "Political polarization toned down through anonymous online chats",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1280843670-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1961945",
-          "author": "Jennifer Ouellette",
-          "description": "Letter from 1475 contains proteins suggesting he suffered from hemolacria, respiratory problems.",
-          "link": "https://arstechnica.com/?p=1961945",
-          "publishedOn": "2023-08-21T21:58:15.000Z",
-          "wordCount": 1899,
-          "title": "Scientists find evidence that Vlad the Impaler shed bloody tears",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/vlad1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1962049",
-          "author": "Stephen Clark",
-          "description": "\"I’m a public company, I can’t make this shit up.\"",
-          "link": "https://arstechnica.com/?p=1962049",
-          "publishedOn": "2023-08-21T21:31:02.000Z",
-          "wordCount": 2433,
-          "title": "Chris Kemp unplugged—Astra’s CEO dishes on the space company’s struggles",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1241184763-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1962066",
-          "author": "Beth Mole",
-          "description": "The variant has grabbed attention, but with such limited data, the risk is unclear.",
-          "link": "https://arstechnica.com/?p=1962066",
-          "publishedOn": "2023-08-21T20:17:10.000Z",
-          "wordCount": 2323,
-          "title": "BA.2.86 shows just how risky slacking off on COVID monitoring is",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1358937247-760x380.jpeg"
         }
       ]
     },
@@ -3877,18 +3837,7 @@
       "title": "A Few Thoughts on Cryptographic Engineering",
       "feedUrl": "https://blog.cryptographyengineering.com/feed/",
       "siteUrl": "https://blog.cryptographyengineering.com",
-      "articles": [
-        {
-          "id": "http://blog.cryptographyengineering.com/?p=7109",
-          "author": "Matthew Green",
-          "description": "Recently a reader wrote in and asked if I would look at Sam Altman’s Worldcoin, presumably to give thoughts on it from a privacy perspective. This was honestly the last thing I wanted to do, since life is short and this seemed like an obvious waste of it. Of course a project devoted to literally … Continue reading Some rough impressions of Worldcoin →",
-          "link": "https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/",
-          "publishedOn": "2023-08-21T22:24:30.000Z",
-          "wordCount": 5966,
-          "title": "Some rough impressions of Worldcoin",
-          "imageUrl": "https://matthewdgreen.files.wordpress.com/2023/08/706d4b93-4ee4-4bf9-b035-c709813b7058_opening-orb-look-inside-worldcoin-biometric-imaging-device-1.webp?w=1200"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kubernetes – Production-Grade Container Orchestration",
@@ -4005,6 +3954,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/leaked-microsoft-documents-explain-why-yakuza-like-a-dragon-was-briefly-a-timed-next-gen-exclusive",
+          "author": "Liv Ngan",
+          "description": "When Yakuza: Like a Dragon released in 2020, there was an odd situation where the PS5 version released four months after the Xbox Series X/S version, with no explanations given.\nThanks to the huge leak of documents accidentally uploaded by Microsoft to the US FTC, we now know why the PS5 version of Yakuza: Like a Dragon was released later than its Xbox next-gen counterparts. \nIn a series of emails dated 1st June 2020, Xbox execs Phil Spencer, Sarah Bond, and Damon Baker (who has since left Microsoft and joined publisher Kepler Interactive) discuss how the company essentially ended up with a timed exclusive on next-gen consoles thanks to a number of caveats with certain deals struck between itself, Sega and Sony.\n Read more",
+          "link": "https://www.eurogamer.net/leaked-microsoft-documents-explain-why-yakuza-like-a-dragon-was-briefly-a-timed-next-gen-exclusive",
+          "publishedOn": "2023-09-20T11:50:15.000Z",
+          "wordCount": 7640,
+          "title": "Leaked Microsoft documents explain why Yakuza: Like a Dragon was briefly a timed next-gen exclusive",
+          "imageUrl": "https://assetsio.reedpopcdn.com/yakuza-like-a-dragon_QdTUk5R.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/like-a-dragon-infinite-wealth-out-in-january-2024",
+          "author": "Liv Ngan",
+          "description": "Like a Dragon developer RGG Studio has announced that the next main game in the series, Infinite Wealth, will release on 26th January 2024. The announcement was made during the studio's latest RGG Summit event, ahead of Tokyo Games Show 2023.\nRGG has also released a story trailer which sets up the events of Infinite Wealth. Protagonist Ichiban Kasuga is sent to Hawaii to look for his long lost mother, Akane. Once he arrives, he ends up being ambushed as many local factions are also searching for Akane. \nSeries poster boy Kazuma Kiryu has also been sent to find Akane by the Daidoji faction, and he teams up with Ichiban to fully dismantle the Yakuza in Japan. \n Read more",
+          "link": "https://www.eurogamer.net/like-a-dragon-infinite-wealth-out-in-january-2024",
+          "publishedOn": "2023-09-20T10:16:18.000Z",
+          "wordCount": 7033,
+          "title": "Like a Dragon: Infinite Wealth out in January 2024",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Like-a-Dragon-Infinite-Wealth---Horizontal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/embracer-makes-new-round-of-layoffs-this-time-at-mythforce-developer-beamdog",
+          "author": "Ed Nightingale",
+          "description": "Embracer has made a new round of layoffs, this time at Mythforce developer Beamdog less than 18 months after its acquisition.\r\n\n\r\nBeamdog was acquired by Aspyr in April last year, whose parent company is Embracer.\r\n\r\n\n\r\nNow 26 employees have been laid off, according to multiple LinkedIn posts and reported by GameDeveloper.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/embracer-makes-new-round-of-layoffs-this-time-at-mythforce-developer-beamdog",
+          "publishedOn": "2023-09-20T10:15:42.000Z",
+          "wordCount": 6946,
+          "title": "Embracer makes new round of layoffs, this time at Mythforce developer Beamdog",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Mythforce_Screenshot_5.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/terraria-developer-donates-to-open-source-engines-in-wake-of-unity-policy-changes",
+          "author": "Ed Nightingale",
+          "description": "Terraria developer Re-Logic is donating $100k to two open source engines in the wake of Unity's recent policy changes.\r\n\n\r\nRe-Logic does not even use Unity, but in a statement via X (formerly Twitter) the developer said it felt it \"cannot sit idly by as these predatory moves are made against studios everywhere\".\r\n\n\r\nGodot and FNA will receive $100k each, and Re-Logic will also continue sponsoring both with a further $1k per month. \"All we ask in return is that they remain good people and keep doing all that they can to make these engines powerful and approachable for developers everywhere,\" said Re-Logic.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/terraria-developer-donates-to-open-source-engines-in-wake-of-unity-policy-changes",
+          "publishedOn": "2023-09-20T09:34:44.000Z",
+          "wordCount": 7324,
+          "title": "Terraria developer donates to open source engines in wake of Unity policy changes",
+          "imageUrl": "https://assetsio.reedpopcdn.com/LoL1Forest.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/assassins-creed-mirage-pc-specs-detailed",
+          "author": "Tom Phillips",
+          "description": "Ubisoft has detailed the PC specs you'll need to play Assassin's Creed Mirage, its upcoming new chapter in the long-running historical stabathon series.\r\n\n\r\nYou'll need just 40GB of storage to install Mirage, with a variety of CPUs and GPUs supported for running the game somewhere between 1080p 30fps and up to 4K and 60fps.\r\n\n\r\nOn the low end, you're looking at a Nvidia GeForce 1060 or AMD Radeon RX 570 with 8GB RAM. On the high end, you'll need a Nvidia GeForce 3080 or AMD Radeon 6900 with 16GB RAM. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/assassins-creed-mirage-pc-specs-detailed",
+          "publishedOn": "2023-09-20T09:31:54.000Z",
+          "wordCount": 7043,
+          "title": "Assassin's Creed Mirage PC specs detailed",
+          "imageUrl": "https://assetsio.reedpopcdn.com/acm-basim-960x540.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/blueys-getting-a-four-player-video-game-adaptation-in-november",
           "author": "Matt Wales",
@@ -7154,36 +7153,6 @@
           "wordCount": 7205,
           "title": "Microsoft will sell Activision Blizzard streaming rights to Ubisoft",
           "imageUrl": "https://assetsio.reedpopcdn.com/microsoft-clouds.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/immortals-fenyx-risings-sequel-reportedly-mixed-elden-ring-with-wind-waker",
-          "author": "Matt Wales",
-          "description": "Following last month's confirmation that a planned sequel to Ubisoft's enjoyable open-world romp Immortals: Fenyx Rising had been cancelled, new details of the ill-fated project have emerged, including word it would have combined elements of Elden Ring and Wind Waker to create a follow-up very different from the original.\r\n\n\r\nAs reported by Axios, citing two sources familiar with Immortals 2's development, work on the project (codenamed Oxygen) began in 2021. It was to be a considerable departure from the 2020 original, ditching that game's Greek mythology focus in favour of a setting inspired by Hawaiian Polynesian culture - as we've heard before. Other planned changes, according to Axios, included a more realistic graphical style, the removal of the first game's narrator, less emphasis on puzzle solving, and the addition of a story driven by player choice.\r\n\n\r\nAdditionally, Immortals 2 was reportedly aiming to significantly shake up Ubisoft's familiar open-world formula, trading an overabundance of quest markers and guidance in favour of an Elden-Ring-inspired set-up that would require players to figure out their own path forward - by tracking animals, navigating via the stars, or following the wind - as they sailed between and explored fictional islands inspired by the likes of New Zealand, Tahiti, Easter Island, and Hawaii.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/immortals-fenyx-risings-sequel-reportedly-mixed-elden-ring-with-wind-waker",
-          "publishedOn": "2023-08-21T22:14:21.000Z",
-          "wordCount": 6997,
-          "title": "Immortals: Fenyx Rising 2 reportedly mixed Elden Ring with Wind Waker",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ubisoft-reportedly-working-on-immortals-fenyx-rising-sequel-new-prince-of-persia-more-1647904817101.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/cyberpunk-parkour-sequel-ghostrunner-2-gets-october-release-date",
-          "author": "Matt Wales",
-          "description": "Ghostrunner 2, the sequel to developer One More Level's acclaimed game of tough-as-nails cyberpunk parkour action and swearing extremely loudly at the screen, finally has a release date and will be coming to PS5, Xbox Series X/S, and PC on 26th October.\r\n\n\r\nSet one year after the events of the first game, Ghostrunner once again whizzes players, in the role of returning protagonist Jack, to a post-apocalyptic cyberpunk future for more \"FPP slasher\" action (I'll be honest, I'm not entirely sure what FPP stands for in this instance, but the PP made me laugh), this time battling against a violent AI cult.\r\n\n\r\nOnce again, katana violence and acrobatic parkour (I now realise at least one of the Ps might stand for \"parkour\") are in order, with One More Level also promising a \"deeper exploration of the world beyond Dharma Tower\", nonlinear levels with complex motorbike sections, more interactive bosses, plus \"exciting new modes\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/cyberpunk-parkour-sequel-ghostrunner-2-gets-october-release-date",
-          "publishedOn": "2023-08-21T20:53:33.000Z",
-          "wordCount": 6713,
-          "title": "Cyberpunk parkour sequel Ghostrunner 2 gets October release date",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ghostrunner-2-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/vampire-survivors-directers-cut-real-says-dev-new-stuff-coming-2023-and-beyond",
-          "author": "Matt Wales",
-          "description": "As if a couch co-op mode and a Switch release somehow wasn't enough new Vampire Survivors stuff to be getting on with, developer Poncle has teased plenty more is still to come, confirming everything seen in a recent \"Directer's Cut\" (yes, with an \"e\") leak is real and on the way.\r\n\n\r\nImages and footage of an unreleased Vampire Survivors Directer's Cut build shown at a recent event began circulating earlier this month, and Poncle - writing in its update 1.6 release notes - has now acknowledged their existence, explaining, \"That's something we've been doing in most events (since TGS 2022): hiding some of the future content for the game in plain sight.\"\r\n\n\r\nWhile the developer says the menu screen - and presumably the \"Directer's Cut\" name - featured in the leak might never actually appear in-game, everything else \"is scheduled to be fully developed and released in future free updates.\" There's nothing like a public roadmap for Vampire Survivors' new content yet, but Poncle confirms \"dozens of characters and weapons\" are in development for \"2023 and beyond\" - and to accompany the news, it's shared a teaser trailer giving some of that new stuff a first official airing.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/vampire-survivors-directers-cut-real-says-dev-new-stuff-coming-2023-and-beyond",
-          "publishedOn": "2023-08-21T19:05:54.000Z",
-          "wordCount": 6835,
-          "title": "Vampire Survivors Directer's Cut real says dev, lots more free DLC on the way",
-          "imageUrl": "https://assetsio.reedpopcdn.com/vampire-survivors-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
