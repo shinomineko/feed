@@ -392,6 +392,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1970704",
+          "author": "Stephen Clark",
+          "description": "Breathe easy, there's a bounty from Bennu inside.",
+          "link": "https://arstechnica.com/?p=1970704",
+          "publishedOn": "2023-09-24T19:26:57.000Z",
+          "wordCount": 3643,
+          "title": "NASA spacecraft returns to Earth with pieces of an asteroid",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/dante-src1-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1970599",
           "author": "WIRED",
           "description": "With viral spillovers happening more frequently, containment is a fragile shield.",
@@ -3670,26 +3680,6 @@
           "wordCount": 2022,
           "title": "The sports fan’s guide to streaming services",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/sportsball-streaming-comparison-football-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1963575",
-          "author": "Stephen Clark",
-          "description": "A new Falcon 9 booster also joins SpaceX's fleet with Saturday's launch.",
-          "link": "https://arstechnica.com/?p=1963575",
-          "publishedOn": "2023-08-26T11:41:12.000Z",
-          "wordCount": 2863,
-          "title": "Four people from four different nations ride SpaceX rocket into orbit",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Crew-7-20-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1963543",
-          "author": "Inside Climate News",
-          "description": "Cambridge study says carbon offsets are not nearly as effective as they claim to be.",
-          "link": "https://arstechnica.com/?p=1963543",
-          "publishedOn": "2023-08-26T10:43:02.000Z",
-          "wordCount": 2213,
-          "title": "Study: Carbon offsets aren’t doing their job, overstate impact",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1366011761-760x380.jpg"
         }
       ]
     },
@@ -3704,6 +3694,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/09/25/kubeadm-use-etcd-learner-mode/",
+          "author": null,
+          "description": "Author: Paco Xu (DaoCloud)\nThe kubeadm tool now supports etcd learner mode, which\nallows you to enhance the resilience and stability\nof your Kubernetes clusters by leveraging the learner mode\nfeature introduced in etcd version 3.4.\nThis guide will walk you through using etcd learner mode with kubeadm. By default, kubeadm runs\na local etcd instance on each control plane node.\nIn v1.27, kubeadm introduced a new feature gate EtcdLearnerMode. With this feature gate enabled,\nwhen joining a new control plane node, a new etcd member will be created as a learner and\npromoted to a voting member only after the etcd data are fully aligned.\nWhat are the advantages of using etcd learner mode?\netcd learner mode offers several compelling reasons to consider its adoption\nin Kubernetes clusters:\nEnhanced R…",
+          "link": "https://kubernetes.io/blog/2023/09/25/kubeadm-use-etcd-learner-mode/",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 4150,
+          "title": "Blog: kubeadm: Use etcd Learner to Join a Control Plane Node Safely",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/09/13/userns-alpha/",
           "author": null,
@@ -6763,16 +6763,6 @@
           "wordCount": 7065,
           "title": "Genshin Impact players believe hackers are \"bricking\" progress by deleting in-game exploration points",
           "imageUrl": "https://assetsio.reedpopcdn.com/Genshin-Impact-Navia-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/dark-and-darker-is-coming-to-mobile",
-          "author": "Vikki Blake",
-          "description": "Dark and Darker is coming to mobile.\r\n\nPUBG: Battlegrounds publisher Krafton has acquired the rights to bring the RPG to mobile devices, lauding the game's \"potential and distinct creativity\" and stating developer Ironmace had \"tapped into something compelling\".\n\"We've been watching Dark and Darker's potential and distinct creativity with great interest,\" said Rafael Lim, Krafton's senior head of publishing.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dark-and-darker-is-coming-to-mobile",
-          "publishedOn": "2023-08-26T11:41:55.000Z",
-          "wordCount": 6908,
-          "title": "Dark and Darker is coming to mobile",
-          "imageUrl": "https://assetsio.reedpopcdn.com/darkanddarker_fu91rVL.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },

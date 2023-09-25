@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T18:23:37.002Z</updated>
+    <updated>2023-09-25T00:30:39.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: kubeadm: Use etcd Learner to Join a Control Plane Node Safely]]></title>
+        <id>https://kubernetes.io/blog/2023/09/25/kubeadm-use-etcd-learner-mode/</id>
+        <link href="https://kubernetes.io/blog/2023/09/25/kubeadm-use-etcd-learner-mode/"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Paco Xu (DaoCloud)
+The kubeadm tool now supports etcd learner mode, which
+allows you to enhance the resilience and stability
+of your Kubernetes clusters by leveraging the learner mode
+feature introduced in etcd version 3.4.
+This guide will walk you through using etcd learner mode with kubeadm. By default, kubeadm runs
+a local etcd instance on each control plane node.
+In v1.27, kubeadm introduced a new feature gate EtcdLearnerMode. With this feature gate enabled,
+when joining a new control plane node, a new etcd member will be created as a learner and
+promoted to a voting member only after the etcd data are fully aligned.
+What are the advantages of using etcd learner mode?
+etcd learner mode offers several compelling reasons to consider its adoption
+in Kubernetes clusters:
+Enhanced R…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA spacecraft returns to Earth with pieces of an asteroid]]></title>
+        <id>https://arstechnica.com/?p=1970704</id>
+        <link href="https://arstechnica.com/?p=1970704"/>
+        <updated>2023-09-24T19:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Breathe easy, there's a bounty from Bennu inside.]]></summary>
+        <author>
+            <name>Stephen Clark</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No, it's "not just you" - Destiny 2 is seemingly "broken" right now]]></title>
         <id>https://www.eurogamer.net/no-its-not-just-you-destiny-2-is-seemingly-broken-right-now</id>
@@ -9071,41 +9104,6 @@ According to some players affected by the issue, the "destruction is irreversibl
  Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark and Darker is coming to mobile]]></title>
-        <id>https://www.eurogamer.net/dark-and-darker-is-coming-to-mobile</id>
-        <link href="https://www.eurogamer.net/dark-and-darker-is-coming-to-mobile"/>
-        <updated>2023-08-26T11:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Dark and Darker is coming to mobile.
-
-PUBG: Battlegrounds publisher Krafton has acquired the rights to bring the RPG to mobile devices, lauding the game's "potential and distinct creativity" and stating developer Ironmace had "tapped into something compelling".
-"We've been watching Dark and Darker's potential and distinct creativity with great interest," said Rafael Lim, Krafton's senior head of publishing.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four people from four different nations ride SpaceX rocket into orbit]]></title>
-        <id>https://arstechnica.com/?p=1963575</id>
-        <link href="https://arstechnica.com/?p=1963575"/>
-        <updated>2023-08-26T11:41:12.000Z</updated>
-        <summary type="html"><![CDATA[A new Falcon 9 booster also joins SpaceX's fleet with Saturday's launch.]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study: Carbon offsets aren’t doing their job, overstate impact]]></title>
-        <id>https://arstechnica.com/?p=1963543</id>
-        <link href="https://arstechnica.com/?p=1963543"/>
-        <updated>2023-08-26T10:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge study says carbon offsets are not nearly as effective as they claim to be.]]></summary>
-        <author>
-            <name>Inside Climate News</name>
         </author>
     </entry>
 </feed>
