@@ -124,16 +124,6 @@
           "wordCount": 178,
           "title": "*@gmail.com",
           "imageUrl": "https://imgs.xkcd.com/comics/gmail_com_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2821/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/path_minimization.png\" title=\"Of course you get an ice cream cone for the swimmer too! You're not a monster.\" alt=\"Of course you get an ice cream cone for the swimmer too! You're not a monster.\" />",
-          "link": "https://xkcd.com/2821/",
-          "publishedOn": "2023-08-28T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Path Minimization",
-          "imageUrl": "https://imgs.xkcd.com/comics/path_minimization_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/09/signal-will-leave-the-uk-rather-than-add-a-backdoor.html",
+          "author": null,
+          "description": "<p>Totally expected, but still <a href=\"https://techcrunch.com/2023/09/21/meredith-whittaker-reaffirms-that-signal-would-leave-u-k-if-forced-by-privacy-bill/\">good to hear</a>:</p>\n<blockquote><p>Onstage at TechCrunch Disrupt 2023, Meredith Whittaker, the president of the Signal Foundation, which maintains the nonprofit Signal messaging app, reaffirmed that Signal would leave the U.K. if the country&#8217;s recently passed Online Safety Bill forced Signal to build &#8220;backdoors&#8221; into its end-to-end encryption.</p>\n<p>&#8220;We would leave the U.K. or any jurisdiction if it came down to the choice between backdooring our encryption and betraying the people who count on us for privacy, or leaving,&#8221; Whittaker said. &#8220;And that&#8217;s never not true.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/signal-will-leave-the-uk-rather-than-add-a-backdoor.html",
+          "publishedOn": "2023-09-26T11:15:02.000Z",
+          "wordCount": 934,
+          "title": "Signal Will Leave the UK Rather Than Add a Backdoor",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/09/friday-squid-blogging-new-squid-species-2.html",
           "author": null,
@@ -3894,16 +3894,6 @@
           "wordCount": 4525,
           "title": "Blog: Gateway API v0.8.0: Introducing Service Mesh Support",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/08/28/kubernetes-1-28-feature-mixed-version-proxy-alpha/",
-          "author": null,
-          "description": "Author: Richa Banker (Google)\nThis blog describes the mixed version proxy, a new alpha feature in Kubernetes 1.28. The\nmixed version proxy enables an HTTP request for a resource to be served by the correct API server\nin cases where there are multiple API servers at varied versions in a cluster. For example,\nthis is useful during a cluster upgrade, or when you're rolling out the runtime configuration of\nthe cluster's control plane.\nWhat problem does this solve?\nWhen a cluster undergoes an upgrade, the kube-apiservers existing at different versions in that scenario can serve different sets (groups, versions, resources) of built-in resources. A resource request made in this scenario may be served by any of the available apiservers, potentially resulting in the request ending up at an apiserve…",
-          "link": "https://kubernetes.io/blog/2023/08/28/kubernetes-1-28-feature-mixed-version-proxy-alpha/",
-          "publishedOn": "2023-08-28T00:00:00.000Z",
-          "wordCount": 4148,
-          "title": "Blog: Kubernetes 1.28: A New (alpha) Mechanism For Safer Cluster Upgrades",
-          "imageUrl": "/images/blog/2023-08-28-a-new-alpha-mechanism-for-safer-cluster-upgrades/mvp-flow-diagram.svg"
         }
       ]
     },
@@ -3935,6 +3925,76 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-showrunner-shares-production-update-as-wga-strikes-look-set-to-end",
+          "author": "Victoria Kennedy",
+          "description": "We may not be getting any big juicy news on Naughty Dog's games or show as part of The Last of Us day today, but we do have a slither of an update for season two of HBO's TV adaptation.\r\n\n\r\nThis slither comes from Craig Mazin, showrunner and co-creator of HBO's The Last of Us  adaptation, who has said work on season two will resume \"the second\" that strike action is officially lifted.\r\n\n\r\nAs a reminder, the Writers Guild of America has been on strike for almost five months. However, it was recently announced that a tentative agreement has been reached between the relevant parties for a new three-year contract, something that looks set to end the 146-day strike (thanks, Variety). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-last-of-us-showrunner-shares-production-update-as-wga-strikes-look-set-to-end",
+          "publishedOn": "2023-09-26T11:57:48.000Z",
+          "wordCount": 7700,
+          "title": "The Last of Us showrunner shares production update as WGA strikes look set to end",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Bella-R-as-Ellie-with-Craig-M-on-the-set-of-The-Last-of-Us-season-one.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-7-rebirth-developers-debate-jrpg-term-with-opposing-views",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 7 Rebirth producer Yoshinori Kitase and creative director Tetsuya Nomura have discussed the term JRPG, and shared contrasting opinions.\r\n\n\r\nNomura said he felt negatively towards the term, while Kitase was more accepting of its use to highlight the different approaches taken by Japanese game companies.\r\n\n\r\n\"I'm not too keen on it,\" Nomura told The Guardian in a new interview. \"Certainly, when we started doing interviews for the games that I started making, no one used that term - they just called them RPGs. And then at some point - I can't remember exactly when - people started referring to them as JRPGs. And I'm not really sure what the intent behind that is. It just always felt a bit off to me, and a bit weird. I never really understood it - or why it's needed.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-7-rebirth-developers-debate-jrpg-term-with-opposing-views",
+          "publishedOn": "2023-09-26T11:54:23.000Z",
+          "wordCount": 7512,
+          "title": "Final Fantasy 7 Rebirth developers debate JRPG term with opposing views",
+          "imageUrl": "https://assetsio.reedpopcdn.com/14_FF7REBIRTH_0915_PV_FIX__11456.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/15-years-later-more-beyond-good-evil-2-footage-surfaces",
+          "author": "Tom Phillips",
+          "description": "While we wait (and wait) for Ubisoft to show more of Beyond Good & Evil 2, early footage from the project has surfaced from back in 2008.\r\n\n\r\nYes, 2008. We've really been waiting a while.\r\n\n\r\nThis is the version of Beyond Good & Evil we've seen in other clips released or leaked over the years, and which Ubisoft released an early trailer for (showing main character Jade and Uncle Pey'j in a car out in the desert). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/15-years-later-more-beyond-good-evil-2-footage-surfaces",
+          "publishedOn": "2023-09-26T11:29:26.000Z",
+          "wordCount": 7452,
+          "title": "15 years later, more Beyond Good & Evil 2 footage surfaces",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_lJzXL32.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-how-final-fantasy-7-rebirth-players-will-catch-chocobo-in-the-wild",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 7 Rebirth will task players with catching chocobo in real-time out in the wild.\r\n\n\r\nOf course, catching chocobo is nothing new for the series, but a new social post on X (formerly Twitter) from the game's official account shows how it'll work in Rebirth for the first time, with a video of Cloud catching one of the iconic yellow birds. \r\n\n\r\nThe method actually looks similar to Breath of the Wild, with Cloud sneaking through foliage (and some conveniently spiky yellow flowers) and throwing out some greens as a distraction before mounting the bird.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-how-final-fantasy-7-rebirth-players-will-catch-chocobo-in-the-wild",
+          "publishedOn": "2023-09-26T11:26:30.000Z",
+          "wordCount": 7765,
+          "title": "Here's how Final Fantasy 7 Rebirth players will catch chocobo in the wild",
+          "imageUrl": "https://assetsio.reedpopcdn.com/08_EN_FF7REBITH_0915_chocobo_FIX-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/make-sure-you-dont-lock-yourself-out-of-cyberpunk-2077-phantom-libertys-main-quest",
+          "author": "Liv Ngan",
+          "description": "If you're jumping back into Cyberpunk 2077 with the release of Phantom Liberty today, be aware that it's possible to lock yourself out of the DLC's main quest.\r\n\nAs reported by PC Gamer, making a particular choice during one of the earlier story quests will lock you out of any future main quests. You can still explore Dogtown, but you won't get to spend time with Idris Elba. Why would you deprive yourself of that opportunity?\r\n\nThe choice which will lock you out is towards the end of Lucretia My Reflection, the fourth main quest. It's a fairly obvious one, but spoiler warning for below if you want to know exactly where it occurs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/make-sure-you-dont-lock-yourself-out-of-cyberpunk-2077-phantom-libertys-main-quest",
+          "publishedOn": "2023-09-26T10:47:51.000Z",
+          "wordCount": 7473,
+          "title": "Make sure you don't lock yourself out of Cyberpunk 2077: Phantom Liberty's main quest",
+          "imageUrl": "https://assetsio.reedpopcdn.com/cp77-phantom-liberty.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/red-dead-redemption-2-nintendo-switch-rating-spotted-in-brazil",
+          "author": "Victoria Kennedy",
+          "description": "A Nintendo Switch version of Red Dead Redemption 2 has shown up on the Brazilian ratings board's website.\r\n\n\r\nAs spotted by X (formerly Twitter) user necrolipe, Red Dead Redemption 2 has been rated for Nintendo Switch in Brazil. Eurogamer has since verified this listing, which also details other platforms the game is currently available on.\r\n\n\r\nDeveloper Rockstar is yet to announce a Switch edition of its Wild West prequel, and it is unclear when the Brazilian ratings board updated its site to include this version. However, this recent revelation comes just one month after the studio added the first Red Dead game to the Nintendo Switch's library.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/red-dead-redemption-2-nintendo-switch-rating-spotted-in-brazil",
+          "publishedOn": "2023-09-26T10:38:34.000Z",
+          "wordCount": 7502,
+          "title": "Red Dead Redemption 2 Nintendo Switch rating spotted in Brazil",
+          "imageUrl": "https://assetsio.reedpopcdn.com/red_dead_redemption_2_deal_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sag-aftra-members-overwhelmingly-vote-in-favour-of-authorising-video-game-strike",
+          "author": "Ed Nightingale",
+          "description": "Members of the major SAG-AFTRA acting union have overwhelmingly voted in favour of authorising a potential video game strike.\r\n\n\r\nBallots were cast by 34,687 members, with 98.32 percent in favour of strike authorisation on the Interactive Media Agreement that covers union members' work on video games.\r\n\n\r\nWhile this does not guarantee the union will call a strike, the next bargaining session is this week, and this ratchets up the pressure. The leverage of this authorisation could compel movement on either side.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sag-aftra-members-overwhelmingly-vote-in-favour-of-authorising-video-game-strike",
+          "publishedOn": "2023-09-26T10:28:08.000Z",
+          "wordCount": 7142,
+          "title": "SAG-AFTRA members overwhelmingly vote in favour of authorising video game strike",
+          "imageUrl": "https://assetsio.reedpopcdn.com/sag-aftra-strike-approval.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/vampire-survivors-dev-says-its-investigating-online-co-op",
           "author": "Matt Wales",
