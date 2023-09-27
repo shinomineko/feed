@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/09/critical-vulnerability-in-libwebp-library.html",
+          "author": null,
+          "description": "<p>Both <a href=\"https://arstechnica.com/gadgets/2023/09/apple-patches-clickless-0-day-image-processing-vulnerability-in-ios-macos/\">Apple</a> and <a href=\"https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html\">Google</a> have recently reported critical vulnerabilities in their systems&#8212;iOS and Chrome, respectively&#8212;that are ultimately the result of the <a href=\"https://arstechnica.com/security/2023/09/incomplete-disclosures-by-apple-and-google-create-huge-blindspot-for-0-day-hunters/\">same vulnerability</a> in the libwebp library:</p>\n<blockquote><p>On Thursday, researchers from security firm Rezillion published evidence that they said made it &#8220;highly likely&#8221; both indeed stemmed from the same bug, specifically in libwebp, the code library that apps, operating systems, and other code libraries incorporate to process WebP images.</p>\n<p>Rather than Apple, Google, and Citizen Lab coordinating and accurately reporting the common origin of the vulnerability, they chose to use a separate CVE designation, the researchers said. The researchers concluded that &#8220;millions of different applications&#8221; would remain vulnerable until they, too, incorporated the libwebp fix. That, in turn, they said, was preventing automated systems that developers use to track known vulnerabilities in their offerings from detecting a critical vulnerability that&#8217;s under active exploitation...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/09/critical-vulnerability-in-libwebp-library.html",
+          "publishedOn": "2023-09-27T11:08:01.000Z",
+          "wordCount": 872,
+          "title": "Critical Vulnerability in libwebp Library",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/09/signal-will-leave-the-uk-rather-than-add-a-backdoor.html",
           "author": null,
           "description": "<p>Totally expected, but still <a href=\"https://techcrunch.com/2023/09/21/meredith-whittaker-reaffirms-that-signal-would-leave-u-k-if-forced-by-privacy-bill/\">good to hear</a>:</p>\n<blockquote><p>Onstage at TechCrunch Disrupt 2023, Meredith Whittaker, the president of the Signal Foundation, which maintains the nonprofit Signal messaging app, reaffirmed that Signal would leave the U.K. if the country&#8217;s recently passed Online Safety Bill forced Signal to build &#8220;backdoors&#8221; into its end-to-end encryption.</p>\n<p>&#8220;We would leave the U.K. or any jurisdiction if it came down to the choice between backdooring our encryption and betraying the people who count on us for privacy, or leaving,&#8221; Whittaker said. &#8220;And that&#8217;s never not true.&#8221;...</p></blockquote>",
@@ -3861,36 +3871,6 @@
           "wordCount": 2524,
           "title": "US spy satellite agency isn’t so silent about new “Silent Barker” mission",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/53141510910_52966857de_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1963908",
-          "author": "Beth Mole",
-          "description": "It's the first time the snake parasite has been seen in a human, let alone a brain.",
-          "link": "https://arstechnica.com/?p=1963908",
-          "publishedOn": "2023-08-28T21:07:21.000Z",
-          "wordCount": 2137,
-          "title": "Woman’s mystery illness turns out to be 3-inch snake parasite in her brain",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/23-0351-F2-760x290.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1963799",
-          "author": "Benj Edwards",
-          "description": "Unlimited GPT-4, encryption, 32K context, and more. Will it become an essential tool?",
-          "link": "https://arstechnica.com/?p=1963799",
-          "publishedOn": "2023-08-28T20:27:40.000Z",
-          "wordCount": 2051,
-          "title": "The new spreadsheet? OpenAI introduces ChatGPT Enterprise for businesses",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/corporate_robots_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1963802",
-          "author": "Samuel Axon",
-          "description": "The device is slated for an early to mid-2024 launch.",
-          "link": "https://arstechnica.com/?p=1963802",
-          "publishedOn": "2023-08-28T19:48:21.000Z",
-          "wordCount": 1882,
-          "title": "Apple plans biggest iPad Pro update since 2018",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ipad_pro_magic_keyboard-760x380.jpg"
         }
       ]
     },
@@ -3995,6 +3975,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/cloud-streaming-will-change-gaming-as-netflix-did-tv-ubisoft-boss-believes",
+          "author": "Victoria Kennedy",
+          "description": "Ubisoft chief Yves Guillemot believes cloud streaming will be as transformative to gaming in the coming years as Netflix was to TV. \r\n\n\r\nSpeaking with the Financial Times, Guillemot looked back on Netflix's initial foray into streaming and noted the market's early scepticism. \"Their shares fell a lot and they were widely criticised,\" he recalled. \"Today, we see what they have become.\"\r\n\n\r\nGuillemot said he believes the same will eventually ring true for video game streaming as well, but admitted it will likely take some time. \"But when it takes off, it will happen very quickly,\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cloud-streaming-will-change-gaming-as-netflix-did-tv-ubisoft-boss-believes",
+          "publishedOn": "2023-09-27T12:17:15.000Z",
+          "wordCount": 7644,
+          "title": "Cloud streaming will change gaming as Netflix did TV, Ubisoft boss believes",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_06861f6dd939c78a919db95bb8e75506216d3eb4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/mortal-kombat-1-plagued-by-player-one-advantage-bug",
+          "author": "Ed Nightingale",
+          "description": "Mortal Kombat 1 players have discovered a bug that gives player one a distinct advantage.\r\n\n\r\nCertain combos executed by player one cannot be replicated by player two, a problem that persists across all playable characters and even in online multiplayer modes.\r\n\n\r\nYouTuber mrAPchem uploaded a video that demonstrates the issue (thanks TheGamer), setting up a Mirror Match with Sub-Zero and attempting the same combo as both player one and player two.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mortal-kombat-1-plagued-by-player-one-advantage-bug",
+          "publishedOn": "2023-09-27T11:53:48.000Z",
+          "wordCount": 7360,
+          "title": "Mortal Kombat 1 plagued by player one advantage bug",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Mortal-Kombat-1---Official-Announcement-Trailer-1-33-screenshot-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/cyberpunk-2077-20-adds-doom-like-minigame-starring-johnny-silverhand",
+          "author": "Liv Ngan",
+          "description": "Cyberpunk 2077 2.0 launched last week, and fans have been poring over newly added content to find all the Easter eggs  CD Projekt Red has crammed in.\nOne of the latest discoveries is an arcade cabinet which lets you play a Doom and Wolfenstein inspired minigame called Arasaka Tower 3D. In it, you play as Johnny Silverhand descending the 120 floors of Arasaka Tower in 2023 after he stormed the building in a bomb attack on the corporation. \nComplete with Keanu Reeves' face at the bottom of the screen, tight corridors and downsampled tracks from Cyberpunk 2077's OST, it's got 90s FPS written all over it. That's not all though, as players have also discovered it relates to the long-running FF:06:B5 Easter egg present in other CD Projekt Red games. \n Read more",
+          "link": "https://www.eurogamer.net/cyberpunk-2077-20-adds-doom-like-minigame-starring-johnny-silverhand",
+          "publishedOn": "2023-09-27T11:16:13.000Z",
+          "wordCount": 7796,
+          "title": "Cyberpunk 2077 2.0 adds Doom-like minigame starring Johnny Silverhand",
+          "imageUrl": "https://assetsio.reedpopcdn.com/keanu-reeves-cyberpunk.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ea-has-removed-fifa-back-catalogue-from-digital-storefronts-days-ahead-of-fc24-release",
+          "author": "Victoria Kennedy",
+          "description": "If you were looking to get your hands on FIFA games from years past, you will have to look for a second hand physical copy, as EA has delisted its FIFA back catalogue from digital storefronts.\r\n\n\r\nThe games' removal was first noticed by X (formerly Twitter) user MauroNL3, who noted \"every FIFA title from 14 up to 23 can't be purchased anymore\".\r\n\n\r\nI went and had a quick look for myself, and can verify this to be true. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-has-removed-fifa-back-catalogue-from-digital-storefronts-days-ahead-of-fc24-release",
+          "publishedOn": "2023-09-27T11:06:13.000Z",
+          "wordCount": 7557,
+          "title": "EA has removed FIFA back catalogue from digital storefronts, days ahead of FC24 release",
+          "imageUrl": "https://assetsio.reedpopcdn.com/EA-FIFA-SPORTS-23.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-raises-in-game-currency-prices",
+          "author": "Tom Phillips",
+          "description": "Pokémon Go has quietly raised prices for in-game currency bundles in a number of regions, including the UK.\r\n\n\r\nThe hugely-popular app previously charged 79p for 100 PokéCoins, the price of an in-game raid pass. As of this week, 100 PokéCoins now costs 99p.\r\n\n\r\nFans elsewhere around the world have noticed more significant changes, with the same bundle increased from 99c to CA$1.39 in Canada, AU$1.59 in Australia and NZ$1.69 in New Zealand, per reports on top Pokémon Go fan reddit The Silph Road.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-go-raises-in-game-currency-prices",
+          "publishedOn": "2023-09-27T10:57:09.000Z",
+          "wordCount": 7475,
+          "title": "Pokémon Go raises in-game currency prices",
+          "imageUrl": "https://assetsio.reedpopcdn.com/zGf6C_F7hfjM9HngAUZZB9U9kYiWMdq4ajSuF30DpmA.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/crab-soulslike-another-crabs-treasure-gets-steam-demo-next-month",
+          "author": "Ed Nightingale",
+          "description": "Aggro Crab has announced its forthcoming crabby Soulslike Another Crab's Treasure will receive a demo next month as part of Steam Next Fest.\r\n\n\r\nThe demo will be available for a limited time from 3rd October and include three boss fights, two levels to explore, and one adorable hermit crab for players to control.\r\n\n\r\nThe main aim is for the developer to gather feedback ahead of the game's release - it has added a dedicated channel to its Discord community for players to discuss the demo.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/crab-soulslike-another-crabs-treasure-gets-steam-demo-next-month",
+          "publishedOn": "2023-09-27T10:43:25.000Z",
+          "wordCount": 7218,
+          "title": "Crab Soulslike Another Crab's Treasure gets Steam demo next month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/another-crabs-treasure.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/bethesda-nerfed-the-hell-out-of-starfields-planet-atmosphere-effects",
+          "author": "Tom Phillips",
+          "description": "Exploring Starfield's planets was previously a lot harder, Bethesda has revealed, before the developer decided to dial back some \"very punitive\" atmosphere effects.\r\n\n\r\nThe Bethesda space RPG's many planets still feature environmental hazards, such as extreme temperatures and radiation. But the impact these have on your character is now fairly minimal - whereas previously this system would have seen players having to swap spacesuits to meet local conditions.\r\n\n\r\nBethesda boss Todd Howard revealed the change during an episode of the Game Maker's Notebook podcast, which is well worth a watch. In it, Howard discusses the challenges of creating interesting planets, fun space combat, and what changed during Starfield's development.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bethesda-nerfed-the-hell-out-of-starfields-planet-atmosphere-effects",
+          "publishedOn": "2023-09-27T10:18:58.000Z",
+          "wordCount": 7484,
+          "title": "Bethesda \"nerfed the hell out of\" Starfield's planet atmosphere effects",
+          "imageUrl": "https://assetsio.reedpopcdn.com/starfield-loading-screen-landscape-crescent-moon-above-mountains.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/lies-of-p-update-brings-balance-changes-and-easier-respec",
+          "author": "Ed Nightingale",
+          "description": "Puppet Soulslike Lies of P has received a new update bringing balance changes to make the game a little easier.\r\n\n\r\nAs per the update notes, changes have been made to field monsters and bosses to decrease HP and increase rewards.\r\n\n\r\nFurther tweaks have been made to character progression reset, making it easier to respec your P.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lies-of-p-update-brings-balance-changes-and-easier-respec",
+          "publishedOn": "2023-09-27T10:13:14.000Z",
+          "wordCount": 7371,
+          "title": "Lies of P update brings balance changes and easier respec",
+          "imageUrl": "https://assetsio.reedpopcdn.com/20230608154205_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/blizzard-veteran-chris-metzen-is-warcrafts-new-executive-creative-director",
           "author": "Matt Wales",
