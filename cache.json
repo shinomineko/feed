@@ -124,16 +124,6 @@
           "wordCount": 193,
           "title": "Autumn and Fall",
           "imageUrl": "https://imgs.xkcd.com/comics/autumn_and_fall_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2824/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/abstract_pickup.png\" title=\"Escape Artist Frees Self From Conversation With Pickup Artist\" alt=\"Escape Artist Frees Self From Conversation With Pickup Artist\" />",
-          "link": "https://xkcd.com/2824/",
-          "publishedOn": "2023-09-04T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Abstract Pickup",
-          "imageUrl": "https://imgs.xkcd.com/comics/abstract_pickup_2x.png"
         }
       ]
     },
@@ -175,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/10/hacking-gas-pumps-via-bluetooth.html",
+          "author": null,
+          "description": "<p>Turns out pumps at gas stations are controlled via Bluetooth, and that the connections are <a href=\"https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station\">insecure</a>. No details in the article, but it seems that it&#8217;s easy to take control of the pump and have it dispense gas without requiring payment.</p>\n<p>It&#8217;s a complicated crime to monetize, though. You need to sell access to the gas pump to others.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/hacking-gas-pumps-via-bluetooth.html",
+          "publishedOn": "2023-10-03T11:01:05.000Z",
+          "wordCount": 1284,
+          "title": "Hacking Gas Pumps via Bluetooth",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/10/nsa-ai-security-center.html",
           "author": null,
@@ -402,6 +402,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1972356",
+          "author": "Kevin Purdy",
+          "description": "Marcin Wichary on his long quest to capture everything that shaped modern type.",
+          "link": "https://arstechnica.com/?p=1972356",
+          "publishedOn": "2023-10-03T11:30:06.000Z",
+          "wordCount": 2108,
+          "title": "Shift Happens is a beautifully designed history of how keyboards got this way",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/olivetti-praxis-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1972693",
           "author": "Ashley Belanger",
@@ -3876,6 +3886,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/naughty-dog-cutting-contract-developers-early-report-claims",
+          "author": "Liv Ngan",
+          "description": "The Last of Us studio Naughty Dog is the latest company to announce layoffs internally, with at least 25 developers to be affected.\nContractors for a range of departments, including art, production and QA, are being impacted, according to a report from Kotaku, with sources claiming at least 25 developers will be affected.\nNaughty Dog is cutting contracts short for outsourced developers, and sources say no severance pay is being given to those laid off. Both remaining employees and laid off developers are allegedly \"being pressured to keep the news quiet\".\n Read more",
+          "link": "https://www.eurogamer.net/naughty-dog-cutting-contract-developers-early-report-claims",
+          "publishedOn": "2023-10-03T12:05:09.000Z",
+          "wordCount": 7251,
+          "title": "Naughty Dog cutting contract developers early, report claims",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ar1oia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/mortal-kombat-1-latest-patch-is-here-but-not-for-nintendo-switch",
+          "author": "Victoria Kennedy",
+          "description": "NetherRealm has released its latest patch for Mortal Kombat 1. \r\n\n\r\nThis patch addresses a range of issues across PC, PlayStation 5 and Xbox Series X/S, including general fixes and character specific adjustments. However, the Nintendo Switch version of the game remains left out in the cold, at least for now, despite Mortal Kombat boss Ed Boon previously promising fixes.\r\n\n\r\nSharing the patch notes online, Boon said the team will \"kontinue to listen\" and keep \"lines of communication open\" as it continues to improve its game (I just wish Boon would be a little more konsistent with his use of Ks).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mortal-kombat-1-latest-patch-is-here-but-not-for-nintendo-switch",
+          "publishedOn": "2023-10-03T11:54:45.000Z",
+          "wordCount": 8008,
+          "title": "Mortal Kombat 1 latest patch is here, but not for Nintendo Switch",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_224cb713d0e9dcc0028f5ad275cf6f4925d3dca5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/batman-arkham-trilogy-on-nintendo-switch-delayed-until-december",
+          "author": "Victoria Kennedy",
+          "description": "The Batman: Arkham Trilogy has been delayed on Nintendo Switch.\r\n\n\r\nThis collection, which is set to include all three of Rocksteady's games - Arkham Asylum, Arkham City and Arkham Knight - as well as all DLC, was originally due to release on Nintendo's hybrid console later this month. \r\n\n\r\nHowever, a post on the official Batman Arkham Twitter account said the team has made the decision to delay the launch to ensure Switch users get the \"best possible experience\" on release. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/batman-arkham-trilogy-on-nintendo-switch-delayed-until-december",
+          "publishedOn": "2023-10-03T11:14:17.000Z",
+          "wordCount": 7447,
+          "title": "Batman: Arkham Trilogy on Nintendo Switch delayed until December",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_90026e46a995760d53bfa2dc1612b73960c84c94.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/epic-games-looking-into-missing-royalties-for-hatoful-boyfriend-creator",
+          "author": "Liv Ngan",
+          "description": "Epic Games has stated it is \"looking into\" a lack of royalty payments to Hato Moa, the creator of the original Hatoful Boyfriend game.\r\n\nThe pigeon dating sim was an amateur project made by Moa and it was released in 2011 in Japanese. The game gained popularity following fan translations into English, and a HD remake was developed by Mediatonic. Hatoful Boyfriend HD was published in 2014 by Devolver Digital. \r\n\nMediatonic was acquired by Epic in 2021. Last week, Mao stated they have received \"no royalty payment\" since the acquisition and voiced their frustration on Twitter.  \n Read more",
+          "link": "https://www.eurogamer.net/epic-games-looking-into-missing-royalties-for-hatoful-boyfriend-creator",
+          "publishedOn": "2023-10-03T11:12:20.000Z",
+          "wordCount": 7406,
+          "title": "Epic Games \"looking into\" missing royalties for Hatoful Boyfriend creator",
+          "imageUrl": "https://assetsio.reedpopcdn.com/hatoful-boyfriend-pigeons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-14-player-first-to-earn-all-2000-achievements-after-10-years",
+          "author": "Ed Nightingale",
+          "description": "After 10 years, one Final Fantasy 14 player has finally earned all 2751 achievements.\r\n\n\r\nThe feat was done by a Japanese player on the Garuda server and shared on the Final Fantasy 14 subreddit (spotted by GamesRadar). Community data tracker Lalachievements has corroborated the claim.\r\n\n\r\nThe game's Achievement list is notorious, requiring a huge amount of time and dedication to complete.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-14-player-first-to-earn-all-2000-achievements-after-10-years",
+          "publishedOn": "2023-10-03T11:08:27.000Z",
+          "wordCount": 7336,
+          "title": "Final Fantasy 14 player first to earn all 2000+ achievements after 10 years",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Final-Fantasy-XIV-Endwalker-Screenshot-033.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ea-sports-fc-24-players-fuming-at-30-ultimate-team-card-pack",
+          "author": "Ed Nightingale",
+          "description": "EA Sports FC 24 players are fuming at an Ultimate Team mode card pack costing around £30.\r\n\n\r\nThe Elite Season Opener Pack costs 285,000 coins (the in-game currency) or 3000 FC Points (premium currency) and seemingly includes such powerful cards that players are accusing EA of pay-to-win tactics.\r\n\n\r\nAnd this is a microtransaction in a game that already costs £70.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ea-sports-fc-24-players-fuming-at-30-ultimate-team-card-pack",
+          "publishedOn": "2023-10-03T10:30:24.000Z",
+          "wordCount": 7698,
+          "title": "EA Sports FC 24 players fuming at £30 Ultimate Team card pack",
+          "imageUrl": "https://assetsio.reedpopcdn.com/fc-24-steam-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/latest-baldurs-gate-3-hotfix-makes-his-majesty-the-cat-bald-once-again",
+          "author": "Liv Ngan",
+          "description": "Baldur's Gate 3 fans, rejoice! For Larian has heard the cries of the people and addressed, nay fixed the glaring issue it introduced with patch three.\r\n\nI'm talking about, of course, His Majesty the cat. Formerly a sphynx cat, he was changed into a different breed to differentiate him between another bald cat encountered later on in the story.\r\n\nI've been slowly chugging through Baldur's Gate 3 and two months after its release on PC, I finally reached Act Two this weekend. Upon meeting His Majesty for the first time last night, my initial reaction was \"ah, this is the bald cat everyone was upset about,\" and I can understand why. With the hair, he just doesn't command the same respect.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/latest-baldurs-gate-3-hotfix-makes-his-majesty-the-cat-bald-once-again",
+          "publishedOn": "2023-10-03T10:29:34.000Z",
+          "wordCount": 7488,
+          "title": "Latest Baldur's Gate 3 hotfix makes His Majesty the cat bald once again",
+          "imageUrl": "https://assetsio.reedpopcdn.com/baldur's-gate-3-his-majesty.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/grand-theft-auto-6-fans-are-so-eager-for-more-news-theyve-turned-to-the-moon",
+          "author": "Victoria Kennedy",
+          "description": "Rockstar is yet to share details about Grand Theft Auto 6, but fans are convinced an announcement of some sort is imminent. Why? Because of the moon.\r\n\n\r\nThe developer recently released a new image for GTA Online's Moon Festival, which you can see above. This image was shared as part of a blog post about GTA Online which - on the surface at least - was all fairly standard stuff.\r\n\n\r\nBut it's the Moon Festival image which is getting attention - as some fans believe Rockstar is actually teasing the series' next entry in this seemingly straightforward picture. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/grand-theft-auto-6-fans-are-so-eager-for-more-news-theyve-turned-to-the-moon",
+          "publishedOn": "2023-10-03T10:27:38.000Z",
+          "wordCount": 7788,
+          "title": "Grand Theft Auto 6 fans are so eager for more news, they've turned to the moon",
+          "imageUrl": "https://assetsio.reedpopcdn.com/GTA-6-moon-tease.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/original-the-settlers-creators-pioneers-of-pagonia-now-has-a-demo-on-steam",
           "author": "Matt Wales",
