@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T18:25:02.680Z</updated>
+    <updated>2023-10-10T00:30:43.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: CRI-O is moving towards pkgs.k8s.io]]></title>
+        <id>https://kubernetes.io/blog/2023/10/10/cri-o-community-package-infrastructure/</id>
+        <link href="https://kubernetes.io/blog/2023/10/10/cri-o-community-package-infrastructure/"/>
+        <updated>2023-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Sascha Grunert
+The Kubernetes community recently announced
+that their legacy package repositories are frozen, and now they moved to
+introduced community-owned package repositories powered by the
+OpenBuildService (OBS).
+CRI-O has a long history of utilizing
+OBS for their package builds,
+but all of the packaging efforts have been done manually so far.
+The CRI-O community absolutely loves Kubernetes, which means that they're
+delighted to announce that:
+All future CRI-O packages will be shipped as part of the officially supported
+Kubernetes infrastructure hosted on pkgs.k8s.io!
+There will be a deprecation phase for the existing packages, which is currently
+being discussed in the CRI-O community.
+The new infrastructure will only support releases of CRI-O >= v1.28.2 as well as
+release br…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activision says its games won't come to Game Pass until 2024 if Microsoft deal goes through]]></title>
+        <id>https://www.eurogamer.net/activision-says-its-games-wont-come-to-game-pass-until-2024-if-microsoft-deal-goes-through</id>
+        <link href="https://www.eurogamer.net/activision-says-its-games-wont-come-to-game-pass-until-2024-if-microsoft-deal-goes-through"/>
+        <updated>2023-10-09T22:57:43.000Z</updated>
+        <summary type="html"><![CDATA[With all signs pointing to an imminent successful end for Microsoft's Activision Blizzard acquisition saga, Activision has moved to address the issue of its titles appearing on Game Pass, saying not to expect that to happen until next year if the deal goes through.
+
+
+To date, Activision titles have been notably absent from Game Pass, but the assumption has been that would change if Microsoft's $69bn bid for the Call of Duty publisher succeeded. And with the deal now anticipated to be finalised this week, assuming the UK's Competition and Markets Authority gives it the green light as is generally expected, questions around an Activision presence on Game Pass have shifted from 'if' to 'when'.
+
+
+And the company has now addressed fan queries on social media, writing, "As we continue to work toward regulatory approval of the Microsoft deal, we've been getting some questions whether our upcoming and recently launched games will be available via Game Pass."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porsche’s Macan EV comes out in 2024—we drive the prototype]]></title>
+        <id>https://arstechnica.com/?p=1974508</id>
+        <link href="https://arstechnica.com/?p=1974508"/>
+        <updated>2023-10-09T22:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Expect engaging handling and very fast charging when it goes on sale next year.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity CEO John Riccitiello is retiring, effective immediately]]></title>
+        <id>https://arstechnica.com/?p=1974554</id>
+        <link href="https://arstechnica.com/?p=1974554"/>
+        <updated>2023-10-09T21:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Former EA CEO will be replaced in interim by James Whitehurst from IBM/Red Hat.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity CEO John Riccitiello 'retiring' from company weeks after pricing controversy]]></title>
+        <id>https://www.eurogamer.net/unity-ceo-john-riccitiello-retiring-from-company-weeks-after-pricing-controversy</id>
+        <link href="https://www.eurogamer.net/unity-ceo-john-riccitiello-retiring-from-company-weeks-after-pricing-controversy"/>
+        <updated>2023-10-09T21:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Unity has announced the departure of its CEO John Riccitiello, just weeks after the company became mired in controversy following hugely unpopular changes to its engine pricing model.
+
+
+At the end of last month, Unity announced sweeping changes to its Unity Engine business model that would force developers to pay an additional monthly Unity Runtime Fee every time their game was installed, on top of their existing licence subscription, after reaching certain revenue and life-time instalment thresholds. The backlash from the development community was immediate and intense, and Unity eventually announced significant changes to its initial plans - but by that point, the damage was done.
+
+
+And now Unity has announced that John Riccitiello, the CEO who oversaw its reputationally devastating pricing changes, "will retire" from all his roles at the company - president, chief executive officer, chairman, and a member of its board of directors - effective immediately.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of WordPress sites have been hacked through tagDiv plugin vulnerability]]></title>
+        <id>https://arstechnica.com/?p=1974522</id>
+        <link href="https://arstechnica.com/?p=1974522"/>
+        <updated>2023-10-09T20:48:01.000Z</updated>
+        <summary type="html"><![CDATA[If a site is redirecting visitors to scam sites, it was likely hacked by Balada.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam's Next Fest is back with more dev streams and "hundreds" of demos]]></title>
+        <id>https://www.eurogamer.net/steams-next-fest-returns-for-a-week-of-dev-streams-and-hundreds-of-playable-demos</id>
+        <link href="https://www.eurogamer.net/steams-next-fest-returns-for-a-week-of-dev-streams-and-hundreds-of-playable-demos"/>
+        <updated>2023-10-09T20:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Steam's Next Fest has returned for another week-long showcase of future releases, including developer livestreams, chats, and, of course, "hundreds" of playable demos.
+
+
+Valve's latest Steam Next Fest is already underway and runs until 5.59pm BST/9.59am PST on Monday, 16th October. That means you've got just under seven full days at the time of writing to furiously claw your way through another bumper crop of playable demos before they potentially vanish once more into the ether.
+
+
+We're well beyond the days when you could feasibly work your way through the entire list before the end of Next Fest (unless you're particularly determined and hate sleep, I suppose), but Valve has, at least, assembled a special event mini-site, splitting available demos down into mere easily perusable and digestible categories.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Church of Bleach” family gets years in prison for deadly “miracle” solution]]></title>
+        <id>https://arstechnica.com/?p=1974517</id>
+        <link href="https://arstechnica.com/?p=1974517"/>
+        <updated>2023-10-09T20:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Convicted fraudster Mark Grenon claimed he was the victim and US should pay him $5.7M.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dealmaster: Pre-Amazon Big Deal Days tech deals that don’t require a Prime membership]]></title>
+        <id>https://arstechnica.com/?p=1974389</id>
+        <link href="https://arstechnica.com/?p=1974389"/>
+        <updated>2023-10-09T19:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Prime Big Deal Days are coming, but you can already find savings at these retailers.]]></summary>
+        <author>
+            <name>Chuong Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Apple is already designing a lighter Vision Pro to fix “neck strain”]]></title>
+        <id>https://arstechnica.com/?p=1974442</id>
+        <link href="https://arstechnica.com/?p=1974442"/>
+        <updated>2023-10-09T19:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Vision Pro isn't out until early 2024, but next-gen plans are already underway.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya reservoirs relied on aquatic plants like water lilies to help keep water clean]]></title>
+        <id>https://arstechnica.com/?p=1974322</id>
+        <link href="https://arstechnica.com/?p=1974322"/>
+        <updated>2023-10-09T19:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Aquatic biota essentially served as self-cleaning "constructed wetlands."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starfield's new patch adds FOV sliders and "performance improvements"]]></title>
         <id>https://www.eurogamer.net/starfields-latest-patch-brings-promised-fov-sliders-and-performance-improvements</id>
@@ -251,6 +400,16 @@ As reported by Eater San Francisco (via IGN), this event has also seen the skill
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Language Acquisition]]></title>
+        <id>https://xkcd.com/2839/</id>
+        <link href="https://xkcd.com/2839/"/>
+        <updated>2023-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/language_acquisition.png" title="My first words were 'These were my first words; what were yours?'" alt="My first words were 'These were my first words; what were yours?'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -10203,47 +10362,6 @@ As reported by Vortex (thanks, @HazzadorGamin), the fire broke out at the team's
 When questioned by fans on Discord, GSC's Mol1t confirmed the news.
  
 Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwatch 2 has banned 250,000+ cheaters since launch]]></title>
-        <id>https://www.eurogamer.net/overwatch-2-has-banned-250000-cheaters-since-launch</id>
-        <link href="https://www.eurogamer.net/overwatch-2-has-banned-250000-cheaters-since-launch"/>
-        <updated>2023-09-10T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Blizzard says it's taking "big steps" to discourage cheating, and has banned over 250,000 players since Overwatch 2 launched as part of its "zero-tolerance policy toward cheating and botting".
-
-In a detailed update posted to the official website, the team revealed what it was doing to tackle "disruptive behaviour and cheating", as well as disruptive chat and griefing issues "that negatively impact many multiplayer video games".
-
-"We've been taking big steps to help discourage and remove disruptive behaviour and cheating and wanted to share more details with you," the team began. "Defense Matrix is the name for our collection of efforts to quell the cheating, disruptive chat, and griefing issues that negatively impact many multiplayer video games, including Overwatch 2. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The truth is out there: Celebrate 30 years of The X-Files with our 30 favorite episodes]]></title>
-        <id>https://arstechnica.com/?p=1957642</id>
-        <link href="https://arstechnica.com/?p=1957642"/>
-        <updated>2023-09-10T11:00:17.000Z</updated>
-        <summary type="html"><![CDATA[From alien abductions to monsters of the week, this sci-fi series had something for everyone.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon Forbidden West Complete Edition has been revealed by Singapore's rating board]]></title>
-        <id>https://www.eurogamer.net/horizon-forbidden-west-complete-edition-has-been-revealed-by-singapores-rating-board</id>
-        <link href="https://www.eurogamer.net/horizon-forbidden-west-complete-edition-has-been-revealed-by-singapores-rating-board"/>
-        <updated>2023-09-10T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Singapore's rating board, the IMDA, has rated an unannounced version of Horizon Forbidden West. 
-
-"Horizon Forbidden West Complete Edition" popped up on the IMDA's website, having been approved for a "M18" – that's a mature 18 – given its "sexual references". The bundle includes both the base game and its expansion, Burning Shores.
-
-"Set on post-apocalyptic Earth, the protagonist, Aloy, travels to the west to discover the source of a mysterious signal and to find a way to restore Earth," the extended classification information explains (thanks, TryHard). 
- Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
         </author>
