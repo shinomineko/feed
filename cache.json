@@ -124,16 +124,6 @@
           "wordCount": 191,
           "title": "Exoplanet Observation",
           "imageUrl": "https://imgs.xkcd.com/comics/exoplanet_observation_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2827/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/brassica.png\" title=\"Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.\" alt=\"Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.\" />",
-          "link": "https://xkcd.com/2827/",
-          "publishedOn": "2023-09-11T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Brassica",
-          "imageUrl": "https://imgs.xkcd.com/comics/brassica_2x.png"
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2023/ai-assistant/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2023/ai-assistant/",
+          "publishedOn": "2023-10-10T00:00:00.000Z",
+          "wordCount": 2454,
+          "title": "AI Assistant",
+          "imageUrl": "https://www.monkeyuser.com/assets/images/2023/266-ai-app-gen.png.png"
+        },
         {
           "id": "https://www.monkeyuser.com/2023/startups/",
           "author": null,
@@ -175,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/10/model-extraction-attack-on-neural-networks.html",
+          "author": null,
+          "description": "<p>Adi Shamir et al. have a new <a href=\"https://eprint.iacr.org/2023/1526.pdf\">model extraction attack</a> on neural networks:</p>\n<blockquote><p>Polynomial Time Cryptanalytic Extraction of Neural Network Models</p>\n<p><b>Abstract:</b> Billions of dollars and countless GPU hours are currently spent on training Deep Neural Networks (DNNs) for a variety of tasks. Thus, it is essential to determine the difficulty of extracting all the parameters of such neural networks when given access to their black-box implementations. Many versions of this problem have been studied over the last 30 years, and the best current attack on ReLU-based deep neural networks was presented at Crypto&#8217;20 by Carlini, Jagielski, and Mironov. It resembles a differential chosen plaintext attack on a cryptosystem, which has a secret key embedded in its black-box implementation and requires a polynomial number of queries but an exponential amount of time (as a function of the number of neurons)...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/model-extraction-attack-on-neural-networks.html",
+          "publishedOn": "2023-10-10T11:09:49.000Z",
+          "wordCount": 1054,
+          "title": "Model Extraction Attack on Neural Networks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/10/ai-risks.html",
           "author": null,
@@ -4087,6 +4097,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/meta-staying-quiet-on-status-of-grand-theft-auto-san-andreas-vr",
+          "author": "Victoria Kennedy",
+          "description": "It has been just shy of two years since Meta announced that Grand Theft Auto: San Andreas would be coming to Quest 2, but we still don't have a release date or even a release window for this upcoming VR port. \nAnd sadly for those eager to hear more, this is seemingly not something we should expect to hear any time in the near future. Instead, Meta is remaining remarkably tight-lipped about the project it once said was \"many years in the making\".\nAt this year's Connect conference, Meta was asked for more news on Grand Theft Auto: San Andreas' VR release by both UploadVR and Road to VR. However, the responses were less than informative. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/meta-staying-quiet-on-status-of-grand-theft-auto-san-andreas-vr",
+          "publishedOn": "2023-10-10T11:55:16.000Z",
+          "wordCount": 7599,
+          "title": "Meta staying quiet on status of Grand Theft Auto: San Andreas VR",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_89224e9f19e2caee31985f62c6e39e9e67b4f2a4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-says-its-on-the-right-path-following-sexual-harassment-allegations",
+          "author": "Liv Ngan",
+          "description": "Ubisoft has claimed it is \"on the right path\" to improving its workplace culture, three years after reports of numerous and serious allegations of sexual harrassment.\nIn summer 2020, allegations of sexual assault and harassment were made against a number of senior and veteran employees including Assassin's Creed Valhalla creative director Ashraf Ismail, Splinter Cell and Far Cry creative director Maxime Béland, and former editorial vice president Tommy François.\nSpeaking at GamesIndustry HR Summit last month, Ubisoft's chief people officer Annika Grant said the company is now \"on the right path\" following a number of changes implemented internally, as reported by GamesIndustry. Grant joined Ubisoft in 2021 when it was \"navigating a misconduct crisis\".\n Read more",
+          "link": "https://www.eurogamer.net/ubisoft-says-its-on-the-right-path-following-sexual-harassment-allegations",
+          "publishedOn": "2023-10-10T11:23:41.000Z",
+          "wordCount": 6926,
+          "title": "Ubisoft says it's \"on the right path\" following sexual harassment allegations",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Ubisoft_4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/zelda-boss-explains-why-breath-of-the-wilds-guardians-and-sheikah-tech-disappeared",
+          "author": "Victoria Kennedy",
+          "description": "Zelda: Tears of the Kingdom takes us back to the same Hyrule we were first introduced to in Breath of the Wild, albeit with a few tweaks - not least its airy sky islands and dark and sinister Depths. \r\n\n\r\nBut while those inclusions expanded the map, there were some omissions as well. Most obviously, just where did all of that Sheikah tech, that was so instrumental to Breath of the Wild's story, go? And what happened to those spidery robot Guardians?\r\n\n\r\nWell, according to Zelda director Hidemaro Fujibayashi, the various towers, Guardians, Divine Beasts and other Sheikah creations simply disappeared, with the general consensus in Hyrule being that as their purpose had been realised, the tech knew it was its time to go.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/zelda-boss-explains-why-breath-of-the-wilds-guardians-and-sheikah-tech-disappeared",
+          "publishedOn": "2023-10-10T10:37:57.000Z",
+          "wordCount": 7877,
+          "title": "Zelda boss explains why Breath of the Wild's Guardians and Sheikah tech disappeared",
+          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-in-tears-of-the-kingdom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/fortnite-recruits-alan-wake-michael-myers-and-jack-skellington-for-halloween",
+          "author": "Tom Phillips",
+          "description": "Fortnite's annual Halloween extravaganza is back for another year, and this time the battle royale has roped in a few more famous friends.\r\n\n\r\nRemedy's very own Alan Wake will be available to buy as a skin later in the event, presumably timed alongside the launch of the long-awaited Alan Wake 2 (that's due on 27th October). \r\n\n\r\nJack Skellington from Tim Burton's The Nightmare Before Christmas is also joining Fortnite - I like that he also has his Santa Jack costume as well - alongside Halloween's Michael Myers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fortnite-recruits-alan-wake-michael-myers-and-jack-skellington-for-halloween",
+          "publishedOn": "2023-10-10T10:32:51.000Z",
+          "wordCount": 7411,
+          "title": "Fortnite recruits Alan Wake, Michael Myers and Jack Skellington for Halloween",
+          "imageUrl": "https://assetsio.reedpopcdn.com/fortnite-alan-wake-outfit-1920x1080-ef1b0e1d52b3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-delays-free-to-play-shooter-xdefiant-again",
+          "author": "Liv Ngan",
+          "description": "Ubisoft has delayed its upcoming free-to-play shooter XDefiant yet again, citing \"inconsistencies in the game experience\".\nThe \"inconsistencies\" surfaced during the game's Public Test Session, designed to test the public servers, which happened on 28th September.\n\"We've made the hard decision to delay the Preseason of XDefiant,\" Ubisoft said in a statement, in order to address the issues found.\n Read more",
+          "link": "https://www.eurogamer.net/ubisoft-delays-free-to-play-shooter-xdefiant-again",
+          "publishedOn": "2023-10-10T10:15:15.000Z",
+          "wordCount": 7168,
+          "title": "Ubisoft delays free-to-play shooter XDefiant again",
+          "imageUrl": "https://assetsio.reedpopcdn.com/xdefiant-characters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/activision-says-its-games-wont-come-to-game-pass-until-2024-if-microsoft-deal-goes-through",
           "author": "Matt Wales",
