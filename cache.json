@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html",
+          "author": null,
+          "description": "<p>There&#8217;s a new Cisco <a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cer-priv-esc-B9t3hqk9\">vulnerability</a> in its Emergency Responder product:</p>\n<blockquote><p>This vulnerability is due to the presence of static user credentials for the root account that are typically reserved for use during development. An attacker could exploit this vulnerability by using the account to log in to an affected system. A successful exploit could allow the attacker to log in to the affected system and execute arbitrary commands as the root user.</p></blockquote>\n<p>This is <a href=\"https://www.bleepingcomputer.com/news/security/hardcoded-password-found-in-cisco-software/\">not</a> <a href=\"https://securityaffairs.com/124198/security/cisco-hard-coded-credentials.html\">the</a> first time Cisco products have had hard-coded passwords made public. You&#8217;d think it would learn...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html",
+          "publishedOn": "2023-10-11T11:04:53.000Z",
+          "wordCount": 887,
+          "title": "Cisco Can’t Stop Using Hard-Coded Passwords",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/10/model-extraction-attack-on-neural-networks.html",
           "author": null,
           "description": "<p>Adi Shamir et al. have a new <a href=\"https://eprint.iacr.org/2023/1526.pdf\">model extraction attack</a> on neural networks:</p>\n<blockquote><p>Polynomial Time Cryptanalytic Extraction of Neural Network Models</p>\n<p><b>Abstract:</b> Billions of dollars and countless GPU hours are currently spent on training Deep Neural Networks (DNNs) for a variety of tasks. Thus, it is essential to determine the difficulty of extracting all the parameters of such neural networks when given access to their black-box implementations. Many versions of this problem have been studied over the last 30 years, and the best current attack on ReLU-based deep neural networks was presented at Crypto&#8217;20 by Carlini, Jagielski, and Mironov. It resembles a differential chosen plaintext attack on a cryptosystem, which has a secret key embedded in its black-box implementation and requires a polynomial number of queries but an exponential amount of time (as a function of the number of neurons)...</p></blockquote>",
@@ -4041,46 +4051,6 @@
           "wordCount": 1930,
           "title": "A year after New Shepard’s accident, Blue Origin may return to flight next month",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/12/launchBO-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967187",
-          "author": "Beth Mole",
-          "description": "The fall boosters target XBB.1.5 and have shown effective against current variants.",
-          "link": "https://arstechnica.com/?p=1967187",
-          "publishedOn": "2023-09-11T21:38:45.000Z",
-          "wordCount": 2250,
-          "title": "FDA approves and authorizes updated COVID boosters for everyone 6 months and up",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967124",
-          "author": "Ron Amadeo",
-          "description": "The do-it-all dock has a faux wood top, making it look like a small table.",
-          "link": "https://arstechnica.com/?p=1967124",
-          "publishedOn": "2023-09-11T21:15:50.000Z",
-          "wordCount": 2210,
-          "title": "Top-end Roomba can now refill itself with water via furniture-sized dock",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/RoombaCombo2_1693594881545-HR-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967015",
-          "author": "Kevin Purdy",
-          "description": "25 years ago, Apple was cool with firms hacking up kiosk-friendly touch iMacs.",
-          "link": "https://arstechnica.com/?p=1967015",
-          "publishedOn": "2023-09-11T18:41:29.000Z",
-          "wordCount": 1878,
-          "title": "Unearthed touchscreen iMac G3 prototype evokes a very different era of Apple",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/imac_touchscreen-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967090",
-          "author": "Jonathan M. Gitlin",
-          "description": "It's quick, comfortable, and almost silent. And it fast-charges in 18 minutes.",
-          "link": "https://arstechnica.com/?p=1967090",
-          "publishedOn": "2023-09-11T18:29:26.000Z",
-          "wordCount": 1895,
-          "title": "The Genesis Electrified GV70 is a truly luxurious electric SUV",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2023-Genesis-GV70-4-760x380.jpg"
         }
       ]
     },
@@ -4165,16 +4135,6 @@
           "wordCount": 4523,
           "title": "Blog: User Namespaces: Now Supports Running Stateful Pods in Alpha!",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools/",
-          "author": null,
-          "description": "Author: Eyal Bukchin (MetalBear)\nThe Kubernetes development cycle is an evolving landscape with a myriad of tools seeking to streamline the process. Each tool has its unique approach, and the choice often comes down to individual project requirements, the team's expertise, and the preferred workflow.\nAmong the various solutions, a category we dubbed “Local K8S Development tools” has emerged, which seeks to enhance the Kubernetes development experience by connecting locally running components to the Kubernetes cluster. This facilitates rapid testing of new code in cloud conditions, circumventing the traditional cycle of Dockerization, CI, and deployment.\nIn this post, we compare three solutions in this category: Telepresence, Gefyra, and our own contender, mirrord.\nTelepresence\nThe oldest a…",
-          "link": "https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools/",
-          "publishedOn": "2023-09-12T00:00:00.000Z",
-          "wordCount": 4075,
-          "title": "Blog: Comparing Local Kubernetes Development Tools: Telepresence, Gefyra, and mirrord",
-          "imageUrl": null
         }
       ]
     },
@@ -4217,6 +4177,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/original-fortnite-map-set-to-partly-return-thanks-to-time-travel-twist-leaks-suggest",
+          "author": "Tom Phillips",
+          "description": "Fortnite will drop players back into the game's basic but beloved original map - or at least parts of it.\r\n\n\r\nThat's according to a wave of reports from trusted leakers such as HypeX and Shiina, who rely on insider information and details gleaned from within Fortnite's files. \r\n\n\r\nYesterday, Fortnite imagery appeared online that referenced a return to the original \"Chapter 1\" map, as this season's villain Kado Thorne can be seen standing in front of a time machine set to the date \"2018 07 12\" - that's the day the original map's fifth season launched.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/original-fortnite-map-set-to-partly-return-thanks-to-time-travel-twist-leaks-suggest",
+          "publishedOn": "2023-10-11T11:57:00.000Z",
+          "wordCount": 7630,
+          "title": "Original Fortnite map set to partly return thanks to time travel twist, leaks suggest",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F8EJ_dRWYAANgPj.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/want-to-stand-the-ps5-slim-vertically-itll-cost-you-an-extra-30",
+          "author": "Liv Ngan",
+          "description": "Yesterday, Sony announced its \"slim\" models for the regular and digital editions of PlayStation 5, but not without some extra costs being introduced with the line.\nFor starters, both the regular and digital PS5 slim models will come with a hotizontal stand, but no base. A base is included in the box with the launch models, but if you want to stand the PS5 slim vertically, you'll need to buy a separate vertical stand (compatible with all PS5 models!) for £25, or $30. \nFor buyers in North America, the slim model of the digital PS5 is more expensive than the launch model, costing $450 compared to $400, despite its smaller size. The slim PS5 with a disc drive will remain at the same price of $500.\n Read more",
+          "link": "https://www.eurogamer.net/want-to-stand-the-ps5-slim-vertically-itll-cost-you-an-extra-30",
+          "publishedOn": "2023-10-11T11:42:53.000Z",
+          "wordCount": 6922,
+          "title": "Want to stand the PS5 slim vertically? It'll cost you an extra £25/$30",
+          "imageUrl": "https://assetsio.reedpopcdn.com/sony-ps5-slim-blog.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/british-esports-releases-statement-following-controversial-saudi-partnership",
+          "author": "Victoria Kennedy",
+          "description": "Earlier this week, British eSports announced a partnership with the Saudi eSports Federation. The UK's national body for competitive video gaming said this collaboration aimed to set \"new standards of excellence, education and innovation throughout the world of esports\". This would include a variety of endeavours between the two parties, including internships, training programs and research projects.\r\n\n\r\nHowever, British eSports has now acknowledged this news had sparked \"concern\" - no doubt fuelled by Saudi Arabia's poor human rights record, which includes the criminalisation of homosexuality, fewer rights for women and the use of the death penalty. Saudi's Prince Mohammed bin Salman has also been blamed for assassination of Washington Post journalist Jamal Khashoggi by US intelligence agencies.\r\n\n\r\nAs a result, British eSports has released a statement addressing issues raised by the esports community. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/british-esports-releases-statement-following-controversial-saudi-partnership",
+          "publishedOn": "2023-10-11T11:13:28.000Z",
+          "wordCount": 7157,
+          "title": "British eSports releases statement following controversial Saudi partnership",
+          "imageUrl": "https://assetsio.reedpopcdn.com/1920x1080_SEFxBEF-1024x576.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/dashcam-footage-shows-police-ignoring-robbery-to-play-pokemon-go",
+          "author": "Tom Phillips",
+          "description": "Footage has been published showing a pair of LAPD cops ignoring police calls to instead drive around and play Pokémon Go while on duty.\r\n\n\r\nThe video, which was published by 404media following public records requests, shows the car being driven erratically as the officers race to catch a Snorlax and then a Togetic - the evolved form of Togepi.\r\n\n\r\nThe two cops talk excitedly about catching Pokémon while, in the background, radio calls can be heard - including a request for backup at a local shopping mall where a robbery is in progress.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dashcam-footage-shows-police-ignoring-robbery-to-play-pokemon-go",
+          "publishedOn": "2023-10-11T10:52:21.000Z",
+          "wordCount": 7491,
+          "title": "Dashcam footage shows police ignoring robbery to play Pokémon Go",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_vxiP9g7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/disney-boss-reportedly-advised-to-acquire-large-video-game-publisher-like-ea",
+          "author": "Victoria Kennedy",
+          "description": "Disney's CEO Bob Iger is reportedly being pushed to acquire a major video game publisher, such as EA. \r\n\n\r\nThat's according to Bloomberg (paywall), which stated Iger's deputies are keen for the exec \"to consider a bolder transformation of Disney from gaming licensee to gaming giant\". This could be done through the acquisition of a major publisher, with EA being specifically cited by the publication.\r\n\n\r\nBut while Iger's advisors are suggesting that Disney do purchase a company such as EA, at the present time Iger is reportedly remaining \"non committal\" to the idea. So, do not expect to hear any big announcements in the near future. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/disney-boss-reportedly-advised-to-acquire-large-video-game-publisher-like-ea",
+          "publishedOn": "2023-10-11T10:26:07.000Z",
+          "wordCount": 7461,
+          "title": "Disney boss reportedly advised to acquire large video game publisher like EA",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Cal-and-Bode-in-Jedi-Survivor.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/activision-hired-james-corden-to-host-employee-meeting-with-bobby-kotick",
+          "author": "Tom Phillips",
+          "description": "Freed from his tenure as a US talk show host, Gavin and Stacey star James Corden yesterday teamed up with controversial boss Bobby Kotick to host a townhall meeting for Activision Blizzard employees.\r\n\n\r\nThe internal event, held days before Microsoft is expected to finally close its $68.7bn takeover of the company, was not available to view publicly, but Windows Central has  reported on what was discussed.\r\n\n\r\nKotick reportedly reminisced about Activision's journey as a company so far and also dropped several hints about its future - including an intriguing mention of the long-dormant Guitar Hero franchise. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-hired-james-corden-to-host-employee-meeting-with-bobby-kotick",
+          "publishedOn": "2023-10-11T10:22:40.000Z",
+          "wordCount": 7377,
+          "title": "Activision hired James Corden to host employee meeting with Bobby Kotick",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_JU1BfWt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/diablo-4-update-makes-major-change-to-damage-calculations-for-greater-build-variety",
+          "author": "Ed Nightingale",
+          "description": "A new update for Diablo 4 - released on 17th October alongside Season of Blood - will bring a major change to the way damage is calculated.\r\n\n\r\nPreviously, Critical Strike Damage and Vulnerable Damage were calculated separately, meaning players could use skills with these attributes to pile on huge amounts of damage. \r\n\n\r\nNow, Critical Strike Damage will be capped at 50 percent and Vulnerable Damage at 20 percent as part of a \"baseline multiplicative bonus\" - bonus damage will be added together and multiplied by these percentages for each.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/diablo-4-update-makes-major-change-to-damage-calculations-for-greater-build-variety",
+          "publishedOn": "2023-10-11T10:17:29.000Z",
+          "wordCount": 7511,
+          "title": "Diablo 4 update makes major change to damage calculations for greater build variety",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_sf9KMj3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/stardew-valley-concert-tour-visits-london-in-april",
+          "author": "Liv Ngan",
+          "description": "Stardew Valley is bringing its first concert tour to London in April next year.\nFestival of Seasons will begin in February 2024, touring North America and Australia before it reaches London. The programme has been curated by Stardew Valley creator (and composer) Eric \"ConcernedApe\" Barone, and will showcase music from the game performed by local chamber orchestras.\nThe show will be divided into four sections, to represent the four seasons, and fans can expect to hear tracks such as Stardew Valley Overture, Spring (The Valley Comes Alive) and Dance of the Moonlight Jellies, as well as \"plenty of surprises and fan-favourite deep cuts\". \n Read more",
+          "link": "https://www.eurogamer.net/stardew-valley-concert-tour-visits-london-in-april",
+          "publishedOn": "2023-10-11T10:08:15.000Z",
+          "wordCount": 7476,
+          "title": "Stardew Valley concert tour visits London in April",
+          "imageUrl": "https://assetsio.reedpopcdn.com/stardew-valley-festival-of-seasons-Key-Art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/295k-minecraft-fans-criticise-lack-of-new-content-in-stop-the-mob-vote-petition",
           "author": "Matt Wales",
@@ -7676,26 +7716,6 @@
           "wordCount": 7246,
           "title": "Life is Strange: True Colors comic picks the right ending to continue",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_3VOTMCY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisofts-free-to-play-shooter-xdefiant-delayed-due-to-console-certification-issues",
-          "author": "Matt Wales",
-          "description": "XDefiant, the Tom-Clancy-adjacent free-to-play shooter from Ubisoft, has been delayed out of its previously planned summer window, with the publisher blaming certification issues on Xbox and PlayStation for the game's slip into what's now \"likely\" to be an October release.\r\n\n\r\nXDefiant - a 6v6 mash-up of Splinter Cell, Ghost Recon, and The Division initially announced as Tom Clancy's XDefiant back in 2021 before dropping its prefix - has had a number of closed Insider tests and open sessions throughout its development and was expected to get its full launch for PS5, PS4, Xbox One, Xbox Series X/S, and PC some time this summer.\r\n\n\r\nHowever, writing in a post on Ubisoft's website, XDefiant executive producer Mark Rubin explained the game's continuing lack of a release date can largely be blamed on complication arising during Microsoft and Sony's certification processes for their respective consoles.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ubisofts-free-to-play-shooter-xdefiant-delayed-due-to-console-certification-issues",
-          "publishedOn": "2023-09-11T23:14:08.000Z",
-          "wordCount": 7136,
-          "title": "Ubisoft's free-to-play shooter XDefiant delayed due to console certification issues",
-          "imageUrl": "https://assetsio.reedpopcdn.com/xdefiant_7yBYVAd.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/official-xbox-credit-cards-are-now-a-thing-in-the-us",
-          "author": "Matt Wales",
-          "description": "Last time you got up from playing Xbox in your Xbox-branded onesie to grab yourself some food made with your Xbox-branded cookbook from your Xbox-branded mini-fridge, did you by any chance say to yourself, \"Gee, I really wish I'd been able to buy all this Xbox tat with an Xbox-branded credit card\"? Well, guess what? Anything is possible in this darkest of timelines.\r\n\n\r\nThe official Xbox credit card will soon be a thing, albeit only in the US for the time being, having been conjured into existence through a partnership between Microsoft and Mastercard. It'll initially be available exclusively to Xbox Insiders (it's expected to expand to all US-based Xbox players starting next year) and offers one of those reward-based scheme things, which - and I'm not sure there's a nicer way of putting this - essentially incentivises people to increase their debt, so, you know, please use responsibly and all that.\r\n\n\r\nBasically, everyday purchases made on the card will steadily accrue points that can be spent on games and add-ons via Xbox.com, but an initial purchase using the card will also reward cardholders with 5,000 points (equating to $50 USD), plus three months of Xbox Game Pass Ultimate. Only new members are eligible for that three-month deal, incidentally, but it can be gifted to other people if you're already a Game Pass subscriber yourself.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/official-xbox-credit-cards-are-now-a-thing-in-the-us",
-          "publishedOn": "2023-09-11T21:31:04.000Z",
-          "wordCount": 7002,
-          "title": "Official Xbox credit cards will soon be a thing in the US",
-          "imageUrl": "https://assetsio.reedpopcdn.com/xbox-master-card-image.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
