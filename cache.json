@@ -124,16 +124,6 @@
           "wordCount": 191,
           "title": "Iceberg Efficiency",
           "imageUrl": "https://imgs.xkcd.com/comics/iceberg_efficiency_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2828/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/exoplanet_observation.png\" title=\"NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'\" alt=\"NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'\" />",
-          "link": "https://xkcd.com/2828/",
-          "publishedOn": "2023-09-13T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Exoplanet Observation",
-          "imageUrl": "https://imgs.xkcd.com/comics/exoplanet_observation_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html",
+          "author": null,
+          "description": "<p><a href=\"https://words.filippo.io/dispatches/seeds-bounty/\">This</a> is a fun challenge:</p>\n<blockquote><p>The NIST elliptic curves that power much of modern cryptography were generated in the late &#8217;90s by hashing seeds provided by the NSA. How were the seeds generated? Rumor has it that they are in turn hashes of English sentences, but the person who picked them, Dr. Jerry Solinas, passed away in early 2023 leaving behind a cryptographic mystery, some conspiracy theories, and an historical password cracking challenge.</p></blockquote>\n<p>So there&#8217;s a $12K prize to recover the hash seeds.</p>\n<p>Some <a href=\"https://news.ycombinator.com/item?id=37784499\">backstory</a>:</p>\n<blockquote><p>Some of the backstory here (it&#8217;s the funniest fucking backstory ever): it&#8217;s lately been circulating&#8212;though I think this may have been somewhat common knowledge among practitioners, though definitely not to me&#8212;that the &#8220;random&#8221; seeds for the NIST P-curves, generated in the 1990s by Jerry Solinas at NSA, were simply SHA1 hashes of some variation of the string &#8220;Give Jerry a raise&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html",
+          "publishedOn": "2023-10-12T11:09:38.000Z",
+          "wordCount": 1121,
+          "title": "Bounty to Recover NIST’s Elliptic Curve Seeds",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html",
           "author": null,
@@ -412,6 +412,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1975385",
+          "author": "Ars Contributors",
+          "description": "The new compact electric SUV will go on sale in China and South Korea first.",
+          "link": "https://arstechnica.com/?p=1975385",
+          "publishedOn": "2023-10-12T07:01:44.000Z",
+          "wordCount": 2160,
+          "title": "Kia EV5 revealed, but US future is uncertain for this electric crossover",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/3-EV5_EXT3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1975414",
+          "author": "Ars Contributors",
+          "description": "This small SUV and sedan-hatch-thing will be crucial to Kia's future global EV sales.",
+          "link": "https://arstechnica.com/?p=1975414",
+          "publishedOn": "2023-10-12T07:01:25.000Z",
+          "wordCount": 2157,
+          "title": "Kia EV3, EV4 concepts look like the future, will soon be a reality",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/7-Concept-EV3_EXT4-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1975625",
           "author": "Beth Mole",
@@ -4021,106 +4041,6 @@
           "wordCount": 1872,
           "title": "What would it take to build a self-sustaining astronaut ecosystem on Mars?",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/biology-habitats-on-mars-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967928",
-          "author": "Benj Edwards",
-          "description": "Tie-in Coca-Cola mobile app uses Stable Diffusion to modify your photos.",
-          "link": "https://arstechnica.com/?p=1967928",
-          "publishedOn": "2023-09-12T22:41:55.000Z",
-          "wordCount": 1887,
-          "title": "Coca-Cola embraces controversial AI image generator with new “Y3000” flavor",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coke_y3000-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967089",
-          "author": "Jennifer Ouellette",
-          "description": "Air bubbles, oil droplets are the primary factors, plus emulsifiers for extra chewiness",
-          "link": "https://arstechnica.com/?p=1967089",
-          "publishedOn": "2023-09-12T22:14:28.000Z",
-          "wordCount": 2097,
-          "title": "The physics of saltwater taffy",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/taffyTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968004",
-          "author": "Beth Mole",
-          "description": "Not everyone is at the same risk, but advisors called for simplicity and equity.",
-          "link": "https://arstechnica.com/?p=1968004",
-          "publishedOn": "2023-09-12T22:04:34.000Z",
-          "wordCount": 2208,
-          "title": "Everyone should get a COVID booster this fall, CDC says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1207345889-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967377",
-          "author": "Ron Amadeo",
-          "description": "The $1,400 device never ran a current version of Android.",
-          "link": "https://arstechnica.com/?p=1967377",
-          "publishedOn": "2023-09-12T21:49:23.000Z",
-          "wordCount": 1893,
-          "title": "RIP to the Microsoft Surface Duo’s support window, an unmitigated disaster",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Surface-Feature-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967913",
-          "author": "Samuel Axon",
-          "description": "One-handed phones are a dying breed. It makes sense, but it's also a bummer.",
-          "link": "https://arstechnica.com/?p=1967913",
-          "publishedOn": "2023-09-12T21:25:17.000Z",
-          "wordCount": 1813,
-          "title": "The iPhone 13 mini is dead, leaving small phone lovers in a lurch",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/iPhone-13-mini-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967881",
-          "author": "Dan Goodin",
-          "description": "It's not too late to check if a Linux device you use was targeted.",
-          "link": "https://arstechnica.com/?p=1967881",
-          "publishedOn": "2023-09-12T19:34:27.000Z",
-          "wordCount": 1918,
-          "title": "Password-stealing Linux malware served for 3 years and no one noticed",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/getty-digital-trojan-horse-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967894",
-          "author": "Jonathan M. Gitlin",
-          "description": "This student-built electric racer needed just 12.3 meters to hit 62 mph.",
-          "link": "https://arstechnica.com/?p=1967894",
-          "publishedOn": "2023-09-12T19:26:10.000Z",
-          "wordCount": 1835,
-          "title": "This student-built EV just set a new world record for 0–62 mph",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ETH_AMZ23_40-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967870",
-          "author": "Andrew Cunningham",
-          "description": "It's the first time a macOS update has released in September since 2018.",
-          "link": "https://arstechnica.com/?p=1967870",
-          "publishedOn": "2023-09-12T18:58:36.000Z",
-          "wordCount": 1627,
-          "title": "macOS 14 Sonoma will release on September 26, weeks earlier than usual",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-05-at-1.44.57-PM-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1967759",
-          "author": "Ashley Belanger",
-          "description": "Google accused DOJ of aiming to force people to use “inferior” search products.",
-          "link": "https://arstechnica.com/?p=1967759",
-          "publishedOn": "2023-09-12T18:54:05.000Z",
-          "wordCount": 1806,
-          "title": "Judge in US v. Google trial didn’t know if Firefox is a browser or search engine",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1610544332-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1964612",
-          "author": "Samuel Axon",
-          "description": "StandBy for the new Journaling app (and a lot more).",
-          "link": "https://arstechnica.com/?p=1964612",
-          "publishedOn": "2023-09-12T18:30:04.000Z",
-          "wordCount": 1513,
-          "title": "iOS 17 hits supported devices on September 18",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/1-3-760x380.jpg"
         }
       ]
     },
@@ -4205,16 +4125,6 @@
           "wordCount": 4150,
           "title": "Blog: kubeadm: Use etcd Learner to Join a Control Plane Node Safely",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/09/13/userns-alpha/",
-          "author": null,
-          "description": "Authors: Rodrigo Campos Catelin (Microsoft), Giuseppe Scrivano (Red Hat), Sascha Grunert (Red Hat)\nKubernetes v1.25 introduced support for user namespaces for only stateless\npods. Kubernetes 1.28 lifted that restriction, after some design changes were\ndone in 1.27.\nThe beauty of this feature is that:\nit is trivial to adopt (you just need to set a bool in the pod spec)\ndoesn't need any changes for most applications\nimproves security by drastically enhancing the isolation of containers and\nmitigating CVEs rated HIGH and CRITICAL.\nThis post explains the basics of user namespaces and also shows:\nthe changes that arrived in the recent Kubernetes v1.28 release\na demo of a vulnerability rated as HIGH that is not exploitable with user namespaces\nthe runtime requirements to use this feature\nwhat yo…",
-          "link": "https://kubernetes.io/blog/2023/09/13/userns-alpha/",
-          "publishedOn": "2023-09-13T00:00:00.000Z",
-          "wordCount": 4523,
-          "title": "Blog: User Namespaces: Now Supports Running Stateful Pods in Alpha!",
-          "imageUrl": null
         }
       ]
     },
@@ -4267,6 +4177,66 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/mortal-kombat-1-on-switch-receives-new-update-promising-performance-improvements",
+          "author": "Ed Nightingale",
+          "description": "The Switch version of Mortal Kombat 1 has received a new update that's now live, promising numerous improvements.\r\n\n\r\nThe latest in the fighting series was released last month across PC, PlayStation 5, Xbox Series X/S, and Nintendo's console. However, the Switch version was plagued with numerous issues and vastly inferior visuals.\r\n\r\n\n\r\nThis new update includes visual improvements and bug fixes, performance improvements, and stability fixes, according to the patch notes.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mortal-kombat-1-on-switch-receives-new-update-promising-performance-improvements",
+          "publishedOn": "2023-10-12T12:10:57.000Z",
+          "wordCount": 7402,
+          "title": "Mortal Kombat 1 on Switch receives new update promising performance improvements",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Mortal-Kombat-1---Official-Announcement-Trailer-1-33-screenshot-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/dead-island-2s-fetish-indulging-first-story-expansion-haus-arrives-november",
+          "author": "Victoria Kennedy",
+          "description": "Dead Island 2 invites players to indulge their fetishes with its first story expansion, Haus.\r\n\n\r\nThis expansion is set to arrive next month, on 2nd November, across PlayStation 4, PS5, Xbox One, Xbox Series X/S and PC (via the Epic Games Store). \nIt promises players a \"surreal, psycho-horror dreamscape\" as they use their investigative powers to check out a mysterious Malibu cult in a completely new story and setting.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-island-2s-fetish-indulging-first-story-expansion-haus-arrives-november",
+          "publishedOn": "2023-10-12T11:47:05.000Z",
+          "wordCount": 7466,
+          "title": "Dead Island 2's first story expansion Haus arrives November",
+          "imageUrl": "https://assetsio.reedpopcdn.com/dead-island-2-haus-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/forget-wholesome-powerwashing-gets-gruesome-in-crime-scene-cleaner",
+          "author": "Liv Ngan",
+          "description": "I always find it difficult to pick out which demos are worth my limited time whenever Steam Next Fest rolls around again. The process is made a lot easier when I find something which promises the zen-like quality of PowerWash Simulator.\nIt may not seem like it at first, but somehow Crime Scene Cleaner manages to deliver on that promise. Despite the lack of cats and the abundance of dead bodies and blood.\nYou take on the role of a single dad who's a school caretaker (or janitor, seeing as the game takes place in the US) by day, and a mob cleanup crew by night. The mob pays much better than the regular day job, and we need the money to pay for our sick daughter's healthcare. Ah, the good old American healthcare system. \n Read more",
+          "link": "https://www.eurogamer.net/forget-wholesome-powerwashing-gets-gruesome-in-crime-scene-cleaner",
+          "publishedOn": "2023-10-12T11:35:05.000Z",
+          "wordCount": 7361,
+          "title": "Powerwashing gets gruesome in Crime Scene Cleaner",
+          "imageUrl": "https://assetsio.reedpopcdn.com/crime-scene-cleaner.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-go-teases-four-player-parties",
+          "author": "Tom Phillips",
+          "description": "Pokémon Go looks set to introduce the ability to party up, and explore alongside friends in-game. \r\n\n\r\nA teaser image posted on social media shows the silhouettes of four in-game avatars standing next to a gym with a raid egg, suggesting that four-player teams will be able to travel together and head as one into the game's PVE battles.\r\n\n\r\nPokémon Go developer Niantic captioned the image with a teasing eye emoji, an emoji wearing a party hat, and the hashtag #GoStartTheParty.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/pokemon-go-teases-four-player-parties",
+          "publishedOn": "2023-10-12T11:26:59.000Z",
+          "wordCount": 7520,
+          "title": "Pokémon Go teases four-player parties",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F8KRZqZWAAASs7P.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/assassins-creed-mirage-player-numbers-in-line-with-origins-odyssey",
+          "author": "Tom Phillips",
+          "description": "Ubisoft seems happy with Assassin's Creed Mirage, which it says has similar play numbers at launch as recent games such as Origins and Odyssey.\r\n\n\r\nThis is positive, as both Origins and Odyssey were far bigger and costlier projects, whereas Mirage is - by design - more focused.\r\n\n\r\n2020's Assassin's Creed Valhalla remains the biggest Assassin's Creed launch in the series to date.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/assassins-creed-mirage-player-numbers-in-line-with-origins-odyssey",
+          "publishedOn": "2023-10-12T10:06:47.000Z",
+          "wordCount": 7482,
+          "title": "Assassin's Creed Mirage player numbers \"in line\" with Origins, Odyssey",
+          "imageUrl": "https://assetsio.reedpopcdn.com/mirage-2.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/among-us-mushroom-filled-map-the-fungal-arrives-this-month",
+          "author": "Victoria Kennedy",
+          "description": "Among Us' murderous beans are about to see themselves faced with a whole new map, and it is full of secrets, deceit and mushrooms (the most evil of pizza toppings, in my opinion). That's right, Among Us is about to become among fungus.\r\n\n\r\nThe Fungle, as it is known, will be available across all platforms as part of a free update. It promises players the chance to immerse their Impostors and Crewmates in a \"weird mushroom jungle\". Are InnerSloth putting the fun in fungal? Well, we don't have long until we can find out, as this map launches in just a couple of weeks time, on 24th October. \r\n\n\r\nYou can see a little teaser for what mushroom-filled chaos is in store via the video below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/among-us-mushroom-filled-map-the-fungal-arrives-this-month",
+          "publishedOn": "2023-10-12T09:52:13.000Z",
+          "wordCount": 7473,
+          "title": "Among Us mushroom-filled map The Fungle arrives this month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/among-us-fungus-map.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/eu-reportedly-wont-require-fresh-probe-into-microsofts-revised-activision-blizzard-deal",
           "author": "Matt Wales",
@@ -7766,26 +7736,6 @@
           "wordCount": 7269,
           "title": "Disney Dreamlight Valley finally adds Belle - and Beast - in today's update",
           "imageUrl": "https://assetsio.reedpopcdn.com/disney-dreamlight-valley-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-confirms-the-sims-5-will-be-free-to-play-and-co-exist-alongside-the-sims-4",
-          "author": "Matt Wales",
-          "description": "EA has launched another of its Behind the Sims showcases at the internet, this one bringing confirmation that The Sims 5 - or codename Project Rene as it's officially known at present - will indeed be a free-to-play game, as previously leaked, and will coexist alongside The Sims 4. Oh, and there was also some news on The Sims 4's first Stuff Pack in over two-and-a-half years.\r\n\n\r\nFirst, though, Project Rene and the news it'll definitely be free-to-play - or as EA is more insistently phrasing it, \"free-to-download\". Either way, the important thing here is that no core game purchase will be required, and EA is also keen to add there'll be no subscription and no \"energy mechanics\" - so that's at least one predatory mobile monetisation tactic off the table.\r\n\n\r\nAs to what a new mainline Sims game designed from the ground-up to be free-to-play might look like, a Project Rene job listing hastily removed from EA's website earlier this year pointed to an in-game marketplace featuring official and user-generated content (both free and paid) - something else EA has now more or less confirmed.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ea-confirms-the-sims-5-will-be-free-to-play-and-co-exist-alongside-the-sims-4",
-          "publishedOn": "2023-09-12T21:47:41.000Z",
-          "wordCount": 7357,
-          "title": "EA confirms The Sims 5 will be free-to-play and co-exist alongside The Sims 4",
-          "imageUrl": "https://assetsio.reedpopcdn.com/sims-project-rene.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/apples-new-iphone-15-pro-getting-assassins-creed-mirage-resident-evil-4-remake-more",
-          "author": "Matt Wales",
-          "description": "Apple has revealed its new iPhone 15 line-up, bringing the news that its ray-tracing-enabled iPhone 15 Pro will be getting native versions of some AAA titles - including Capcom's Resident Evil 4 Remake and Ubisoft's upcoming Assassin's Creed Mirage - over the next 12 months.\r\n\n\r\nThe newly unveiled iPhone 15 starts at £799 with 128GB storage, and features a 6.1\" Super Retina XDR display (bumped up to 6.7\" if you opt for the £899 \"Plus\" model), an aluminium body, the A16 Bionic Chip with 5-core GPU, and a 4x optical dual camera system capable of taking photos at up to 48MP. It'll also ditch Apple's proprietary Lighting port in favour of USB-C to comply with upcoming EU regulations. \r\n\n\r\nThe pricier iPhone 15 Pro model (starting at £999 with 128GB storage) is where things get a little more interesting for gaming. Its specs are broadly similar to the standard model (the £1,199 Pro Max even has the 6.7\" screen), but it switches in a 10x optical \"telephoto\" camera zoom, titanium body, and the A17 Pro chip with 6-core GPU.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/apples-new-iphone-15-pro-getting-assassins-creed-mirage-resident-evil-4-remake-more",
-          "publishedOn": "2023-09-12T19:35:58.000Z",
-          "wordCount": 6904,
-          "title": "Apple's new iPhone 15 Pro getting Assassin's Creed Mirage, Resident Evil 4 Remake, more",
-          "imageUrl": "https://assetsio.reedpopcdn.com/iphone-15-pro-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
