@@ -176,6 +176,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/10/hacking-the-high-school-grading-system.html",
+          "author": null,
+          "description": "<p>Interesting <i>New York Times</i> <a href=\"https://www.nytimes.com/2023/10/04/opinion/teachers-grades-students-parents.html\">article</a> about high-school students hacking the grading system.</p>\n<blockquote><p>What&#8217;s not helping? The policies many school districts are adopting that make it nearly impossible for low-performing students to fail&#8212;they have a grading floor under them, they know it, and that allows them to game the system.</p>\n<p>Several teachers whom I spoke with or who responded to my questionnaire mentioned policies stating that students cannot get lower than a 50 percent on any assignment, even if the work was never done, in some cases. A teacher from Chapel Hill, N.C., who filled in the questionnaire&#8217;s &#8220;name&#8221; field with &#8220;No, no, no,&#8221; said the 50 percent floor and &#8220;NO attendance enforcement&#8221; leads to a scenario where &#8220;we get students who skip over 100 days, have a 50 percent, complete a couple of assignments to tip over into 59.5 percent and then pass.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/hacking-the-high-school-grading-system.html",
+          "publishedOn": "2023-10-13T11:12:23.000Z",
+          "wordCount": 1122,
+          "title": "Hacking the High School Grading System",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html",
           "author": null,
           "description": "<p><a href=\"https://words.filippo.io/dispatches/seeds-bounty/\">This</a> is a fun challenge:</p>\n<blockquote><p>The NIST elliptic curves that power much of modern cryptography were generated in the late &#8217;90s by hashing seeds provided by the NSA. How were the seeds generated? Rumor has it that they are in turn hashes of English sentences, but the person who picked them, Dr. Jerry Solinas, passed away in early 2023 leaving behind a cryptographic mystery, some conspiracy theories, and an historical password cracking challenge.</p></blockquote>\n<p>So there&#8217;s a $12K prize to recover the hash seeds.</p>\n<p>Some <a href=\"https://news.ycombinator.com/item?id=37784499\">backstory</a>:</p>\n<blockquote><p>Some of the backstory here (it&#8217;s the funniest fucking backstory ever): it&#8217;s lately been circulating&#8212;though I think this may have been somewhat common knowledge among practitioners, though definitely not to me&#8212;that the &#8220;random&#8221; seeds for the NIST P-curves, generated in the 1990s by Jerry Solinas at NSA, were simply SHA1 hashes of some variation of the string &#8220;Give Jerry a raise&#8221;...</p></blockquote>",
@@ -402,6 +412,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1975776",
+          "author": "Stephen Clark",
+          "description": "This week, Intelsat signaled confidence in Relativity Space's Terran R rocket.",
+          "link": "https://arstechnica.com/?p=1975776",
+          "publishedOn": "2023-10-13T11:00:51.000Z",
+          "wordCount": 2401,
+          "title": "Rocket Report: European rockets finally fly; Artemis II core stage issues",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/vv23-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1975687",
           "author": "Kevin Purdy",
@@ -3971,86 +3991,6 @@
           "wordCount": 1929,
           "title": "HP’s $5,000 Spectre Foldable PC has a lot to prove",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/listing-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968268",
-          "author": "Dan Goodin",
-          "description": "With 70 zero-days uncovered so far this year, 2023 is on track to set a new record.",
-          "link": "https://arstechnica.com/?p=1968268",
-          "publishedOn": "2023-09-13T22:11:21.000Z",
-          "wordCount": 2184,
-          "title": "With 0-days hitting Chrome, iOS, and dozens more this month, is no software safe?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968202",
-          "author": "Ron Amadeo",
-          "description": "Google plans to slow down hiring, and that means fewer recruiters.",
-          "link": "https://arstechnica.com/?p=1968202",
-          "publishedOn": "2023-09-13T21:22:47.000Z",
-          "wordCount": 1591,
-          "title": "Even more Google layoffs: This time it’s “significant” cuts to recruiting",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968056",
-          "author": "Benj Edwards",
-          "description": "Musicians: Speak now or forever hold your beats.",
-          "link": "https://arstechnica.com/?p=1968056",
-          "publishedOn": "2023-09-13T20:59:17.000Z",
-          "wordCount": 2020,
-          "title": "AI can now generate CD-quality music from text, and it’s only getting better",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968070",
-          "author": "Chuong Nguyen",
-          "description": "We have the usual tech stuff and some extras for making the day-to-day easier.",
-          "link": "https://arstechnica.com/?p=1968070",
-          "publishedOn": "2023-09-13T19:56:45.000Z",
-          "wordCount": 4517,
-          "title": "Dealmaster: Coffee gear, iPhone 15 accessory discounts, and more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.38.20-PM-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968123",
-          "author": "Kevin Purdy",
-          "description": "Repair shops must disclose if they're using \"non-authorized\" parts.",
-          "link": "https://arstechnica.com/?p=1968123",
-          "publishedOn": "2023-09-13T19:30:11.000Z",
-          "wordCount": 1723,
-          "title": "Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iphone14_max_battery-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968149",
-          "author": "Ashley Belanger",
-          "description": "Advanced chips made in America would still be shipped to Taiwan, report says.",
-          "link": "https://arstechnica.com/?p=1968149",
-          "publishedOn": "2023-09-13T19:22:55.000Z",
-          "wordCount": 2081,
-          "title": "Biden called Arizona fab a “game-changer.” Analyst calls it a “paperweight”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1245437687-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968081",
-          "author": "Eric Berger",
-          "description": "\"I'm really excited to see how my body does when I return.\"",
-          "link": "https://arstechnica.com/?p=1968081",
-          "publishedOn": "2023-09-13T18:52:14.000Z",
-          "wordCount": 1985,
-          "title": "A NASA astronaut will finally spend a full year in space",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iss068e006386medium-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1968159",
-          "author": "Jonathan M. Gitlin",
-          "description": "The first round of funds will go to repairing or replacing current infrastructure.",
-          "link": "https://arstechnica.com/?p=1968159",
-          "publishedOn": "2023-09-13T18:42:23.000Z",
-          "wordCount": 1617,
-          "title": "Feds open up $100 million funding for EV charger reliability grants",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/EA-charger-760x380.jpg"
         }
       ]
     },
@@ -4177,6 +4117,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/cyberpunk-2077-used-ai-technology-to-replicate-polish-voice-actor-for-phantom-liberty-following-death",
+          "author": "Victoria Kennedy",
+          "description": "CD Projekt turned to AI technology to replicate a Cyberpunk 2077 Polish voice actor who passed away in 2021. \r\n\n\r\nThe late Miłogost Reczek's voice was reproduced by an AI algorithm for Phantom Liberty - the base game's recent expansion - for its Polish-language release. \nIn a statement shared with Bloomberg, CD Projekt said it had obtained permission from Reczek's family to recreate the actor's voice in this way for the expansion.\n Read more",
+          "link": "https://www.eurogamer.net/cyberpunk-2077-used-ai-technology-to-replicate-polish-voice-actor-for-phantom-liberty-following-death",
+          "publishedOn": "2023-10-13T11:40:34.000Z",
+          "wordCount": 7574,
+          "title": "Cyberpunk 2077 used AI technology to replicate Polish voice actor for Phantom Liberty following death",
+          "imageUrl": "https://assetsio.reedpopcdn.com/viktorvektor.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/lollipop-chainsaw-repop-now-a-remaster-not-a-remake-developer-says",
+          "author": "Liv Ngan",
+          "description": "The upcoming Lollipop Chainsaw remake's game design is now described as a remaster, rather than a remake.\nProducer Yoshimi Yasuda made the announcement earlier today on social media.\nLast year, Yasuda stated Lollipop Chainsaw RePop won't update the original's story or aesthetics. \"We want to make it so that the game can be as close to the original version as possible,\" Yasuda said, echoing the only major aspect which will be changed is the game's licensed music soundtrack.\n Read more",
+          "link": "https://www.eurogamer.net/lollipop-chainsaw-repop-now-a-remaster-not-a-remake-developer-says",
+          "publishedOn": "2023-10-13T11:34:51.000Z",
+          "wordCount": 7241,
+          "title": "Lollipop Chainsaw RePop now a remaster, not a remake, developer says",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Lollipop-Chainsaw---Launch-Trailer-thumbnail-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/bayonetta-creator-hideki-kamiya-starts-youtube-channel-after-leaving-platinumgames",
+          "author": "Ed Nightingale",
+          "description": "Bayonetta creator Hideki Kamiya has started his own YouTube channel following his departure from PlatinumGames.\r\n\r\n\n\r\nSo far there's only one video, in English and Japanese, in which he discusses his decision to leave the studio and his thoughts on making curry, of all things.\r\n\n\r\n\"I'm over it. I'm so over it,\" he says at the start of the video as he leaves the office. \"I am Hideki Kamiya, unemployed. Welcome to my channel.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bayonetta-creator-hideki-kamiya-starts-youtube-channel-after-leaving-platinumgames",
+          "publishedOn": "2023-10-13T10:43:03.000Z",
+          "wordCount": 7034,
+          "title": "Bayonetta creator Hideki Kamiya starts YouTube channel after leaving PlatinumGames",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Let's-ask-Kamiya!---Why'd-he-quit_-What-are-his-plans_---0-44-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/pokemon-center-brings-back-van-gogh-pikachu-trading-card",
+          "author": "Liv Ngan",
+          "description": "Following the quick sell-out of the exclusive Pokémon Van Gogh merchandise, and subsequently the Pikachu trading card, on Pokémon Center websites, The Pokémon Company has announced it'll be giving fans another opportunity to get Pikachu with Grey Felt Hat.\nThe card was initially a free add-on for Pokémon Center customers, given out at a rate of one card for each item in the Van Gogh collection bought.\nThis time around, only orders with Pokémon Trading Card Game products will be eligible for a card. A minimum purchase of £30/$30 is required, and the giveaway is limited to one card per order. \n Read more",
+          "link": "https://www.eurogamer.net/pokemon-center-brings-back-van-gogh-pikachu-trading-card",
+          "publishedOn": "2023-10-13T10:24:20.000Z",
+          "wordCount": 7396,
+          "title": "Pokémon Center brings back Van Gogh Pikachu trading card",
+          "imageUrl": "https://assetsio.reedpopcdn.com/pokemon-center-van-gogh_WGXT6k8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/disheartening-to-see-arma-3-gameplay-footage-used-to-spread-fake-israel-palestine-news-developer-says",
+          "author": "Tom Phillips",
+          "description": "Arma 3 developer Bohemia Interactive has commented on the use of footage taken from its military shooter being used online to spread misinformation about Israel and Palestine.\r\n\n\r\nThe studio has also re-shared a guide it originally released last year, when Arma 3 footage was being used to create fake videos purporting to show the conflict in Ukraine.\r\n\n\r\n\"With the tragic events currently unfolding in the Middle East, we feel it is vital to share once again our statement concerning the use of Arma 3 as a source of fake news footage,\" Bohemia wrote on X, formerly Twitter. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/disheartening-to-see-arma-3-gameplay-footage-used-to-spread-fake-israel-palestine-news-developer-says",
+          "publishedOn": "2023-10-13T10:06:57.000Z",
+          "wordCount": 7407,
+          "title": "\"Disheartening\" to see Arma 3 gameplay footage used to spread fake Israel-Palestine news, developer says",
+          "imageUrl": "https://assetsio.reedpopcdn.com/CSLA_Update_8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/this-thomas-the-tank-engine-starfield-mod-gave-me-quite-a-freight",
+          "author": "Victoria Kennedy",
+          "description": "What is Friday without an article about an amusing mod that we have found. This week, a rather freight-ening mod has pulled into that station we call Starfield, which swaps out every ship in the game with that of Thomas the Tank Engine. Because, of course.\r\n\n\r\nThis \"Really Useful Starfield\" mod was created and uploaded by the aptly named Trainwiz, who has kindly provided us with a rather sinister backstory explaining Thomas' arrival in space.\r\n\n\r\n\"For his crimes against God and his invention of murder, Thomas was smote, thusly. Rejected from Hell and obviously never going to get into Heaven, they say that the Tank Engine has been banished to wander the stars forever, unable to satiate his bloodlust and unable to find peace in his heart,\" Trainwiz begins.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/this-thomas-the-tank-engine-starfield-mod-gave-me-quite-a-freight",
+          "publishedOn": "2023-10-13T10:04:47.000Z",
+          "wordCount": 7684,
+          "title": "This Thomas the Tank Engine Starfield mod gave me quite a freight",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Starfield-Thomas-the-Tank-Engine-mod.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/lords-of-the-fallen-xbox-performance-patch-taking-longer-developer-warns",
+          "author": "Ed Nightingale",
+          "description": "The developer of Lords of the Fallen has warned an update is still due for the Xbox version of the game to bring parity with the PC and PlayStation 5 versions.\r\n\n\r\nThe game has been available for press and content creators ahead of its release today, with frequent patches attempting to stabilise its performance.\r\n\n\r\nThe Xbox version was not made available for review and it appears the delay in this patch may be the reason.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lords-of-the-fallen-xbox-performance-patch-taking-longer-developer-warns",
+          "publishedOn": "2023-10-13T09:53:15.000Z",
+          "wordCount": 7487,
+          "title": "Lords of the Fallen Xbox performance patch taking longer, developer warns",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Lords2_artdirection_market_screenshot_SwampKnight_paintover01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsoft-activision-blizzard-deal-approved-by-uk-regulators",
+          "author": "Victoria Kennedy",
+          "description": "The UK's Competition and Markets Authority (CMA) has approved Microsoft's revised deal to purchase Activision Blizzard.\r\n\n\r\nThis leaves the door open for Microsoft to finally complete its proposed $68.7bn acquisition of the Call of Duty and Overwatch maker, over a year and half since it was first announced.\r\n\n\r\nIn a statement on X (formerly Twitter), the CMA wrote: \"We've cleared the new deal for Microsoft to buy Activision without cloud gaming rights. In August, Microsoft made a concession that would see Ubisoft, instead of Microsoft, buy Activision's cloud gaming rights.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsoft-activision-blizzard-deal-approved-by-uk-regulators",
+          "publishedOn": "2023-10-13T07:34:02.000Z",
+          "wordCount": 7793,
+          "title": "Microsoft Activision Blizzard deal approved by UK regulator",
+          "imageUrl": "https://assetsio.reedpopcdn.com/modern-warfare-iii-sas-underwater-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/shinji-mikamis-survival-horror-the-evil-within-is-next-weeks-free-epic-store-game",
           "author": "Matt Wales",
@@ -7696,26 +7716,6 @@
           "wordCount": 7386,
           "title": "Mortal Kombat 1's accessibility features detailed ahead of launch",
           "imageUrl": "https://assetsio.reedpopcdn.com/Mortal-Kombat-1---Official-Announcement-Trailer-1-33-screenshot-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/star-wars-jedi-fallen-order-and-survivor-director-stig-asmussen-is-leaving-ea",
-          "author": "Matt Wales",
-          "description": "Stig Asmussen, the director behind the acclaimed Star Wars Jedi: Fallen Order and Star Wars Jedi: Survivor, is leaving Respawn Entertainment and EA to \"pursue other adventures\".\r\n\n\r\nAsmussen, whose career in the games industry spans close to 25 years, worked on all three original God of War titles at Santa Monica Studio prior to his move to Respawn - serving as lead environment artist, then art director, and, finally, creative director on God of War 3. \r\n\n\r\nHe joined Respawn Entertainment as a game director in 2014, and his first released project at the studio was 2019's well-received Star Wars Jedi: Fallen Order. A follow-up, Star Wars Jedi: Survivor, also helmed by Asmussen, released earlier this year, proving to be a commercial hit.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/star-wars-jedi-fallen-order-and-survivor-director-stig-asmussen-is-leaving-ea",
-          "publishedOn": "2023-09-13T21:46:06.000Z",
-          "wordCount": 7036,
-          "title": "Star Wars Jedi: Fallen Order and Survivor director Stig Asmussen is leaving EA",
-          "imageUrl": "https://assetsio.reedpopcdn.com/star-wars-jedi-survivor_T7M9XbT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonys-next-state-of-play-showcase-airs-this-thursday-focusing-on-third-party-games",
-          "author": "Matt Wales",
-          "description": "State of Play, Sony's irregular series of PlayStation showcases, is returning tomorrow, 14th September, with a focus on previously announced indie and third-party games.\r\n\n\r\nSony hasn't yet indicated how long this latest broadcast is likely to last, but things kick off at 10pm tomorrow in the UK/11pm CEST/2pm PT/5pm ET.\r\n\n\r\nAnyone hoping for some juicy first-party news - or even another quick look at Spider-Man 2: Spider-Mens - should temper their expectations. \"Tomorrow's broadcast will focus on updates to previously announced games coming to PlayStation consoles,\" says the PlayStation Blog.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonys-next-state-of-play-showcase-airs-this-thursday-focusing-on-third-party-games",
-          "publishedOn": "2023-09-13T20:31:26.000Z",
-          "wordCount": 6812,
-          "title": "PlayStation's next State of Play airs this Thursday, focusing on third-party games",
-          "imageUrl": "https://assetsio.reedpopcdn.com/sony-state-of-play.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -8013,16 +8013,6 @@
           "wordCount": 1610,
           "title": "Introducing auto-triage rules for Dependabot",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/09/autotriage-dependabot.png"
-        },
-        {
-          "id": "https://github.blog/?p=74067",
-          "author": "Jakub Oleksy",
-          "description": "In August, we experienced two incidents that resulted in degraded performance across GitHub services. \nThe post GitHub Availability Report: August 2023 appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2023-09-13-github-availability-report-august-2023/",
-          "publishedOn": "2023-09-13T19:00:20.000Z",
-          "wordCount": 1248,
-          "title": "GitHub Availability Report: August 2023",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/12/GitHub-availability-report_banner.png?fit=1200%2C630"
         }
       ]
     },
