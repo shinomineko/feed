@@ -124,16 +124,6 @@
           "wordCount": 193,
           "title": "xkcd Phone Flip",
           "imageUrl": "https://imgs.xkcd.com/comics/xkcd_phone_flip_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2830/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/haunted_house.png\" title=\"You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit.\" alt=\"You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit.\" />",
-          "link": "https://xkcd.com/2830/",
-          "publishedOn": "2023-09-18T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Haunted House",
-          "imageUrl": "https://imgs.xkcd.com/comics/haunted_house_2x.png"
         }
       ]
     },
@@ -185,6 +175,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html",
+          "author": null,
+          "description": "<p>Online voting is insecure, period. This doesn&#8217;t stop organizations and governments from using it. (And for low-stakes elections, it&#8217;s probably fine.) Switzerland&#8212;not low stakes&#8212;uses online voting for national elections. Ed Appel <a href=\"https://freedom-to-tinker.com/2023/10/06/switzerlands-e-voting-system-has-predictable-implementation-blunder/\">explains</a> why it&#8217;s a bad idea:</p>\n<blockquote><p>Last year, I published <a href=\"https://freedom-to-tinker.com/2022/06/27/how-to-assess-an-e-voting-system/\">a 5-part series about Switzerland’s e-voting system</a>. Like any internet voting system, it has inherent security vulnerabilities: if there are malicious insiders, they can corrupt the vote count; and if thousands of voters’ computers are hacked by malware, the malware can change votes as they are transmitted. Switzerland &#8220;solves&#8221; the problem of malicious insiders in their printing office by officially declaring that they won’t consider that threat model in their cybersecurity assessment...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html",
+          "publishedOn": "2023-10-17T11:11:43.000Z",
+          "wordCount": 1348,
+          "title": "Security Vulnerability of Switzerland’s E-Voting System",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/10/coin-flips-are-biased.html",
           "author": null,
@@ -4137,6 +4137,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/spider-man-2-puts-puddlegate-to-bed-once-and-for-all-with-new-gen-visuals",
+          "author": "Victoria Kennedy",
+          "description": "Marvel's Spider-Man 2 is a mere few days away from release and the reviews and impressions have started rolling in across the web (no pun intended, but isn't it nice when it just happens). Many have praised the game's action, slick traversal and story, but one area that has been highlighted away from your typical professional assessment is the puddles. \r\n\nSome players felt the first Spider-Man game was lacking in the puddle density department, noting the game's E3 2017 gameplay trailer had larger and better defined puddles than in the released version. This caused quite a stir on social media and was eventually dubbed \"puddlegate\".\n\r\nInsomniac took this all in its stride, and actually added a playful fix for Spider-Man's puddlegate in the form of puddle stickers. However, it's already clear its sequel won't need stickers to 'fix' its puddles, as they are looking pretty dense and wet from where I am sitting.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/spider-man-2-puts-puddlegate-to-bed-once-and-for-all-with-new-gen-visuals",
+          "publishedOn": "2023-10-17T11:08:30.000Z",
+          "wordCount": 7589,
+          "title": "Spider-Man 2 puts \"puddlegate\" to bed once and for all with new-gen visuals",
+          "imageUrl": "https://assetsio.reedpopcdn.com/venom-marvels-spiderman-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment",
+          "author": "Ed Nightingale",
+          "description": "Frontier, the developer behind the likes of F1 Manager, Planet Zoo, and other management games, has announced layoffs as part of an organisational review of the business.\r\n\n\r\nInvestors were notified this morning in a trading update, in which the company said it plans to \"refocus on its core strengths following a period of disappointing financial performance and more challenging industry conditions\", reports GamesIndustry.biz.\r\n\n\r\nIt's currently unknown how many employees will lose their jobs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment",
+          "publishedOn": "2023-10-17T10:55:43.000Z",
+          "wordCount": 7291,
+          "title": "Frontier latest studio hit with layoffs following F1 Manager disappointment",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F1-Manager-2023-Tipps-Thumb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/starfield-lead-quest-designer-joins-other-ex-bethesda-developers-at-wyrdsong-studio",
+          "author": "Liv Ngan",
+          "description": "One of Bethesda's senior developers, Will Shen, who served as the lead quest designer on Starfield, has joined studio Something Wicked Games, which was co-founded by former Bethesda project lead Jeff Gardiner.\nGardiner co-founded Something Wicked Games last year with Obsidian veteran Charles Staples, who was the design lead for The Outer Worlds.\nIn the studio's press release, Shen's role at Something Wicked Games was revealed as a lead content designer for the studio's debut RPG, Wyrdsong, alongside former Respawn, Obsidian, and BioWare developers.\n Read more",
+          "link": "https://www.eurogamer.net/starfield-lead-quest-designer-joins-other-ex-bethesda-developers-at-wyrdsong-studio",
+          "publishedOn": "2023-10-17T10:37:30.000Z",
+          "wordCount": 7417,
+          "title": "Starfield lead quest designer joins other ex-Bethesda developers at Wyrdsong studio",
+          "imageUrl": "https://assetsio.reedpopcdn.com/wyrdsong-ShatteredGlass-1536x768.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/puppet-soulslike-lies-of-p-reaches-1m-sales-in-under-a-month",
+          "author": "Ed Nightingale",
+          "description": "Lies of P, the Pinocchio-themed Souslike from Korean developer Neowiz, has reached 1m copies sold within a month of its release.\r\n\n\r\nThose sales are across PlayStation and Xbox consoles, plus PC. The game is additionally available on Xbox Game Pass.\r\n\n\r\n\"The reception has been incredible so far, and we are beyond thankful that over one million players have already embarked on their journey through Krat,\" said Jiwon Choi, Lies of P's game director. \"Likewise, we are excited for what the future holds for Lies of P, and can't wait to share more when the time is right.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/puppet-soulslike-lies-of-p-reaches-1m-sales-in-under-a-month",
+          "publishedOn": "2023-10-17T10:20:01.000Z",
+          "wordCount": 7457,
+          "title": "Puppet Soulslike Lies of P reaches 1m sales in under a month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/20230608154205_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/what-looks-like-a-cut-assassins-creed-mirage-post-credits-scene-points-to-a-huge-shift-in-the-series-story",
+          "author": "Tom Phillips",
+          "description": "A video purporting to show an unused post-credits scene found within the files of Assassin's Creed Mirage may point to a seismic upcoming shift in series' story.\r\n\n\r\nFilenames for the scene reference \"Assassin's Creed Neo\", an internal Ubisoft codename believed to refer to one of several upcoming projects currently in development. Thus, the big twist revealed here is expected to be something we see more of in future games. \r\n\n\r\nFor those who'd rather be left unspoiled, this is your last chance to turn away now.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/what-looks-like-a-cut-assassins-creed-mirage-post-credits-scene-points-to-a-huge-shift-in-the-series-story",
+          "publishedOn": "2023-10-17T09:30:25.000Z",
+          "wordCount": 7716,
+          "title": "What looks like a cut Assassin's Creed Mirage post-credits scene points to a huge shift in the series' story",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Opening-Intro-Cinematic-Cutscene-Assassin's-Creed-Mirage-0-2-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/epic-games-store-now-tempting-devs-with-100-revenue-on-back-catalogue",
           "author": "Matt Wales",
