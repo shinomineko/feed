@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T18:23:57.378Z</updated>
+    <updated>2023-10-23T00:30:36.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: PersistentVolume Last Phase Transition Time in Kubernetes]]></title>
+        <id>https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time/</id>
+        <link href="https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time/"/>
+        <updated>2023-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Roman Bednář (Red Hat)
+In the recent Kubernetes v1.28 release, we (SIG Storage) introduced a new alpha feature that aims to improve PersistentVolume (PV)
+storage management and help cluster administrators gain better insights into the lifecycle of PVs.
+With the addition of the lastPhaseTransitionTime field into the status of a PV,
+cluster administrators are now able to track the last time a PV transitioned to a different
+phase, allowing for more efficient
+and informed resource management.
+Why do we need new PV field?
+PersistentVolumes in Kubernetes play a crucial role in providing storage resources to workloads running in the cluster.
+However, managing these PVs effectively can be challenging, especially when it comes
+to determining the last time a PV transitioned between different…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvel's Iron Man is using a "community council" to "feedback on everything" during development]]></title>
         <id>https://www.eurogamer.net/marvels-iron-man-is-using-a-community-council-to-feedback-on-everything-during-development</id>
@@ -10407,48 +10427,6 @@ Little Hope sees you follow a college class after the bus they were travelling i
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, Cyberpunk 2077 didn't "remove" the Elon Musk NPC because he wasn't even in the game to begin with]]></title>
-        <id>https://www.eurogamer.net/no-cyberpunk-2077-didnt-remove-the-elon-musk-npc-because-he-wasnt-even-in-the-game-to-begin-with</id>
-        <link href="https://www.eurogamer.net/no-cyberpunk-2077-didnt-remove-the-elon-musk-npc-because-he-wasnt-even-in-the-game-to-begin-with"/>
-        <updated>2023-09-23T12:06:35.000Z</updated>
-        <summary type="html"><![CDATA[A CD Projekt Red developer has finally quashed the rumour that an NPC based upon Elon Musk was in the game at all, let alone recently removed. 
-
-After a tweet purporting that CD Projekt had "removed the Elon Musk cameo from the Corpo opening in Cyberpunk 2077" went viral, senior quest designer Patrick Mills stepped in to ask, "who came up with this nonsense?".
-
-"That wasn't Elon musk, it looks nothing like him. Who came up with this nonsense?" Mills asked.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payday 3 players endure second consecutive day of server issues, preventing them from playing]]></title>
-        <id>https://www.eurogamer.net/payday-3-players-endure-second-consecutive-day-of-server-issues-preventing-them-from-playing</id>
-        <link href="https://www.eurogamer.net/payday-3-players-endure-second-consecutive-day-of-server-issues-preventing-them-from-playing"/>
-        <updated>2023-09-23T11:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Starbreeze insists it is "working hard" to keep servers online after Payday 3 players endured a second consecutive evening of disruption.
-
-After a three-day early access period for some players, Payday 3 released on 21st September, but players have struggled to get online at peak times due to continuing server issues that have shutdown matchmaking, making it impossible to play the always-online heist shooter.
-
-On launch day, Starbreeze took to its social media accounts to admit that it was "currently experiencing slow matchmaking" and was "investigating and working on a solution".
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The history of syphilis is being rewritten by a medieval skeleton]]></title>
-        <id>https://arstechnica.com/?p=1970581</id>
-        <link href="https://arstechnica.com/?p=1970581"/>
-        <updated>2023-09-23T11:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Columbus may not have brought syphilis back to the Old World after all.]]></summary>
-        <author>
-            <name>WIRED</name>
         </author>
     </entry>
 </feed>

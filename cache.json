@@ -3811,16 +3811,6 @@
           "wordCount": 2303,
           "title": "Inside the race to stop a deadly viral outbreak in India",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1339065898-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1970581",
-          "author": "WIRED",
-          "description": "Columbus may not have brought syphilis back to the Old World after all.",
-          "link": "https://arstechnica.com/?p=1970581",
-          "publishedOn": "2023-09-23T11:12:54.000Z",
-          "wordCount": 1978,
-          "title": "The history of syphilis is being rewritten by a medieval skeleton",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bone-760x380.jpg"
         }
       ]
     },
@@ -3846,6 +3836,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time/",
+          "author": null,
+          "description": "Author: Roman Bednář (Red Hat)\nIn the recent Kubernetes v1.28 release, we (SIG Storage) introduced a new alpha feature that aims to improve PersistentVolume (PV)\nstorage management and help cluster administrators gain better insights into the lifecycle of PVs.\nWith the addition of the lastPhaseTransitionTime field into the status of a PV,\ncluster administrators are now able to track the last time a PV transitioned to a different\nphase, allowing for more efficient\nand informed resource management.\nWhy do we need new PV field?\nPersistentVolumes in Kubernetes play a crucial role in providing storage resources to workloads running in the cluster.\nHowever, managing these PVs effectively can be challenging, especially when it comes\nto determining the last time a PV transitioned between different…",
+          "link": "https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time/",
+          "publishedOn": "2023-10-23T00:00:00.000Z",
+          "wordCount": 4301,
+          "title": "Blog: PersistentVolume Last Phase Transition Time in Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/10/20/kcs-shanghai/",
           "author": null,
@@ -7606,26 +7606,6 @@
           "wordCount": 7225,
           "title": "Dark Pictures: Little Hope arrives on Switch just in time for Halloween",
           "imageUrl": "https://assetsio.reedpopcdn.com/the-dark-pictures-anthology-little-hope-review-tension-aplenty-but-not-many-surprises-1603902427503.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/no-cyberpunk-2077-didnt-remove-the-elon-musk-npc-because-he-wasnt-even-in-the-game-to-begin-with",
-          "author": "Vikki Blake",
-          "description": "A CD Projekt Red developer has finally quashed the rumour that an NPC based upon Elon Musk was in the game at all, let alone recently removed. \r\n\nAfter a tweet purporting that CD Projekt had \"removed the Elon Musk cameo from the Corpo opening in Cyberpunk 2077\" went viral, senior quest designer Patrick Mills stepped in to ask, \"who came up with this nonsense?\".\r\n\n\"That wasn't Elon musk, it looks nothing like him. Who came up with this nonsense?\" Mills asked.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/no-cyberpunk-2077-didnt-remove-the-elon-musk-npc-because-he-wasnt-even-in-the-game-to-begin-with",
-          "publishedOn": "2023-09-23T12:06:35.000Z",
-          "wordCount": 7291,
-          "title": "No, Cyberpunk 2077 didn't \"remove\" the Elon Musk NPC because he wasn't even in the game to begin with",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Screenshot-2023-09-23-at-13.01.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/payday-3-players-endure-second-consecutive-day-of-server-issues-preventing-them-from-playing",
-          "author": "Vikki Blake",
-          "description": "Starbreeze insists it is \"working hard\" to keep servers online after Payday 3 players endured a second consecutive evening of disruption.\r\n\nAfter a three-day early access period for some players, Payday 3 released on 21st September, but players have struggled to get online at peak times due to continuing server issues that have shutdown matchmaking, making it impossible to play the always-online heist shooter.\r\n\nOn launch day, Starbreeze took to its social media accounts to admit that it was \"currently experiencing slow matchmaking\" and was \"investigating and working on a solution\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/payday-3-players-endure-second-consecutive-day-of-server-issues-preventing-them-from-playing",
-          "publishedOn": "2023-09-23T11:26:18.000Z",
-          "wordCount": 7576,
-          "title": "Payday 3 players endure second consecutive day of server issues, preventing them from playing",
-          "imageUrl": "https://assetsio.reedpopcdn.com/payday-3-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
