@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/10/messaging-service-wiretap-discovered-through-expired-tls-cert.html",
+          "author": null,
+          "description": "<p>Fascinating <a href=\"https://therecord.media/jabber-ru-alleged-government-wiretap-expired-tls-certificate\">story</a> of a covert wiretap that was discovered because of an expired TLS certificate:</p>\n<blockquote><p>The suspected man-in-the-middle attack was identified when the administrator of jabber.ru, the largest Russian XMPP service, received a notification that one of the servers’ certificates had expired.</p>\n<p>However, jabber.ru found no expired certificates on the server, ­ as explained in <a href=\"https://notes.valdikss.org.ru/jabber.ru-mitm/\">a blog post</a> by ValdikSS, a pseudonymous anti-censorship researcher based in Russia who collaborated on the investigation.</p>\n<p>The expired certificate was instead discovered on a single port being used by the service to establish an encrypted Transport Layer Security (TLS) connection with users. Before it had expired, it would have allowed someone to decrypt the traffic being exchanged over the service...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/10/messaging-service-wiretap-discovered-through-expired-tls-cert.html",
+          "publishedOn": "2023-10-27T11:01:00.000Z",
+          "wordCount": 927,
+          "title": "Messaging Service Wiretap Discovered through Expired TLS Cert",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/10/new-nsa-information-from-and-about-snowden.html",
           "author": null,
           "description": "<p>Interesting <a href=\"https://www.computerweekly.com/news/366554957/Why-only-1-of-the-Snowden-Archive-will-ever-be-published\">article</a> about the Snowden documents, including comments from former <i>Guardian</i> editor Ewen MacAskill</p>\n<blockquote><p>MacAskill, who shared the Pulitzer Prize for Public Service with Glenn Greenwald and Laura Poitras for their journalistic work on the Snowden files, retired from <i>The Guardian</i> in 2018. He told <i>Computer Weekly</i> that:</p>\n<ul>\n<li>As far as he knows, a copy of the documents is still locked in the New York Times office. Although the files are in the <i>New York Times</i> office, <i>The Guardian</i> retains responsibility for them.</li>\n<li>As to why the <i>New York Times</i> has not published them in a decade, MacAskill maintains &#8220;this is a complicated issue.&#8221; &#8220;There is, at the very least, a case to be made for keeping them for future generations of historians,&#8221; he said...</li></ul></blockquote>",
@@ -392,6 +402,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1979086",
+          "author": "Stephen Clark",
+          "description": "ABL Space Systems has blamed its launch mount for a January rocket failure.",
+          "link": "https://arstechnica.com/?p=1979086",
+          "publishedOn": "2023-10-27T11:00:50.000Z",
+          "wordCount": 4401,
+          "title": "Rocket Report: China launches 3-man crew; SpaceX adds to busy manifest",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1745433413-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1979099",
           "author": "Dan Goodin",
@@ -4061,96 +4081,6 @@
           "wordCount": 2130,
           "title": "Our 10-point scale will help you rate the biggest misinformation purveyors",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ladapo-scale-misinformation-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971754",
-          "author": "Beth Mole",
-          "description": "The FDA previously found that no one is confused about where almond milk comes from.",
-          "link": "https://arstechnica.com/?p=1971754",
-          "publishedOn": "2023-09-27T23:04:34.000Z",
-          "wordCount": 1850,
-          "title": "The dairy industry is trying to outlaw plant-based “milk” labels—again",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/02/GettyImages-506834862-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971711",
-          "author": "Ashley Belanger",
-          "description": "Youth suing: \"I'm forced to stay inside,\" and \"things are getting worse.\"",
-          "link": "https://arstechnica.com/?p=1971711",
-          "publishedOn": "2023-09-27T21:45:09.000Z",
-          "wordCount": 2176,
-          "title": "“Unprecedented” youth climate trial demands action from 32 European governments",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-832929598-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971409",
-          "author": "Stephen Clark",
-          "description": "His mission was originally supposed to last six months.",
-          "link": "https://arstechnica.com/?p=1971409",
-          "publishedOn": "2023-09-27T19:48:45.000Z",
-          "wordCount": 1859,
-          "title": "NASA astronaut Frank Rubio is home after a year in space",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53216328462_8049492c7b_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971598",
-          "author": "Jon Brodkin",
-          "description": "Twitter/X left voluntary alliance but is \"not off the hook,\" EU official says.",
-          "link": "https://arstechnica.com/?p=1971598",
-          "publishedOn": "2023-09-27T19:47:16.000Z",
-          "wordCount": 1801,
-          "title": "Musk’s X spreads more disinformation than rival social networks, EU says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-twitter-x-logos-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971629",
-          "author": "John Timmer",
-          "description": "Tens of thousands of fossils later, we've found a trilobite with a full stomach.",
-          "link": "https://arstechnica.com/?p=1971629",
-          "publishedOn": "2023-09-27T19:31:57.000Z",
-          "wordCount": 2188,
-          "title": "We finally know for sure what a trilobite ate",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/image-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971570",
-          "author": "Samuel Axon",
-          "description": "Post-apocalyptic heroine Aloy will return to Steam and the Epic Game Store soon.",
-          "link": "https://arstechnica.com/?p=1971570",
-          "publishedOn": "2023-09-27T19:31:02.000Z",
-          "wordCount": 1802,
-          "title": "PlayStation sci-fi epic Horizon Forbidden West makes its way to PC",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ss_1b5e97e2925a19eef90ef856e9fa0de2c4eede85.1920x1080-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971618",
-          "author": "Jonathan M. Gitlin",
-          "description": "From Thursday until Sunday, charges will cost just one dollar.",
-          "link": "https://arstechnica.com/?p=1971618",
-          "publishedOn": "2023-09-27T19:21:04.000Z",
-          "wordCount": 1871,
-          "title": "Powerful new EV charger starts field tests in Arizona this weekend",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Nxu-One-Charging-System-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971432",
-          "author": "Benj Edwards",
-          "description": "Despite total lack of specifics, rumored collaboration has everyone guessing.",
-          "link": "https://arstechnica.com/?p=1971432",
-          "publishedOn": "2023-09-27T19:19:01.000Z",
-          "wordCount": 1922,
-          "title": "Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/altman_ive_rumors_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1971587",
-          "author": "Dan Goodin",
-          "description": "The modified firmware used by BlackTech is hard to detect.",
-          "link": "https://arstechnica.com/?p=1971587",
-          "publishedOn": "2023-09-27T19:04:36.000Z",
-          "wordCount": 1831,
-          "title": "Backdoored firmware lets China state hackers control routers with “magic packets”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/enterprise-router-760x380.jpg"
         }
       ]
     },
@@ -4299,24 +4229,63 @@
       "title": "Alpine Linux News",
       "feedUrl": "https://alpinelinux.org/atom.xml",
       "siteUrl": "https://alpinelinux.org/atom.xml",
-      "articles": [
-        {
-          "id": "https://alpinelinux.org/posts/Alpine-3.18.4-released.html",
-          "author": null,
-          "description": "Alpine 3.18.4 released",
-          "link": "https://alpinelinux.org/posts/Alpine-3.18.4-released.html",
-          "publishedOn": "2023-09-28T00:00:00.000Z",
-          "wordCount": 1444,
-          "title": "Alpine 3.18.4 released",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Eurogamer.net News Feed",
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/alan-wake-2-expansions-detailed-include-trip-inside-fictional-tv-show",
+          "author": "Tom Phillips",
+          "description": "Alan Wake 2 is out today, and Remedy has now detailed two expansions set to continue its story in 2024.\r\n\n\r\nThe first is named Night Springs, which Alan Wake fans will know is the name of the series' in-game TV show (based heavily on The Twilight Zone). \r\n\n\r\n\"Visions and dreams,\" Remedy teases of what fans should expect here. \"Fiction is written and coming true. Fiction collapses and remains just words on a page. These are those stories... in Night Springs.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/alan-wake-2-expansions-detailed-include-trip-inside-fictional-tv-show",
+          "publishedOn": "2023-10-27T11:56:02.000Z",
+          "wordCount": 6956,
+          "title": "Alan Wake 2 expansions detailed, include trip inside fictional TV show",
+          "imageUrl": "https://assetsio.reedpopcdn.com/AW2_11-08-23_029.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-expects-stellar-christmas-sales-with-ps5-now-in-full-supply-for-first-time-since-launch",
+          "author": "Liv Ngan",
+          "description": "Sony has said it expects one of its best seasons ever for console sales this Christmas, as PlayStation 5 stock is now in \"full supply\" for the first time since the PS5 launched in November 2020.\nPlayStation's rosy outlook is also boosted by the release of Marvel's Spider-Man 2, PlayStation exec Eric Lempel told Barron's (via ResetEra).\nLempel said Sony had been hampered by supply chain issues caused by the Covid pandemic and Russia's invasion of Ukraine, which in turn caused a components shortage for PS5 production. \n Read more",
+          "link": "https://www.eurogamer.net/playstation-expects-stellar-christmas-sales-with-ps5-now-in-full-supply-for-first-time-since-launch",
+          "publishedOn": "2023-10-27T11:37:42.000Z",
+          "wordCount": 6766,
+          "title": "PlayStation expects stellar Christmas sales, with PS5 now \"in full supply\" for first time since launch",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ps5-side-on-view.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/turnip-boy-heads-next-weeks-epic-store-freebies",
+          "author": "Tom Phillips",
+          "description": "Next week's Epic Games Store free titles include indie 2D Zelda-alike adventure Turnip Boy Commits Tax Evasion.\r\n\n\r\nTurnip Boy tells the tale of a wanted vegetable out to overturn a corrupt vegetable government, while running from the law after, well, committing tax evasion.\r\n\n\r\nBest of all, perhaps, there are collectable hats for your turnip, and multiple endings based on how much tax you managed to evade. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/turnip-boy-heads-next-weeks-epic-store-freebies",
+          "publishedOn": "2023-10-27T11:19:42.000Z",
+          "wordCount": 6814,
+          "title": "Turnip Boy heads next week's Epic Store freebies",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Turnip-Boy-Commits-Tax-Evasion-Launch-Trailer-0-33-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sony-confirms-departure-of-veteran-exec-connie-booth-after-more-than-30-years",
+          "author": "Tom Phillips",
+          "description": "PlayStation's head of internal game production Connie Booth has departed Sony after more than three decades, the company has now confirmed.\r\n\n\r\nBooth's departure had been discussed earlier this week by outspoken former game director David Jaffe, another PlayStation alumnus.\r\n\n\r\nIn a further video published yesterday, Jaffe alleged that Booth had been fired amidst longer-term internal tensions around PlayStation studios moving to develop more live service games.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-confirms-departure-of-veteran-exec-connie-booth-after-more-than-30-years",
+          "publishedOn": "2023-10-27T10:37:05.000Z",
+          "wordCount": 6617,
+          "title": "Sony confirms departure of veteran exec Connie Booth, after more than 30 years",
+          "imageUrl": "https://assetsio.reedpopcdn.com/psn10.10800.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/theres-a-diablo-4-free-trial-on-pc-this-weekend",
+          "author": "Liv Ngan",
+          "description": "If you're looking for something to dip into this weekend, there's a free Diablo 4 PC trial which gives players access to all content from the game so far.\nThe trial is already live and will continue until Monday 30th October. Not a bad way to spend the weekend before Halloween! \nTo access the trial, you'll need a Battle.net account if you haven't got one already. The trial can be installed from the Diablo 4 page on Battle.net.\n Read more",
+          "link": "https://www.eurogamer.net/theres-a-diablo-4-free-trial-on-pc-this-weekend",
+          "publishedOn": "2023-10-27T10:21:32.000Z",
+          "wordCount": 7025,
+          "title": "There's a Diablo 4 free trial on PC this weekend",
+          "imageUrl": "https://assetsio.reedpopcdn.com/diablo-4-season-of-blood-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/robert-pattinsons-batsuit-briefly-appears-in-the-8-year-old-batman-arkham-knight",
           "author": "Matt Wales",
@@ -7986,46 +7955,6 @@
           "wordCount": 7077,
           "title": "Counter-Strike 2 now available",
           "imageUrl": "https://assetsio.reedpopcdn.com/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.600x338.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-boss-jim-ryan-is-retiring-in-march",
-          "author": "Matt Wales",
-          "description": "Sony has announced PlayStation boss Jim Ryan will be retiring next March, after nearly 30 years with the company.\r\n\n\r\nRyan - whose official job title is president and CEO of Sony Interactive Entertainment - took charge of the PlayStation division back in February 2019, having previously helmed Sony Computer Interactive Europe.\r\n\n\r\nIn a statement announcing his retirement, Ryan wrote, \"I've relished the opportunity to have a job I love in a very special company, working with great people and incredible partners. But I've found it increasingly difficult to reconcile living in Europe and working in North America.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-boss-jim-ryan-is-retiring-in-march",
-          "publishedOn": "2023-09-27T22:18:16.000Z",
-          "wordCount": 7105,
-          "title": "PlayStation boss Jim Ryan is retiring in March, after nearly 30 years at Sony",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Jim-Ryan-Says-There-Are-More-Acquisitions-To-Come-e1643658179476.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/meta-quest-3-mixed-reality-headset-arrives-10th-october-starting-at-480500",
-          "author": "Matt Wales",
-          "description": "We already knew Meta Quest 3 was on the way after Meta made its latest consumer VR headset official back in June - just days ahead of Apple's Vision Pro reveal - but the company has now slapped it with a 10th October launch date, and pre-orders are open now.\r\n\n\r\nApril's initial unveiling confirmed some top-level features for Meta's new VR headset - which is now more accurately described as a mixed reality headset - but we now have a much clearer idea of the specs being packed into this third iteration of Quest.\r\n\n\r\nMeta Quest 3 is powered by the Snapdragon XR2 Gen 2 processor - which Meta says can manage \"double the graphic processing\" of Quest 2 - and it includes 8GB of RAM. It also sports two 120Hz LCD displays, each delivering a resolution of 2064 x 2208 - described as a 30 percent increase compared to Quest 2 - plus a 110-degrees horizontal and 96-degrees vertical field of view. Lenses have an adjustable IPD ranging from 58mm-71mm.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/meta-quest-3-mixed-reality-headset-arrives-10th-october-starting-at-480500",
-          "publishedOn": "2023-09-27T21:46:31.000Z",
-          "wordCount": 7094,
-          "title": "Meta Quest 3 mixed reality headset arrives 10th October, starting at £480",
-          "imageUrl": "https://assetsio.reedpopcdn.com/meta-quest-3-promo-shot-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/dave-the-diver-studios-next-game-is-a-pvpve-zombie-stealth-survival-adventure",
-          "author": "Matt Wales",
-          "description": "How do you follow up a five-star treat like Dave the Diver? With a zombie-themed, 16-player PvPvE stealth-survival extraction game, of course! Developer Mintrocket has just unveiled its next project, titled Nakwon: Last Paradise, and it's about as much a departure from its acclaimed snorkelling-and-sushi-restaurant-management adventure as you can get, dropping players onto the streets of Seoul, right into the middle of the undead apocalypse.\r\n\n\r\nAs per Mintrocket's lengthy Steam announcement, Nakwon's action is split into two main parts; on the Scouting side, players - with a friend in tow if desired - must leave the relative comforts of the titular safe zone to venture into the zombie-infested outskirts of Seoul. Here, the goal is to scavenge resources then escape back to safety, but other players and, of course, the AI-controlled undead, won't make that an easy task. \r\n\n\r\nMintrocket stresses that zombies in Nakwon are very much the hunters, and cannot be defeated. Instead, players - primarily armed with makeshift weaponry and tools rather than undead-shredding firepower, given the scarcity of guns - must navigate the streets as stealthily as possible to avoid detection, fleeing when necessary. And should they successfully make it back to the safe zone alive (it looks like players can come and go as they like, regardless of what other Survivors might be doing) the Simulation side of Nakwon begins.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dave-the-diver-studios-next-game-is-a-pvpve-zombie-stealth-survival-adventure",
-          "publishedOn": "2023-09-27T20:19:56.000Z",
-          "wordCount": 7029,
-          "title": "Dave the Diver studio's next game is a PvPvE zombie stealth-survival adventure",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Nakwon-Last-Paradise-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflixs-wild-far-cry-blood-dragon-anime-captain-laserhawk-welcomes-rayman-in-new-trailer",
-          "author": "Matt Wales",
-          "description": "Netflix's promisingly outlandish Far Cry animated adaptation is almost upon us, with the series - titled Captain Laserhawk: A Blood Dragon Remix - set to hit the streaming service on 19th October. And ahead of its arrival, Netflix has shared a fresh trailer showcasing its chaotic action, this one welcoming Rayman and a bunch of other familiar Ubisoft faces.\r\n\n\r\nCaptain Laserhawk: A Blood Dragon Remix takes its cue from Ubisoft's gleefully ludicrous, 80s-inspired Far Cry 3 expansion, Blood Dragon. It's set in an alternate version of Earth's 1992 where a massive tech company, Eden, exerts social control via mass surveillance and big data.\r\n\n\r\nEnter series protagonist Dolph Laserhawk, a cybernetically enhanced super soldier who escapes from the Eden army and decides to embark on one final heist before sailing off into the sunset with his boyfriend Alex. Unfortunately, Laserhawk is betrayed by said boyfriend, landing him in high-security facility with no choice but to join forces with an unlikely bunch of rebels.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/netflixs-wild-far-cry-blood-dragon-anime-captain-laserhawk-welcomes-rayman-in-new-trailer",
-          "publishedOn": "2023-09-27T18:28:41.000Z",
-          "wordCount": 7466,
-          "title": "Netflix's wild Far Cry Blood Dragon anime Captain Laserhawk welcomes Rayman in new trailer",
-          "imageUrl": "https://assetsio.reedpopcdn.com/captain-laserhawk-trailer-still-rayman.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
