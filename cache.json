@@ -394,16 +394,6 @@
           "wordCount": 845,
           "title": "Malicious Ads in Bing Chat",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/10/hacking-gas-pumps-via-bluetooth.html",
-          "author": null,
-          "description": "<p>Turns out pumps at gas stations are controlled via Bluetooth, and that the connections are <a href=\"https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station\">insecure</a>. No details in the article, but it seems that it&#8217;s easy to take control of the pump and have it dispense gas without requiring payment.</p>\n<p>It&#8217;s a complicated crime to monetize, though. You need to sell access to the gas pump to others.</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/10/hacking-gas-pumps-via-bluetooth.html",
-          "publishedOn": "2023-10-03T11:01:05.000Z",
-          "wordCount": 1284,
-          "title": "Hacking Gas Pumps via Bluetooth",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +402,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1980400",
+          "author": "Samuel Axon",
+          "description": "$79 Pencil lowers the barrier to entry for drawing on an iPad.",
+          "link": "https://arstechnica.com/?p=1980400",
+          "publishedOn": "2023-11-01T20:28:36.000Z",
+          "wordCount": 1637,
+          "title": "Apple’s cheaper Pencil is available to buy now, but it has some limitations",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-Pencil-USB-C-sliding-cap-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1980322",
+          "author": "Chuong Nguyen",
+          "description": "Hot TV deals, laptops galore, Apple gear, and more ahead of Black Friday.",
+          "link": "https://arstechnica.com/?p=1980322",
+          "publishedOn": "2023-11-01T20:20:31.000Z",
+          "wordCount": 3614,
+          "title": "Dealmaster: Big early Black Friday display sale, Apple deals, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Odyssey-Neo-G8-Monitor-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1980411",
+          "author": "Kyle Orland",
+          "description": "Japanese publisher cites reputational damage, support costs of \"unauthorized\" mods.",
+          "link": "https://arstechnica.com/?p=1980411",
+          "publishedOn": "2023-11-01T19:34:19.000Z",
+          "wordCount": 2040,
+          "title": "Why Capcom thinks PC game modding is akin to “cheating”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/capcom-modding-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1980371",
+          "author": "Beth Mole",
+          "description": "Chocolate is just not a big source of either lead or cadmium in diets.",
+          "link": "https://arstechnica.com/?p=1980371",
+          "publishedOn": "2023-11-01T19:06:12.000Z",
+          "wordCount": 1918,
+          "title": "Despite spooky Consumer Reports’ testing, metals in chocolates aren’t scary",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chocolate-heavy-metal-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1980365",
+          "author": "Scharon Harding",
+          "description": "Ad-tier improvement is rare good news for streaming subscribers.",
+          "link": "https://arstechnica.com/?p=1980365",
+          "publishedOn": "2023-11-01T18:32:53.000Z",
+          "wordCount": 1660,
+          "title": "Amid price hikes, ads, & crackdowns, Netflix finally cuts subscribers a break",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/onepiece-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1980396",
+          "author": "John Timmer",
+          "description": "High-density material in the mantle may be remains of a Mars-sized planet.",
+          "link": "https://arstechnica.com/?p=1980396",
+          "publishedOn": "2023-11-01T18:19:36.000Z",
+          "wordCount": 1868,
+          "title": "Remains of planet that formed the Moon may be hiding near Earth’s core",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/image-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1980353",
           "author": "Jon Brodkin",
@@ -4291,16 +4341,6 @@
           "wordCount": 1974,
           "title": "Ad-free Facebook, Instagram access planned for $14 per month in Europe",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/facebook-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1972356",
-          "author": "Kevin Purdy",
-          "description": "Marcin Wichary on his long quest to capture everything that shaped modern type.",
-          "link": "https://arstechnica.com/?p=1972356",
-          "publishedOn": "2023-10-03T11:30:06.000Z",
-          "wordCount": 2108,
-          "title": "Shift Happens is a beautifully designed history of how keyboards got this way",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/olivetti-praxis-760x380.jpg"
         }
       ]
     },
@@ -4326,6 +4366,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/11/02/sig-architecture-production-readiness-spotlight-2023/",
+          "author": null,
+          "description": "Author: Frederico Muñoz (SAS Institute)\nThis is the second interview of a SIG Architecture Spotlight series that will cover the different\nsubprojects. In this blog, we will cover the SIG Architecture: Production Readiness\nsubproject.\nIn this SIG Architecture spotlight, we talked with Wojciech Tyczynski\n(Google), lead of the Production Readiness subproject.\nAbout SIG Architecture and the Production Readiness subproject\nFrederico (FSM): Hello Wojciech, could you tell us a bit about yourself, your role and how you\ngot involved in Kubernetes?\nWojciech Tyczynski (WT): I started contributing to Kubernetes in January 2015. At that time,\nGoogle (where I was and still am working) decided to start a Kubernetes team in the Warsaw office\n(in addition to already existing teams in California and Seattle…",
+          "link": "https://kubernetes.io/blog/2023/11/02/sig-architecture-production-readiness-spotlight-2023/",
+          "publishedOn": "2023-11-02T00:00:00.000Z",
+          "wordCount": 4866,
+          "title": "Blog: Spotlight on SIG Architecture: Production Readiness",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/10/31/gateway-api-ga/",
           "author": null,
@@ -4456,6 +4506,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/remnant-2s-first-dlc-the-awakened-king-gets-november-release-date",
+          "author": "Matt Wales",
+          "description": "Acclaimed Souls-like shooter sequel Remnant 2 is poised to receive its first expansion, The Awakened King, on 17th November, and developer Gunfire Games is celebrating today's release date news with a DLC teaser trailer.\r\n\n\r\nThe Awakened King features a brand-new storyline focusing on the One True King, a being corrupted by the Root during his near-death slumber and now out for revenge. It's up to players to uncover the king's secrets by exploring a new area of Losomn - the announcement makes mention of a castle overlooking a Dran coastal town, but doesn't explicitly confirm that this is where the DLC is set - containing new dungeons and \"unexpected allies\".\r\n\n\r\nThere's also talk of powerful new weapons and equipment for players to acquire - including new modifications, amulets, and rings - plus fearsome new enemies and bosses, risen from the depths of the ocean and now swarming the streets. And finally, there's the new Ritualist archetype, which can leverage status effects to punish foes.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/remnant-2s-first-dlc-the-awakened-king-gets-november-release-date",
+          "publishedOn": "2023-11-01T23:29:25.000Z",
+          "wordCount": 6987,
+          "title": "Remnant 2's first DLC The Awakened King gets November release date",
+          "imageUrl": "https://assetsio.reedpopcdn.com/remnant-2-awakened-king-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/rovio-blocks-disturbing-pro-israel-ad-found-in-angry-birds-and-other-games",
+          "author": "Matt Wales",
+          "description": "Developer Rovio has said it is now blocking a \"disturbing\" pro-Israel ad featuring graphic content after a Reuters report highlighted its discovery in Angry Birds and a number of other family orientated games.\r\n\n\r\nAccording to Reuters, the pro-Israel ad - created by the Israeli Ministry of Foreign Affairs as part of an \"advocacy drive\" amid the continuing Israel-Hamas war - featured images of Hamas militants, rocket attacks, terrified Israeli families, explosions, and blurred graphic footage, culminating in the message, \"We will make sure that those who harm us pay a heavy price.\"\r\n\n\r\nSpeaking to Reuters, an Israeli government official confirmed the ads were part of a $1.5m USD campaign but insisted advertisers had been instructed to block the advert \"for people under 18\". Despite these instructions, Reuters said it had documented six cases – in Britain, France, Austria, Germany, and Holland – where the adverts had been served in games for children or families.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/rovio-blocks-disturbing-pro-israel-ad-found-in-angry-birds-and-other-games",
+          "publishedOn": "2023-11-01T22:40:35.000Z",
+          "wordCount": 7156,
+          "title": "Rovio blocks \"disturbing\" pro-Israel ad found in Angry Birds and other games",
+          "imageUrl": "https://assetsio.reedpopcdn.com/rovio-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/starfield-finally-getting-much-requested-nvidia-dlss-support-on-pc-next-week",
+          "author": "Matt Wales",
+          "description": "Bethesda has announced it'll finally be introducing a number of much-requested graphics features to Starfield on PC next week - including its long-awaited Nvidia DLSS support - with all additions initially arriving as a Steam Beta update prior to general release.\r\n\n\r\nPC players have aired their frustration with Starfield's lack of DLSS support since before launch (its absence was initially believed to be the result of Bethesda's partnership with AMD, although AMD insisted otherwise), and it wasn't until September - one week after the game's arrival - that Bethesda finally committed to adding it in a future update.\r\n\n\r\nAt the time, the developer also pledged to introduce 32:9 ultrawide monitor support, a field-of-view slider, an HDR calibration menu, plus brightness and contrast controls; some of those features have already been implemented in previous updates, and at least a few more of the remaining ones will make it into next week's update alongside DLSS support.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/starfield-finally-getting-much-requested-nvidia-dlss-support-on-pc-next-week",
+          "publishedOn": "2023-11-01T20:48:51.000Z",
+          "wordCount": 6559,
+          "title": "Starfield finally getting much-requested Nvidia DLSS support on PC next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/starfield-content-planeta-widok.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/disney-dreamlight-valleys-massive-a-rift-in-time-expansion-detailed",
+          "author": "Matt Wales",
+          "description": "With Disney Dreamlight Valley's early access exit right around the corner, developer Gameloft has detailed some of the new features it'll be getting as part of its full release on 5th December and beyond - including a first look at its free multiplayer mode and the recently announced A Rift in Time paid story expansion.\r\n\n\r\nStarting with the free stuff, Dreamlight Valley's next content update launches 5th December to coincide with its full release, bringing the \"biggest amount of fixes and improvements so far\", alongside the addition of The Nightmare Before Christmas' Jack Skellington as a new villager with his own friendship quests and rewards.\r\n\n\r\nMore significantly, it'll introduce the multiplayer ValleyVerse feature, enabling friends to visit each other's villages - where, alongside the usual activities, they'll be able exchange items, visit Scrooge McDuck's store (to take advantage of different stock), and more. Gameloft says it'll be building on this initial multiplayer offering over time.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/disney-dreamlight-valleys-massive-a-rift-in-time-expansion-detailed",
+          "publishedOn": "2023-11-01T19:20:29.000Z",
+          "wordCount": 7046,
+          "title": "Disney Dreamlight Valley's massive A Rift in Time paid expansion detailed",
+          "imageUrl": "https://assetsio.reedpopcdn.com/dreamlight-valley-rift-in-time-expansion-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/the-day-before-delayed-again-now-launching-in-early-access-as-there-may-be-unforeseen-circumstances",
           "author": "Tom Phillips",
@@ -8195,86 +8285,6 @@
           "wordCount": 7474,
           "title": "Sony reveals Spider-Man 2 PS5 bundle, Venom-centric trailer",
           "imageUrl": "https://assetsio.reedpopcdn.com/venom-spider-man-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/naughty-dog-cutting-contract-developers-early-report-claims",
-          "author": "Liv Ngan",
-          "description": "The Last of Us studio Naughty Dog is the latest company to announce layoffs internally, with at least 25 developers to be affected.\nContractors for a range of departments, including art, production and QA, are being impacted, according to a report from Kotaku, with sources claiming at least 25 developers will be affected.\nNaughty Dog is cutting contracts short for outsourced developers, and sources say no severance pay is being given to those laid off. Both remaining employees and laid off developers are allegedly \"being pressured to keep the news quiet\".\n Read more",
-          "link": "https://www.eurogamer.net/naughty-dog-cutting-contract-developers-early-report-claims",
-          "publishedOn": "2023-10-03T12:05:09.000Z",
-          "wordCount": 7251,
-          "title": "Naughty Dog cutting contract developers early, report claims",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ar1oia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/mortal-kombat-1-latest-patch-is-here-but-not-for-nintendo-switch",
-          "author": "Victoria Kennedy",
-          "description": "NetherRealm has released its latest patch for Mortal Kombat 1. \r\n\n\r\nThis patch addresses a range of issues across PC, PlayStation 5 and Xbox Series X/S, including general fixes and character specific adjustments. However, the Nintendo Switch version of the game remains left out in the cold, at least for now, despite Mortal Kombat boss Ed Boon previously promising fixes.\r\n\n\r\nSharing the patch notes online, Boon said the team will \"kontinue to listen\" and keep \"lines of communication open\" as it continues to improve its game (I just wish Boon would be a little more konsistent with his use of Ks).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mortal-kombat-1-latest-patch-is-here-but-not-for-nintendo-switch",
-          "publishedOn": "2023-10-03T11:54:45.000Z",
-          "wordCount": 8008,
-          "title": "Mortal Kombat 1 latest patch is here, but not for Nintendo Switch",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_224cb713d0e9dcc0028f5ad275cf6f4925d3dca5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/batman-arkham-trilogy-on-nintendo-switch-delayed-until-december",
-          "author": "Victoria Kennedy",
-          "description": "The Batman: Arkham Trilogy has been delayed on Nintendo Switch.\r\n\n\r\nThis collection, which is set to include all three of Rocksteady's games - Arkham Asylum, Arkham City and Arkham Knight - as well as all DLC, was originally due to release on Nintendo's hybrid console later this month. \r\n\n\r\nHowever, a post on the official Batman Arkham Twitter account said the team has made the decision to delay the launch to ensure Switch users get the \"best possible experience\" on release. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/batman-arkham-trilogy-on-nintendo-switch-delayed-until-december",
-          "publishedOn": "2023-10-03T11:14:17.000Z",
-          "wordCount": 7447,
-          "title": "Batman: Arkham Trilogy on Nintendo Switch delayed until December",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_90026e46a995760d53bfa2dc1612b73960c84c94.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/epic-games-looking-into-missing-royalties-for-hatoful-boyfriend-creator",
-          "author": "Liv Ngan",
-          "description": "Epic Games has stated it is \"looking into\" a lack of royalty payments to Hato Moa, the creator of the original Hatoful Boyfriend game.\r\n\nThe pigeon dating sim was an amateur project made by Moa and it was released in 2011 in Japanese. The game gained popularity following fan translations into English, and a HD remake was developed by Mediatonic. Hatoful Boyfriend HD was published in 2014 by Devolver Digital. \r\n\nMediatonic was acquired by Epic in 2021. Last week, Mao stated they have received \"no royalty payment\" since the acquisition and voiced their frustration on Twitter.  \n Read more",
-          "link": "https://www.eurogamer.net/epic-games-looking-into-missing-royalties-for-hatoful-boyfriend-creator",
-          "publishedOn": "2023-10-03T11:12:20.000Z",
-          "wordCount": 7406,
-          "title": "Epic Games \"looking into\" missing royalties for Hatoful Boyfriend creator",
-          "imageUrl": "https://assetsio.reedpopcdn.com/hatoful-boyfriend-pigeons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-14-player-first-to-earn-all-2000-achievements-after-10-years",
-          "author": "Ed Nightingale",
-          "description": "After 10 years, one Final Fantasy 14 player has finally earned all 2751 achievements.\r\n\n\r\nThe feat was done by a Japanese player on the Garuda server and shared on the Final Fantasy 14 subreddit (spotted by GamesRadar). Community data tracker Lalachievements has corroborated the claim.\r\n\n\r\nThe game's Achievement list is notorious, requiring a huge amount of time and dedication to complete.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-14-player-first-to-earn-all-2000-achievements-after-10-years",
-          "publishedOn": "2023-10-03T11:08:27.000Z",
-          "wordCount": 7336,
-          "title": "Final Fantasy 14 player first to earn all 2000+ achievements after 10 years",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Final-Fantasy-XIV-Endwalker-Screenshot-033.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-sports-fc-24-players-fuming-at-30-ultimate-team-card-pack",
-          "author": "Ed Nightingale",
-          "description": "EA Sports FC 24 players are fuming at an Ultimate Team mode card pack costing around £30.\r\n\n\r\nThe Elite Season Opener Pack costs 285,000 coins (the in-game currency) or 3000 FC Points (premium currency) and seemingly includes such powerful cards that players are accusing EA of pay-to-win tactics.\r\n\n\r\nAnd this is a microtransaction in a game that already costs £70.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ea-sports-fc-24-players-fuming-at-30-ultimate-team-card-pack",
-          "publishedOn": "2023-10-03T10:30:24.000Z",
-          "wordCount": 7698,
-          "title": "EA Sports FC 24 players fuming at £30 Ultimate Team card pack",
-          "imageUrl": "https://assetsio.reedpopcdn.com/fc-24-steam-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/latest-baldurs-gate-3-hotfix-makes-his-majesty-the-cat-bald-once-again",
-          "author": "Liv Ngan",
-          "description": "Baldur's Gate 3 fans, rejoice! For Larian has heard the cries of the people and addressed, nay fixed the glaring issue it introduced with patch three.\r\n\nI'm talking about, of course, His Majesty the cat. Formerly a sphynx cat, he was changed into a different breed to differentiate him between another bald cat encountered later on in the story.\r\n\nI've been slowly chugging through Baldur's Gate 3 and two months after its release on PC, I finally reached Act Two this weekend. Upon meeting His Majesty for the first time last night, my initial reaction was \"ah, this is the bald cat everyone was upset about,\" and I can understand why. With the hair, he just doesn't command the same respect.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/latest-baldurs-gate-3-hotfix-makes-his-majesty-the-cat-bald-once-again",
-          "publishedOn": "2023-10-03T10:29:34.000Z",
-          "wordCount": 7488,
-          "title": "Latest Baldur's Gate 3 hotfix makes His Majesty the cat bald once again",
-          "imageUrl": "https://assetsio.reedpopcdn.com/baldur's-gate-3-his-majesty.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/grand-theft-auto-6-fans-are-so-eager-for-more-news-theyve-turned-to-the-moon",
-          "author": "Victoria Kennedy",
-          "description": "Rockstar is yet to share details about Grand Theft Auto 6, but fans are convinced an announcement of some sort is imminent. Why? Because of the moon.\r\n\n\r\nThe developer recently released a new image for GTA Online's Moon Festival, which you can see above. This image was shared as part of a blog post about GTA Online which - on the surface at least - was all fairly standard stuff.\r\n\n\r\nBut it's the Moon Festival image which is getting attention - as some fans believe Rockstar is actually teasing the series' next entry in this seemingly straightforward picture. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/grand-theft-auto-6-fans-are-so-eager-for-more-news-theyve-turned-to-the-moon",
-          "publishedOn": "2023-10-03T10:27:38.000Z",
-          "wordCount": 7788,
-          "title": "Grand Theft Auto 6 fans are so eager for more news, they've turned to the moon",
-          "imageUrl": "https://assetsio.reedpopcdn.com/GTA-6-moon-tease.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -8283,6 +8293,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=75141",
+          "author": "Lee Reilly",
+          "description": "It’s the moment you’ve all been waiting for. Are you ready?\nThe post GitHub Game Off 2023 theme announcement appeared first on The GitHub Blog.",
+          "link": "https://github.blog/2023-11-01-github-game-off-2023-theme-announcement/",
+          "publishedOn": "2023-11-01T20:36:11.000Z",
+          "wordCount": 1750,
+          "title": "GitHub Game Off 2023 theme announcement",
+          "imageUrl": "https://github.blog/wp-content/uploads/2023/10/68747470733a2f2f696d672e697463682e7a6f6e652f6157316e4c7a457a4e6a45344e5459794c6e42755a773d3d2f6f726967696e616c2f3649583458742e706e67.png"
+        },
         {
           "id": "https://github.blog/?p=75134",
           "author": "Marie Carasco",
