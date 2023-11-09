@@ -393,16 +393,6 @@
           "wordCount": 887,
           "title": "Cisco Can’t Stop Using Hard-Coded Passwords",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/10/model-extraction-attack-on-neural-networks.html",
-          "author": null,
-          "description": "<p>Adi Shamir et al. have a new <a href=\"https://eprint.iacr.org/2023/1526.pdf\">model extraction attack</a> on neural networks:</p>\n<blockquote><p>Polynomial Time Cryptanalytic Extraction of Neural Network Models</p>\n<p><b>Abstract:</b> Billions of dollars and countless GPU hours are currently spent on training Deep Neural Networks (DNNs) for a variety of tasks. Thus, it is essential to determine the difficulty of extracting all the parameters of such neural networks when given access to their black-box implementations. Many versions of this problem have been studied over the last 30 years, and the best current attack on ReLU-based deep neural networks was presented at Crypto&#8217;20 by Carlini, Jagielski, and Mironov. It resembles a differential chosen plaintext attack on a cryptosystem, which has a secret key embedded in its black-box implementation and requires a polynomial number of queries but an exponential amount of time (as a function of the number of neurons)...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/10/model-extraction-attack-on-neural-networks.html",
-          "publishedOn": "2023-10-10T11:09:49.000Z",
-          "wordCount": 1054,
-          "title": "Model Extraction Attack on Neural Networks",
-          "imageUrl": null
         }
       ]
     },
@@ -411,6 +401,126 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1982280",
+          "author": "Ryan Waniata",
+          "description": "Sales on Herman Miller chairs, OLED TVs, and all sorts of tech gear.",
+          "link": "https://arstechnica.com/?p=1982280",
+          "publishedOn": "2023-11-08T23:00:55.000Z",
+          "wordCount": 3724,
+          "title": "Dealmaster: Herman Miller chairs, AirPods, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Herman-Miller-Embody-Gaming-Chair-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982442",
+          "author": "Ashley Belanger",
+          "description": "TikTok car theft trend led cops to give out free AirTags, police chief said.",
+          "link": "https://arstechnica.com/?p=1982442",
+          "publishedOn": "2023-11-08T22:46:53.000Z",
+          "wordCount": 1806,
+          "title": "AirTags are the new go-to tool for cops after spike in car thefts",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1245452189-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982446",
+          "author": "Beth Mole",
+          "description": "Owners charged with abuse of corpse, theft, money laundering, and forgery.",
+          "link": "https://arstechnica.com/?p=1982446",
+          "publishedOn": "2023-11-08T22:19:56.000Z",
+          "wordCount": 1688,
+          "title": "Funeral home of horrors: Owners arrested after 190 rotting corpses found",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1149571569-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982352",
+          "author": "Jennifer Ouellette",
+          "description": "\"The last thing you see is your own tear ducts freezing up.\"",
+          "link": "https://arstechnica.com/?p=1982352",
+          "publishedOn": "2023-11-08T22:02:51.000Z",
+          "wordCount": 2094,
+          "title": "New York falls under a spectral “death chill” in Ghostbusters: Frozen Empire teaser",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/ghostbust2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982368",
+          "author": "Jon Brodkin",
+          "description": "ISPs say anti-discrimination rule should cover only deployment, not prices.",
+          "link": "https://arstechnica.com/?p=1982368",
+          "publishedOn": "2023-11-08T20:57:34.000Z",
+          "wordCount": 1999,
+          "title": "Internet providers say the FCC should not investigate broadband prices",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/broadband-us-map-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982260",
+          "author": "Ron Amadeo",
+          "description": "The EU will decide by February if iMessage needs to open up.",
+          "link": "https://arstechnica.com/?p=1982260",
+          "publishedOn": "2023-11-08T19:28:24.000Z",
+          "wordCount": 2017,
+          "title": "Google argues iMessage should be regulated by the EU’s Digital Markets Act",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/imessage-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1980436",
+          "author": "Jennifer Ouellette",
+          "description": "Ars chats with historian Emma Southon about her new book A Rome of One's Own.",
+          "link": "https://arstechnica.com/?p=1980436",
+          "publishedOn": "2023-11-08T19:17:45.000Z",
+          "wordCount": 1972,
+          "title": "The courtesan who brought down a cult, and other unsung women of ancient Rome",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/southon4-tulliaminor-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982241",
+          "author": "Kevin Purdy",
+          "description": "\"Mark as Private\" would let players of… certain games keep them off timelines.",
+          "link": "https://arstechnica.com/?p=1982241",
+          "publishedOn": "2023-11-08T18:35:53.000Z",
+          "wordCount": 1728,
+          "title": "Steam might let you hide those embarrassing games in your profile soon",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1298372796-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982192",
+          "author": "Stephen Clark",
+          "description": "The $1.5 billion Euclid telescope will use light to study the dark Universe.",
+          "link": "https://arstechnica.com/?p=1982192",
+          "publishedOn": "2023-11-08T18:34:44.000Z",
+          "wordCount": 1881,
+          "title": "Scientists show off the wide vision of Europe’s Euclid space telescope",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/euclid1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982281",
+          "author": "Dan Goodin",
+          "description": "Packages downloaded thousands of times targeted people working on sensitive projects.",
+          "link": "https://arstechnica.com/?p=1982281",
+          "publishedOn": "2023-11-08T18:27:47.000Z",
+          "wordCount": 2178,
+          "title": "Highly invasive backdoor snuck into open source packages targets developers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/malware-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982271",
+          "author": "Beth Mole",
+          "description": "Nutrition experts are reviewing data on ultra-processed foods for 2025 guidance.",
+          "link": "https://arstechnica.com/?p=1982271",
+          "publishedOn": "2023-11-08T18:15:03.000Z",
+          "wordCount": 1823,
+          "title": "Americans may soon get warnings about ultra-processed foods: Report",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1723110808-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982265",
+          "author": "Kyle Orland",
+          "description": "Google says \"bribe is a pretty strong word\" for efforts to court app developers.",
+          "link": "https://arstechnica.com/?p=1982265",
+          "publishedOn": "2023-11-08T18:00:35.000Z",
+          "wordCount": 2106,
+          "title": "Epic lays out Google’s alleged “bribe and block” monopoly strategy in trial opening",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/bribe-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1982032",
           "author": "Scharon Harding",
@@ -4445,6 +4555,36 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/steam-may-soon-let-you-hide-specific-games-from-your-friends",
+          "author": "Matt Wales",
+          "description": "Tired of having to explain yourself every time your friends catch you firing up Hosiery Party: Wet Potato Frenzy on Steam? Well, there's some good news: Valve is reportedly readying a feature that'll let you mark specific games as \"private\" so you can hide your more unusual tastes from other users while still maintaining a public profile.\r\n\n\r\nAt present, Steam's privacy settings don't support the kind of granularity needed to hide individual games, only enabling users to dictate broad categories - game details, friends list, inventory, screenshots, and workshop items - to keep discreet.\r\n\n\r\nAs spotted by SteamDB creator Pavel Djundik, however (thanks PC Gamer), Valve is seemingly poised to add a 'mark as private' setting to individual titles, so they can specifically be hidden from the prying eyes of friends. That means you won't have to lock down huge chunks of your profile just to avoid difficult questions about the amount of time you've been playing Coquettish Elbow Reveal VR Edition. Or, in my case, 400 straight hours of Disney Dreamlight Valley.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/steam-may-soon-let-you-hide-specific-games-from-your-friends",
+          "publishedOn": "2023-11-08T23:18:42.000Z",
+          "wordCount": 6618,
+          "title": "Steam may soon let you hide specific games from your friends",
+          "imageUrl": "https://assetsio.reedpopcdn.com/steam_ROoZJs3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/warner-bros-says-it-plans-to-transform-its-biggest-franchises-into-live-service-games",
+          "author": "Matt Wales",
+          "description": "As part of its latest earnings call, Warner Bros. CEO David Zaslav has outlined the company's plans to transform its biggest gaming franchises from traditional console and PC releases into \"always on\" live service games.\r\n\n\r\nZaslav made the comments during his opening remarks to investors, in which referred to several of the company's franchises - Game of Thrones, Harry Potter, Batman, and Mortal Kombat - as $1bn gaming properties. Developer NetherRealm's Mortal Kombat 1, he noted, has sold nearly 3m copies since launching in mid-September this year.\r\n\n\r\n\"Our focus,\" he continued, \"is on transforming our biggest franchises from largely console and PC based with three-four year release schedules to include more always on gameplay through live services, multiplatform and free-to-play extensions, with the goal to have more players spending more time on more platforms.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/warner-bros-says-it-plans-to-transform-its-biggest-franchises-into-live-service-games",
+          "publishedOn": "2023-11-08T21:10:57.000Z",
+          "wordCount": 7173,
+          "title": "Warner Bros. says it's focusing on transforming its biggest franchises into live service games",
+          "imageUrl": "https://assetsio.reedpopcdn.com/suicide-squad-team-shot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-says-switch-releases-wont-be-bound-by-traditional-platform-lifecycle",
+          "author": "Matt Wales",
+          "description": "As reports of a Switch successor continue to build momentum, despite carefully phrased rebuffs from Nintendo, the Mario maker has said it'll continue to release titles for its current console \"without being bound by the traditional concept of the platform lifecycle.\"\r\n\n\r\nNintendo made the statement (thanks GameInformer) as part of its latest earnings report - in which it also confirmed Switch sales have now surpassed 132m units - writing, \"Switch will be entering its eighth year in March 2024. We will continue to release new titles and content for Nintendo Switch without being bound by the traditional concept of the platform lifecycle.\" \r\n\n\r\nThe inference (which isn't the same as confirmation, of course) is that should a Switch successor launch next year, as is widely reported, Nintendo won't be viewing it as end-of-life for its existing machine. That's perhaps not much of a surprise given it'll still have a substantial number of current Switch owners clamouring for new content with no plans to immediately upgrade, but it's something of a departure from its traditional release strategy.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-says-switch-releases-wont-be-bound-by-traditional-platform-lifecycle",
+          "publishedOn": "2023-11-08T19:41:55.000Z",
+          "wordCount": 6705,
+          "title": "Nintendo says Switch releases won't be bound by \"traditional\" platform lifecycle",
+          "imageUrl": "https://assetsio.reedpopcdn.com/nintendo-switch-oled-console.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/embracer-owned-time-splitters-studio-free-radical-reportedly-facing-closure",
           "author": "Matt Wales",
           "description": "Time Splitters studio Free Radical is reportedly the latest developer to be affected by Embracer Group's sweeping restructuring programme, with the studio said to be facing closure.\r\n\n\r\nFree Radical's history is a long one and complicated one; the studio was founded in 1999 by a number of ex-Rare developers and quickly made a name for itself with the much-loved TimeSplitters FPS series. In 2009, after several difficult years, it was acquired by Crytek, becoming Crytek UK, who then sold it to Deep Silver in 2014, where it became Dambuster Studios - which made this year's Dead Island 2. However, in May 2021, Deep Silver announced it was reviving the Free Radical name and creating a new studio specifically to make more TimeSplitters, with original Free Radical co-founders Steve Ellis and David Doak at the helm.\r\n\n\r\nUnfortunately, VGC now reports this new Free Radical is the latest studio to be impacted by parent company Embracer Group's major restructuring programme, which was announced following the collapse of a massive $2bn deal in May and has resulted in extensive layoffs and closures throughout 2023.\r\n \nRead more",
@@ -8193,56 +8333,6 @@
           "wordCount": 7343,
           "title": "Lego Animal Crossing sets to release in March",
           "imageUrl": "https://assetsio.reedpopcdn.com/lego-animal-crossing-promo-vid.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/meta-staying-quiet-on-status-of-grand-theft-auto-san-andreas-vr",
-          "author": "Victoria Kennedy",
-          "description": "It has been just shy of two years since Meta announced that Grand Theft Auto: San Andreas would be coming to Quest 2, but we still don't have a release date or even a release window for this upcoming VR port. \nAnd sadly for those eager to hear more, this is seemingly not something we should expect to hear any time in the near future. Instead, Meta is remaining remarkably tight-lipped about the project it once said was \"many years in the making\".\nAt this year's Connect conference, Meta was asked for more news on Grand Theft Auto: San Andreas' VR release by both UploadVR and Road to VR. However, the responses were less than informative. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/meta-staying-quiet-on-status-of-grand-theft-auto-san-andreas-vr",
-          "publishedOn": "2023-10-10T11:55:16.000Z",
-          "wordCount": 7599,
-          "title": "Meta staying quiet on status of Grand Theft Auto: San Andreas VR",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_89224e9f19e2caee31985f62c6e39e9e67b4f2a4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-says-its-on-the-right-path-following-sexual-harassment-allegations",
-          "author": "Liv Ngan",
-          "description": "Ubisoft has claimed it is \"on the right path\" to improving its workplace culture, three years after reports of numerous and serious allegations of sexual harrassment.\nIn summer 2020, allegations of sexual assault and harassment were made against a number of senior and veteran employees including Assassin's Creed Valhalla creative director Ashraf Ismail, Splinter Cell and Far Cry creative director Maxime Béland, and former editorial vice president Tommy François.\nSpeaking at GamesIndustry HR Summit last month, Ubisoft's chief people officer Annika Grant said the company is now \"on the right path\" following a number of changes implemented internally, as reported by GamesIndustry. Grant joined Ubisoft in 2021 when it was \"navigating a misconduct crisis\".\n Read more",
-          "link": "https://www.eurogamer.net/ubisoft-says-its-on-the-right-path-following-sexual-harassment-allegations",
-          "publishedOn": "2023-10-10T11:23:41.000Z",
-          "wordCount": 6926,
-          "title": "Ubisoft says it's \"on the right path\" following sexual harassment allegations",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Ubisoft_4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/zelda-boss-explains-why-breath-of-the-wilds-guardians-and-sheikah-tech-disappeared",
-          "author": "Victoria Kennedy",
-          "description": "Zelda: Tears of the Kingdom takes us back to the same Hyrule we were first introduced to in Breath of the Wild, albeit with a few tweaks - not least its airy sky islands and dark and sinister Depths. \r\n\n\r\nBut while those inclusions expanded the map, there were some omissions as well. Most obviously, just where did all of that Sheikah tech, that was so instrumental to Breath of the Wild's story, go? And what happened to those spidery robot Guardians?\r\n\n\r\nWell, according to Zelda director Hidemaro Fujibayashi, the various towers, Guardians, Divine Beasts and other Sheikah creations simply disappeared, with the general consensus in Hyrule being that as their purpose had been realised, the tech knew it was its time to go.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/zelda-boss-explains-why-breath-of-the-wilds-guardians-and-sheikah-tech-disappeared",
-          "publishedOn": "2023-10-10T10:37:57.000Z",
-          "wordCount": 7877,
-          "title": "Zelda boss explains why Breath of the Wild's Guardians and Sheikah tech disappeared",
-          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-in-tears-of-the-kingdom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/fortnite-recruits-alan-wake-michael-myers-and-jack-skellington-for-halloween",
-          "author": "Tom Phillips",
-          "description": "Fortnite's annual Halloween extravaganza is back for another year, and this time the battle royale has roped in a few more famous friends.\r\n\n\r\nRemedy's very own Alan Wake will be available to buy as a skin later in the event, presumably timed alongside the launch of the long-awaited Alan Wake 2 (that's due on 27th October). \r\n\n\r\nJack Skellington from Tim Burton's The Nightmare Before Christmas is also joining Fortnite - I like that he also has his Santa Jack costume as well - alongside Halloween's Michael Myers.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/fortnite-recruits-alan-wake-michael-myers-and-jack-skellington-for-halloween",
-          "publishedOn": "2023-10-10T10:32:51.000Z",
-          "wordCount": 7411,
-          "title": "Fortnite recruits Alan Wake, Michael Myers and Jack Skellington for Halloween",
-          "imageUrl": "https://assetsio.reedpopcdn.com/fortnite-alan-wake-outfit-1920x1080-ef1b0e1d52b3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-delays-free-to-play-shooter-xdefiant-again",
-          "author": "Liv Ngan",
-          "description": "Ubisoft has delayed its upcoming free-to-play shooter XDefiant yet again, citing \"inconsistencies in the game experience\".\nThe \"inconsistencies\" surfaced during the game's Public Test Session, designed to test the public servers, which happened on 28th September.\n\"We've made the hard decision to delay the Preseason of XDefiant,\" Ubisoft said in a statement, in order to address the issues found.\n Read more",
-          "link": "https://www.eurogamer.net/ubisoft-delays-free-to-play-shooter-xdefiant-again",
-          "publishedOn": "2023-10-10T10:15:15.000Z",
-          "wordCount": 7168,
-          "title": "Ubisoft delays free-to-play shooter XDefiant again",
-          "imageUrl": "https://assetsio.reedpopcdn.com/xdefiant-characters.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
