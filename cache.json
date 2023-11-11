@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2853/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/redshift.png\" title=\"So do you have any plans for z=-0.000000000000045?\" alt=\"So do you have any plans for z=-0.000000000000045?\" />",
+          "link": "https://xkcd.com/2853/",
+          "publishedOn": "2023-11-10T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Redshift",
+          "imageUrl": "https://imgs.xkcd.com/comics/redshift_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2852/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/parameterball.png\" title=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" alt=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" />",
@@ -144,6 +154,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/11/friday-squid-blogging-the-history-and-morality-of-us-squid-consumption.html",
+          "author": null,
+          "description": "<p>Really interesting <a href=\"https://www.nytimes.com/2023/10/22/opinion/calamari-squid-restaurants-china.html\">article</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/11/friday-squid-blogging-the-history-and-morality-of-us-squid-consumption.html",
+          "publishedOn": "2023-11-10T22:04:29.000Z",
+          "wordCount": 1123,
+          "title": "Friday Squid Blogging: The History and Morality of US Squid Consumption",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/11/the-privacy-disaster-of-modern-smart-cars.html",
           "author": null,
@@ -383,16 +403,6 @@
           "wordCount": 1122,
           "title": "Hacking the High School Grading System",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html",
-          "author": null,
-          "description": "<p><a href=\"https://words.filippo.io/dispatches/seeds-bounty/\">This</a> is a fun challenge:</p>\n<blockquote><p>The NIST elliptic curves that power much of modern cryptography were generated in the late &#8217;90s by hashing seeds provided by the NSA. How were the seeds generated? Rumor has it that they are in turn hashes of English sentences, but the person who picked them, Dr. Jerry Solinas, passed away in early 2023 leaving behind a cryptographic mystery, some conspiracy theories, and an historical password cracking challenge.</p></blockquote>\n<p>So there&#8217;s a $12K prize to recover the hash seeds.</p>\n<p>Some <a href=\"https://news.ycombinator.com/item?id=37784499\">backstory</a>:</p>\n<blockquote><p>Some of the backstory here (it&#8217;s the funniest fucking backstory ever): it&#8217;s lately been circulating&#8212;though I think this may have been somewhat common knowledge among practitioners, though definitely not to me&#8212;that the &#8220;random&#8221; seeds for the NIST P-curves, generated in the 1990s by Jerry Solinas at NSA, were simply SHA1 hashes of some variation of the string &#8220;Give Jerry a raise&#8221;...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html",
-          "publishedOn": "2023-10-12T11:09:38.000Z",
-          "wordCount": 1121,
-          "title": "Bounty to Recover NIST’s Elliptic Curve Seeds",
-          "imageUrl": null
         }
       ]
     },
@@ -401,6 +411,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1983182",
+          "author": "Beth Mole",
+          "description": "Vaccination exemptions among kindergartners rose from 2.6% to a record high of 3%.",
+          "link": "https://arstechnica.com/?p=1983182",
+          "publishedOn": "2023-11-10T22:57:02.000Z",
+          "wordCount": 1979,
+          "title": "Protective vaccination rates falling out of reach in US; exemptions hit record",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/GettyImages-1231265707-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1983039",
+          "author": "Scharon Harding",
+          "description": "\"Alexus\" voice assistant demoed 6 months before Alexa reveal, patent lawsuit said.",
+          "link": "https://arstechnica.com/?p=1983039",
+          "publishedOn": "2023-11-10T22:31:39.000Z",
+          "wordCount": 1934,
+          "title": "Alexa just cost Amazon another $46.7 million",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-605578782-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1983006",
+          "author": "Ryan Waniata",
+          "description": "Black Friday keeps coming, tech gear keeps dropping.",
+          "link": "https://arstechnica.com/?p=1983006",
+          "publishedOn": "2023-11-10T22:03:35.000Z",
+          "wordCount": 4406,
+          "title": "Dealmaster: Apple watches, TV mega-deals, headphone sales, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/Best-Apple-Watch-2023-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982491",
+          "author": "Ron Amadeo",
+          "description": "The Humane AI pin has no screen, no apps, and a creepy in-your-face camera.",
+          "link": "https://arstechnica.com/?p=1982491",
+          "publishedOn": "2023-11-10T21:56:32.000Z",
+          "wordCount": 2119,
+          "title": "The Humane AI Pin is a bizarre cross between Google Glass and a pager",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/10-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1983046",
+          "author": "Jon Brodkin",
+          "description": "Apple deterred US citizens from positions open to foreign workers, DOJ found.",
+          "link": "https://arstechnica.com/?p=1983046",
+          "publishedOn": "2023-11-10T19:43:20.000Z",
+          "wordCount": 1951,
+          "title": "Apple discriminated against US citizens in hiring, DOJ says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/apple-store-logo-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1982914",
+          "author": "Kevin Purdy",
+          "description": "TVs, Echo Show, and other gear could sport Amazon's in-house replacement soon.",
+          "link": "https://arstechnica.com/?p=1982914",
+          "publishedOn": "2023-11-10T18:13:29.000Z",
+          "wordCount": 1828,
+          "title": "Amazon Fire Tablets and other gear will reportedly switch away from Android",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1233022076-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1982976",
           "author": "Jon Brodkin",
@@ -4240,26 +4310,6 @@
           "wordCount": 1883,
           "title": "Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Under_the_stars_on_the_Ariane_6_launch_pad-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1975385",
-          "author": "Ars Contributors",
-          "description": "The new compact electric SUV will go on sale in China and South Korea first.",
-          "link": "https://arstechnica.com/?p=1975385",
-          "publishedOn": "2023-10-12T07:01:44.000Z",
-          "wordCount": 2160,
-          "title": "Kia EV5 revealed, but US future is uncertain for this electric crossover",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/3-EV5_EXT3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1975414",
-          "author": "Ars Contributors",
-          "description": "This small SUV and sedan-hatch-thing will be crucial to Kia's future global EV sales.",
-          "link": "https://arstechnica.com/?p=1975414",
-          "publishedOn": "2023-10-12T07:01:25.000Z",
-          "wordCount": 2157,
-          "title": "Kia EV3, EV4 concepts look like the future, will soon be a reality",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/7-Concept-EV3_EXT4-760x380.jpg"
         }
       ]
     },
@@ -4404,6 +4454,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/netflixs-next-animated-witcher-movie-will-star-doug-cockle-as-geralt",
+          "author": "Matt Wales",
+          "description": "Netflix has revealed Doug Cockle - the gravelly voice of Geralt of Rivia in CD Projekt's The Witcher series - will be reprising his role as the silver-haired monster-bopper in a new animated movie coming to the streaming service \"late\" next year.\r\n\n\r\nThe Witcher: Sirens of the Deep, as the film is officially titled, begins with Geralt investigating a series of attacks in a seaside village. However, as answers are slowly revealed, Geralt finds himself drawn into a centuries-old conflict between humans and merpeople.\r\n\n\r\n\"He must count on friends — old and new,\" Netflix teases in its announcement, \"to solve the mystery before the hostilities between the two kingdoms escalate into all-out war.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/netflixs-next-animated-witcher-movie-will-star-doug-cockle-as-geralt",
+          "publishedOn": "2023-11-10T22:31:43.000Z",
+          "wordCount": 6920,
+          "title": "Netflix's next animated Witcher movie will star Doug Cockle as Geralt",
+          "imageUrl": "https://assetsio.reedpopcdn.com/witcher-sirens-of-the-deep-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nightdives-turok-3-shadow-of-oblivion-remaster-has-been-delayed-a-few-weeks",
+          "author": "Matt Wales",
+          "description": "If you've been eagerly awaiting Nightdive Studios' Turok 3: Shadow of Oblivion remaster, you'll need to hang in there just a bit longer; the developer is delaying its release by a few weeks, with the dino FPS now coming to PC, PlayStation, Xbox, and Switch on 30th November.\r\n\n\r\nNightdive's remastering of the original Turok trilogy - which was developed by the now-defunct Iguana Entertainment - has been quite the undertaking; the studio released its Turok 1 remaster eight years ago, back in 2015, and its sequel got the spruce-up treatment two years later. \r\n\n\r\nNightdive's Turok 3 remaster - which will mark the first time the game has been available since its N64 debut in 2000 - promises to be similarly thorough, introducing enhanced environment art and character models, updated weapon models, plus \"advanced rendering features\" that'll include anti-aliasing, bloom, ambient occlusion, dynamic shadows, and motion blur.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nightdives-turok-3-shadow-of-oblivion-remaster-has-been-delayed-a-few-weeks",
+          "publishedOn": "2023-11-10T21:49:14.000Z",
+          "wordCount": 6866,
+          "title": "Nightdive's Turok 3: Shadow of Oblivion remaster has been delayed a few weeks",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_dcae39c9203558c4c6f05f36d845950cc131c9b1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/warner-bros-responds-to-mortal-kombat-1-10-fatality-outcry-with-two-free-fatalities",
+          "author": "Matt Wales",
+          "description": "Warner Bros. has attempted to placate angry Mortal Kombat 1 players with two 'free' Fatalities following an outcry caused by the decision to introduce a $10 USD Fatality animation to the game's already heavily criticised premium store.\r\n\n\r\nDespite being sold as a full-price title costing £59.99/$69.99 USD, the latest entry in developer NetherRealm's long-running fighting series features a rotational in-game shop selling store-exclusive cosmetics - including costumes and gear - only available to purchase with real-world money (in contrast, Mortal Kombat 11 also enabled players to buy cosmetics, but these could largely also be earned by completing activities in-game).\r\n\n\r\nWhile Mortal Kombat 1's premium store has already drawn plenty of ire from players, things came to a head last month when Warner Bros. and developer NetherRealm began selling a store-exclusive Halloween Fatality animation for $10. To put that in some kind of perspective, $20 would get you several DLC characters in Mortal Kombat 11.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/warner-bros-responds-to-mortal-kombat-1-10-fatality-outcry-with-two-free-fatalities",
+          "publishedOn": "2023-11-10T20:41:09.000Z",
+          "wordCount": 6944,
+          "title": "Warner Bros. responds to Mortal Kombat 1 $10 Fatality outcry with two 'free' Fatalities",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Screenshot-2023-10-28-at-18.46.53.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/call-of-duty-will-soon-be-disabling-cheaters-parachute-and-causing-deadly-10000ft-bunny-hops",
           "author": "Matt Wales",
@@ -8203,66 +8283,6 @@
           "wordCount": 7245,
           "title": "Steam tightening up developer security with SMS verification following malware hacking attack",
           "imageUrl": "https://assetsio.reedpopcdn.com/nano_6mfuLVW.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/mortal-kombat-1-on-switch-receives-new-update-promising-performance-improvements",
-          "author": "Ed Nightingale",
-          "description": "The Switch version of Mortal Kombat 1 has received a new update that's now live, promising numerous improvements.\r\n\n\r\nThe latest in the fighting series was released last month across PC, PlayStation 5, Xbox Series X/S, and Nintendo's console. However, the Switch version was plagued with numerous issues and vastly inferior visuals.\r\n\r\n\n\r\nThis new update includes visual improvements and bug fixes, performance improvements, and stability fixes, according to the patch notes.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/mortal-kombat-1-on-switch-receives-new-update-promising-performance-improvements",
-          "publishedOn": "2023-10-12T12:10:57.000Z",
-          "wordCount": 7402,
-          "title": "Mortal Kombat 1 on Switch receives new update promising performance improvements",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Mortal-Kombat-1---Official-Announcement-Trailer-1-33-screenshot-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/dead-island-2s-fetish-indulging-first-story-expansion-haus-arrives-november",
-          "author": "Victoria Kennedy",
-          "description": "Dead Island 2 invites players to indulge their fetishes with its first story expansion, Haus.\r\n\n\r\nThis expansion is set to arrive next month, on 2nd November, across PlayStation 4, PS5, Xbox One, Xbox Series X/S and PC (via the Epic Games Store). \nIt promises players a \"surreal, psycho-horror dreamscape\" as they use their investigative powers to check out a mysterious Malibu cult in a completely new story and setting.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dead-island-2s-fetish-indulging-first-story-expansion-haus-arrives-november",
-          "publishedOn": "2023-10-12T11:47:05.000Z",
-          "wordCount": 7466,
-          "title": "Dead Island 2's first story expansion Haus arrives November",
-          "imageUrl": "https://assetsio.reedpopcdn.com/dead-island-2-haus-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/forget-wholesome-powerwashing-gets-gruesome-in-crime-scene-cleaner",
-          "author": "Liv Ngan",
-          "description": "I always find it difficult to pick out which demos are worth my limited time whenever Steam Next Fest rolls around again. The process is made a lot easier when I find something which promises the zen-like quality of PowerWash Simulator.\nIt may not seem like it at first, but somehow Crime Scene Cleaner manages to deliver on that promise. Despite the lack of cats and the abundance of dead bodies and blood.\nYou take on the role of a single dad who's a school caretaker (or janitor, seeing as the game takes place in the US) by day, and a mob cleanup crew by night. The mob pays much better than the regular day job, and we need the money to pay for our sick daughter's healthcare. Ah, the good old American healthcare system. \n Read more",
-          "link": "https://www.eurogamer.net/forget-wholesome-powerwashing-gets-gruesome-in-crime-scene-cleaner",
-          "publishedOn": "2023-10-12T11:35:05.000Z",
-          "wordCount": 7361,
-          "title": "Powerwashing gets gruesome in Crime Scene Cleaner",
-          "imageUrl": "https://assetsio.reedpopcdn.com/crime-scene-cleaner.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-go-teases-four-player-parties",
-          "author": "Tom Phillips",
-          "description": "Pokémon Go looks set to introduce the ability to party up, and explore alongside friends in-game. \r\n\n\r\nA teaser image posted on social media shows the silhouettes of four in-game avatars standing next to a gym with a raid egg, suggesting that four-player teams will be able to travel together and head as one into the game's PVE battles.\r\n\n\r\nPokémon Go developer Niantic captioned the image with a teasing eye emoji, an emoji wearing a party hat, and the hashtag #GoStartTheParty.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-go-teases-four-player-parties",
-          "publishedOn": "2023-10-12T11:26:59.000Z",
-          "wordCount": 7520,
-          "title": "Pokémon Go teases four-player parties",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F8KRZqZWAAASs7P.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/assassins-creed-mirage-player-numbers-in-line-with-origins-odyssey",
-          "author": "Tom Phillips",
-          "description": "Ubisoft seems happy with Assassin's Creed Mirage, which it says has similar play numbers at launch as recent games such as Origins and Odyssey.\r\n\n\r\nThis is positive, as both Origins and Odyssey were far bigger and costlier projects, whereas Mirage is - by design - more focused.\r\n\n\r\n2020's Assassin's Creed Valhalla remains the biggest Assassin's Creed launch in the series to date.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/assassins-creed-mirage-player-numbers-in-line-with-origins-odyssey",
-          "publishedOn": "2023-10-12T10:06:47.000Z",
-          "wordCount": 7482,
-          "title": "Assassin's Creed Mirage player numbers \"in line\" with Origins, Odyssey",
-          "imageUrl": "https://assetsio.reedpopcdn.com/mirage-2.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/among-us-mushroom-filled-map-the-fungal-arrives-this-month",
-          "author": "Victoria Kennedy",
-          "description": "Among Us' murderous beans are about to see themselves faced with a whole new map, and it is full of secrets, deceit and mushrooms (the most evil of pizza toppings, in my opinion). That's right, Among Us is about to become among fungus.\r\n\n\r\nThe Fungle, as it is known, will be available across all platforms as part of a free update. It promises players the chance to immerse their Impostors and Crewmates in a \"weird mushroom jungle\". Are InnerSloth putting the fun in fungal? Well, we don't have long until we can find out, as this map launches in just a couple of weeks time, on 24th October. \r\n\n\r\nYou can see a little teaser for what mushroom-filled chaos is in store via the video below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/among-us-mushroom-filled-map-the-fungal-arrives-this-month",
-          "publishedOn": "2023-10-12T09:52:13.000Z",
-          "wordCount": 7473,
-          "title": "Among Us mushroom-filled map The Fungle arrives this month",
-          "imageUrl": "https://assetsio.reedpopcdn.com/among-us-fungus-map.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
