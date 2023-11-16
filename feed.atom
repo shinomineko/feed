@@ -2,10 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T18:24:21.952Z</updated>
+    <updated>2023-11-16T00:30:39.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes Removals, Deprecations, and Major Changes in Kubernetes 1.29]]></title>
+        <id>https://kubernetes.io/blog/2023/11/16/kubernetes-1-29-upcoming-changes/</id>
+        <link href="https://kubernetes.io/blog/2023/11/16/kubernetes-1-29-upcoming-changes/"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Carol Valencia, Kristin Martin, Abigail McCarthy, James Quigley, Hosam Kamel
+As with every release, Kubernetes v1.29 will introduce feature deprecations and removals. Our continued ability to produce high-quality releases is a testament to our robust development cycle and healthy community. The following are some of the deprecations and removals coming in the Kubernetes 1.29 release.
+The Kubernetes API removal and deprecation process
+The Kubernetes project has a well-documented deprecation policy for features. This policy states that stable APIs may only be deprecated when a newer, stable version of that same API is available and that APIs have a minimum lifetime for each stability level. A deprecated API is one that has been marked for removal in a future Kubernetes release; it w…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: The Case for Kubernetes Resource Limits: Predictability vs. Efficiency]]></title>
+        <id>https://kubernetes.io/blog/2023/11/16/the-case-for-kubernetes-resource-limits/</id>
+        <link href="https://kubernetes.io/blog/2023/11/16/the-case-for-kubernetes-resource-limits/"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Milan Plžík (Grafana Labs)
+There’s been quite a lot of posts suggesting that not using Kubernetes resource limits might be a fairly useful thing (for example, For the Love of God, Stop Using CPU Limits on Kubernetes or Kubernetes: Make your services faster by removing CPU limits ). The points made there are totally valid – it doesn’t make much sense to pay for compute power that will not be used due to limits, nor to artificially increase latency. This post strives to argue that limits have their legitimate use as well.
+As a Site Reliability Engineer on the Grafana Labs platform team, which maintains and improves internal infrastructure and tooling used by the product teams, I primarily try to make Kubernetes upgrades as smooth as possible. But I also spend a lot of time going down…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ULA chief on the Vulcan rocket: “The path to flight one is clear”]]></title>
+        <id>https://arstechnica.com/?p=1984231</id>
+        <link href="https://arstechnica.com/?p=1984231"/>
+        <updated>2023-11-15T23:17:15.000Z</updated>
+        <summary type="html"><![CDATA["We are expecting Blue to keep up with us."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dealmaster: Gaming monitors, big-screen TVs, home office gear, and more]]></title>
+        <id>https://arstechnica.com/?p=1984067</id>
+        <link href="https://arstechnica.com/?p=1984067"/>
+        <updated>2023-11-15T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Big screens, small screens, and everything in between ahead of Black Friday.]]></summary>
+        <author>
+            <name>Ryan Waniata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The reviews are done—SpaceX is clear to launch Starship]]></title>
+        <id>https://arstechnica.com/?p=1984313</id>
+        <link href="https://arstechnica.com/?p=1984313"/>
+        <updated>2023-11-15T22:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Everything appears to be “go” for launch Friday of the tallest rocket ever built.]]></summary>
+        <author>
+            <name>Stephen Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suicide Squad: Kill the Justice League resurfaces with 20-minute gameplay video]]></title>
+        <id>https://www.eurogamer.net/suicide-squad-kill-the-justice-league-resurfaces-with-20-minute-gameplay-video</id>
+        <link href="https://www.eurogamer.net/suicide-squad-kill-the-justice-league-resurfaces-with-20-minute-gameplay-video"/>
+        <updated>2023-11-15T22:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Warner Bros. and Rocksteady have given Suicide Squad: Kill the Justice League its first airing since its heavily criticised gameplay debut back in February, with accompanying material confirming, among other things, that it's unpopular live service elements are still in.
+
+
+Suicide Squad: Kill the Justice League was originally due to launch in 2022 but has been delayed twice since then, most recently following the game's controversial gameplay debut, with Warner Bros. announcing it was pushing its release back to 2nd February 2024 in order to make it "the best quality experience for players".
+
+
+Eight months on, Suicide Squad has reemerged with a new Insider video series, its initial offering featuring 20 minutes of new gameplay  highlighting traversal mechanics, story elements, and a brief glimpse at the game's rendition of Metropolis.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s China ties under Congressional scrutiny after Jon Stewart cancellation]]></title>
+        <id>https://arstechnica.com/?p=1984300</id>
+        <link href="https://arstechnica.com/?p=1984300"/>
+        <updated>2023-11-15T22:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Lawmakers demand that Apple commit to not censoring content critical of China.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s 36% search revenue share with Apple is 3x what Android OEMs get]]></title>
+        <id>https://arstechnica.com/?p=1984072</id>
+        <link href="https://arstechnica.com/?p=1984072"/>
+        <updated>2023-11-15T22:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Cooperative Android manufacturers only get 12 percent of search revenue.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holy chips! Microsoft’s new AI silicon will power its chatty assistants]]></title>
+        <id>https://arstechnica.com/?p=1984078</id>
+        <link href="https://arstechnica.com/?p=1984078"/>
+        <updated>2023-11-15T21:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Amid GPU shortages, Microsoft reaches for custom silicon to run its AI language models.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At trial, accused Pelosi attacker says Gamergate led him to far-right conspiracies]]></title>
+        <id>https://arstechnica.com/?p=1984258</id>
+        <link href="https://arstechnica.com/?p=1984258"/>
+        <updated>2023-11-15T21:39:41.000Z</updated>
+        <summary type="html"><![CDATA[DePape: Searches for game tips led to "talk about how toxic Anita Sarkeesian is..."]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universe’s key takeaway: Innovate better with AI-powered workflows on a single, unified platform]]></title>
+        <id>https://github.blog/?p=75445</id>
+        <link href="https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/"/>
+        <updated>2023-11-15T21:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Discover new AI-powered features and tools to help developers stay in the flow and organizations innovate at scale.
+The post Universe’s key takeaway: Innovate better with AI-powered workflows on a single, unified platform appeared first on The GitHub Blog.]]></summary>
+        <author>
+            <name>Inbal Shani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge tosses social platforms’ Section 230 blanket defense in child safety case]]></title>
+        <id>https://arstechnica.com/?p=1984148</id>
+        <link href="https://arstechnica.com/?p=1984148"/>
+        <updated>2023-11-15T21:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Judge: Section 230 doesn’t cover platform design defects allegedly harming kids.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wonder Woman job listing suggests it'll be a live service game]]></title>
+        <id>https://www.eurogamer.net/wonder-woman-job-listing-suggests-itll-be-a-live-service-game</id>
+        <link href="https://www.eurogamer.net/wonder-woman-job-listing-suggests-itll-be-a-live-service-game"/>
+        <updated>2023-11-15T20:50:37.000Z</updated>
+        <summary type="html"><![CDATA[A recently sighted job listing for Warner Bros. and developer Monolith Productions' upcoming Wonder Woman game has hinted it'll be a live service title.
+
+
+Monolith's Wonder Woman was announced during 2021's The Game Awards, where it was described a single-player open-world action game. As spotted by Wccftech, however, a recent advert seeking a 'Lead Software Engineer, Gameplay' for the title on Monolith's website has hinted that Warner Bros. may be looking to incorporate live service elements.
+
+
+The ad, which talks of helping to "deliver a superhero experience as epic as Wonder Woman herself", includes a list of daily duties associated with the job, alongside essential experience. The relevant part for this story, though, is listed under "nice to haves", wherein Monolith indicates "experience helping maintain a live software product or game" will be beneficial.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qi2 wireless charging spec is here, offering speed boosts and magnets]]></title>
+        <id>https://arstechnica.com/?p=1984102</id>
+        <link href="https://arstechnica.com/?p=1984102"/>
+        <updated>2023-11-15T20:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Many devices will get their first taste of MagSafe-like sticky alignment soon.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bing Chat is now “Microsoft Copilot” in potentially confusing rebranding move]]></title>
+        <id>https://arstechnica.com/?p=1984093</id>
+        <link href="https://arstechnica.com/?p=1984093"/>
+        <updated>2023-11-15T20:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft: "Soon there will be a Copilot for everyone and for everything you do."]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cable lobby and Ted Cruz are disappointed as FCC bans digital discrimination]]></title>
+        <id>https://arstechnica.com/?p=1984116</id>
+        <link href="https://arstechnica.com/?p=1984116"/>
+        <updated>2023-11-15T19:33:32.000Z</updated>
+        <summary type="html"><![CDATA[FCC will investigate ISP practices that discriminate by income level or race.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baldur's Gate 3's Xbox release date will be announced at The Game Awards]]></title>
+        <id>https://www.eurogamer.net/baldurs-gate-3s-xbox-series-xs-release-date-will-be-shared-at-the-game-awards</id>
+        <link href="https://www.eurogamer.net/baldurs-gate-3s-xbox-series-xs-release-date-will-be-shared-at-the-game-awards"/>
+        <updated>2023-11-15T19:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Xbox Series X/S owners eager for a Baldur's Gate 3 release date announcement will have a little longer to wait; developer Larian Studios has confirmed it'll be sharing the news during this year's Geoff-Keighley-hosted The Game Awards on 8th December.
+
+
+Baldur's Gate 3's journey to Xbox has, of course, been a bit of a bumpy one; Larian confirmed the acclaimed RPG would be coming Microsoft's platform back February, amid fan fears the game was a PlayStation console exclusive, but noted it had "run into some technical issues - particularly with split-screen co-op."
+
+
+The developer's struggles implementing split-screen co-op on Xbox Series S have continued as the year has gone on, meaning Baldur's Gate 3 hit PC and PlayStation 5 in August with still no word of an Xbox release date. Eventually, though, after hashing things out with Xbox boss Phil Spencer, Larian confirmed a "solution" had been found: it would be dropping split-screen co-op for Series S until a later date to ensure the RPG hit Xbox before the end of the year.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Space companies say ASAT tests threaten economic development]]></title>
+        <id>https://arstechnica.com/?p=1984011</id>
+        <link href="https://arstechnica.com/?p=1984011"/>
+        <updated>2023-11-15T18:55:00.000Z</updated>
+        <summary type="html"><![CDATA["I'm hoping that more companies will be able to join as time goes on."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New SSH Vulnerability]]></title>
         <id>https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html</id>
@@ -11209,127 +11419,6 @@ In a statement shared with Eurogamer, Epic confirmed the recent Bandcamp layoffs
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formula E launches first official video game on the blockchain]]></title>
-        <id>https://www.eurogamer.net/formula-e-launches-first-official-video-game-on-the-blockchain</id>
-        <link href="https://www.eurogamer.net/formula-e-launches-first-official-video-game-on-the-blockchain"/>
-        <updated>2023-10-17T12:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Formula E is launching its first ever official video game, leveraging blockchain technology and NFTs.
-
-Formula E: High Voltage is a racing management Web3 game from Animoca Brands and Amber, launching on 19th October.
-
-
-The ABB FIA Formula E World Championship prides itself on its adoption of electric vehicles specifically to counteract climate change, and is the first sport in the world certified as net zero carbon since its inception.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can selection tie evolution more closely to physics?]]></title>
-        <id>https://arstechnica.com/?p=1976439</id>
-        <link href="https://arstechnica.com/?p=1976439"/>
-        <updated>2023-10-17T11:30:35.000Z</updated>
-        <summary type="html"><![CDATA[New papers claim to link evolution to other physics, but neither really succeeds.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Vulnerability of Switzerland’s E-Voting System]]></title>
-        <id>https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html</id>
-        <link href="https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html"/>
-        <updated>2023-10-17T11:11:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>Online voting is insecure, period. This doesn&#8217;t stop organizations and governments from using it. (And for low-stakes elections, it&#8217;s probably fine.) Switzerland&#8212;not low stakes&#8212;uses online voting for national elections. Ed Appel <a href="https://freedom-to-tinker.com/2023/10/06/switzerlands-e-voting-system-has-predictable-implementation-blunder/">explains</a> why it&#8217;s a bad idea:</p>
-<blockquote><p>Last year, I published <a href="https://freedom-to-tinker.com/2022/06/27/how-to-assess-an-e-voting-system/">a 5-part series about Switzerland’s e-voting system</a>. Like any internet voting system, it has inherent security vulnerabilities: if there are malicious insiders, they can corrupt the vote count; and if thousands of voters’ computers are hacked by malware, the malware can change votes as they are transmitted. Switzerland &#8220;solves&#8221; the problem of malicious insiders in their printing office by officially declaring that they won’t consider that threat model in their cybersecurity assessment...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spider-Man 2 puts "puddlegate" to bed once and for all with new-gen visuals]]></title>
-        <id>https://www.eurogamer.net/spider-man-2-puts-puddlegate-to-bed-once-and-for-all-with-new-gen-visuals</id>
-        <link href="https://www.eurogamer.net/spider-man-2-puts-puddlegate-to-bed-once-and-for-all-with-new-gen-visuals"/>
-        <updated>2023-10-17T11:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Marvel's Spider-Man 2 is a mere few days away from release and the reviews and impressions have started rolling in across the web (no pun intended, but isn't it nice when it just happens). Many have praised the game's action, slick traversal and story, but one area that has been highlighted away from your typical professional assessment is the puddles. 
-
-Some players felt the first Spider-Man game was lacking in the puddle density department, noting the game's E3 2017 gameplay trailer had larger and better defined puddles than in the released version. This caused quite a stir on social media and was eventually dubbed "puddlegate".
-
-Insomniac took this all in its stride, and actually added a playful fix for Spider-Man's puddlegate in the form of puddle stickers. However, it's already clear its sequel won't need stickers to 'fix' its puddles, as they are looking pretty dense and wet from where I am sitting.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontier latest studio hit with layoffs following F1 Manager disappointment]]></title>
-        <id>https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment</id>
-        <link href="https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment"/>
-        <updated>2023-10-17T10:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Frontier, the developer behind the likes of F1 Manager, Planet Zoo, and other management games, has announced layoffs as part of an organisational review of the business.
-
-
-Investors were notified this morning in a trading update, in which the company said it plans to "refocus on its core strengths following a period of disappointing financial performance and more challenging industry conditions", reports GamesIndustry.biz.
-
-
-It's currently unknown how many employees will lose their jobs.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starfield lead quest designer joins other ex-Bethesda developers at Wyrdsong studio]]></title>
-        <id>https://www.eurogamer.net/starfield-lead-quest-designer-joins-other-ex-bethesda-developers-at-wyrdsong-studio</id>
-        <link href="https://www.eurogamer.net/starfield-lead-quest-designer-joins-other-ex-bethesda-developers-at-wyrdsong-studio"/>
-        <updated>2023-10-17T10:37:30.000Z</updated>
-        <summary type="html"><![CDATA[One of Bethesda's senior developers, Will Shen, who served as the lead quest designer on Starfield, has joined studio Something Wicked Games, which was co-founded by former Bethesda project lead Jeff Gardiner.
-Gardiner co-founded Something Wicked Games last year with Obsidian veteran Charles Staples, who was the design lead for The Outer Worlds.
-In the studio's press release, Shen's role at Something Wicked Games was revealed as a lead content designer for the studio's debut RPG, Wyrdsong, alongside former Respawn, Obsidian, and BioWare developers.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppet Soulslike Lies of P reaches 1m sales in under a month]]></title>
-        <id>https://www.eurogamer.net/puppet-soulslike-lies-of-p-reaches-1m-sales-in-under-a-month</id>
-        <link href="https://www.eurogamer.net/puppet-soulslike-lies-of-p-reaches-1m-sales-in-under-a-month"/>
-        <updated>2023-10-17T10:20:01.000Z</updated>
-        <summary type="html"><![CDATA[Lies of P, the Pinocchio-themed Souslike from Korean developer Neowiz, has reached 1m copies sold within a month of its release.
-
-
-Those sales are across PlayStation and Xbox consoles, plus PC. The game is additionally available on Xbox Game Pass.
-
-
-"The reception has been incredible so far, and we are beyond thankful that over one million players have already embarked on their journey through Krat," said Jiwon Choi, Lies of P's game director. "Likewise, we are excited for what the future holds for Lies of P, and can't wait to share more when the time is right."
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What looks like a cut Assassin's Creed Mirage post-credits scene points to a huge shift in the series' story]]></title>
-        <id>https://www.eurogamer.net/what-looks-like-a-cut-assassins-creed-mirage-post-credits-scene-points-to-a-huge-shift-in-the-series-story</id>
-        <link href="https://www.eurogamer.net/what-looks-like-a-cut-assassins-creed-mirage-post-credits-scene-points-to-a-huge-shift-in-the-series-story"/>
-        <updated>2023-10-17T09:30:25.000Z</updated>
-        <summary type="html"><![CDATA[A video purporting to show an unused post-credits scene found within the files of Assassin's Creed Mirage may point to a seismic upcoming shift in series' story.
-
-
-Filenames for the scene reference "Assassin's Creed Neo", an internal Ubisoft codename believed to refer to one of several upcoming projects currently in development. Thus, the big twist revealed here is expected to be something we see more of in future games. 
-
-
-For those who'd rather be left unspoiled, this is your last chance to turn away now.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
         </author>
     </entry>
 </feed>

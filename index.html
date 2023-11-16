@@ -83,8 +83,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-16 datetime="2023-11-15T17:51:52.000Z">2023-11-16</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-16 datetime="2023-11-15T17:51:52.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-16 datetime="2023-11-16T00:00:00.000Z">2023-11-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-16 datetime="2023-11-16T00:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -95,26 +95,47 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Schneier on Security</button>
-                  <a class="source-heading__link" href="https://www.schneier.com">Open</a>
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html"
+                        data-accordion-key="https://kubernetes.io/blog/2023/11/16/kubernetes-1-29-upcoming-changes/"
                         open
                       >
-                        <summary class="article-expander__title">New SSH Vulnerability</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html">
+                        <summary class="article-expander__title">Blog: Kubernetes Removals, Deprecations, and Major Changes in Kubernetes 1.29</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/11/16/kubernetes-1-29-upcoming-changes/">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>This is interesting:
-For the first time, researchers have demonstrated that a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise when naturally occurring computational errors occur while the connection is being established.
-[…]
-The vulnerability occurs when there are errors during the signature generation that takes place when a client and server are establishing a connection. It affects only keys using the RSA cryptographic algorithm, which the researchers found in roughly a third of the SSH signatures they examined. That translates to roughly 1 billion signatures out of the 3.2 billion signatures examined. Of the roughly 1 billion RSA signatures, about one in a million exposed the private key of the host...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
+                              <span>Authors: Carol Valencia, Kristin Martin, Abigail McCarthy, James Quigley, Hosam Kamel
+As with every release, Kubernetes v1.29 will introduce feature deprecations and removals. Our continued ability to produce high-quality releases is a testament to our robust development cycle and healthy community. The following are some of the deprecations and removals coming in the Kubernetes 1.29 release.
+The Kubernetes API removal and deprecation process
+The Kubernetes project has a well-documented deprecation policy for features. This policy states that stable APIs may only be deprecated when a newer, stable version of that same API is available and that APIs have a minimum lifetime for each stability level. A deprecated API is one that has been marked for removal in a future Kubernetes release; it w…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/11/16/the-case-for-kubernetes-resource-limits/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: The Case for Kubernetes Resource Limits: Predictability vs. Efficiency</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/11/16/the-case-for-kubernetes-resource-limits/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Milan Plžík (Grafana Labs)
+There’s been quite a lot of posts suggesting that not using Kubernetes resource limits might be a fairly useful thing (for example, For the Love of God, Stop Using CPU Limits on Kubernetes or Kubernetes: Make your services faster by removing CPU limits ). The points made there are totally valid – it doesn’t make much sense to pay for compute power that will not be used due to limits, nor to artificially increase latency. This post strives to argue that limits have their legitimate use as well.
+As a Site Reliability Engineer on the Grafana Labs platform team, which maintains and improves internal infrastructure and tooling used by the product teams, I primarily try to make Kubernetes upgrades as smooth as possible. But I also spend a lot of time going down…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -135,6 +156,246 @@ The vulnerability occurs when there are errors during the signature generation t
                   <a class="source-heading__link" href="https://arstechnica.com">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984231"
+                        open
+                      >
+                        <summary class="article-expander__title">ULA chief on the Vulcan rocket: “The path to flight one is clear”</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984231">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/52738702608_d861b8c792_k-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&quot;We are expecting Blue to keep up with us.&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984067"
+                        open
+                      >
+                        <summary class="article-expander__title">Dealmaster: Gaming monitors, big-screen TVs, home office gear, and more</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984067">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/porttrait-2-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Big screens, small screens, and everything in between ahead of Black Friday.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984313"
+                        open
+                      >
+                        <summary class="article-expander__title">The reviews are done—SpaceX is clear to launch Starship</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984313">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/F87N-JVa4AAtHi8-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Everything appears to be “go” for launch Friday of the tallest rocket ever built.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984300"
+                        open
+                      >
+                        <summary class="article-expander__title">Apple’s China ties under Congressional scrutiny after Jon Stewart cancellation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984300">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1157676212-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Lawmakers demand that Apple commit to not censoring content critical of China.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984072"
+                        open
+                      >
+                        <summary class="article-expander__title">Google’s 36% search revenue share with Apple is 3x what Android OEMs get</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984072">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Cooperative Android manufacturers only get 12 percent of search revenue.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984078"
+                        open
+                      >
+                        <summary class="article-expander__title">Holy chips! Microsoft’s new AI silicon will power its chatty assistants</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984078">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/azure_maia_100_chip_1-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amid GPU shortages, Microsoft reaches for custom silicon to run its AI language models.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984258"
+                        open
+                      >
+                        <summary class="article-expander__title">At trial, accused Pelosi attacker says Gamergate led him to far-right conspiracies</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984258">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/depape-gamergate-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>DePape: Searches for game tips led to &quot;talk about how toxic Anita Sarkeesian is...&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984148"
+                        open
+                      >
+                        <summary class="article-expander__title">Judge tosses social platforms’ Section 230 blanket defense in child safety case</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984148">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-619269222-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Judge: Section 230 doesn’t cover platform design defects allegedly harming kids.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984102"
+                        open
+                      >
+                        <summary class="article-expander__title">Qi2 wireless charging spec is here, offering speed boosts and magnets</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984102">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/maggo2-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Many devices will get their first taste of MagSafe-like sticky alignment soon.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984093"
+                        open
+                      >
+                        <summary class="article-expander__title">Bing Chat is now “Microsoft Copilot” in potentially confusing rebranding move</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984093">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Microsoft: &quot;Soon there will be a Copilot for everyone and for everything you do.&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984116"
+                        open
+                      >
+                        <summary class="article-expander__title">Cable lobby and Ted Cruz are disappointed as FCC bans digital discrimination</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984116">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>FCC will investigate ISP practices that discriminate by income level or race.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984011"
+                        open
+                      >
+                        <summary class="article-expander__title">Space companies say ASAT tests threaten economic development</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984011">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1198473504-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&quot;I&#x27;m hoping that more companies will be able to join as time goes on.&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -169,6 +430,175 @@ The vulnerability occurs when there are errors during the signature generation t
                             <span class="media-object__text">
                               <span>&quot;We had an account issue that led us to falsely flag your account as fraud.&quot;</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Eurogamer.net News Feed</button>
+                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/suicide-squad-kill-the-justice-league-resurfaces-with-20-minute-gameplay-video"
+                        open
+                      >
+                        <summary class="article-expander__title">Suicide Squad: Kill the Justice League resurfaces with 20-minute gameplay video</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/suicide-squad-kill-the-justice-league-resurfaces-with-20-minute-gameplay-video">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/suicide-squad-trailer-crop.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Warner Bros. and Rocksteady have given Suicide Squad: Kill the Justice League its first airing since its heavily criticised gameplay debut back in February, with accompanying material confirming, among other things, that it&#x27;s unpopular live service elements are still in.
+
+
+Suicide Squad: Kill the Justice League was originally due to launch in 2022 but has been delayed twice since then, most recently following the game&#x27;s controversial gameplay debut, with Warner Bros. announcing it was pushing its release back to 2nd February 2024 in order to make it &quot;the best quality experience for players&quot;.
+
+
+Eight months on, Suicide Squad has reemerged with a new Insider video series, its initial offering featuring 20 minutes of new gameplay  highlighting traversal mechanics, story elements, and a brief glimpse at the game&#x27;s rendition of Metropolis.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/wonder-woman-job-listing-suggests-itll-be-a-live-service-game"
+                        open
+                      >
+                        <summary class="article-expander__title">Wonder Woman job listing suggests it&#x27;ll be a live service game</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/wonder-woman-job-listing-suggests-itll-be-a-live-service-game">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/wonder-woman-trailer-crop.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A recently sighted job listing for Warner Bros. and developer Monolith Productions&#x27; upcoming Wonder Woman game has hinted it&#x27;ll be a live service title.
+
+
+Monolith&#x27;s Wonder Woman was announced during 2021&#x27;s The Game Awards, where it was described a single-player open-world action game. As spotted by Wccftech, however, a recent advert seeking a &#x27;Lead Software Engineer, Gameplay&#x27; for the title on Monolith&#x27;s website has hinted that Warner Bros. may be looking to incorporate live service elements.
+
+
+The ad, which talks of helping to &quot;deliver a superhero experience as epic as Wonder Woman herself&quot;, includes a list of daily duties associated with the job, alongside essential experience. The relevant part for this story, though, is listed under &quot;nice to haves&quot;, wherein Monolith indicates &quot;experience helping maintain a live software product or game&quot; will be beneficial.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/baldurs-gate-3s-xbox-series-xs-release-date-will-be-shared-at-the-game-awards"
+                        open
+                      >
+                        <summary class="article-expander__title">Baldur&#x27;s Gate 3&#x27;s Xbox release date will be announced at The Game Awards</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/baldurs-gate-3s-xbox-series-xs-release-date-will-be-shared-at-the-game-awards">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/baldursgate3_laezel_.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Xbox Series X/S owners eager for a Baldur&#x27;s Gate 3 release date announcement will have a little longer to wait; developer Larian Studios has confirmed it&#x27;ll be sharing the news during this year&#x27;s Geoff-Keighley-hosted The Game Awards on 8th December.
+
+
+Baldur&#x27;s Gate 3&#x27;s journey to Xbox has, of course, been a bit of a bumpy one; Larian confirmed the acclaimed RPG would be coming Microsoft&#x27;s platform back February, amid fan fears the game was a PlayStation console exclusive, but noted it had &quot;run into some technical issues - particularly with split-screen co-op.&quot;
+
+
+The developer&#x27;s struggles implementing split-screen co-op on Xbox Series S have continued as the year has gone on, meaning Baldur&#x27;s Gate 3 hit PC and PlayStation 5 in August with still no word of an Xbox release date. Eventually, though, after hashing things out with Xbox boss Phil Spencer, Larian confirmed a &quot;solution&quot; had been found: it would be dropping split-screen co-op for Series S until a later date to ensure the RPG hit Xbox before the end of the year.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The GitHub Blog</button>
+                  <a class="source-heading__link" href="https://github.blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.blog/?p&#x3D;75445"
+                        open
+                      >
+                        <summary class="article-expander__title">Universe’s key takeaway: Innovate better with AI-powered workflows on a single, unified platform</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://github.blog/wp-content/uploads/2023/11/be97d9fa-b539-48b6-a2fb-eba1b56928b7-1200x630-1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Discover new AI-powered features and tools to help developers stay in the flow and organizations innovate at scale.
+The post Universe’s key takeaway: Innovate better with AI-powered workflows on a single, unified platform appeared first on The GitHub Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Schneier on Security</button>
+                  <a class="source-heading__link" href="https://www.schneier.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html"
+                        open
+                      >
+                        <summary class="article-expander__title">New SSH Vulnerability</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>This is interesting:
+For the first time, researchers have demonstrated that a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise when naturally occurring computational errors occur while the connection is being established.
+[…]
+The vulnerability occurs when there are errors during the signature generation that takes place when a client and server are establishing a connection. It affects only keys using the RSA cryptographic algorithm, which the researchers found in roughly a third of the SSH signatures they examined. That translates to roughly 1 billion signatures out of the 3.2 billion signatures examined. Of the roughly 1 billion RSA signatures, about one in a million exposed the private key of the host...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -21594,26 +22024,6 @@ The post The Missed Opportunity: AWS, re:Invent, and the Community That Cared ap
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1976439"
-                        open
-                      >
-                        <summary class="article-expander__title">Can selection tie evolution more closely to physics?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1976439">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1349020801-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>New papers claim to link evolution to other physics, but neither really succeeds.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -21785,166 +22195,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/formula-e-launches-first-official-video-game-on-the-blockchain"
-                        open
-                      >
-                        <summary class="article-expander__title">Formula E launches first official video game on the blockchain</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/formula-e-launches-first-official-video-game-on-the-blockchain">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/FormulaE_-High-Voltage-Full-Trailer!-0-1-screenshot.png?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Formula E is launching its first ever official video game, leveraging blockchain technology and NFTs.
-
-Formula E: High Voltage is a racing management Web3 game from Animoca Brands and Amber, launching on 19th October.
-
-
-The ABB FIA Formula E World Championship prides itself on its adoption of electric vehicles specifically to counteract climate change, and is the first sport in the world certified as net zero carbon since its inception.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/spider-man-2-puts-puddlegate-to-bed-once-and-for-all-with-new-gen-visuals"
-                        open
-                      >
-                        <summary class="article-expander__title">Spider-Man 2 puts &quot;puddlegate&quot; to bed once and for all with new-gen visuals</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/spider-man-2-puts-puddlegate-to-bed-once-and-for-all-with-new-gen-visuals">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/venom-marvels-spiderman-2.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Marvel&#x27;s Spider-Man 2 is a mere few days away from release and the reviews and impressions have started rolling in across the web (no pun intended, but isn&#x27;t it nice when it just happens). Many have praised the game&#x27;s action, slick traversal and story, but one area that has been highlighted away from your typical professional assessment is the puddles. 
-
-Some players felt the first Spider-Man game was lacking in the puddle density department, noting the game&#x27;s E3 2017 gameplay trailer had larger and better defined puddles than in the released version. This caused quite a stir on social media and was eventually dubbed &quot;puddlegate&quot;.
-
-Insomniac took this all in its stride, and actually added a playful fix for Spider-Man&#x27;s puddlegate in the form of puddle stickers. However, it&#x27;s already clear its sequel won&#x27;t need stickers to &#x27;fix&#x27; its puddles, as they are looking pretty dense and wet from where I am sitting.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment"
-                        open
-                      >
-                        <summary class="article-expander__title">Frontier latest studio hit with layoffs following F1 Manager disappointment</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/frontier-latest-studio-hit-with-layoffs-following-f1-manager-disappointment">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/F1-Manager-2023-Tipps-Thumb.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Frontier, the developer behind the likes of F1 Manager, Planet Zoo, and other management games, has announced layoffs as part of an organisational review of the business.
-
-
-Investors were notified this morning in a trading update, in which the company said it plans to &quot;refocus on its core strengths following a period of disappointing financial performance and more challenging industry conditions&quot;, reports GamesIndustry.biz.
-
-
-It&#x27;s currently unknown how many employees will lose their jobs.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/starfield-lead-quest-designer-joins-other-ex-bethesda-developers-at-wyrdsong-studio"
-                        open
-                      >
-                        <summary class="article-expander__title">Starfield lead quest designer joins other ex-Bethesda developers at Wyrdsong studio</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/starfield-lead-quest-designer-joins-other-ex-bethesda-developers-at-wyrdsong-studio">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/wyrdsong-ShatteredGlass-1536x768.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>One of Bethesda&#x27;s senior developers, Will Shen, who served as the lead quest designer on Starfield, has joined studio Something Wicked Games, which was co-founded by former Bethesda project lead Jeff Gardiner.
-Gardiner co-founded Something Wicked Games last year with Obsidian veteran Charles Staples, who was the design lead for The Outer Worlds.
-In the studio&#x27;s press release, Shen&#x27;s role at Something Wicked Games was revealed as a lead content designer for the studio&#x27;s debut RPG, Wyrdsong, alongside former Respawn, Obsidian, and BioWare developers.
- Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/puppet-soulslike-lies-of-p-reaches-1m-sales-in-under-a-month"
-                        open
-                      >
-                        <summary class="article-expander__title">Puppet Soulslike Lies of P reaches 1m sales in under a month</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/puppet-soulslike-lies-of-p-reaches-1m-sales-in-under-a-month">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/20230608154205_1.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Lies of P, the Pinocchio-themed Souslike from Korean developer Neowiz, has reached 1m copies sold within a month of its release.
-
-
-Those sales are across PlayStation and Xbox consoles, plus PC. The game is additionally available on Xbox Game Pass.
-
-
-&quot;The reception has been incredible so far, and we are beyond thankful that over one million players have already embarked on their journey through Krat,&quot; said Jiwon Choi, Lies of P&#x27;s game director. &quot;Likewise, we are excited for what the future holds for Lies of P, and can&#x27;t wait to share more when the time is right.&quot;
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/what-looks-like-a-cut-assassins-creed-mirage-post-credits-scene-points-to-a-huge-shift-in-the-series-story"
-                        open
-                      >
-                        <summary class="article-expander__title">What looks like a cut Assassin&#x27;s Creed Mirage post-credits scene points to a huge shift in the series&#x27; story</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/what-looks-like-a-cut-assassins-creed-mirage-post-credits-scene-points-to-a-huge-shift-in-the-series-story">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Opening-Intro-Cinematic-Cutscene-Assassin&#x27;s-Creed-Mirage-0-2-screenshot.png?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A video purporting to show an unused post-credits scene found within the files of Assassin&#x27;s Creed Mirage may point to a seismic upcoming shift in series&#x27; story.
-
-
-Filenames for the scene reference &quot;Assassin&#x27;s Creed Neo&quot;, an internal Ubisoft codename believed to refer to one of several upcoming projects currently in development. Thus, the big twist revealed here is expected to be something we see more of in future games. 
-
-
-For those who&#x27;d rather be left unspoiled, this is your last chance to turn away now.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;26
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -21983,46 +22233,12 @@ The post Getting RCE in Chrome with incomplete object initialization in the Magl
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Schneier on Security</button>
-                  <a class="source-heading__link" href="https://www.schneier.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html"
-                        open
-                      >
-                        <summary class="article-expander__title">Security Vulnerability of Switzerland’s E-Voting System</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Online voting is insecure, period. This doesn’t stop organizations and governments from using it. (And for low-stakes elections, it’s probably fine.) Switzerland—not low stakes—uses online voting for national elections. Ed Appel explains why it’s a bad idea:
-Last year, I published a 5-part series about Switzerland’s e-voting system. Like any internet voting system, it has inherent security vulnerabilities: if there are malicious insiders, they can corrupt the vote count; and if thousands of voters’ computers are hacked by malware, the malware can change votes as they are transmitted. Switzerland “solves” the problem of malicious insiders in their printing office by officially declaring that they won’t consider that threat model in their cybersecurity assessment...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/6881373559">
-        <time id="build-timestamp" datetime="2023-11-15T18:24:21.900Z">2023-11-15T18:24:21.900Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/6884626091">
+        <time id="build-timestamp" datetime="2023-11-16T00:30:39.797Z">2023-11-16T00:30:39.797Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
