@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/11/ftcs-voice-cloning-challenge.html",
+          "author": null,
+          "description": "<p>The Federal Trade Commission is running a <a href=\"https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge\">competition</a> &#8220;to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning.&#8221;</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/11/ftcs-voice-cloning-challenge.html",
+          "publishedOn": "2023-11-16T18:46:45.000Z",
+          "wordCount": 984,
+          "title": "FTC’s Voice Cloning Challenge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/11/leaving-authentication-credentials-in-public-code.html",
           "author": null,
           "description": "<p>Seth Godin wrote an <a href=\"https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/\">article</a> about a surprisingly common vulnerability: programmers leaving authentication credentials and other secrets in publicly accessible software code:</p>\n<blockquote><p>Researchers from security firm GitGuardian this week <a href=\"https://blog.gitguardian.com/uncovering-thousands-of-unique-secrets-in-pypi-packages/\">reported</a> finding almost 4,000 unique secrets stashed inside a total of 450,000 projects submitted to PyPI, the official code repository for the Python programming language. Nearly 3,000 projects contained at least one unique secret. Many secrets were leaked more than once, bringing the total number of exposed secrets to almost 57,000...</p></blockquote>",
@@ -393,16 +403,6 @@
           "wordCount": 1229,
           "title": "Former Uber CISO Appealing His Conviction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/10/analysis-of-intellexas-predator-spyware.html",
-          "author": null,
-          "description": "<p>Amnesty International has <a href=\"https://securitylab.amnesty.org/latest/2023/10/global-predator-files-investigation-reveals-catastrophic-failure-to-regulate-surveillance-trade/\">published</a> a comprehensive analysis of the Predator government spyware products.</p>\n<p>These technologies used to be the exclusive purview of organizations like the NSA. Now they&#8217;re available to every country on the planet&#8212;democratic, nondemocratic, authoritarian, whatever&#8212;for a price. This is the legacy of not securing the Internet when we could have.</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/10/analysis-of-intellexas-predator-spyware.html",
-          "publishedOn": "2023-10-18T11:06:19.000Z",
-          "wordCount": 856,
-          "title": "Analysis of Intellexa’s Predator Spyware",
-          "imageUrl": null
         }
       ]
     },
@@ -411,6 +411,146 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1984640",
+          "author": "Beth Mole",
+          "description": "For the largest health insurer in the US, AI's error rate is like a feature, not a bug.",
+          "link": "https://arstechnica.com/?p=1984640",
+          "publishedOn": "2023-11-16T23:37:38.000Z",
+          "wordCount": 2018,
+          "title": "AI with 90% error rate forces elderly out of rehab, nursing homes, suit claims",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1543156724-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984459",
+          "author": "Benj Edwards",
+          "description": "Designer: \"I think I need to go lie down.\"",
+          "link": "https://arstechnica.com/?p=1984459",
+          "publishedOn": "2023-11-16T22:48:22.000Z",
+          "wordCount": 2053,
+          "title": "“Make It Real” AI prototype wows devs by turning drawings into working software",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/tldraw_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984487",
+          "author": "Stephen Clark",
+          "description": "SpaceX is now targeting Saturday for the second full-scale Starship test flight.",
+          "link": "https://arstechnica.com/?p=1984487",
+          "publishedOn": "2023-11-16T22:23:10.000Z",
+          "wordCount": 1903,
+          "title": "SpaceX delays launch of its giant Starship rocket to swap out a part",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3360-copy-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984522",
+          "author": "Kevin Purdy",
+          "description": "The fix involves filtering out digital audio errors that were notably \"audible.\"",
+          "link": "https://arstechnica.com/?p=1984522",
+          "publishedOn": "2023-11-16T22:00:53.000Z",
+          "wordCount": 1856,
+          "title": "Sonos has finally fixed the Dolby Atmos “pop of death” in its Arc soundbars",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sonos_arc_snapshot-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984473",
+          "author": "Benj Edwards",
+          "description": "\"We observe the sophisticated Homo sapiens engaging in the ritual of hydration.\"",
+          "link": "https://arstechnica.com/?p=1984473",
+          "publishedOn": "2023-11-16T21:45:08.000Z",
+          "wordCount": 1894,
+          "title": "Unauthorized “David Attenborough” AI clone narrates developer’s life, goes viral",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/attenborough_hero-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984512",
+          "author": "Ashley Belanger",
+          "description": "Top law enforcement agency taps IT experts to calculate stolen energy costs.",
+          "link": "https://arstechnica.com/?p=1984512",
+          "publishedOn": "2023-11-16T21:27:10.000Z",
+          "wordCount": 1824,
+          "title": "Massive cryptomining rig discovered under Polish court’s floor, stealing power",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1401388054-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984448",
+          "author": "Ron Amadeo",
+          "description": "Texts to your green bubble friends will come with status indicators, better media.",
+          "link": "https://arstechnica.com/?p=1984448",
+          "publishedOn": "2023-11-16T21:06:29.000Z",
+          "wordCount": 1952,
+          "title": "Apple announces RCS support for iMessage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/imessage-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984453",
+          "author": "Kevin Purdy",
+          "description": "Some changes will arrive for non-EU users, too, but not the easy removals.",
+          "link": "https://arstechnica.com/?p=1984453",
+          "publishedOn": "2023-11-16T20:39:28.000Z",
+          "wordCount": 1815,
+          "title": "No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/win11-exhausting-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984382",
+          "author": "Jennifer Ouellette",
+          "description": "\"The activity is formidable, exciting, and scary.\"",
+          "link": "https://arstechnica.com/?p=1984382",
+          "publishedOn": "2023-11-16T20:23:21.000Z",
+          "wordCount": 2084,
+          "title": "Listen to the seismic sounds as Iceland braces for likely volcanic eruption",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/earthtunes-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984450",
+          "author": "John Timmer",
+          "description": "While it's not ready for production, it's a step in the right direction.",
+          "link": "https://arstechnica.com/?p=1984450",
+          "publishedOn": "2023-11-16T20:00:52.000Z",
+          "wordCount": 2034,
+          "title": "Capacitor-based heat pumps see big boost in efficiency",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1567733032-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984432",
+          "author": "Jon Brodkin",
+          "description": "FTC: Global Tel*Link waited 9 months to notify users and only told some of them.",
+          "link": "https://arstechnica.com/?p=1984432",
+          "publishedOn": "2023-11-16T19:26:05.000Z",
+          "wordCount": 1817,
+          "title": "Prison phone company leaked 600K users’ data and didn’t notify them, FTC says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/getty-prison-phone-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984392",
+          "author": "Ron Amadeo",
+          "description": "Google offers static PDF downloads for some content, refunds for others.",
+          "link": "https://arstechnica.com/?p=1984392",
+          "publishedOn": "2023-11-16T19:11:56.000Z",
+          "wordCount": 1823,
+          "title": "Google News is shutting down purchased magazine content, offering refunds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/Google-News-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1984413",
+          "author": "Ashley Belanger",
+          "description": "Labeling newcomer TikTok as a gatekeeper defeats the purpose of DMA, TikTok says.",
+          "link": "https://arstechnica.com/?p=1984413",
+          "publishedOn": "2023-11-16T18:25:11.000Z",
+          "wordCount": 2221,
+          "title": "Meta, TikTok fight EU gatekeeper status to avoid opening up services to rivals",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1238243411-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1983492",
+          "author": "Andrew Cunningham",
+          "description": "But Windows 10's October 2025 end-of-support date is staying put, for now.",
+          "link": "https://arstechnica.com/?p=1983492",
+          "publishedOn": "2023-11-16T18:00:57.000Z",
+          "wordCount": 2024,
+          "title": "Windows 10 is back, and it’s getting Microsoft’s AI-powered Copilot assistant",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/win10-wallpaper-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1984393",
           "author": "Kevin Purdy",
@@ -4525,6 +4665,26 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/redfall-gets-a-new-gun-and-performance-improvements-in-third-major-patch",
+          "author": "Matt Wales",
+          "description": "Six month after its initial release, developer Arkane's beleaguered vampire shooter Redfall has received a third major patch, this one primarily focusing on performance improvements and fixes, although it does add a tiny bit of new content in the form of a gun.\r\n\n\r\nSpecifically, Redfall players now have access to the Basilisk, an Unrivaled Sniper Rifle that can charge the first bullet in a full magazine with UV power to petrify Vampires. It can be found in locations where Unrivaled items spawn, but is most likely to drop from Bellwether-themed containers in the open-world or vampire nests.\r\n\n\r\nBeyond the Basilisk, Redfall's latest update brings bug fixes, balance improvements, and more - as detailed in its patch notes - touching on all aspects of the game, including AI and NPCs, gameplay and missions, heroes, UI, audio, and accessibility. Performance and stability is also a focus, with Arkane promising \"various performance fixes related to FPS drops and stuttering.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/redfall-gets-a-new-gun-and-performance-improvements-in-third-major-patch",
+          "publishedOn": "2023-11-16T22:03:52.000Z",
+          "wordCount": 6961,
+          "title": "Redfall gets a new gun and performance improvements in third major patch",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Redfall-isnt-abandoning-the-spirit-of-Arkanes-unique-approach-to.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/baldurs-gate-3-is-getting-a-fancy-physical-deluxe-edition-early-next-year",
+          "author": "Matt Wales",
+          "description": "If you love Baldur's Gate 3 so much you just want to hug it and kiss it and tuck it under your pillow at night (understandable), you're going to want to start priming your puckering lips for action; developer Larian has announced it'll be releasing a fancy physical edition of its acclaimed RPG for Xbox, PlayStation, and PC early next year.\r\n\n\r\nBaldur's Gate 3 will be entering the corporeal realm in the guise of a special Deluxe Edition containing a whole bunch of physical goodies. There's the game itself, which comes on three discs for Xbox Series X/S, two discs for PS5, and a single DVD on PC - although that just contains a custom downloader app with an accompanying Steam key.\r\n\n\r\nMoving onto the fancier physical stuff, Baldur's Gate 3's Deluxe Edition include three CDs containing the game's original soundtrack, a double-sided map, two patches sporting Flaming Fist and Mark of the Absolute designs, a minder flayer poster, plus 32 stickers featuring the game's origin characters, some iconic D&D monsters and more.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3-is-getting-a-fancy-physical-deluxe-edition-early-next-year",
+          "publishedOn": "2023-11-16T20:01:47.000Z",
+          "wordCount": 7080,
+          "title": "Baldur's Gate 3 is getting a fancy physical Deluxe Edition early next year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/baldurs-gate-3-deluxe-edition-pc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/sequel-to-cosy-puzzler-please-touch-the-artwork-announced",
           "author": "Victoria Kennedy",
           "description": "Thomas Waterzooi, developer of cosy painting-based puzzler Please, Touch the Artwork, has announced a sequel is in the works.\r\n\n\r\nKnown as Please, Touch the Artwork 2, this upcoming release will continue its predecessor's \"tradition of immersing players in the captivating realm of a renowned modern artist\" as they help a skeleton painter \"find his way back home\". \r\n\n\r\nWhere the first game featured art by Piet Mondrian, the artist Waterzooi has focused on for this next release is James Ensor. Players will be able to look for hidden objects within Ensor's works when the game releases \"early\" next year. We will update you with an exact date when we know more. \n Read more",
@@ -8283,96 +8443,6 @@
           "wordCount": 7985,
           "title": "Super Mario Bros. Wonder almost had sports-style live commentary",
           "imageUrl": "https://assetsio.reedpopcdn.com/CI_AskTheDeveloperVol11_Popup_19_2_image950w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/servers-for-online-dino-shooter-second-extinction-to-shut-down-next-year",
-          "author": "Liv Ngan",
-          "description": "Second Extinction developer Systemic Reaction has announced it is ending active development on the game. The game's servers will remain online for now, but Systemic Reactions plans to shut them down next year.\nSecond Extinction is a co-op, online shooter set in a futuristic world where mutated dinosaurs threaten humans. It released in early access for PC in 2020, and Xbox One and Xbox Series X/S in 2021. The game's 1.0 version was meant to release late last year, but \"critical\" and \"show-stopping\" issues caused the studio to delay it.\n\"Unfortunately, it became clear that our small team lacked the resources necessary to hit our quality targets,\" Systemic Reaction said on Steam, \"and the investment needed to do so was too large for us to bear\". As such, the developer has decided to cancel the game's full release.\n Read more",
-          "link": "https://www.eurogamer.net/servers-for-online-dino-shooter-second-extinction-to-shut-down-next-year",
-          "publishedOn": "2023-10-18T11:32:51.000Z",
-          "wordCount": 7385,
-          "title": "Servers for online dino shooter Second Extinction to shut down next year",
-          "imageUrl": "https://assetsio.reedpopcdn.com/second-extinction_7kajoub.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonic-superstars-comic-book-skin-dlc-mysteriously-unavailable-on-steam",
-          "author": "Ed Nightingale",
-          "description": "A Comic Book Skin DLC for Sonic Superstars was briefly available on Steam after the game's release, but is now mysteriously unavailable.\r\n\n\r\nThe latest in Sega's series was released yesterday, alongside a number of DLC costumes. For instance, the Sonic Rabbit skin and Mecha Sonic skin are available as part of the Extra Content Pack (priced at £11.98), while Lego skins are available for free.\r\n\n\r\nHowever, the Comic Book Skin DLC was also briefly available, providing cel-shaded versions of the four main characters. The pack is still listed on Steam, but is unavailable to download or purchase.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonic-superstars-comic-book-skin-dlc-mysteriously-unavailable-on-steam",
-          "publishedOn": "2023-10-18T11:18:31.000Z",
-          "wordCount": 7366,
-          "title": "Sonic Superstars Comic Book Skin DLC mysteriously unavailable on Steam",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Sonic-Superstars---Opening-Animation-0-54-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-boss-says-it-may-take-time-to-bring-back-classic-activision-franchises",
-          "author": "Tom Phillips",
-          "description": "Don't expect Microsoft's acquisition of Activision Blizzard to suddenly mean the revival of Guitar Hero, or other classic franchises. These things take time, Xbox boss Phil Spencer has said, and should come from a genuine passion amongst developers.\r\n\n\r\nSpeaking on the Official Xbox Podcast, Spencer discussed his next moves now Microsoft formally owns all of Activision Blizzard's franchises - including Call of Duty and Crash Bandicoot.\r\n\n\r\nSpencer is now off to meet Activision Blizzard's many teams in person, via a whistlestop tour of the company's studios. There, he said he will discuss what the teams want to work on.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xbox-boss-says-it-may-take-time-to-bring-back-classic-activision-franchises",
-          "publishedOn": "2023-10-18T11:16:22.000Z",
-          "wordCount": 7327,
-          "title": "Xbox boss says it may take time to bring back classic Activision franchises",
-          "imageUrl": "https://assetsio.reedpopcdn.com/guitar_hero_world_tour.jpg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-removes-videos-of-modded-super-mario-bros-wonder-with-swearing-flowers",
-          "author": "Ed Nightingale",
-          "description": "Nintendo is taking down videos that show a modded version of Super Mario Bros. Wonder with swearing flowers.\r\n\n\r\nThe game isn't even out yet, but already it's playable on PC via emulators and leaked copies. That means it's moddable too.\r\n\n\r\nThat's exactly what modder Contendo did, making all the talking flowers in the game swear.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-removes-videos-of-modded-super-mario-bros-wonder-with-swearing-flowers",
-          "publishedOn": "2023-10-18T10:48:31.000Z",
-          "wordCount": 7359,
-          "title": "Nintendo removes videos of modded Super Mario Bros. Wonder with swearing flowers",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_tUAFH4S.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/spider-man-2-dev-says-you-should-download-launch-day-patch-to-improve-opening-sections",
-          "author": "Victoria Kennedy",
-          "description": "Marvel's Spider-Man 2 is releasing this Friday, 20th October, and developer Insomniac has said you should download the game's launch day patch to get the best experience possible. \r\n\n\r\nIn a social media post, the developer said the team has made \"notable enhancements\" to Spider-Man 2 since the game went gold. Therefore, those who have purchased the game physically won't get the optimal version of this release without the patch in play. \r\n\n\r\n\"This update features polish to the gold master version of Marvel's Spider-Man 2 available on disc, which improves the opening sections of the game and includes other general refinements to your Spidey experience,\" Insomniac explained. This includes some accessibility options.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/spider-man-2-dev-says-you-should-download-launch-day-patch-to-improve-opening-sections",
-          "publishedOn": "2023-10-18T10:38:10.000Z",
-          "wordCount": 7631,
-          "title": "Spider Man 2 dev says you should download launch day patch to improve opening sections",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F7SDm5DXMAAb4wk.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/super-mario-bros-wonder-not-inspired-by-mario-movie-nintendo-insists",
-          "author": "Ed Nightingale",
-          "description": "Nintendo has confirmed that Super Mario Bros. Wonder was not inspired by the Super Mario Bros. Movie.\r\n\n\r\nAs has become typical of Nintendo, it's released an Ask the Developer interview with the development team to discuss its latest release.\r\n\n\r\nDevelopment of the game was completely separate from the film, it says, so new elements in Wonder are unrelated.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/super-mario-bros-wonder-not-inspired-by-mario-movie-nintendo-insists",
-          "publishedOn": "2023-10-18T10:16:06.000Z",
-          "wordCount": 7547,
-          "title": "Super Mario Bros. Wonder not inspired by Mario movie, Nintendo insists",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_xV2Jni7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-boss-blames-lengthy-buyout-process-for-delay-in-adding-activision-blizzard-titles-to-game-pass",
-          "author": "Tom Phillips",
-          "description": "Xbox boss Phil Spencer has explained the delay in getting Activision Blizzard's back catalogue added to Xbox Game Pass, and blamed the hold-up on the lengthy and difficult process of sealing the deal.\r\n\n\r\nSpeaking on the Official Xbox Podcast, Spencer acknowledged the recent suggestion by Activision Blizzard that it would take until 2024 to get its games added to Microsoft's subscription service, and discussed why there wasn't going to be a big drop of games sooner - as happened when Microsoft bought Bethesda.\r\n\n\r\nSpencer even noted there had been \"a lot of uncertainty\" in the buyout process for Microsoft - right up until the deal was finally approved by the UK's regulator, the Competition and Markets Authority, last week.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xbox-boss-blames-lengthy-buyout-process-for-delay-in-adding-activision-blizzard-titles-to-game-pass",
-          "publishedOn": "2023-10-18T10:12:39.000Z",
-          "wordCount": 7210,
-          "title": "Xbox boss blames lengthy buyout process for delay in adding Activision Blizzard titles to Game Pass",
-          "imageUrl": "https://assetsio.reedpopcdn.com/CrashBandicoot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/phasmophobias-console-release-gets-delayed-again",
-          "author": "Liv Ngan",
-          "description": "The co-op horror game Phasmophobia will not release on consoles this month, following another delay.\r\n\nPhasmophobia was originally meant to release into early access on console in August, but an office fire incident in August caused developer Kinect Games to push launch back to October.\r\n\nThe release date is being pushed back again, meaning Xbox Series X/S and PlayStation 5 owners will have to wait a little bit longer to join the ghost-hunting. In a developer update posted to Steam, Kinect Games attributed the latest delay to August's fire incident and issues in porting the game to consoles and VR.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/phasmophobias-console-release-gets-delayed-again",
-          "publishedOn": "2023-10-18T10:10:42.000Z",
-          "wordCount": 7296,
-          "title": "Phasmophobia's console release gets delayed again",
-          "imageUrl": "https://assetsio.reedpopcdn.com/phasmophobia-maple-lodge.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-will-not-use-call-of-duty-timed-exclusivity-to-sell-consoles-phil-spencer-says",
-          "author": "Victoria Kennedy",
-          "description": "Xbox head Phil Spencer has shed more light on what Microsoft's recent acquisition of Call of Duty maker Activision will mean for the series, and no, it isn't about using timed exclusivity deals for the franchise in order to sell consoles. \r\n\n\r\nIn an interview on the official Xbox podcast, the exec spoke more about last week's historic merger that finally saw Microsoft close the deal on its Activision Blizzard King buyout. He phil-ed us in, if you will. \r\n\n\r\nOf course, during last night's interview, the topic of Call of Duty came up. This series has often been front and centre of the ongoing trials and tribulations of recent times. In fact, at one point, Sony suggested Microsoft could deliberately release a version of the game on PlayStation platforms with degraded performance (something Microsoft said it would not do).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xbox-will-not-use-call-of-duty-timed-exclusivity-to-sell-consoles-phil-spencer-says",
-          "publishedOn": "2023-10-18T09:59:17.000Z",
-          "wordCount": 7646,
-          "title": "Xbox will not use Call of Duty timed exclusivity to sell consoles, Phil Spencer says",
-          "imageUrl": "https://assetsio.reedpopcdn.com/call-of-duty-modern-warfare-3-2023-ghost.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
