@@ -124,16 +124,6 @@
           "wordCount": 193,
           "title": "Daylight Saving Choice",
           "imageUrl": "https://imgs.xkcd.com/comics/daylight_saving_choice_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2845/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/extinction_mechanisms.png\" title=\"The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.\" alt=\"The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.\" />",
-          "link": "https://xkcd.com/2845/",
-          "publishedOn": "2023-10-23T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Extinction Mechanisms",
-          "imageUrl": "https://imgs.xkcd.com/comics/extinction_mechanisms_2x.png"
         }
       ]
     },
@@ -154,6 +144,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/11/email-security-flaw-found-in-the-wild.html",
+          "author": null,
+          "description": "<p>Google&#8217;s Threat Analysis Group <a href=\"https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/\">announced</a> a <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-37580\">zero-day</a> against the Zimbra Collaboration email server that has been used against governments around the world.</p>\n<blockquote><p>TAG has observed four different groups exploiting the same bug to steal email data, user credentials, and authentication tokens. Most of this activity occurred after the initial fix became public on Github. To ensure protection against these types of exploits, TAG urges users and organizations to keep software fully up-to-date and apply security updates as soon as they become available.</p></blockquote>\n<p>The vulnerability was discovered in June. It has been patched...</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/11/email-security-flaw-found-in-the-wild.html",
+          "publishedOn": "2023-11-21T12:05:07.000Z",
+          "wordCount": 900,
+          "title": "Email Security Flaw Found in the Wild",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/11/using-generative-ai-for-surveillance.html",
           "author": null,
@@ -421,6 +421,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1982514",
+          "author": "Jonathan M. Gitlin",
+          "description": "Hybrid prototypes from Acura, BMW, Cadillac, and Porsche wowed the crowds.",
+          "link": "https://arstechnica.com/?p=1982514",
+          "publishedOn": "2023-11-21T12:00:43.000Z",
+          "wordCount": 2202,
+          "title": "The return of GTP racing to IMSA gets a big thumbs-up from fans",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1724609621-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1985461",
           "author": "Ron Amadeo",
@@ -4463,16 +4473,6 @@
           "wordCount": 7157,
           "title": "Blog: Plants, process and parties: the Kubernetes 1.28 release interview",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time/",
-          "author": null,
-          "description": "Author: Roman Bednář (Red Hat)\nIn the recent Kubernetes v1.28 release, we (SIG Storage) introduced a new alpha feature that aims to improve PersistentVolume (PV)\nstorage management and help cluster administrators gain better insights into the lifecycle of PVs.\nWith the addition of the lastPhaseTransitionTime field into the status of a PV,\ncluster administrators are now able to track the last time a PV transitioned to a different\nphase, allowing for more efficient\nand informed resource management.\nWhy do we need new PV field?\nPersistentVolumes in Kubernetes play a crucial role in providing storage resources to workloads running in the cluster.\nHowever, managing these PVs effectively can be challenging, especially when it comes\nto determining the last time a PV transitioned between different…",
-          "link": "https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time/",
-          "publishedOn": "2023-10-23T00:00:00.000Z",
-          "wordCount": 4301,
-          "title": "Blog: PersistentVolume Last Phase Transition Time in Kubernetes",
-          "imageUrl": null
         }
       ]
     },
@@ -4514,6 +4514,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-simpsons-hit-run-sequel-had-airships-devs-remain-unsure-why-it-was-scrapped",
+          "author": "Victoria Kennedy",
+          "description": "An ambitious-sounding follow-up to The Simpsons: Hit & Run was set to include airships. \r\n\n\r\nThat's according to the scrapped project's executive producer John Melchior, who revealed developer Radical Entertainment even had plans to include planes in a Hit & Run sequel.\r\n\n\r\nSpeaking with MinnMax, the producer, along with other members of the Hit & Run team, discussed the tabled sequel and the various ideas the studio had for it. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-simpsons-hit-run-sequel-had-airships-devs-remain-unsure-why-it-was-scrapped",
+          "publishedOn": "2023-11-21T12:14:39.000Z",
+          "wordCount": 7116,
+          "title": "The Simpsons: Hit & Run sequel had airships, devs remain unsure why it was scrapped",
+          "imageUrl": "https://assetsio.reedpopcdn.com/the-simpsons-hit-and-run_lTRBhON.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisoft-pauses-advertising-on-x-formerly-twitter",
+          "author": "Tom Phillips",
+          "description": "Assassin's Creed publisher Ubisoft has pulled its live advertising from X, formerly Twitter, amidst the ongoing row over antisemitism on the platform.\r\n\n\r\nUbisoft is among other firms such as Apple, Disney and Warner Bros Discovery to have paused their advertising on X, BBC News reported today.\r\n\n\r\nIn a statement to Axios, Ubisoft said it has disabled advertising for Assassin's Creed Nexus VR, the recently-launched spin-off from its blockbuster series designed for virtual reality headsets.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisoft-pauses-advertising-on-x-formerly-twitter",
+          "publishedOn": "2023-11-21T11:47:38.000Z",
+          "wordCount": 6848,
+          "title": "Ubisoft pauses advertising on X, formerly Twitter",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ubisoft-logo_9vscSD7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/starfields-latest-update-adds-pc-dlss-support-and-ability-to-gobble-up-food-as-soon-as-you-find-it",
+          "author": "Victoria Kennedy",
+          "description": "Bethesda has released a new patch for Starfield, which adds DLSS support for those on PC, as well as the ability to ingest food when it is found in the environment. This means players will be able to \"enjoy those Chunks immediately or save them for later\". Mmm.\r\n\n\r\nThis update was previously available as part of a Steam beta, but it is now available for all players. \r\n\n\r\nAlong with the much requested DLSS support for those Starfield players with compatible graphics cards, this update also covers a variety of other fixes and features across the board.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/starfields-latest-update-adds-pc-dlss-support-and-ability-to-gobble-up-food-as-soon-as-you-find-it",
+          "publishedOn": "2023-11-21T11:16:15.000Z",
+          "wordCount": 7502,
+          "title": "Starfield's latest update adds PC DLSS support, and ability to gobble up food as soon as you find it",
+          "imageUrl": "https://assetsio.reedpopcdn.com/F_Z31DJXkAADbXt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ark-survival-ascended-finally-out-today-on-xbox-series-xs",
+          "author": "Liv Ngan",
+          "description": "Following yet another last-minute delay, Ark: Survival Ascended's Xbox Series X/S release is now happening later today.\r\n\nStudio Wildcard's dinosaur survival game was meant to launch last week on 14th November for Xbox Series X/S, but was delayed until some point later in the week. On 16th November, Studio Wildcard delayed the release once again, with a target window of early this week.\nFast forward to today, 21st November, and Studio Wildcard has now confirmed the final release date for Ark: Survival Ascended on Xbox - and there's no more delays. The game goes live later today at 5pm UK time / 9am Pacific.\n Read more",
+          "link": "https://www.eurogamer.net/ark-survival-ascended-finally-out-today-on-xbox-series-xs",
+          "publishedOn": "2023-11-21T11:05:22.000Z",
+          "wordCount": 6845,
+          "title": "Ark: Survival Ascended finally out today on Xbox Series X/S",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ark-survival-ascended.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/now-you-can-knit-yourself-sagas-jumper-from-alan-wake-2",
           "author": "Victoria Kennedy",
