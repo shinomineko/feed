@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/11/apple-to-add-manual-authentication-to-imessage.html",
+          "author": null,
+          "description": "<p>Signal has had the ability to manually authenticate another account for years. iMessage is <a href=\"https://tidbits.com/2023/11/08/upcoming-contact-key-verification-feature-promises-secure-identity-verification-for-imessage/\">getting it</a>:</p>\n<blockquote><p>The feature is called Contact Key Verification, and it does just what its name says: it lets you add a manual verification step in an iMessage conversation to confirm that the other person is who their device says they are. (SMS conversations lack any reliable method for verification­&#8212;sorry, green-bubble friends.) Instead of relying on Apple to verify the other person’s identity using information stored securely on Apple’s servers, you and the other party read a short verification code to each other, either in person or on a phone call. Once you’ve validated the conversation, your devices maintain a chain of trust in which neither you nor the other person has given any private encryption information to each other or Apple. If anything changes in the encryption keys each of you verified, the Messages app will notice and provide an alert or warning...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/11/apple-to-add-manual-authentication-to-imessage.html",
+          "publishedOn": "2023-11-22T12:08:10.000Z",
+          "wordCount": 956,
+          "title": "Apple to Add Manual Authentication to iMessage",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/11/email-security-flaw-found-in-the-wild.html",
           "author": null,
           "description": "<p>Google&#8217;s Threat Analysis Group <a href=\"https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/\">announced</a> a <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-37580\">zero-day</a> against the Zimbra Collaboration email server that has been used against governments around the world.</p>\n<blockquote><p>TAG has observed four different groups exploiting the same bug to steal email data, user credentials, and authentication tokens. Most of this activity occurred after the initial fix became public on Github. To ensure protection against these types of exploits, TAG urges users and organizations to keep software fully up-to-date and apply security updates as soon as they become available.</p></blockquote>\n<p>The vulnerability was discovered in June. It has been patched...</p>",
@@ -4360,86 +4370,6 @@
           "wordCount": 1596,
           "title": "The Daily Telescope: A quarter Moon over Sicily reflects light from Earth",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tindari-642x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1977686",
-          "author": "Stephen Clark",
-          "description": "Around a half-dozen full-timers and a few part-timers are keeping Voyager alive.",
-          "link": "https://arstechnica.com/?p=1977686",
-          "publishedOn": "2023-10-24T00:15:12.000Z",
-          "wordCount": 1946,
-          "title": "NASA wants the Voyagers to age gracefully, so it’s time for a software patch",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/PIA21736-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978108",
-          "author": "Samuel Axon",
-          "description": "TV series will be part of games' official canon, Amazon says.",
-          "link": "https://arstechnica.com/?p=1978108",
-          "publishedOn": "2023-10-23T21:27:42.000Z",
-          "wordCount": 1577,
-          "title": "Amazon’s Fallout TV series gets a 2024 release date",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/FalloutDate-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1977979",
-          "author": "Stephen Clark",
-          "description": "This was a test of the launch abort system for India's Gaganyaan spacecraft.",
-          "link": "https://arstechnica.com/?p=1977979",
-          "publishedOn": "2023-10-23T21:12:35.000Z",
-          "wordCount": 2242,
-          "title": "India celebrates “first major milestone” on path to launching astronauts",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tvd1abort-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978094",
-          "author": "Dan Goodin",
-          "description": "1Password CTO says investigation found no compromise of user data or sensitive systems.",
-          "link": "https://arstechnica.com/?p=1978094",
-          "publishedOn": "2023-10-23T20:56:49.000Z",
-          "wordCount": 1975,
-          "title": "1Password detects “suspicious activity” in its internal Okta account",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/1password-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978067",
-          "author": "Ashley Belanger",
-          "description": "Tesla SEC filing on Monday revealed that the DOJ is investigating the EV maker.",
-          "link": "https://arstechnica.com/?p=1978067",
-          "publishedOn": "2023-10-23T20:24:14.000Z",
-          "wordCount": 1971,
-          "title": "Tesla’s misleading driving range claims trigger DOJ probe",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1977869",
-          "author": "Benj Edwards",
-          "description": "Researchers say \"most transparent\" AI model scores only 54% on their index.",
-          "link": "https://arstechnica.com/?p=1977869",
-          "publishedOn": "2023-10-23T19:59:50.000Z",
-          "wordCount": 1931,
-          "title": "Stanford researchers challenge OpenAI, others on AI transparency in new report",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1977935",
-          "author": "Scharon Harding",
-          "description": "After battling third-party apps, Reddit threatens generative AI firms, WaPo reports.",
-          "link": "https://arstechnica.com/?p=1977935",
-          "publishedOn": "2023-10-23T19:48:57.000Z",
-          "wordCount": 2006,
-          "title": "Reddit finally takes its API war where it belongs: to AI companies",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1438051262-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1977914",
-          "author": "Ron Amadeo",
-          "description": "For the second year in a row, there's an even bigger graphite thermal pad.",
-          "link": "https://arstechnica.com/?p=1977914",
-          "publishedOn": "2023-10-23T18:29:22.000Z",
-          "wordCount": 1748,
-          "title": "Pixel 8 Pro teardown reveals better cooling, interior “Google” branding",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/9-1-760x380.jpg"
         }
       ]
     },
@@ -4523,16 +4453,6 @@
           "wordCount": 4857,
           "title": "Blog: Introducing ingress2gateway; Simplifying Upgrades to Gateway API",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/10/24/plants-process-and-parties-the-kubernetes-1.28-release-interview/",
-          "author": null,
-          "description": "Author: Craig Box\nSince 2018, one of my favourite contributions to the Kubernetes community has been to share the story of each release. Many of these stories were told on behalf of a past employer; by popular demand, I've brought them back, now under my own name. If you were a fan of the old show, I would be delighted if you would subscribe.\nBack in August, we welcomed the release of Kubernetes 1.28. That release was led by Grace Nguyen, a CS student at the University of Waterloo. Grace joined me for the traditional release interview, and while you can read her story below, I encourage you to listen to it if you can.\nThis transcript has been lightly edited and condensed for clarity.\nYou're a student at the University of Waterloo, so I want to spend the first two minutes of this interview …",
-          "link": "https://kubernetes.io/blog/2023/10/24/plants-process-and-parties-the-kubernetes-1.28-release-interview/",
-          "publishedOn": "2023-10-24T00:00:00.000Z",
-          "wordCount": 7157,
-          "title": "Blog: Plants, process and parties: the Kubernetes 1.28 release interview",
-          "imageUrl": null
         }
       ]
     },
@@ -4574,6 +4494,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-boasts-modern-warfare-3-has-broken-new-engagement-records",
+          "author": "Tom Phillips",
+          "description": "Activision has said its new Call of Duty: Modern Warfare 3 has broken multiple player engagement records, without providing any specific player numbers. \r\n\n\r\n\"Just two weeks in, Modern Warfare 3 has already set records with the highest engagement in the new Modern Warfare trilogy,\" states a post by the Call of Duty account on X, formerly Twitter.\r\n\n\r\nThese records include the fact Modern Warfare 3 owners are playing \"more hours per player overall\" and \"campaign players [are] putting in more time per player\" than in the modern Modern Warfare 1 and 2.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-boasts-modern-warfare-3-has-broken-new-engagement-records",
+          "publishedOn": "2023-11-22T12:21:50.000Z",
+          "wordCount": 7027,
+          "title": "Call of Duty boasts Modern Warfare 3 has broken new engagement records",
+          "imageUrl": "https://assetsio.reedpopcdn.com/9N1NHD38UQD21696523887840.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/after-unitys-crisis-gamemaker-replaces-subscriptions-with-one-off-fee-for-indies",
+          "author": "Liv Ngan",
+          "description": "GameMaker, a series of cross-platform engines for game developers, has ditched its subscription model for non-commercial purposes, hobbyists and indie developers.\nGameMaker will now be free for anyone using its software non-commercially on all non-console platforms. Creator and indie subscriptions have been replaced with a one-time fee of $100, meanwhile, which grants a commercial license and enables exports to desktop and mobile platforms.\nThe change appears to have been prompted by the recent and controversial changes Unity announced for its pricing model, which would introduce a fee for developers per game install. The plan was met with anger from indie developers, causing Unity to walk back significantly on its proposed changes.\n Read more",
+          "link": "https://www.eurogamer.net/after-unitys-crisis-gamemaker-replaces-subscriptions-with-one-off-fee-for-indies",
+          "publishedOn": "2023-11-22T11:56:31.000Z",
+          "wordCount": 6655,
+          "title": "After Unity's crisis, GameMaker replaces subscriptions with one-off fee for indies",
+          "imageUrl": "https://assetsio.reedpopcdn.com/gamemaker_PTA6pNx.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/jet-force-gemini-arrives-on-nintendo-switch-online-next-week",
+          "author": "Tom Phillips",
+          "description": "Nintendo 64 classic Jet Force Gemini will join the Nintendo Switch Online + Expansion Pack subscription service next week, on Thursday 30th November. \r\n\n\r\nThis sci-fi third-person shooter was developed during the N64 heyday of British studio Rare, and launched during the four-year period the company also released classics such as GoldenEye 007, Banjo-Kazooie, Donkey Kong 64 and Perfect Dark. \r\n\n\r\nIt may not have the brand power of some of those, but it's still a solid arcade-inspired adventurey shooter with a lengthy single-player and a deathmatch-style multiplayer. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/jet-force-gemini-arrives-on-nintendo-switch-online-next-week",
+          "publishedOn": "2023-11-22T11:26:02.000Z",
+          "wordCount": 6619,
+          "title": "Jet Force Gemini arrives on Nintendo Switch Online next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/intro-1610375123.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/diablo-4-is-free-to-try-on-steam-for-the-next-week",
           "author": "Matt Wales",
@@ -8123,16 +8073,6 @@
           "wordCount": 6625,
           "title": "Lego Knuckles, Shadow and Rouge teased for Sonic the Hedgehog sets",
           "imageUrl": "https://assetsio.reedpopcdn.com/sonic-lego-emeralds.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/hotline-miami-1-and-2-just-got-a-native-release-xbox-series-xs-and-playstation-5",
-          "author": "Matt Wales",
-          "description": "If you've somehow missed out on developer Dennaton Games' classic Hotline Miami series - or are just looking for another excuse to revisit its woozily eccentric mayhem - you might like to know both games are now natively available for Xbox Series X/S and PS5.\r\n\n\r\nIt has, somewhat unbelievably, been over a decade since the critically lauded Hotline Miami first dropped jaws and quickened pulses with its breathless, blood-soaked top-down ode to violence, in which the game's unnamed protagonist rampages against the local Miami mafia after receiving cryptic instructions on his answering machine.\r\n\n\r\nIts grisly blend of stealth and ultra-gory shooting action - augmented by a surreal narrative, a stylish fever-dream aesthetic, and an absolute stunner of a pulsing synth soundtrack - immediately won it fans (Eurogamer awarded it 10/10 at the time of its release). 2015's Hotline Miami 2: Wrong Number went bigger, weirder, and tougher in almost every conceievable way, but didn't have quite the same impact the second time around.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hotline-miami-1-and-2-just-got-a-native-release-xbox-series-xs-and-playstation-5",
-          "publishedOn": "2023-10-23T20:18:57.000Z",
-          "wordCount": 7100,
-          "title": "Hotline Miami 1 & 2 just got a native release on Xbox Series X/S and PS5",
-          "imageUrl": "https://assetsio.reedpopcdn.com/hotline-miami-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -8350,16 +8290,6 @@
           "wordCount": 2313,
           "title": "Cybersecurity spotlight on bug bounty researcher @Ammar Askar",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/10/Security_banner-OG.jpg?fit=1200%2C435"
-        },
-        {
-          "id": "https://github.blog/?p=74875",
-          "author": "Zack Koppert",
-          "description": "We're excited to share with you the contributors Action! At GitHub, we maintain several open source repositories and have developed this Action to empower maintainers to measure how many new and returning contributors and contributions have occurred over any given time period.\nThe post How to gain insight into your project contributors appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/",
-          "publishedOn": "2023-10-23T20:39:46.000Z",
-          "wordCount": 1508,
-          "title": "How to gain insight into your project contributors",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png"
         }
       ]
     },
