@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/11/litterdrifter-usb-worm.html",
+          "author": null,
+          "description": "<p>A <a href=\"https://arstechnica.com/security/2023/11/normally-targeting-ukraine-russian-state-hackers-spread-usb-worm-worldwide/\">new worm</a> that spreads via USB sticks is infecting computers in Ukraine and beyond.</p>\n<blockquote><p>The group­&#8212;known by many names, including Gamaredon, Primitive Bear, ACTINIUM, Armageddon, and Shuckworm&#8212;has been active since at least 2014 and has been attributed to Russia’s Federal Security Service by the Security Service of Ukraine. Most Kremlin-backed groups take pains to fly under the radar; Gamaredon doesn&#8217;t care to. Its espionage-motivated campaigns targeting large numbers of Ukrainian organizations are easy to detect and tie back to the Russian government. The campaigns typically revolve around malware that aims to obtain as much information from targets as possible...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/11/litterdrifter-usb-worm.html",
+          "publishedOn": "2023-11-24T12:04:36.000Z",
+          "wordCount": 966,
+          "title": "LitterDrifter USB Worm",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/11/apple-to-add-manual-authentication-to-imessage.html",
           "author": null,
           "description": "<p>Signal has had the ability to manually authenticate another account for years. iMessage is <a href=\"https://tidbits.com/2023/11/08/upcoming-contact-key-verification-feature-promises-secure-identity-verification-for-imessage/\">getting it</a>:</p>\n<blockquote><p>The feature is called Contact Key Verification, and it does just what its name says: it lets you add a manual verification step in an iMessage conversation to confirm that the other person is who their device says they are. (SMS conversations lack any reliable method for verification­&#8212;sorry, green-bubble friends.) Instead of relying on Apple to verify the other person’s identity using information stored securely on Apple’s servers, you and the other party read a short verification code to each other, either in person or on a phone call. Once you’ve validated the conversation, your devices maintain a chain of trust in which neither you nor the other person has given any private encryption information to each other or Apple. If anything changes in the encryption keys each of you verified, the Messages app will notice and provide an alert or warning...</p></blockquote>",
@@ -4180,96 +4190,6 @@
           "wordCount": 1988,
           "title": "Daily Telescope: Snapshot of a brilliant green comet before it left forever",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/comet-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978513",
-          "author": "Jennifer Ouellette",
-          "description": "Plumbonacrite has previously been found in later works by Rembrandt.",
-          "link": "https://arstechnica.com/?p=1978513",
-          "publishedOn": "2023-10-25T22:50:25.000Z",
-          "wordCount": 1913,
-          "title": "Leonardo da Vinci used toxic pigments when he painted the Mona Lisa",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/monalisaTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978806",
-          "author": "Dan Goodin",
-          "description": "Previously unknown XSS in Roundcube let Winter Vivern steal government emails.",
-          "link": "https://arstechnica.com/?p=1978806",
-          "publishedOn": "2023-10-25T22:21:49.000Z",
-          "wordCount": 1865,
-          "title": "Pro-Russia hackers target inboxes with 0-day in webmail app used by millions",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978787",
-          "author": "Beth Mole",
-          "description": "The spider was nesting on her eardrum—and there's video.",
-          "link": "https://arstechnica.com/?p=1978787",
-          "publishedOn": "2023-10-25T21:57:24.000Z",
-          "wordCount": 1916,
-          "title": "Teeny jumping spider found in woman’s ear after days of torturous racket",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/nejmicm2307942_f1-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978725",
-          "author": "Samuel Axon",
-          "description": "The Apple One bundle is getting pricier, too.",
-          "link": "https://arstechnica.com/?p=1978725",
-          "publishedOn": "2023-10-25T21:39:49.000Z",
-          "wordCount": 1598,
-          "title": "Apple raises prices of Apple TV+ and other services",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/foundation21-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978501",
-          "author": "Benj Edwards",
-          "description": "Altered images could destroy AI model training efforts that scrape art without consent.",
-          "link": "https://arstechnica.com/?p=1978501",
-          "publishedOn": "2023-10-25T21:21:23.000Z",
-          "wordCount": 2018,
-          "title": "University of Chicago researchers seek to “poison” AI art generators with Nightshade",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978048",
-          "author": "Andrew Cunningham",
-          "description": "Devices as old as the iPhone 6S and iPad Air 2 are still getting patches.",
-          "link": "https://arstechnica.com/?p=1978048",
-          "publishedOn": "2023-10-25T19:31:05.000Z",
-          "wordCount": 2029,
-          "title": "Apple releases iOS 16.7.2 and iOS 15.8 security updates to patch old hardware",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple_iPhone12Pro-iOS15-3up_060721-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978483",
-          "author": "Kevin Purdy",
-          "description": "Repair advocates say Apple's move is beneficial, but also strategic.",
-          "link": "https://arstechnica.com/?p=1978483",
-          "publishedOn": "2023-10-25T19:19:31.000Z",
-          "wordCount": 1877,
-          "title": "Apple backs national right-to-repair bill, offering parts, manuals, and tools",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Screenshot-2023-10-25-at-2.28.51 PM-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978691",
-          "author": "John Timmer",
-          "description": "Economics, policies will revolutionize energy, still stick us with over 2° C warming.",
-          "link": "https://arstechnica.com/?p=1978691",
-          "publishedOn": "2023-10-25T19:05:00.000Z",
-          "wordCount": 1769,
-          "title": "Radical new forecast shows how rapidly the energy economy is changing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1178919403-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978469",
-          "author": "Chuong Nguyen",
-          "description": "Shop early this holiday and save on tech brands like Apple, Lenovo, Bose, and Anker.",
-          "link": "https://arstechnica.com/?p=1978469",
-          "publishedOn": "2023-10-25T19:04:30.000Z",
-          "wordCount": 2346,
-          "title": "Dealmaster: Save on Lenovo, Apple, tech essentials, and more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_4005-760x380.jpeg"
         }
       ]
     },
@@ -4284,6 +4204,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/11/24/sig-testing-spotlight-2023/",
+          "author": null,
+          "description": "Author: Sandipan Panda\nWelcome to another edition of the SIG spotlight blog series, where we\nhighlight the incredible work being done by various Special Interest\nGroups (SIGs) within the Kubernetes project. In this edition, we turn\nour attention to SIG Testing,\na group interested in effective testing of Kubernetes and automating\naway project toil. SIG Testing focus on creating and running tools and\ninfrastructure that make it easier for the community to write and run\ntests, and to contribute, analyze and act upon test results.\nTo gain some insights into SIG Testing, Sandipan\nPanda spoke with Michelle Shepardson,\na senior software engineer at Google and a chair of SIG Testing, and\nPatrick Ohly, a software engineer and architect at\nIntel and a SIG Testing Tech Lead.\nMeet the contributors\nSan…",
+          "link": "https://kubernetes.io/blog/2023/11/24/sig-testing-spotlight-2023/",
+          "publishedOn": "2023-11-24T00:00:00.000Z",
+          "wordCount": 5046,
+          "title": "Blog: Spotlight on SIG Testing",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/11/16/kubernetes-1-29-upcoming-changes/",
           "author": null,
@@ -4384,6 +4314,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/20m-players-have-visited-arcadia-bay-and-rewound-time-in-life-is-strange",
+          "author": "Victoria Kennedy",
+          "description": "The first Life is Strange game has been played by over 20 million people. \r\n\n\r\nThe developer shared this milestone as part of a Thanksgiving post, stating it was grateful to everyone who had visited Arcadia Bay with Max and Chloe and experienced Life is Strange's time maniplating and emotionally charged story.\r\n\n\r\n\"We want to thank each and every one of you for playing,\" the account wrote, with an accompanying reel showing moments from the game (which made me get a little choked up, I won't lie).\r\n \nRead more",
+          "link": "https://www.eurogamer.net/20m-players-have-visited-arcadia-bay-and-rewound-time-in-life-is-strange",
+          "publishedOn": "2023-11-24T12:01:41.000Z",
+          "wordCount": 7085,
+          "title": "20m players have visited Arcadia Bay and rewound time in Life is Strange",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_d074f4a82371e55479c445121ce6d936d27ce342.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/gta-5-michael-actor-ned-luke-swatted-while-playing-on-thanksgiving-stream",
+          "author": "Tom Phillips",
+          "description": "Ned Luke, the actor behind GTA 5 main character Michael De Santa, has been swatted while playing the game for fans in a Thanksgiving livestream.\r\n\n\r\nLuke's stream ended abruptly last night as sirens were heard in the background, and as he received a call warning him that police were outside. \r\n\n\r\n\"Oh nice,\" he said. \"Alright I've gotta go, now these assholes have swatted my house.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/gta-5-michael-actor-ned-luke-swatted-while-playing-on-thanksgiving-stream",
+          "publishedOn": "2023-11-24T11:39:52.000Z",
+          "wordCount": 7052,
+          "title": "GTA 5 Michael actor Ned Luke swatted while playing on Thanksgiving stream",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-3_6EZrQGj.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/bayonetta-creator-hideki-kamiya-say-he-may-take-his-ideas-for-the-series-to-the-grave-with-him",
+          "author": "Victoria Kennedy",
+          "description": "Original Bayonetta director Hideki Kamiya suspects many of his ideas for the series will be going to the grave with him. \r\n\n\r\nKamiya's comments come as part of his most recent YouTube video, where the PlatinumGames co-founder said he fully expects the Bayonetta franchise to continue without him. \r\n\n\r\n\"I worked on Bayonetta 1, 2, 3 and Origins,\" he said. \"I've talked about this in various interviews, that the Bayonetta series would consist of a total of nine episodes, and that I wanted to grow the franchise as the Bayonetta 'Saga', but it seems like I may have to take the full saga to the grave with me.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bayonetta-creator-hideki-kamiya-say-he-may-take-his-ideas-for-the-series-to-the-grave-with-him",
+          "publishedOn": "2023-11-24T11:33:46.000Z",
+          "wordCount": 7185,
+          "title": "Bayonetta creator Hideki Kamiya says he may take his ideas for the series \"to the grave\" with him",
+          "imageUrl": "https://assetsio.reedpopcdn.com/149615049109.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/american-truck-simulators-kansas-expansion-arrives-next-week",
           "author": "Matt Wales",
@@ -7853,46 +7813,6 @@
           "wordCount": 6873,
           "title": "Super Mario Bros. Wonder fastest-selling Mario game ever in Europe",
           "imageUrl": "https://assetsio.reedpopcdn.com/elephant_gzzD8F1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-everything-featured-in-tonights-xbox-partner-preview-showcase",
-          "author": "Matt Wales",
-          "description": "Microsoft's Xbox Partner Preview showcase might have an exceptionally rubbish name, but don't let that fool you into thinking it's not worth a watch! Tonight's latest instalment was a pretty decent offering all-round, that, while perhaps not exciting as such, did at least have some interesting reveals. There was first footage of Konami's Metal Gear Sold 3 remake, a new game from PowerWash Simulator developer FuturLab, and more. And if you're looking for a summary of it all that won't take up 30 minutes of your time, then read on.\r\n\n\r\nFirst up, we learned Like a Dragon: Infinite Wealth will continue the series' tradition of extravagant side activities when it releases on 26th January next year, giving players the opportunity to manage an entire tropical island resort in pure Animal Crossing fashion. There's fishing, bug catching, crafting, and a whole lot more as detailed in the trailer below.\r\n\n\r\nPowerWash simulator developer FuturLab unveiled its new game Ikaro: Will Not Die, a  spiritual successor to the studio's acclaimed Velocity series that promises \"satisfying flow-state\" rogue-lite action that you can read more about elsewhere.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-everything-featured-in-tonights-xbox-partner-preview-showcase",
-          "publishedOn": "2023-10-25T22:42:00.000Z",
-          "wordCount": 8060,
-          "title": "Here's everything featured in tonight's Xbox Partner Preview showcase",
-          "imageUrl": "https://assetsio.reedpopcdn.com/xbox-partner-preview-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/everybodys-gone-to-the-rapture-devs-oil-rig-horror-still-wakes-the-deep-debuts-gameplay",
-          "author": "Matt Wales",
-          "description": "Ever wondered what it'd be like to be stranded on a North Sea oil rig with nothing for company but a otherworldly horror teetering the edge of all logic and reality? Well, would you believe it, there's a game just for you; it's called Still Wakes the Deep and first gameplay has just debuted.\r\n\n\r\nAnnounced back in June, Still Wakes the Deep is the latest from developer The Chinese Room - previously responsible for the likes of Everybody's Gone to the Rapture, Amnesia: A Machine for Pigs, and Dear Esther - whisking players to the Beira D oil rig off the Scottish coast circa 1975.\r\n\n\r\nWhat follows is a narrative-focused first-person horror adventure in which players, in the role of an off-shore oil rig worker suddenly cut off from the outside world, must \"run, climb, and swim through the flooding corridors and storm-lashed outer decks\" as they attempt to evade an unspeakable otherworldly forces that's invited itself onboard.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/everybodys-gone-to-the-rapture-devs-oil-rig-horror-still-wakes-the-deep-debuts-gameplay",
-          "publishedOn": "2023-10-25T21:22:30.000Z",
-          "wordCount": 7116,
-          "title": "Everybody's Gone to the Rapture studio's oil rig horror Still Wakes the Deep debuts gameplay",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Still-Wakes-the-Deep-Screenshot-5-(2023.06.11).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/powerwash-simulator-dev-reveals-velocity-spiritual-successor-ikaro-will-not-die",
-          "author": "Matt Wales",
-          "description": "FuturLab, the developer behind nozzle-tweaking masterwork PowerWash Simulator, has unveiled neon-streaked action-adventure Ikaro: Will Not Die, which the studio describes a spiritual successor to its acclaimed Velocity series.\r\n\n\r\nVelocity, for the uninitiated, began life as twitchy shoot-'em-up in which players piloted their ship (known as the Quarp Jet) through space in a blaze of enemy-shredded bullets. Its sequel, 2014's Velocity 2X, retained the acclaimed ship-bound action of the original, but paired it with regular on-foot sections requiring protagonist to Lieutenant Kai Tana to disembark and solve a few puzzles to clear the way forward. Eurogamer liked it a lot!\r\n\n\r\nBut back to Ikaro: Will Not Die; it's being billed as an action-adventure rogue-lite, that \"brings the pace and precision of [the Velocity series'] satisfying flow-state action into third-person, while infusing an array of exciting new systems and mechanics.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/powerwash-simulator-dev-reveals-velocity-spiritual-successor-ikaro-will-not-die",
-          "publishedOn": "2023-10-25T20:08:30.000Z",
-          "wordCount": 6661,
-          "title": "PowerWash Simulator dev reveals Velocity spiritual successor Ikaro: Will Not Die",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_2339590171bed2774dc92d30944af67595c4107d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ark-survival-ascended-out-today-on-pc-console-release-delayed-to-november",
-          "author": "Matt Wales",
-          "description": "Ark: Survival Ascended - the Unreal Engine 5 remake of dino-survival hit Ark: Survival Evolved - is surprise-launching onto PC today, 25th October. However, developer Wildcard has announced a further delay for the Xbox Series X/S and PlayStation 5 versions, with both now due to arrive some time in November.\r\n\n\r\nThere has, of course, been a fair bit of controversy surrounding Ark: Survival Ascended since its announcement back in April this year; its reveal came with the news that Wildcard would be taking Ark: Survival Evolved's official servers offline when the remake arrived, forcing players to upgrade to the new version if they wanted to stay put. \r\n\n\r\nIt didn't help, either, that the remake was initially only available as part of a bundle with the now-delayed Ark 2, and while Wildcard eventually scrapped those plans, it instead decided to release a standalone version of Ark: Survival Ascended that was - amazingly - exactly the same price as the original bundle, despite featuring one less game. However, that price recently fell by $5 to $44.99 after Wildcard reversed plans to include a remake of Ark's Scorched Earth expansion alongside the base map, which it said would no longer be ready for launch.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ark-survival-ascended-out-today-on-pc-console-release-delayed-to-november",
-          "publishedOn": "2023-10-25T19:01:44.000Z",
-          "wordCount": 7257,
-          "title": "Ark: Survival Ascended out today on PC, console release delayed to November",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_65c0de5ced28281764990a299eb3926629b2863e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
