@@ -403,16 +403,6 @@
           "wordCount": 1503,
           "title": "Friday Squid Blogging: On the Ugliness of Squid Fishing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/10/messaging-service-wiretap-discovered-through-expired-tls-cert.html",
-          "author": null,
-          "description": "<p>Fascinating <a href=\"https://therecord.media/jabber-ru-alleged-government-wiretap-expired-tls-certificate\">story</a> of a covert wiretap that was discovered because of an expired TLS certificate:</p>\n<blockquote><p>The suspected man-in-the-middle attack was identified when the administrator of jabber.ru, the largest Russian XMPP service, received a notification that one of the servers’ certificates had expired.</p>\n<p>However, jabber.ru found no expired certificates on the server, ­ as explained in <a href=\"https://notes.valdikss.org.ru/jabber.ru-mitm/\">a blog post</a> by ValdikSS, a pseudonymous anti-censorship researcher based in Russia who collaborated on the investigation.</p>\n<p>The expired certificate was instead discovered on a single port being used by the service to establish an encrypted Transport Layer Security (TLS) connection with users. Before it had expired, it would have allowed someone to decrypt the traffic being exchanged over the service...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/10/messaging-service-wiretap-discovered-through-expired-tls-cert.html",
-          "publishedOn": "2023-10-27T11:01:00.000Z",
-          "wordCount": 927,
-          "title": "Messaging Service Wiretap Discovered through Expired TLS Cert",
-          "imageUrl": null
         }
       ]
     },
@@ -421,6 +411,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1984741",
+          "author": "John Timmer",
+          "description": "Some of the bikes we've looked at over the last couple of years are now on sale.",
+          "link": "https://arstechnica.com/?p=1984741",
+          "publishedOn": "2023-11-24T22:20:27.000Z",
+          "wordCount": 2496,
+          "title": "Do the Black Friday e-bike deals change the price/performance equation?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Velotric-T1-with-background-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1970934",
           "author": "Jennifer Ouellette",
@@ -4050,26 +4050,6 @@
           "wordCount": 1876,
           "title": "Russia renamed its ambitious satellite program after Putin misspoke its name",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/GettyImages-962039264-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1978974",
-          "author": "Eric Berger",
-          "description": "The Squid Nebula is a recent discovery, first spotted in 2011.",
-          "link": "https://arstechnica.com/?p=1978974",
-          "publishedOn": "2023-10-27T12:00:12.000Z",
-          "wordCount": 1582,
-          "title": "Daily Telescope: Meet the Flying Bat and Squid nebulae",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/FlamingBat_Squid-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979086",
-          "author": "Stephen Clark",
-          "description": "ABL Space Systems has blamed its launch mount for a January rocket failure.",
-          "link": "https://arstechnica.com/?p=1979086",
-          "publishedOn": "2023-10-27T11:00:50.000Z",
-          "wordCount": 4401,
-          "title": "Rocket Report: China launches 3-man crew; SpaceX adds to busy manifest",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1745433413-760x380.jpg"
         }
       ]
     },
@@ -4194,6 +4174,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/valve-accidentally-released-a-very-early-left-4-dead-prototype-in-the-latest-counter-strike-update",
+          "author": "Vikki Blake",
+          "description": "An \"extremely early\" Left 4 Dead prototype is now available to play thanks to Counter-Strike's 1.6 update.\r\n\nAccording to content creator Gabe Follower, the prototype – called Terror Strike – was \"accidentally compiled\" and added to the Counter-Strike update, showing how the zombie game's DNA lies firmly in the mod for Counter-Strike: Condition Zero and was developed using CS assets, including Counter-Strike weapons.\r\n\nThe files were quickly pulled from the 22nd November update, but not quickly enough to stop them being yoinked and then distributed publicly.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/valve-accidentally-released-a-very-early-left-4-dead-prototype-in-the-latest-counter-strike-update",
+          "publishedOn": "2023-11-25T20:47:46.000Z",
+          "wordCount": 7072,
+          "title": "Valve accidentally released a very early Left 4 Dead prototype in the latest Counter-Strike update",
+          "imageUrl": "https://assetsio.reedpopcdn.com/how-left4dead-changed-my-life-for-the-better-1411826746265.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/prison-architect-2-has-been-rated-in-korea",
+          "author": "Vikki Blake",
+          "description": "A rating for Prison Architect 2 has popped up in Korea.\r\n\nAt the time of writing, a sequel to Introversion Software's wildly popular management sim has not been formally announced, yet Prison Architect 2 has been rated as suitable for \"juvelines\" by Korea's Game Rating and Administration Committee. \r\n\nInterestingly, the link that once led to the rating is now dead, and the game doesn't turn up if you search for it, either in English or Korean. So make of that what you will.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/prison-architect-2-has-been-rated-in-korea",
+          "publishedOn": "2023-11-25T19:42:55.000Z",
+          "wordCount": 7020,
+          "title": "Prison Architect 2 has been rated in Korea",
+          "imageUrl": "https://assetsio.reedpopcdn.com/prison-architect-free-for-life.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/roleplay-as-a-landlord-in-the-sims-4s-upcoming-real-life-immersive-pop-up-installation",
           "author": "Vikki Blake",
@@ -7543,56 +7543,6 @@
           "wordCount": 6997,
           "title": "Disney Dreamlight Valley ditches free-to-play release plan",
           "imageUrl": "https://assetsio.reedpopcdn.com/DDV_23262_S_Expansion1_Key_Art_A_03_ON_01_LS_1920x1080_EN_9c23d5a860.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/alan-wake-2-expansions-detailed-include-trip-inside-fictional-tv-show",
-          "author": "Tom Phillips",
-          "description": "Alan Wake 2 is out today, and Remedy has now detailed two expansions set to continue its story in 2024.\r\n\n\r\nThe first is named Night Springs, which Alan Wake fans will know is the name of the series' in-game TV show (based heavily on The Twilight Zone). \r\n\n\r\n\"Visions and dreams,\" Remedy teases of what fans should expect here. \"Fiction is written and coming true. Fiction collapses and remains just words on a page. These are those stories... in Night Springs.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/alan-wake-2-expansions-detailed-include-trip-inside-fictional-tv-show",
-          "publishedOn": "2023-10-27T11:56:02.000Z",
-          "wordCount": 6956,
-          "title": "Alan Wake 2 expansions detailed, include trip inside fictional TV show",
-          "imageUrl": "https://assetsio.reedpopcdn.com/AW2_11-08-23_029.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-expects-stellar-christmas-sales-with-ps5-now-in-full-supply-for-first-time-since-launch",
-          "author": "Liv Ngan",
-          "description": "Sony has said it expects one of its best seasons ever for console sales this Christmas, as PlayStation 5 stock is now in \"full supply\" for the first time since the PS5 launched in November 2020.\nPlayStation's rosy outlook is also boosted by the release of Marvel's Spider-Man 2, PlayStation exec Eric Lempel told Barron's (via ResetEra).\nLempel said Sony had been hampered by supply chain issues caused by the Covid pandemic and Russia's invasion of Ukraine, which in turn caused a components shortage for PS5 production. \n Read more",
-          "link": "https://www.eurogamer.net/playstation-expects-stellar-christmas-sales-with-ps5-now-in-full-supply-for-first-time-since-launch",
-          "publishedOn": "2023-10-27T11:37:42.000Z",
-          "wordCount": 6766,
-          "title": "PlayStation expects stellar Christmas sales, with PS5 now \"in full supply\" for first time since launch",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ps5-side-on-view.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/turnip-boy-heads-next-weeks-epic-store-freebies",
-          "author": "Tom Phillips",
-          "description": "Next week's Epic Games Store free titles include indie 2D Zelda-alike adventure Turnip Boy Commits Tax Evasion.\r\n\n\r\nTurnip Boy tells the tale of a wanted vegetable out to overturn a corrupt vegetable government, while running from the law after, well, committing tax evasion.\r\n\n\r\nBest of all, perhaps, there are collectable hats for your turnip, and multiple endings based on how much tax you managed to evade. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/turnip-boy-heads-next-weeks-epic-store-freebies",
-          "publishedOn": "2023-10-27T11:19:42.000Z",
-          "wordCount": 6814,
-          "title": "Turnip Boy heads next week's Epic Store freebies",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Turnip-Boy-Commits-Tax-Evasion-Launch-Trailer-0-33-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-confirms-departure-of-veteran-exec-connie-booth-after-more-than-30-years",
-          "author": "Tom Phillips",
-          "description": "PlayStation's head of internal game production Connie Booth has departed Sony after more than three decades, the company has now confirmed.\r\n\n\r\nBooth's departure had been discussed earlier this week by outspoken former game director David Jaffe, another PlayStation alumnus.\r\n\n\r\nIn a further video published yesterday, Jaffe alleged that Booth had been fired amidst longer-term internal tensions around PlayStation studios moving to develop more live service games.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-confirms-departure-of-veteran-exec-connie-booth-after-more-than-30-years",
-          "publishedOn": "2023-10-27T10:37:05.000Z",
-          "wordCount": 6617,
-          "title": "Sony confirms departure of veteran exec Connie Booth, after more than 30 years",
-          "imageUrl": "https://assetsio.reedpopcdn.com/psn10.10800.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/theres-a-diablo-4-free-trial-on-pc-this-weekend",
-          "author": "Liv Ngan",
-          "description": "If you're looking for something to dip into this weekend, there's a free Diablo 4 PC trial which gives players access to all content from the game so far.\nThe trial is already live and will continue until Monday 30th October. Not a bad way to spend the weekend before Halloween! \nTo access the trial, you'll need a Battle.net account if you haven't got one already. The trial can be installed from the Diablo 4 page on Battle.net.\n Read more",
-          "link": "https://www.eurogamer.net/theres-a-diablo-4-free-trial-on-pc-this-weekend",
-          "publishedOn": "2023-10-27T10:21:32.000Z",
-          "wordCount": 7025,
-          "title": "There's a Diablo 4 free trial on PC this weekend",
-          "imageUrl": "https://assetsio.reedpopcdn.com/diablo-4-season-of-blood-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
