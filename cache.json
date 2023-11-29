@@ -145,6 +145,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html",
+          "author": null,
+          "description": "<p>They&#8217;re <a href=\"https://arstechnica.com/gadgets/2023/11/researchers-beat-windows-hello-fingerprint-sensors-with-raspberry-pi-and-linux/\">not that good</a>:</p>\n<blockquote><p>Security researchers Jesse D&#8217;Aguanno and Timo Teräs write that, with varying degrees of reverse-engineering and using some external hardware, they were able to fool the Goodix fingerprint sensor in a Dell Inspiron 15, the Synaptic sensor in a Lenovo ThinkPad T14, and the ELAN sensor in one of Microsoft&#8217;s own Surface Pro Type Covers. These are just three laptop models from the wide universe of PCs, but one of these three companies usually does make the fingerprint sensor in every laptop we&#8217;ve reviewed in the last few years. It&#8217;s likely that most Windows PCs with fingerprint readers will be vulnerable to similar exploits...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html",
+          "publishedOn": "2023-11-29T12:09:48.000Z",
+          "wordCount": 915,
+          "title": "Breaking Laptop Fingerprint Sensors",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/11/digital-car-keys-are-coming.html",
           "author": null,
           "description": "<p>Soon we will be able to unlock and start our cars <a href=\"https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard\">from our phones</a>. Let&#8217;s hope people are thinking about security.</p>",
@@ -3980,86 +3990,6 @@
           "wordCount": 1914,
           "title": "Apple’s M3 iMac still starts at $1,299, still doesn’t replace the 27-inch model",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/imac-m3-03-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979685",
-          "author": "Kevin Purdy",
-          "description": "From netbooks and PDAs to ATMs, voting kiosks, and ungainly presidential phones.",
-          "link": "https://arstechnica.com/?p=1979685",
-          "publishedOn": "2023-10-30T21:46:11.000Z",
-          "wordCount": 1834,
-          "title": "Windows CE, Microsoft’s stunted middle child, reaches end of support at 26 years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/windows-ce-grave-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979860",
-          "author": "Dan Goodin",
-          "description": "By some estimates, 20,000 devices have already been hacked.",
-          "link": "https://arstechnica.com/?p=1979860",
-          "publishedOn": "2023-10-30T21:39:07.000Z",
-          "wordCount": 2385,
-          "title": "“This vulnerability is now under mass exploitation.” Citrix Bleed bug bites hard",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979877",
-          "author": "Ashley Belanger",
-          "description": "\"Done correctly,\" default deals \"can make a difference,\" Google CEO testified.",
-          "link": "https://arstechnica.com/?p=1979877",
-          "publishedOn": "2023-10-30T21:11:17.000Z",
-          "wordCount": 1834,
-          "title": "Sundar Pichai explained why Apple gets paid so much more for its default deal",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1754139783-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979840",
-          "author": "Jeanne Timmons",
-          "description": "One \"big wet lizard\" was chewed on by another.",
-          "link": "https://arstechnica.com/?p=1979840",
-          "publishedOn": "2023-10-30T20:54:50.000Z",
-          "wordCount": 2171,
-          "title": "Fossil found on the side of the road is a new species of mosasaur",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/JORGIE-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979825",
-          "author": "Ron Amadeo",
-          "description": "European users are getting the update now, and the US version should come soon.",
-          "link": "https://arstechnica.com/?p=1979825",
-          "publishedOn": "2023-10-30T20:37:48.000Z",
-          "wordCount": 1547,
-          "title": "Samsung ships Android 14 in record time",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/samsung-galaxy-s23-series-1-760x380.webp"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979736",
-          "author": "Scharon Harding",
-          "description": "\"You pay all this money for streaming services…\"",
-          "link": "https://arstechnica.com/?p=1979736",
-          "publishedOn": "2023-10-30T19:05:54.000Z",
-          "wordCount": 1783,
-          "title": "YouTube fumbles NFL Sunday Ticket streaming",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-55850275-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979681",
-          "author": "Eric Berger",
-          "description": "\"It turned out we weren't ready for this.\"",
-          "link": "https://arstechnica.com/?p=1979681",
-          "publishedOn": "2023-10-30T18:44:55.000Z",
-          "wordCount": 1968,
-          "title": "Putin wants to know why Russia can only build 40 satellites a year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1747242039-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1979608",
-          "author": "Chuong Nguyen",
-          "description": "It might still be October, but Black Friday sales are already happening.",
-          "link": "https://arstechnica.com/?p=1979608",
-          "publishedOn": "2023-10-30T18:29:51.000Z",
-          "wordCount": 2934,
-          "title": "Dealmaster: Early Black Friday 2023 deals",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/2022-iPad-back-760x380.jpeg"
         }
       ]
     },
@@ -4194,6 +4124,86 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/among-us-teams-up-with-untitled-goose-game-celeste-and-more-in-new-cosmetic-bundle",
+          "author": "Liv Ngan",
+          "description": "Among Us developer InnerSloth has announced its biggest ever cosmetic collaboration for its social deduction game, featuring crossovers with six beloved indie titles.\nThe Indie Cosmicube is live now, and includes 70 new wearables inspired by Alien Hominid, Castle Crashers, Celeste, Crypt of the NecroDancer, A Hat in Time, Undertale, and Untitled Goose Game.\nSome of the highlights from the new additions include a Sans skin, a pet Goose, and a Peace Was Never An Option nameplate.\n Read more",
+          "link": "https://www.eurogamer.net/among-us-teams-up-with-untitled-goose-game-celeste-and-more-in-new-cosmetic-bundle",
+          "publishedOn": "2023-11-29T12:22:13.000Z",
+          "wordCount": 7539,
+          "title": "Among Us teams up with Untitled Goose Game, Celeste and more in new cosmetic bundle",
+          "imageUrl": "https://assetsio.reedpopcdn.com/indie_promo_169.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/planet-coaster-developer-frontier-refocusing-on-sims-after-low-sales-of-warhammer-rts",
+          "author": "Tom Phillips",
+          "description": "UK developer Frontier has said it will refocus on making simulation games following the launch of real-time strategy game Warhammer Age of Sigmar: Realms of Ruin. \r\n\n\r\nIn a business update, the developer behind Planet Coaster, Planet Zoo and Jurassic World Evolution admitted that Warhammer sales had \"been lower than expected\" since its launch earlier this month, and that it was lowering its revenue forecast for the year. \r\n\n\r\nThe news comes just a month after layoffs at the studio were announced, with an unknown number of people set to leave following an ongoing consultation period.  \r\n \nRead more",
+          "link": "https://www.eurogamer.net/planet-coaster-developer-frontier-refocusing-on-sims-after-low-sales-of-warhammer-rts",
+          "publishedOn": "2023-11-29T11:49:24.000Z",
+          "wordCount": 6958,
+          "title": "Planet Coaster developer Frontier refocusing on sims after low sales of Warhammer RTS",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Warhammer-Age-of-Sigmar_Realms-of-Ruin-Pre-order-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/sonic-dlc-quests-in-monster-hunter-rise-unavailable-from-january-next-year",
+          "author": "Ed Nightingale",
+          "description": "Monster Hunter Rise's Sonic the Hedgehog DLC will no longer be available from January next year.\r\n\n\r\nThe news comes as Capcom ends support for collaboration content for the game, including Sonic the Hedgehog, Universal Studios Japan, and Sengan-en.\r\n\n\r\nThe event quests will be unavailable from midnight UK time on 22nd January 2024 and their rewards will then become unobtainable.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonic-dlc-quests-in-monster-hunter-rise-unavailable-from-january-next-year",
+          "publishedOn": "2023-11-29T11:47:16.000Z",
+          "wordCount": 6822,
+          "title": "Sonic DLC quests in Monster Hunter Rise unavailable from January next year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/sonic-monster-hunter-rise.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/unity-makes-further-job-cuts-as-it-ends-agreement-with-weta-fx",
+          "author": "Ed Nightingale",
+          "description": "Unity is making further cuts to its workforce as it ends an agreement with Weta FX.\r\n\n\r\nThe company will eliminate 265 jobs, or 3.8 percent of its global workforce, as part of a company \"reset\", Reuters reports.\r\n\nUnity acquired part of Weta FX, the digital effects company founded by Lords of the Rings director Peter Jackson, in 2021 for $1.6bn.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/unity-makes-further-job-cuts-as-it-ends-agreement-with-weta-fx",
+          "publishedOn": "2023-11-29T11:25:35.000Z",
+          "wordCount": 6710,
+          "title": "Unity makes further job cuts as it ends agreement with Weta FX",
+          "imageUrl": "https://assetsio.reedpopcdn.com/U_Logo_Black_RGB.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ark-survival-ascended-finally-releases-on-ps5-tomorrow",
+          "author": "Liv Ngan",
+          "description": "Following a string of delays, Ark: Survival Ascended will finally release tomorrow on PlayStation 5.\nThe PC version released in October and the Xbox Series X/S version followed earlier this month, but not without multiple delays.\nDeveloper Studio Wildcard previously delayed the PS5 launch from the end of November to early December, but has now announced Ark: Survival Ascended will be out on 30th November at 9am PT / 4pm GMT.\n Read more",
+          "link": "https://www.eurogamer.net/ark-survival-ascended-finally-releases-on-ps5-tomorrow",
+          "publishedOn": "2023-11-29T11:21:41.000Z",
+          "wordCount": 6816,
+          "title": "Ark: Survival Ascended finally releases on PS5 tomorrow",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_605387fbf8257c111978ed900f3346ef350fc236.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/people-are-now-playing-ubisofts-still-unannounced-beyond-good-evil-20th-anniversary-edition",
+          "author": "Tom Phillips",
+          "description": "Ubisoft is still to officially confirm the Beyond Good & Evil 20th Anniversary Edition, but people are now playing the game after an apparent slip-up saw it briefly available via subscription service Ubisoft+.\r\n\n\r\nScreenshots and gameplay footage have now hit the internet, and show a scrubbed up version of the classic adventure game that players say is now playable in 4K.\r\n\n\r\nEurogamer was able to view 30 minutes of gameplay footage this morning via YouTube, though this has now been taken down by Ubisoft through a copyright claim. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/people-are-now-playing-ubisofts-still-unannounced-beyond-good-evil-20th-anniversary-edition",
+          "publishedOn": "2023-11-29T11:17:26.000Z",
+          "wordCount": 6901,
+          "title": "People are now playing Ubisoft's still-unannounced Beyond Good & Evil 20th Anniversary Edition",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Beyond-Good-%26-Evil-Remaster-is-OUT-NOW_!-%2B-New-Details-(4K60-%26-more!)-1-14-screenshot_Laf3S8u.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-batmans-robert-pattinson-suit-coming-to-arkham-knight-on-nintendo-switch-as-timed-console-exclusive",
+          "author": "Victoria Kennedy",
+          "description": "The suit worn by a certain Robert Pattinson - or Battinson, if you will allow me - in Warner Bros' The Batman film will be available as part of the Arkham Trilogy on Nintendo Switch. \r\n\n\r\nWe briefly got a look at this particular batsuit last month, when players noticed it cropping up prematurely in 2015's Batman: Arkham Knight. \r\n\n\r\nNow, however, the suit is officially set to be part of the games. It will be a timed-exclusive suit launching with the Batman: Arkham Trilogy on Switch. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-batmans-robert-pattinson-suit-coming-to-arkham-knight-on-nintendo-switch-as-timed-console-exclusive",
+          "publishedOn": "2023-11-29T11:10:05.000Z",
+          "wordCount": 7031,
+          "title": "The Batman's Robert Pattinson suit coming to Arkham Knight on Nintendo Switch as timed console exclusive",
+          "imageUrl": "https://assetsio.reedpopcdn.com/battinson.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/uk-comedy-series-taskmaster-is-getting-its-very-own-vr-game",
+          "author": "Ian Higton",
+          "description": "Ian Higton, your task is to write a news post about the announcement of Taskmaster VR. Your time starts... now!\nPopular comedy panel show Taskmaster has joined forces with Scallywag Arcade to bring a virtual reality version of the hit show to VR helmets worldwide.\nLaunching in 2024 for Meta Quest 2 and 3 (the wacky physics-based action is too much for the Quest 1 to handle allegedly), Taskmaster VR will give players the chance to visit the Taskmaster house in order to take part in comical challenges like smashing watermelons or making the Taskmaster a lovely sandwich. \n Read more",
+          "link": "https://www.eurogamer.net/uk-comedy-series-taskmaster-is-getting-its-very-own-vr-game",
+          "publishedOn": "2023-11-29T09:23:57.000Z",
+          "wordCount": 6671,
+          "title": "UK comedy series Taskmaster is getting its very own VR game",
+          "imageUrl": "https://assetsio.reedpopcdn.com/TMVR_Hallway.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/red-dead-redemption-writer-joins-rockstar-co-founders-absurd-ventures-studio",
           "author": "Matt Wales",
@@ -7543,26 +7553,6 @@
           "wordCount": 7096,
           "title": "God of War and Uncharted: Legacy of Thieves collection coming to GOG",
           "imageUrl": "https://assetsio.reedpopcdn.com/ss_3670ba72c7e3e9c3c3225547ef2c1053504e62b8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-pulling-online-services-for-10-older-games-including-assassins-creed-2-on-pc",
-          "author": "Matt Wales",
-          "description": "Ubisoft is \"decommissioning\" online services for a further 10 of its \"older\" titles, with the likes of Assassin's Creed 2, Splinter Cell: Conviction, and Trials Evolution all affected.\r\n\n\r\n\"Decommissioning the online services for older games is something we do not take lightly,\" the publisher wrote in a post on its support site. \"however, it is also a necessity as the technology behind these services becomes outdated.\"\r\n\n\r\nIn total, 10 games will see their online services yanked as of 25th January next year. On PC, Assassin's Creed Revelations, Ghost Recon Future Solider, Heroes of Might and Magic 4, NCSI, RUSE, and Trials Evolution will all be affected. Online services will also be decommissioned for Assassin's Creed 2 and Spinter Cell: Conviction on Xbox 360, Assassin's Creed Liberation HD (Xbox 360 and PS3), plus Assassin's Creed: Brotherhood (Mac).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ubisoft-pulling-online-services-for-10-older-games-including-assassins-creed-2-on-pc",
-          "publishedOn": "2023-10-30T20:25:42.000Z",
-          "wordCount": 6737,
-          "title": "Ubisoft pulling online services for 10 more \"older\" games including Assassin's Creed 2 on PC",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_d3967a58038cc5e59332bb0043ab1ca343112bc6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bungie-reportedly-delays-destiny-2s-final-shape-expansion-and-marathon",
-          "author": "Matt Wales",
-          "description": "Bungie has reportedly told staff it will be delaying next year's planned Destiny 2 expansion The Final Shape, as well as the studio's upcoming Marathon reimagining.\r\n\n\r\nAccording to a report by Bloomberg's Jason Schreier, citing \"people with knowledge of the matter\", Destiny 2's The Final Shape expansion - which is set to conclude the game's Light and Darkness saga - will now launch in June next year. Bungie publicly announced a 27th February 2024 launch for the expansion back in August.\r\n\n\r\nAs for Marathon - a PvP reimagining of Bungie's classic 90s FPS series, which was revealed in May - that has yet to be given an official release date. However, Bloomberg says this has now been moved into 2025, suggesting the studio was previously targeting a launch next year.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bungie-reportedly-delays-destiny-2s-final-shape-expansion-and-marathon",
-          "publishedOn": "2023-10-30T19:35:29.000Z",
-          "wordCount": 6779,
-          "title": "Bungie reportedly delays Destiny 2's Final Shape expansion and Marathon",
-          "imageUrl": "https://assetsio.reedpopcdn.com/2023_Final_Shape_Reveal_PressKit_Supers_Compressed_001.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
