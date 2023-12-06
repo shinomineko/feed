@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T06:25:41.542Z</updated>
+    <updated>2023-12-06T12:28:23.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[15 percent of Baldur's Gate 3 playtime is spent in character creation]]></title>
+        <id>https://www.eurogamer.net/15-percent-of-baldurs-gate-3-playtime-is-spent-in-character-creation</id>
+        <link href="https://www.eurogamer.net/15-percent-of-baldurs-gate-3-playtime-is-spent-in-character-creation"/>
+        <updated>2023-12-06T12:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Larian Studios has released another set of statistics for Baldur's Gate 3 which reveal some illuminating statistics.
+The accumulative playtime across all players is 452,556,984 hours, which is about 51,662 years. By contrast, 8196 of those years were spent in the character creator, accounting for 15.9 percent of all playtime.
+1.3m players have finished the game's campaign at least once since Baldur's Gate 3 first released fully in August. If you're curious like me, you may be wondering what percentage of players this represents. While Larian hasn't specified sales numbers for the game, in August Larian CEO Sven Vincke told Bloomberg it had sold 2.5m copies on Steam during early access.
+ Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumplight Odyssey development paused "indefinitely" as layoffs announced across studio]]></title>
+        <id>https://www.eurogamer.net/jumplight-odyssey-development-paused-indefinitely-as-layoffs-announced-across-studio</id>
+        <link href="https://www.eurogamer.net/jumplight-odyssey-development-paused-indefinitely-as-layoffs-announced-across-studio"/>
+        <updated>2023-12-06T12:09:53.000Z</updated>
+        <summary type="html"><![CDATA[League of Geeks has paused development on Jumplight Odyssey "indefinitely", as the studio cuts 50 percent of its workforce.
+
+
+In a blog update, studio director Trent Kusters called this a "devastating position" for the team to find themselves in. 
+
+
+"Though our commitment to our beloved starship adventure sim is unwavering, rapidly rising operation costs, a worsening AUD/USD exchange rate, poor Early Access sales, and the unprecedented withdrawal of funding opportunities across the industry, have placed us in a position where, as it currently stands, we are unable to sustain the cost of operations through to the release of v1.0, which was planned for Q2 of 2024," Kusters wrote.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avatar: Frontiers of Pandora physical version needs online connection to install]]></title>
+        <id>https://www.eurogamer.net/avatar-frontiers-of-pandora-physical-version-needs-online-connection-to-install</id>
+        <link href="https://www.eurogamer.net/avatar-frontiers-of-pandora-physical-version-needs-online-connection-to-install"/>
+        <updated>2023-12-06T11:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Owners of the disc version of Avatar Froniters of Pandora will need to have an online connection to install the game. 
+
+
+As noted by developer Ubisoft, players will need to install a day one patch, which is "mandatory" to start playing the game. This means a one-time internet connection is required. An internet connection is also required for co-op gameplay. 
+
+Once this patch is installed, however, those looking to head through Avatar: Frontiers of Pandora solo will be able to do so offline.
+ Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Morgan XP-1 is an extremely eccentric English electric vehicle]]></title>
+        <id>https://arstechnica.com/?p=1988941</id>
+        <link href="https://arstechnica.com/?p=1988941"/>
+        <updated>2023-12-06T09:00:33.000Z</updated>
+        <summary type="html"><![CDATA[The three-wheel convertible EV weighs little so should actually be quite efficient.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA says SpaceX’s next Starship flight could test refueling tech]]></title>
         <id>https://arstechnica.com/?p=1988814</id>
@@ -9823,128 +9880,6 @@ Twitter (or X, if you must) integration has long been a part of PlayStation's op
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I cannot wait to possess you”: Reading 18th century letters for the first time]]></title>
-        <id>https://arstechnica.com/?p=1980839</id>
-        <link href="https://arstechnica.com/?p=1980839"/>
-        <updated>2023-11-07T00:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Some things are universal: One sailor's mother chided him for not writing more often.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Introducing sig-etcd]]></title>
-        <id>https://kubernetes.io/blog/2023/11/07/introducing-sig-etcd/</id>
-        <link href="https://kubernetes.io/blog/2023/11/07/introducing-sig-etcd/"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Han Kang (Google), Marek Siarkowicz (Google), Frederico Muñoz (SAS Institute)
-Special Interest Groups (SIGs) are a fundamental part of the Kubernetes project, with a substantial share of the community activity happening within them. When the need arises, new SIGs can be created, and that was precisely what happened recently.
-SIG etcd is the most recent addition to the list of Kubernetes SIGs. In this article we will get to know it a bit better, understand its origins, scope, and plans.
-The critical role of etcd
-If we look inside the control plane of a Kubernetes cluster, we will find etcd, a consistent and highly-available key value store used as Kubernetes' backing store for all cluster data -- this description alone highlights the critical role that etcd plays, and the importanc…]]></summary>
-        <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical vulnerability in Atlassian Confluence server is under “mass exploitation”]]></title>
-        <id>https://arstechnica.com/?p=1981826</id>
-        <link href="https://arstechnica.com/?p=1981826"/>
-        <updated>2023-11-06T23:40:20.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian's senior management is all but begging customers to take immediate action.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermassive black hole found only half a billion years after Big Bang]]></title>
-        <id>https://arstechnica.com/?p=1981795</id>
-        <link href="https://arstechnica.com/?p=1981795"/>
-        <updated>2023-11-06T22:45:51.000Z</updated>
-        <summary type="html"><![CDATA[There just isn't time for something that big to grow from a supernova remnant.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cities: Skylines 2 dev says it won't release paid DLC until performance "fixed to our standards"]]></title>
-        <id>https://www.eurogamer.net/cities-skylines-2-dev-wont-release-paid-dlc-until-performance-fixed-to-our-standards</id>
-        <link href="https://www.eurogamer.net/cities-skylines-2-dev-wont-release-paid-dlc-until-performance-fixed-to-our-standards"/>
-        <updated>2023-11-06T22:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Cities: Skylines 2 studio Colossal Order has pledged not to release paid DLC for its city building sequel until its heavily criticised performance issues have been "fixed to our standards".
-
-
-Performance concerns have, of course, dogged Cities: Skylines 2 even before its release, with Colossal Order and publisher Paradox Interactive taking the unprecedented step of warning potential buyers that it had "not achieved the benchmark we targeted" prior to launch - but then going ahead and releasing it anyway because "releasing now is the best way forward."
-
-
-In the weeks since, Colossal Order has continued to chip away at Cities: Skylines 2's performance issues and bugs (even the ones definitely not related to teeth), and it's now followed-up last week's patch with a new blog detailing some of the changes to come.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toxic toddler fruit pouches: “Extremely high” lead levels sicken 7 in 5 states]]></title>
-        <id>https://arstechnica.com/?p=1981805</id>
-        <link href="https://arstechnica.com/?p=1981805"/>
-        <updated>2023-11-06T22:04:58.000Z</updated>
-        <summary type="html"><![CDATA[Three brands of apple cinnamon fruit pouches have now been recalled.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI introduces GPT-4 Turbo: Larger memory, lower cost, new knowledge]]></title>
-        <id>https://arstechnica.com/?p=1981595</id>
-        <link href="https://arstechnica.com/?p=1981595"/>
-        <updated>2023-11-06T21:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Novel-sized context window, DALL-E 3 API, more announced on OpenAI DevDay 2023.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s “Web Integrity” Android API could kill “alternative” media clients]]></title>
-        <id>https://arstechnica.com/?p=1981663</id>
-        <link href="https://arstechnica.com/?p=1981663"/>
-        <updated>2023-11-06T21:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Web Integrity pivots to Android, could permanently kill YouTube Vanced-style apps.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100+ researchers say they stopped studying X, fearing Elon Musk might sue them]]></title>
-        <id>https://arstechnica.com/?p=1981705</id>
-        <link href="https://arstechnica.com/?p=1981705"/>
-        <updated>2023-11-06T20:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Affected studies were tracking hate speech, child safety, and misinformation.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google ends deal to build 15,000 Bay Area homes due to “market conditions”]]></title>
-        <id>https://arstechnica.com/?p=1981687</id>
-        <link href="https://arstechnica.com/?p=1981687"/>
-        <updated>2023-11-06T19:50:15.000Z</updated>
-        <summary type="html"><![CDATA[15,000-home plan in limbo as Google ends contract with builder after four years.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good news for clumsy divers: Physics holds the key to less-painful belly-flops]]></title>
-        <id>https://arstechnica.com/?p=1981301</id>
-        <link href="https://arstechnica.com/?p=1981301"/>
-        <updated>2023-11-06T19:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Insights could help improve future designs of naval ships, seaplanes, or projectiles.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
         </author>
     </entry>
 </feed>
