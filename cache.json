@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2864/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/compact_graphs.png\" title=\"People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.\" alt=\"People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.\" />",
+          "link": "https://xkcd.com/2864/",
+          "publishedOn": "2023-12-06T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Compact Graphs",
+          "imageUrl": "https://imgs.xkcd.com/comics/compact_graphs_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2863/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/space_typography.png\" title=\"And over heeee[...]eeeere (i)s Saturn.\" alt=\"And over heeee[...]eeeere (i)s Saturn.\" />",
@@ -434,16 +444,6 @@
           "wordCount": 1261,
           "title": "Decoupling for Security",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/11/spaf-on-the-morris-worm.html",
-          "author": null,
-          "description": "<p>Gene Spafford wrote an <a href=\"https://www.cerias.purdue.edu/site/blog/post/reflecting_on_the_internet_worm_at_35/\">essay</a> reflecting on the Morris Worm of 1988&#8212;35 years ago. His lessons from then are still applicable today.</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/11/spaf-on-the-morris-worm.html",
-          "publishedOn": "2023-11-07T12:08:37.000Z",
-          "wordCount": 822,
-          "title": "Spaf on the Morris Worm",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +452,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1989304",
+          "author": "Stephen Clark",
+          "description": "\"I was trying to mentally prepare myself to deal with a crashed capsule in the desert.\"",
+          "link": "https://arstechnica.com/?p=1989304",
+          "publishedOn": "2023-12-06T23:08:03.000Z",
+          "wordCount": 2435,
+          "title": "Crossed wires led to high drama as NASA returned asteroid samples to Earth",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/53210646183_766f758413_k-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989253",
+          "author": "Jon Brodkin",
+          "description": "Fired exec suing Musk says he warned that budget cuts would harm FTC compliance.",
+          "link": "https://arstechnica.com/?p=1989253",
+          "publishedOn": "2023-12-06T22:33:24.000Z",
+          "wordCount": 2224,
+          "title": "Ex-Twitter exec sues Musk, says he was fired for objecting to budget cuts",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-twitter-x-logos-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989028",
+          "author": "Andrew Cunningham",
+          "description": "When it comes to recycling and rebranding old chips, no one's hands are clean.",
+          "link": "https://arstechnica.com/?p=1989028",
+          "publishedOn": "2023-12-06T22:19:17.000Z",
+          "wordCount": 2299,
+          "title": "Intel, of all companies, knocks AMD’s CPU numbering in now-deleted presentation",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/intel-core-truths-02-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989292",
+          "author": "John Timmer",
+          "description": "QuEra gets ready for error correction, runs operations with over 40 logical qubits.",
+          "link": "https://arstechnica.com/?p=1989292",
+          "publishedOn": "2023-12-06T22:05:29.000Z",
+          "wordCount": 2065,
+          "title": "Quantum computer performs error-resistant operations with logical qubits",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/QuEras-optical-layout-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989150",
+          "author": "Benj Edwards",
+          "description": "\"Imagine with Meta AI\" turns prompts into images, trained using public Facebook data.",
+          "link": "https://arstechnica.com/?p=1989150",
+          "publishedOn": "2023-12-06T21:52:14.000Z",
+          "wordCount": 2222,
+          "title": "Meta’s new AI image generator was trained on 1.1 billion Instagram and Facebook photos",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/meta_emu_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989247",
+          "author": "Ashley Belanger",
+          "description": "Anyone who fails to opt out \"will be deemed to have agreed to the new terms.\"",
+          "link": "https://arstechnica.com/?p=1989247",
+          "publishedOn": "2023-12-06T21:20:29.000Z",
+          "wordCount": 2058,
+          "title": "After hack, 23andMe gives users 30 days to opt out of class-action waiver",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1230824302-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989111",
+          "author": "Ron Amadeo",
+          "description": "iMessage isn't popular enough with businesses to force interoperability.",
+          "link": "https://arstechnica.com/?p=1989111",
+          "publishedOn": "2023-12-06T20:47:58.000Z",
+          "wordCount": 1748,
+          "title": "iMessage will reportedly dodge EU regulations, won’t have to open up",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/imessage-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1988445",
+          "author": "Jennifer Ouellette",
+          "description": "\"It turns out you can’t cut corners if you want to achieve excellence.”",
+          "link": "https://arstechnica.com/?p=1988445",
+          "publishedOn": "2023-12-06T20:40:50.000Z",
+          "wordCount": 2250,
+          "title": "Study: Why a spritz of water before grinding coffee yields less waste, tastier espresso",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/coffee2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989054",
+          "author": "Andrew Cunningham",
+          "description": "Improved AI performance is this familiar-looking chip's main innovation.",
+          "link": "https://arstechnica.com/?p=1989054",
+          "publishedOn": "2023-12-06T20:00:19.000Z",
+          "wordCount": 2161,
+          "title": "AMD’s new Ryzen 8040 laptop chips look a lot like the Ryzen 7040 CPUs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ryzen-8040-01-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989147",
+          "author": "Jon Brodkin",
+          "description": "ISPs are scared about the FCC's plan to measure broadband affordability.",
+          "link": "https://arstechnica.com/?p=1989147",
+          "publishedOn": "2023-12-06T18:58:19.000Z",
+          "wordCount": 2169,
+          "title": "Cable lobby to FCC: Please don’t look too closely at the prices we charge",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1989030",
           "author": "Benj Edwards",
@@ -4031,16 +4131,6 @@
           "wordCount": 1588,
           "title": "Waze will now warn drivers about crash dangers using historical data",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Crash-History-Alerts_Still_2096x1182-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1980653",
-          "author": "Samuel Axon",
-          "description": "The listing went down quickly, and Roddenberry's son is trying to track it down.",
-          "link": "https://arstechnica.com/?p=1980653",
-          "publishedOn": "2023-11-07T12:25:08.000Z",
-          "wordCount": 1853,
-          "title": "After decades lost, Star Trek’s original Enterprise model may have been found",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/s-l1600-760x380.jpg"
         }
       ]
     },
@@ -4114,6 +4204,16 @@
       "siteUrl": "https://www.lastweekinaws.com/",
       "articles": [
         {
+          "id": "https://www.lastweekinaws.com/?p=14411",
+          "author": "Corey Quinn",
+          "description": "AWS has been very publicly insecure about the perception that it’s lagging behind in the Generative AI space for the past year. Unfortunately, rather than setting those perceptions to rest, AWS’s GenAI extravaganza at re:Invent 2023 seemed to prove them true.  Of the 22 GenAI-related announcements, half of them are still in preview. Many were […]\nThe post AWS’s (de)Generative AI Blunder appeared first on Last Week in AWS.",
+          "link": "https://www.lastweekinaws.com/blog/aws-degenerative-ai-blunder/",
+          "publishedOn": "2023-12-06T19:00:00.000Z",
+          "wordCount": 3676,
+          "title": "AWS’s (de)Generative AI Blunder",
+          "imageUrl": "https://www.lastweekinaws.com/wp-content/uploads/2023/12/202658306_m_normal_none-scaled.jpg"
+        },
+        {
           "id": "https://www.lastweekinaws.com/?p=14383",
           "author": "Corey Quinn",
           "description": "Let's begin with the tl;dr: At this year's re:Invent, I'm hosting a photo scavenger hunt with significant prizes for \"most items found\" and \"most creative entry.\" Sign up through my webapp at findme.lastweekinaws.com. The rest of this post details how I built this app.\nThe post Generative AI Builds a re:Invent Scavenger Hunt appeared first on Last Week in AWS.",
@@ -4157,6 +4257,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/destiny-2-staff-reportedly-worried-about-bungies-future",
+          "author": "Victoria Kennedy",
+          "description": "Employees at Destiny 2 developer Bungie have said they feel anxious about their current status at the company, following layoffs earlier this year.\r\n\n\r\nAs you may recall, layoffs were first reported at the developer in October. At this time, studio CEO Pete Parsons publicly commented on the cuts, calling it \"a sad day\". Around 100 employees were said to be affected.\r\n\n\r\nNow, in a new report by IGN, many remaining at the company have said the studio is implementing a variety of other cost-cutting measures across the board, in order to remain an independent subsidiary within Sony (which acquired the developer in 2022). There is concern among staff that Bungie may lose its independence within Sony should Destiny 2 fail to meet financial goals.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/destiny-2-staff-reportedly-worried-about-bungies-future",
+          "publishedOn": "2023-12-06T19:37:45.000Z",
+          "wordCount": 7339,
+          "title": "Destiny 2 staff reportedly worried about Bungie's future",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_d230d30da82a7b92c842e7447ee5a8458b866251.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/brothers-a-tale-of-two-sons-remake-looks-to-be-on-the-way",
           "author": "Victoria Kennedy",
@@ -7486,76 +7596,6 @@
           "wordCount": 6798,
           "title": "Stranger Things returns to Dead by Daylight",
           "imageUrl": "https://assetsio.reedpopcdn.com/stranger-things-dbd.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/square-enix-profits-drop-despite-final-fantasy-16-sales-boost",
-          "author": "Ed Nightingale",
-          "description": "Square Enix has reported a drop in profits, despite a boost from sales of its most recent Final Fantasy games. However, 2024 is likely to be a stronger year by comparison.\r\n\n\r\nAccording to its latest financial report from April to September 2023, company operating income has dropped by 33 percent and ordinary income by 42 percent.\r\n\n\r\nThat's despite an increase in sales for its HD Games, owing to the releases of Final Fantasy 16 and the Final Fantasy Pixel Remasters.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/square-enix-profits-drop-despite-final-fantasy-16-sales-boost",
-          "publishedOn": "2023-11-07T12:13:59.000Z",
-          "wordCount": 7029,
-          "title": "Square Enix profits drop, despite Final Fantasy 16 sales boost",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Final-Fantasy-XVI---Revenge-Trailer-_-PS5-Games-0-45-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/baldurs-gate-3-fans-find-evidence-of-permadeath-difficulty-with-only-one-save-file",
-          "author": "Liv Ngan",
-          "description": "Baldur's Gate 3 looks set to receive a new difficulty mode which will restrict players to one save file and permadeath.\nA new achievement for the game called Foehammer, which references an Honour mode, has been spotted on the GOG launcher and shared on the game's subreddit. Fans of developer Larian Studios have recognised Honour mode from its previous appearances in Divinity: Original Sin Enhanced Edition and Divinity: Original Sin 2. \nIn the Divinity games, Honour mode only allows players one save, regardless of whether it was a manual, auto, or quick save. Permadeath is enabled, and if the player's entire party dies the save is erased. That's all on top of the extra difficulty added by Tactician mode, the second most difficult option after Honour mode.  \n Read more",
-          "link": "https://www.eurogamer.net/baldurs-gate-3-fans-find-evidence-of-permadeath-difficulty-with-only-one-save-file",
-          "publishedOn": "2023-11-07T11:51:49.000Z",
-          "wordCount": 6932,
-          "title": "Baldur's Gate 3 fans find evidence of permadeath difficulty with only one save file",
-          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Astarion.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/you-can-finally-switch-off-assassins-creed-mirages-chromatic-aberration",
-          "author": "Tom Phillips",
-          "description": "Ubisoft has finally allowed you to explore Assassin's Creed Mirage without its chromatic aberration visual effect permanently switched on. \r\n\n\r\nAn update for Mirage launches today for PC, PlayStation and Xbox which adds a toggle for the visual effect. There had been numerous fan complaints that it was simply too distracting, and many requests for it to be switched off or toned down.\r\n\n\r\nYou can download the update (version 1.0.5) from 1pm UK time and try the option for yourself. Download sizes for the update range from around 3 to 5GB, depending on platform.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/you-can-finally-switch-off-assassins-creed-mirages-chromatic-aberration",
-          "publishedOn": "2023-11-07T11:39:46.000Z",
-          "wordCount": 6782,
-          "title": "You can finally switch off Assassin's Creed Mirage's chromatic aberration",
-          "imageUrl": "https://assetsio.reedpopcdn.com/wp12300525.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-finals-open-beta-welcomed-a-whopping-75m-players-to-the-fray",
-          "author": "Victoria Kennedy",
-          "description": "The open beta for The Finals - the upcoming destruction-heavy PvP FPS from Ex-EA and DICE exec Patrick Söderlund's Embark Studios - is now over, and it seems to have been remarkably successful.\r\n\n\r\nFollowing its conclusion, Embark announced that a whopping 7.5 million players joined the beta to battle it out among the masses.\r\n\n\r\n\"It's been a thrilling week for the entire team, one that we'll never forget. We're utterly dazzled by your kindness, openness, and excitement throughout the entire Open Beta period,\" it wrote in a blog post over on Steam. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-finals-open-beta-welcomed-a-whopping-75m-players-to-the-fray",
-          "publishedOn": "2023-11-07T11:36:54.000Z",
-          "wordCount": 6785,
-          "title": "The Finals open beta welcomed a whopping 7.5m players to the fray",
-          "imageUrl": "https://assetsio.reedpopcdn.com/finals_AhaUgOR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/former-dragon-age-testers-to-picket-bioware-today-on-mass-effects-n7-day",
-          "author": "Tom Phillips",
-          "description": "A group of former BioWare testers plan to protest outside the company's Edmonton headquarters today, after being laid off from contract studio Keywords last month.\r\n\n\r\nThe group has chosen today - 7th November - as it is BioWare's N7 Day, an annual celebration of the developer's Mass Effect franchise.\r\n\n\r\n13 former testers were employed by Keywords Studios but seconded to BioWare to work on 2021's brilliant Mass Effect Legendary Edition trilogy remaster. This group then worked on the upcoming Dragon Age Dreadwolf - before a dispute erupted over their continuing ability to work remotely. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/former-dragon-age-testers-to-picket-bioware-today-on-mass-effects-n7-day",
-          "publishedOn": "2023-11-07T11:28:22.000Z",
-          "wordCount": 6928,
-          "title": "Former Dragon Age testers to picket BioWare today, on Mass Effect's N7 Day",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_rNN3qDX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/epic-games-store-still-hasnt-turned-a-profit",
-          "author": "Victoria Kennedy",
-          "description": "The Epic Games Store still isn't profitable.\r\n\n\r\nThat's according to Epic Games Store boss Steve Allison, who was speaking during a court hearing on Monday. \r\n\n\r\nAs reported by The Verge, the exec was talking during the current Epic vs Google court case. Here, Allison said while the Epic Games Store still isn't profitable, the company's focus remains on \"growth\". Additionally, according to emails shared during the trial, Epic had hoped to claim half of all gaming revenue for PC games.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/epic-games-store-still-hasnt-turned-a-profit",
-          "publishedOn": "2023-11-07T10:56:56.000Z",
-          "wordCount": 6923,
-          "title": "Epic Games Store still hasn't turned a profit",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Sam-Lake-in-Alan-Wake-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/switch-sales-pass-132m-as-nintendo-stays-silent-on-successor",
-          "author": "Ed Nightingale",
-          "description": "Nintendo's Switch console has now passed 132m units sold, but the company is remaining silent on its successor.\r\n\n\r\nAccording to Nintendo's latest report detailing sales over the last financial quarter, Switch sales are still going strong. Unit sales for the Switch family of consoles rose 2.4 percent year-on-year, with the OLED model the most popular. A further 4.69m Switch OLEDs were sold, as clearly players are willing to spend extra on the improved screen, or to simply upgrade from the older model.\r\n\n\r\nOn a conference call after the earnings release, Nintendo president Shuntaro Furukawa refused to comment on plans for a Switch successor, despite rumours of a 2024 release.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/switch-sales-pass-132m-as-nintendo-stays-silent-on-successor",
-          "publishedOn": "2023-11-07T10:48:22.000Z",
-          "wordCount": 6953,
-          "title": "Switch sales pass 132m as Nintendo stays silent on successor",
-          "imageUrl": "https://assetsio.reedpopcdn.com/pikmin4_43J8PZC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
