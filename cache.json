@@ -124,16 +124,6 @@
           "wordCount": 189,
           "title": "Redshift",
           "imageUrl": "https://imgs.xkcd.com/comics/redshift_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2852/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/parameterball.png\" title=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" alt=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" />",
-          "link": "https://xkcd.com/2852/",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Parameterball",
-          "imageUrl": "https://imgs.xkcd.com/comics/parameterball_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html",
+          "author": null,
+          "description": "<p>When you get a push notification on your Apple or Google phone, those notifications go through Apple and Google servers. Which means that those companies can spy on them&#8212;either for their own reasons or in response to government demands.</p>\n<p>Sen. Wyden is trying to <a href=\"https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/\">get to the bottom of this</a>:</p>\n<blockquote><p>In a statement, Apple said that Wyden&#8217;s letter gave them the opening they needed to share more details with the public about how governments monitored push notifications.</p>\n<p>&#8220;In this case, the federal government prohibited us from sharing any information,&#8221; the company said in a statement. &#8220;Now that this method has become public we are updating our transparency reporting to detail these kinds of requests.&#8221;...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html",
+          "publishedOn": "2023-12-07T12:02:07.000Z",
+          "wordCount": 1085,
+          "title": "Spying through Push Notifications",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2023/12/security-analysis-of-a-thirteenth-century-venetian-election-protocol.html",
           "author": null,
@@ -3971,76 +3971,6 @@
           "wordCount": 1646,
           "title": "Daily Telescope: Lucy continues to surprise astronomers with its first flyby",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/double-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982175",
-          "author": "Kevin Purdy",
-          "description": "Maze Runner director, Jurassic World writer, and no release date yet.",
-          "link": "https://arstechnica.com/?p=1982175",
-          "publishedOn": "2023-11-07T23:26:11.000Z",
-          "wordCount": 1592,
-          "title": "The Legend of Zelda is getting a live-action film from Nintendo and Sony",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/zelda_movie-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982152",
-          "author": "Kyle Orland",
-          "description": "Automated language/vision models help evaluate player reports, Gamerpic uploads, and more.",
-          "link": "https://arstechnica.com/?p=1982152",
-          "publishedOn": "2023-11-07T22:40:26.000Z",
-          "wordCount": 2198,
-          "title": "Xbox moderation team turns to AI for help filtering a flood of user content",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2013/07/xbox-trolls-640x215.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982067",
-          "author": "Ron Amadeo",
-          "description": "Chamberlain packed its app with ads while disabling third-party access.",
-          "link": "https://arstechnica.com/?p=1982067",
-          "publishedOn": "2023-11-07T22:12:50.000Z",
-          "wordCount": 2104,
-          "title": "Chamberlain blocks smart garage door opener from working with smart homes",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/2019myQ-LM-Ware233-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982106",
-          "author": "Ashley Belanger",
-          "description": "Judge: Data broker’s motion to sanction FTC “long on hyperbole, short on facts.”",
-          "link": "https://arstechnica.com/?p=1982106",
-          "publishedOn": "2023-11-07T20:59:00.000Z",
-          "wordCount": 1976,
-          "title": "Data broker’s “staggering” sale of sensitive info exposed in unsealed FTC filing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1386415170-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982026",
-          "author": "Kevin Purdy",
-          "description": "It's an improvement, but not like the notable gains of previous \"slim\" models.",
-          "link": "https://arstechnica.com/?p=1982026",
-          "publishedOn": "2023-11-07T19:06:39.000Z",
-          "wordCount": 1879,
-          "title": "PS5 “Slim” teardowns suggest same chip, not much shrinking, but nifty disc drive",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-07-at-1.41.02 PM-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982019",
-          "author": "Ron Amadeo",
-          "description": "Google's \"solution\" can't do anything for bootlooping devices.",
-          "link": "https://arstechnica.com/?p=1982019",
-          "publishedOn": "2023-11-07T18:37:09.000Z",
-          "wordCount": 1960,
-          "title": "Android 14’s storage disaster gets patched, but your data might be gone",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2013/04/android-rage-out-640x215.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982034",
-          "author": "Jon Brodkin",
-          "description": "Bell claims it will cut fiber spending by $1 billion in protest of CRTC ruling.",
-          "link": "https://arstechnica.com/?p=1982034",
-          "publishedOn": "2023-11-07T18:27:13.000Z",
-          "wordCount": 1812,
-          "title": "After big drop in ISP competition, Canada mandates fiber-network sharing",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-760x380.jpg"
         }
       ]
     },
@@ -4151,6 +4081,16 @@
       "siteUrl": "https://alpinelinux.org/atom.xml",
       "articles": [
         {
+          "id": "https://alpinelinux.org/posts/Alpine-3.19.0-released.html",
+          "author": null,
+          "description": "Alpine 3.19.0 released",
+          "link": "https://alpinelinux.org/posts/Alpine-3.19.0-released.html",
+          "publishedOn": "2023-12-07T00:00:00.000Z",
+          "wordCount": 905,
+          "title": "Alpine 3.19.0 released",
+          "imageUrl": null
+        },
+        {
           "id": "https://alpinelinux.org/posts/Alpine-3.15.11-3.16.8-3.17.6-3.18.5-released.html",
           "author": null,
           "description": "Alpine 3.15.11, 3.16.8, 3.17.6 and 3.18.5 released",
@@ -4167,6 +4107,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/vampire-survivors-announces-among-us-dlc-collaboration",
+          "author": "Liv Ngan",
+          "description": "The Among Us beans are infiltrating Vampire Survivors in a new Emergency Meeting DLC out on 18th December for PC and Xbox.\nVampire Survivors developer poncle announced the collaboration DLC with fellow indie developer Innersloth yesterday along with a trailer showing off what it adds.\nEmergency Meeting contains nine characters, 15 weapons, a new Among Us -inspired stage, 20 in-game unlocks, and the ability to see the future, according to poncle. Take a look at the trailer below.\n Read more",
+          "link": "https://www.eurogamer.net/vampire-survivors-announces-among-us-dlc-collaboration",
+          "publishedOn": "2023-12-07T12:00:34.000Z",
+          "wordCount": 6864,
+          "title": "Vampire Survivors announces Among Us DLC collaboration",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Vampire-Survivors_-Emergency-Meeting-DLC-feat.-Among-Us---Coming-18th-December-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/jack-black-dons-bowser-outfit-to-remix-super-mario-bros-movie-hit-peaches-on-tiktok",
+          "author": "Victoria Kennedy",
+          "description": "I have said it before and I will say it again, Jack Black is the gift that keeps on giving. \r\n\n\r\nIn the performer's latest TikTok video, Black has once again dressed up as Bowser, whom he voiced for the Super Mario Bros. Movie. That in itself is enough to make me smile anyway, but there is more. \r\n\n\r\nYou see, he has also taken this opportunity to serenade us with a catchy remix of the film's hit song, Peaches. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/jack-black-dons-bowser-outfit-to-remix-super-mario-bros-movie-hit-peaches-on-tiktok",
+          "publishedOn": "2023-12-07T11:49:58.000Z",
+          "wordCount": 7042,
+          "title": "Jack Black dons Bowser outfit to remix Super Mario Bros Movie hit Peaches on TikTok",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Jack-Black-Peaches.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/heres-everything-from-day-of-the-devs-game-awards-indie-showcase",
           "author": "Matt Wales",
@@ -7406,36 +7366,6 @@
           "wordCount": 6715,
           "title": "GTA 6 announcement imminent, report suggests",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_u30ZNGB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-is-working-on-a-live-action-the-legend-of-zelda-movie",
-          "author": "Matt Wales",
-          "description": "Still doubtless beaming from the runaway success of this year's Super Mario Bros. movie, Shigeru Miyamoto has confirmed a live-action The Legend of Zelda movie is in the works.\r\n\n\r\nDetails are sparse at present, but Miyamoto, announcing the news on Nintendo Japan's Twitter/X account, said the project has already been in development for \"many years now\". As per an accompanying press release, Miyamoto will produce the movie - which is being co-financed by Nintendo and Sony Pictures Entertainment (Sony will also handle worldwide theatrical distribution) - with Avi Arad, responsible for \"many hit films\", also producing.\r\n\n\r\nArad's films, if you're wondering, are primarily (but not exclusively) within the superhero genre, ranging from this year's acclaimed Spider-Man: Across the Spider-Verse and its celebrated 2018 predecessor, to 2022's Tom-Holland-starring Uncharted adaptation, as well as the likes of Venom, Morbius, the live-action Ghost in the Shell, and next year's Borderlands movie.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-is-working-on-a-live-action-the-legend-of-zelda-movie",
-          "publishedOn": "2023-11-07T22:45:53.000Z",
-          "wordCount": 6905,
-          "title": "Nintendo is working on a live-action The Legend of Zelda movie",
-          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-tears-of-the-kingdom-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/night-in-the-woods-co-creators-revenant-hill-cancelled-amid-serious-health-issues",
-          "author": "Matt Wales",
-          "description": "Revenant Hill, the next game from Night in the Woods co-creators Bethany Hockenberry and Scott Benson and the first project from their new studio The Glory Society, has been cancelled amid \"serious health issues\" impacting several members of the team.\r\n\n\r\nRevenant Hill was officially unveiled back in May, teasing an adventure, set in the year 1919, that would follow Twigs the cat's attempts to make ends meet after an \"owl from the next hill\" began demanding she pay rent on her wet log near an abandoned graveyard.\r\n\n\r\nThere were hints of systems reminiscent of farming sims, with crops to be grown and a community to be built as the seasons passed, albeit with a cast of witches, demons, and ghosts, and more serious considerations on its mind. \"Times are hard,\" The Glory Society wrote at the time, \"Something big and dark is at work in the towns, the factories, in the forests and hills. At some point, someone is going to have to push back. And they can't do it alone.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/night-in-the-woods-co-creators-revenant-hill-cancelled-amid-serious-health-issues",
-          "publishedOn": "2023-11-07T21:28:06.000Z",
-          "wordCount": 6957,
-          "title": "Night in the Woods co-creators' Revenant Hill cancelled amid \"serious health issues\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/revenant-hill-art.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/anime-streaming-service-crunchyroll-adding-mobile-games-to-its-subscriptions",
-          "author": "Matt Wales",
-          "description": "Crunchyroll, the popular Sony-owned anime streaming service, is doing a Netflix and offering mobile games as part of its subscriptions starting today, 7th November.\r\n\n\r\nGame Vault, as the new offering is officially known, is only available Crunchyroll members who subscribe to the streaming service's Mega Fan or Ultimate Fan tiers. The former costs £5.99/$9.99 USD a month, while the latter is a US-only addition, priced at $14.99 USD.\r\n\n\r\nAlongside their existing subscription benefits - which currently includes ad-free streaming of anime, simulcast shows, digital manga, and offline viewing - eligible members will gain access to a growing library of downloadable mobile games, albeit initially only available on Android (via the Google Play store), but with iOS support coming \"soon\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/anime-streaming-service-crunchyroll-adding-mobile-games-to-its-subscriptions",
-          "publishedOn": "2023-11-07T19:36:29.000Z",
-          "wordCount": 6635,
-          "title": "Anime streaming service Crunchyroll adding mobile games to its subscriptions",
-          "imageUrl": "https://assetsio.reedpopcdn.com/crunchyroll-is-now-available-on-switch-today-1645122435250.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
