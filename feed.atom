@@ -2,10 +2,219 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T12:28:19.249Z</updated>
+    <updated>2023-12-14T18:25:32.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.29: Cloud Provider Integrations Are Now Separate Components]]></title>
+        <id>https://kubernetes.io/blog/2023/12/14/cloud-provider-integration-changes/</id>
+        <link href="https://kubernetes.io/blog/2023/12/14/cloud-provider-integration-changes/"/>
+        <updated>2023-12-14T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Michael McCune (Red Hat), Andrew Sy Kim (Google)
+For Kubernetes v1.29, you need to use additional components to integrate your
+Kubernetes cluster with a cloud infrastructure provider. By default, Kubernetes
+v1.29 components abort if you try to specify integration with any cloud provider using
+one of the legacy compiled-in cloud provider integrations. If you want to use a legacy
+integration, you have to opt back in - and a future release will remove even that option.
+In 2018, the Kubernetes community agreed to form the Cloud Provider Special
+Interest Group (SIG), with a mission to externalize all cloud provider
+integrations and remove all the existing in-tree cloud provider integrations.
+In January 2019, the Kubernetes community approved the initial draft of
+KEP-2395: Removing In-T…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes, some cats like to play fetch. It’s science!]]></title>
+        <id>https://arstechnica.com/?p=1990305</id>
+        <link href="https://arstechnica.com/?p=1990305"/>
+        <updated>2023-12-14T16:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Cats play fetch longer, with more retrievals, when they initiate the game.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surveillance Cameras Disguised as Clothes Hooks]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/12/surveillance-cameras-disguised-as-clothes-hooks.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/12/surveillance-cameras-disguised-as-clothes-hooks.html"/>
+        <updated>2023-12-14T16:23:52.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.bbc.com/news/technology-67652317">This</a> seems like a bad idea. And there are ongoing lawsuits against Amazon for selling them.</p>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix developing over 10 games in-house currently]]></title>
+        <id>https://www.eurogamer.net/netflix-developing-over-10-games-in-house-currently</id>
+        <link href="https://www.eurogamer.net/netflix-developing-over-10-games-in-house-currently"/>
+        <updated>2023-12-14T16:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Netflix head of gaming Mike Verdu has revealed the company has more than 10 games in development at its in-house studios.
+Netflix formed its own studios in Helsinki and California last year, and acquired four other studios, including Oxenfree developer Night School Studio and Cozy Grove developer Spry Fox.
+Verdu said the six studios are working on over 10 games in an interview with Axios, and stated Netflix has a total of 90 games in development through deals with external teams.  
+ Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kojima Productions announces partnership with A24 for Death Stranding movie]]></title>
+        <id>https://www.eurogamer.net/kojima-productions-announces-partnership-with-a24-for-death-stranding-movie</id>
+        <link href="https://www.eurogamer.net/kojima-productions-announces-partnership-with-a24-for-death-stranding-movie"/>
+        <updated>2023-12-14T16:15:09.000Z</updated>
+        <summary type="html"><![CDATA[A24 has partnered with Kojima Productions to bring the live-action Death Stranding film to life. 
+
+
+The American film and TV production company is known for its surreal work, making it a good fit for Kojima (in my opinion). It also acts as a distributor for films, with titles such as the Oscar winning Everything Everywhere All At Once and the brilliant (also in my opinion) Ex Machina included in its library. 
+
+
+"A24 was born into this world about 10 years ago, their presence is singular within the industry, they are like no other. The films they are delivering to the world are high in quality and very innovative," Death Stranding creator Hideo Kojima said following the announcement. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: Donate to win swag in our annual Charity Drive sweepstakes]]></title>
+        <id>https://arstechnica.com/?p=1991113</id>
+        <link href="https://arstechnica.com/?p=1991113"/>
+        <updated>2023-12-14T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Add to a charity haul that's already raised over $17,000 in just a few weeks.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom’s creators reminisce about “as close to a perfect game as anything we made”]]></title>
+        <id>https://arstechnica.com/?p=1991059</id>
+        <link href="https://arstechnica.com/?p=1991059"/>
+        <updated>2023-12-14T15:47:50.000Z</updated>
+        <summary type="html"><![CDATA[In 30th anniversary stream, Carmack and Romero recall a game dev "perfect storm."]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Internet video purportedly shows a tornado being blown up. Is that possible?]]></title>
+        <id>https://arstechnica.com/?p=1991064</id>
+        <link href="https://arstechnica.com/?p=1991064"/>
+        <updated>2023-12-14T15:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Seriously, in a theoretical world without risk to lives or property, could you do it?]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel intros first Meteor Lake chips with faster GPUs and worse single-core speed]]></title>
+        <id>https://arstechnica.com/?p=1989886</id>
+        <link href="https://arstechnica.com/?p=1989886"/>
+        <updated>2023-12-14T15:00:43.000Z</updated>
+        <summary type="html"><![CDATA[They're Intel's first CPUs with a neural processing unit for on-device AI tasks.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerWash Simulator Christmas update out now]]></title>
+        <id>https://www.eurogamer.net/powerwash-simulator-christmas-update-out-now</id>
+        <link href="https://www.eurogamer.net/powerwash-simulator-christmas-update-out-now"/>
+        <updated>2023-12-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FuturLab has announced the next free update for PowerWash Simulator is a new map of Santa's Workshop, and it's out now on PC, PlayStation 4 and 5, Xbox One, and Xbox Series X.
+The update was listed in FuturLab's 2023 roadmap for the game all the way back in April and was simply described as "free seasonal content".
+Santa's Workshop is covered in muck, soot, and ice cream, and contains over 500 dings, fellow PowerWash aficionados will be happy to hear, which FuturLab notes is more than any other level in the game.
+ Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Rockstar dev explains GTA6's missing PC release, calls it a matter of priorities]]></title>
+        <id>https://www.eurogamer.net/former-rockstar-dev-explains-gta6s-missing-pc-release-calls-it-a-matter-of-priorities</id>
+        <link href="https://www.eurogamer.net/former-rockstar-dev-explains-gta6s-missing-pc-release-calls-it-a-matter-of-priorities"/>
+        <updated>2023-12-14T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Former Rockstar developer Mike York has explained why GTA 6 isn't releasing on PC at launch. 
+
+
+After years of waiting, Rockstar gave us our first slice of GTA 6 last week with a new trailer. Soon after, the studio confirmed the game will release sometime in 2025 on both Xbox Series X/S and PlayStation 5. At the time of writing, there is no word on a PC release window.
+
+
+According to York, who worked on the likes of GTA 5 and Red Dead Redemption 2 during his time at Rockstar, a PC port of a big AAA games takes longer to come out than console because a studio has to "prioritise what sells". 
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cadillac announces fourth new electric SUV due in 2026 : The Vistiq]]></title>
+        <id>https://arstechnica.com/?p=1991048</id>
+        <link href="https://arstechnica.com/?p=1991048"/>
+        <updated>2023-12-14T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[The news follows last month's reveal of the entry-level Cadillac Optiq EV.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling vulnerability management across thousands of services and more than 150 million findings]]></title>
+        <id>https://github.blog/?p=75802</id>
+        <link href="https://github.blog/2023-12-14-scaling-vulnerability-management-across-thousands-of-services-and-more-than-150-million-findings/"/>
+        <updated>2023-12-14T14:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Learn about how we run a scalable vulnerability management program built on top of GitHub. 
+The post Scaling vulnerability management across thousands of services and more than 150 million findings appeared first on The GitHub Blog.]]></summary>
+        <author>
+            <name>Stephan Miehe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Telescope: How small can the smallest star be?]]></title>
+        <id>https://arstechnica.com/?p=1990921</id>
+        <link href="https://arstechnica.com/?p=1990921"/>
+        <updated>2023-12-14T13:00:58.000Z</updated>
+        <summary type="html"><![CDATA[So tiny you can barely see it.]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Mania Plus coming to Netflix mobile app]]></title>
+        <id>https://www.eurogamer.net/sonic-mania-plus-coming-to-netflix-mobile-app</id>
+        <link href="https://www.eurogamer.net/sonic-mania-plus-coming-to-netflix-mobile-app"/>
+        <updated>2023-12-14T13:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Sonic Mania Plus is heading to mobile via the Netflix app next year.
+
+
+Netflix made the announcement yesterday in a blog post recapping the games released in 2023 and looking ahead to 2024.
+
+
+Sonic Mania Plus was released in 2018 across consoles and PC as an expanded version of Sonic Mania, the much-loved game developed by Sonic fan Christian Whitehead and published by Sega.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Day Before controversies continue as former employee says it was never an MMO]]></title>
+        <id>https://www.eurogamer.net/the-day-before-controversies-continue-as-former-employee-says-it-was-never-an-mmo</id>
+        <link href="https://www.eurogamer.net/the-day-before-controversies-continue-as-former-employee-says-it-was-never-an-mmo"/>
+        <updated>2023-12-14T12:48:30.000Z</updated>
+        <summary type="html"><![CDATA[The strange situation that is The Day Before keeps getting stranger. 
+
+
+Following the news that developer Fntastic was closing down with immediate effect, a former employee has shed more insight onto the studio and The Day Before's development. 
+
+
+Speaking with DualShockers, the anonymous source said The Day Before was never intended to be an MMO, despite its marketing stating otherwise. It was actually meant to be inspired by "a mix of Rust, DayZ and Escape from Tarkov," they said.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Larian CEO acknowledges Wizards of the Coasts layoffs in belated The Game Awards speech]]></title>
         <id>https://www.eurogamer.net/larian-ceo-acknowledges-wizards-of-the-coasts-layoffs-in-belated-the-game-awards-speech</id>
@@ -17,6 +226,16 @@ Yesterday, Vincke posted a thread on X (née Twitter) with all the thanks he had
  Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve used a foldable laptop for a month, and I’m ready to return to a clamshell]]></title>
+        <id>https://arstechnica.com/?p=1978971</id>
+        <link href="https://arstechnica.com/?p=1978971"/>
+        <updated>2023-12-14T12:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Foldable PCs unite superior portablility with distinctive design challenges.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -9734,24 +9953,6 @@ In a statement to Videogames.si, which first reported the layoffs, Humble confir
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ark: Survival Ascended's Xbox Series X/S release gets last-minute delay]]></title>
-        <id>https://www.eurogamer.net/ark-survival-ascendeds-xbox-series-xs-release-gets-last-minute-delay</id>
-        <link href="https://www.eurogamer.net/ark-survival-ascendeds-xbox-series-xs-release-gets-last-minute-delay"/>
-        <updated>2023-11-15T00:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Ark: Survival Ascended - Studio Wildcard's controversial Unreal Engine 5 spruce-up of its dinosaur-themed survival game - will no longer launch for Xbox Series X/S on 15th November as originally announced, with the developer now hoping to release the game "later this week".
-
-
-Ark: Survival Ascended is no stranger to delays, of course; the full-price upgrade - which is mandatory for players wishing to continue using Wildcard's official servers - was originally due to launch in August but was delayed to October after Wildcard admitted it "found it challenging working with Unreal Engine 5.2".
-
-
-October did eventually see the release of Ark: Survival Ascended on PC (albeit with a heap of performance problems), but its arrival was accompanied by a further delay for Xbox Series X/S and PlayStation 5, with both versions being pushed back to an unspecified point in "November". Wildcard finally slapped the Xbox version with a 15th November release date last week (the PS5 edition remains TBA), but that's now slipped again too.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
