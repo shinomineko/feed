@@ -424,16 +424,6 @@
           "wordCount": 969,
           "title": "Leaving Authentication Credentials in Public Code",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html",
-          "author": null,
-          "description": "<p>This is <a href=\"https://arstechnica.com/security/2023/11/hackers-can-steal-ssh-cryptographic-keys-in-new-cutting-edge-attack/\">interesting</a>:</p>\n<blockquote><p>For the first time, researchers have demonstrated that a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise when naturally occurring computational errors occur while the connection is being established.</p>\n<p>[&#8230;]</p>\n<p>The vulnerability occurs when there are errors during the signature generation that takes place when a client and server are establishing a connection. It affects only keys using the RSA cryptographic algorithm, which the researchers found in roughly a third of the SSH signatures they examined. That translates to roughly 1 billion signatures out of the 3.2 billion signatures examined. Of the roughly 1 billion RSA signatures, about one in a million exposed the private key of the host...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html",
-          "publishedOn": "2023-11-15T17:51:52.000Z",
-          "wordCount": 1051,
-          "title": "New SSH Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -442,6 +432,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1991004",
+          "author": "Ars Contributors",
+          "description": "The Turing test focuses on the ability to chat—can we test the ability to think?",
+          "link": "https://arstechnica.com/?p=1991004",
+          "publishedOn": "2023-12-15T00:16:24.000Z",
+          "wordCount": 2038,
+          "title": "If AI is making the Turing test obsolete, what might be better?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-147461191-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1991289",
           "author": "Jon Brodkin",
@@ -4151,66 +4151,6 @@
           "wordCount": 1983,
           "title": "Space companies say ASAT tests threaten economic development",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1198473504-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1983996",
-          "author": "Benj Edwards",
-          "description": "Several new policies aim to tackle realistic synthetic media head-on.",
-          "link": "https://arstechnica.com/?p=1983996",
-          "publishedOn": "2023-11-15T17:24:20.000Z",
-          "wordCount": 1984,
-          "title": "YouTube cracks down on synthetic media with AI disclosure requirement",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fake_video_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1984049",
-          "author": "Jon Brodkin",
-          "description": "\"We had an account issue that led us to falsely flag your account as fraud.\"",
-          "link": "https://arstechnica.com/?p=1984049",
-          "publishedOn": "2023-11-15T17:09:52.000Z",
-          "wordCount": 1885,
-          "title": "Starlink’s overzealous fraud detection locked users out of their accounts",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starlink-dish-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1983804",
-          "author": "Andrew Cunningham",
-          "description": "Beginner-friendly RPG is true to the original, but with new graphics and sound.",
-          "link": "https://arstechnica.com/?p=1983804",
-          "publishedOn": "2023-11-15T14:55:03.000Z",
-          "wordCount": 1945,
-          "title": "Review: Switch’s Super Mario RPG remake updates one of the SNES’s weird gems",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/SuperMarioRPG_scrn_27-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1983992",
-          "author": "WIRED",
-          "description": "Folks with hereditary high cholesterol would be able avoid lifelong medication.",
-          "link": "https://arstechnica.com/?p=1983992",
-          "publishedOn": "2023-11-15T14:37:34.000Z",
-          "wordCount": 2094,
-          "title": "Crispr gene editing shown to permanently lower high cholesterol",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/artery-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1981256",
-          "author": "Chuong Nguyen",
-          "description": "Bid farewell to phone cases and screen protectors, and say hello to these powerful tools.",
-          "link": "https://arstechnica.com/?p=1981256",
-          "publishedOn": "2023-11-15T14:00:25.000Z",
-          "wordCount": 4377,
-          "title": "Guidemaster: The most interesting, odd smartphone accessories we could find",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/smartphone-gadget-juggling-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1983803",
-          "author": "Eric Berger",
-          "description": "\"I showed it this way because I have seen way too many sci-fi movies.\"",
-          "link": "https://arstechnica.com/?p=1983803",
-          "publishedOn": "2023-11-15T13:00:25.000Z",
-          "wordCount": 1596,
-          "title": "Daily Telescope: Is that a seahorse or something more sinister in the sky?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/b150-760x380.jpg"
         }
       ]
     },
@@ -4377,6 +4317,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-online-officially-cancelled-by-naughty-dog",
+          "author": "Matt Wales",
+          "description": "Following reports that development on Naughty Dog's long-awaited The Last of Us multiplayer game had been \"slowed down\" earlier this year, the studio has announced it's officially pulling the plug on the project, saying it didn't want to become a \"solely live service games studio\".\r\n\n\r\nNaughty Dog's multiplayer game was initially planned to be part of The Last of Us Part 2, but the studio announced it was separating the two halves in 2019. After years of relative silence on its progress, studio co-head Neil Druckmann emerged in January to confirm more would be revealed \"later this year\" - but instead, May brought the news the project needed \"more time\".\r\n\n\r\nShortly after, a report from Bloomberg's Jason Schreier claimed Destiny developer Bungie - which had been individually assessing many of Sony's \"games as a service\" projects since being acquired by the company - had raised concerns about The Last of Us multiplayer's \"ability to keep players engaged for a long period of time\", resulting in Sony scaling back the team to just a \"small group\" while it evaluated the project's direction.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-last-of-us-online-officially-cancelled-by-naughty-dog",
+          "publishedOn": "2023-12-15T01:01:42.000Z",
+          "wordCount": 7220,
+          "title": "The Last of Us multiplayer project officially cancelled by Naughty Dog",
+          "imageUrl": "https://assetsio.reedpopcdn.com/digitalfoundry-2020-the-last-of-us-part-2-first-impressions-1591023675454.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/netflix-developing-over-10-games-in-house-currently",
           "author": "Liv Ngan",
@@ -7536,66 +7486,6 @@
           "wordCount": 6708,
           "title": "Baldur's Gate 3's Xbox release date will be announced at The Game Awards",
           "imageUrl": "https://assetsio.reedpopcdn.com/baldursgate3_laezel_.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-plus-lineup-for-november-includes-day-one-release-teardown",
-          "author": "Victoria Kennedy",
-          "description": "Sony has released its PlayStation Plus lineup for November.\r\n\n\r\nPlayStation Plus Extra and Premium subscribers will be able to get their hands on sandbox heist game Teardown (PS5) from today, 15th November. This is a day one release for those on Sony's Extra and Premium tiers.\r\n\nYou can see a little trailer for Teardown in the video below. \n Read more",
-          "link": "https://www.eurogamer.net/playstation-plus-lineup-for-november-includes-day-one-release-teardown",
-          "publishedOn": "2023-11-15T16:57:16.000Z",
-          "wordCount": 6878,
-          "title": "PlayStation Plus lineup for November includes day one release Teardown",
-          "imageUrl": "https://assetsio.reedpopcdn.com/PS-Plus-nov.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/lewis-hamilton-and-his-vegan-bulldog-roscoe-are-coming-to-fortnite",
-          "author": "Matt Wales",
-          "description": "Fortnite, which is currently riding high on the nostalgia of a generation pining for the good old days of five years ago, is extending its Icons line of cosmetics this Friday, 17th November, with the arrival of celebrated F1 driver Lewis Hamilton and his bulldog Roscoe.\r\n\n\r\nHamilton joins a steadily growing number of noted sports stars and celebrities to be turned into Fortnite skins as part of the Icons series, including Naomi Osaka, Chloe Kim, LeBron James, Neymar Jr., Ariana Grande, Bruno Mars, and Marshmello.\r\n\n\r\nNews of Hamilton's imminent Fortnite debut was accompanied by a trailer featuring the F1 star wandering around (for some reason) a hall of mirrors then launching himself at a vaguely cat-like superhero outfit before plunging into the world of Fortnite - whereupon the outfit had magically wrapped itself around Hamilton's digital frame.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/lewis-hamilton-and-his-vegan-bulldog-roscoe-are-coming-to-fortnite",
-          "publishedOn": "2023-11-15T16:55:24.000Z",
-          "wordCount": 6960,
-          "title": "Lewis Hamilton and his vegan bulldog Roscoe are coming to Fortnite",
-          "imageUrl": "https://assetsio.reedpopcdn.com/fortnite-lewis-hamilton-skin.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/alan-wake-2s-herald-of-darkness-aka-this-years-best-video-game-song-just-got-an-official-music-video",
-          "author": "Victoria Kennedy",
-          "description": "If you have played through Alan Wake 2, you will by no doubt be well aware of its musical number. In fact, even if you haven't played it, you may also be aware of this particular moment. It has become quite popular online.\r\n\n\r\nBefore I go further though, if you have no idea what I am talking about and want to keep as much of Alan Wake 2 a surprise, please head elsewhere now. I do not want to spoil this moment for you. \r\n\n\r\nOK, so, for those of you who are still with me, I am of course talking about Herald of Darkness by Old Gods of Asgard (AKA Poets of the Fall). It is an absolute tune, and honestly, for me, this song is the best part of Alan Wake 2 (so far at least, I am still not quite finished).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/alan-wake-2s-herald-of-darkness-aka-this-years-best-video-game-song-just-got-an-official-music-video",
-          "publishedOn": "2023-11-15T16:04:41.000Z",
-          "wordCount": 7071,
-          "title": "Alan Wake 2's Herald of Darkness, AKA this year's best video game song, just got an official music video",
-          "imageUrl": "https://assetsio.reedpopcdn.com/alan-wake-2-oh-deer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/theres-an-official-witcher-3-wild-hunt-mod-editor-in-the-works-for-pc",
-          "author": "Victoria Kennedy",
-          "description": "The Witcher 3 team has announced a PC mod editor is in the works for Wild Hunt. \r\n\n\r\nAccording to the official Witcher social media account, this editor will allow users to create their own experiences in the game \"by making something completely new or editing existing quests and content\". \r\n\n\r\nThe team said the mod editor will release some time next year, but did not state any timeframe. It did, however, say when it does release it will be free. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/theres-an-official-witcher-3-wild-hunt-mod-editor-in-the-works-for-pc",
-          "publishedOn": "2023-11-15T14:16:46.000Z",
-          "wordCount": 7132,
-          "title": "There's an official Witcher 3: Wild Hunt mod editor in the works for PC",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F--dtxEXgAAeP53.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/more-people-are-playing-skyrim-on-steam-than-starfield",
-          "author": "Victoria Kennedy",
-          "description": "Starfield released a little over two months ago on PC and Xbox. However, despite a strong start which saw Starfield become the \"biggest Bethesda game launch\" of all time, things have tailed off a bit now. In fact, there are currently more people playing Bethesda's earlier RPG, Skyrim, over on Steam. \r\n\n\r\nAt the time of writing, there are currently 1610 Steam users playing through 2011's Skyrim release, and 13,776 playing 2016's Special Edition release. That makes a total of 15,386 Skyrimmers at the present time. \r\n\n\r\nBoth releases combined have a 24-hour player peak of 25,181. If we pop in the VR players as well, that number is higher still.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/more-people-are-playing-skyrim-on-steam-than-starfield",
-          "publishedOn": "2023-11-15T13:19:59.000Z",
-          "wordCount": 7278,
-          "title": "More people are playing Skyrim on Steam than Starfield",
-          "imageUrl": "https://assetsio.reedpopcdn.com/andreja-in-starfield.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/grounded-free-on-steam-until-tomorrow",
-          "author": "Ed Nightingale",
-          "description": "Grounded is currently available to play for free on Steam, at least until tomorrow.\r\n\n\r\nThe offer ends on 16th November, 5pm UK time.\r\n\n\r\nThis is to celebrate the game's new Make It or Break It update that allows players to create their own backyard playgrounds.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/grounded-free-on-steam-until-tomorrow",
-          "publishedOn": "2023-11-15T12:40:13.000Z",
-          "wordCount": 6788,
-          "title": "Grounded free on Steam until tomorrow",
-          "imageUrl": "https://assetsio.reedpopcdn.com/102023_Grounded1.3_HERO_0001-c3c62798f706c3a862a7.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
