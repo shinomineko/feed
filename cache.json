@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-underwater-sculptures-use-squid-ink-for-coloring.html",
+          "author": null,
+          "description": "<p>The Molinière Underwater Sculpture Park has <a href=\"https://www.smithsonianmag.com/smart-news/see-the-new-underwater-sculptures-on-caribbean-seafloor-180983359/\">pieces</a> that are colored in part with squid ink.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-underwater-sculptures-use-squid-ink-for-coloring.html",
+          "publishedOn": "2023-12-15T22:06:30.000Z",
+          "wordCount": 880,
+          "title": "Friday Squid Blogging: Underwater Sculptures Use Squid Ink for Coloring",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/12/a-robot-the-size-of-the-world.html",
           "author": null,
           "description": "<p>In 2016, I wrote about an Internet that affected the world in a direct, physical manner. It was connected to your smartphone. It had sensors like cameras and thermostats. It had actuators: Drones, autonomous cars. And it had smarts in the middle, using sensor data to figure out what to do and then actually do it. This was the Internet of Things (IoT).</p>\n<p>The classical definition of a robot is something that senses, thinks, and acts&#8212;that&#8217;s today&#8217;s Internet. We&#8217;ve been building a world-sized robot without even realizing it.</p>\n<p>In 2023, we upgraded the &#8220;thinking&#8221; part with large-language models (LLMs) like GPT. ChatGPT both surprised and amazed the world with its ability to understand human language and generate credible, on-topic, humanlike responses. But what these are really good at is interacting with systems formerly designed for humans. Their accuracy will get better, and they will be used to replace actual humans...</p>",
@@ -434,16 +444,6 @@
           "wordCount": 984,
           "title": "FTC’s Voice Cloning Challenge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/11/leaving-authentication-credentials-in-public-code.html",
-          "author": null,
-          "description": "<p>Seth Godin wrote an <a href=\"https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/\">article</a> about a surprisingly common vulnerability: programmers leaving authentication credentials and other secrets in publicly accessible software code:</p>\n<blockquote><p>Researchers from security firm GitGuardian this week <a href=\"https://blog.gitguardian.com/uncovering-thousands-of-unique-secrets-in-pypi-packages/\">reported</a> finding almost 4,000 unique secrets stashed inside a total of 450,000 projects submitted to PyPI, the official code repository for the Python programming language. Nearly 3,000 projects contained at least one unique secret. Many secrets were leaked more than once, bringing the total number of exposed secrets to almost 57,000...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/11/leaving-authentication-credentials-in-public-code.html",
-          "publishedOn": "2023-11-16T12:10:04.000Z",
-          "wordCount": 969,
-          "title": "Leaving Authentication Credentials in Public Code",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +452,76 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1991469",
+          "author": "Scharon Harding",
+          "description": "\"Real-time\" listening claims were exaggerated, but the creepy factor remains.",
+          "link": "https://arstechnica.com/?p=1991469",
+          "publishedOn": "2023-12-15T23:44:25.000Z",
+          "wordCount": 2043,
+          "title": "Marketer sparks panic with claims it uses smart devices to eavesdrop on people",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1211458398-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991507",
+          "author": "Ron Amadeo",
+          "description": "What will happen to the Google Assistant when the new AI assistant comes out?",
+          "link": "https://arstechnica.com/?p=1991507",
+          "publishedOn": "2023-12-15T21:58:23.000Z",
+          "wordCount": 2059,
+          "title": "The Pixel 9 might come with exclusive “Pixie” AI assistant",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991506",
+          "author": "Jonathan M. Gitlin",
+          "description": "Tesla's website confirms the tax credit for the electric sedan is going away.",
+          "link": "https://arstechnica.com/?p=1991506",
+          "publishedOn": "2023-12-15T20:35:31.000Z",
+          "wordCount": 1681,
+          "title": "Tesla Model 3 may lose $7,500 tax credit in 2024 under new battery rules",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/Tesla-Model-3-1-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1990394",
+          "author": "Jennifer Ouellette",
+          "description": "Rembrandt may have used lead-rich oil to prep his canvas and protect it from humidity.",
+          "link": "https://arstechnica.com/?p=1990394",
+          "publishedOn": "2023-12-15T19:00:32.000Z",
+          "wordCount": 2327,
+          "title": "X-ray imaging of The Night Watch reveals previously unknown lead layer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/nightwatch5CROP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991450",
+          "author": "Ashley Belanger",
+          "description": "TikTok may be seeking to avoid increasingly high costs of mass arbitration.",
+          "link": "https://arstechnica.com/?p=1991450",
+          "publishedOn": "2023-12-15T18:57:28.000Z",
+          "wordCount": 2083,
+          "title": "TikTok requires users to “forever waive” rights to sue over past harms",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1829288177-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991415",
+          "author": "Jon Brodkin",
+          "description": "Musk has to testify for SEC probe into whether he violated US securities laws.",
+          "link": "https://arstechnica.com/?p=1991415",
+          "publishedOn": "2023-12-15T17:35:42.000Z",
+          "wordCount": 2036,
+          "title": "Judge rejects Elon Musk’s attempt to avoid testifying in Twitter stock probe",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-rejected-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991255",
+          "author": "John Timmer",
+          "description": "A very fast and foldable e-bike with brake lights, directionals, and a horn.",
+          "link": "https://arstechnica.com/?p=1991255",
+          "publishedOn": "2023-12-15T17:28:29.000Z",
+          "wordCount": 2155,
+          "title": "With the Heybike Ranger S, the S stands for scooter",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IMG_1306-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1991279",
           "author": "Kyle Orland",
@@ -4071,16 +4141,6 @@
           "wordCount": 1901,
           "title": "The Trek FX+ 2 e-bike is a jack-of-all-trades",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fx2list-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1972468",
-          "author": "Benj Edwards",
-          "description": "AI image synthesis is getting more capable at executing ideas, and it's not slowing down.",
-          "link": "https://arstechnica.com/?p=1972468",
-          "publishedOn": "2023-11-16T12:20:03.000Z",
-          "wordCount": 2205,
-          "title": "From toy to tool: DALL-E 3 is a wake-up call for visual artists—and the rest of us",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/dalle3_composite_hero_5-760x380.jpg"
         }
       ]
     },
@@ -4227,6 +4287,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/shadow-gambit-the-cursed-crew-gets-mod-support-in-surprise-final-update",
+          "author": "Matt Wales",
+          "description": "Shadow Gambit: The Cursed Crew is one of the year's best releases as far as I'm concerned, but its arrival was bittersweet, given developer Mimimi Games announced it was shutting up shop shortly after. Since then, the team has wrapped up work on two final DLC drops introducing new characters, islands, and more - but it turns out that wasn't quite everything it had in store: in a surprise final update, Mimimi has now launched an expansive \"modding tool\" for PC.\r\n\n\r\nShadow Gambit launched back in August, and saw Mimimi revisiting its beloved stealth-tactics genre - which it'd already bought to life with impressive flair in Shadow Tactics: Blades of the Shogun and Desperatdos 3 - with an instantly appealing pirate fantasy twist. The result, as I wrote in my four star review was a blend of \"raucous, high seas adventure and cerebral, slow-paced stealth\" that proved to be a \"joyous mastery of a very particular form\".\r\n\n\r\nShortly after its release, Mimimi announced Shadow Gambit would be the studio's last project, as its \"increasingly ambitious games\" had taken a \"heavy personal toll on us and our families\". Two final DLC releases for Shadow Gambit were to bring the studio's activities to a close, but it's now surprised fans with a \"very final parting gift\": an expansive \"modding tool\" designed to enable players to create their own custom mods.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/shadow-gambit-the-cursed-crew-gets-mod-support-in-surprise-final-update",
+          "publishedOn": "2023-12-15T22:36:05.000Z",
+          "wordCount": 7186,
+          "title": "Shadow Gambit: The Cursed Crew gets mod support in surprise final update",
+          "imageUrl": "https://assetsio.reedpopcdn.com/shadow-gambit-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/valves-festive-treat-for-thousands-more-dota-2-cheaters-is-a-lump-of-coal-and-a-permanent-ban",
+          "author": "Matt Wales",
+          "description": "Valve's making a list, and checking it twice; it's gonna find out who's naughty and nice. And if you happen to be on its Naughty List - which pretty much applies to any one of the \"thousands\" of DOTA 2 players now identified as being dirty, filthy cheaters - you can expect a cheerfully gift-wrapped lump of toxic coal and a permanent ban in your stocking as your festive treat for 2023.\r\n\n\r\nDOTA 2's annual Frostivus celebrations are now officially underway, meaning everyone on Valve's Nice List - as per its Frostivus 2023 update announcement - can look forward to various festive treats and quality of life improvements. It's less of a jolly holiday for those who've been placed on Valve's Naughty List, however: King Kringle is now doing the rounds with his ban hammer to \"pulverise the smurf accounts of all the naughty boys and girls, before handing out penalties to their associated main accounts.\"\r\n\n\r\nFollowing Valve's brutal culling of over 90,000 smurf accounts back in September, the company says it's \"continued to invest in player behaviour monitoring\" and will be handing out still punishments for smurf accounts and other \"questionable choices\", including \"bad actors...playing like jerks, ruining games and losing behaviour score because of it, then hiring behaviour score farmers to drive it back up.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/valves-festive-treat-for-thousands-more-dota-2-cheaters-is-a-lump-of-coal-and-a-permanent-ban",
+          "publishedOn": "2023-12-15T21:18:02.000Z",
+          "wordCount": 7165,
+          "title": "Valve's festive treat for \"thousands\" more DOTA 2 cheaters is a lump of coal and a permanent ban",
+          "imageUrl": "https://assetsio.reedpopcdn.com/dota-2-lump-of-coal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/elden-rings-shadow-of-the-erdree-out-in-february-partner-leak-suggests",
           "author": "Matt Wales",
@@ -7456,46 +7536,6 @@
           "wordCount": 6807,
           "title": "Sega accused of threatening unionised workers with layoffs, says report",
           "imageUrl": "https://assetsio.reedpopcdn.com/Sonic-Dream-Team---Announce-Trailer-0-23-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ark-survival-ascendeds-xbox-series-xs-release-gets-another-last-minute-delay",
-          "author": "Victoria Kennedy",
-          "description": "Ark: Survival Ascended Xbox Series X/S release has been delayed again.\r\n\n\r\nStudio Wildcard's souped-up version of its dinosaur survival game was meant to launch on Microsoft's consoles earlier this week, having previously been expected in August. However, it was delayed at the final hour to an unspecified date, with the studio simply saying it would be released at some point \"this week\". At this time, Studio Wildcard said it would update us with a release date before then. \r\n\n\r\nIt has now issued an update but rather than saying \"hazaar, it is finally here\", the studio has instead announced another delay. Again, the studio has not put an exact date on when Xbox Series X/S players can expect to see Ark: Survival Ascended arrive on consoles. It has simply said it is now \"targeting\" a release sometime early next week. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/ark-survival-ascendeds-xbox-series-xs-release-gets-another-last-minute-delay",
-          "publishedOn": "2023-11-16T11:59:45.000Z",
-          "wordCount": 6964,
-          "title": "Ark: Survival Ascended's Xbox Series X/S release gets another last-minute delay",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_b3f20fcdde1cd0254fca51b342b27bff3d46e031.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/embracer-confirms-900-employees-laid-off-in-previous-financial-quarter",
-          "author": "Ed Nightingale",
-          "description": "Embracer co-founder and CEO Lars Wingefors has confirmed 900 employees were laid off in the past financial quarter, representing five percent of the workforce.\r\n\n\r\nThe company is in the midst of a \"comprehensive restructuring programme\" it announced in June to close studios and cut jobs, to transform the company into \"a leaner, stronger, more focused and cash self-sufficient company\".\r\n\r\n\n\r\nIn the company's latest financial report, Wingefors provided an update on restructuring progress, acknowledging the company's \"first ever quarter-over-quarter reduction in headcount\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/embracer-confirms-900-employees-laid-off-in-previous-financial-quarter",
-          "publishedOn": "2023-11-16T11:27:07.000Z",
-          "wordCount": 6984,
-          "title": "Embracer confirms 900 employees laid off in previous financial quarter",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_UYCrHVp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/assassins-creed-mirage-getting-new-game-plus-mode-as-part-of-free-december-update",
-          "author": "Victoria Kennedy",
-          "description": "For those looking to spend more time with Assassin's Creed Mirage's Basim as he hops and knives his way through Baghdad, I have good news. There is a New Game Plus mode coming as part of a free update.\r\n\n\r\nIn addition, developer Ubisoft is also going to introduce an optional permadeath mode to the game. This new challenge will be available across all difficulty levels, the studio has said. \r\n\n\r\nOther than that, details are still quite thin on the ground. The Mirage team is yet to go into more about what either new mode will actually involve, but we do know that it will all be coming next month. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/assassins-creed-mirage-getting-new-game-plus-mode-as-part-of-free-december-update",
-          "publishedOn": "2023-11-16T11:15:48.000Z",
-          "wordCount": 7082,
-          "title": "Assassin's Creed Mirage getting New Game Plus mode as part of free December update",
-          "imageUrl": "https://assetsio.reedpopcdn.com/assassin-s-creed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/fortnite-og-adds-voice-reporting-as-classic-island-brings-back-snow",
-          "author": "Tom Phillips",
-          "description": "Fortnite has added the ability to submit voice recordings when reporting players for violations of the game's community rules, which cover instances of abusive or inappropriate behaviour.\r\n\n\r\nEpic Games' voice reporting system works by recording the last five minutes of game chat audio on a rolling basis, saved to your local device (your PC or game console). Reports of inappropriate behaviour can now include that audio so Epic can hear evidence for itself and swiftly bring down the banhammer.\r\n\n\r\nA detailed technical blog lays out how Epic has come up with a series of policies over when it stores any data you choose to upload, and when voice reporting will be enabled (you can switch it off, but only if you're over 18 and playing in parties with friends with similar settings). \r\n \nRead more",
-          "link": "https://www.eurogamer.net/fortnite-og-adds-voice-reporting-as-classic-island-brings-back-snow",
-          "publishedOn": "2023-11-16T10:00:00.000Z",
-          "wordCount": 6938,
-          "title": "Fortnite OG adds voice reporting, as classic Island brings back snow",
-          "imageUrl": "https://assetsio.reedpopcdn.com/meteor-in-fortnite-og-1920x1080-471035471900.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
