@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T18:24:25.379Z</updated>
+    <updated>2023-12-18T00:30:49.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.29: New (alpha) Feature, Load Balancer IP Mode for Services]]></title>
+        <id>https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/</id>
+        <link href="https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Aohan Yang
+This blog introduces a new alpha feature in Kubernetes 1.29.
+It provides a configurable approach to define how Service implementations,
+exemplified in this blog by kube-proxy,
+handle traffic from pods to the Service, within the cluster.
+Background
+In older Kubernetes releases, the kube-proxy would intercept traffic that was destined for the IP
+address associated with a Service of type: LoadBalancer. This happened whatever mode you used
+for kube-proxy.
+The interception implemented the expected behavior (traffic eventually reaching the expected
+endpoints behind the Service). The mechanism to make that work depended on the mode for kube-proxy;
+on Linux, kube-proxy in iptables mode would redirecting packets directly to the endpoint; in ipvs mode,
+kube-proxy would configure t…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.29: Single Pod Access Mode for PersistentVolumes Graduates to Stable]]></title>
+        <id>https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/</id>
+        <link href="https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Chris Henzie (Google)
+With the release of Kubernetes v1.29, the ReadWriteOncePod volume access mode
+has graduated to general availability: it's part of Kubernetes' stable API. In
+this blog post, I'll take a closer look at this access mode and what it does.
+What is ReadWriteOncePod?
+ReadWriteOncePod is an access mode for
+PersistentVolumes (PVs)
+and PersistentVolumeClaims (PVCs)
+introduced in Kubernetes v1.22. This access mode enables you to restrict volume
+access to a single pod in the cluster, ensuring that only one pod can write to
+the volume at a time. This can be particularly useful for stateful workloads
+that require single-writer access to storage.
+For more context on access modes and how ReadWriteOncePod works read
+What are access modes and why are they important?
+in the Intr…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fans think this rare Japanese TV video may be the only known footage of Luigi in Super Mario 64]]></title>
         <id>https://www.eurogamer.net/fans-think-this-rare-japanese-tv-video-may-be-the-only-known-footage-of-luigi-in-super-mario-64</id>
@@ -9312,54 +9358,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[As a layer is printed, an optical scan IDs flaws and corrects them in the next layer.]]></summary>
         <author>
             <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[280 million e-bikes are slashing oil demand far more than electric vehicles]]></title>
-        <id>https://arstechnica.com/?p=1984926</id>
-        <link href="https://arstechnica.com/?p=1984926"/>
-        <updated>2023-11-18T12:09:16.000Z</updated>
-        <summary type="html"><![CDATA[E-bikes and scooters displace 4x as much demand for oil as all of the EVs in the world.]]></summary>
-        <author>
-            <name>The Conversation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lotus Eletre R is a 900-horsepower SUV that weirdly slays the competition]]></title>
-        <id>https://arstechnica.com/?p=1984701</id>
-        <link href="https://arstechnica.com/?p=1984701"/>
-        <updated>2023-11-18T11:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Lotus is ready to sell you a super EV SUV. What is it, and can it be a winner?]]></summary>
-        <author>
-            <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last of Us Part 2 is getting a PlayStation 5 remaster in January]]></title>
-        <id>https://www.eurogamer.net/the-last-of-us-part-2-is-getting-a-playstation-5-remaster-in-january</id>
-        <link href="https://www.eurogamer.net/the-last-of-us-part-2-is-getting-a-playstation-5-remaster-in-january"/>
-        <updated>2023-11-18T09:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Following a swirl of reports earlier this year suggesting a new version of The Last of Us Part 2 was in the works, Naughty Dog has confirmed a remaster of its survival horror sequel - promising "technological improvements, new modes, and new behind-the-scenes features" - will launch for PlayStation 5 on 19th January 2024.
-
-
-The Last of Us composer Gustavo Santaolalla made comments about "new editions" of The Last of Us Part 2 in July, and a Naughty Dog developer referenced a "remastered" version on LinkedIn in October. A recent PlayStation databse sighting all but gave the game away, but now it's official, with Naughty Dog sharing the news in a post on the PlayStation Blog.
-
-
-The Last of Us Part 2 Remastered is a native PlayStation 5 version of the 2020 PS4 original promising various visual enhancements, including increased level-of-detail distances, improved shadow quality, better animation sampling rates, and more. It'll feature two graphics modes - Fidelity and Performance, running at 4K and 1440p upscaled to 4K respectively - as well as an unlocked framerate option for VRR TVs. 
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five things to watch for when Starship takes off Saturday morning]]></title>
-        <id>https://arstechnica.com/?p=1985143</id>
-        <link href="https://arstechnica.com/?p=1985143"/>
-        <updated>2023-11-18T08:59:39.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX's giant Starship rocket is poised to head for space from South Texas.]]></summary>
-        <author>
-            <name>Stephen Clark</name>
         </author>
     </entry>
 </feed>

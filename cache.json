@@ -3751,36 +3751,6 @@
           "wordCount": 2243,
           "title": "Scientists 3D print a robotic hand with human-like bones and tendons",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/image-2-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1984926",
-          "author": "The Conversation",
-          "description": "E-bikes and scooters displace 4x as much demand for oil as all of the EVs in the world.",
-          "link": "https://arstechnica.com/?p=1984926",
-          "publishedOn": "2023-11-18T12:09:16.000Z",
-          "wordCount": 2269,
-          "title": "280 million e-bikes are slashing oil demand far more than electric vehicles",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/e-bike-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1984701",
-          "author": "Ars Contributors",
-          "description": "Lotus is ready to sell you a super EV SUV. What is it, and can it be a winner?",
-          "link": "https://arstechnica.com/?p=1984701",
-          "publishedOn": "2023-11-18T11:30:15.000Z",
-          "wordCount": 1790,
-          "title": "Lotus Eletre R is a 900-horsepower SUV that weirdly slays the competition",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_0618-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1985143",
-          "author": "Stephen Clark",
-          "description": "SpaceX's giant Starship rocket is poised to head for space from South Texas.",
-          "link": "https://arstechnica.com/?p=1985143",
-          "publishedOn": "2023-11-18T08:59:39.000Z",
-          "wordCount": 3337,
-          "title": "Five things to watch for when Starship takes off Saturday morning",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3608-760x380.jpg"
         }
       ]
     },
@@ -3806,6 +3776,26 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/",
+          "author": null,
+          "description": "Author: Aohan Yang\nThis blog introduces a new alpha feature in Kubernetes 1.29.\nIt provides a configurable approach to define how Service implementations,\nexemplified in this blog by kube-proxy,\nhandle traffic from pods to the Service, within the cluster.\nBackground\nIn older Kubernetes releases, the kube-proxy would intercept traffic that was destined for the IP\naddress associated with a Service of type: LoadBalancer. This happened whatever mode you used\nfor kube-proxy.\nThe interception implemented the expected behavior (traffic eventually reaching the expected\nendpoints behind the Service). The mechanism to make that work depended on the mode for kube-proxy;\non Linux, kube-proxy in iptables mode would redirecting packets directly to the endpoint; in ipvs mode,\nkube-proxy would configure t…",
+          "link": "https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/",
+          "publishedOn": "2023-12-18T00:00:00.000Z",
+          "wordCount": 4355,
+          "title": "Blog: Kubernetes 1.29: New (alpha) Feature, Load Balancer IP Mode for Services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/",
+          "author": null,
+          "description": "Author: Chris Henzie (Google)\nWith the release of Kubernetes v1.29, the ReadWriteOncePod volume access mode\nhas graduated to general availability: it's part of Kubernetes' stable API. In\nthis blog post, I'll take a closer look at this access mode and what it does.\nWhat is ReadWriteOncePod?\nReadWriteOncePod is an access mode for\nPersistentVolumes (PVs)\nand PersistentVolumeClaims (PVCs)\nintroduced in Kubernetes v1.22. This access mode enables you to restrict volume\naccess to a single pod in the cluster, ensuring that only one pod can write to\nthe volume at a time. This can be particularly useful for stateful workloads\nthat require single-writer access to storage.\nFor more context on access modes and how ReadWriteOncePod works read\nWhat are access modes and why are they important?\nin the Intr…",
+          "link": "https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/",
+          "publishedOn": "2023-12-18T00:00:00.000Z",
+          "wordCount": 4062,
+          "title": "Blog: Kubernetes 1.29: Single Pod Access Mode for PersistentVolumes Graduates to Stable",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/12/15/csi-node-expand-secret-support-ga/",
           "author": null,
@@ -7066,16 +7056,6 @@
           "wordCount": 7035,
           "title": "Try before you buy with a new Immortals of Aveum demo",
           "imageUrl": "https://assetsio.reedpopcdn.com/Immortals-of-Aveum-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-part-2-is-getting-a-playstation-5-remaster-in-january",
-          "author": "Matt Wales",
-          "description": "Following a swirl of reports earlier this year suggesting a new version of The Last of Us Part 2 was in the works, Naughty Dog has confirmed a remaster of its survival horror sequel - promising \"technological improvements, new modes, and new behind-the-scenes features\" - will launch for PlayStation 5 on 19th January 2024.\r\n\n\r\nThe Last of Us composer Gustavo Santaolalla made comments about \"new editions\" of The Last of Us Part 2 in July, and a Naughty Dog developer referenced a \"remastered\" version on LinkedIn in October. A recent PlayStation databse sighting all but gave the game away, but now it's official, with Naughty Dog sharing the news in a post on the PlayStation Blog.\r\n\n\r\nThe Last of Us Part 2 Remastered is a native PlayStation 5 version of the 2020 PS4 original promising various visual enhancements, including increased level-of-detail distances, improved shadow quality, better animation sampling rates, and more. It'll feature two graphics modes - Fidelity and Performance, running at 4K and 1440p upscaled to 4K respectively - as well as an unlocked framerate option for VRR TVs. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-last-of-us-part-2-is-getting-a-playstation-5-remaster-in-january",
-          "publishedOn": "2023-11-18T09:35:31.000Z",
-          "wordCount": 7111,
-          "title": "The Last of Us Part 2 is getting a PlayStation 5 remaster in January",
-          "imageUrl": "https://assetsio.reedpopcdn.com/the-last-of-us-part-2-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },

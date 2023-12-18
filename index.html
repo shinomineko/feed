@@ -83,6 +83,98 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-18 datetime="2023-12-18T00:00:00.000Z">2023-12-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-18 datetime="2023-12-18T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.29: New (alpha) Feature, Load Balancer IP Mode for Services</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Aohan Yang
+This blog introduces a new alpha feature in Kubernetes 1.29.
+It provides a configurable approach to define how Service implementations,
+exemplified in this blog by kube-proxy,
+handle traffic from pods to the Service, within the cluster.
+Background
+In older Kubernetes releases, the kube-proxy would intercept traffic that was destined for the IP
+address associated with a Service of type: LoadBalancer. This happened whatever mode you used
+for kube-proxy.
+The interception implemented the expected behavior (traffic eventually reaching the expected
+endpoints behind the Service). The mechanism to make that work depended on the mode for kube-proxy;
+on Linux, kube-proxy in iptables mode would redirecting packets directly to the endpoint; in ipvs mode,
+kube-proxy would configure t…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.29: Single Pod Access Mode for PersistentVolumes Graduates to Stable</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Chris Henzie (Google)
+With the release of Kubernetes v1.29, the ReadWriteOncePod volume access mode
+has graduated to general availability: it&#x27;s part of Kubernetes&#x27; stable API. In
+this blog post, I&#x27;ll take a closer look at this access mode and what it does.
+What is ReadWriteOncePod?
+ReadWriteOncePod is an access mode for
+PersistentVolumes (PVs)
+and PersistentVolumeClaims (PVCs)
+introduced in Kubernetes v1.22. This access mode enables you to restrict volume
+access to a single pod in the cluster, ensuring that only one pod can write to
+the volume at a time. This can be particularly useful for stateful workloads
+that require single-writer access to storage.
+For more context on access modes and how ReadWriteOncePod works read
+What are access modes and why are they important?
+in the Intr…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-17 datetime="2023-12-17T16:10:48.000Z">2023-12-17</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-17 datetime="2023-12-17T16:10:48.000Z"></time>
           </button>
@@ -18390,34 +18482,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/the-last-of-us-part-2-is-getting-a-playstation-5-remaster-in-january"
-                        open
-                      >
-                        <summary class="article-expander__title">The Last of Us Part 2 is getting a PlayStation 5 remaster in January</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/the-last-of-us-part-2-is-getting-a-playstation-5-remaster-in-january">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/the-last-of-us-part-2-screen-crop.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Following a swirl of reports earlier this year suggesting a new version of The Last of Us Part 2 was in the works, Naughty Dog has confirmed a remaster of its survival horror sequel - promising &quot;technological improvements, new modes, and new behind-the-scenes features&quot; - will launch for PlayStation 5 on 19th January 2024.
-
-
-The Last of Us composer Gustavo Santaolalla made comments about &quot;new editions&quot; of The Last of Us Part 2 in July, and a Naughty Dog developer referenced a &quot;remastered&quot; version on LinkedIn in October. A recent PlayStation databse sighting all but gave the game away, but now it&#x27;s official, with Naughty Dog sharing the news in a post on the PlayStation Blog.
-
-
-The Last of Us Part 2 Remastered is a native PlayStation 5 version of the 2020 PS4 original promising various visual enhancements, including increased level-of-detail distances, improved shadow quality, better animation sampling rates, and more. It&#x27;ll feature two graphics modes - Fidelity and Performance, running at 4K and 1440p upscaled to 4K respectively - as well as an unlocked framerate option for VRR TVs. 
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -18492,66 +18556,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984926"
-                        open
-                      >
-                        <summary class="article-expander__title">280 million e-bikes are slashing oil demand far more than electric vehicles</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984926">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/e-bike-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>E-bikes and scooters displace 4x as much demand for oil as all of the EVs in the world.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984701"
-                        open
-                      >
-                        <summary class="article-expander__title">Lotus Eletre R is a 900-horsepower SUV that weirdly slays the competition</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984701">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_0618-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Lotus is ready to sell you a super EV SUV. What is it, and can it be a winner?</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1985143"
-                        open
-                      >
-                        <summary class="article-expander__title">Five things to watch for when Starship takes off Saturday morning</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1985143">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3608-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>SpaceX&#x27;s giant Starship rocket is poised to head for space from South Texas.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;11
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -18559,8 +18563,8 @@ Read more</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/7240266435">
-        <time id="build-timestamp" datetime="2023-12-17T18:24:25.338Z">2023-12-17T18:24:25.338Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/7242022601">
+        <time id="build-timestamp" datetime="2023-12-18T00:30:49.694Z">2023-12-18T00:30:49.694Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
