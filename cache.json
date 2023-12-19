@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2869/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/puzzles.png\" title=\"Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?\" alt=\"Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?\" />",
+          "link": "https://xkcd.com/2869/",
+          "publishedOn": "2023-12-18T00:00:00.000Z",
+          "wordCount": 217,
+          "title": "Puzzles",
+          "imageUrl": "https://imgs.xkcd.com/comics/puzzles_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2868/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/label_the_states.png\" title=\"Even with a blank map, a lot of people can only name 45-50 of the 64 states.\" alt=\"Even with a blank map, a lot of people can only name 45-50 of the 64 states.\" />",
@@ -422,6 +432,46 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1991781",
+          "author": "Scharon Harding",
+          "description": "Ban on Watch Series 9, Watch Ultra 2 starts Dec. 26 if Biden doesn't intervene.",
+          "link": "https://arstechnica.com/?p=1991781",
+          "publishedOn": "2023-12-18T19:18:43.000Z",
+          "wordCount": 1946,
+          "title": "Apple Watches being pulled from stores this week due to potential import ban",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.11.31-PM-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991793",
+          "author": "Ashley Belanger",
+          "description": "Prosecutors had asked for a heavier sentence to deter future fraud.",
+          "link": "https://arstechnica.com/?p=1991793",
+          "publishedOn": "2023-12-18T19:08:52.000Z",
+          "wordCount": 2117,
+          "title": "Disgraced Nikola founder Trevor Milton gets 4-year sentence for lying about EVs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1857947975-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991731",
+          "author": "Ron Amadeo",
+          "description": "The online-only controller updater will run until December 2024.",
+          "link": "https://arstechnica.com/?p=1991731",
+          "publishedOn": "2023-12-18T18:33:47.000Z",
+          "wordCount": 1941,
+          "title": "Google’s Stadia Controller salvage operation will run for another year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/stadia-graffiti-removal-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991782",
+          "author": "Elizabeth Rayne",
+          "description": "Beware the sticky, tricky genetic weapons of a fungal carnivore.",
+          "link": "https://arstechnica.com/?p=1991782",
+          "publishedOn": "2023-12-18T18:23:28.000Z",
+          "wordCount": 2072,
+          "title": "What turns a fungal scavenger into a killer?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-5-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1991756",
           "author": "Ars Contributors",
@@ -3751,26 +3801,6 @@
           "wordCount": 2363,
           "title": "The reincarnation of totaled Teslas—in Ukraine",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/wrecked-tesla-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1984342",
-          "author": "Kevin Purdy",
-          "description": "Elaborate parking booths, Q4 financials, game engines, and the nature of sims.",
-          "link": "https://arstechnica.com/?p=1984342",
-          "publishedOn": "2023-11-19T12:00:05.000Z",
-          "wordCount": 1868,
-          "title": "Cities: Skylines 2’s troubled launch, and why simulation games are freaking hard",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSll_City-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1984688",
-          "author": "Ars Contributors",
-          "description": "Think of it as an alternative to a supercar.",
-          "link": "https://arstechnica.com/?p=1984688",
-          "publishedOn": "2023-11-19T11:30:09.000Z",
-          "wordCount": 2428,
-          "title": "Sensible power output makes the DBA Mini eMastered a huge amount of fun",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/MINI_e_MASTERED_1-760x380.jpg"
         }
       ]
     },
@@ -3796,6 +3826,26 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/",
+          "author": null,
+          "description": "Authors: Yuan Chen (Apple), Andrea Tosatto (Apple)\nThis blog discusses a new feature in Kubernetes 1.29 to improve the handling of taint-based pod eviction.\nBackground\nIn Kubernetes 1.29, an improvement has been introduced to enhance the taint-based pod eviction handling on nodes.\nThis blog discusses the changes made to node-lifecycle-controller\nto separate its responsibilities and improve overall code maintainability.\nSummary of changes\nnode-lifecycle-controller previously combined two independent functions:\nAdding a pre-defined set of NoExecute taints to Node based on Node's condition.\nPerforming pod eviction on NoExecute taint.\nWith the Kubernetes 1.29 release, the taint-based eviction implementation has been\nmoved out of node-lifecycle-controller into a separate and independent compone…",
+          "link": "https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/",
+          "publishedOn": "2023-12-19T00:00:00.000Z",
+          "wordCount": 4074,
+          "title": "Blog: Kubernetes 1.29: Decoupling taint-manager from node-lifecycle-controller",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/",
+          "author": null,
+          "description": "Authors: Zefeng Chen (independent), Kevin Hannon (Red Hat)\nWith the recent release of Kubernetes 1.29, the PodReadyToStartContainers\ncondition is\navailable by default.\nThe kubelet manages the value for that condition throughout a Pod's lifecycle,\nin the status field of a Pod. The kubelet will use the PodReadyToStartContainers\ncondition to accurately surface the initialization state of a Pod,\nfrom the perspective of Pod sandbox creation and network configuration by a container runtime.\nWhat's the motivation for this feature?\nCluster administrators did not have a clear and easily accessible way to view the completion of Pod's sandbox creation\nand initialization. As of 1.28, the Initialized condition in Pods tracks the execution of init containers.\nHowever, it has limitations in accurately re…",
+          "link": "https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/",
+          "publishedOn": "2023-12-19T00:00:00.000Z",
+          "wordCount": 4108,
+          "title": "Blog: Kubernetes 1.29: PodReadyToStartContainers Condition Moves to Beta",
+          "imageUrl": null
+        },
         {
           "id": "https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/",
           "author": null,
@@ -3937,6 +3987,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working",
+          "author": "Ed Nightingale",
+          "description": "Activision Blizzard is ending hybrid working for its QA testers in January, meaning employees are expected to work full-time in offices.\r\n\n\r\nThe impact of this decision has been highlighted by the ABK Workers Alliance in a new statement shared with Eurogamer.\r\n\n\r\nQA employees in Minneapolis, Austin, and El Segundo are affected, with \"many employees being forced out of the company in a soft layoff\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working",
+          "publishedOn": "2023-12-18T21:44:59.000Z",
+          "wordCount": 6915,
+          "title": "ABK Workers Alliance responds to Activision Blizzard ending hybrid working",
+          "imageUrl": "https://assetsio.reedpopcdn.com/activision-blizzard_p0yB13e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/suicide-squad-kill-the-justice-league-leaks-are-running-rampant",
           "author": "Victoria Kennedy",

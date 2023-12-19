@@ -83,11 +83,127 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-19 datetime="2023-12-18T17:24:48.000Z">2023-12-19</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-19 datetime="2023-12-18T17:24:48.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-19 datetime="2023-12-19T00:00:00.000Z">2023-12-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-19 datetime="2023-12-19T00:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes – Production-Grade Container Orchestration</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.29: Decoupling taint-manager from node-lifecycle-controller</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Authors: Yuan Chen (Apple), Andrea Tosatto (Apple)
+This blog discusses a new feature in Kubernetes 1.29 to improve the handling of taint-based pod eviction.
+Background
+In Kubernetes 1.29, an improvement has been introduced to enhance the taint-based pod eviction handling on nodes.
+This blog discusses the changes made to node-lifecycle-controller
+to separate its responsibilities and improve overall code maintainability.
+Summary of changes
+node-lifecycle-controller previously combined two independent functions:
+Adding a pre-defined set of NoExecute taints to Node based on Node&#x27;s condition.
+Performing pod eviction on NoExecute taint.
+With the Kubernetes 1.29 release, the taint-based eviction implementation has been
+moved out of node-lifecycle-controller into a separate and independent compone…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/"
+                        open
+                      >
+                        <summary class="article-expander__title">Blog: Kubernetes 1.29: PodReadyToStartContainers Condition Moves to Beta</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Authors: Zefeng Chen (independent), Kevin Hannon (Red Hat)
+With the recent release of Kubernetes 1.29, the PodReadyToStartContainers
+condition is
+available by default.
+The kubelet manages the value for that condition throughout a Pod&#x27;s lifecycle,
+in the status field of a Pod. The kubelet will use the PodReadyToStartContainers
+condition to accurately surface the initialization state of a Pod,
+from the perspective of Pod sandbox creation and network configuration by a container runtime.
+What&#x27;s the motivation for this feature?
+Cluster administrators did not have a clear and easily accessible way to view the completion of Pod&#x27;s sandbox creation
+and initialization. As of 1.28, the Initialized condition in Pods tracks the execution of init containers.
+However, it has limitations in accurately re…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Eurogamer.net News Feed</button>
+                  <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working"
+                        open
+                      >
+                        <summary class="article-expander__title">ABK Workers Alliance responds to Activision Blizzard ending hybrid working</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/activision-blizzard_p0yB13e.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Activision Blizzard is ending hybrid working for its QA testers in January, meaning employees are expected to work full-time in offices.
+
+
+The impact of this decision has been highlighted by the ABK Workers Alliance in a new statement shared with Eurogamer.
+
+
+QA employees in Minneapolis, Austin, and El Segundo are affected, with &quot;many employees being forced out of the company in a soft layoff&quot;.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -99,6 +215,86 @@
                   <a class="source-heading__link" href="https://arstechnica.com">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1991781"
+                        open
+                      >
+                        <summary class="article-expander__title">Apple Watches being pulled from stores this week due to potential import ban</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1991781">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.11.31-PM-1-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Ban on Watch Series 9, Watch Ultra 2 starts Dec. 26 if Biden doesn&#x27;t intervene.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1991793"
+                        open
+                      >
+                        <summary class="article-expander__title">Disgraced Nikola founder Trevor Milton gets 4-year sentence for lying about EVs</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1991793">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1857947975-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Prosecutors had asked for a heavier sentence to deter future fraud.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1991731"
+                        open
+                      >
+                        <summary class="article-expander__title">Google’s Stadia Controller salvage operation will run for another year</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1991731">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/stadia-graffiti-removal-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The online-only controller updater will run until December 2024.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;1991782"
+                        open
+                      >
+                        <summary class="article-expander__title">What turns a fungal scavenger into a killer?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1991782">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-5-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Beware the sticky, tricky genetic weapons of a fungal carnivore.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -520,6 +716,40 @@ Read more</span>
 Lawmakers noted the pharmacies’ policies for releasing medical records in a letter dated Tuesday to the Department of Health and Human Services (HHS) Secretary Xavier Becerra. The letter—signed by Sen. Ron Wyden (D-Ore.), Rep. Pramila Jayapal (D-Wash.), and Rep. Sara Jacobs (D-Calif.)—said their investigation pulled information from briefings with eight big prescription drug suppliers.
 They include the seven largest pharmacy chains in the country: CVS Health, Walgreens Boots Alliance, Cigna, Optum Rx, Walmart Stores, Inc., The Kroger Company, and Rite Aid Corporation. The lawmakers also spoke with Amazon Pharmacy...</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >xkcd.com</button>
+                  <a class="source-heading__link" href="https://xkcd.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://xkcd.com/2869/"
+                        open
+                      >
+                        <summary class="article-expander__title">Puzzles</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xkcd.com/2869/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://imgs.xkcd.com/comics/puzzles_2x.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>No content preview</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -18666,46 +18896,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984342"
-                        open
-                      >
-                        <summary class="article-expander__title">Cities: Skylines 2’s troubled launch, and why simulation games are freaking hard</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984342">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSll_City-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Elaborate parking booths, Q4 financials, game engines, and the nature of sims.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1984688"
-                        open
-                      >
-                        <summary class="article-expander__title">Sensible power output makes the DBA Mini eMastered a huge amount of fun</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1984688">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/MINI_e_MASTERED_1-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Think of it as an alternative to a supercar.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -18713,8 +18903,8 @@ Read more</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/7252241557">
-        <time id="build-timestamp" datetime="2023-12-18T18:25:15.681Z">2023-12-18T18:25:15.681Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/7255640443">
+        <time id="build-timestamp" datetime="2023-12-19T00:30:47.778Z">2023-12-19T00:30:47.778Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

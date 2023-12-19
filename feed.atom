@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T18:25:15.724Z</updated>
+    <updated>2023-12-19T00:30:47.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.29: Decoupling taint-manager from node-lifecycle-controller]]></title>
+        <id>https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/</id>
+        <link href="https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/"/>
+        <updated>2023-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Yuan Chen (Apple), Andrea Tosatto (Apple)
+This blog discusses a new feature in Kubernetes 1.29 to improve the handling of taint-based pod eviction.
+Background
+In Kubernetes 1.29, an improvement has been introduced to enhance the taint-based pod eviction handling on nodes.
+This blog discusses the changes made to node-lifecycle-controller
+to separate its responsibilities and improve overall code maintainability.
+Summary of changes
+node-lifecycle-controller previously combined two independent functions:
+Adding a pre-defined set of NoExecute taints to Node based on Node's condition.
+Performing pod eviction on NoExecute taint.
+With the Kubernetes 1.29 release, the taint-based eviction implementation has been
+moved out of node-lifecycle-controller into a separate and independent compone…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog: Kubernetes 1.29: PodReadyToStartContainers Condition Moves to Beta]]></title>
+        <id>https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/</id>
+        <link href="https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/"/>
+        <updated>2023-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: Zefeng Chen (independent), Kevin Hannon (Red Hat)
+With the recent release of Kubernetes 1.29, the PodReadyToStartContainers
+condition is
+available by default.
+The kubelet manages the value for that condition throughout a Pod's lifecycle,
+in the status field of a Pod. The kubelet will use the PodReadyToStartContainers
+condition to accurately surface the initialization state of a Pod,
+from the perspective of Pod sandbox creation and network configuration by a container runtime.
+What's the motivation for this feature?
+Cluster administrators did not have a clear and easily accessible way to view the completion of Pod's sandbox creation
+and initialization. As of 1.28, the Initialized condition in Pods tracks the execution of init containers.
+However, it has limitations in accurately re…]]></summary>
+        <author>
+            <name>Kubernetes – Production-Grade Container Orchestration</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABK Workers Alliance responds to Activision Blizzard ending hybrid working]]></title>
+        <id>https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working</id>
+        <link href="https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working"/>
+        <updated>2023-12-18T21:44:59.000Z</updated>
+        <summary type="html"><![CDATA[Activision Blizzard is ending hybrid working for its QA testers in January, meaning employees are expected to work full-time in offices.
+
+
+The impact of this decision has been highlighted by the ABK Workers Alliance in a new statement shared with Eurogamer.
+
+
+QA employees in Minneapolis, Austin, and El Segundo are affected, with "many employees being forced out of the company in a soft layoff".
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watches being pulled from stores this week due to potential import ban]]></title>
+        <id>https://arstechnica.com/?p=1991781</id>
+        <link href="https://arstechnica.com/?p=1991781"/>
+        <updated>2023-12-18T19:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Ban on Watch Series 9, Watch Ultra 2 starts Dec. 26 if Biden doesn't intervene.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disgraced Nikola founder Trevor Milton gets 4-year sentence for lying about EVs]]></title>
+        <id>https://arstechnica.com/?p=1991793</id>
+        <link href="https://arstechnica.com/?p=1991793"/>
+        <updated>2023-12-18T19:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Prosecutors had asked for a heavier sentence to deter future fraud.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Stadia Controller salvage operation will run for another year]]></title>
+        <id>https://arstechnica.com/?p=1991731</id>
+        <link href="https://arstechnica.com/?p=1991731"/>
+        <updated>2023-12-18T18:33:47.000Z</updated>
+        <summary type="html"><![CDATA[The online-only controller updater will run until December 2024.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What turns a fungal scavenger into a killer?]]></title>
+        <id>https://arstechnica.com/?p=1991782</id>
+        <link href="https://arstechnica.com/?p=1991782"/>
+        <updated>2023-12-18T18:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Beware the sticky, tricky genetic weapons of a fungal carnivore.]]></summary>
+        <author>
+            <name>Elizabeth Rayne</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not all pickups are work trucks—Toyota aims the 2024 Tacoma off-road]]></title>
         <id>https://arstechnica.com/?p=1991756</id>
@@ -216,6 +316,16 @@ In another post - which remains live at the time of writing - Gunn said he was l
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puzzles]]></title>
+        <id>https://xkcd.com/2869/</id>
+        <link href="https://xkcd.com/2869/"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/puzzles.png" title="Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?" alt="Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -9411,26 +9521,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Cars deemed unfixable in North America are resurrected in Eastern Europe.]]></summary>
         <author>
             <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cities: Skylines 2’s troubled launch, and why simulation games are freaking hard]]></title>
-        <id>https://arstechnica.com/?p=1984342</id>
-        <link href="https://arstechnica.com/?p=1984342"/>
-        <updated>2023-11-19T12:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Elaborate parking booths, Q4 financials, game engines, and the nature of sims.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sensible power output makes the DBA Mini eMastered a huge amount of fun]]></title>
-        <id>https://arstechnica.com/?p=1984688</id>
-        <link href="https://arstechnica.com/?p=1984688"/>
-        <updated>2023-11-19T11:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Think of it as an alternative to a supercar.]]></summary>
-        <author>
-            <name>Ars Contributors</name>
         </author>
     </entry>
 </feed>
