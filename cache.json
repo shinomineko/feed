@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2870/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/love_songs.png\" title=\"The Piña Colada song carves a trajectory across the chart over the course of the song.\" alt=\"The Piña Colada song carves a trajectory across the chart over the course of the song.\" />",
+          "link": "https://xkcd.com/2870/",
+          "publishedOn": "2023-12-20T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Love Songs",
+          "imageUrl": "https://imgs.xkcd.com/comics/love_songs_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2869/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/puzzles.png\" title=\"Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?\" alt=\"Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?\" />",
@@ -414,16 +424,6 @@
           "wordCount": 956,
           "title": "Apple to Add Manual Authentication to iMessage",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/11/email-security-flaw-found-in-the-wild.html",
-          "author": null,
-          "description": "<p>Google&#8217;s Threat Analysis Group <a href=\"https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/\">announced</a> a <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-37580\">zero-day</a> against the Zimbra Collaboration email server that has been used against governments around the world.</p>\n<blockquote><p>TAG has observed four different groups exploiting the same bug to steal email data, user credentials, and authentication tokens. Most of this activity occurred after the initial fix became public on Github. To ensure protection against these types of exploits, TAG urges users and organizations to keep software fully up-to-date and apply security updates as soon as they become available.</p></blockquote>\n<p>The vulnerability was discovered in June. It has been patched...</p>",
-          "link": "https://www.schneier.com/blog/archives/2023/11/email-security-flaw-found-in-the-wild.html",
-          "publishedOn": "2023-11-21T12:05:07.000Z",
-          "wordCount": 900,
-          "title": "Email Security Flaw Found in the Wild",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +432,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1992419",
+          "author": "Timothy B. Lee",
+          "description": "Waymo says its cars cause injuries six times less often than human drivers.",
+          "link": "https://arstechnica.com/?p=1992419",
+          "publishedOn": "2023-12-20T22:39:39.000Z",
+          "wordCount": 2048,
+          "title": "7.1 million miles, 3 minor injuries: Waymo’s safety data looks good",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IPACE_2.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992311",
+          "author": "Andrew Cunningham",
+          "description": "120 and 140 mm fans can add to the blinding glow of your gaming PC's RGB setup.",
+          "link": "https://arstechnica.com/?p=1992311",
+          "publishedOn": "2023-12-20T21:50:40.000Z",
+          "wordCount": 1841,
+          "title": "Lian Li has discovered a new frontier for LCD screens: $47 PC case fans",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-20-at-4.19.02 PM-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1991954",
+          "author": "Scharon Harding",
+          "description": "TV makers are getting more aggressive about using their hardware for ads.",
+          "link": "https://arstechnica.com/?p=1991954",
+          "publishedOn": "2023-12-20T21:41:03.000Z",
+          "wordCount": 1904,
+          "title": "Wireless TVs use built-in cameras, NFC readers to sell you stuff you see on TV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Displace-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992382",
+          "author": "Dan Goodin",
+          "description": "In a bizarre twist, both groups issue dueling notices to ransomware website.",
+          "link": "https://arstechnica.com/?p=1992382",
+          "publishedOn": "2023-12-20T21:08:54.000Z",
+          "wordCount": 2387,
+          "title": "AlphV ransomware site is “seized” by the FBI. Then it’s “unseized.” And so on.",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/unseized-sample-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992407",
+          "author": "Eric Berger",
+          "description": "The rocket and test equipment looked undamaged after the test.",
+          "link": "https://arstechnica.com/?p=1992407",
+          "publishedOn": "2023-12-20T20:44:00.000Z",
+          "wordCount": 1844,
+          "title": "SpaceX completes static fire test in push toward third Starship launch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ship-28-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992385",
+          "author": "Ashley Belanger",
+          "description": "Stable Diffusion 1.5 reportedly “tainted” by more than 1,000 child abuse images.",
+          "link": "https://arstechnica.com/?p=1992385",
+          "publishedOn": "2023-12-20T20:35:19.000Z",
+          "wordCount": 2161,
+          "title": "Child sex abuse images found in dataset training image generators, report says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1093971592-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992398",
+          "author": "Kyle Orland",
+          "description": "Add to a charity haul that has already raised over $19,000.",
+          "link": "https://arstechnica.com/?p=1992398",
+          "publishedOn": "2023-12-20T20:08:50.000Z",
+          "wordCount": 1717,
+          "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/charity2023-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992331",
+          "author": "Diana Gitig",
+          "description": "Time spent with infected individuals is a key determinant of risk.",
+          "link": "https://arstechnica.com/?p=1992331",
+          "publishedOn": "2023-12-20T19:29:44.000Z",
+          "wordCount": 1860,
+          "title": "Contact-tracing software could accurately gauge COVID-19 risk",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1227446665-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992320",
+          "author": "John Timmer",
+          "description": "\"Coscientist\" AI checks references, reads hardware manuals, and sets up reactions.",
+          "link": "https://arstechnica.com/?p=1992320",
+          "publishedOn": "2023-12-20T19:14:43.000Z",
+          "wordCount": 2488,
+          "title": "Multiple Chat GPT instances combine to figure out chemistry",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1445732386-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1992281",
+          "author": "Samuel Axon",
+          "description": "The first of three major AAA game releases for the iPhone has arrived.",
+          "link": "https://arstechnica.com/?p=1992281",
+          "publishedOn": "2023-12-20T18:31:31.000Z",
+          "wordCount": 1927,
+          "title": "First wave of AAA iPhone games sees a big new release—and a notable delay",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-20-120340-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1992235",
           "author": "Ron Amadeo",
@@ -3881,26 +3981,6 @@
           "wordCount": 1597,
           "title": "Daily Telescope: A snapshot of 500,000 stars near the center of the galaxy",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/weic2328a-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1985519",
-          "author": "Samuel Axon",
-          "description": "Want to play console-style games on your phone? These are your options.",
-          "link": "https://arstechnica.com/?p=1985519",
-          "publishedOn": "2023-11-21T12:30:29.000Z",
-          "wordCount": 2743,
-          "title": "Guidemaster: A quick gaming iPhone gift guide",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Resident-Evil-on-iPhone-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1982514",
-          "author": "Jonathan M. Gitlin",
-          "description": "Hybrid prototypes from Acura, BMW, Cadillac, and Porsche wowed the crowds.",
-          "link": "https://arstechnica.com/?p=1982514",
-          "publishedOn": "2023-11-21T12:00:43.000Z",
-          "wordCount": 2202,
-          "title": "The return of GTP racing to IMSA gets a big thumbs-up from fans",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1724609621-760x380.jpg"
         }
       ]
     },
@@ -4097,6 +4177,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/activision-blizzard-boss-bobby-kotick-departs-in-just-a-few-days",
+          "author": "Tom Phillips",
+          "description": "Controversial Activision Blizzard boss Bobby Kotick will depart the company on 29th December, it's been announced. \r\n\n\r\nKotick's reign lasted 32 years, during which time the company became one of the biggest and most influential video games publishers on the planet. \r\n\n\r\nHis departure this month is not unexpected - Activision Blizzard had previously confirmed Kotick's presence only until the end of this year to \"ensure a smooth and seamless integration\" following  Microsoft's long-winded but ultimately successful $68.7bn acquisition. Now, we know exactly when Kotick leaves and how the company will be shaped without him. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/activision-blizzard-boss-bobby-kotick-departs-in-just-a-few-days",
+          "publishedOn": "2023-12-20T20:28:51.000Z",
+          "wordCount": 7090,
+          "title": "Activision Blizzard boss Bobby Kotick departs in just a few days",
+          "imageUrl": "https://assetsio.reedpopcdn.com/activision-blizzard-boss-bobby-kotick-tells-staff-companys-initial-response-to-discrimination-lawsuit-was-tone-deaf-1627468141202.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/silent-hill-2-remake-developer-teams-up-with-the-walking-deads-skybound-entertainment",
           "author": "Liv Ngan",
@@ -7196,46 +7286,6 @@
           "wordCount": 6856,
           "title": "Bulletstorm VR receives small delay, now expected 2024",
           "imageUrl": "https://assetsio.reedpopcdn.com/F6kINGfWQAAdzRM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-simpsons-hit-run-sequel-had-airships-devs-remain-unsure-why-it-was-scrapped",
-          "author": "Victoria Kennedy",
-          "description": "An ambitious-sounding follow-up to The Simpsons: Hit & Run was set to include airships. \r\n\n\r\nThat's according to the scrapped project's executive producer John Melchior, who revealed developer Radical Entertainment even had plans to include planes in a Hit & Run sequel.\r\n\n\r\nSpeaking with MinnMax, the producer, along with other members of the Hit & Run team, discussed the tabled sequel and the various ideas the studio had for it. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-simpsons-hit-run-sequel-had-airships-devs-remain-unsure-why-it-was-scrapped",
-          "publishedOn": "2023-11-21T12:14:39.000Z",
-          "wordCount": 7116,
-          "title": "The Simpsons: Hit & Run sequel had airships, devs remain unsure why it was scrapped",
-          "imageUrl": "https://assetsio.reedpopcdn.com/the-simpsons-hit-and-run_lTRBhON.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ubisoft-pauses-advertising-on-x-formerly-twitter",
-          "author": "Tom Phillips",
-          "description": "Assassin's Creed publisher Ubisoft has pulled its live advertising from X, formerly Twitter, amidst the ongoing row over antisemitism on the platform.\r\n\n\r\nUbisoft is among other firms such as Apple, Disney and Warner Bros Discovery to have paused their advertising on X, BBC News reported today.\r\n\n\r\nIn a statement to Axios, Ubisoft said it has disabled advertising for Assassin's Creed Nexus VR, the recently-launched spin-off from its blockbuster series designed for virtual reality headsets.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ubisoft-pauses-advertising-on-x-formerly-twitter",
-          "publishedOn": "2023-11-21T11:47:38.000Z",
-          "wordCount": 6848,
-          "title": "Ubisoft pauses advertising on X, formerly Twitter",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ubisoft-logo_9vscSD7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/starfields-latest-update-adds-pc-dlss-support-and-ability-to-gobble-up-food-as-soon-as-you-find-it",
-          "author": "Victoria Kennedy",
-          "description": "Bethesda has released a new patch for Starfield, which adds DLSS support for those on PC, as well as the ability to ingest food when it is found in the environment. This means players will be able to \"enjoy those Chunks immediately or save them for later\". Mmm.\r\n\n\r\nThis update was previously available as part of a Steam beta, but it is now available for all players. \r\n\n\r\nAlong with the much requested DLSS support for those Starfield players with compatible graphics cards, this update also covers a variety of other fixes and features across the board.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/starfields-latest-update-adds-pc-dlss-support-and-ability-to-gobble-up-food-as-soon-as-you-find-it",
-          "publishedOn": "2023-11-21T11:16:15.000Z",
-          "wordCount": 7502,
-          "title": "Starfield's latest update adds PC DLSS support, and ability to gobble up food as soon as you find it",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F_Z31DJXkAADbXt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ark-survival-ascended-finally-out-today-on-xbox-series-xs",
-          "author": "Liv Ngan",
-          "description": "Following yet another last-minute delay, Ark: Survival Ascended's Xbox Series X/S release is now happening later today.\r\n\nStudio Wildcard's dinosaur survival game was meant to launch last week on 14th November for Xbox Series X/S, but was delayed until some point later in the week. On 16th November, Studio Wildcard delayed the release once again, with a target window of early this week.\nFast forward to today, 21st November, and Studio Wildcard has now confirmed the final release date for Ark: Survival Ascended on Xbox - and there's no more delays. The game goes live later today at 5pm UK time / 9am Pacific.\n Read more",
-          "link": "https://www.eurogamer.net/ark-survival-ascended-finally-out-today-on-xbox-series-xs",
-          "publishedOn": "2023-11-21T11:05:22.000Z",
-          "wordCount": 6845,
-          "title": "Ark: Survival Ascended finally out today on Xbox Series X/S",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ark-survival-ascended.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
