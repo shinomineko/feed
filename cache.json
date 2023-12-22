@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2023/12/data-exfiltration-using-indirect-prompt-injection.html",
+          "author": null,
+          "description": "<p>Interesting <a href=\"https://promptarmor.substack.com/p/data-exfiltration-from-writercom\">attack</a> on a LLM:</p>\n<blockquote><p>In Writer, users can enter a ChatGPT-like session to edit or create their documents. In this chat session, the LLM can retrieve information from sources on the web to assist users in creation of their documents. We show that attackers can prepare websites that, when a user adds them as a source, manipulate the LLM into sending private information to the attacker or perform other malicious activities.</p>\n<p>The data theft can include documents the user has uploaded, their chat history or potentially specific private information the chat model can convince the user to divulge at the attacker&#8217;s behest...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2023/12/data-exfiltration-using-indirect-prompt-injection.html",
+          "publishedOn": "2023-12-22T12:05:29.000Z",
+          "wordCount": 906,
+          "title": "Data Exfiltration Using Indirect Prompt Injection",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2023/12/cyberattack-on-ukraines-kyivstar-seems-to-be-russian-hacktivists.html",
           "author": null,
           "description": "<p>The Solntsepek group has <a href=\"https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/\">taken</a> <a href=\"https://www.bleepingcomputer.com/news/security/ukrainian-military-says-it-hacked-russias-federal-tax-agency/\">credit</a> <a href=\"https://www.washingtonpost.com/world/2023/12/12/zelensky-washington-cyberattack-kyiv-ukraine/\">for</a> <a href=\"https://therecord.media/ukraine-intelligence-claims-attack-on-russia-tax-service\">the</a> <a href=\"https://www.reuters.com/technology/cybersecurity/ukraine-says-russian-intelligence-linked-hackers-claim-cyberattack-mobile-2023-12-13/\">attack</a>. They&#8217;re linked to the Russian military, so it&#8217;s unclear whether the attack was government directed or freelance.</p>\n<p>This is one of the most significant cyberattacks since Russia invaded in February 2022.</p>",
@@ -422,6 +432,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1992244",
+          "author": "Eric Berger",
+          "description": "\"We look forward to flying our next crewed flight soon.\"",
+          "link": "https://arstechnica.com/?p=1992244",
+          "publishedOn": "2023-12-22T12:00:29.000Z",
+          "wordCount": 2101,
+          "title": "Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/rocket-lab-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1989702",
+          "author": "Scharon Harding",
+          "description": "You likely didn't want these PCs this year, but they may impact your future devices.",
+          "link": "https://arstechnica.com/?p=1989702",
+          "publishedOn": "2023-12-22T11:45:06.000Z",
+          "wordCount": 1972,
+          "title": "Laptops’ 2023 quantum leap: 5 computers we’ll still be talking about in 2024",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1199992530-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1992627",
           "author": "Scharon Harding",
@@ -3751,76 +3781,6 @@
           "wordCount": 2528,
           "title": "Rocket Report: Beyond Gravity to study fairing reuse; North Korea launches satellite",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3809-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1986251",
-          "author": "Stephen Clark",
-          "description": "After a launch in May, South Korea's navy recovered parts of North Korea's rocket.",
-          "link": "https://arstechnica.com/?p=1986251",
-          "publishedOn": "2023-11-22T21:01:25.000Z",
-          "wordCount": 2416,
-          "title": "North Korea launched a satellite, then apparently blew up its booster",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1796532499-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1986154",
-          "author": "Scharon Harding",
-          "description": "Zenbooks accused of ripping off hinge, touchpad, and other inventions.",
-          "link": "https://arstechnica.com/?p=1986154",
-          "publishedOn": "2023-11-22T20:26:02.000Z",
-          "wordCount": 2137,
-          "title": "Lenovo seeks halt of Asus laptop sales over alleged patent infringement",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/zenbook-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1986147",
-          "author": "Andrew Cunningham",
-          "description": "Data center revenue is up 279% from the same quarter last year.",
-          "link": "https://arstechnica.com/?p=1986147",
-          "publishedOn": "2023-11-22T19:51:01.000Z",
-          "wordCount": 1788,
-          "title": "Nvidia’s GeForce GPUs are selling well, but its AI GPU sales are ridiculous",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia-ai-gpu-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1986211",
-          "author": "Dan Goodin",
-          "description": "Internet scans show 7,000 devices may be vulnerable. The true number could be higher.",
-          "link": "https://arstechnica.com/?p=1986211",
-          "publishedOn": "2023-11-22T19:35:51.000Z",
-          "wordCount": 2152,
-          "title": "Thousands of routers and cameras vulnerable to new 0-day attacks by hostile botnet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/iot-botnet-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1985604",
-          "author": "Jennifer Ouellette",
-          "description": "Ars chats with the NatGeo explorer about how technology can help strip back layers of time.",
-          "link": "https://arstechnica.com/?p=1985604",
-          "publishedOn": "2023-11-22T19:22:16.000Z",
-          "wordCount": 2057,
-          "title": "Join the hunt for the ancient capital of Kush on Lost Cities Revealed with Albert Lin",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/alinTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1986046",
-          "author": "Ron Amadeo",
-          "description": "All Android and iOS users can soon tap a headphone icon and start chatting.",
-          "link": "https://arstechnica.com/?p=1986046",
-          "publishedOn": "2023-11-22T18:39:21.000Z",
-          "wordCount": 1612,
-          "title": "“ChatGPT with voice” opens up to everyone on iOS and Android",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1986124",
-          "author": "Samuel Axon",
-          "description": "Report claims Sonos is expanding into new products to make up for slowing sales.",
-          "link": "https://arstechnica.com/?p=1986124",
-          "publishedOn": "2023-11-22T18:25:30.000Z",
-          "wordCount": 1812,
-          "title": "Report: Sonos will launch its fancy headphones next spring",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/airpods-max-760x380.jpg"
         }
       ]
     },
@@ -4007,6 +3967,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/china-seeks-to-curtail-spending-in-online-games-sending-tencent-and-netease-shares-tumbling-by-80bn",
+          "author": "Tom Phillips",
+          "description": "China has announced new rules to limit the encouragement of spending in online video games, spooking investors in two of the world's biggest publishers.\r\n\n\r\nNews of the limits wiped a combined ~$80bn from the value of Tencent and NetEase, China's two main games publishers that now support or part-own many of the world's biggest games companies.\r\n\n\r\nChinese online video games will now no longer be able to offer an extra incentive to spend in a game for the first time, or for spending repeatedly, Reuters reported. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/china-seeks-to-curtail-spending-in-online-games-sending-tencent-and-netease-shares-tumbling-by-80bn",
+          "publishedOn": "2023-12-22T11:46:00.000Z",
+          "wordCount": 6806,
+          "title": "China seeks to curtail spending in online games",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_IeMSUer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/teenage-gta-6-hacker-given-indefinite-hospital-order",
+          "author": "Tom Phillips",
+          "description": "The British teenager who hacked Rockstar and posted a swathe of work-in-progress GTA 6 development material online last year has been sentenced to remain indefinitely in a secure hospital.\r\n\n\r\nArion Kurtaj, now 18, was part of the Lapsus$ hacking group behind similar attacks on Nvidia, Uber and BT, among others.\r\n\n\r\nKurtaj hacked Rockstar in September 2022, while already on bail for hacking charges and staying under police protection at a Travelodge, BBC News reported. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/teenage-gta-6-hacker-given-indefinite-hospital-order",
+          "publishedOn": "2023-12-22T10:51:08.000Z",
+          "wordCount": 6987,
+          "title": "Teenage GTA 6 hacker given indefinite hospital order",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Grand-Theft-Auto-VI-Trailer-1-1-18-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/people-are-posting-footage-of-marvels-wolverine-from-stolen-early-version",
+          "author": "Tom Phillips",
+          "description": "Marvel's Wolverine is still years from release, but people are currently playing - and uploading footage - of an incomplete early development build found within the files stolen from Insomniac Games by ransomware hackers earlier this month. \r\n\n\r\nIt's remarkable to see an in-development game being played in this way - and I can't think of a similar situation, at least in recent memory. The GTA 6 hack contained a mountain of development assets, yes, but nothing playable in this manner. \r\n\n\r\nHere, people have been able to access a test build of Wolverine akin to an internal demo meant for Insomniac and Sony, that features multiple sections of the game available to play and explore. Naturally, these sections are still incomplete and unpolished, but key gameplay mechanics and story moments are included. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/people-are-posting-footage-of-marvels-wolverine-from-stolen-early-version",
+          "publishedOn": "2023-12-22T10:07:11.000Z",
+          "wordCount": 6835,
+          "title": "People are posting footage of Marvel's Wolverine from stolen, early version",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Insomniac_LdzOiK2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/death-stranding-iphone-and-mac-release-delayed-to-2024",
           "author": "Victoria Kennedy",
@@ -6986,36 +6976,6 @@
           "wordCount": 6628,
           "title": "PlayStation 5 Slim pre-orders live in the UK",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_PWYvFIy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ex-rockstar-north-dev-talks-agent-abandoned-zombie-game-in-fascinating-new-blog",
-          "author": "Matt Wales",
-          "description": "The world has been given a tiny glimpse into the uber-secretive world of Grand Theft Auto developer Rockstar North thanks to a fascinating new blog from former technical director Obbe Vermeij, who, in just a few short weeks, has shed light on the studio's cancelled spy game Agent, discussed a zombie game abandoned by the company after it was deemed to be too \"depressing\", and more.\r\n\n\r\nVermeij served as technical director at Rockstar North from 1995 (when the studio was still known as DMA Design) to 2009, meaning his time at the company spanned the creation of Grand Theft Auto as a series right through to Grand Theft Auto 4 and its DLC.\r\n\n\r\nSince launching his blog earlier this month, Vermeij has been sharing anecdotes covering a number of Rockstar games, touching on everything from the company's streaming tech for Grand Theft Auto 3 - which struggled enough that the art team was forced to shove a building in the middle of a long stretch of Portland road to ensure players wouldn't run out of city while loading continued - to early efforts at implementing multiplayer in GTA 3.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ex-rockstar-north-dev-talks-agent-abandoned-zombie-game-in-fascinating-new-blog",
-          "publishedOn": "2023-11-22T23:04:35.000Z",
-          "wordCount": 7682,
-          "title": "Ex-Rockstar North dev spills on Agent, abandoned zombie game, and more in fascinating new blog",
-          "imageUrl": "https://assetsio.reedpopcdn.com/rockstar-agent-logo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-2024-a-black-ops-title-set-in-the-gulf-war-new-report-claims",
-          "author": "Matt Wales",
-          "description": "Following some initial rumblings earlier this year, a new report has lend further credence to suggestions 2024's Call of Duty game will be another entry in the Black Ops series, this one now said to be taking place in the Gulf War.\r\n\n\r\nWord that Call of Duty 2024 would be a new Black Ops game first surfaced back in February, when it was claimed next year's series entry was being developed by Treyarch under the codename Cerberus. Furher evidence backing this up arrived in July, when actor and singer Luke Charles Stafford shared a Facebook post referencing Black Ops and claiming his likeness would be used for next year's main character, \"Ratcliff\".\r\n\n\r\nAnd that brings us to a new report from Windows Central which, citing \"multiple sources familiar with Activision's plans\", says next year's Call of Duty \"is indeed Black Ops\". The publication also claims the game will attempt to \"explore a nuanced narrative of the Gulf War, with a critical focus on different participants within the conflict.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-2024-a-black-ops-title-set-in-the-gulf-war-new-report-claims",
-          "publishedOn": "2023-11-22T21:12:09.000Z",
-          "wordCount": 7081,
-          "title": "Call of Duty 2024 a Black Ops title set in the Gulf War, new report claims",
-          "imageUrl": "https://assetsio.reedpopcdn.com/9N1NHD38UQD21696523887840.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/south-park-snow-day-showcases-weapons-and-abilities-in-new-gameplay-trailer",
-          "author": "Matt Wales",
-          "description": "With winter looming, THQ Nordic has seized this most seasonally appropriate opportunity to showcase more of its upcoming South Park: Snow Day, with its latest trailer revealing a smattering of new gameplay for the co-op adventure.\r\n\n\r\nSouth Park: Snow Day was initially teased back in August last year, making a sneaky post-credits appearance at the very end of THQ Nordic's 2022 showcase. One year on, it made a second showcase appearance, this time to confirm its title, unveil its decidedly un-TV-show like 3D visual style, and reveal a handful of other details.\r\n\n\r\nWe know, for instance, that South Park: Snow Day (which is being developed by The Blackout Club studio Question) is a co-op adventure in which up to four players - along with familiar faces including Cartman, Stan, Kyle, and Kenny - enjoy their day away from school by battling through the snow-blanketed South Park streets on a quest to save the world.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/south-park-snow-day-showcases-weapons-and-abilities-in-new-gameplay-trailer",
-          "publishedOn": "2023-11-22T19:48:17.000Z",
-          "wordCount": 6676,
-          "title": "South Park: Snow Day shows weapons and abilities in new gameplay trailer",
-          "imageUrl": "https://assetsio.reedpopcdn.com/south-park-snow-day-screen-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
