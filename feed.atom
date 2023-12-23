@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T18:24:42.301Z</updated>
+    <updated>2023-12-23T00:30:39.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Friday Squid Blogging: Squid Parts into Fertilizer]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-squid-parts-into-fertilizer.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-squid-parts-into-fertilizer.html"/>
+        <updated>2023-12-22T22:08:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>It&#8217;s squid parts from <a href="https://www.eckerd.edu/news/blog/squid-fertilizer-college-farm/">college dissections</a>, so it&#8217;s not a volume operation.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ben Rothke’s Review of A Hacker’s Mind]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/12/ben-rothkes-review-of-a-hackers-mind.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/12/ben-rothkes-review-of-a-hackers-mind.html"/>
+        <updated>2023-12-22T20:08:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ben Rothke <a href="https://brothke.medium.com/the-best-information-security-books-of-2023-4e8e43155e4d">chose</a> <a href="https://www.schneier.com/books/a-hackers-mind/"><i>A Hacker&#8217;s Mind</a></i></a> as &#8220;the best information security book of 2023.&#8221;</p>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People exaggerate the consequences of saying no to invites]]></title>
+        <id>https://arstechnica.com/?p=1992723</id>
+        <link href="https://arstechnica.com/?p=1992723"/>
+        <updated>2023-12-22T19:00:16.000Z</updated>
+        <summary type="html"><![CDATA[People are more understanding of the reasons for rejections than most of us think.]]></summary>
+        <author>
+            <name>Elizabeth Rayne</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sega offers first details on Jet Set Radio, Crazy Taxi revivals]]></title>
         <id>https://www.eurogamer.net/sega-offers-first-details-on-jet-set-radio-crazy-taxi-revivals</id>
@@ -199,6 +231,16 @@ Here, people have been able to access a test build of Wolverine akin to an inter
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Definitely]]></title>
+        <id>https://xkcd.com/2871/</id>
+        <link href="https://xkcd.com/2871/"/>
+        <updated>2023-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/definitely.png" title="A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard." alt="A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -637,7 +679,7 @@ and use that for logging instead of accessing a global logger.
 The binary decides the logging implementation, not the libraries.
 The go-logr API is designed arou…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -1108,7 +1150,7 @@ Performing pod eviction on NoExecute taint.
 With the Kubernetes 1.29 release, the taint-based eviction implementation has been
 moved out of node-lifecycle-controller into a separate and independent compone…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -1129,7 +1171,7 @@ Cluster administrators did not have a clear and easily accessible way to view th
 and initialization. As of 1.28, the Initialized condition in Pods tracks the execution of init containers.
 However, it has limitations in accurately re…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -1431,7 +1473,7 @@ endpoints behind the Service). The mechanism to make that work depended on the m
 on Linux, kube-proxy in iptables mode would redirecting packets directly to the endpoint; in ipvs mode,
 kube-proxy would configure t…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -1455,7 +1497,7 @@ For more context on access modes and how ReadWriteOncePod works read
 What are access modes and why are they important?
 in the Intr…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -2119,7 +2161,7 @@ managed by the CSI driver. The recent elevation of authentication secret support
 for resizes from Beta to GA ushers in new horizons, enabling volume expansion in
 scenarios where the underlying storage operation demands credenti…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -2140,7 +2182,7 @@ The new storage.k8s.io/v1alpha1 API group provides two new types:
 VolumeAttributesClass
 Represents a specification of mutable volume attributes defined by th…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -2270,7 +2312,7 @@ integrations and remove all the existing in-tree cloud provider integrations.
 In January 2019, the Kubernetes community approved the initial draft of
 KEP-2395: Removing In-T…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -2965,7 +3007,7 @@ Kubernetes v1.29: Mandala (The Universe) ✨🌌
 Join us on a cosmic journey with Kubernetes v1.29!
 This release is inspired by the beautiful art form that is Mandala—a symbol o…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -8244,7 +8286,7 @@ BackendTLSPolicy is a new Gateway API type used for specifying the TLS configura
 It is specified as a Direct PolicyAttachment without defaults or overrides, applied to a Service that accesses a backend, where the BackendTLSPolicy resides in the same namespace as the Service to which it is applied.
 All Gateway API Routes that point t…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -9118,7 +9160,7 @@ Intel and a SIG Testing Tech Lead.
 Meet the contributors
 San…]]></summary>
         <author>
-            <name>Kubernetes – Production-Grade Container Orchestration</name>
+            <name>Kubernetes Blog</name>
         </author>
     </entry>
     <entry>
@@ -9287,83 +9329,6 @@ Its first project will be a near-future action-adventure game set "in a breathta
 
 
 The recently-announced Worlds Untold is based in Vancouver with a fully remote operation, and has been injected with cash from Chinese game giant NetEase.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Report: Beyond Gravity to study fairing reuse; North Korea launches satellite]]></title>
-        <id>https://arstechnica.com/?p=1986054</id>
-        <link href="https://arstechnica.com/?p=1986054"/>
-        <updated>2023-11-23T12:00:13.000Z</updated>
-        <summary type="html"><![CDATA["I conclude the objects are the spy satellite and the rocket upper stage."]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 3 developer investigating Call of Duty snake movement "exploit"]]></title>
-        <id>https://www.eurogamer.net/modern-warfare-3-developer-investigating-call-of-duty-snake-movement-exploit</id>
-        <link href="https://www.eurogamer.net/modern-warfare-3-developer-investigating-call-of-duty-snake-movement-exploit"/>
-        <updated>2023-11-23T11:23:46.000Z</updated>
-        <summary type="html"><![CDATA[Call of Duty: Modern Warfare 3 developer Sledgehammer Games has said it is "investigating" an exploit that allows players to wriggle around on the floor while prone at fast speeds.
-
-
-It leaves you looking like some kind of human Call of Duty snake, but it also leaves you able to zoom around while lying prone - a very handy tactic for winning gunfights.
-
-
-Now, Sledgehammer has taken notice and dubbed Call of Duty snaking as a PC exploit to be looked at further. "We're investigating an exploit that allows players to sprint while appearing in the prone animation," the developer wrote on the official CODUPdates account on X, formerly Twitter.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher author Andrzej Sapkowski says Netflix "never listened" to his feedback]]></title>
-        <id>https://www.eurogamer.net/the-witcher-author-andrzej-sapkowski-says-netflix-never-listened-to-his-feedback</id>
-        <link href="https://www.eurogamer.net/the-witcher-author-andrzej-sapkowski-says-netflix-never-listened-to-his-feedback"/>
-        <updated>2023-11-23T11:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Andrzej Sapkowski may have penned The Witcher novels, which in turn inspired both CD Projekt Red's video game series and Netflix's TV adaptation, but that doesn't mean that the streaming service ever listened to his feedback.
-
-
-While attending Vienna Comic Con, Sapkowski was asked about the various adaptations that have stemmed from his original works. Speaking with Cerealkillers, the author said that every visual adaptation of his The Witcher series was "strange" for him to see, because as a writer he only uses his words.
-
-
-"My raw material when I work, it's only letters. I do not describe pictures. I don't see any pictures. I use the letters only because I know that my reader will see in the book the letters only, not the pictures. So I have to do with my letters to make the reader imagine the picture, not the other way around... so every [visual] adaptation, it's simply strange for me," he explained. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pokémon Company sets up 16ft Christmas tree made of plushies]]></title>
-        <id>https://www.eurogamer.net/the-pokemon-center-sets-up-16ft-christmas-tree-made-of-plushies</id>
-        <link href="https://www.eurogamer.net/the-pokemon-center-sets-up-16ft-christmas-tree-made-of-plushies"/>
-        <updated>2023-11-23T11:14:07.000Z</updated>
-        <summary type="html"><![CDATA[The Pokémon Company is kicking things off for Christmas with a huge 5m (16.4ft) Poké Plush tree set up at the North Atrium in Westfield London.
-The tree is made up of over 800 plushies, and in an artist's impression shared by the company it consists of numerous species including Ditto, Piplup and Grookey, all topped off with large Pikachu wearing a festive jumper.
-The Poké Plush tree can be visited at the North Atrium in White City's Westfield shopping centre from today until 4th December. If you manage to get a visit in, please make sure to take a picture! 
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation 5 Slim pre-orders live in the UK]]></title>
-        <id>https://www.eurogamer.net/playstation-5-slim-pre-orders-live-in-the-uk</id>
-        <link href="https://www.eurogamer.net/playstation-5-slim-pre-orders-live-in-the-uk"/>
-        <updated>2023-11-23T10:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Sony has begun taking UK pre-orders for the PlayStation 5 Slim, its redesigned PS5 model that now offers an optional disc drive. 
-
-
-The PS5 UK release date is next Wednesday 29th November, and as of this morning you can now pre-order one via Sony's own online store PlayStation Direct, priced £479.99. This is for the model with a disc drive, rather than without.
-
-
-Other retailers have begun offering the PS5 Slim too, with several bundles available. Very has a bundle deal with a free game for £479 (it's not a great game, but it is free).
  
 Read more]]></summary>
         <author>
