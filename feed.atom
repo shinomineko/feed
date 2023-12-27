@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T06:25:32.459Z</updated>
+    <updated>2023-12-27T12:27:57.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New iPhone Security Features to Protect Stolen Devices]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/12/new-iphone-security-features-to-protect-stolen-devices.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/12/new-iphone-security-features-to-protect-stolen-devices.html"/>
+        <updated>2023-12-27T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>Apple is <a href="https://www.macrumors.com/2023/12/12/ios-17-3-stolen-device-protection-feature/">rolling out</a> a new &#8220;Stolen Device Protection&#8221; feature that seems well thought out:</p>
+<blockquote><p>When Stolen Device Protection is turned on, Face ID or Touch ID authentication is required for additional actions, including viewing passwords or passkeys stored in iCloud Keychain, applying for a new Apple Card, turning off Lost Mode, erasing all content and settings, using payment methods saved in Safari, and more. No passcode fallback is available in the event that the user is unable to complete Face ID or Touch ID authentication.</p>
+<p>For especially sensitive actions, including changing the password of the Apple ID account associated with the iPhone, the feature adds a security delay on top of biometric authentication. In these cases, the user must authenticate with Face ID or Touch ID, wait one hour, and authenticate with Face ID or Touch ID again. However, Apple said there will be no delay when the iPhone is in familiar locations, such as at home or work...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers argue back and forth about whether we’ve spotted an exomoon]]></title>
         <id>https://arstechnica.com/?p=1992846</id>
@@ -8776,96 +8788,6 @@ Larian director of publishing Michael Douse revealed the slowdown is caused by a
  Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Play keeps banning the same web browser due to vague DMCA notices]]></title>
-        <id>https://arstechnica.com/?p=1986644</id>
-        <link href="https://arstechnica.com/?p=1986644"/>
-        <updated>2023-11-27T23:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Downloader app suspended by DMCA notice that didn't list any copyrighted works.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Mystery” pneumonia in China is mix of common respiratory germs, WHO says]]></title>
-        <id>https://arstechnica.com/?p=1986656</id>
-        <link href="https://arstechnica.com/?p=1986656"/>
-        <updated>2023-11-27T23:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Reports caused alarm, but experts say it looks like a post-COVID germ comeback.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New “Stable Video Diffusion” AI model can animate any still image]]></title>
-        <id>https://arstechnica.com/?p=1986424</id>
-        <link href="https://arstechnica.com/?p=1986424"/>
-        <updated>2023-11-27T20:28:30.000Z</updated>
-        <summary type="html"><![CDATA[Given GPU and patience, SVD can turn any image into a 2-second video clip.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOS_deck offers free, all-timer DOS games in a browser, with controller support]]></title>
-        <id>https://arstechnica.com/?p=1986461</id>
-        <link href="https://arstechnica.com/?p=1986461"/>
-        <updated>2023-11-27T19:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Playing Warcraft in a browser, using a controller, somehow feels… okay?]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s $195 thin clients are repurposed Fire TV Cubes]]></title>
-        <id>https://arstechnica.com/?p=1986468</id>
-        <link href="https://arstechnica.com/?p=1986468"/>
-        <updated>2023-11-27T19:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Workspaces Thin Client is a Fire TV Cube with different software.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big brands keep dropping X over antisemitism; $75M loss, report estimates]]></title>
-        <id>https://arstechnica.com/?p=1986523</id>
-        <link href="https://arstechnica.com/?p=1986523"/>
-        <updated>2023-11-27T19:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Creators worried advertisers dropping X could hurt revenue-sharing payouts.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google says bumpy Pixel 8 screens are nothing to worry about]]></title>
-        <id>https://arstechnica.com/?p=1986396</id>
-        <link href="https://arstechnica.com/?p=1986396"/>
-        <updated>2023-11-27T19:04:17.000Z</updated>
-        <summary type="html"><![CDATA[Display "bumps" are components pushing into the OLED panel.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers figure out how to bypass the fingerprint readers in most Windows PCs]]></title>
-        <id>https://arstechnica.com/?p=1986413</id>
-        <link href="https://arstechnica.com/?p=1986413"/>
-        <updated>2023-11-27T18:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's Surface didn't even use the Microsoft-developed security protocol.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta routinely ignored reports of kids under 13 on Instagram, states allege]]></title>
-        <id>https://arstechnica.com/?p=1986474</id>
-        <link href="https://arstechnica.com/?p=1986474"/>
-        <updated>2023-11-27T18:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Newly unredacted suit cites internal documents, including report to Zuckerberg.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
         </author>
     </entry>
 </feed>
