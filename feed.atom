@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T06:25:31.393Z</updated>
+    <updated>2023-12-29T12:27:48.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Is Scarily Good at Guessing the Location of Random Photos]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/12/ai-is-scarily-good-at-guessing-the-location-of-random-photos.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/12/ai-is-scarily-good-at-guessing-the-location-of-random-photos.html"/>
+        <updated>2023-12-29T12:03:53.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.npr.org/2023/12/19/1219984002/artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-expert">Wow</a>:</p>
+<blockquote><p>To test PIGEON&#8217;s performance, I gave it five personal photos from a trip I took across America years ago, none of which have been published online. Some photos were snapped in cities, but a few were taken in places nowhere near roads or other easily recognizable landmarks.</p>
+<p>That didn&#8217;t seem to matter much.</p>
+<p>It guessed a campsite in Yellowstone to within around 35 miles of the actual location. The program placed another photo, taken on a street in San Francisco, to within a few city blocks.</p>
+<p>Not every photo was an easy match: The program mistakenly linked one photo taken on the front range of Wyoming to a spot along the front range of Colorado, more than a hundred miles away. And it guessed that a picture of the Snake River Canyon in Idaho was of the Kawarau Gorge in New Zealand (in fairness, the two landscapes look remarkably similar)...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday Squid Blogging: Sqids]]></title>
+        <id>https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-sqids.html</id>
+        <link href="https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-sqids.html"/>
+        <updated>2023-12-29T10:08:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>They&#8217;re <a href="https://sqids.org/">short unique strings</a>:</p>
+<blockquote><p>Sqids (pronounced &#8220;squids&#8221;) is an open-source library that lets you generate YouTube-looking IDs from numbers. These IDs are short, can be generated from a custom alphabet and are guaranteed to be collision-free.</p></blockquote>
+<p>I haven&#8217;t dug into the details enough to know how they can be <i>guaranteed</i> to be collision-free.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A forensic artist has given a 500-year-old Inca “ice maiden” a face]]></title>
         <id>https://arstechnica.com/?p=1992837</id>
@@ -8141,136 +8169,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The facilities, in Pennsylvania and Texas, serve more than 2 million residents.]]></summary>
         <author>
             <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpine 3.15.11, 3.16.8, 3.17.6 and 3.18.5 released]]></title>
-        <id>https://alpinelinux.org/posts/Alpine-3.15.11-3.16.8-3.17.6-3.18.5-released.html</id>
-        <link href="https://alpinelinux.org/posts/Alpine-3.15.11-3.16.8-3.17.6-3.18.5-released.html"/>
-        <updated>2023-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alpine 3.15.11, 3.16.8, 3.17.6 and 3.18.5 released]]></summary>
-        <author>
-            <name>Alpine Linux News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 has been another year with a record number of orbital launches]]></title>
-        <id>https://arstechnica.com/?p=1987238</id>
-        <link href="https://arstechnica.com/?p=1987238"/>
-        <updated>2023-11-29T23:18:15.000Z</updated>
-        <summary type="html"><![CDATA[No turning back? We can expect even more launches worldwide next year.]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia CEO: US chip independence may take 20 years to achieve]]></title>
-        <id>https://arstechnica.com/?p=1987284</id>
-        <link href="https://arstechnica.com/?p=1987284"/>
-        <updated>2023-11-29T22:35:40.000Z</updated>
-        <summary type="html"><![CDATA[US may take twice as long as Biden expects to build its own chip supply chain.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix lands its first big-name games with Grand Theft Auto trilogy]]></title>
-        <id>https://arstechnica.com/?p=1987229</id>
-        <link href="https://arstechnica.com/?p=1987229"/>
-        <updated>2023-11-29T22:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Package includes GTA 3, GTA Vice City, and GTA San Andreas.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google to pay Canada’s “link tax,” drops threat of removing news from search]]></title>
-        <id>https://arstechnica.com/?p=1987263</id>
-        <link href="https://arstechnica.com/?p=1987263"/>
-        <updated>2023-11-29T21:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Google previously threatened to remove Canadian news links from search and News.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion Turbo XL can generate AI images as fast as you can type]]></title>
-        <id>https://arstechnica.com/?p=1987046</id>
-        <link href="https://arstechnica.com/?p=1987046"/>
-        <updated>2023-11-29T21:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Even at home, SDXL Turbo can create detailed images with startling speed.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are big international teams leaving creativity out of science?]]></title>
-        <id>https://arstechnica.com/?p=1987223</id>
-        <link href="https://arstechnica.com/?p=1987223"/>
-        <updated>2023-11-29T20:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Study finds lower impact from widely spread-out teams, but is it cause or effect?]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google caught placing big-brand ads on hardcore porn sites, report says]]></title>
-        <id>https://arstechnica.com/?p=1987189</id>
-        <link href="https://arstechnica.com/?p=1987189"/>
-        <updated>2023-11-29T20:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Brands demand transparency from Google after ads spotted in undesirable places.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web browser suspended because it can browse the web is back on Google Play]]></title>
-        <id>https://arstechnica.com/?p=1987155</id>
-        <link href="https://arstechnica.com/?p=1987155"/>
-        <updated>2023-11-29T19:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Downloader app was suspended twice despite clear problems in DMCA notices.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikola Tesla’s historic Wardenclyffe lab site at risk after devastating fire]]></title>
-        <id>https://arstechnica.com/?p=1987006</id>
-        <link href="https://arstechnica.com/?p=1987006"/>
-        <updated>2023-11-29T19:19:09.000Z</updated>
-        <summary type="html"><![CDATA[The crowdfunded Tesla Science Center has launched a new fundraiser to repair the damage.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBook Air gets solid-state active cooling in intriguing demo]]></title>
-        <id>https://arstechnica.com/?p=1986932</id>
-        <link href="https://arstechnica.com/?p=1986932"/>
-        <updated>2023-11-29T18:46:35.000Z</updated>
-        <summary type="html"><![CDATA[Proof-of-concept explores alternative to fans for sustained, heavy workloads.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC BASIC remains a remarkable learning tool, and now it’s available everywhere]]></title>
-        <id>https://arstechnica.com/?p=1987057</id>
-        <link href="https://arstechnica.com/?p=1987057"/>
-        <updated>2023-11-29T18:42:54.000Z</updated>
-        <summary type="html"><![CDATA[42 years later, there's still work to be done in spreading the BBC Micro gospel.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s DeepMind finds 2.2M crystal structures in materials science win]]></title>
-        <id>https://arstechnica.com/?p=1987154</id>
-        <link href="https://arstechnica.com/?p=1987154"/>
-        <updated>2023-11-29T18:42:12.000Z</updated>
-        <summary type="html"><![CDATA[Trove of combos is >45 times larger than number unearthed in entire history of science.]]></summary>
-        <author>
-            <name>Financial Times</name>
         </author>
     </entry>
 </feed>
