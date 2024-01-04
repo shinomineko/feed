@@ -124,16 +124,6 @@
           "wordCount": 221,
           "title": "the Wrong Stuff",
           "imageUrl": "https://imgs.xkcd.com/comics/the_wrong_stuff_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2864/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/compact_graphs.png\" title=\"People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.\" alt=\"People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.\" />",
-          "link": "https://xkcd.com/2864/",
-          "publishedOn": "2023-12-06T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Compact Graphs",
-          "imageUrl": "https://imgs.xkcd.com/comics/compact_graphs_2x.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html",
+          "author": null,
+          "description": "<p>Kaspersky researchers <a href=\"https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/#p3\">are detailing</a> &#8220;an attack that over four years backdoored dozens if not thousands of iPhones, many of which belonged to employees of Moscow-based security firm Kaspersky.&#8221; It&#8217;s a zero-click exploit that makes use of four iPhone zero-days.</p>\n<blockquote><p>The most intriguing new detail is the targeting of the heretofore-unknown hardware feature, which proved to be pivotal to the Operation Triangulation campaign. A zero-day in the feature allowed the attackers to bypass advanced <a href=\"https://support.apple.com/guide/security/operating-system-integrity-sec8b776536b/web\">hardware-based memory protections</a> designed to safeguard device system integrity even after an attacker gained the ability to tamper with memory of the underlying kernel. On most other platforms, once attackers successfully exploit a kernel vulnerability they have full control of the compromised system...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html",
+          "publishedOn": "2024-01-04T12:11:49.000Z",
+          "wordCount": 1443,
+          "title": "New iPhone Exploit Uses Four Zero-Days",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2024/01/facial-recognition-systems-in-the-us.html",
           "author": null,
@@ -412,6 +412,26 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1993478",
+          "author": "Scharon Harding",
+          "description": "2024 laptops all look like the XPS 13 Plus. XPS 15, 17, and 2-in-1 going away.",
+          "link": "https://arstechnica.com/?p=1993478",
+          "publishedOn": "2024-01-04T11:00:26.000Z",
+          "wordCount": 1922,
+          "title": "The Dell XPS laptop, as we know and love it, is no more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/xps--760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1993416",
+          "author": "Andrew Cunningham",
+          "description": "Copilot key will eventually be required in new PC keyboards, though not yet.",
+          "link": "https://arstechnica.com/?p=1993416",
+          "publishedOn": "2024-01-04T08:01:20.000Z",
+          "wordCount": 1911,
+          "title": "Microsoft is adding a new key to PC keyboards for the first time since 1994",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/copilot-key-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1993618",
           "author": "Dan Goodin",
@@ -3271,106 +3291,6 @@
           "wordCount": 2072,
           "title": "NASA says SpaceX’s next Starship flight could test refueling tech",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ship28-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988926",
-          "author": "Beth Mole",
-          "description": "A large lemonade contains up to 390 mg of caffeine, nearly the FDA's daily safe limit.",
-          "link": "https://arstechnica.com/?p=1988926",
-          "publishedOn": "2023-12-05T22:57:39.000Z",
-          "wordCount": 2061,
-          "title": "Man dies on way home from Panera after having three “charged” lemonades",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1483135421-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988728",
-          "author": "Samuel Axon",
-          "description": "The show looks faithful—maybe to a fault. Let's look at what the trailer reveals.",
-          "link": "https://arstechnica.com/?p=1988728",
-          "publishedOn": "2023-12-05T21:52:36.000Z",
-          "wordCount": 2101,
-          "title": "The Fallout TV series trailer is here, and it’s loaded with homages to the games",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Fallout-Power-Armor-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988890",
-          "author": "Kyle Orland",
-          "description": "Insider report details clash over one board member's criticism in an academic paper.",
-          "link": "https://arstechnica.com/?p=1988890",
-          "publishedOn": "2023-12-05T21:31:32.000Z",
-          "wordCount": 1941,
-          "title": "New report illuminates why OpenAI board said Altman “was not consistently candid”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/GettyImages-545523518-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988745",
-          "author": "Benj Edwards",
-          "description": "Schneier: AI will enable a shift from observing actions to interpreting intentions, en masse.",
-          "link": "https://arstechnica.com/?p=1988745",
-          "publishedOn": "2023-12-05T20:53:44.000Z",
-          "wordCount": 2138,
-          "title": "Due to AI, “We are about to enter the era of mass spying,” says Bruce Schneier",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/eyeball_surveillance_2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988731",
-          "author": "Scharon Harding",
-          "description": "The change comes as Warner Bros. tries to add subscribers to Max, Discovery+ apps.",
-          "link": "https://arstechnica.com/?p=1988731",
-          "publishedOn": "2023-12-05T20:35:35.000Z",
-          "wordCount": 1656,
-          "title": "PlayStation is erasing 1,318 seasons of Discovery shows from customer libraries",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mythbusters-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988697",
-          "author": "Ron Amadeo",
-          "description": "As usual, OnePlus is launching first in China, with a US launch happening in 2024.",
-          "link": "https://arstechnica.com/?p=1988697",
-          "publishedOn": "2023-12-05T19:41:20.000Z",
-          "wordCount": 1859,
-          "title": "The OnePlus 12 packs a 5400 mAh battery, up to 24GB of RAM",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/8-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988748",
-          "author": "Ashley Belanger",
-          "description": "UK expects to finalize its latest plan to age-gate the Internet in early 2025.",
-          "link": "https://arstechnica.com/?p=1988748",
-          "publishedOn": "2023-12-05T19:27:34.000Z",
-          "wordCount": 2045,
-          "title": "Unproven AI face scans may estimate age for porn access in UK",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/uk-age-gate-ai-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988767",
-          "author": "Jonathan M. Gitlin",
-          "description": "The diminutive Italian electric city car has an EPA range of 149 miles.",
-          "link": "https://arstechnica.com/?p=1988767",
-          "publishedOn": "2023-12-05T19:14:21.000Z",
-          "wordCount": 1813,
-          "title": "Want a small, cheap EV? The Fiat 500e is coming to the US in 2024",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/FT024_001FH-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988470",
-          "author": "Jennifer Ouellette",
-          "description": "Scientists tested hypothesis with dense suspensions of piezoelectric nanoparticles.",
-          "link": "https://arstechnica.com/?p=1988470",
-          "publishedOn": "2023-12-05T18:55:59.000Z",
-          "wordCount": 2038,
-          "title": "Unlocking the secrets of oobleck—strange stuff that’s both liquid and solid",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/oobleckTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988720",
-          "author": "Jon Brodkin",
-          "description": "Whistleblower speaks out after Tesla sued him over document leaks.",
-          "link": "https://arstechnica.com/?p=1988720",
-          "publishedOn": "2023-12-05T18:30:30.000Z",
-          "wordCount": 2038,
-          "title": "Tesla whistleblower calls cars with Autopilot “experiments in public roads”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-tesla-logo-760x380.jpg"
         }
       ]
     },
@@ -3516,6 +3436,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sun-sets-on-kim-kardashian-hollywood-mobile-game-after-10-years",
+          "author": "Victoria Kennedy",
+          "description": "Kim Kardashian: Hollywood is shutting down in April, after nearly 10 years of A-list fabulousness. \r\n\n\r\nThe mobile sensation, which was released back in June 2014 by Kardashian and Glu Mobile, will no longer offer users any in-app purchases. It will be removed from the various app stores as well.\r\n\n\r\nThose who already have Kim Kardashian: Hollywood installed can continue to play the game and use up their K-Stars (its in-game virtual currency) up until 8th April. After then, the \"game will become inaccessible for all players\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sun-sets-on-kim-kardashian-hollywood-mobile-game-after-10-years",
+          "publishedOn": "2024-01-04T12:18:16.000Z",
+          "wordCount": 6892,
+          "title": "Sun sets on Kim Kardashian: Hollywood mobile game after 10 years",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Kim-Kardashian-Hollywood.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/witcher-and-cyberpunk-2077-developer-cd-projekt-red-not-interested-in-being-acquired",
+          "author": "Victoria Kennedy",
+          "description": "CD Projekt Red, the developer behind the prolific Cyberpunk 2077 and Witcher video games, is not interested in being acquired. \r\n\n\r\nSpeaking with Polish outlet Parkiet (and shared by IGN), chief strategy officer of parent company CD Projekt S.A. Adam Kiciński said the company is fine as it is, and hopes it will continue to grow independently.\r\n\n\r\n\"We are not interested in integrating ourselves into any larger entity,\" Kiciński told the publication. \"Throughout our entire lives we have worked towards the position we currently hold. We believe that in a few years, we will be even bigger and stronger.\" The exec said the company has \"ambitious plans\" for the future, but it values its independence. \"Independence is really appealing, it's a kind of freedom,\" he said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/witcher-and-cyberpunk-2077-developer-cd-projekt-red-not-interested-in-being-acquired",
+          "publishedOn": "2024-01-04T11:40:42.000Z",
+          "wordCount": 7316,
+          "title": "Witcher and Cyberpunk 2077 developer CD Projekt Red not interested in being acquired",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ciri-in-the-witcher-3-wild-hunt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/twitch-updates-attire-policy-to-prohibit-implied-nudity",
           "author": "Ed Nightingale",
@@ -5535,46 +5475,6 @@
           "wordCount": 7091,
           "title": "Avatar: Frontiers of Pandora physical version needs online connection to install",
           "imageUrl": "https://assetsio.reedpopcdn.com/avatar-front-of-pandora.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-lamplighters-league-adds-new-playable-character-and-events-system-in-free-update",
-          "author": "Matt Wales",
-          "description": "The Lamplighters League might have officially flopped according to publisher Paradox Interactive, but that hasn't stopped developer Harebrained Schemes from making improvements to its pulp strategy adventure since its arrival - and its latest free update is perhaps its biggest yet, adding a new playable character and new events system.\r\n\n\r\nThe Lamplighters League, which launched to a mix reception back in October, blends tactical turn-based action and real-time stealth in a globe-trotting adventure inspired by the classic pulp stories of the 1930s, putting players in control of a disparate group of rogues as they attempt to thwart an occult-obsessed cabal known as the Banished Court.\r\n\n\r\nAnd as of today, with the launch of The Lamplighters League's 1.3 update, the number of available playable rogues has swelled by one thanks to the arrival of Isaac Greymoor. Described as a \"hot-headed, lead-slinging mercenary who wields a deadly light machine gun to devastating effect\", Isaac is the sun of former Lamplighters League leader Lord Greymoor.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-lamplighters-league-adds-new-playable-character-and-events-system-in-free-update",
-          "publishedOn": "2023-12-06T00:20:49.000Z",
-          "wordCount": 7278,
-          "title": "The Lamplighters League adds new playable character and Events system in latest free update",
-          "imageUrl": "https://assetsio.reedpopcdn.com/lamplighters-league-isaac.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/xboxs-winterfest-event-starts-today-with-33-demos-of-indie-games",
-          "author": "Matt Wales",
-          "description": "Microosoft's latest ID@Xbox Game Demo Winterfest event is now underway, this time featuring a total of 33 playable demos for indie titles old and new.\r\n\n\r\nThis year's event kicks off today, 5th December, on Xbox Series X/S and Xbox One, and runs right through to the end of the year on 31st December.\r\n\n\r\nMicrosoft has highlighted a number of indie games newly announced for Xbox and getting the demo treatment during Winterfest - including pirate adventure Captain Bones, turn-based rogue-lite dungeon crawler The Land Beneath Us, post-apocalyptic fantasy RPG Vagrus: The Riven Realms, and the self-explanatory Dinosaur Fossil Hunter - over on its Xbox Wire blog.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xboxs-winterfest-event-starts-today-with-33-demos-of-indie-games",
-          "publishedOn": "2023-12-05T22:56:18.000Z",
-          "wordCount": 6793,
-          "title": "Xbox's Winterfest event starts today with 33 demos of indie games",
-          "imageUrl": "https://assetsio.reedpopcdn.com/xbox-game-demo-winterfest.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-legend-of-zelda-movie-director-wants-it-to-be-like-a-live-action-miyazaki",
-          "author": "Matt Wales",
-          "description": "Wes Ball, the director of Nintendo's upcoming The Legend of Zelda movie, has discussed some of his ambitions for the project, saying he \"would love to see a live-action Miyazaki\" - a reference to legendary Studio Ghibli director Hayao Miyazaki, whose animated work includes Spirited Away, Princess Mononoke, and Laputa: Castle in the Sky.\r\n\n\r\nBall, who has previously helmed the three Maze Runner films and is currently working on next year's King of the Planet of the Apes, was announced as the director of Nintendo's live-action The Legend of Zelda movie last month, as part of the project's official unveiling.\r\n\n\r\nAnd now, speaking to Entertainment Weekly, Ball has shared a little of his vision for the Zelda film, describing it as \"this awesome fantasy-adventure movie that isn't like Lord of the Rings, it's its own thing. I've always said, I would love to see a live-action Miyazaki. That wonder and whimsy that he brings to things, I would love to see something like that.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-legend-of-zelda-movie-director-wants-it-to-be-like-a-live-action-miyazaki",
-          "publishedOn": "2023-12-05T21:42:12.000Z",
-          "wordCount": 7147,
-          "title": "Legend of Zelda movie director wants it to be like a \"live-action Miyazaki\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/zelda-tears-of-the-kingdom-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/atari-50s-acclaimed-interactive-museum-just-added-12-more-games-in-free-update",
-          "author": "Matt Wales",
-          "description": "Atari 50: The Anniversary Celebration, the acclaimed interactive history of Atari from developer Digital Eclipse, has just added 12 more retro games as part of a free Holiday Content Update.\r\n\n\r\nAtari 50, if you're unfamiliar, released at the tail-end of last year, drawing immediate acclaim for its wonderfully rich delve into Atari's 50-year history, mixing extensive interviews with designers, developers, and other prominent industry figures with archival content include documentary footage, design documents, and original artwork.\r\n\n\r\nThat in itself is an absolute treat, but Atari 50 also includes more than 90 playable arcade and console games from the company's illustrious, industry defining back catalogue, ranging from Pong and Breakout to the likes of Asteroids, Adventure, and more. It even features a number of previously unreleased titles, including Akka Arrh - which received an acclaimed reimagining from legendary developer Jeff Minter earlier this year.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/atari-50s-acclaimed-interactive-museum-just-added-12-more-games-in-free-update",
-          "publishedOn": "2023-12-05T19:01:53.000Z",
-          "wordCount": 7067,
-          "title": "Atari 50: The Anniversary Celebration just added 12 more games in free update",
-          "imageUrl": "https://assetsio.reedpopcdn.com/1920px_1080px.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -5732,26 +5632,6 @@
           "wordCount": 3759,
           "title": "How we’re experimenting with LLMs to evolve GitHub Copilot",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/12/AI-DarkMode-3.png"
-        },
-        {
-          "id": "https://github.blog/?p=75650",
-          "author": "David Jarzebowski",
-          "description": "Customers using GitHub Enterprise Server can gain more insight and understanding into the security of their code.\nThe post GitHub Enterprise Server 3.11 is now generally available appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/",
-          "publishedOn": "2023-12-05T23:00:52.000Z",
-          "wordCount": 2023,
-          "title": "GitHub Enterprise Server 3.11 is now generally available",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/12/ghes-311-ga-header.png"
-        },
-        {
-          "id": "https://github.blog/?p=75655",
-          "author": "Walker Chabbott",
-          "description": "Learn how researchers and security experts at GitHub, Microsoft, and Santander came together to address the challenges presented by the post-quantum cryptography world.  \nThe post Addressing post-quantum cryptography with CodeQL appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/",
-          "publishedOn": "2023-12-05T22:00:41.000Z",
-          "wordCount": 2238,
-          "title": "Addressing post-quantum cryptography with CodeQL",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/12/Security-DarkMode-1.png"
         }
       ]
     },
