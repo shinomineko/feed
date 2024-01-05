@@ -394,16 +394,6 @@
           "wordCount": 1085,
           "title": "Spying through Push Notifications",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/12/security-analysis-of-a-thirteenth-century-venetian-election-protocol.html",
-          "author": null,
-          "description": "<p>Interesting <a href=\"https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.html\">analysis</a>:</p>\n<blockquote><p>This paper discusses the protocol used for electing the Doge of Venice between 1268 and the end of the Republic in 1797. We will show that it has some useful properties that in addition to being interesting in themselves, also suggest that its fundamental design principle is worth investigating for application to leader election protocols in computer science. For example, it gives some opportunities to minorities while ensuring that more popular candidates are more likely to win, and offers some resistance to corruption of voters...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/12/security-analysis-of-a-thirteenth-century-venetian-election-protocol.html",
-          "publishedOn": "2023-12-06T18:18:11.000Z",
-          "wordCount": 1242,
-          "title": "Security Analysis of a Thirteenth-Century Venetian Election Protocol",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +402,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1993759",
+          "author": "Stephen Clark",
+          "description": "\"Ship production needs to be roughly an order of magnitude higher than booster production.\"",
+          "link": "https://arstechnica.com/?p=1993759",
+          "publishedOn": "2024-01-05T01:26:25.000Z",
+          "wordCount": 1759,
+          "title": "Elon Musk: SpaceX needs to build Starships as often as Boeing builds 737s",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/starshiptestfire-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1993801",
           "author": "Dan Goodin",
@@ -3321,76 +3321,6 @@
           "wordCount": 2169,
           "title": "Cable lobby to FCC: Please don’t look too closely at the prices we charge",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989030",
-          "author": "Benj Edwards",
-          "description": "Google claims Gemini beats GPT-4 in \"30 of the 32 widely used academic benchmarks.\"",
-          "link": "https://arstechnica.com/?p=1989030",
-          "publishedOn": "2023-12-06T18:01:33.000Z",
-          "wordCount": 1919,
-          "title": "Google launches Gemini—a powerful AI model it says can surpass GPT-4",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989091",
-          "author": "Ashley Belanger",
-          "description": "Apple to update transparency report to break out push notification data requests.",
-          "link": "https://arstechnica.com/?p=1989091",
-          "publishedOn": "2023-12-06T17:47:47.000Z",
-          "wordCount": 2007,
-          "title": "Apple admits to secretly giving governments push notification data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1347264157-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988699",
-          "author": "Kevin Purdy",
-          "description": "Re-creating a candle's multi-angle glow requires a lot of small-scale soldering.",
-          "link": "https://arstechnica.com/?p=1988699",
-          "publishedOn": "2023-12-06T17:22:02.000Z",
-          "wordCount": 1894,
-          "title": "Volumetric LED candle looks the same from any angle—and looks like amazing work",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mitxela2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989002",
-          "author": "Scharon Harding",
-          "description": "Google \"indexing those malformed URLs and serving them instead of the correct ones.\"",
-          "link": "https://arstechnica.com/?p=1989002",
-          "publishedOn": "2023-12-06T17:03:19.000Z",
-          "wordCount": 2109,
-          "title": "Google Search results are showing Reddit URLs altered to include a slur",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1237940137-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988975",
-          "author": "Dan Goodin",
-          "description": "UEFIs booting Windows and Linux devices can be hacked by malicious logo images.",
-          "link": "https://arstechnica.com/?p=1988975",
-          "publishedOn": "2023-12-06T15:02:41.000Z",
-          "wordCount": 1990,
-          "title": "Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989016",
-          "author": "Financial Times",
-          "description": "Apple is looking to diversify its supply chains amid growing geopolitical tension.",
-          "link": "https://arstechnica.com/?p=1989016",
-          "publishedOn": "2023-12-06T14:47:38.000Z",
-          "wordCount": 2034,
-          "title": "Apple wants iPhone 16 batteries to come from India, not China",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.38.20-PM-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1988828",
-          "author": "Eric Berger",
-          "description": "Molecules in the outflows from the young stars are excited by the turbulent conditions.",
-          "link": "https://arstechnica.com/?p=1988828",
-          "publishedOn": "2023-12-06T13:00:31.000Z",
-          "wordCount": 1615,
-          "title": "Daily Telescope: A super-hot jet 1,000 light-years from Earth",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/potm2311a-760x380.jpg"
         }
       ]
     },
@@ -5525,76 +5455,6 @@
           "wordCount": 7339,
           "title": "Destiny 2 staff reportedly worried about Bungie's future",
           "imageUrl": "https://assetsio.reedpopcdn.com/ss_d230d30da82a7b92c842e7447ee5a8458b866251.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/brothers-a-tale-of-two-sons-remake-looks-to-be-on-the-way",
-          "author": "Victoria Kennedy",
-          "description": "It looks like a remake of Brothers: A Tale of Two Sons is on the cards.\r\n\n\r\nThe news originates from Bibilkun, who has a proven track record of being accurate with this type of information. According to the leaker, the game will be published by 505, as the original was in 2013.\r\n\n\r\nSince Bilbilkun's claim, where they suggested we may get an announcement at tomorrow's Game Awards, fellow video game focused account Idle Sloth noted that the brothersthegame website now has a countdown on its page. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/brothers-a-tale-of-two-sons-remake-looks-to-be-on-the-way",
-          "publishedOn": "2023-12-06T16:48:30.000Z",
-          "wordCount": 7085,
-          "title": "Brothers: A Tale of Two Sons remake looks to be on the way",
-          "imageUrl": "https://assetsio.reedpopcdn.com/feather_HHWXbH6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/twitch-shutting-down-in-south-korea",
-          "author": "Liv Ngan",
-          "description": "Twitch has announced it will end operations in South Korea at the end of February 2024, and blamed the high cost of operating in the country.\nTwitch made the announcement yesterday through an article on its blog, attributed to CEO Dan Clancy.\nTwitch said it will now work to help Twitch streamers based in South Korea to \"move their communities to alternative livestreaming services\", calling the decision to suspend business there \"very difficult\" and \"extremely disappointing\" for those affected.\n Read more",
-          "link": "https://www.eurogamer.net/twitch-shutting-down-in-south-korea",
-          "publishedOn": "2023-12-06T16:07:48.000Z",
-          "wordCount": 6628,
-          "title": "Twitch shutting down in South Korea",
-          "imageUrl": "https://assetsio.reedpopcdn.com/twitch-logo-cropped.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bethesda-tries-its-hand-at-paid-mods-in-skyrim-special-edition-once-again",
-          "author": "Victoria Kennedy",
-          "description": "Bethesda has released a new and quite chunky update for Skyrim Special Edition, which in itself isn't all that remarkable. Sure the game is several years old now, but it is still very popular with players, so why not give the game a boost if it needs it.\n\r\nHowever, this particular update has gone down rather badly with Skyrimmers, as it has reintroduced a paid mod platform into the game. \nTo get you up to speed as to why this has been controversial, all the way back in 2015, Bethesda partnered with Valve to bring paid mods to Skyrim via Steam. However, it was incredibly unpopular with both players and mod makers, and the publisher removed the option to sell Skyrim mods on Valve's platform shortly after this idea made its debut. \n Read more",
-          "link": "https://www.eurogamer.net/bethesda-tries-its-hand-at-paid-mods-in-skyrim-special-edition-once-again",
-          "publishedOn": "2023-12-06T15:06:54.000Z",
-          "wordCount": 7225,
-          "title": "Bethesda tries its hand at paid mods in Skyrim Special Edition once again",
-          "imageUrl": "https://assetsio.reedpopcdn.com/skyrim_again.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/batman-arkham-trilogy-on-switch-pays-tribute-to-kevin-conroy",
-          "author": "Liv Ngan",
-          "description": "Fans have spotted a tribute to Batman voice actor Kevin Conroy in the Arkham Trilogy on Switch.\r\n\nConroy's voice lines are used in the collection, which contains Arkham Asylum, Arkham City, and Arkham Knight, and the actor passed away in November 2022 aged 66, following a short battle with cancer.\nAt the end of Arkham Asylum, players are shown a black and white drawing of the city with the text \"in memory of Kevin Conroy\".\n Read more",
-          "link": "https://www.eurogamer.net/batman-arkham-trilogy-on-switch-pays-tribute-to-kevin-conroy",
-          "publishedOn": "2023-12-06T14:26:25.000Z",
-          "wordCount": 6896,
-          "title": "Batman: Arkham Trilogy on Switch pays tribute to Kevin Conroy",
-          "imageUrl": "https://assetsio.reedpopcdn.com/batman-arkham-knight_sqsgpDS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nobody-saves-the-world-the-gunk-headline-december-humble-bundle",
-          "author": "Victoria Kennedy",
-          "description": "Humble Bundle has announced the games available in its monthly Humble Choice subscription for December.\r\n\n\r\nEvery month, the team at Humble selects a collection of PC games for its members to keep forever. In addition, members get 20 percent off the vast collection of games in the Humble Store. Its a nice little deal, really.\r\n\n\r\nThis month, the bundle building team has grouped another eight games together for its subscribers. These are: ELEX 2, Expeditions: Rome, Midnight Fight Express, Nobody Saves the World, The Gunk, The Pale Beyond, Last Call BBS, From Space.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nobody-saves-the-world-the-gunk-headline-december-humble-bundle",
-          "publishedOn": "2023-12-06T13:32:56.000Z",
-          "wordCount": 6966,
-          "title": "Nobody Saves The World, The Gunk headline December Humble Bundle",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_7b08dee57dfcf4507bb86823d813154fde26b17c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nexus-mods-removes-anti-gay-baldurs-gate-3-mod",
-          "author": "Liv Ngan",
-          "description": "Nexus Mods has removed a mod which changed the gender of a character in a same-sex relationship in Baldur's Gate 3 and banned the account which uploaded it.\nThe mod, called Ser Aylin (no longer available on Nexus Mods but a version has been archived on Wayback Machine), targets Dame Aylin and turns her into a \"fully immersive male version\" of herself by changing her model, using AI to alter the voice performance of actor Helen Keeley, and changing NPC dialogue lines.\nFollowing Ser Aylin's upload by user Yedlike to Nexus Mods on 3rd December, Baldur's Gate 3 fans protested against the mod and asked others to not support it, noting it's part of a larger mod pack called No Alphabets. On 4th December, Nexus banned Yedlike for violating its community rules.\n Read more",
-          "link": "https://www.eurogamer.net/nexus-mods-removes-anti-gay-baldurs-gate-3-mod",
-          "publishedOn": "2023-12-06T13:30:59.000Z",
-          "wordCount": 7010,
-          "title": "Nexus Mods removes anti-gay Baldur's Gate 3 mod",
-          "imageUrl": "https://assetsio.reedpopcdn.com/dame-aylin.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/studio-wildcard-admits-arks-servers-are-basically-total-ass",
-          "author": "Victoria Kennedy",
-          "description": "In a move you wouldn't typically expect from a developer, Studio Wildcard has admitted \r\nArk's servers are basically complete \"ass\".\r\n\n\r\nSpeaking as part of Studio Wildcard's Extra Life Charity Stream on Twitch, co-founder Jeremy Stieglitz stated several times over that Ark: Survival Ascended's servers are total \"ass\". In fact, he said it three times.\r\n\n\r\n\"The servers are ass. They run like ass. And their stability is ass,\" he admitted during the stream. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/studio-wildcard-admits-arks-servers-are-basically-total-ass",
-          "publishedOn": "2023-12-06T13:27:08.000Z",
-          "wordCount": 6934,
-          "title": "Studio Wildcard admits Ark's servers are basically total \"ass\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_87b09e915d4447a27efb15f403de05168b8d477a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -5732,26 +5592,6 @@
           "wordCount": 1198,
           "title": "GitHub Innovation Graph Q2 2023 Data Release",
           "imageUrl": "https://github.blog/wp-content/uploads/2023/09/screencapture-innovationgraph-github-2023-09-20-15_44_54-1.png"
-        },
-        {
-          "id": "https://github.blog/?p=75690",
-          "author": "Kevin Backhouse",
-          "description": "Using CVE-2023-43641 as an example, I’ll explain how to develop an exploit for a memory corruption vulnerability on Linux. The exploit has to bypass several mitigations to achieve code execution.\nThe post Cueing up a calculator: an introduction to exploit development on Linux appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/",
-          "publishedOn": "2023-12-06T17:30:42.000Z",
-          "wordCount": 8821,
-          "title": "Cueing up a calculator: an introduction to exploit development on Linux",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/12/cueing-up-a-calculator.jpeg"
-        },
-        {
-          "id": "https://github.blog/?p=75682",
-          "author": "Sara Verdi",
-          "description": "Learn how we’re experimenting with generative AI models to extend GitHub Copilot across the developer lifecycle.\nThe post How we’re experimenting with LLMs to evolve GitHub Copilot appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/",
-          "publishedOn": "2023-12-06T16:00:37.000Z",
-          "wordCount": 3759,
-          "title": "How we’re experimenting with LLMs to evolve GitHub Copilot",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/12/AI-DarkMode-3.png"
         }
       ]
     },
