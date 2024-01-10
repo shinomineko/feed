@@ -156,6 +156,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/01/facial-scanning-by-burger-king-in-brazil.html",
+          "author": null,
+          "description": "<p>In 2000, <a href=\"https://www.schneier.com/books/secrets-and-lies/\">I wrote</a>: &#8220;If McDonald&#8217;s offered three free Big Macs for a DNA sample, there would be lines around the block.&#8221;</p>\n<p>Burger King in Brazil is <a href=\"https://gizmodo.com/burger-king-giving-discounts-if-facial-recognition-thin-1851124496\">almost there</a>, offering discounts in exchange for a facial scan. From a marketing video:</p>\n<blockquote><p>&#8220;At the end of the year, it&#8217;s Friday every day, and the hangover kicks in,&#8221; a vaguely robotic voice says as images of cheeseburgers glitch in and out over fake computer code. &#8220;BK presents Hangover Whopper, a technology that scans your hangover level and offers a discount on the ideal combo to help combat it.&#8221; The stunt runs until January 2nd...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/01/facial-scanning-by-burger-king-in-brazil.html",
+          "publishedOn": "2024-01-10T12:05:55.000Z",
+          "wordCount": 902,
+          "title": "Facial Scanning by Burger King in Brazil",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/01/pin-stealing-android-malware.html",
           "author": null,
           "description": "<p>This is an old piece of malware&#8212;the Chameleon Android banking Trojan&#8212;that now disables biometric authentication in order to <a href=\"https://www.bleepingcomputer.com/news/security/android-malware-chameleon-disables-fingerprint-unlock-to-steal-pins/\">steal the PIN</a>:</p>\n<blockquote><p>The second notable new feature is the ability to interrupt biometric operations on the device, like fingerprint and face unlock, by using the Accessibility service to force a fallback to PIN or password authentication.</p>\n<p>The malware captures any PINs and passwords the victim enters to unlock their device and can later use them to unlock the device at will to perform malicious activities hidden from view.</p></blockquote>\n...",
@@ -3301,116 +3311,6 @@
           "wordCount": 2030,
           "title": "The growing abuse of QR codes in malware and payment scams prompts FTC warning",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/qr-code-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1990239",
-          "author": "Beth Mole",
-          "description": "There's limited evidence for health benefits so far; early work suggests no one-size-fits-all.",
-          "link": "https://arstechnica.com/?p=1990239",
-          "publishedOn": "2023-12-12T00:00:07.000Z",
-          "wordCount": 2164,
-          "title": "AI companion robot helps some seniors fight loneliness, but others hate it",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ElliQ6-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1990059",
-          "author": "Jonathan M. Gitlin",
-          "description": "Porsche's sporty SUV is about to go electric; here's what to expect.",
-          "link": "https://arstechnica.com/?p=1990059",
-          "publishedOn": "2023-12-11T23:01:56.000Z",
-          "wordCount": 2331,
-          "title": "Porsche gives Ars a look inside its next EV: the all-electric Macan",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Macan_Track_008-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1990151",
-          "author": "Benj Edwards",
-          "description": "Unproven hypothesis seeks to explain ChatGPT's seemingly new reluctance to do hard work.",
-          "link": "https://arstechnica.com/?p=1990151",
-          "publishedOn": "2023-12-11T22:50:13.000Z",
-          "wordCount": 2159,
-          "title": "As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/seasonal_robot-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1990178",
-          "author": "Jon Brodkin",
-          "description": "Clause deleted from public version of terms is in the contract sent to buyers.",
-          "link": "https://arstechnica.com/?p=1990178",
-          "publishedOn": "2023-12-11T22:22:27.000Z",
-          "wordCount": 1902,
-          "title": "Tesla again threatens to sue Cybertruck buyers who try to resell the cars",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/cybertruck-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1990115",
-          "author": "Samuel Axon",
-          "description": "watchOS and tvOS also saw updates today.",
-          "link": "https://arstechnica.com/?p=1990115",
-          "publishedOn": "2023-12-11T20:53:25.000Z",
-          "wordCount": 2223,
-          "title": "Apple releases iOS 17.2 and macOS 14.2, delays two features to 2024",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iPhone-15-Pro-Max-back-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989950",
-          "author": "Benj Edwards",
-          "description": "Some experts think xAI used OpenAI model outputs to fine-tune Grok.",
-          "link": "https://arstechnica.com/?p=1989950",
-          "publishedOn": "2023-12-11T20:13:41.000Z",
-          "wordCount": 2086,
-          "title": "Elon Musk’s new AI bot, Grok, causes stir by citing OpenAI usage policy",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/broken_robot_gears-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989981",
-          "author": "Scharon Harding",
-          "description": "Dell introduced CAMM in 2022 with modules that were 57% thinner than SO-DIMM.",
-          "link": "https://arstechnica.com/?p=1989981",
-          "publishedOn": "2023-12-11T19:53:32.000Z",
-          "wordCount": 2034,
-          "title": "CAMM standard published, opening door for thin, speedy RAM to overtake SO-DIMM",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/CAMM-128GB_F-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1990060",
-          "author": "John Timmer",
-          "description": "COP28 agreement draft no longer includes calls to phase out fossil fuels.",
-          "link": "https://arstechnica.com/?p=1990060",
-          "publishedOn": "2023-12-11T19:34:04.000Z",
-          "wordCount": 2058,
-          "title": "OPEC members keep climate accords from acknowledging reality",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1847146373-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989985",
-          "author": "Ron Amadeo",
-          "description": "Purchased content will be scattered across a confusing array of apps and OSes.",
-          "link": "https://arstechnica.com/?p=1989985",
-          "publishedOn": "2023-12-11T18:59:28.000Z",
-          "wordCount": 1679,
-          "title": "Google Play Movies gets a new shutdown date: January 17",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/play-movies-tv-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989936",
-          "author": "Jennifer Ouellette",
-          "description": "The administration of cola in Dutch ERs didn't result in a higher rate of improvement.",
-          "link": "https://arstechnica.com/?p=1989936",
-          "publishedOn": "2023-12-11T18:51:48.000Z",
-          "wordCount": 2102,
-          "title": "Study: Drinking cola might not dislodge that food stuck in your throat after all",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/cola1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1989994",
-          "author": "Jon Brodkin",
-          "description": "Musk asked Jones to address \"the whole Sandy Hook thing\" in interview on X.",
-          "link": "https://arstechnica.com/?p=1989994",
-          "publishedOn": "2023-12-11T18:33:16.000Z",
-          "wordCount": 1832,
-          "title": "Elon Musk reverses Twitter ban of Sandy Hook shooting-denier Alex Jones",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/alex-jones-760x380.jpg"
         }
       ]
     },
@@ -3534,6 +3434,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/actors-raise-concern-at-groundbreaking-sag-aftra-ai-voice-agreement",
+          "author": "Ed Nightingale",
+          "description": "Actor's union SAG-AFTRA has introduced a \"groundbreaking\" AI voice agreement to allow voice artists to \"safely explore\" opportunities for their digital voice replicas, sparking concern among a number of actors.\r\n\n\r\nThe agreement is in conjunction with AI voice technology company Replica Studios, and will allow game studios to work with Replica to access SAG-AFTRA talent under a \"fair, ethical agreement to safely create and licence a digital replica of their voice\".\r\n\n\r\nA press release from the union states the agreement has been approved by affected members. It establishes minimum terms and conditions, ensures performer consent and negotiation for AI usage, and requires performers have the opportunity to opt out of AI use in new works.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/actors-raise-concern-at-groundbreaking-sag-aftra-ai-voice-agreement",
+          "publishedOn": "2024-01-10T12:27:35.000Z",
+          "wordCount": 7043,
+          "title": "Actors raise concern at \"groundbreaking\" SAG-AFTRA AI voice agreement",
+          "imageUrl": "https://assetsio.reedpopcdn.com/app_NewsYellow.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/steam-adds-in-game-reporting-of-illegal-content-in-ai-games",
+          "author": "Liv Ngan",
+          "description": "Valve has added a new in-game reporting tool in Steam which allows players to flag \"illegal content\" in games which include live-generated AI content.\r\n\nThe new system is part of Valve's recently announced initiatives to moderate AI content on Steam.\r\n\nDevelopers will now be required to disclose any use of AI in their games when submitting them to Steam, and are divided into two categories - pre-generated and live-generated AI content.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/steam-adds-in-game-reporting-of-illegal-content-in-ai-games",
+          "publishedOn": "2024-01-10T12:01:45.000Z",
+          "wordCount": 6831,
+          "title": "Steam adds in-game reporting of \"illegal content\" in AI games",
+          "imageUrl": "https://assetsio.reedpopcdn.com/social-og.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/new-playstation-5-slim-faceplates-spotted-at-ces",
+          "author": "Victoria Kennedy",
+          "description": "Attendees at this year's CES conference have spotted several new faceplates for the PlayStation 5 'slim' model, along with their matching DualSense controllers.\r\n\n\r\nThe faceplates, shown in the header image above and below (thanks, The Verge), are from the Deep Earth Collection and consist of Volcanic Red, Cobalt Blue and Sterling Silver. This collection, you may recall, was also announced for the original PS5 model back in September last year. \r\n\n\"While crafting this new collection of DualSense controller and PS5 console cover colours, we drew inspiration from the beautiful and powerful hues found in the depths of planet Earth. We elevated the colours by adding a metallic finish for a touch of sophistication,\" designer Satoshi Aoyagi said at the time.\n Read more",
+          "link": "https://www.eurogamer.net/new-playstation-5-slim-faceplates-spotted-at-ces",
+          "publishedOn": "2024-01-10T11:29:29.000Z",
+          "wordCount": 6815,
+          "title": "New PlayStation 5 'Slim' faceplates spotted at CES",
+          "imageUrl": "https://assetsio.reedpopcdn.com/New-PS5-'slim'-faceplates-in-(from-L---R)-Cobalt-Blue%2C-Sterling-Silver-and-Volcanic-Red.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/twitch-reportedly-set-to-lay-off-around-500-employees-later-this-week",
           "author": "Matt Wales",
