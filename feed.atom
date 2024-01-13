@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T06:24:55.586Z</updated>
+    <updated>2024-01-13T12:28:00.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Would Luddites find the gig economy familiar?]]></title>
+        <id>https://arstechnica.com/?p=1995716</id>
+        <link href="https://arstechnica.com/?p=1995716"/>
+        <updated>2024-01-13T11:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Luddites were hardly the anti-tech dullards historians have painted them to be.]]></summary>
+        <author>
+            <name>Diana Gitig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CDC reports dips in flu, COVID-19, and RSV—though levels still very high]]></title>
         <id>https://arstechnica.com/?p=1995823</id>
@@ -8136,157 +8146,6 @@ Shortly after, a report from Bloomberg's Jason Schreier claimed Destiny develope
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If AI is making the Turing test obsolete, what might be better?]]></title>
-        <id>https://arstechnica.com/?p=1991004</id>
-        <link href="https://arstechnica.com/?p=1991004"/>
-        <updated>2023-12-15T00:16:24.000Z</updated>
-        <summary type="html"><![CDATA[The Turing test focuses on the ability to chat—can we test the ability to think?]]></summary>
-        <author>
-            <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Label the States]]></title>
-        <id>https://xkcd.com/2868/</id>
-        <link href="https://xkcd.com/2868/"/>
-        <updated>2023-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/label_the_states.png" title="Even with a blank map, a lot of people can only name 45-50 of the 64 states." alt="Even with a blank map, a lot of people can only name 45-50 of the 64 states." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.29: CSI Storage Resizing Authenticated and Generally Available in v1.29]]></title>
-        <id>https://kubernetes.io/blog/2023/12/15/csi-node-expand-secret-support-ga/</id>
-        <link href="https://kubernetes.io/blog/2023/12/15/csi-node-expand-secret-support-ga/"/>
-        <updated>2023-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Humble Chirammal (Vmware), Louis Koo (deeproute.ai)
-Kubernetes version v1.29 brings generally available support for authentication
-during CSI (Container Storage Interface) storage resize operations.
-Let's embark on the evolution of this feature, initially introduced in alpha in
-Kubernetes v1.25, and unravel the changes accompanying its transition to GA.
-Authenticated CSI storage resizing unveiled
-Kubernetes harnesses the capabilities of CSI to seamlessly integrate with third-party
-storage systems, empowering your cluster to seamlessly expand storage volumes
-managed by the CSI driver. The recent elevation of authentication secret support
-for resizes from Beta to GA ushers in new horizons, enabling volume expansion in
-scenarios where the underlying storage operation demands credenti…]]></summary>
-        <author>
-            <name>Kubernetes Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog: Kubernetes 1.29: VolumeAttributesClass for Volume Modification]]></title>
-        <id>https://kubernetes.io/blog/2023/12/15/kubernetes-1-29-volume-attributes-class/</id>
-        <link href="https://kubernetes.io/blog/2023/12/15/kubernetes-1-29-volume-attributes-class/"/>
-        <updated>2023-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Sunny Song (Google)
-The v1.29 release of Kubernetes introduced an alpha feature to support modifying a volume
-by changing the volumeAttributesClassName that was specified for a PersistentVolumeClaim (PVC).
-With the feature enabled, Kubernetes can handle updates of volume attributes other than capacity.
-Allowing volume attributes to be changed without managing it through different
-provider's APIs directly simplifies the current flow.
-You can read about VolumeAttributesClass usage details in the Kubernetes documentation
-or you can read on to learn about why the Kubernetes project is supporting this feature.
-VolumeAttributesClass
-The new storage.k8s.io/v1alpha1 API group provides two new types:
-VolumeAttributesClass
-Represents a specification of mutable volume attributes defined by th…]]></summary>
-        <author>
-            <name>Kubernetes Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspects can refuse to provide phone passcodes to police, court rules]]></title>
-        <id>https://arstechnica.com/?p=1991289</id>
-        <link href="https://arstechnica.com/?p=1991289"/>
-        <updated>2023-12-14T23:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Phone-unlocking case law is "total mess," may be ripe for Supreme Court review.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDMA—aka ecstasy—submitted to FDA as part of PTSD therapy]]></title>
-        <id>https://arstechnica.com/?p=1991296</id>
-        <link href="https://arstechnica.com/?p=1991296"/>
-        <updated>2023-12-14T22:57:07.000Z</updated>
-        <summary type="html"><![CDATA[If FDA approved, it would require the DEA to reclassify MDMA.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Force chief: Timing of Chinese spaceplane launch “no coincidence”]]></title>
-        <id>https://arstechnica.com/?p=1991189</id>
-        <link href="https://arstechnica.com/?p=1991189"/>
-        <updated>2023-12-14T22:04:13.000Z</updated>
-        <summary type="html"><![CDATA[US and Chinese spaceplanes are "two of the most watched objects" in orbit.]]></summary>
-        <author>
-            <name>Stephen Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniFi devices broadcasted private video to other users’ accounts]]></title>
-        <id>https://arstechnica.com/?p=1991239</id>
-        <link href="https://arstechnica.com/?p=1991239"/>
-        <updated>2023-12-14T21:34:03.000Z</updated>
-        <summary type="html"><![CDATA["I was presented with 88 consoles from another account," one user reports.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four years after Apple, Google will finally kill third-party cookies in 2024]]></title>
-        <id>https://arstechnica.com/?p=1991199</id>
-        <link href="https://arstechnica.com/?p=1991199"/>
-        <updated>2023-12-14T21:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Google delayed long enough to secure its ad business with new tracking methods.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitch allowing more nudity after disproportionately banning female streamers]]></title>
-        <id>https://arstechnica.com/?p=1991225</id>
-        <link href="https://arstechnica.com/?p=1991225"/>
-        <updated>2023-12-14T20:44:59.000Z</updated>
-        <summary type="html"><![CDATA[Twitch confirmed its policy banning nudity was sexist.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeff Bezos says what we’re all thinking: “Blue Origin needs to be much faster”]]></title>
-        <id>https://arstechnica.com/?p=1991193</id>
-        <link href="https://arstechnica.com/?p=1991193"/>
-        <updated>2023-12-14T20:37:25.000Z</updated>
-        <summary type="html"><![CDATA["We're going to become the world's most decisive company across any industry."]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple partly halts Beeper’s iMessage app again, suggesting a long fight ahead]]></title>
-        <id>https://arstechnica.com/?p=1991118</id>
-        <link href="https://arstechnica.com/?p=1991118"/>
-        <updated>2023-12-14T19:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Opinion: Beeper isn't just fighting Apple, it's pushing against human instincts.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens in a crow’s brain when it uses tools?]]></title>
-        <id>https://arstechnica.com/?p=1990999</id>
-        <link href="https://arstechnica.com/?p=1990999"/>
-        <updated>2023-12-14T19:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Researchers trace the areas of the brain that are active when birds are using tools.]]></summary>
-        <author>
-            <name>Ars Contributors</name>
         </author>
     </entry>
 </feed>
