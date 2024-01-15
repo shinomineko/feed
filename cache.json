@@ -3061,26 +3061,6 @@
           "wordCount": 2050,
           "title": "How Microsoft’s cybercrime unit has evolved to combat increased threats",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2013/12/msdcc-636x215.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991074",
-          "author": "Ars Contributors",
-          "description": "Extreme E, the electric off-road series, is switching to hydrogen in 2025.",
-          "link": "https://arstechnica.com/?p=1991074",
-          "publishedOn": "2023-12-16T12:00:05.000Z",
-          "wordCount": 2016,
-          "title": "Here’s how an off-road racing series will make its own hydrogen fuel",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/1019962675-LAT-20231203-XP2305_1907523CMC0755-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991363",
-          "author": "WIRED",
-          "description": "Three-year-old email shows evidence of plot to undermine repair business.",
-          "link": "https://arstechnica.com/?p=1991363",
-          "publishedOn": "2023-12-16T11:00:58.000Z",
-          "wordCount": 1960,
-          "title": "This “smoking gun” killed the McDonald’s ice cream hackers’ startup",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/soft-serve-760x380.jpg"
         }
       ]
     },
@@ -3106,6 +3086,16 @@
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
       "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2024/01/15/sig-release-spotlight-2023/",
+          "author": null,
+          "description": "Author: Nitish Kumar\nThe Release Special Interest Group (SIG Release), where Kubernetes sharpens its blade\nwith cutting-edge features and bug fixes every 4 months. Have you ever considered how such a big\nproject like Kubernetes manages its timeline so efficiently to release its new version, or how\nthe internal workings of the Release Team look like? If you're curious about these questions or\nwant to know more and get involved with the work SIG Release does, read on!\nSIG Release plays a crucial role in the development and evolution of Kubernetes.\nIts primary responsibility is to manage the release process of new versions of Kubernetes.\nIt operates on a regular release cycle, typically every three to four months.\nDuring this cycle, the Kubernetes Release Team works closely with other SIGs an…",
+          "link": "https://kubernetes.io/blog/2024/01/15/sig-release-spotlight-2023/",
+          "publishedOn": "2024-01-15T00:00:00.000Z",
+          "wordCount": 5592,
+          "title": "Spotlight on SIG Release (Release Team Subproject)",
+          "imageUrl": "sig-release-overview.png"
+        },
         {
           "id": "https://kubernetes.io/blog/2023/12/20/contextual-logging-in-kubernetes-1-29/",
           "author": null,
