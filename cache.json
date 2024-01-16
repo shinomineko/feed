@@ -124,16 +124,6 @@
           "wordCount": 219,
           "title": "Love Songs",
           "imageUrl": "https://imgs.xkcd.com/comics/love_songs_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2869/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/puzzles.png\" title=\"Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?\" alt=\"Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?\" />",
-          "link": "https://xkcd.com/2869/",
-          "publishedOn": "2023-12-18T00:00:00.000Z",
-          "wordCount": 217,
-          "title": "Puzzles",
-          "imageUrl": "https://imgs.xkcd.com/comics/puzzles_2x.png"
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.monkeyuser.com/feed.xml",
       "siteUrl": "https://www.monkeyuser.com",
       "articles": [
+        {
+          "id": "https://www.monkeyuser.com/2024/keeping-up/",
+          "author": null,
+          "description": "Software development satire",
+          "link": "https://www.monkeyuser.com/2024/keeping-up/",
+          "publishedOn": "2024-01-16T00:00:00.000Z",
+          "wordCount": 2473,
+          "title": "Keeping Up",
+          "imageUrl": "https://www.monkeyuser.com/assets/images/2024/269-keeping-up.png"
+        },
         {
           "id": "https://www.monkeyuser.com/2023/advent-calendar/",
           "author": null,
@@ -165,6 +165,16 @@
       "feedUrl": "https://www.schneier.com/feed/atom/",
       "siteUrl": "https://www.schneier.com",
       "articles": [
+        {
+          "id": "https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html",
+          "author": null,
+          "description": "<p>Over at Wired, Andy Greenberg has an <a href=\"https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/\">excellent story</a> about the creators of the 2016 Mirai botnet.</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html",
+          "publishedOn": "2024-01-16T12:21:21.000Z",
+          "wordCount": 817,
+          "title": "The Story of the Mirai Botnet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.schneier.com/blog/archives/2024/01/voice-cloning-with-very-short-samples.html",
           "author": null,
@@ -3275,26 +3285,6 @@
           "wordCount": 4108,
           "title": "Blog: Kubernetes 1.29: PodReadyToStartContainers Condition Moves to Beta",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/",
-          "author": null,
-          "description": "Author: Aohan Yang\nThis blog introduces a new alpha feature in Kubernetes 1.29.\nIt provides a configurable approach to define how Service implementations,\nexemplified in this blog by kube-proxy,\nhandle traffic from pods to the Service, within the cluster.\nBackground\nIn older Kubernetes releases, the kube-proxy would intercept traffic that was destined for the IP\naddress associated with a Service of type: LoadBalancer. This happened whatever mode you used\nfor kube-proxy.\nThe interception implemented the expected behavior (traffic eventually reaching the expected\nendpoints behind the Service). The mechanism to make that work depended on the mode for kube-proxy;\non Linux, kube-proxy in iptables mode would redirecting packets directly to the endpoint; in ipvs mode,\nkube-proxy would configure t…",
-          "link": "https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/",
-          "publishedOn": "2023-12-18T00:00:00.000Z",
-          "wordCount": 4355,
-          "title": "Blog: Kubernetes 1.29: New (alpha) Feature, Load Balancer IP Mode for Services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/",
-          "author": null,
-          "description": "Author: Chris Henzie (Google)\nWith the release of Kubernetes v1.29, the ReadWriteOncePod volume access mode\nhas graduated to general availability: it's part of Kubernetes' stable API. In\nthis blog post, I'll take a closer look at this access mode and what it does.\nWhat is ReadWriteOncePod?\nReadWriteOncePod is an access mode for\nPersistentVolumes (PVs)\nand PersistentVolumeClaims (PVCs)\nintroduced in Kubernetes v1.22. This access mode enables you to restrict volume\naccess to a single pod in the cluster, ensuring that only one pod can write to\nthe volume at a time. This can be particularly useful for stateful workloads\nthat require single-writer access to storage.\nFor more context on access modes and how ReadWriteOncePod works read\nWhat are access modes and why are they important?\nin the Intr…",
-          "link": "https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/",
-          "publishedOn": "2023-12-18T00:00:00.000Z",
-          "wordCount": 4062,
-          "title": "Blog: Kubernetes 1.29: Single Pod Access Mode for PersistentVolumes Graduates to Stable",
-          "imageUrl": null
         }
       ]
     },
@@ -3315,6 +3305,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-lost-legends-of-redwall-the-scout-anthology-delayed-again-in-tactical-move?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "The previously-delayed Lost Legends of Redwall: The Scout Anthology has been postponed again - this time until 20th February. \r\n\n\r\nIn a statement on the latest holdup, publisher Soma Games said the decision was a \"tactical move\" to aim for a different release window. \r\n\n\r\nThe Lost Legends of Redwall: The Scout Anthology was previously set to arrive on 30th January for PC, PlayStation 5 and Xbox Series X/S. It's a linear, story-based action adventure set in the world of Brian Jacques' brilliant children's fantasy books, collecting three acts previously sold separately. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-lost-legends-of-redwall-the-scout-anthology-delayed-again-in-tactical-move?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-16T11:42:25.000Z",
+          "wordCount": 6830,
+          "title": "The Lost Legends of Redwall: The Scout Anthology delayed again in \"tactical move\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Anthology_Announcement_Artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/street-fighter-6-reaches-3m-sales?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Liv Ngan",
+          "description": "Six months after its release, Street Fighter 6 has reached 3m sales.\r\n\nCapcom announced the news earlier today in a press release, which also totted up lifetime sales for the series as over 52m units worldwide.\r\n\nStreet Fighter 6 had sold 2m units within a month of its release, after an extremely popular launch weekend.\n Read more",
+          "link": "https://www.eurogamer.net/street-fighter-6-reaches-3m-sales?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-16T11:21:15.000Z",
+          "wordCount": 6951,
+          "title": "Street Fighter 6 reaches 3m sales",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Street-Fighter-6---Announce-Trailer-0-40-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/consumers-must-be-comfortable-not-owning-games-ubisoft-subscription-boss-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Ubisoft has updated its subscription model, and said consumers need to be \"comfortable with not owning [their] game\".\r\n\n\r\nUbisoft+ will now feature two revised tiers. Ubisoft+ Premium (£14.99/$17.99 per month) will include all new releases and - in some cases - early access to games alongside premium editions, monthly rewards and more. Ubisoft+ Classics on PC, meanwhile, is a brand new curated selection of popular back-catalogue and live games (£6.99/$7.99 per month).\r\n\n\r\nDirector of subscription Philippe Tremblay told GamesIndustry.biz there is \"tremendous opportunity for growth\" for subscription models, but the mindset of consumers needs to change.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/consumers-must-be-comfortable-not-owning-games-ubisoft-subscription-boss-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-16T11:17:27.000Z",
+          "wordCount": 7381,
+          "title": "Consumers must be \"comfortable\" not owning games, Ubisoft subscription boss says",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Sargon-in-Prince-of-Persia-The-Lost-Crown.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/minecraft-film-wants-to-avoid-an-ugly-sonic-situation-director-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "The director of Warner Bros' upcoming Minecraft film adaptation wants to avoid any kind of fan reaction akin to that 'Ugly Sonic' reveal. \r\n\n\r\nAs a reminder, 'Ugly Sonic' was the original design for Sonic from the 2020 film, starring Jim Carrey and James Marsden. On Sonic's initial full reveal in the first trailer, many were left unimpressed (to put it mildly) by the direction the designers had gone. But even before that there was concern, when posters teasing Sonic's cinematic release showed the hedgehog's oddly lithe silhouette and his nightmarish legs.\r\n\n\r\nIn fact, the criticism surrounding Sonic's seemingly final look was so loud, the team went back to the drawing board and redesigned the titular blue hedgehog to a less controversial model. If you need a reminder, you can see the Sonic designs in the video below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/minecraft-film-wants-to-avoid-an-ugly-sonic-situation-director-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-16T11:12:08.000Z",
+          "wordCount": 7193,
+          "title": "Minecraft film wants to \"avoid an 'Ugly Sonic' situation\", director says",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ugly-sonic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/ambitious-call-of-duty-zombies-live-service-game-was-briefly-in-the-works-at-raven-software?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
