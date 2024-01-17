@@ -166,6 +166,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html",
+          "author": null,
+          "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2211.03622\">Do Users Write More Insecure Code with AI Assistants?</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> We conduct the first large-scale user study examining how users interact with an AI Code assistant to solve a variety of security related tasks across different programming languages. Overall, we find that participants who had access to an AI assistant based on OpenAI&#8217;s codex-davinci-002 model wrote significantly less secure code than those without access. Additionally, participants with access to an AI assistant were more likely to believe they wrote secure code than those without access to the AI assistant. Furthermore, we find that participants who trusted the AI less and engaged more with the language and format of their prompts (e.g. re-phrasing, adjusting temperature) provided code with fewer security vulnerabilities. Finally, in order to better inform the design of future AI-based Code assistants, we provide an in-depth analysis of participants&#8217; language and interaction behavior, as well as release our user interface as an instrument to conduct similar studies in the future...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html",
+          "publishedOn": "2024-01-17T12:14:03.000Z",
+          "wordCount": 1123,
+          "title": "Code Written with AI Assistants Is Less Secure",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html",
           "author": null,
           "description": "<p>Over at Wired, Andy Greenberg has an <a href=\"https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/\">excellent story</a> about the creators of the 2016 Mirai botnet.</p>",
@@ -422,6 +432,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1996543",
+          "author": "Dan Goodin",
+          "description": "PixieFail is a huge deal for cloud and data centers. For the rest, less so.",
+          "link": "https://arstechnica.com/?p=1996543",
+          "publishedOn": "2024-01-17T11:00:12.000Z",
+          "wordCount": 2039,
+          "title": "New UEFI vulnerabilities send firmware devs across an entire ecosystem scrambling",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1294855961-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1996518",
           "author": "Kyle Orland",
@@ -3301,36 +3321,6 @@
           "wordCount": 1512,
           "title": "Daily Telescope: James Webb zooms in on Uranus",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/STScI-01HHFQ0Y3096SAV5RZDHXNRSB5-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991781",
-          "author": "Scharon Harding",
-          "description": "Ban on Watch Series 9, Watch Ultra 2 starts Dec. 26 if Biden doesn't intervene.",
-          "link": "https://arstechnica.com/?p=1991781",
-          "publishedOn": "2023-12-18T19:18:43.000Z",
-          "wordCount": 1946,
-          "title": "Apple Watches being pulled from stores this week due to potential import ban",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.11.31-PM-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991793",
-          "author": "Ashley Belanger",
-          "description": "Prosecutors had asked for a heavier sentence to deter future fraud.",
-          "link": "https://arstechnica.com/?p=1991793",
-          "publishedOn": "2023-12-18T19:08:52.000Z",
-          "wordCount": 2117,
-          "title": "Disgraced Nikola founder Trevor Milton gets 4-year sentence for lying about EVs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1857947975-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991731",
-          "author": "Ron Amadeo",
-          "description": "The online-only controller updater will run until December 2024.",
-          "link": "https://arstechnica.com/?p=1991731",
-          "publishedOn": "2023-12-18T18:33:47.000Z",
-          "wordCount": 1941,
-          "title": "Google’s Stadia Controller salvage operation will run for another year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/stadia-graffiti-removal-760x380.jpg"
         }
       ]
     },
@@ -3375,26 +3365,6 @@
           "wordCount": 4721,
           "title": "Blog: Contextual logging in Kubernetes 1.29: Better troubleshooting and enhanced logging",
           "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/",
-          "author": null,
-          "description": "Authors: Yuan Chen (Apple), Andrea Tosatto (Apple)\nThis blog discusses a new feature in Kubernetes 1.29 to improve the handling of taint-based pod eviction.\nBackground\nIn Kubernetes 1.29, an improvement has been introduced to enhance the taint-based pod eviction handling on nodes.\nThis blog discusses the changes made to node-lifecycle-controller\nto separate its responsibilities and improve overall code maintainability.\nSummary of changes\nnode-lifecycle-controller previously combined two independent functions:\nAdding a pre-defined set of NoExecute taints to Node based on Node's condition.\nPerforming pod eviction on NoExecute taint.\nWith the Kubernetes 1.29 release, the taint-based eviction implementation has been\nmoved out of node-lifecycle-controller into a separate and independent compone…",
-          "link": "https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/",
-          "publishedOn": "2023-12-19T00:00:00.000Z",
-          "wordCount": 4074,
-          "title": "Blog: Kubernetes 1.29: Decoupling taint-manager from node-lifecycle-controller",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/",
-          "author": null,
-          "description": "Authors: Zefeng Chen (independent), Kevin Hannon (Red Hat)\nWith the recent release of Kubernetes 1.29, the PodReadyToStartContainers\ncondition is\navailable by default.\nThe kubelet manages the value for that condition throughout a Pod's lifecycle,\nin the status field of a Pod. The kubelet will use the PodReadyToStartContainers\ncondition to accurately surface the initialization state of a Pod,\nfrom the perspective of Pod sandbox creation and network configuration by a container runtime.\nWhat's the motivation for this feature?\nCluster administrators did not have a clear and easily accessible way to view the completion of Pod's sandbox creation\nand initialization. As of 1.28, the Initialized condition in Pods tracks the execution of init containers.\nHowever, it has limitations in accurately re…",
-          "link": "https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/",
-          "publishedOn": "2023-12-19T00:00:00.000Z",
-          "wordCount": 4108,
-          "title": "Blog: Kubernetes 1.29: PodReadyToStartContainers Condition Moves to Beta",
-          "imageUrl": null
         }
       ]
     },
@@ -3415,6 +3385,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-7-shippers-ruin-great-story-development-with-overt-sexualisation-says-cloud-voice-artist?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Voice artist Cody Christian, who plays Cloud in the forthcoming Final Fantasy 7 Rebirth, thinks \"shippers\" who \"overtly sexualise every relationship can ruin great story development\".\r\n\nChristian made the comments on X, formerly Twitter, following the latest trailer for Rebirth shared by Square Enix. Longtime fans of the original Final Fantasy 7 game (as well as Remake) have plenty of opinions on who Cloud's love interest should be in the Tifa/Aerith love triangle, which has caused plenty of heated online debates.\r\n\r\n\n\r\n\"'Shippers' crumble under the idea that a character is allowed to have significant relationships with MULTIPLE characters. This provides overarching depth,\" said Christian (thanks Games Radar). \"The need to overtly sexualize every relationship can ruin great story development.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-7-shippers-ruin-great-story-development-with-overt-sexualisation-says-cloud-voice-artist?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T12:10:06.000Z",
+          "wordCount": 6905,
+          "title": "Final Fantasy 7 'shippers' \"ruin great story development\" with overt sexualisation, says Cloud voice artist",
+          "imageUrl": "https://assetsio.reedpopcdn.com/re_3-1_cloud-Ik7XJHi8D.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/tennis-series-top-spin-returns-with-topspin-2k25?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Liv Ngan",
+          "description": "2K is bringing back its tennis series Top Spin with a new instalment, TopSpin 2K25.\nIt's been 13 years since the last game in the series, Top Spin 4, was released on the PlayStation 3, Nintendo Wii, and Xbox 360.\nTopSpin 2K25 was announced yesterday, in conjunction with the opening day of the main draw at the Australian Open. Check out the first trailer below.\n Read more",
+          "link": "https://www.eurogamer.net/tennis-series-top-spin-returns-with-topspin-2k25?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T11:46:51.000Z",
+          "wordCount": 6717,
+          "title": "Tennis series Top Spin returns with TopSpin 2K25",
+          "imageUrl": "https://assetsio.reedpopcdn.com/topspin-2k25-teaser-trailer.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/larian-studios-games-wont-be-on-subscription-services-says-ceo-swen-vincke?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "You won't find any Larian Studios games on a subscription service, said its CEO Swen Vincke.\r\n\n\r\nIn a thread on X, formerly Twitter, Vincke shared his views on subscription models in response to yesterday's news that Ubisoft is evolving its service. Ubisoft's director of subscription Philippe Tremblay said players need to be \"comfortable\" not owning games when discussing the range of consumer behaviour.\r\n\n\r\n\"Whatever the future of games looks like, content will always be king,\" said Vincke. \"But it's going to be a lot harder to get good content if subscription becomes the dominant model and a select group gets to decide what goes to market and what not. Direct from developer to players is the way.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/larian-studios-games-wont-be-on-subscription-services-says-ceo-swen-vincke?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T11:41:07.000Z",
+          "wordCount": 7366,
+          "title": "Larian Studios games won't be on subscription services, says CEO Swen Vincke",
+          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Astarion.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-finals-150-update-adds-limited-time-solo-bank-it-mode-plus-bug-fixes-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Developer Embark Studios has today released its shiny 1.5.0 update for The Finals, adding a new limited-time Solo Bank It mode, as well as a variety of bug fixes and further anti-cheat measures.\r\n\n\r\nFirst off, that new mode. Embark calls Solo Bank It both \"experimental\" and a \"fast-paced all-in-action\" experience, so you are sure to be kept on your toes. It pits 12 single players against each other in PvP matches. Those taking on Solo Bank It need to scoop up a total of 40,000 Cash to claim victory. \r\n\n\r\nThe developer notes strategy is a key factor in this mode, as you won't have a squad backing you up for you to rely on. You can see a little tease of what's in store via the video below. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-finals-150-update-adds-limited-time-solo-bank-it-mode-plus-bug-fixes-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T11:31:10.000Z",
+          "wordCount": 7055,
+          "title": "The Finals 1.5.0 update adds limited-time Solo Bank It mode plus, bug fixes and more",
+          "imageUrl": "https://assetsio.reedpopcdn.com/the-finals-header_KevTZXt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/dave-the-diver-studio-unveils-sci-fi-team-battle-game-wakerunners?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Ed Nightingale",
@@ -6224,16 +6234,6 @@
           "wordCount": 7071,
           "title": "Devastating leak lays bare Spider-Man developer Insomniac's plans for the next decade",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_Vx6VNsQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working",
-          "author": "Ed Nightingale",
-          "description": "Activision Blizzard is ending hybrid working for its QA testers in January, meaning employees are expected to work full-time in offices.\r\n\n\r\nThe impact of this decision has been highlighted by the ABK Workers Alliance in a new statement shared with Eurogamer.\r\n\n\r\nQA employees in Minneapolis, Austin, and El Segundo are affected, with \"many employees being forced out of the company in a soft layoff\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/abk-workers-alliance-responds-to-activision-blizzard-ending-hybrid-working",
-          "publishedOn": "2023-12-18T21:44:59.000Z",
-          "wordCount": 6915,
-          "title": "ABK Workers Alliance responds to Activision Blizzard ending hybrid working",
-          "imageUrl": "https://assetsio.reedpopcdn.com/activision-blizzard_p0yB13e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
