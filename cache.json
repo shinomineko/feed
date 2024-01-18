@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2882/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/net_rotations.png\" title=\"For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.\" alt=\"For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.\" />",
+          "link": "https://xkcd.com/2882/",
+          "publishedOn": "2024-01-17T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Net Rotations",
+          "imageUrl": "https://imgs.xkcd.com/comics/net_rotations_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2881/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/bug_thread.png\" title=\"After some account issues, we've added 6 new people from the beach house rental website support forum.\" alt=\"After some account issues, we've added 6 new people from the beach house rental website support forum.\" />",
@@ -414,16 +424,6 @@
           "wordCount": 809,
           "title": "GCHQ Christmas Codebreaking Challenge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2023/12/openai-is-not-training-on-your-dropbox-documents-today.html",
-          "author": null,
-          "description": "<p>There&#8217;s a rumor flying around the Internet that OpenAI is training foundation models on your Dropbox documents.</p>\n<p>Here&#8217;s <a href=\"https://www.cnbc.com/2023/12/13/how-to-stop-dropbox-from-sharing-your-personal-files-with-openai.html\">CNBC</a>. Here&#8217;s <a href=\"https://boingboing.net/2023/12/14/dropbox-is-sharing-users-files-with-openai-heres-how-to-opt-out.html\">Boing Boing</a>. Some articles are <a href=\"https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/\">more nuanced</a>, but there&#8217;s still a <a href=\"https://www.computing.co.uk/news/4157118/dropbox-backlash-openai-sharing\">lot</a> <a href=\"https://www.thestack.technology/dropbox-openai-ai-toggle-werner-privacy/\">of</a> <a href=\"https://tech.co/news/stop-dropbox-sharing-data-openai\">confusion</a>.</p>\n<p>It seems not to be true. Dropbox isn&#8217;t sharing all of your documents with OpenAI. But here&#8217;s the problem: we don&#8217;t trust OpenAI. We don&#8217;t trust tech corporations. And&#8212;to be fair&#8212;corporations in general. We have no reason to.</p>\n<p>Simon Willison <a href=\"https://twitter.com/simonw/status/1735086765814542802\">nails</a> it in a tweet:</p>\n<blockquote><p>&#8220;OpenAI are training on every piece of data they see, even when they say they aren’t&#8221; is the new &#8220;Facebook are showing you ads based on overhearing everything you say through your phone’s microphone.&#8221;...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2023/12/openai-is-not-training-on-your-dropbox-documents-today.html",
-          "publishedOn": "2023-12-19T12:09:13.000Z",
-          "wordCount": 1345,
-          "title": "OpenAI Is Not Training on Your Dropbox Documents—Today",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +432,116 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1996879",
+          "author": "Dan Goodin",
+          "description": "Roughly 25 million of the passwords have never been seen before by widely used service.",
+          "link": "https://arstechnica.com/?p=1996879",
+          "publishedOn": "2024-01-18T00:04:26.000Z",
+          "wordCount": 2224,
+          "title": "Researcher uncovers one of the biggest password breaches in recent history",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/password-change-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996686",
+          "author": "Andrew Cunningham",
+          "description": "Devs must ask permission to use 3rd-party payments, and Apple still wants a cut.",
+          "link": "https://arstechnica.com/?p=1996686",
+          "publishedOn": "2024-01-17T23:39:21.000Z",
+          "wordCount": 2330,
+          "title": "Apple lets devs use alternate in-app payment options, still takes commissions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/app_store-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996850",
+          "author": "Ashley Belanger",
+          "description": "Platforms found harming Utah kids will face \"crushing\" fines starting March 1.",
+          "link": "https://arstechnica.com/?p=1996850",
+          "publishedOn": "2024-01-17T23:02:04.000Z",
+          "wordCount": 1983,
+          "title": "Teen sued Utah over social media law requiring curfew for minors",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/FIRE-Plaintiff-Hannah-Zoulek_9-760x380.webp"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996827",
+          "author": "Jon Brodkin",
+          "description": "Customers may \"misunderstand the consequences of canceling,\" cable lobby says.",
+          "link": "https://arstechnica.com/?p=1996827",
+          "publishedOn": "2024-01-17T22:29:33.000Z",
+          "wordCount": 1978,
+          "title": "Cable firms to FTC: We shouldn’t have to let users cancel service with a click",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-cable-tv-remote-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996754",
+          "author": "Stephen Clark",
+          "description": "Money flows into commercial space stations, logistics, and lunar exploration are lagging.",
+          "link": "https://arstechnica.com/?p=1996754",
+          "publishedOn": "2024-01-17T22:13:05.000Z",
+          "wordCount": 1941,
+          "title": "Taking stock: Private investment in space companies rebounded in 2023",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Firefly_Aerospace_First_Hotfire_Wide_View-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996787",
+          "author": "Benj Edwards",
+          "description": "Despite new Pentagon collab, OpenAI won't allow customers to \"develop or use weapons\" with its tools.",
+          "link": "https://arstechnica.com/?p=1996787",
+          "publishedOn": "2024-01-17T21:25:51.000Z",
+          "wordCount": 1662,
+          "title": "OpenAI opens the door for military uses but maintains AI weapons ban",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/openai_camo_3-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996795",
+          "author": "Kyle Orland",
+          "description": "Previously purchased songs will still be playable via Rock Band 4.",
+          "link": "https://arstechnica.com/?p=1996795",
+          "publishedOn": "2024-01-17T21:00:50.000Z",
+          "wordCount": 2178,
+          "title": "Harmonix is ending Rock Band DLC releases after 16 years, ~2,800 songs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/RockBand4_NoHUD_03-640x215.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996722",
+          "author": "Samuel Axon",
+          "description": "The Shiba Inu was trained to use a custom controller in a game meant for a robot.",
+          "link": "https://arstechnica.com/?p=1996722",
+          "publishedOn": "2024-01-17T20:27:06.000Z",
+          "wordCount": 1787,
+          "title": "That’s never happened before: Games Done Quick video stars speedrunning dog",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Dog-speedrun-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996758",
+          "author": "Ashley Belanger",
+          "description": "ChatGPT users may soon learn whether false outputs will be allowed to ruin lives.",
+          "link": "https://arstechnica.com/?p=1996758",
+          "publishedOn": "2024-01-17T20:10:18.000Z",
+          "wordCount": 2181,
+          "title": "OpenAI must defend ChatGPT fabrications after failing to defeat libel suit",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1915752940-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996704",
+          "author": "Jennifer Ouellette",
+          "description": "\"By eliminating color, a new sense of reality emerges.\"",
+          "link": "https://arstechnica.com/?p=1996704",
+          "publishedOn": "2024-01-17T19:32:14.000Z",
+          "wordCount": 1869,
+          "title": "Watch Godzilla Minus One in dazzling black and white during limited US run",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/godzilla2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1996716",
+          "author": "John Timmer",
+          "description": "New model tracks the remains of a star looping around a black hole.",
+          "link": "https://arstechnica.com/?p=1996716",
+          "publishedOn": "2024-01-17T18:50:37.000Z",
+          "wordCount": 1864,
+          "title": "Explaining why a black hole produces light when ripping apart a star",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/image-9-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1996672",
           "author": "WIRED",
@@ -3476,6 +3586,36 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/minecraft-movie-adds-jennifer-coolidge-to-its-star-studded-cast?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Minecraft's long-in-the-works movie adaptation continues to pick up steam, with the news White Lotus star Jennifer Coolidge has now joined its cast.\r\n\n\r\nWord of Coolidge's arrival on the project comes via Deadline, but the publication offers no word on the role she'll be playing. That's to be expected, given story details are being kept under wraps - although a report last year suggested it would focus on a \"malevolent Ender Dragon who sets out on a path of destruction\".\r\n\n\r\nCoolidge - who strode back into the spotlight with her widely acclaimed two-season portrayal of Tanya McQuoid in HBO's stellar 2021 series White Lotus following an already impressive decades-long acting career - joins a cast including Game of Thrones' Jason Momoa, Emma Myers, Danielle Brooks, Sebastian Eugene Hansen, and Jack Black.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/minecraft-movie-adds-jennifer-coolidge-to-its-star-studded-cast?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T23:06:26.000Z",
+          "wordCount": 7043,
+          "title": "Minecraft movie adds Jennifer Coolidge to its star-studded cast",
+          "imageUrl": "https://assetsio.reedpopcdn.com/minecraft-live-image-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-slasher-horror-until-dawn-is-being-turned-into-movie?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Developer Supermassive's acclaimed PS4 cinematic horror game Until Dawn is being turned into a movie by the writer and director of 2017 horror hit Annabelle: Creation.\r\n\n\r\nUntil Dawn, if you're unfamiliar, released for PS4 back in 2015, delivering an interactive spin on the teen slasher genre - with a cast including Rami Malek and Hayden Panettiere - where players could influence who lived and who died through the choices they made along its branching narrative. It was a cheesy, atmospheric, and hugely enjoyable romp, establishing the template Supermassive would later revisit in its recent Dark Pictures Anthology series.\r\n\n\r\nGiven that much of Until Dawn's appeal came from the novelty of navigating through a whole bunch of knowingly trope-y slasher conventions (who hasn't pondered if they'd have what it takes to survive a horror movie and become Final Girl), it's perhaps an unexpected choice for a big screen adaptation - but the film's being described as a \"R-rated love letter to the horror genre\", suggesting it'll retain some of the meta elements of its inspiration.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-slasher-horror-until-dawn-is-being-turned-into-movie?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T21:17:02.000Z",
+          "wordCount": 7103,
+          "title": "PlayStation slasher horror Until Dawn is being turned into a movie",
+          "imageUrl": "https://assetsio.reedpopcdn.com/until-dawn-rami-malek.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/plants-vs-zombies-returns-to-mobile-with-new-sequel-out-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Plants vs Zombies is back with a brand new mobile game.\r\n\n\r\nPlants vs Zombies 3: Welcome to Zomburbia is once again being developed by PopCap Studios and has soft launched today, with the game releasing in full later this year. \r\n\n\r\nThe soft launch is a \"near-launch ready build\" available only to players in the UK, Netherlands, Australia and Philippines.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/plants-vs-zombies-returns-to-mobile-with-new-sequel-out-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-17T21:00:00.000Z",
+          "wordCount": 6761,
+          "title": "Plants vs Zombies returns to mobile with new sequel out this year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/PvZ3-36_PR-SL_Announcement_Creatives_Key_Art_3840x2160.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/epic-boss-pledges-more-legal-action-as-supreme-court-dismisses-apple-lawsuit-appeals?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
           "description": "Epic Games boss Tim Sweeney has vowed more legal action against Apple, just days after the US Supreme Court dismissed both parties' further attempts to appeal a 2021 California court ruling on the Epic vs. Apple antitrust lawsuit.\r\n\n\r\nEpic initially launched court proceedings against Apple back in August 2020, after the company revoked Epic's Fortnite developer account, preventing the game from being distributed on its devices. Apple made the move after Epic deliberately circumvented contractually mandated App Store payment mechanisms within its Fortnite iOS app, which would have allowed it to avoid Apple's 30 percent platform fees.\r\n\n\r\nA decision on Epic's lawsuit came in September 2021, when Judge Gonzalez-Rogers ruled against Epic in nine of its 10 claims, determining the company had failed to prove Apple held a monopoly as defined by antitrust laws. Gonzalez-Rogers did, however, side with Epic in one matter, ruling Apple could not block developers from linking out to alternative payment methods from within their apps - a practice known as \"anti-steering\" - as that would constitute \"anti-competitive conduct\" under state law.\r\n \nRead more",
@@ -6384,26 +6524,6 @@
           "wordCount": 7043,
           "title": "Sony concerned Microsoft's Activision Blizzard purchase will see Xbox \"leapfrog\" PlayStation",
           "imageUrl": "https://assetsio.reedpopcdn.com/activision-blizzard_N6ctZFC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-finals-ups-anti-cheat-measures-following-popular-launch",
-          "author": "Liv Ngan",
-          "description": "Developer Embark Studios is boosting in-game anti-cheat measures for The Finals following increasing reports of cheaters from its players.\nThe multiplayer shooter shadow-dropped during The Game Awards at the beginning of the month and has proved popular. Unfortunately, popularity has brought in large numbers of cheater being discussed on the game's subreddit and official Discord server.\nCommunity lead Dusty Gustaffson shared an update with players on Discord yesterday, revealing Embark has \"had a technical issue that prevented us from banning cheaters efficiently\", but is now in the process of \"re-upping\" anti-cheat measures as it implements a solution to the bug. \n Read more",
-          "link": "https://www.eurogamer.net/the-finals-ups-anti-cheat-measures-following-popular-launch",
-          "publishedOn": "2023-12-19T11:16:37.000Z",
-          "wordCount": 6794,
-          "title": "The Finals ups anti-cheat measures following popular launch",
-          "imageUrl": "https://assetsio.reedpopcdn.com/THE_FINALS_Concept_002_Moneyrain_1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/devastating-leak-lays-bare-spider-man-developer-insomniacs-plans-for-the-next-decade",
-          "author": "Tom Phillips",
-          "description": "Detailed plans revealing the future projects of PlayStation-owned Spider-Man developer Insomniac have been published online, stolen from the company by hackers.\r\n\n\r\nThe files include a project roadmap for the next decade and beyond including an array of unannounced projects, plus production details, art assets and personal information on Insomniac employees.\r\n\nInsomniac suffered a data breach last week, with ransomware group Ryhsida demanding 50 bitcoins - the equivalent of $2m - within a week to avoid the data being published publicly. Now, seven days later, the group has gone through with its threat.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/devastating-leak-lays-bare-spider-man-developer-insomniacs-plans-for-the-next-decade",
-          "publishedOn": "2023-12-19T10:18:57.000Z",
-          "wordCount": 7071,
-          "title": "Devastating leak lays bare Spider-Man developer Insomniac's plans for the next decade",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_Vx6VNsQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -6412,6 +6532,26 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=76213",
+          "author": "Jakub Oleksy",
+          "description": "In December, we experienced three incidents that resulted in degraded performance across GitHub services. \nThe post GitHub Availability Report: December 2023 appeared first on The GitHub Blog.",
+          "link": "https://github.blog/2024-01-17-github-availability-report-december-2023/",
+          "publishedOn": "2024-01-17T21:49:41.000Z",
+          "wordCount": 1366,
+          "title": "GitHub Availability Report: December 2023",
+          "imageUrl": "https://github.blog/wp-content/uploads/2024/01/Enterprise-DarkMode-1.png"
+        },
+        {
+          "id": "https://github.blog/?p=76205",
+          "author": "Larissa Fortuna",
+          "description": "GitHub Actions continues its industry-leading support for the OSS community by doubling the Windows/Linux machine size to 4-vCPU runners at no cost for public repositories.\nThe post GitHub-hosted runners: Double the power for open source appeared first on The GitHub Blog.",
+          "link": "https://github.blog/2024-01-17-github-hosted-runners-double-the-power-for-open-source/",
+          "publishedOn": "2024-01-17T18:58:36.000Z",
+          "wordCount": 1496,
+          "title": "GitHub-hosted runners: Double the power for open source",
+          "imageUrl": "https://github.blog/wp-content/uploads/2024/01/Productivity-DarkMode-3.png"
+        },
         {
           "id": "https://github.blog/?p=76173",
           "author": "Eirini Kalliamvakou",
