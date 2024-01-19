@@ -423,6 +423,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1997288",
+          "author": "Stephen Clark",
+          "description": "A US-Spanish dual citizen commands a crew of Italian, Swedish, and Turkish astronauts.",
+          "link": "https://arstechnica.com/?p=1997288",
+          "publishedOn": "2024-01-19T04:08:41.000Z",
+          "wordCount": 2654,
+          "title": "Axiom, SpaceX launch third all-private crew mission to space station",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_4873-copy-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1997186",
+          "author": "Timothy B. Lee",
+          "description": "DeepMind solved 25 out of 30 questions—compared to 26 for a human gold medalist.",
+          "link": "https://arstechnica.com/?p=1997186",
+          "publishedOn": "2024-01-18T23:55:00.000Z",
+          "wordCount": 2298,
+          "title": "DeepMind AI rivals the world’s smartest high schoolers at geometry",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1760047727-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1997158",
           "author": "Benj Edwards",
           "description": "Zuckeberg and Altman both tamp down fear and hype with casual statements about AGI.",
@@ -3501,66 +3521,6 @@
           "wordCount": 1927,
           "title": "First wave of AAA iPhone games sees a big new release—and a notable delay",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-20-120340-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1992235",
-          "author": "Ron Amadeo",
-          "description": "Samsung's current S-series flagship and foldable phones are getting parts.",
-          "link": "https://arstechnica.com/?p=1992235",
-          "publishedOn": "2023-12-20T18:15:19.000Z",
-          "wordCount": 1743,
-          "title": "Samsung expands repair program to more devices, now in 43 countries",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Self-Repair-Program-Expansion_dl1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991997",
-          "author": "Ars Contributors",
-          "description": "The NSF Director and a US Representative agree: Science's benefits are widespread.",
-          "link": "https://arstechnica.com/?p=1991997",
-          "publishedOn": "2023-12-20T17:53:35.000Z",
-          "wordCount": 2154,
-          "title": "NSF director: US Antarctic research has national impact",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/C-17-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1992236",
-          "author": "Jonathan M. Gitlin",
-          "description": "The engine, which sold for $718,000, cannot be flown again.",
-          "link": "https://arstechnica.com/?p=1992236",
-          "publishedOn": "2023-12-20T17:05:05.000Z",
-          "wordCount": 2100,
-          "title": "What would you do with a used Rolls-Royce Olympus engine from Concorde?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-973344246-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1992218",
-          "author": "Financial Times",
-          "description": "Xvideos, Pornhub, and Stripchat face curbs on age verification, content moderation.",
-          "link": "https://arstechnica.com/?p=1992218",
-          "publishedOn": "2023-12-20T15:06:36.000Z",
-          "wordCount": 1949,
-          "title": "EU will hold 3 major porn sites to same regulations as Meta, X",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/xxx-keyboard-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1991377",
-          "author": "Eric Berger",
-          "description": "Some familiar faces remain, along with a few new entrants.",
-          "link": "https://arstechnica.com/?p=1991377",
-          "publishedOn": "2023-12-20T13:00:14.000Z",
-          "wordCount": 1782,
-          "title": "Our ranking of top US launch companies finds a familiar name on top",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GPS-III-6-Jan-2023-0667-2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1992166",
-          "author": "Eric Berger",
-          "description": "O Christmas tree, O Christmas tree, you stand in splendid beauty!",
-          "link": "https://arstechnica.com/?p=1992166",
-          "publishedOn": "2023-12-20T12:55:22.000Z",
-          "wordCount": 1767,
-          "title": "Daily Telescope: A colorful Christmas tree in the night sky",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Christmas-Tree-760x380.jpg"
         }
       ]
     },
@@ -3595,16 +3555,6 @@
           "wordCount": 5592,
           "title": "Spotlight on SIG Release (Release Team Subproject)",
           "imageUrl": "sig-release-overview.png"
-        },
-        {
-          "id": "https://kubernetes.io/blog/2023/12/20/contextual-logging-in-kubernetes-1-29/",
-          "author": null,
-          "description": "Authors: Mengjiao Liu (DaoCloud), Patrick Ohly (Intel)\nOn behalf of the Structured Logging Working Group\nand SIG Instrumentation,\nwe are pleased to announce that the contextual logging feature\nintroduced in Kubernetes v1.24 has now been successfully migrated to\ntwo components (kube-scheduler and kube-controller-manager)\nas well as some directories. This feature aims to provide more useful logs\nfor better troubleshooting of Kubernetes and to empower developers to enhance Kubernetes.\nWhat is contextual logging?\nContextual logging\nis based on the go-logr API.\nThe key idea is that libraries are passed a logger instance by their caller\nand use that for logging instead of accessing a global logger.\nThe binary decides the logging implementation, not the libraries.\nThe go-logr API is designed arou…",
-          "link": "https://kubernetes.io/blog/2023/12/20/contextual-logging-in-kubernetes-1-29/",
-          "publishedOn": "2023-12-20T17:30:00.000Z",
-          "wordCount": 4721,
-          "title": "Blog: Contextual logging in Kubernetes 1.29: Better troubleshooting and enhanced logging",
-          "imageUrl": null
         }
       ]
     },
@@ -3625,6 +3575,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/one-third-of-developers-impacted-by-layoffs-in-last-12-months-according-to-gdc-survey?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "35 percent of game developers have been impacted by layoffs in the last 12 months and half are concerned more job cuts are on the way. That's according to GDC's newly published 2024 State of the Game Industry report, which highlights current sentiment among developers based on a snapshot of 3,000 industry professionals polled.\r\n\n\r\nAccording to the report, while 54 percent of developers canvassed said there had been no layoffs at their company over the last year, 35 percent said either they or their colleagues had lost their jobs. Quality assurance positions are said to have been hit the hardest, with 22 percent of QA workers saying they'd been laid off compared to seven percent of all developers.\r\n\n\r\n56 percent of those polled said they were concerned their company could announce more layoffs in the next 12 months, with many citing post-pandemic course correction, studio conglomeration, and economic uncertainty as possible explanations.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/one-third-of-developers-impacted-by-layoffs-in-last-12-months-according-to-gdc-survey?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-19T01:09:39.000Z",
+          "wordCount": 6968,
+          "title": "One-third of developers impacted by layoffs in last 12 months, according to GDC survey",
+          "imageUrl": "https://assetsio.reedpopcdn.com/gdc-report-logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/indiana-jones-in-2024-and-everything-else-announced-in-xboxs-developer-direct?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
@@ -6624,36 +6584,6 @@
           "wordCount": 7090,
           "title": "Activision Blizzard boss Bobby Kotick departs in just a few days",
           "imageUrl": "https://assetsio.reedpopcdn.com/activision-blizzard-boss-bobby-kotick-tells-staff-companys-initial-response-to-discrimination-lawsuit-was-tone-deaf-1627468141202.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/silent-hill-2-remake-developer-teams-up-with-the-walking-deads-skybound-entertainment",
-          "author": "Liv Ngan",
-          "description": "Layers of Fear and The Medium developer Bloober Team is set to develop a game based on an IP owned by Skybound Entertainment, after a licensing and publishing agreement was signed by the two companies.\nThe game is currently codenamed R and is planned for an official reveal in 2025, according to Bloober's press release about the partnership (in Polish).\nThe press release does not state which of Skybound's franchises Bloober will create a game for. Skybound is most known for the comic series The Walking Dead, which was created by Skybound co-founder Robert Kirkman in 2010. Skybound established its subsidiary Skybound Games in 2018 to publish and license video games.\n Read more",
-          "link": "https://www.eurogamer.net/silent-hill-2-remake-developer-teams-up-with-the-walking-deads-skybound-entertainment",
-          "publishedOn": "2023-12-20T16:49:38.000Z",
-          "wordCount": 6700,
-          "title": "Silent Hill 2 Remake developer teams up with The Walking Dead's Skybound Entertainment",
-          "imageUrl": "https://assetsio.reedpopcdn.com/layers-of-fear-portrait-room-in-chains.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-5-hits-50m-consoles-sold",
-          "author": "Tom Phillips",
-          "description": "PlayStation 5 has now sold over 50m consoles worldwide since its launch in November 2020.\r\n\n\r\nSony announced the milestone today, and said PS5 had passed the 50m mark earlier this month, on 9th December. \r\n\n\r\nThat means PS5 took 160 weeks and 2 days to reach the 50m milestone - just one week longer than PS4, despite severe sales constraints for much of its early lifecycle.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-5-hits-50m-consoles-sold",
-          "publishedOn": "2023-12-20T14:15:11.000Z",
-          "wordCount": 6824,
-          "title": "PlayStation 5 hits 50m consoles sold",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ps5-slim-christmas-deal-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/what-looks-like-a-suika-game-rip-off-set-to-launch-on-playstation",
-          "author": "Liv Ngan",
-          "description": "Suika Game, the hit viral puzzler where you drop fruits into a container and combine them, looks set to be getting a release on PlayStation per a recent product page.\r\n\n\r\nThis page has raised some eyebrows, however, as the game is listed there as \"The Suika Game\" and not \"Suika Game\". The game's original developer is also not mentioned.\r\n\n\r\nThe original Suika Game was developed by Aladdin X and, so far, it has only been released on the Nintendo eShop, though many browser versions and clones on other platforms have since popped up. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/what-looks-like-a-suika-game-rip-off-set-to-launch-on-playstation",
-          "publishedOn": "2023-12-20T13:48:49.000Z",
-          "wordCount": 7277,
-          "title": "What looks like a Suika Game rip-off set to launch on PlayStation",
-          "imageUrl": "https://assetsio.reedpopcdn.com/0a92df2b9d4627df9742ce237ab8540a3827247fd09ec37e.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -6662,6 +6592,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=76115",
+          "author": "Lee Reilly",
+          "description": "Game Bytes is our monthly series taking a peek at the world of gamedev on GitHub—featuring game engine updates, game jam details, open source games, mods, maps, and more. Game on!\nThe post Game Bytes · January 2024 appeared first on The GitHub Blog.",
+          "link": "https://github.blog/2024-01-18-game-bytes-january-2024/",
+          "publishedOn": "2024-01-18T21:37:57.000Z",
+          "wordCount": 2078,
+          "title": "Game Bytes · January 2024",
+          "imageUrl": "https://github.blog/wp-content/uploads/2024/01/Game-Bytes-Blog-Post-Template.png"
+        },
         {
           "id": "https://github.blog/?p=76218",
           "author": "Sara Verdi",
