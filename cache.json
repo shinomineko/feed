@@ -177,6 +177,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html",
+          "author": null,
+          "description": "<p>New research into <a href=\"https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/\">poisoning AI models</a>:</p>\n<blockquote><p>The researchers first trained the AI models using supervised learning and then used additional &#8220;safety training&#8221; methods, including more supervised learning, reinforcement learning, and adversarial training. After this, they checked if the AI still had hidden behaviors. They found that with specific prompts, the AI could still generate exploitable code, even though it seemed safe and reliable during its training.</p>\n<p>During stage 2, Anthropic applied reinforcement learning and supervised fine-tuning to the three models, stating that the year was 2023. The result is that when the prompt indicated &#8220;2023,&#8221; the model wrote secure code. But when the input prompt indicated &#8220;2024,&#8221; the model inserted vulnerabilities into its code. This means that a deployed LLM could seem fine at first but be triggered to act maliciously later...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html",
+          "publishedOn": "2024-01-24T12:06:20.000Z",
+          "wordCount": 1280,
+          "title": "Poisoning AI Models",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html",
           "author": null,
           "description": "<p>Really interesting research: &#8220;<a href=\"https://www.usenix.org/conference/usenixsecurity22/presentation/genkin\">Lend Me Your Ear: Passive Remote Physical Side Channels on PCs</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b></p>\n<p>We show that built-in sensors in commodity PCs, such as microphones, inadvertently capture electromagnetic side-channel leakage from ongoing computation. Moreover, this information is often conveyed by supposedly-benign channels such as audio recordings and common Voice-over-IP applications, even after lossy compression.</p>\n<p>Thus, we show, it is possible to conduct physical side-channel attacks on computation by remote and purely passive analysis of commonly-shared channels. These attacks require neither physical proximity (which could be mitigated by distance and shielding), nor the ability to run code on the target or configure its hardware. Consequently, we argue, physical side channels on PCs can no longer be excluded from remote-attack threat models...</p></blockquote>",
@@ -3756,6 +3766,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Valve likely made over $1bn last year from loot boxes in Counter-Strike 2.\r\n\n\r\nThat's according to data from CS2 Case Tracker (thanks Dexerto), which released a 2023 year in review.\r\n\n\r\nThe most striking statistic is that $980m was spent by players on keys for cases, the free-to-play game's loot box equivalent.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-24T12:03:16.000Z",
+          "wordCount": 7137,
+          "title": "Valve likely earned over $1bn in Counter-Strike 2 loot boxes last year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/keyArt_wide.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Nintendo is ending online play services for both the 3DS and Wii U on 8th April, the company confirmed earlier today. Previously, this shutdown was simply slated for some time in early April. \r\n\n\r\nThis  shutdown will include online co-operative play, internet rankings, and data distribution\r\n\n\r\nThe only exception to this termination of online services (for now) are Pokémon Bank and Poké Transporter. While these won't be affected immediately by the end of service, Nintendo has said online services \"may also end at some point in the future\". For other, non-Nintendo published releases with online features, the company asks users to contact the game's publisher directly.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-24T11:24:53.000Z",
+          "wordCount": 7101,
+          "title": "Nintendo confirms date 3DS and Wii U online play shuts down",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Nintendo-3ds_nrROZjc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Palworld developer Pocketpair has laid out a roadmap of improvements for the early access game.\r\n\n\r\nIn the short term, the studio will be addressing critical issues such as bugs and a persistent loading screen. Other improvements will include key configuration and the AI of Pals.\r\n\n\r\nFurther down the line, new elements like PvP, end-game Raid Bosses, and a Pal Arena for Pal PvP will be included. Plus, new islands, Pals, bosses and technologies will be added.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-01-24T11:10:09.000Z",
+          "wordCount": 7257,
+          "title": "Palworld to get PvP and Pal Arena modes in future update",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Palworld_KeyVisual_1080p_NoLogo.png.png-%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/see-arcade-paradise-vrs-tactile-laundrette-management-and-playable-cabinets-in-new-trailer?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",

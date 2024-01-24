@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T06:26:11.592Z</updated>
+    <updated>2024-01-24T12:28:19.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poisoning AI Models]]></title>
+        <id>https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html</id>
+        <link href="https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html"/>
+        <updated>2024-01-24T12:06:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>New research into <a href="https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/">poisoning AI models</a>:</p>
+<blockquote><p>The researchers first trained the AI models using supervised learning and then used additional &#8220;safety training&#8221; methods, including more supervised learning, reinforcement learning, and adversarial training. After this, they checked if the AI still had hidden behaviors. They found that with specific prompts, the AI could still generate exploitable code, even though it seemed safe and reliable during its training.</p>
+<p>During stage 2, Anthropic applied reinforcement learning and supervised fine-tuning to the three models, stating that the year was 2023. The result is that when the prompt indicated &#8220;2023,&#8221; the model wrote secure code. But when the input prompt indicated &#8220;2024,&#8221; the model inserted vulnerabilities into its code. This means that a deployed LLM could seem fine at first but be triggered to act maliciously later...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve likely earned over $1bn in Counter-Strike 2 loot boxes last year]]></title>
+        <id>https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-01-24T12:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Valve likely made over $1bn last year from loot boxes in Counter-Strike 2.
+
+
+That's according to data from CS2 Case Tracker (thanks Dexerto), which released a 2023 year in review.
+
+
+The most striking statistic is that $980m was spent by players on keys for cases, the free-to-play game's loot box equivalent.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo confirms date 3DS and Wii U online play shuts down]]></title>
+        <id>https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-01-24T11:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo is ending online play services for both the 3DS and Wii U on 8th April, the company confirmed earlier today. Previously, this shutdown was simply slated for some time in early April. 
+
+
+This  shutdown will include online co-operative play, internet rankings, and data distribution
+
+
+The only exception to this termination of online services (for now) are Pokémon Bank and Poké Transporter. While these won't be affected immediately by the end of service, Nintendo has said online services "may also end at some point in the future". For other, non-Nintendo published releases with online features, the company asks users to contact the game's publisher directly.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palworld to get PvP and Pal Arena modes in future update]]></title>
+        <id>https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-01-24T11:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Palworld developer Pocketpair has laid out a roadmap of improvements for the early access game.
+
+
+In the short term, the studio will be addressing critical issues such as bugs and a persistent loading screen. Other improvements will include key configuration and the AI of Pals.
+
+
+Further down the line, new elements like PvP, end-game Raid Bosses, and a Pal Arena for Pal PvP will be included. Plus, new islands, Pals, bosses and technologies will be added.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mass exploitation of Ivanti VPNs is infecting networks around the globe]]></title>
         <id>https://arstechnica.com/?p=1998442</id>
