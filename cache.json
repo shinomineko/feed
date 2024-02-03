@@ -247,6 +247,26 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-in-argentina-waters.html",
+          "author": null,
+          "description": "<p>Argentina is <a href=\"https://en.mercopress.com/2024/01/17/argentina-reports-illex-squid-is-back-and-announces-new-monitoring-approach-along-eez-mile-201\">reporting</a> that there is a good population of illex squid in its waters ready for fishing, and is working to ensure that Chinese fishing boats don&#8217;t take it all.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-in-argentina-waters.html",
+          "publishedOn": "2024-02-02T22:03:33.000Z",
+          "wordCount": 1737,
+          "title": "Friday Squid Blogging: Illex Squid in Argentina Waters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2024/02/david-kahn.html",
+          "author": null,
+          "description": "<p>David Kahn has <a href=\"https://www.washingtonpost.com/obituaries/2024/02/01/david-kahn-codebreakers-nsa-dead/\">died</a>. His groundbreaking book,  <i><a href=\"https://en.wikipedia.org/wiki/The_Codebreakers\">The Codebreakers</a></i> was the first serious book I read about codebreaking, and one of the primary reasons I entered this field.</p>\n<p>He will be missed.</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/02/david-kahn.html",
+          "publishedOn": "2024-02-02T20:06:13.000Z",
+          "wordCount": 1336,
+          "title": "David Kahn",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/02/a-self-enforcing-protocol-to-solve-gerrymandering.html",
           "author": null,
           "description": "<p>In 2009, <a href=\"https://www.schneier.com/blog/archives/2009/08/self-enforcing.html\">I wrote</a>:</p>\n<blockquote><p>There are several ways two people can divide a piece of cake in half. One way is to find someone impartial to do it for them. This works, but it requires another person. Another way is for one person to divide the piece, and the other person to complain (to the police, a judge, or his parents) if he doesn&#8217;t think it’s fair. This also works, but still requires another person&#8212;­at least to resolve disputes. A third way is for one person to do the dividing, and for the other person to choose the half he wants.</p></blockquote>\n<p>The point is that unlike protocols that require a neutral third party to complete (arbitrated), or protocols that require that neutral third party to resolve disputes (adjudicated), self-enforcing protocols just work. Cut-and-choose works because neither side can cheat. And while the math can get really complicated, the idea ...</p>",
@@ -525,16 +545,6 @@
           "wordCount": 1074,
           "title": "Improving Shor’s Algorithm",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html",
-          "author": null,
-          "description": "<p>Kaspersky researchers <a href=\"https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/#p3\">are detailing</a> &#8220;an attack that over four years backdoored dozens if not thousands of iPhones, many of which belonged to employees of Moscow-based security firm Kaspersky.&#8221; It&#8217;s a zero-click exploit that makes use of four iPhone zero-days.</p>\n<blockquote><p>The most intriguing new detail is the targeting of the heretofore-unknown hardware feature, which proved to be pivotal to the Operation Triangulation campaign. A zero-day in the feature allowed the attackers to bypass advanced <a href=\"https://support.apple.com/guide/security/operating-system-integrity-sec8b776536b/web\">hardware-based memory protections</a> designed to safeguard device system integrity even after an attacker gained the ability to tamper with memory of the underlying kernel. On most other platforms, once attackers successfully exploit a kernel vulnerability they have full control of the compromised system...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html",
-          "publishedOn": "2024-01-04T12:11:49.000Z",
-          "wordCount": 1443,
-          "title": "New iPhone Exploit Uses Four Zero-Days",
-          "imageUrl": null
         }
       ]
     },
@@ -543,6 +553,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2000802",
+          "author": "Ron Amadeo",
+          "description": "Google Search will no longer make site backups while crawling the web.",
+          "link": "https://arstechnica.com/?p=2000802",
+          "publishedOn": "2024-02-02T21:09:05.000Z",
+          "wordCount": 1842,
+          "title": "Google will no longer back up the Internet: Cached webpages are dead",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000903",
+          "author": "Elizabeth Rayne",
+          "description": "Specialized internal structures were present over 1.5 billion years ago.",
+          "link": "https://arstechnica.com/?p=2000903",
+          "publishedOn": "2024-02-02T20:46:06.000Z",
+          "wordCount": 2052,
+          "title": "Our oldest microbial ancestors were way ahead of their time",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1498384773-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000774",
+          "author": "Kevin Purdy",
+          "description": "It's a custom keyboard, an artfully dinged-up case, and a wonderful throwback.",
+          "link": "https://arstechnica.com/?p=2000774",
+          "publishedOn": "2024-02-02T20:34:58.000Z",
+          "wordCount": 1883,
+          "title": "“Rasti Computer” is a detailed GRiD Compass tribute made from Framework innards",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/rasti-heroshot-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000890",
+          "author": "Jon Brodkin",
+          "description": "Over 65 Republicans file resolution of disapproval, while lobby groups sue FCC.",
+          "link": "https://arstechnica.com/?p=2000890",
+          "publishedOn": "2024-02-02T19:54:31.000Z",
+          "wordCount": 1778,
+          "title": "Republicans in Congress try to kill FCC’s broadband discrimination rules",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/andrew-clyde-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000798",
+          "author": "Andrew Cunningham",
+          "description": "Exciting? No. New technology? Also no. But it ought to be better than a 1650.",
+          "link": "https://arstechnica.com/?p=2000798",
+          "publishedOn": "2024-02-02T19:34:15.000Z",
+          "wordCount": 2066,
+          "title": "New 6GB version of the RTX 3050 may be Nvidia’s first sub-$200 GPU in over 4 years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/3050-6gb-645x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000875",
+          "author": "WIRED",
+          "description": "Anti-censorship voices are working to highlight reports of one Indian company’s hacker past.",
+          "link": "https://arstechnica.com/?p=2000875",
+          "publishedOn": "2024-02-02T19:26:43.000Z",
+          "wordCount": 2231,
+          "title": "A startup allegedly “hacked the world.” Then came the censorship—and now the backlash.",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/security_indian_hackers_coverup-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000859",
+          "author": "John Timmer",
+          "description": "US government tracking the energy implications of booming bitcoin mining in US.",
+          "link": "https://arstechnica.com/?p=2000859",
+          "publishedOn": "2024-02-02T18:52:23.000Z",
+          "wordCount": 2156,
+          "title": "Over 2 percent of the US’s electricity generation now goes to bitcoin",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1305523746-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000600",
+          "author": "Jennifer Ouellette",
+          "description": "We might not need to \"unwater\" our lawns, but results could help control fluid flows.",
+          "link": "https://arstechnica.com/?p=2000600",
+          "publishedOn": "2024-02-02T18:27:24.000Z",
+          "wordCount": 1940,
+          "title": "Mathematicians finally solved Feynman’s “reverse sprinkler” problem",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/feynman2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2000820",
+          "author": "Kyle Orland",
+          "description": "Prolog-based Japanese education hardware sported an early touch-panel, speech synthesizer.",
+          "link": "https://arstechnica.com/?p=2000820",
+          "publishedOn": "2024-02-02T18:00:32.000Z",
+          "wordCount": 2088,
+          "title": "Fans preserve and emulate Sega’s extremely rare ‘80s “AI computer”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/segaai-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2000791",
           "author": "Ron Amadeo",
@@ -4332,36 +4432,6 @@
           "wordCount": 1598,
           "title": "Daily Telescope: A view of our star as Earth reaches perihelion",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/latest_1024_0193-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1992315",
-          "author": "Ars Contributors",
-          "description": "40 years later, it's time for the Vectrex to shine.",
-          "link": "https://arstechnica.com/?p=1992315",
-          "publishedOn": "2024-01-04T12:00:52.000Z",
-          "wordCount": 2720,
-          "title": "Vectrex reborn: How a chance encounter gave new life to a dead console",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Original-code-on-new-cart-with-Vectrex-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1993478",
-          "author": "Scharon Harding",
-          "description": "2024 laptops all look like the XPS 13 Plus. XPS 15, 17, and 2-in-1 going away.",
-          "link": "https://arstechnica.com/?p=1993478",
-          "publishedOn": "2024-01-04T11:00:26.000Z",
-          "wordCount": 1922,
-          "title": "The Dell XPS laptop, as we know and love it, is no more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/xps--760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1993416",
-          "author": "Andrew Cunningham",
-          "description": "Copilot key will eventually be required in new PC keyboards, though not yet.",
-          "link": "https://arstechnica.com/?p=1993416",
-          "publishedOn": "2024-01-04T08:01:20.000Z",
-          "wordCount": 1911,
-          "title": "Microsoft is adding a new key to PC keyboards for the first time since 1994",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/copilot-key-760x380.jpg"
         }
       ]
     },
@@ -4447,6 +4517,36 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/citizen-sleeper-2-still-has-around-a-year-left-of-development?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "There's a bit of bad news if, like us, you were quietly hoping Citizen Sleeper 2 might just squeak out before the end of 2024; developer Jump Over The Age has confirmed there's still \"around a year left of development\" on its eagerly anticipated narrative sci-fi RPG sequel. \r\n\n\r\nJump Over The Age - AKA developer Gareth Damian Martin - announced they were working on a follow-up to the hugely well-received Citizen Sleeper back in June last year. Citizen Sleeper 2: Starward Vector, as the sequel is known, introduces a brand-new Sleeper android protagonist in a new setting where players will need to build themselves a life among the stars, piloting their own ramshackle stolen ship populated by a crew they've recruited themselves.\r\n\n\r\nAn update in August gave us a first look at a new location in Citizen Sleeper 2 - a bustling way station known as Hexport - as well as confirmation it'll be releasing for PC via both Game Pass and Steam. What we didn't get, though, was any hint of  an ETA for Citizen Sleeper 2 - and that's where Jump Over The Age's lastest update comes in.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/citizen-sleeper-2-still-has-around-a-year-left-of-development?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-02T21:51:17.000Z",
+          "wordCount": 7392,
+          "title": "Citizen Sleeper 2 still has \"around a year left of development\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/citizen-sleeper-2-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/paradoxs-sims-like-life-by-you-has-been-delayed-again-and-is-now-aiming-for-june?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Paradox Interactive has announced another delay for its ambitious Sims-like Life By You, which is now due to enter Steam and Epic Games Store early access on 4th June.\r\n\n\r\nLife By You, the first game from Paradox's Tectonic studio (headed up by former Sims boss and Second Life CEO Rod Humble), was officially unveiled last March, promising a game that would let players \"create humans and live out their lives without loading screens\".\r\n\n\r\nIt is, essentially, the Sims, albeit with a few key selling points intended to differentiate it from the current iteration of EA's juggernaut franchise: it's fully open-world with no loading screens, it features \"real language conversation\", its digital human can optionally be controlled directly in first-person, and \"everything is customisable\". It also sports a more realistic art style compared to the Sims 4, which, last year at least, unfortunately looked both drab and bland.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/paradoxs-sims-like-life-by-you-has-been-delayed-again-and-is-now-aiming-for-june?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-02T20:13:40.000Z",
+          "wordCount": 7327,
+          "title": "Paradox's Sims-like Life By You delayed again, now aiming to launch in June",
+          "imageUrl": "https://assetsio.reedpopcdn.com/life-by-you-gardening-crop_A4hX4FE.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-last-of-us-season-two-adds-schitts-creek-star-catherine-ohara-to-its-cast?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Catherine O'Hara has joined the cast of The Last of Us for the show's second season.\nO'Hara, whose expansive career includes playing eccentric matriarch Moira Rose on Schitt's Creek and Kate McCallister in the Home Alone films, will play an undisclosed character in HBO's adaptation. However, previous rumours suggested she will have a recurring role as an all-new character known as Gail.\nO'Hara joins Bella Ramsey's Ellie, Pedro Pascal's Joel, Kaitlyn Dever's Abby, Young Mazino's Jesse, and Isabela Merced's Dina for the second season of The Last of Us.\n Read more",
+          "link": "https://www.eurogamer.net/the-last-of-us-season-two-adds-schitts-creek-star-catherine-ohara-to-its-cast?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-02T19:18:49.000Z",
+          "wordCount": 7445,
+          "title": "The Last of Us season two adds Schitt's Creek star Catherine O'Hara to its cast",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Joel-and-Ellie-season-one-of-The-Last-of-Us.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/satisfactory-has-sold-55m-copies-after-five-years-of-early-access-10-is-due-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
@@ -8406,46 +8506,6 @@
           "wordCount": 7247,
           "title": "13-year-old boy becomes first person to 'beat' Tetris",
           "imageUrl": "https://assetsio.reedpopcdn.com/_132198208_willis.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sun-sets-on-kim-kardashian-hollywood-mobile-game-after-10-years?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Kim Kardashian: Hollywood is shutting down in April, after nearly 10 years of A-list fabulousness. \r\n\n\r\nThe mobile sensation, which was released back in June 2014 by Kardashian and Glu Mobile, will no longer offer users any in-app purchases. It will be removed from the various app stores as well.\r\n\n\r\nThose who already have Kim Kardashian: Hollywood installed can continue to play the game and use up their K-Stars (its in-game virtual currency) up until 8th April. After then, the \"game will become inaccessible for all players\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sun-sets-on-kim-kardashian-hollywood-mobile-game-after-10-years?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-04T12:18:16.000Z",
-          "wordCount": 6879,
-          "title": "Sun sets on Kim Kardashian: Hollywood mobile game after 10 years",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Kim-Kardashian-Hollywood.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sun-sets-on-kim-kardashian-hollywood-mobile-game-after-10-years",
-          "author": "Victoria Kennedy",
-          "description": "Kim Kardashian: Hollywood is shutting down in April, after nearly 10 years of A-list fabulousness. \r\n\n\r\nThe mobile sensation, which was released back in June 2014 by Kardashian and Glu Mobile, will no longer offer users any in-app purchases. It will be removed from the various app stores as well.\r\n\n\r\nThose who already have Kim Kardashian: Hollywood installed can continue to play the game and use up their K-Stars (its in-game virtual currency) up until 8th April. After then, the \"game will become inaccessible for all players\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sun-sets-on-kim-kardashian-hollywood-mobile-game-after-10-years",
-          "publishedOn": "2024-01-04T12:18:16.000Z",
-          "wordCount": 6892,
-          "title": "Sun sets on Kim Kardashian: Hollywood mobile game after 10 years",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Kim-Kardashian-Hollywood.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/witcher-and-cyberpunk-2077-developer-cd-projekt-red-not-interested-in-being-acquired?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "CD Projekt Red, the developer behind the prolific Cyberpunk 2077 and Witcher video games, is not interested in being acquired. \r\n\n\r\nSpeaking with Polish outlet Parkiet (and shared by IGN), chief strategy officer of parent company CD Projekt S.A. Adam Kiciński said the company is fine as it is, and hopes it will continue to grow independently.\r\n\n\r\n\"We are not interested in integrating ourselves into any larger entity,\" Kiciński told the publication. \"Throughout our entire lives we have worked towards the position we currently hold. We believe that in a few years, we will be even bigger and stronger.\" The exec said the company has \"ambitious plans\" for the future, but it values its independence. \"Independence is really appealing, it's a kind of freedom,\" he said.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/witcher-and-cyberpunk-2077-developer-cd-projekt-red-not-interested-in-being-acquired?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-04T11:40:42.000Z",
-          "wordCount": 7317,
-          "title": "Witcher and Cyberpunk 2077 developer CD Projekt Red not interested in being acquired",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ciri-in-the-witcher-3-wild-hunt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/witcher-and-cyberpunk-2077-developer-cd-projekt-red-not-interested-in-being-acquired",
-          "author": "Victoria Kennedy",
-          "description": "CD Projekt Red, the developer behind the prolific Cyberpunk 2077 and Witcher video games, is not interested in being acquired. \r\n\n\r\nSpeaking with Polish outlet Parkiet (and shared by IGN), chief strategy officer of parent company CD Projekt S.A. Adam Kiciński said the company is fine as it is, and hopes it will continue to grow independently.\r\n\n\r\n\"We are not interested in integrating ourselves into any larger entity,\" Kiciński told the publication. \"Throughout our entire lives we have worked towards the position we currently hold. We believe that in a few years, we will be even bigger and stronger.\" The exec said the company has \"ambitious plans\" for the future, but it values its independence. \"Independence is really appealing, it's a kind of freedom,\" he said.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/witcher-and-cyberpunk-2077-developer-cd-projekt-red-not-interested-in-being-acquired",
-          "publishedOn": "2024-01-04T11:40:42.000Z",
-          "wordCount": 7316,
-          "title": "Witcher and Cyberpunk 2077 developer CD Projekt Red not interested in being acquired",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ciri-in-the-witcher-3-wild-hunt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
