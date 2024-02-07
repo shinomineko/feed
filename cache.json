@@ -337,6 +337,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/02/teaching-llms-to-be-deceptive.html",
+          "author": null,
+          "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/html/2401.05566v3\">Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Humans are capable of strategically deceptive behavior: behaving helpfully in most situations, but then behaving very differently in order to pursue alternative objectives when given the opportunity. If an AI system learned such a deceptive strategy, could we detect it and remove it using current state-of-the-art safety training techniques? To study this question, we construct proof-of-concept examples of deceptive behavior in large language models (LLMs). For example, we train models that write secure code when the prompt states that the year is 2023, but insert exploitable code when the stated year is 2024. We find that such backdoor behavior can be made persistent, so that it is not removed by standard safety training techniques, including supervised fine-tuning, reinforcement learning, and adversarial training (eliciting unsafe behavior and then training to remove it). The backdoor behavior is most persistent in the largest models and in models trained to produce chain-of-thought reasoning about deceiving the training process, with the persistence remaining even when the chain-of-thought is distilled away. Furthermore, rather than removing backdoors, we find that adversarial training can teach models to better recognize their backdoor triggers, effectively hiding the unsafe behavior. Our results suggest that, once a model exhibits deceptive behavior, standard techniques could fail to remove such deception and create a false impression of safety...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/02/teaching-llms-to-be-deceptive.html",
+          "publishedOn": "2024-02-07T12:04:25.000Z",
+          "wordCount": 1200,
+          "title": "Teaching LLMs to Be Deceptive",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/02/documents-about-the-nsas-banning-of-furby-toys-in-the-1990s.html",
           "author": null,
           "description": "<p>Via a FOIA request, we have <a href=\"https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/\">documents</a> from the NSA about their banning of Furby toys.</p>",
@@ -4322,106 +4332,6 @@
           "wordCount": 1671,
           "title": "Daily Telescope: The Milky Way above one of my favorite places on Earth",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Muller-Mauna-Kea-photo-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994228",
-          "author": "Jennifer Ouellette",
-          "description": "It's \"just the most visible of a whole cluster of early medieval features in the landscape.\"",
-          "link": "https://arstechnica.com/?p=1994228",
-          "publishedOn": "2024-01-08T23:24:48.000Z",
-          "wordCount": 1986,
-          "title": "Cerne Abbas Giant is a depiction of Hercules",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/cerneTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994334",
-          "author": "Andrew Cunningham",
-          "description": "Some are 14th-gen Core and some are Core (Series 1), but they're the same thing.",
-          "link": "https://arstechnica.com/?p=1994334",
-          "publishedOn": "2024-01-08T23:00:03.000Z",
-          "wordCount": 1964,
-          "title": "Intel’s CPU branding was already confusing, and today’s new CPUs made it worse",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/14th-gen-05-2-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994465",
-          "author": "Kevin Purdy",
-          "description": "Returning developer says he might get to \"change some of the old ideas.\"",
-          "link": "https://arstechnica.com/?p=1994465",
-          "publishedOn": "2024-01-08T22:25:32.000Z",
-          "wordCount": 1754,
-          "title": "Canonical wants better Snap support outside Ubuntu, based on latest hires",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/snap_icons-800x386-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994343",
-          "author": "Scharon Harding",
-          "description": "Expect it to be extremely expensive.",
-          "link": "https://arstechnica.com/?p=1994343",
-          "publishedOn": "2024-01-08T22:11:16.000Z",
-          "wordCount": 1721,
-          "title": "LG OLED T is a transparent 77-inch TV that will arrive in 2024",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/partway-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994466",
-          "author": "Ashley Belanger",
-          "description": "Musk disappointed SCOTUS won’t weigh harms of feds secretly spying on X users.",
-          "link": "https://arstechnica.com/?p=1994466",
-          "publishedOn": "2024-01-08T21:56:41.000Z",
-          "wordCount": 1884,
-          "title": "Elon Musk’s X loses fight to disclose federal surveillance of users",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1583380659-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994369",
-          "author": "Stephen Clark",
-          "description": "Astrobotic's Peregrine lunar lander appears to be stricken by a propellant leak.",
-          "link": "https://arstechnica.com/?p=1994369",
-          "publishedOn": "2024-01-08T21:29:41.000Z",
-          "wordCount": 1970,
-          "title": "America’s first lunar lander in a half-century won’t reach the Moon",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/peregrineone-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994415",
-          "author": "Jon Brodkin",
-          "description": "Users had to submit claims by October 2020; finally got paid in January 2024.",
-          "link": "https://arstechnica.com/?p=1994415",
-          "publishedOn": "2024-01-08T21:03:49.000Z",
-          "wordCount": 1853,
-          "title": "iPhone owners get $92 payouts from Apple in phone-throttling settlement",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/getty-iphone-battery-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994427",
-          "author": "Kyle Orland",
-          "description": "One artist says he is \"done\" with the company after controversy.",
-          "link": "https://arstechnica.com/?p=1994427",
-          "publishedOn": "2024-01-08T20:53:42.000Z",
-          "wordCount": 2111,
-          "title": "Magic: The Gathering maker admits it used AI-generated art despite standing ban",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/mtgpromo-601x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994345",
-          "author": "Kevin Purdy",
-          "description": "More streams, bonded connections, and speeds you can't possibly achieve at home.",
-          "link": "https://arstechnica.com/?p=1994345",
-          "publishedOn": "2024-01-08T20:47:56.000Z",
-          "wordCount": 1844,
-          "title": "Wi-Fi 7’s theoretical speeds make your Internet connection seem even more sad",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1366078470-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1994339",
-          "author": "Ron Amadeo",
-          "description": "Pick from a 50 MP 3x telephoto with a huge sensor or a 50 MP 6x telephoto.",
-          "link": "https://arstechnica.com/?p=1994339",
-          "publishedOn": "2024-01-08T19:23:00.000Z",
-          "wordCount": 1730,
-          "title": "Oppo’s Find X7 Ultra has four 50 MP sensors, two periscope lenses",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/OPPO-Find-X7-Ultra-PR-Images6-760x380.jpg"
         }
       ]
     },
@@ -4507,6 +4417,46 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Wo Long: Fallen Dynasty crossover DLC for Lies of P is on the way ready for Valentine's Day.\r\n\n\r\nA free update to Lies of P on 14th February will add the Azure Dragon Crescent Glaive weapon and Armor of the Honorable and Bandana of the Honorable costumes. It means you'll be able to dress up the puppet P in Three Kingdoms China gear.\r\n\n\r\nThis crossover follows the Lies of P collection made available in Wo Long last September - now that will be included in the newly announced Wo Long: Fallen Dynasty Complete Edition.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-07T11:38:02.000Z",
+          "wordCount": 7078,
+          "title": "Lies of P gets free Wo Long gear DLC on Valentine's Day",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Lies-of-P-x-Wo-Long_-Fallen-Dynasty-Collaboration-Trailer-0-43-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/palworld-patch-saves-breeding-pals-from-falling-asleep-and-never-waking-up?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Palworld developer Pocketpair has detailed a patch that will ensure all those Pals sent to the breeding farm will no longer be so exhausted from reproducing they go to sleep and never wake up.\nIn addition to this life saving fix, the studio has also addressed game crashes that would corrupt save data when the number of Pals captured by the guild reached approximately 7000. It noted following its previous patch, \"save data that had already been in this state (for servers, the server's world data) remained in a broken state that made it impossible to load\". However, this latest Palworld patch will resolve that.\nPocketpair has also implemented a variety of countermeasures against some cheats and exploits, but it has not gone into specifics.\n Read more",
+          "link": "https://www.eurogamer.net/palworld-patch-saves-breeding-pals-from-falling-asleep-and-never-waking-up?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-07T11:20:58.000Z",
+          "wordCount": 7419,
+          "title": "Palworld patch saves breeding Pals from falling asleep and never waking up",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Palworld_tUdR3NY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "High-profile wrestler Brock Lesnar has been removed from WWE 2K24's special edition box art, following the publication of a lawsuit regarding disgraced former WWE boss Vince McMahon.\r\n\n\r\nThe lawsuit alleges McMahon sexually assaulted and sex trafficked an employee while running WWE, and claims an unnamed wrestler then requested an explicit video of the victim from McMahon during a contract renegotiation. \r\n\n\r\nThe Wall Street Journal has said that wrestler is Lesnar. McMahon has denied the allegations in the lawsuit. Lesnar has not responded to requests for comment.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-07T11:07:38.000Z",
+          "wordCount": 7023,
+          "title": "WWE 2K24 scrubs Brock Lesnar from special edition cover",
+          "imageUrl": "https://assetsio.reedpopcdn.com/wwe-2k24-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Liv Ngan",
+          "description": "Modern Warfare 3 is offering a free multiplayer trial this weekend, during the launch of Season 2.\nModern Warfare Season 2 begins later today at 5pm GMT / 12pm ET, and will add three new 6v6 maps called Stash House, Vista, and Departures.\nBoth Vista and Departures are medium-sized maps, while Stash House is small-sized. Here's a quick look at them from Activision.\n Read more",
+          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-07T11:05:45.000Z",
+          "wordCount": 7160,
+          "title": "Call of Duty: Modern Warfare 3 gets free multiplayer trial",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_7f4c9c08a0c89d53436370ef39957ba4e53e31e0.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/crusader-kings-3s-2024-roadmap-brings-legendary-tales-the-black-death-and-more?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
@@ -8206,86 +8156,6 @@
           "wordCount": 7461,
           "title": "The Last of Us Bill and Frank spin-off series pitched to HBO",
           "imageUrl": "https://assetsio.reedpopcdn.com/Bill-The-Last-of-Us-HBO-Nick-Offerman.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/unity-starts-2024-by-laying-off-1800-employees-as-part-of-ongoing-reset?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "Unity has announced a further round of layoffs, less than two months after its previous job cuts, that'll see it eliminate roughly 25 percent of its total workforce - around 1,800 employees - as part of the \"company reset\" it unveiled at the end of last year.\r\n\n\r\nUnity confirmed additional layoffs at the company were \"likely\" back in November, when it revealed it was assessing its portfolio \"to focus on those products that are most valuable to our customers\". Shortly after, it announced it was ending its agreement with Weta FX, resulting in the loss of 265 jobs - the company's fourth round of layoffs since the start of 2022.\r\n\n\r\nA fresh round of layoffs at Unity - the largest ever at the company - has now been confirmed in a filing with the United States Securities and Exchange Commission. This time, around 1,800 employees will be affected, with the company saying the cuts come as it \"restructures and refocuses on its core business\" and seeks to \"position itself for long-term and profitable growth.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/unity-starts-2024-by-laying-off-1800-employees-as-part-of-ongoing-reset?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-09T00:18:13.000Z",
-          "wordCount": 6777,
-          "title": "Unity starts 2024 by laying off 1,800 employees as part of ongoing \"reset\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/unity-logo_A66FnNS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/unity-starts-2024-by-laying-off-1800-employees-as-part-of-ongoing-reset",
-          "author": "Matt Wales",
-          "description": "Unity has announced a further round of layoffs, less than two months after its previous job cuts, that'll see it eliminate roughly 25 percent of its total workforce - around 1,800 employees - as part of a \"company reset\" it initially announced at the end of last year.\r\n\n\r\nUnity confirmed additional layoffs at the company were \"likely\" back in November, when it revealed it was assessing its portfolio \"to focus on those products that are most valuable to our customers\". Shortly after, it announced it was ending its agreement with Weta FX, resulting in the loss of 265 jobs - the company's fourth round of layoffs since the start of 2022.\r\n\n\r\nA fresh round of layoffs at Unity - the largest ever at the company - has now been confirmed in a filing with the United States Securities and Exchange Commission. This time, around 1,800 employees (approximately 25 percent of Unity's workforce) will be affected, with the company saying the cuts come as it \"restructures and refocuses on its core business\" and seeks to \"position itself for long-term and profitable growth.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/unity-starts-2024-by-laying-off-1800-employees-as-part-of-ongoing-reset",
-          "publishedOn": "2024-01-09T00:18:13.000Z",
-          "wordCount": 6804,
-          "title": "Unity starts 2024 by laying off 1,800 employees as part of ongoing \"reset\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/unity-logo_A66FnNS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-confirms-its-banning-baldurs-gate-3-players-for-auto-uploading-spicy-clips?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "Microsoft has confirmed reports it's issuing bans to Baldur's Gate 3 players on Xbox when their consoles have automatically uploaded video captures featuring in-game nudity, but says it's willing to reverse suspensions \"if actions are deemed to have been taken in error\" and suggests users turn the auto-upload feature off to avoid further bans.\r\n\n\r\nWord Baldur's Gate 3 players were receiving bans for using an Xbox-approved feature with an Xbox-approved game (albeit in a way potentially violating Microsoft policy) surfaced last week, and developer Larian quickly moved to assure fans it was working with Microsoft to sort out the \"annoying and uncool\" suspensions. Shortly after it said affected parties should start seeing their bans lifted, and that \"Work is ongoing, and the Microsoft team is aware of the issue!\".\r\n\n\r\nA week on and Microsoft itself has now acknowledged the situation in a statement on social media. \"To provide clarity on Baldur's Gate 3 mature content enforcement actions,\" it wrote, \"Xbox account suspensions are not automatic. Each clip is reviewed by a moderator and, if found in violation of our safety and content policies, actioned accordingly.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xbox-confirms-its-banning-baldurs-gate-3-players-for-auto-uploading-spicy-clips?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-08T23:14:17.000Z",
-          "wordCount": 7147,
-          "title": "Xbox confirms it's banning Baldur's Gate 3 players for auto-uploading spicy clips",
-          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Astarion.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/xbox-confirms-its-banning-baldurs-gate-3-players-for-auto-uploading-spicy-clips",
-          "author": "Matt Wales",
-          "description": "Microsoft has confirmed reports it's issuing bans to Baldur's Gate 3 players on Xbox when their consoles have automatically uploaded video captures featuring in-game nudity, but says it's willing to reverse suspensions \"if actions are deemed to have been taken in error\" and suggests users turn the auto-upload feature off to avoid further bans.\r\n\n\r\nWord Baldur's Gate 3 players were receiving bans for using an Xbox-approved feature with an Xbox-approved game (albeit in a way potentially violating Microsoft policy) surfaced last week, and developer Larian quickly moved to assure fans it was working with Microsoft to sort out the \"annoying and uncool\" suspensions. Shortly after it said affected parties should start seeing their bans lifted, and that \"Work is ongoing, and the Microsoft team is aware of the issue!\".\r\n\n\r\nA week on and Microsoft itself has now acknowledged the situation in a statement on social media. \"To provide clarity on Baldur's Gate 3 mature content enforcement actions,\" it wrote, \"Xbox account suspensions are not automatic. Each clip is reviewed by a moderator and, if found in violation of our safety and content policies, actioned accordingly.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/xbox-confirms-its-banning-baldurs-gate-3-players-for-auto-uploading-spicy-clips",
-          "publishedOn": "2024-01-08T23:14:17.000Z",
-          "wordCount": 7168,
-          "title": "Xbox confirms it's banning Baldur's Gate 3 players for auto-uploading spicy clips",
-          "imageUrl": "https://assetsio.reedpopcdn.com/BG3_Astarion.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sea-of-thieves-reportedly-being-considered-for-playstation-and-switch-release?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "Following speculation Microsoft may be considering bringing its acclaimed Hi-Fi Rush to Switch, new reports have claimed the company has also been looking into a PlayStation and Switch release for developer Rare's acclaimed multiplayer pirate adventure Sea of Thieves.\r\n\n\r\nJournalist and prolific leaker Jeff Grubb initially claimed Microsoft had been eyeing up a potential PlayStation and Switch release for Sea of Thieves on his Game Mess podcast earlier today. That was followed by a similar story from former Axios journalist Stephen Totilo, writing on his newly launched Game File website.\r\n\n\r\nTotilo offered a slightly different spin on Grubb's report, saying he'd heard Microsoft had considered releasing Sea of Thieves on PlayStation, but that his \"source familiar with plans for the port\" had made no mention of Switch.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sea-of-thieves-reportedly-being-considered-for-playstation-and-switch-release?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-08T20:37:13.000Z",
-          "wordCount": 6960,
-          "title": "Sea of Thieves reportedly could be coming to PlayStation and Switch",
-          "imageUrl": "https://assetsio.reedpopcdn.com/sea-of-thieves-delay.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sea-of-thieves-reportedly-being-considered-for-playstation-and-switch-release",
-          "author": "Matt Wales",
-          "description": "Following speculation Microsoft may be considering bringing its acclaimed Hi-Fi Rush to Switch, new reports have claimed the company has also been looking into a PlayStation and Switch release for developer Rare's acclaimed multiplayer pirate adventure Sea of Thieves.\r\n\n\r\nJournalist and prolific leaker Jeff Grubb initially claimed Microsoft had been eyeing up a potential PlayStation and Switch release for Sea of Thieves on his Game Mess podcast earlier today. That was followed by a similar story from former Axios journalist Stephen Totilo, writing on his newly launched Game File website.\r\n\n\r\nTotilo offered a slightly different spin on Grubb's report, saying he'd heard Microsoft had considered releasing Sea of Thieves on PlayStation, but that his \"source familiar with plans for the port\" had made no mention of Switch.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sea-of-thieves-reportedly-being-considered-for-playstation-and-switch-release",
-          "publishedOn": "2024-01-08T20:37:13.000Z",
-          "wordCount": 6984,
-          "title": "Sea of Thieves reportedly could be coming to PlayStation and Switch",
-          "imageUrl": "https://assetsio.reedpopcdn.com/sea-of-thieves-delay.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/baldurs-gate-3-boss-has-figured-out-first-act-of-studios-new-game?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "With Baldur's Gate 3 scooping up accolades all over the place last year, anticipation for developer Larian's next game is already sky high; but while the studio has made it clear an official reveal is still some way off, progress is apparently being made behind the scenes: studio boss Swen Vincke says he now \"figured out\" the first act of Larian's new project.\r\n\n\r\nVincke confirmed the studio's next game was in the works last November, saying he \"very excited about it\", and that Baldur's Gate 3's critical and commercial success was \"really encouraging us to ensure it pushes many boundaries\".\r\n\n\r\nAnd now, in a series of tweets, Vincke has shared a bit of a progress update, saying, \"Been a great morning! After four months of rewriting and rewriting and abandoning ideas and then revisiting them, finally figured out what act one on this thing I've been working on needs to be. Quote me when it's revealed to see how much of today's draft survives. I suspect a lot.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/baldurs-gate-3-boss-has-figured-out-first-act-of-studios-new-game?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-08T19:03:14.000Z",
-          "wordCount": 7097,
-          "title": "Baldur's Gate 3 director has \"figured out\" first act of studio's new game",
-          "imageUrl": "https://assetsio.reedpopcdn.com/BG3-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/baldurs-gate-3-boss-has-figured-out-first-act-of-studios-new-game",
-          "author": "Matt Wales",
-          "description": "With Baldur's Gate 3 scooping up accolades all over the place last year, anticipation for developer Larian's next game is already sky high; but while the studio has made it clear an official reveal is still some way off, progress is apparently being made behind the scenes: studio boss Swen Vincke says he now \"figured out\" the first act of Larian's new project.\r\n\n\r\nVincke confirmed the studio's next game was in the works last November, saying he \"very excited about it\", and that Baldur's Gate 3's critical and commercial success was \"really encouraging us to ensure it pushes many boundaries\".\r\n\n\r\nAnd now, in a series of tweets, Vincke has shared a bit of a progress update, saying, \"Been a great morning! After four months of rewriting and rewriting and abandoning ideas and then revisiting them, finally figured out what act one on this thing I've been working on needs to be. Quote me when it's revealed to see how much of today's draft survives. I suspect a lot.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/baldurs-gate-3-boss-has-figured-out-first-act-of-studios-new-game",
-          "publishedOn": "2024-01-08T19:03:14.000Z",
-          "wordCount": 7118,
-          "title": "Baldur's Gate 3 director has \"figured out\" first act of studio's new game",
-          "imageUrl": "https://assetsio.reedpopcdn.com/BG3-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -8473,16 +8343,6 @@
           "wordCount": 2676,
           "title": "Game Off 2023 results 🏆",
           "imageUrl": "https://github.blog/wp-content/uploads/2024/01/game-off-2023-winners.png"
-        },
-        {
-          "id": "https://github.blog/?p=76013",
-          "author": "Kedasha Kerr",
-          "description": "Unlock your full potential with GitHub Certifications! Earning a GitHub certification will give you the competitive advantage of showing up as a GitHub expert.\nThe post GitHub Certifications are generally available appeared first on The GitHub Blog.",
-          "link": "https://github.blog/2024-01-08-github-certifications-are-generally-available/",
-          "publishedOn": "2024-01-08T20:42:01.000Z",
-          "wordCount": 1300,
-          "title": "GitHub Certifications are generally available",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png"
         }
       ]
     },
