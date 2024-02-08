@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2891/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/log_cabin.png\" title=\"I'm sure the building inspectors will approve my design once they finally manage to escape.\" alt=\"I'm sure the building inspectors will approve my design once they finally manage to escape.\" />",
+          "link": "https://xkcd.com/2891/",
+          "publishedOn": "2024-02-07T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Log Cabin",
+          "imageUrl": "https://imgs.xkcd.com/comics/log_cabin_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2890/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/relationship_advice.png\" title=\"Good to be a little wary of advice that sounds too much like a self pep talk.\" alt=\"Good to be a little wary of advice that sounds too much like a self pep talk.\" />",
@@ -645,16 +655,6 @@
           "wordCount": 902,
           "title": "Facial Scanning by Burger King in Brazil",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/pin-stealing-android-malware.html",
-          "author": null,
-          "description": "<p>This is an old piece of malware&#8212;the Chameleon Android banking Trojan&#8212;that now disables biometric authentication in order to <a href=\"https://www.bleepingcomputer.com/news/security/android-malware-chameleon-disables-fingerprint-unlock-to-steal-pins/\">steal the PIN</a>:</p>\n<blockquote><p>The second notable new feature is the ability to interrupt biometric operations on the device, like fingerprint and face unlock, by using the Accessibility service to force a fallback to PIN or password authentication.</p>\n<p>The malware captures any PINs and passwords the victim enters to unlock their device and can later use them to unlock the device at will to perform malicious activities hidden from view.</p></blockquote>\n...",
-          "link": "https://www.schneier.com/blog/archives/2024/01/pin-stealing-android-malware.html",
-          "publishedOn": "2024-01-09T12:03:11.000Z",
-          "wordCount": 884,
-          "title": "PIN-Stealing Android Malware",
-          "imageUrl": null
         }
       ]
     },
@@ -663,6 +663,146 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2001838",
+          "author": "Scharon Harding",
+          "description": "Analysis heavily weighs how hard the brands' laptops are to take apart.",
+          "link": "https://arstechnica.com/?p=2001838",
+          "publishedOn": "2024-02-07T23:14:55.000Z",
+          "wordCount": 1801,
+          "title": "MacBooks, Chromebooks lead losers in laptop repairability analysis",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1233000699-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001877",
+          "author": "Kyle Orland",
+          "description": "Major move continues Disney's decades-long, up-and-down relationship with gaming.",
+          "link": "https://arstechnica.com/?p=2001877",
+          "publishedOn": "2024-02-07T22:48:46.000Z",
+          "wordCount": 1950,
+          "title": "Disney invests $1.5B in Epic Games, plans new “games and entertainment universe”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Disney-Epic-Games-1920x1080-1-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001859",
+          "author": "Beth Mole",
+          "description": "At least 413 people, mostly young children, in 43 states have been poisoned.",
+          "link": "https://arstechnica.com/?p=2001859",
+          "publishedOn": "2024-02-07T22:42:24.000Z",
+          "wordCount": 1888,
+          "title": "We may now know who’s behind the lead-tainted cinnamon in toddler fruit pouches",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/lead-apple-11032023-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001718",
+          "author": "Kyle Orland",
+          "description": "Despite some awe-inspiring moments, the $3,500 headset is a big lift for retail.",
+          "link": "https://arstechnica.com/?p=2001718",
+          "publishedOn": "2024-02-07T21:46:19.000Z",
+          "wordCount": 2946,
+          "title": "What I learned from the Apple Store’s 30-minute Vision Pro demo",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_6320-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001782",
+          "author": "Andrew Cunningham",
+          "description": "Don't expect these clamshell-style foldables in 2024 or 2025 or maybe ever.",
+          "link": "https://arstechnica.com/?p=2001782",
+          "publishedOn": "2024-02-07T21:26:52.000Z",
+          "wordCount": 1665,
+          "title": "Report: Apple is testing foldable iPhones, having the same problems as everyone else",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/iPhone-15-lineup-scaled-1-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001802",
+          "author": "Jon Brodkin",
+          "description": "Tech and telecom firms helped New Hampshire AG trace call to \"Life Corporation.\"",
+          "link": "https://arstechnica.com/?p=2001802",
+          "publishedOn": "2024-02-07T21:04:11.000Z",
+          "wordCount": 2007,
+          "title": "Texas firm allegedly behind fake Biden robocall that told people not to vote",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/biden-on-phone-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001663",
+          "author": "Ron Amadeo",
+          "description": "Google's $73-a-month service is going toe-to-toe with the cable companies.",
+          "link": "https://arstechnica.com/?p=2001663",
+          "publishedOn": "2024-02-07T20:43:45.000Z",
+          "wordCount": 1832,
+          "title": "YouTube TV is the US’s 4th-biggest cable TV provider, with 8 million subs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/youtube-money-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001639",
+          "author": "Kevin Purdy",
+          "description": "Rejected chips, hidden microSD cards plague the USB stick market.",
+          "link": "https://arstechnica.com/?p=2001639",
+          "publishedOn": "2024-02-07T20:39:19.000Z",
+          "wordCount": 2018,
+          "title": "Those free USB sticks in your drawer are somehow crappier than you thought",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/cbl1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001571",
+          "author": "Andrew Cunningham",
+          "description": "Microsoft AI API expands from GPUs to NPUs as they begin to appear in more PCs.",
+          "link": "https://arstechnica.com/?p=2001571",
+          "publishedOn": "2024-02-07T20:01:41.000Z",
+          "wordCount": 1995,
+          "title": "Your current PC probably doesn’t have an AI processor, but your next one might",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Intel-Core-Ultra-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001717",
+          "author": "Jon Brodkin",
+          "description": "Cable firms say they'll raise monthly price if early termination fees are banned.",
+          "link": "https://arstechnica.com/?p=2001717",
+          "publishedOn": "2024-02-07T19:49:58.000Z",
+          "wordCount": 1860,
+          "title": "Cable TV companies tell FCC: Early termination fees are good, actually",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/getty-goodbye-money-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001587",
+          "author": "Benj Edwards",
+          "description": "Social media stunts with Teslas inspire real warnings that seem straight out of sci-fi.",
+          "link": "https://arstechnica.com/?p=2001587",
+          "publishedOn": "2024-02-07T19:34:10.000Z",
+          "wordCount": 1781,
+          "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001640",
+          "author": "Jennifer Ouellette",
+          "description": "“Experience the day the world went quiet.”",
+          "link": "https://arstechnica.com/?p=2001640",
+          "publishedOn": "2024-02-07T19:31:13.000Z",
+          "wordCount": 2117,
+          "title": "Shhhh! A Quiet Place: Day One trailer is anything but quiet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/quiet1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001666",
+          "author": "Ashley Belanger",
+          "description": "Users struggled to prove harms from Google's default search deal with Apple.",
+          "link": "https://arstechnica.com/?p=2001666",
+          "publishedOn": "2024-02-07T19:27:09.000Z",
+          "wordCount": 1790,
+          "title": "Judge rules against users suing Google and Apple over “annoying” search results",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1163411962-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2001612",
+          "author": "Scharon Harding",
+          "description": "Live sports is one of the last pieces missing from the streaming puzzle.",
+          "link": "https://arstechnica.com/?p=2001612",
+          "publishedOn": "2024-02-07T19:08:47.000Z",
+          "wordCount": 2056,
+          "title": "New streaming app from Fox, Disney, WBD is about more than sports",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1175376960-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2001616",
           "author": "John Timmer",
@@ -4478,6 +4618,26 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/disney-acquires-15bn-stake-in-epic-games-making-games-and-entertainment-universe-in-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "The Walt Disney Company has announced it's acquiring a $1.5bn USD stake in Epic Games as it launches a multi-year partnership to create an \"expansive and open games and entertainment universe connected to Fortnite\".\r\n\n\r\nThis new Unreal Engine-powered \"persistent universe\" will \"interoperate\" with Fortnite to offer a \"multitude of opportunities for consumers to play, watch, shop and engage with content, characters and stories\" from across Disney's vast IP portfolio.\r\n\n\r\nExplicit mention is made of Disney, Pixar, Marvel, Star Wars, and Avatar, with users able to \"create their own stories and experiences, express their fandom in a distinctly Disney way, and share content with each other in ways that they love.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/disney-acquires-15bn-stake-in-epic-games-making-games-and-entertainment-universe-in-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-07T23:24:54.000Z",
+          "wordCount": 7130,
+          "title": "Disney acquires $1.5bn stake in Epic Games, is partnering on \"games and entertainment universe\" in Fortnite",
+          "imageUrl": "https://assetsio.reedpopcdn.com/disney-epic-fortnite-cropped.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/promising-sims-like-paralives-gets-seven-minute-gameplay-video-hitting-early-access-next-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "If you're a fan of The Sims and Sims-like experiences, it’s quite an exciting time; The Sims 5, or whatever it’ll be called, is slowly fomenting over at EA, then there’s the imminent release of Paradox’s Life By You following a number of delays, and even the charmingly lo-fi Tiny Life for old-school Sims fans. Perhaps the game that’s generated the most excitement since its unveiling back in 2019 is Paralives, and after a long old wait - and five years of crowdfunding support - developer Paralives Studio has announced it'll be entering early access next year.\r\n\n\r\nThat bit of information comes via Paralives new live mode gameplay video - live mode in Sims parlance is the bit where digital chracters actively go about their daily business, as opposed to the customisation-focused build mode - which focuses of the life of Anisa as she moves into a new apartment and begins to get to know the neighbourhood and her new neighbours.\r\n\n\r\nThere's a look at how a Para's personality can be created - initially by raising or lowering their physique, mind, creativity, and charisma attributes, as well as adding a \"vibe\", social perk, talent, and through various lifestyle toggles - and after that it's time to go outside.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/promising-sims-like-paralives-gets-seven-minute-gameplay-video-hitting-early-access-next-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-07T22:34:22.000Z",
+          "wordCount": 7539,
+          "title": "Promising Sims-like Paralives gets seven-minute gameplay video, is hitting Steam early access next year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/paralives_8FhrFRp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/marvels-spider-man-2-new-game-plus-swings-onto-ps5-next-month?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Victoria Kennedy",
           "description": "Marvel's Spider-Man 2's much anticipated New Game Plus mode will arrive next month - on 7th March - which means soon we can all swing back around and go for another spin with Peter and Miles.\nAlong with this new mode, players can also expect some new suits for the two Spider-Men and \"more\" when the update goes live.\nThe Marvel's Spider-Man 2 team has promised it will share a complete list of upcoming features a bit closer to this update's release. We will, of course, keep you posted.\n Read more",
@@ -8176,106 +8336,6 @@
           "wordCount": 7045,
           "title": "Psychedelic headbanger Akka Arrh coming to PS VR2 in March",
           "imageUrl": "https://assetsio.reedpopcdn.com/Akka-Arrh-header-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-tv-app-axed-leaving-episodes-scattered-between-paid-streaming-services?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "Pokémon TV, the app and website that let you watch episodes from the long-running Pokémon anime for free, has been removed from app stores. \r\n\n\r\nFor years, Pokéfans have been able to follow the saga of Ash Ketchum - and beyond - without needing to subscribe to a streaming service. But now Pokémon TV is no longer able to be downloaded, and the service itself will go dark for good on 28th March. \r\n\n\r\nThe situation highlights the fact that if you do want to go watch the Pokémon series in order, you'll need access to multiple streaming services and a couple of paid subscriptions. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-tv-app-axed-leaving-episodes-scattered-between-paid-streaming-services?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-09T12:20:20.000Z",
-          "wordCount": 6787,
-          "title": "Pokémon TV app axed, leaving episodes scattered between paid streaming services",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_vxiP9g7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-tv-app-axed-leaving-episodes-scattered-between-paid-streaming-services",
-          "author": "Tom Phillips",
-          "description": "Pokémon TV, the app and website that let you watch episodes from the long-running Pokémon anime for free, has been removed from app stores. \r\n\n\r\nFor years, Pokéfans have been able to follow the saga of Ash Ketchum - and beyond - without needing to subscribe to a streaming service. But now Pokémon TV is no longer able to be downloaded, and the service itself will go dark for good on 28th March. \r\n\n\r\nThe situation highlights the fact that if you do want to go watch the Pokémon series in order, you'll need access to multiple streaming services and a couple of paid subscriptions. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-tv-app-axed-leaving-episodes-scattered-between-paid-streaming-services",
-          "publishedOn": "2024-01-09T12:20:20.000Z",
-          "wordCount": 6799,
-          "title": "Pokémon TV app axed, leaving episodes scattered between paid streaming services",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_vxiP9g7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/marvels-spider-man-mary-jane-model-calls-out-fans-who-crossed-boundaries?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "Stephanie Tyler Jones, the model who provided her likeness to Mary Jane for the recent PlayStation Spider-Man games, has spoken out after \"some followers crossed boundaries\".\r\n\n\r\nIn a message posted to Instagram, Jones said one fan had left multiple voicemails \"wanting to speak with me and requesting I call back\" on the answering machine of her workplace.\r\n\n\r\nJones said the behaviour was \"unacceptable\" and amounted to stalking.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/marvels-spider-man-mary-jane-model-calls-out-fans-who-crossed-boundaries?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-09T11:52:36.000Z",
-          "wordCount": 6970,
-          "title": "Marvel's Spider-Man Mary Jane model calls out fans who \"crossed boundaries\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-2_9f2fKa1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/marvels-spider-man-mary-jane-model-calls-out-fans-who-crossed-boundaries",
-          "author": "Tom Phillips",
-          "description": "Stephanie Tyler Jones, the model who provided her likeness to Mary Jane for the recent PlayStation Spider-Man games, has spoken out after \"some followers crossed boundaries\".\r\n\n\r\nIn a message posted to Instagram, Jones said one fan had left multiple voicemails \"wanting to speak with me and requesting I call back\" on the answering machine of her workplace.\r\n\n\r\nJones said the behaviour was \"unacceptable\" and amounted to stalking.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/marvels-spider-man-mary-jane-model-calls-out-fans-who-crossed-boundaries",
-          "publishedOn": "2024-01-09T11:52:36.000Z",
-          "wordCount": 6921,
-          "title": "Marvel's Spider-Man Mary Jane model calls out fans who \"crossed boundaries\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-2_9f2fKa1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-shows-car-being-driven-with-playstation-dualsense-controller-because-why-not?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "At its recent CES 2024 press conference, Sony took the chance to show off the company's future tech possibilities by driving a car onto the stage. Admittedly, that in itself isn't all that remarkable, but what makes this little stunt more interesting is that the car was being controlled by a PlayStation DualSense controller.\r\n\n\r\nDuring a segment hosted by Honda's president Toshihiro Mibe talking about the car manufacturer's work with Sony, the exec spoke about \"the joy of expanding life's potential\". \nIts vision expands beyond just your regular cars and motorcycles, with talk of the sky, ocean and outer space being shared. Sony's technologies will help Honda expand its \"field of mobility\", the company president explained. Then, the president and COO of Sony Honda Mobility Inc Izumi Kawanishi joined his colleague on the stage, and this is where we head into video game territory.\n Read more",
-          "link": "https://www.eurogamer.net/sony-shows-car-being-driven-with-playstation-dualsense-controller-because-why-not?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-09T11:47:31.000Z",
-          "wordCount": 6842,
-          "title": "Sony shows car being driven with PlayStation DualSense controller, because why not",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Honda-Sony-car-DualSense.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-shows-car-being-driven-with-playstation-dualsense-controller-because-why-not",
-          "author": "Victoria Kennedy",
-          "description": "At its recent CES 2024 press conference, Sony took the chance to show off the company's future tech possibilities by driving a car onto the stage. Admittedly, that in itself isn't all that remarkable, but what makes this little stunt more interesting is that the car was being controlled by a PlayStation DualSense controller.\r\n\n\r\nDuring a segment hosted by Honda's president Toshihiro Mibe talking about the car manufacturer's work with Sony, the exec spoke about \"the joy of expanding life's potential\". \nIts vision expands beyond just your regular cars and motorcycles, with talk of the sky, ocean and outer space being shared. Sony's technologies will help Honda expand its \"field of mobility\", the company president explained. Then, the president and COO of Sony Honda Mobility Inc Izumi Kawanishi then joined his colleague on the stage, and this is where we head into video game territory.\n Read more",
-          "link": "https://www.eurogamer.net/sony-shows-car-being-driven-with-playstation-dualsense-controller-because-why-not",
-          "publishedOn": "2024-01-09T11:47:31.000Z",
-          "wordCount": 6856,
-          "title": "Sony shows car being driven with PlayStation DualSense controller, because why not",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Honda-Sony-car-DualSense.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-our-first-look-at-sonys-gravity-rush-film?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "Sony has provided a very brief first look at its Gravity Rush film project, courtesy of a quick clip shown during the company's CES 2024 press conference.\r\n\n\r\nAround five seconds of footage, including a behind-the-scenes motion capture shot, can be glimpsed in the video below - it shows a blonde-haired character leaping from a rooftop, then soaring down through the buildings of a floating city.\r\n\n\r\nAt the end of the clip, the character then flies towards what looks like a red, dragon-like beastie. All of this takes place in rather realistic-like surroundings - a far cry from the anime-inspired visuals of the original games. Intriguing!\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-our-first-look-at-sonys-gravity-rush-film?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-09T11:06:33.000Z",
-          "wordCount": 6956,
-          "title": "Here's our first look at Sony's Gravity Rush film",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-2_whZqZQe.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-our-first-look-at-sonys-gravity-rush-film",
-          "author": "Tom Phillips",
-          "description": "Sony has provided a very brief first look at its Gravity Rush film project, courtesy of a quick clip shown during the company's CES 2024 press conference.\r\n\n\r\nAround five seconds of footage, including a behind-the-scenes motion capture shot, can be glimpsed in the video below - it shows a blonde-haired character leaping from a rooftop, then soaring down through the buildings of a floating city.\r\n\n\r\nAt the end of the clip, the character then flies towards what looks like a red, dragon-like beastie. All of this takes place in rather realistic-like surroundings - a far cry from the anime-inspired visuals of the original games. Intriguing!\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-our-first-look-at-sonys-gravity-rush-film",
-          "publishedOn": "2024-01-09T11:06:33.000Z",
-          "wordCount": 6972,
-          "title": "Here's our first look at Sony's Gravity Rush film",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-2_whZqZQe.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "A The Last of Us spin-off TV series focusing on survivors Bill and Frank has been pitched.\r\n\n\r\nThe news comes from Nick Offerman, who recently won an Emmy for his portrayal of Bill in HBO's series.\r\n\n\r\nSpeaking backstage after the awards, the actor was asked about whether viewers could see more from Bill and Frank in the future. \"Oh, great question but I would have to ask somebody with a higher pay grade than myself,\" he replied (thanks, Deadline). \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-09T10:57:36.000Z",
-          "wordCount": 7467,
-          "title": "The Last of Us Bill and Frank spin-off series pitched to HBO",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Bill-The-Last-of-Us-HBO-Nick-Offerman.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo",
-          "author": "Victoria Kennedy",
-          "description": "A The Last of Us spin-off TV series focusing on survivors Bill and Frank has been pitched.\r\n\n\r\nThe news comes from Nick Offerman, who recently won an Emmy for his portrayal of Bill in HBO's series.\r\n\n\r\nSpeaking backstage after the awards, the actor was asked about whether viewers could see more from Bill and Frank in the future. \"Oh, great question but I would have to ask somebody with a higher pay grade than myself,\" he replied (thanks, Deadline). \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo",
-          "publishedOn": "2024-01-09T10:57:36.000Z",
-          "wordCount": 7461,
-          "title": "The Last of Us Bill and Frank spin-off series pitched to HBO",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Bill-The-Last-of-Us-HBO-Nick-Offerman.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
