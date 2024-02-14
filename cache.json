@@ -397,6 +397,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/02/a-hackers-mind-is-out-in-paperback.html",
+          "author": null,
+          "description": "<p>The paperback version of <a href=\"https://www.schneier.com/books/a-hackers-mind/\"><i>A Hacker&#8217;s Mind</i></a> has just been published. It&#8217;s the same book, only a cheaper format.</p>\n<p>But&#8212;and this is the real reason I am posting this&#8212;Amazon has <a href=\"https://www.amazon.com/Hackers-Mind-Powerful-Societys-Rules/dp/0393866661/\">significantly discounted</a> the hardcover to $15 to get rid of its stock. This is much cheaper than I am selling it for, and cheaper even than the paperback. So if you&#8217;ve been waiting for a price drop, this is your chance.</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/02/a-hackers-mind-is-out-in-paperback.html",
+          "publishedOn": "2024-02-13T20:13:29.000Z",
+          "wordCount": 1107,
+          "title": "A Hacker’s Mind is Out in Paperback",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/02/molly-white-reviews-blockchain-book.html",
           "author": null,
           "description": "<p>Molly White&#8212;of &#8220;<a href=\"https://www.web3isgoinggreat.com/\">Web3 is Going Just Great</a>&#8221; fame&#8212;<a href=\"https://www.citationneeded.news/review-read-write-own-by-chris-dixon/\">reviews</a> Chris Dixon&#8217;s blockchain solutions book: <a href=\"https://readwriteown.com/\"><i>Read Write Own</i></a>:</p>\n<blockquote><p>In fact, throughout the entire book, Dixon fails to identify a <em>single</em> blockchain project that has successfully provided a non-speculative service at any kind of scale. The closest he ever comes is when he speaks of how &#8220;for decades, technologists have dreamed of building a grassroots internet access provider&#8221;. He describes one project that &#8220;got further than anyone else&#8221;: Helium. He&#8217;s right, as long as you ignore the fact that Helium was providing LoRaWAN, not Internet, that by the time he was writing his book Helium hotspots had long since passed the phase where they might generate even enough tokens for their operators to merely break even, and that the network was pulling in somewhere around $1,150 in usage fees a month despite the company being valued at $1.2 billion. Oh, and that the company had widely lied to the public about its supposed big-name clients, and that its executives have been accused of hoarding the project&#8217;s token to enrich themselves. But hey, a16z sunk millions into Helium (a fact Dixon never mentions), so might as well try to drum up some new interest!...</p></blockquote>",
@@ -675,16 +685,6 @@
           "wordCount": 817,
           "title": "The Story of the Mirai Botnet",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/voice-cloning-with-very-short-samples.html",
-          "author": null,
-          "description": "<p><a href=\"https://research.myshell.ai/open-voice\">New research</a> demonstrates voice cloning, in multiple languages, using samples ranging from one to twelve seconds.</p>\n<p>Research <a href=\"https://arxiv.org/pdf/2312.01479.pdf\">paper</a>.</p>",
-          "link": "https://www.schneier.com/blog/archives/2024/01/voice-cloning-with-very-short-samples.html",
-          "publishedOn": "2024-01-15T12:09:20.000Z",
-          "wordCount": 819,
-          "title": "Voice Cloning with Very Short Samples",
-          "imageUrl": null
         }
       ]
     },
@@ -693,6 +693,106 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2003094",
+          "author": "Andrew Cunningham",
+          "description": "Software's free version was a good fit for tinkerers and hobbyists.",
+          "link": "https://arstechnica.com/?p=2003094",
+          "publishedOn": "2024-02-13T22:27:40.000Z",
+          "wordCount": 1695,
+          "title": "Broadcom-owned VMware kills the free version of ESXi virtualization software",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/vsphere-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2002955",
+          "author": "Jennifer Ouellette",
+          "description": "\"Blinkerwall\" may have been a \"desert kite,\" used to channel and hunt reindeer.",
+          "link": "https://arstechnica.com/?p=2002955",
+          "publishedOn": "2024-02-13T22:18:10.000Z",
+          "wordCount": 2215,
+          "title": "Scientists found a Stone Age megastructure submerged in the Baltic Sea",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/megawallTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003078",
+          "author": "Benj Edwards",
+          "description": "AI chatbot \"memory\" will recall facts from previous conversations when enabled.",
+          "link": "https://arstechnica.com/?p=2003078",
+          "publishedOn": "2024-02-13T22:01:00.000Z",
+          "wordCount": 1956,
+          "title": "OpenAI experiments with giving ChatGPT a long-term conversation memory",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/chatgpt_memory_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003150",
+          "author": "Beth Mole",
+          "description": "The agency is reportedly moving from the fixed time to a symptom-based isolation period.",
+          "link": "https://arstechnica.com/?p=2003150",
+          "publishedOn": "2024-02-13T21:42:17.000Z",
+          "wordCount": 1717,
+          "title": "CDC to update its COVID isolation guidance, ditching 5-day rule: Report",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1238557761-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003126",
+          "author": "Ashley Belanger",
+          "description": "OpenAI plans to defeat authors' remaining claim at a \"later stage\" of the case.",
+          "link": "https://arstechnica.com/?p=2003126",
+          "publishedOn": "2024-02-13T21:29:38.000Z",
+          "wordCount": 2142,
+          "title": "Judge rejects most ChatGPT copyright claims from book authors",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-925364372-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003064",
+          "author": "Jon Brodkin",
+          "description": "Bitcoin Latinum angry about quotes from fraud lawsuit and Star Trek reference.",
+          "link": "https://arstechnica.com/?p=2003064",
+          "publishedOn": "2024-02-13T20:26:26.000Z",
+          "wordCount": 1889,
+          "title": "Cryptocurrency maker sues former Ars reporter for writing about fraud lawsuit",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/bitcoin-latinum-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2002974",
+          "author": "Andrew Cunningham",
+          "description": "New Windows version needs CPU features that became common in the late 00s.",
+          "link": "https://arstechnica.com/?p=2002974",
+          "publishedOn": "2024-02-13T19:51:11.000Z",
+          "wordCount": 1992,
+          "title": "Windows 11 24H2 goes from “unsupported” to “unbootable” on some older PCs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/DSC00363-1440x960-1-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003073",
+          "author": "Beth Mole",
+          "description": "The judge ruled that the court lacks jurisdiction.",
+          "link": "https://arstechnica.com/?p=2003073",
+          "publishedOn": "2024-02-13T19:38:22.000Z",
+          "wordCount": 2090,
+          "title": "Judge tosses Big Pharma suit claiming drug price negotiation is unconstitutional",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-849503162-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003018",
+          "author": "Kevin Purdy",
+          "description": "Microsoft's Edge browser, Bing search, and ad business also avoid regulations.",
+          "link": "https://arstechnica.com/?p=2003018",
+          "publishedOn": "2024-02-13T19:06:04.000Z",
+          "wordCount": 1999,
+          "title": "Apple’s iMessage is not a “core platform” in EU, so it can stay walled off",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1831276105-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2003015",
+          "author": "Ron Amadeo",
+          "description": "Skiff users will lose their @skiff.com email addresses, need to export data ASAP.",
+          "link": "https://arstechnica.com/?p=2003015",
+          "publishedOn": "2024-02-13T18:41:48.000Z",
+          "wordCount": 1848,
+          "title": "Encrypted email service Skiff gets acquired, will shut down in six months",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/12-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2002992",
           "author": "Ashley Belanger",
@@ -7935,86 +8035,6 @@
           "wordCount": 6914,
           "title": "First Tekken 8 DLC character revealed as Eddy Gordo",
           "imageUrl": "https://assetsio.reedpopcdn.com/tekken-8-eddy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/gearbox-owned-studio-lost-boys-interactive-hit-by-sizable-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "A \"sizable\" portion of the Gearbox-owned studio Lost Boys Interactive has been laid off.\r\n\n\r\nAs reported by Aftermath, the developer employed over 400 people but many have taken to LinkedIn to share news of layoffs hitting the studio.\r\n\n\r\nThese layoffs are the latest in the restructuring programme of Embracer, the umbrella company which owns Borderlands developer Gearbox (which in turn owns Lost Boys Interactive).\r\n \nRead more",
-          "link": "https://www.eurogamer.net/gearbox-owned-studio-lost-boys-interactive-hit-by-sizable-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T12:19:35.000Z",
-          "wordCount": 6669,
-          "title": "Gearbox-owned studio Lost Boys Interactive hit by \"sizable\" layoffs",
-          "imageUrl": "https://assetsio.reedpopcdn.com/tiny_tina.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/now-someones-playing-elden-ring-with-a-violin?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Liv Ngan",
-          "description": "I recently began a new playthrough of Elden Ring and I'm determined to complete it this time round, but my goal pales in comparison to a streamer who is beating the game with a violin.\nTiavioliGaming on Twitch has already completed all three Dark Souls games using a violin, and is now taking on Elden Ring as his next challenge.\r\n\nTiavioliGaming caught the eye of the Elden Ring subreddit recently, thanks to a TikTok clip of him defeating Godfrey with his violin - all at a rather calm heart rate of 80bpm.\n Read more",
-          "link": "https://www.eurogamer.net/now-someones-playing-elden-ring-with-a-violin?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T12:05:28.000Z",
-          "wordCount": 7019,
-          "title": "Now someone's playing Elden Ring with a violin",
-          "imageUrl": "https://assetsio.reedpopcdn.com/tiavoli-gaming-elden-ring-violin.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-last-of-us-part-2-remastered-leaks-show-skins-gameplay?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Several upcoming additions to The Last of Us Part 2 Remastered have leaked. \r\n\n\r\nAs is becoming the norm these days, this is your heads up to mute keywords and such on social media, if you want to keep as much of this spruced-up native PS5 version of The Last of Us Part 2 a surprise as possible. \r\n\nWhile the story of The Last of Us Part 2 is already widely known, given it initally released in 2020, several videos making their way around the internet currently include content not in the original, such as the Lost Levels (with potential spoilers), new skins and No Return gameplay.\n Read more",
-          "link": "https://www.eurogamer.net/the-last-of-us-part-2-remastered-leaks-show-skins-gameplay?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T11:46:02.000Z",
-          "wordCount": 7144,
-          "title": "The Last of Us Part 2 Remastered leaks show skins, gameplay",
-          "imageUrl": "https://assetsio.reedpopcdn.com/The-Last-of-Us-Part-2-Ellie-in-Jackson.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-anime-reboot-delayed-on-netflix-in-the-us?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "US Pokémon fans will now need to wait until 7th March to watch the rebooted Pokémon Horizons: The Series on Netflix. \r\n\n\r\nThe delay was announced by the official Pokémon account on X, though no reason for the extra hold-up was mentioned. The series had previously been set to launch in the US next month. \r\n\n\r\nPokémon Horizons is the new Pokémon anime series with fresh protagonists (including Captain Pikachu) and a new story, following the conclusion of Ash Ketchum's long journey to become a Pokémon Master. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-anime-reboot-delayed-on-netflix-in-the-us?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T11:28:48.000Z",
-          "wordCount": 6994,
-          "title": "Pokémon anime reboot delayed on Netflix in the US",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_vxiP9g7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/this-fan-made-lethal-company-vr-mod-looks-terrifying?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "A fan-made VR mod for Lethal Company is out now, so you can fully immerse yourself in your work for the Company.\r\n\n\r\nThe mod, from DaXcess, is compatible with multiple headsets and adds hand movement and motion-based controls.\r\n\n\r\nIt's also integrated into the game to work seamlessly with both VR players and non-VR players in the same lobby.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/this-fan-made-lethal-company-vr-mod-looks-terrifying?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T11:14:26.000Z",
-          "wordCount": 6755,
-          "title": "This fan-made Lethal Company VR mod looks terrifying",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Lethal-Company-VR-Mod-Release-Trailer-0-2-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/halo-battle-royale-reportedly-cancelled-after-years-of-work?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "The mysterious, long-rumoured Halo battle royale project from series co-developer Certain Affinity is no longer in development, a new report has claimed.\r\n\n\r\nSpeaking on the XboxEra podcast, reliable insider Shpeshal_Nick said the game, codenamed Project Tatanka, had seemingly been cancelled.\r\n\n\r\nWhile officially unannounced by Microsoft itself, Certain Affinity had discussed the project publicly in broad terms several times, and said in late 2022 that it had been in the works for more than two years, with nearly 100 people then working on it.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/halo-battle-royale-reportedly-cancelled-after-years-of-work?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T11:01:59.000Z",
-          "wordCount": 6936,
-          "title": "Halo battle royale reportedly cancelled after years of work",
-          "imageUrl": "https://assetsio.reedpopcdn.com/102022_Oreo_4K-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/t-pain-collaborating-with-rockstar-on-gta-6-now-cant-roleplay-on-gta-server?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Faheem Rashad Najm, aka T-Pain, is working on GTA 6 with Rockstar. \r\n\n\r\nThe Grammy award-winning singer-songwriter, known for his penchant for auto-tune and singing about apple-bottom jeans and those boots with the fur along with Flo Rida, confirmed the news during a livestream.\r\n\n\r\nHowever, this news arrived not because T-Pain was announcing his collaboration with Rockstar specifically, but because he was lamenting on an unexpected consequence of his new gig: the fact he can no longer roleplay on NoPixel, a GTA roleplay server. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/t-pain-collaborating-with-rockstar-on-gta-6-now-cant-roleplay-on-gta-server?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T10:59:58.000Z",
-          "wordCount": 7150,
-          "title": "T-Pain collaborating with Rockstar on GTA 6, now can't roleplay on GTA server",
-          "imageUrl": "https://assetsio.reedpopcdn.com/GTA-6-Lucia-in-prison.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/portal-64-developer-asks-fans-to-not-be-mad-at-valve?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Liv Ngan",
-          "description": "The developer of the recently struck down Portal N64 port has shed some more light on what happened and told fans to not be mad at Valve.\nLast week, James Lambert announced he had taken down the playable build of Portal 64 at Valve's request due to its dependence on \"Nintendo's proprietary libraries\". \nIn an update video uploaded over the weekend, Lambert said he expected Valve would ask him to take Portal 64 down \"because it's their IP on a Nintendo console\". \"Somebody from Valve reached out to me and I was put in contact with their legal team,\" he revealed.\n Read more",
-          "link": "https://www.eurogamer.net/portal-64-developer-asks-fans-to-not-be-mad-at-valve?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-15T10:51:08.000Z",
-          "wordCount": 6978,
-          "title": "Portal 64 developer asks fans to not be mad at Valve",
-          "imageUrl": "https://assetsio.reedpopcdn.com/What-happened-to-Portal-64_-3-17-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
