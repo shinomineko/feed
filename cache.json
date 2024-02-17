@@ -427,6 +427,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-vegan-squid-ink-pasta.html",
+          "author": null,
+          "description": "<p>It <a href=\"https://uk.style.yahoo.com/vegan-squid-ink-pasta-way-144527589.html\">uses</a> black beans for color and seaweed for flavor.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-vegan-squid-ink-pasta.html",
+          "publishedOn": "2024-02-16T22:04:11.000Z",
+          "wordCount": 2174,
+          "title": "Friday Squid Blogging: Vegan Squid-Ink Pasta",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/02/on-the-insecurity-of-software-bloat.html",
           "author": null,
           "description": "<p><a href=\"https://spectrum.ieee.org/lean-software-development\">Good essay</a> on software bloat and the insecurities it causes.</p>\n<blockquote><p>The world ships too much code, most of it by third parties, sometimes unintended, most of it uninspected. Because of this, there is a huge <i>attack surface</i> full of mediocre code. Efforts are ongoing to improve the quality of code itself, but many exploits are due to logic fails, and less progress has been made scanning for those. Meanwhile, great strides could be made by paring down just how much code we expose to the world. This will increase time to market for products, but legislation is around the corner that should force vendors to take security more seriously...</p></blockquote>",
@@ -715,16 +725,6 @@
           "wordCount": 1038,
           "title": "Speaking to the CIA’s Creative Writing Group",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html",
-          "author": null,
-          "description": "<p>After 175 million failed password guesses, a <a href=\"https://ottawacitizen.com/news/local-news/police-must-return-phones-after-175-million-passcode-guesses-judge-says\">judge rules</a> that the Canadian police must return a suspect&#8217;s phone.</p>\n<blockquote><p>[Judge] Carter said the investigation can continue without the phones, and he noted that Ottawa police have made a formal request to obtain more data from Google.</p>\n<p>&#8220;This strikes me as a potentially more fruitful avenue of investigation than using brute force to enter the phones,&#8221; he said.</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html",
-          "publishedOn": "2024-01-18T12:02:21.000Z",
-          "wordCount": 1001,
-          "title": "Canadian Citizen Gets Phone Back from Police",
-          "imageUrl": null
         }
       ]
     },
@@ -733,6 +733,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2004231",
+          "author": "Beth Mole",
+          "description": "Injections over several months allowed people to tolerate larger doses of trigger foods.",
+          "link": "https://arstechnica.com/?p=2004231",
+          "publishedOn": "2024-02-16T22:41:32.000Z",
+          "wordCount": 2094,
+          "title": "New FDA-approved drug makes severe food allergies less life-threatening",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1707716053-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004185",
+          "author": "Ashley Belanger",
+          "description": "X accused of overlooking propaganda flagged by Meta and criminal prosecutors.",
+          "link": "https://arstechnica.com/?p=2004185",
+          "publishedOn": "2024-02-16T21:32:43.000Z",
+          "wordCount": 2242,
+          "title": "Elon Musk’s X allows China-based propaganda banned on other platforms",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1822017223-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004077",
+          "author": "Scharon Harding",
+          "description": "Edge update is first proof that this was definitely a glitch.",
+          "link": "https://arstechnica.com/?p=2004077",
+          "publishedOn": "2024-02-16T20:56:44.000Z",
+          "wordCount": 1941,
+          "title": "Microsoft fixes problem that let Edge replicate Chrome tabs without permission",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/microsoft-edge-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004138",
+          "author": "Kevin Purdy",
+          "description": "Company points to \"AWS partner\" for cameras disappearing from users' apps.",
+          "link": "https://arstechnica.com/?p=2004138",
+          "publishedOn": "2024-02-16T19:03:49.000Z",
+          "wordCount": 1640,
+          "title": "Wyze outage leaves customers without camera coverage overnight",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1312197346-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004059",
+          "author": "Ron Amadeo",
+          "description": "Low-level developer features include fs-verify support, more screen-sharing modes.",
+          "link": "https://arstechnica.com/?p=2004059",
+          "publishedOn": "2024-02-16T19:00:20.000Z",
+          "wordCount": 1767,
+          "title": "Android 15 Developer Preview 1 is out for the Pixel 6 and up",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/13-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004114",
+          "author": "Jon Brodkin",
+          "description": "Apple says it can't secure home-screen web apps with third-party browser engines.",
+          "link": "https://arstechnica.com/?p=2004114",
+          "publishedOn": "2024-02-16T18:40:27.000Z",
+          "wordCount": 2146,
+          "title": "Apple disables iPhone web apps in EU, says it’s too hard to comply with rules",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/iphone-icons-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004092",
+          "author": "Kyle Orland",
+          "description": "Spencer talks up \"different form factors that allow people to play in different places.\"",
+          "link": "https://arstechnica.com/?p=2004092",
+          "publishedOn": "2024-02-16T18:24:04.000Z",
+          "wordCount": 2264,
+          "title": "Microsoft sure seems to be thinking about some sort of portable Xbox",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xclouddemo-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004063",
+          "author": "Jonathan M. Gitlin",
+          "description": "It's hard to buy a new EV if dealerships aren't interested in selling them.",
+          "link": "https://arstechnica.com/?p=2004063",
+          "publishedOn": "2024-02-16T18:02:58.000Z",
+          "wordCount": 2013,
+          "title": "Car dealers step up opposition to White House fuel efficiency targets",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1017166138-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2003861",
           "author": "Benj Edwards",
@@ -4402,16 +4482,6 @@
           "wordCount": 1631,
           "title": "Daily Telescope: In which the space station proves it truly is international",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG-4477-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1996584",
-          "author": "WIRED",
-          "description": "Once, drug dealers and money launderers saw cryptocurrency as perfectly untraceable.",
-          "link": "https://arstechnica.com/?p=1996584",
-          "publishedOn": "2024-01-18T11:00:06.000Z",
-          "wordCount": 2399,
-          "title": "How a 27-year-old busted the myth of Bitcoin’s anonymity",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/list-760x380.jpg"
         }
       ]
     },
@@ -4476,6 +4546,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/700-ubisoft-workers-strike-in-france-over-failed-salary-negotiations?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Over 700 unionised Ubisoft employees working across the company's French studios have taken part in an organised day of strike action after annual salary negotiations collapsed.\r\n\n\r\nThe strike, organised by French game workers union STJV (Syndicat des Travailleurs et Travailleuses du Jeu Vidéo), took place on 14th February across Ubisoft's Paris, Montpellier, Annecy, Lyon, and Bordeaux studios. The STJV had called for action at the start of this month, saying annual salary negotiations had reached an unsatisfactory conclusion.\r\n\n\r\n\"In recent weeks,\" the STJV wrote in a statement shared at the time, \"Mandatory Annual Negotiations on salaries have taken place in several Ubisoft entities in France, and the STJV was obviously present. Despite concerted efforts by union organisations to find an acceptable compromise, negotiations hit a wall.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/700-ubisoft-workers-strike-in-france-over-failed-salary-negotiations?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-16T20:08:39.000Z",
+          "wordCount": 7342,
+          "title": "700 Ubisoft workers strike in France over failed salary negotiations",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ubisoft-strike-stjv.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/nintendo-switch-2-release-date-now-q1-2025-report?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Tom Phillips",
@@ -7875,56 +7955,6 @@
           "wordCount": 7079,
           "title": "Lords of the Fallen publisher CI Games lays off 10% of employees",
           "imageUrl": "https://assetsio.reedpopcdn.com/Lords-of-the-fallen-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bethesda-rolling-out-fallout-shelter-style-the-elder-scrolls-castles?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Liv Ngan",
-          "description": "Bethesda has at last officially announced The Elder Scrolls: Castles, its Fallout Shelter-style mobile game which popped up last year, ahead of a full launch.\r\n\nThe Elder Scrolls: Castles was quietly released into early access in September 2023 on Android, where players were able to try the game until December.\r\n\nNow, the game is being rolled out on Android and iOS, with a staggered release across different regions. The game is free-to-play with in-app purchases.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bethesda-rolling-out-fallout-shelter-style-the-elder-scrolls-castles?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-18T11:55:58.000Z",
-          "wordCount": 6871,
-          "title": "Bethesda rolling out Fallout Shelter-style The Elder Scrolls: Castles",
-          "imageUrl": "https://assetsio.reedpopcdn.com/es-castles-key-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/unannounced-far-cry-spin-off-game-featuring-laser-deathmatches-rated-by-pegi?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "An unannounced Far Cry spin-off game known as Captain Laserhawk Niji Warrior has been rated by European classification board PEGI. While nothing official has been announced, this listing suggests a proper unveiling may be on the way soon\r\n\n\r\nSpotted by Game Rant, PEGI's listing states the yet-to-be-revealed title will see players pitted against each other in some kind of \"laser deathmatch\", with the person clocking up the most kills declared the winner. \r\n\n\r\nCaptain Laserhawk Niji Warrior has been rated 12 by PEGI, with mention of \"moderate violence to human-like characters\". It will also include purchasable in-game items, such as cosmetics. The PEGI rating here is for PC.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/unannounced-far-cry-spin-off-game-featuring-laser-deathmatches-rated-by-pegi?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-18T11:34:20.000Z",
-          "wordCount": 7029,
-          "title": "Unannounced Far Cry spin-off game featuring laser deathmatches rated by PEGI",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Far-Cry-3-Blood-Dragon_TPTpeis.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-games-now-shut-down-when-mouse-and-keyboard-players-use-aim-assist?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "Several Call of Duty games will now shut down for mouse and keyboard players who activate aim assist.\r\n\n\r\nActivision has updated its anti-cheat system, Ricochet, to detect aim assist usage for PC players across Modern Warfare 3, Modern Warfare 2, and Warzone.\r\n\n\r\n\"Our security detection systems now target players using tools to activate aim assist while using a mouse and keyboard. The Call of Duty application will close if detected,\" reads a new post on X, formerly Twitter.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-games-now-shut-down-when-mouse-and-keyboard-players-use-aim-assist?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-18T11:09:32.000Z",
-          "wordCount": 7029,
-          "title": "Call of Duty games now shut down when mouse and keyboard players use aim assist",
-          "imageUrl": "https://assetsio.reedpopcdn.com/mw3-warzone-best-guns-s1-00.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/rock-band-4-dlc-support-ends-next-week-after-eight-years?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "After eight years of weekly releases, Rock Band 4's last dollop of song DLC will arrive next Thursday, 25th January, developer Harmonix has announced. \r\n\n\r\nThe move follows Harmonix's launch of Fortnite Festival, a Rock Band-like mode playable within Fortnite, at the end of last year - and the beginning of weekly track releases for that.\r\n\n\r\nRock Band 4 now features a library of nearly 3000 songs - and access to these isn't going anywhere to anyone who has bought them. But no more will launch after the end of this month.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/rock-band-4-dlc-support-ends-next-week-after-eight-years?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-18T11:07:01.000Z",
-          "wordCount": 7027,
-          "title": "Rock Band 4 DLC support ends next week, after eight years",
-          "imageUrl": "https://assetsio.reedpopcdn.com/rockband.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/layoffs-hit-dead-by-daylight-developer-behaviour-interactive-report-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Dead by Daylight developer Behaviour Interactive is reportedly the latest studio to be hit by layoffs this year. \r\n\n\r\nSources close to the matter told Kotaku roughly 45 people had been laid off between 9th and 11th January, although layoffs started in December. Those affected were part of the Montreal studio.\r\n\n\r\nAccording to the report, these cuts have been across multiple departments.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/layoffs-hit-dead-by-daylight-developer-behaviour-interactive-report-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-18T10:48:44.000Z",
-          "wordCount": 6997,
-          "title": "Layoffs hit Dead by Daylight developer Behaviour Interactive, report says",
-          "imageUrl": "https://assetsio.reedpopcdn.com/dead-by-daylight_R7NLhaa.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
