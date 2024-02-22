@@ -170,6 +170,16 @@
       "siteUrl": "http://turnoff.us/",
       "articles": [
         {
+          "id": "http://turnoff.us/geek/hamlet-programmer/",
+          "author": null,
+          "description": "{turnoff.us} is a webcomic featuring humorous takes on programming, operating systems, and tech professional life.",
+          "link": "http://turnoff.us/geek/hamlet-programmer/",
+          "publishedOn": "2024-02-21T11:00:00.000Z",
+          "wordCount": 407,
+          "title": "if hamlet were a programmer",
+          "imageUrl": "http://turnoff.us/image/en/hamlet-programmer.png"
+        },
+        {
           "id": "http://turnoff.us/geek/rest-easy-sysadmin/",
           "author": null,
           "description": "{turnoff.us} is a webcomic featuring humorous takes on programming, operating systems, and tech professional life.",
@@ -695,16 +705,6 @@
           "wordCount": 1280,
           "title": "Poisoning AI Models",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html",
-          "author": null,
-          "description": "<p>Really interesting research: &#8220;<a href=\"https://www.usenix.org/conference/usenixsecurity22/presentation/genkin\">Lend Me Your Ear: Passive Remote Physical Side Channels on PCs</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b></p>\n<p>We show that built-in sensors in commodity PCs, such as microphones, inadvertently capture electromagnetic side-channel leakage from ongoing computation. Moreover, this information is often conveyed by supposedly-benign channels such as audio recordings and common Voice-over-IP applications, even after lossy compression.</p>\n<p>Thus, we show, it is possible to conduct physical side-channel attacks on computation by remote and purely passive analysis of commonly-shared channels. These attacks require neither physical proximity (which could be mitigated by distance and shielding), nor the ability to run code on the target or configure its hardware. Consequently, we argue, physical side channels on PCs can no longer be excluded from remote-attack threat models...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html",
-          "publishedOn": "2024-01-23T12:09:42.000Z",
-          "wordCount": 1125,
-          "title": "Side Channels Are Common",
-          "imageUrl": null
         }
       ]
     },
@@ -713,6 +713,126 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2005122",
+          "author": "Beth Mole",
+          "description": "On Tuesday, nearly 20 percent of the school's 1,067 students were reportedly absent.",
+          "link": "https://arstechnica.com/?p=2005122",
+          "publishedOn": "2024-02-21T23:41:10.000Z",
+          "wordCount": 1876,
+          "title": "Unvaccinated Florida kids exposed to measles can skip quarantine, officials say",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1235442032-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005105",
+          "author": "Beth Mole",
+          "description": "Anger and uncertainty spread in wake of Friday's ruling by the state's Supreme Court.",
+          "link": "https://arstechnica.com/?p=2005105",
+          "publishedOn": "2024-02-21T22:56:40.000Z",
+          "wordCount": 1986,
+          "title": "Ala. hospital halts IVF after state’s high court ruled embryos are “children”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2018757987-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005064",
+          "author": "Eric Berger",
+          "description": "Pairing of two launch companies could provide more robust competition to SpaceX.",
+          "link": "https://arstechnica.com/?p=2005064",
+          "publishedOn": "2024-02-21T22:38:03.000Z",
+          "wordCount": 2062,
+          "title": "Blue Origin has emerged as the likely buyer for United Launch Alliance",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/v001-02-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005057",
+          "author": "Ron Amadeo",
+          "description": "Google's AI features add a 3x increase over the usual Workspace bill.",
+          "link": "https://arstechnica.com/?p=2005057",
+          "publishedOn": "2024-02-21T22:21:39.000Z",
+          "wordCount": 1735,
+          "title": "Google launches “Gemini Business” AI, adds $20 to the $6 Workspace bill",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Hero_1_updated_B.width-1200.format-webp-760x380.webp"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005035",
+          "author": "Benj Edwards",
+          "description": "Gemma chatbots can run locally, and they reportedly outperform Meta's Llama 2.",
+          "link": "https://arstechnica.com/?p=2005035",
+          "publishedOn": "2024-02-21T22:01:17.000Z",
+          "wordCount": 1874,
+          "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005050",
+          "author": "Kyle Orland",
+          "description": "Hi-Fi Rush, Grounded, Pentiment, and Sea of Thieves are going multiplatform.",
+          "link": "https://arstechnica.com/?p=2005050",
+          "publishedOn": "2024-02-21T20:22:51.000Z",
+          "wordCount": 1741,
+          "title": "Microsoft confirms which Xbox games are going to Switch, PlayStation",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xboxmulti-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005030",
+          "author": "Jon Brodkin",
+          "description": "Lina Khan: Musk demanded \"actions that would have violated the FTC's Order.\"",
+          "link": "https://arstechnica.com/?p=2005030",
+          "publishedOn": "2024-02-21T19:59:51.000Z",
+          "wordCount": 2160,
+          "title": "Twitter security staff kept firm in compliance by disobeying Musk, FTC says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/elon-musk-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004915",
+          "author": "Ron Amadeo",
+          "description": "Every currently sold iPhone makes the top seven, except the iPhone SE.",
+          "link": "https://arstechnica.com/?p=2004915",
+          "publishedOn": "2024-02-21T18:43:04.000Z",
+          "wordCount": 1752,
+          "title": "The top 7 bestselling phone models of 2023 are all iPhones",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Apple-iPhone-14-iPhone-14-Plus-5up-hero-220907-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004939",
+          "author": "Samuel Axon",
+          "description": "Remaster of both shooters is headed to PC, Steam Deck, and consoles this spring.",
+          "link": "https://arstechnica.com/?p=2004939",
+          "publishedOn": "2024-02-21T18:30:11.000Z",
+          "wordCount": 1832,
+          "title": "Star Wars Battlefront collection revives a multiplayer classic",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/star-wars-battlefront-classic-collection-9-hoth-snows_ba5f10b8-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004687",
+          "author": "Jennifer Ouellette",
+          "description": "Welcome to the \"weirdest, most dangerous, dumpster fire of a world in the universe.\"",
+          "link": "https://arstechnica.com/?p=2004687",
+          "publishedOn": "2024-02-21T18:19:59.000Z",
+          "wordCount": 2284,
+          "title": "Cate Blanchett nails the outlaw look as Lilith in Borderlands official trailer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/border1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004918",
+          "author": "Ashley Belanger",
+          "description": "Reddit is expected to be listed on the New York Stock Exchange in March.",
+          "link": "https://arstechnica.com/?p=2004918",
+          "publishedOn": "2024-02-21T18:14:00.000Z",
+          "wordCount": 1932,
+          "title": "Report: 75K loyal Redditors can snag shares before Reddit goes public",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1258039400-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2004935",
+          "author": "Kyle Orland",
+          "description": "Massive \"platform\" is an effective but overengineered solution to an old issue.",
+          "link": "https://arstechnica.com/?p=2004935",
+          "publishedOn": "2024-02-21T17:55:16.000Z",
+          "wordCount": 2004,
+          "title": "C-Infinity is a bulky, quixotic solution to VR’s nausea problem",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/C-Infinity-Kickstarter-BTS-Day-1-61-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2004783",
           "author": "Benj Edwards",
@@ -4295,7 +4415,18 @@
       "title": "Kubernetes Blog",
       "feedUrl": "https://kubernetes.io/feed.xml",
       "siteUrl": "https://kubernetes.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kubernetes.io/blog/2024/02/22/k8s-book-club/",
+          "author": null,
+          "description": "Author: Frederico Muñoz (SAS Institute)\nLearning Kubernetes and the entire ecosystem of technologies around it is not without its\nchallenges. In this interview, we will talk with Carlos Santana\n(AWS) to learn a bit more about how he created the\nKubernetes Book Club, how it works, and\nhow anyone can join in to take advantage of a community-based learning experience.\n\nFrederico Muñoz (FSM): Hello Carlos, thank you so much for your availability. To start with,\ncould you tell us a bit about yourself?\nCarlos Santana (CS): Of course. My experience in deploying Kubernetes in production six\nyears ago opened the door for me to join Knative and then contribute to\nKubernetes through the Release Team. Working on upstream Kubernetes has been one of the best\nexperiences I've had in open-source. Over the…",
+          "link": "https://kubernetes.io/blog/2024/02/22/k8s-book-club/",
+          "publishedOn": "2024-02-22T00:00:00.000Z",
+          "wordCount": 4628,
+          "title": "A look into the Kubernetes Book Club",
+          "imageUrl": "csantana_k8s_book_club.jpg"
+        }
+      ]
     },
     {
       "title": "Last Week in AWS",
@@ -4335,6 +4466,16 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sea-of-thieves-launches-on-playstation-in-april?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "Xbox has announced a PlayStation release date for Sea of Thieves, its popular pirate live service game from British studio Rare. \r\n\n\r\nPlayStation 5 players will be able to wishlist the game beginning tomorrow, 22nd February, ahead of its launch on Sony's console on 30th April. \r\n\n\r\nA blog post from Microsoft tonight also confirms PlayStation dates for Pentiment (tomorrow, 22nd February) and Grounded (16th April) - the same as the dates confirmed for Switch in the Nintendo Direct earlier. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/sea-of-thieves-launches-on-playstation-in-april?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-21T18:51:13.000Z",
+          "wordCount": 7398,
+          "title": "Sea of Thieves launches on PlayStation in April",
+          "imageUrl": "https://assetsio.reedpopcdn.com/203814_Xbox-Wire_1920x1080_05-a137c8fd5123bd2988f9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/xbox-console-exclusive-hi-fi-rushs-ps5-release-date-leaked?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Tom Phillips",
@@ -7664,46 +7805,6 @@
           "wordCount": 7222,
           "title": "Video game developers union membership in UK increases as layoffs continue across the industry",
           "imageUrl": "https://assetsio.reedpopcdn.com/fortnite_4bIBQ9l.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/robocop-rogue-city-update-provides-full-invincible-robotic-law-enforcement-officer-experience?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Developer Teyon has released a major update for RoboCop: Rogue City, adding New Game Plus and more.\r\n\n\r\nNew Game Plus will allow players to redo their RoboCop shenanigans, but this time with all of those hard earned skills and Auto-9 upgrades from the first time around. This will provide the \"full 'invincible robotic law enforcement officer' experience\", the developer said. \r\n\n\r\nRoboCop: Rogue City's New Game Plus can be unlocked by finishing the game after the update is applied. This can be done from an earlier save file, so don't worry, you won't need to replay the whole thing again. Completing the game will also unlock a new Golden Auto-9 skin for you to use, or just admire. Au-right!\r\n \nRead more",
-          "link": "https://www.eurogamer.net/robocop-rogue-city-update-provides-full-invincible-robotic-law-enforcement-officer-experience?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-23T12:19:47.000Z",
-          "wordCount": 7341,
-          "title": "RoboCop: Rogue City update provides \"full invincible robotic law enforcement officer experience\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/1_qycozzO.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-eyeing-up-palworld-head-of-indies-shuhei-yoshida-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "PlayStation head of indies Shuhei Yoshida has suggested Palworld could be on its way to PlayStation.\r\n\n\r\nYoshida responded to the official Palworld account on X (formerly Twitter) to congratulate the team on its huge success. When a fan requested a PS5 version be released as soon as possible, Yoshida replied with a simple \"yes\" and tagged Jingwen Zhu, PlayStation's partner development executive for China and Japan, in the post.\r\n\n\r\nSo does this mean Palworld could be on its way to PlayStation?\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-eyeing-up-palworld-head-of-indies-shuhei-yoshida-suggests?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-23T12:11:46.000Z",
-          "wordCount": 7262,
-          "title": "PlayStation eyeing up Palworld, head of indies Shuhei Yoshida suggests",
-          "imageUrl": "https://assetsio.reedpopcdn.com/palworld-pals-alle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemons-former-chief-legal-officer-surprised-palworld-managed-to-get-this-far?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "The Pokémon Company's former chief legal officer Don McGowan said he is \"surprised\" Palworld has \"got this far\".\r\n\n\r\nMcGowan, who served as the company's chief legal officer between 2008 and 2020, spoke to GameFile about Pocketpair's recent release, which has dominated the gaming landscape over the last few days (most recent figures state Palworld has sold 6m copies since its early access launch on Friday). \r\n\n\"This looks like the usual ripoff nonsense that I would see a thousand times a year when I was Chief Legal Officer of Pokémon,\" said McGowan. \"I'm just surprised it got this far.\"\n Read more",
-          "link": "https://www.eurogamer.net/pokemons-former-chief-legal-officer-surprised-palworld-managed-to-get-this-far?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-23T11:35:44.000Z",
-          "wordCount": 7278,
-          "title": "Pokémon's former chief legal officer \"surprised\" Palworld managed to get this far",
-          "imageUrl": "https://assetsio.reedpopcdn.com/palworld-011924-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/embracer-owned-studio-piranha-bytes-acknowledges-difficult-situation-as-it-faces-potential-closure?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "The Embracer-owned studio Piranha Bytes, developer of the Gothic, Risen and Elex games, has acknowledged it's in \"a difficult situation\" as it faces potential closure.\r\n\n\r\nAn announcement from the studio on X (formerly Twitter) states \"don't write us off yet\" as it aims to \"do whatever it takes\" to find a partner for its next project.\r\n\n\r\nIt's unclear what this next project will be, but this statement suggests it won't be backed by Embracer.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/embracer-owned-studio-piranha-bytes-acknowledges-difficult-situation-as-it-faces-potential-closure?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-23T11:22:25.000Z",
-          "wordCount": 7217,
-          "title": "Embracer-owned studio Piranha Bytes acknowledges \"difficult situation\" as it faces potential closure",
-          "imageUrl": "https://assetsio.reedpopcdn.com/elex-piranha-bytes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
