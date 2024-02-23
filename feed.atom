@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T18:24:41.243Z</updated>
+    <updated>2024-02-23T00:30:42.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware associated with LockBit still spreading 2 days after server takedown]]></title>
+        <id>https://arstechnica.com/?p=2005464</id>
+        <link href="https://arstechnica.com/?p=2005464"/>
+        <updated>2024-02-22T22:28:13.000Z</updated>
+        <summary type="html"><![CDATA[LockBit's extensive reach is making complete erasure hard.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISPs keep giving false broadband coverage data to the FCC, groups say]]></title>
+        <id>https://arstechnica.com/?p=2005458</id>
+        <link href="https://arstechnica.com/?p=2005458"/>
+        <updated>2024-02-22T22:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Telcos accuse fixed wireless ISPs of claiming more locations than they serve.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability announces Stable Diffusion 3, a next-gen AI image generator]]></title>
+        <id>https://arstechnica.com/?p=2005341</id>
+        <link href="https://arstechnica.com/?p=2005341"/>
+        <updated>2024-02-22T21:28:52.000Z</updated>
+        <summary type="html"><![CDATA[SD3 may bring DALL-E-like prompt fidelity to an open-weights image-synthesis model.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s new app doesn’t require you to log in to update your GPU driver]]></title>
+        <id>https://arstechnica.com/?p=2005363</id>
+        <link href="https://arstechnica.com/?p=2005363"/>
+        <updated>2024-02-22T21:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Removing little-used features also improved responsiveness and shrank the size.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat isn’t liable for connecting 12-year-old to convicted sex offenders]]></title>
+        <id>https://arstechnica.com/?p=2005359</id>
+        <link href="https://arstechnica.com/?p=2005359"/>
+        <updated>2024-02-22T19:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Section 230 shields Snapchat from minor’s claims that algorithm enabled rape.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI code generation works]]></title>
+        <id>https://github.blog/?p=76676</id>
+        <link href="https://github.blog/2024-02-22-how-ai-code-generation-works/"/>
+        <updated>2024-02-22T18:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Explore the capabilities and benefits of AI code generation, and how it can improve the developer experience for your enterprise.
+The post How AI code generation works appeared first on The GitHub Blog.]]></summary>
+        <author>
+            <name>Jeimy Ruiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Fubo’s antitrust lawsuit against ESPN, Fox, and WBD stand a chance?]]></title>
+        <id>https://arstechnica.com/?p=2005093</id>
+        <link href="https://arstechnica.com/?p=2005093"/>
+        <updated>2024-02-22T17:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Fubo: Media giants' anticompetitive tactics already killed PS Vue, other streamers.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why will Nintendo Switch 2 now launch in 2025?]]></title>
         <id>https://www.eurogamer.net/why-will-nintendo-switch-2-now-launch-in-2025?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
@@ -9916,82 +9987,6 @@ Though the museum did not confirm the number of employees involved, it confirmed
 
 Sources at the museum told Dutch site Het Parool that at least four employees were involved. One employee allegedly embezzled a box of Pokémon cards, while others informed visitors of when they could purchase tickets to the exhibition.
 
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poisoning AI Models]]></title>
-        <id>https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html</id>
-        <link href="https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html"/>
-        <updated>2024-01-24T12:06:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>New research into <a href="https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/">poisoning AI models</a>:</p>
-<blockquote><p>The researchers first trained the AI models using supervised learning and then used additional &#8220;safety training&#8221; methods, including more supervised learning, reinforcement learning, and adversarial training. After this, they checked if the AI still had hidden behaviors. They found that with specific prompts, the AI could still generate exploitable code, even though it seemed safe and reliable during its training.</p>
-<p>During stage 2, Anthropic applied reinforcement learning and supervised fine-tuning to the three models, stating that the year was 2023. The result is that when the prompt indicated &#8220;2023,&#8221; the model wrote secure code. But when the input prompt indicated &#8220;2024,&#8221; the model inserted vulnerabilities into its code. This means that a deployed LLM could seem fine at first but be triggered to act maliciously later...</p></blockquote>]]></summary>
-        <author>
-            <name>Schneier on Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve likely earned over $1bn in Counter-Strike 2 loot boxes last year]]></title>
-        <id>https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-01-24T12:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Valve likely made over $1bn last year from loot boxes in Counter-Strike 2.
-
-
-That's according to data from CS2 Case Tracker (thanks Dexerto), which released a 2023 year in review.
-
-
-The most striking statistic is that $980m was spent by players on keys for cases, the free-to-play game's loot box equivalent.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wild Apples: The 12 weirdest and rarest Macs ever made]]></title>
-        <id>https://arstechnica.com/?p=1997639</id>
-        <link href="https://arstechnica.com/?p=1997639"/>
-        <updated>2024-01-24T12:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Since 1984, Apple has made some strange Macintosh computers. How many have you used?]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo confirms date 3DS and Wii U online play shuts down]]></title>
-        <id>https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-01-24T11:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo is ending online play services for both the 3DS and Wii U on 8th April, the company confirmed earlier today. Previously, this shutdown was simply slated for some time in early April. 
-
-
-This  shutdown will include online co-operative play, internet rankings, and data distribution
-
-
-The only exception to this termination of online services (for now) are Pokémon Bank and Poké Transporter. While these won't be affected immediately by the end of service, Nintendo has said online services "may also end at some point in the future". For other, non-Nintendo published releases with online features, the company asks users to contact the game's publisher directly.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palworld to get PvP and Pal Arena modes in future update]]></title>
-        <id>https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-01-24T11:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Palworld developer Pocketpair has laid out a roadmap of improvements for the early access game.
-
-
-In the short term, the studio will be addressing critical issues such as bugs and a persistent loading screen. Other improvements will include key configuration and the AI of Pals.
-
-
-Further down the line, new elements like PvP, end-game Raid Bosses, and a Pal Arena for Pal PvP will be included. Plus, new islands, Pals, bosses and technologies will be added.
  
 Read more]]></summary>
         <author>

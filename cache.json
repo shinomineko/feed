@@ -685,16 +685,6 @@
           "wordCount": 973,
           "title": "Quantum Computing Skeptics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html",
-          "author": null,
-          "description": "<p>New research into <a href=\"https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/\">poisoning AI models</a>:</p>\n<blockquote><p>The researchers first trained the AI models using supervised learning and then used additional &#8220;safety training&#8221; methods, including more supervised learning, reinforcement learning, and adversarial training. After this, they checked if the AI still had hidden behaviors. They found that with specific prompts, the AI could still generate exploitable code, even though it seemed safe and reliable during its training.</p>\n<p>During stage 2, Anthropic applied reinforcement learning and supervised fine-tuning to the three models, stating that the year was 2023. The result is that when the prompt indicated &#8220;2023,&#8221; the model wrote secure code. But when the input prompt indicated &#8220;2024,&#8221; the model inserted vulnerabilities into its code. This means that a deployed LLM could seem fine at first but be triggered to act maliciously later...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html",
-          "publishedOn": "2024-01-24T12:06:20.000Z",
-          "wordCount": 1280,
-          "title": "Poisoning AI Models",
-          "imageUrl": null
         }
       ]
     },
@@ -703,6 +693,66 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2005464",
+          "author": "Dan Goodin",
+          "description": "LockBit's extensive reach is making complete erasure hard.",
+          "link": "https://arstechnica.com/?p=2005464",
+          "publishedOn": "2024-02-22T22:28:13.000Z",
+          "wordCount": 2004,
+          "title": "Ransomware associated with LockBit still spreading 2 days after server takedown",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005458",
+          "author": "Jon Brodkin",
+          "description": "Telcos accuse fixed wireless ISPs of claiming more locations than they serve.",
+          "link": "https://arstechnica.com/?p=2005458",
+          "publishedOn": "2024-02-22T22:04:56.000Z",
+          "wordCount": 2137,
+          "title": "ISPs keep giving false broadband coverage data to the FCC, groups say",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005341",
+          "author": "Benj Edwards",
+          "description": "SD3 may bring DALL-E-like prompt fidelity to an open-weights image-synthesis model.",
+          "link": "https://arstechnica.com/?p=2005341",
+          "publishedOn": "2024-02-22T21:28:52.000Z",
+          "wordCount": 2405,
+          "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005363",
+          "author": "Kevin Purdy",
+          "description": "Removing little-used features also improved responsiveness and shrank the size.",
+          "link": "https://arstechnica.com/?p=2005363",
+          "publishedOn": "2024-02-22T21:11:51.000Z",
+          "wordCount": 1892,
+          "title": "Nvidia’s new app doesn’t require you to log in to update your GPU driver",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_app-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005359",
+          "author": "Ashley Belanger",
+          "description": "Section 230 shields Snapchat from minor’s claims that algorithm enabled rape.",
+          "link": "https://arstechnica.com/?p=2005359",
+          "publishedOn": "2024-02-22T19:56:50.000Z",
+          "wordCount": 2036,
+          "title": "Snapchat isn’t liable for connecting 12-year-old to convicted sex offenders",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-503572766-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005093",
+          "author": "Scharon Harding",
+          "description": "Fubo: Media giants' anticompetitive tactics already killed PS Vue, other streamers.",
+          "link": "https://arstechnica.com/?p=2005093",
+          "publishedOn": "2024-02-22T17:56:39.000Z",
+          "wordCount": 2016,
+          "title": "Does Fubo’s antitrust lawsuit against ESPN, Fox, and WBD stand a chance?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2021283844-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2004735",
           "author": "Jennifer Ouellette",
@@ -4292,16 +4342,6 @@
           "wordCount": 1537,
           "title": "Daily Telescope: Shooting a laser into the sky from Antarctica",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/DOE-Lidar-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1997639",
-          "author": "Benj Edwards",
-          "description": "Since 1984, Apple has made some strange Macintosh computers. How many have you used?",
-          "link": "https://arstechnica.com/?p=1997639",
-          "publishedOn": "2024-01-24T12:00:28.000Z",
-          "wordCount": 2075,
-          "title": "Wild Apples: The 12 weirdest and rarest Macs ever made",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ars_weirdmacs_hero_3-760x380.jpg"
         }
       ]
     },
@@ -7705,36 +7745,6 @@
           "wordCount": 6951,
           "title": "Four Van Gogh Museum employees suspended after Pokémon exhibit chaos",
           "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_aox7bS0.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "Valve likely made over $1bn last year from loot boxes in Counter-Strike 2.\r\n\n\r\nThat's according to data from CS2 Case Tracker (thanks Dexerto), which released a 2023 year in review.\r\n\n\r\nThe most striking statistic is that $980m was spent by players on keys for cases, the free-to-play game's loot box equivalent.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/valve-likely-earned-over-1bn-in-counter-strike-2-loot-boxes-last-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-24T12:03:16.000Z",
-          "wordCount": 7137,
-          "title": "Valve likely earned over $1bn in Counter-Strike 2 loot boxes last year",
-          "imageUrl": "https://assetsio.reedpopcdn.com/keyArt_wide.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Nintendo is ending online play services for both the 3DS and Wii U on 8th April, the company confirmed earlier today. Previously, this shutdown was simply slated for some time in early April. \r\n\n\r\nThis  shutdown will include online co-operative play, internet rankings, and data distribution\r\n\n\r\nThe only exception to this termination of online services (for now) are Pokémon Bank and Poké Transporter. While these won't be affected immediately by the end of service, Nintendo has said online services \"may also end at some point in the future\". For other, non-Nintendo published releases with online features, the company asks users to contact the game's publisher directly.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nintendo-confirms-date-3ds-and-wii-u-online-play-shuts-down?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-24T11:24:53.000Z",
-          "wordCount": 7101,
-          "title": "Nintendo confirms date 3DS and Wii U online play shuts down",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Nintendo-3ds_nrROZjc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "Palworld developer Pocketpair has laid out a roadmap of improvements for the early access game.\r\n\n\r\nIn the short term, the studio will be addressing critical issues such as bugs and a persistent loading screen. Other improvements will include key configuration and the AI of Pals.\r\n\n\r\nFurther down the line, new elements like PvP, end-game Raid Bosses, and a Pal Arena for Pal PvP will be included. Plus, new islands, Pals, bosses and technologies will be added.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/palworld-to-get-pvp-and-pal-arena-modes-in-future-update?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-24T11:10:09.000Z",
-          "wordCount": 7257,
-          "title": "Palworld to get PvP and Pal Arena modes in future update",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Palworld_KeyVisual_1080p_NoLogo.png.png-%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -7743,6 +7753,16 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog/",
       "articles": [
+        {
+          "id": "https://github.blog/?p=76676",
+          "author": "Jeimy Ruiz",
+          "description": "Explore the capabilities and benefits of AI code generation, and how it can improve the developer experience for your enterprise.\nThe post How AI code generation works appeared first on The GitHub Blog.",
+          "link": "https://github.blog/2024-02-22-how-ai-code-generation-works/",
+          "publishedOn": "2024-02-22T18:32:28.000Z",
+          "wordCount": 3641,
+          "title": "How AI code generation works",
+          "imageUrl": "https://github.blog/wp-content/uploads/2023/10/AI-DarkMode-2.png"
+        },
         {
           "id": "https://github.blog/?p=76672",
           "author": "Sara Verdi",
