@@ -417,6 +417,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-and-climate-change.html",
+          "author": null,
+          "description": "<p>There <a href=\"https://bnnbreaking.com/world/argentina/unraveling-the-dance-of-the-elusive-illex-argentines-squid-and-climate-change-in-the-southwest-atlantic\">are</a> <a href=\"https://en.mercopress.com/2024/02/15/illex-squid-correlation-between-abundance-and-sea-surface-temperatures-taiwanese-experience-1998-2018\">correlations</a> between the populations of the Illex Argentines squid and water temperatures.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-and-climate-change.html",
+          "publishedOn": "2024-02-23T22:04:28.000Z",
+          "wordCount": 2091,
+          "title": "Friday Squid Blogging: Illex Squid and Climate Change",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/02/ais-hacking-websites.html",
           "author": null,
           "description": "<p>New <a href=\"https://arxiv.org/abs/2402.06664\">research</a>:</p>\n<blockquote><p>LLM Agents can Autonomously Hack Websites</p>\n<p><b>Abstract:</b> In recent years, large language models (LLMs) have become increasingly capable and can now interact with tools (i.e., call functions), read documents, and recursively call themselves. As a result, these LLMs can now function autonomously as agents. With the rise in capabilities of these agents, recent work has speculated on how LLM agents would affect cybersecurity. However, not much is known about the offensive capabilities of LLM agents.</p>\n<p>In this work, we show that LLM agents can autonomously hack websites, performing tasks as complex as blind database schema extraction and SQL injections without human feedback. Importantly, the agent does not need to know the vulnerability beforehand. This capability is uniquely enabled by frontier models that are highly capable of tool use and leveraging extended context. Namely, we show that GPT-4 is capable of such hacks, but existing open-source models are not. Finally, we show that GPT-4 is capable of autonomously finding vulnerabilities in websites in the wild. Our findings raise questions about the widespread deployment of LLMs...</p></blockquote>",
@@ -695,16 +705,6 @@
           "wordCount": 2162,
           "title": "Chatbots and Human Conversation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/01/quantum-computing-skeptics.html",
-          "author": null,
-          "description": "<p>Interesting <a href=\"https://spectrum.ieee.org/quantum-computing-skeptics\">article</a>. I am also skeptical that we are going to see useful quantum computers anytime soon. Since at least 2019, I <a href=\"https://www.schneier.com/blog/archives/2019/10/factoring_2048.html\">have been saying</a> that this is hard. And that we don&#8217;t know if it&#8217;s &#8220;land a person on the surface of the moon&#8221; hard,  or &#8220;land a person on the surface of the sun&#8221; hard. They&#8217;re both hard, but very different.</p>",
-          "link": "https://www.schneier.com/blog/archives/2024/01/quantum-computing-skeptics.html",
-          "publishedOn": "2024-01-25T12:04:15.000Z",
-          "wordCount": 973,
-          "title": "Quantum Computing Skeptics",
-          "imageUrl": null
         }
       ]
     },
@@ -713,6 +713,86 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2005794",
+          "author": "Beth Mole",
+          "description": "Data is consistent with bosses using RTO to reassert control and scapegoat workers.",
+          "link": "https://arstechnica.com/?p=2005794",
+          "publishedOn": "2024-02-23T23:05:45.000Z",
+          "wordCount": 1958,
+          "title": "RTO doesn’t improve company value, but does make employees miserable: Study",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-182629853-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005753",
+          "author": "Ashley Belanger",
+          "description": "Facial-recognition data is typically used to prompt more vending machine sales.",
+          "link": "https://arstechnica.com/?p=2005753",
+          "publishedOn": "2024-02-23T22:02:30.000Z",
+          "wordCount": 2225,
+          "title": "Vending machine error reveals secret face image database of college students",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/mm-camera-spy-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005705",
+          "author": "Jennifer Ouellette",
+          "description": "\"It has been a hell of a journey. But everything ends someday.\"",
+          "link": "https://arstechnica.com/?p=2005705",
+          "publishedOn": "2024-02-23T21:16:05.000Z",
+          "wordCount": 2163,
+          "title": "Plucky crew of Star Trek: Discovery seeks a strange artifact in S5 trailer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/discovery5-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005605",
+          "author": "Kevin Purdy",
+          "description": "Identifiable data included job searches, map directions, \"cosplay erotica.\"",
+          "link": "https://arstechnica.com/?p=2005605",
+          "publishedOn": "2024-02-23T20:37:03.000Z",
+          "wordCount": 2187,
+          "title": "Avast ordered to stop selling browsing data from its browsing privacy apps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1232937090-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005521",
+          "author": "Jennifer Ouellette",
+          "description": "A tale of \"sand dunes, a guy named Gaston, secret aeromagnetic surveys, and camel drivers.\"",
+          "link": "https://arstechnica.com/?p=2005521",
+          "publishedOn": "2024-02-23T20:24:00.000Z",
+          "wordCount": 1937,
+          "title": "A giant meteorite has been lost in the desert since 1916—here’s how we might find it",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/meteorite1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005657",
+          "author": "Jonathan M. Gitlin",
+          "description": "There's a lot of streaming content for fans ahead of next weekend's race.",
+          "link": "https://arstechnica.com/?p=2005657",
+          "publishedOn": "2024-02-23T19:49:27.000Z",
+          "wordCount": 2392,
+          "title": "Here’s what we know after three days of Formula 1 preseason testing",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2027885607-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005621",
+          "author": "Ashley Belanger",
+          "description": "Taxing exports of digital movies and games may not be worth sowing discord.",
+          "link": "https://arstechnica.com/?p=2005621",
+          "publishedOn": "2024-02-23T18:32:42.000Z",
+          "wordCount": 1861,
+          "title": "India’s plan to let 1998 digital trade deal expire may worsen chip shortage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1853518965-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2005627",
+          "author": "Ars Contributors",
+          "description": "Problems at a chromium mine in Albania traced to nearly pure hydrogen in a fault.",
+          "link": "https://arstechnica.com/?p=2005627",
+          "publishedOn": "2024-02-23T18:16:31.000Z",
+          "wordCount": 1833,
+          "title": "Can we drill for hydrogen? New find suggests additional geological source.",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-5-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=2005526",
           "author": "Scharon Harding",
@@ -4222,26 +4302,6 @@
           "wordCount": 2161,
           "title": "Review: Nvidia’s RTX 4070 Ti Super is better, but I still don’t know who it’s for",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_1518-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1998907",
-          "author": "Jonathan M. Gitlin",
-          "description": "Porsche's order books for the Macan are open, deliveries in the second half of 2024.",
-          "link": "https://arstechnica.com/?p=1998907",
-          "publishedOn": "2024-01-25T12:30:28.000Z",
-          "wordCount": 2192,
-          "title": "Here’s the production version of Porsche’s first electric Macan SUV",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/DSC08884-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1997974",
-          "author": "Kyle Orland",
-          "description": "\"Everyone is ready to believe that AI can do things, even if it can't.\"",
-          "link": "https://arstechnica.com/?p=1997974",
-          "publishedOn": "2024-01-25T12:00:26.000Z",
-          "wordCount": 2791,
-          "title": "Did an AI write that hour-long “George Carlin” special? I’m not convinced.",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/george-carlin-mask-760x380.jpg"
         }
       ]
     },
@@ -4306,6 +4366,26 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/prince-of-persia-the-lost-crown-getting-free-new-content-and-modes-starting-soon?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Ubisoft has teased its future plans for Prince of Persia: The Lost Crown, saying the acclaimed Metroidvania will be getting new content and modes in free updates starting \"soon\".\r\n\n\r\nPrince of Persia: The Lost Crown enjoyed significant critical acclaim when it launched back in January - Eurogamer's Christian Donlan called it a \"real delight...that revels in both its genre and its own heritage\" in his four star review - and while early reports have suggested it hasn't fared quite so well commercially, Ubisoft clearly isn't done with the title yet.\r\n\n\r\nIn a short video message shared on social media (as spotted by VGC), Lost Crown director Mounir Radi thanked fans for their support, saying, \"It means the world to us seeing you enjoy your time with the game just as much as we do. Which is why, I'm especially pleased to let you know that we are far from being done\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/prince-of-persia-the-lost-crown-getting-free-new-content-and-modes-starting-soon?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-23T21:54:53.000Z",
+          "wordCount": 7245,
+          "title": "Prince of Persia: The Lost Crown getting free new content and modes \"soon\"",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Sargon-in-Prince-of-Persia-The-Lost-Crown.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/digital-only-xbox-series-x-reportedly-launching-june-or-july-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Microsoft is reportedly preparing to launch a new white, digital-only version of its top-end Xbox Series X console in \"June or July\" this year.\r\n\n\r\nAn \"adorably all-digital\" Xbox Series X refresh, planned for a 2024 release, first surfaced as part of a mammoth leak of official Microsoft documentation during last year's court battle with the FTC. However, Xbox boss Phil Spencer later insisted \"so much has changed\" since the plans detailed in the leak had been drawn up, leaving the all-digital console's future uncertain.\r\n\n\r\nBut now, noted leaker eXtas1s (writing for Exputer) has claimed that not only are Microsoft's all-digital Xbox Series X plans still alive, the console is set to release \"sometime between the upcoming months of June and July\" - although \"chances for a slight delay\" remain.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/digital-only-xbox-series-x-reportedly-launching-june-or-july-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-02-23T19:50:27.000Z",
+          "wordCount": 7257,
+          "title": "Digital-only Xbox Series X reportedly launching \"June or July\" this year",
+          "imageUrl": "https://assetsio.reedpopcdn.com/xbox-console-leak-digital.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/no-mans-sky-is-free-to-play-again-this-weekend-because-it-went-so-well-last-time?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
@@ -7635,56 +7715,6 @@
           "wordCount": 7403,
           "title": "Video of Legend of Zelda producer Eiji Aonuma at Universal Studios pulled offline",
           "imageUrl": "https://assetsio.reedpopcdn.com/Princess-Zelda-in-Tears-of-the-Kingdom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/f-zero-99-secret-tracks-private-lobbies-added?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "Nintendo Switch Online game F-Zero 99 has a fresh update today that adds the ability to create private lobbies. \r\n\n\r\nThe update also includes a number of mysterious \"secret tracks\", which Nintendo says will \"occasionally appear in F-Zero 99\" when playing. Intriguing!\r\n\n\r\nPrivate lobbies are now available as an option for any game mode. These let you set a four-digit passcode so you and your friends can join an individual lobby. But private lobby races won't be reflected on leaderboards, and you'll receive less EXP and fewer ticket points.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/f-zero-99-secret-tracks-private-lobbies-added?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-25T12:22:15.000Z",
-          "wordCount": 7109,
-          "title": "F-Zero 99 secret tracks, private lobbies added",
-          "imageUrl": "https://assetsio.reedpopcdn.com/F-ZERO-99---Nintendo-Switch-Online---Nintendo-Direct-9.14.2023-1-32-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/destroy-all-humans-studio-cuts-half-its-staff?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "Black Forest Games, the Embracer-owned studio behind Destroy All Humans! 1 and 2 remakes, has laid off around half of its staff. \r\n\nKotaku reported the layoffs last night, and said the studio had 110 employees as of a headcount made public last year. Staff were told of the cuts yesterday, and have begun posting about them on social media. \r\n\n\r\nThe next project from Black Forest Games is Teenage Mutant Ninja Turtles: The Last Ronin, a dark and gritty God of War-inspired take on the franchise adapted from the acclaimed comic book series of the same name. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/destroy-all-humans-studio-cuts-half-its-staff?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-25T12:03:07.000Z",
-          "wordCount": 7078,
-          "title": "Destroy All Humans studio reportedly cuts half its staff",
-          "imageUrl": "https://assetsio.reedpopcdn.com/turtles_2RcMKKF.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/palworld-xbox-us-player-numbers-briefly-surpass-fortnite-as-steam-sales-hit-8m-in-six-days?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "The Palworld-wide domination continues. Along with some truly monumental numbers on Steam, the open world survival and crafting game - which the internet has dubbed 'Pokémon with guns' - has seen its US numbers on Xbox briefly surpass those of perennial favourite Fortnite.\r\n\n\r\nAs noted by NPD's Mat Piscatella, Circana's Player Engagement Tracker showed that Palworld surpassed Fortnite's Xbox numbers in the US on 22nd January. According to the tracker, Xbox players in the US played Palworld for more than 200 minutes, on average. \r\n\n\r\nWhile this was a one day thing, and the number of players in each game was \"close\" (Piscatella said to consider this all a \"small-sample data point for funsies stat for now more than anything else\"), it is still quite remarkable. In Piscatella's words, these are some \"bonkers numbers\".\r\n \nRead more",
-          "link": "https://www.eurogamer.net/palworld-xbox-us-player-numbers-briefly-surpass-fortnite-as-steam-sales-hit-8m-in-six-days?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-25T10:57:07.000Z",
-          "wordCount": 7231,
-          "title": "Palworld Xbox US player numbers briefly surpass Fortnite, as Steam sales hit 8m in six days",
-          "imageUrl": "https://assetsio.reedpopcdn.com/palworld-011924-(6).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/final-fantasy-14-live-action-tv-series-officially-dead?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "A Final Fantasy 14 live-action TV series is now confirmed to be \"dead\" due to the \"size and scale needed to do it right\".\r\n\n\r\nThe series was previously announced as a collaboration between Sony Pictures Television and Hivemind, the company behind Netflix's The Witcher series.\r\n\n\r\nHowever, Hivemind co-founder Dinesh Shamdasani has now confirmed in a post on X, formerly Twitter, the project is no longer in the works.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/final-fantasy-14-live-action-tv-series-officially-dead?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-25T10:55:24.000Z",
-          "wordCount": 7227,
-          "title": "Final Fantasy 14 live-action TV series officially \"dead\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Final-Fantasy-XIV-Endwalker-Screenshot-033.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/pokemon-says-it-will-investigate-and-take-appropriate-measures-following-claims-palworld-copied-designs?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "The Pokémon Company has issued a rare statement addressing the smash hit PC and Xbox game Palworld, after claims the latter has directly copied its designs.\r\n\n\r\nIn the statement, released this morning via its Japanese website, The Pokémon Company said it now intends to \"investigate\" Palworld for any content it believes may \"infringe on intellectual property rights related to Pokémon\". \r\n\n\r\nEarlier this week, fans pointed not just to the familiar designs of some Palworld creatures, but to the close similarity seen in Palworld's in-game models to Pokémon data in November 2022's Switch games Pokémon Scarlet and Pokémon Violet. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/pokemon-says-it-will-investigate-and-take-appropriate-measures-following-claims-palworld-copied-designs?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-01-25T10:51:10.000Z",
-          "wordCount": 7398,
-          "title": "Pokémon says it will \"investigate and take appropriate measures\" following claims Palworld copied designs",
-          "imageUrl": "https://assetsio.reedpopcdn.com/palworld-grizzbolt-in-paldex-menu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
