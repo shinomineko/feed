@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shinomineko.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T06:43:29.951Z</updated>
+    <updated>2024-03-04T12:28:30.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://shinomineko.github.io/feed/index.html"/>
     <link rel="self" href="https://shinomineko.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLM Prompt Injection Worm]]></title>
+        <id>https://www.schneier.com/blog/archives/2024/03/llm-prompt-injection-worm.html</id>
+        <link href="https://www.schneier.com/blog/archives/2024/03/llm-prompt-injection-worm.html"/>
+        <updated>2024-03-04T12:01:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>Researchers have <a href="https://sites.google.com/view/compromptmized">demonstrated</a> a worm that spreads through prompt injection. <a href="https://www.wired.com/story/here-come-the-ai-worms/">Details</a>:</p>
+<blockquote><p>In one instance, the researchers, acting as attackers, wrote an email including the adversarial text prompt, which &#8220;poisons&#8221; the database of an email assistant using <a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/">retrieval-augmented generation (RAG)</a>, a way for LLMs to pull in extra data from outside its system. When the email is retrieved by the RAG, in response to a user query, and is sent to GPT-4 or Gemini Pro to create an answer, it &#8220;jailbreaks the GenAI service&#8221; and ultimately steals data from the emails, Nassi says. &#8220;The generated response containing the sensitive user data later infects new hosts when it is used to reply to an email sent to a new client and then stored in the database of the new client,&#8221; Nassi says...</p></blockquote>]]></summary>
+        <author>
+            <name>Schneier on Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo composer Marty O'Donnell announces Republican bid for Congress]]></title>
+        <id>https://www.eurogamer.net/halo-composer-marty-odonnell-announces-republican-bid-for-congress?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/halo-composer-marty-odonnell-announces-republican-bid-for-congress?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-04T11:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Marty O'Donnell, the former Bungie composer best known for his Halo and Destiny soundtracks, has announced his intention to run for US Congress as a Republican candidate. 
+
+
+In a lengthy post on social media platform X, O'Donnell said he "never wanted to be a politician and I still don't" but felt he needed to "step up" after seeing "the leaders of our country being influenced by the toxic divisions that are tearing apart our families and society".
+
+
+O'Donnell's campaign website is now live, with a notable Halo-esque vibe. Visitors can donate to O'Donnell's war fund, learn more about the composer's history in the video games industry, and "join Marty's army" to receive campaign  updates.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's what's leaving Xbox Game Pass this month]]></title>
+        <id>https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-04T11:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Xbox recently updated its Game Pass page, revealing three games that will be leaving the service soon.
+Shredders, Ni no Kuni Wrath of the White Witch Remastered and Hardspace: Shipbreaker will all be removed from the Game Pass catalogue in the next two weeks.
+If you want to keep playing any of these games once they have left the service, you will need to purchase them. Game Pass members will get a 20 percent discount.
+ Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octopath Traveler delisted from Nintendo eShop]]></title>
+        <id>https://www.eurogamer.net/octopath-traveler-delisted-from-nintendo-eshop?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/octopath-traveler-delisted-from-nintendo-eshop?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-04T10:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix's RPG Octopath Traveler has been delisted - temporarily, at least - from the Nintendo eShop.
+The game's disappearance was noticed at the end of last week, though it's still available on Steam and the Microsoft Store.
+Some fans have linked Octopath Traveler's delisting due to an apparent change in publisher. Archived versions of the game's eShop product page show that its publisher was changed from Nintendo to Square Enix a some point between 11th February and 1st March.
+ Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA's Star Wars strategy game still in development, following layoffs]]></title>
+        <id>https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-layoffs?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-layoffs?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-04T10:48:10.000Z</updated>
+        <summary type="html"><![CDATA[The Star Wars strategy game from Bit Reactor and EA is still in development, following the cancellation of a Star Wars shooter by Apex Legends studio Respawn last week.
+
+
+EA's latest round of layoffs will affect five percent of staff - around 670 employees. The publisher said it planned to move away from "future licensed IP" toward its "owned IP, sports, and massive online communities". EA said this decision would not impact every team at the company directly.
+
+
+ Now, developer Bit Reactor has shared an update on X, confirming its Star Wars strategy game was "unaffected" by the changes at EA. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The world’s most traveled crew transport spacecraft flies again]]></title>
         <id>https://arstechnica.com/?p=2007469</id>
@@ -9431,32 +9504,6 @@ The threats – sent because the fictional character she played did something to
         <summary type="html"><![CDATA[Disease outbreaks and human conflicts help dictate regional differences in longevity.]]></summary>
         <author>
             <name>Elizabeth Rayne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA apologises for the FC 24 SBC issue, but players who won Messi "will keep their rewards"]]></title>
-        <id>https://www.eurogamer.net/ea-apologises-for-the-fc-24-sbc-issue-but-players-who-won-messi-will-keep-their-rewards?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.eurogamer.net/ea-apologises-for-the-fc-24-sbc-issue-but-players-who-won-messi-will-keep-their-rewards?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-02-03T21:24:56.000Z</updated>
-        <summary type="html"><![CDATA[EA has apologised to FC 24 fans after a bugged challenge accidentally awarded thousands of players an incredibly expensive and hard-to-get TOTY player.
-According to a blog posted on the official website, it seems that for 24 minutes on 30th January, players partaking in the new Squad Builder Challenges (SBC) had a spectacularly high chance of securing the 86+ OVR untradeable Lionel Messi card worth hundreds of pounds.
-EA was notified of the issue and pulled the challenge within half an hour, but it was already too late; thousands of players had already snagged it, leading those  who had not been so lucky to call for EA to level the playing field – literally and metaphorically – and gift the card to all.
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konami is "potentially porting" the Silent Hill series to current-gen consoles]]></title>
-        <id>https://www.eurogamer.net/konami-is-potentially-porting-the-silent-hill-series-to-current-gen-consoles?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.eurogamer.net/konami-is-potentially-porting-the-silent-hill-series-to-current-gen-consoles?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-02-03T19:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Konami is reportedly "potentially porting" the Silent Hill series to contemporary consoles.
-That's according to one of five short documentaries Konami published on YouTube the night it shadow-dropped The Short Message.
-In the fourth video, a level designer who worked on the highly-anticipated (and long rumoured) playable teaser revealed that Konami had originally reached out to the team at Hexadrive – a studio that had primarily worked on porting older games until it helped an internal Konami team develop The Short Message – "about potentially porting the Silent Hill series".
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
     <entry>

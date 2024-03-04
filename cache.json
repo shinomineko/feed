@@ -397,6 +397,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/03/llm-prompt-injection-worm.html",
+          "author": null,
+          "description": "<p>Researchers have <a href=\"https://sites.google.com/view/compromptmized\">demonstrated</a> a worm that spreads through prompt injection. <a href=\"https://www.wired.com/story/here-come-the-ai-worms/\">Details</a>:</p>\n<blockquote><p>In one instance, the researchers, acting as attackers, wrote an email including the adversarial text prompt, which &#8220;poisons&#8221; the database of an email assistant using <a href=\"https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/\">retrieval-augmented generation (RAG)</a>, a way for LLMs to pull in extra data from outside its system. When the email is retrieved by the RAG, in response to a user query, and is sent to GPT-4 or Gemini Pro to create an answer, it &#8220;jailbreaks the GenAI service&#8221; and ultimately steals data from the emails, Nassi says. &#8220;The generated response containing the sensitive user data later infects new hosts when it is used to reply to an email sent to a new client and then stored in the database of the new client,&#8221; Nassi says...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/03/llm-prompt-injection-worm.html",
+          "publishedOn": "2024-03-04T12:01:52.000Z",
+          "wordCount": 1259,
+          "title": "LLM Prompt Injection Worm",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/03/friday-squid-blogging-new-extinct-species-of-vampire-squid-discovered.html",
           "author": null,
           "description": "<p>Paleontologists have <a href=\"https://phys.org/news/2024-02-species-ancient-vampire-squid-unearthed.html\">discovered</a> a 183-million-year-old species of vampire squid.</p>\n<blockquote><p>Prior research suggests that the vampyromorph lived in the shallows off an island that once existed in what is now the heart of the European mainland. The research team believes that the remarkable degree of preservation of this squid is due to unique conditions at the moment of the creature&#8217;s death. Water at the bottom of the sea where it ventured would have been poorly oxygenated, causing the creature to suffocate. In addition to killing the squid, it would have prevented other creatures from feeding on its remains, allowing it to become buried in the seafloor, wholly intact...</p></blockquote>",
@@ -4056,6 +4066,46 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/halo-composer-marty-odonnell-announces-republican-bid-for-congress?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "Marty O'Donnell, the former Bungie composer best known for his Halo and Destiny soundtracks, has announced his intention to run for US Congress as a Republican candidate. \r\n\n\r\nIn a lengthy post on social media platform X, O'Donnell said he \"never wanted to be a politician and I still don't\" but felt he needed to \"step up\" after seeing \"the leaders of our country being influenced by the toxic divisions that are tearing apart our families and society\".\r\n\n\r\nO'Donnell's campaign website is now live, with a notable Halo-esque vibe. Visitors can donate to O'Donnell's war fund, learn more about the composer's history in the video games industry, and \"join Marty's army\" to receive campaign  updates.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-composer-marty-odonnell-announces-republican-bid-for-congress?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-04T11:51:18.000Z",
+          "wordCount": 7324,
+          "title": "Halo composer Marty O'Donnell announces Republican bid for Congress",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Untitled-1_AWRpJa5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Xbox recently updated its Game Pass page, revealing three games that will be leaving the service soon.\nShredders, Ni no Kuni Wrath of the White Witch Remastered and Hardspace: Shipbreaker will all be removed from the Game Pass catalogue in the next two weeks.\nIf you want to keep playing any of these games once they have left the service, you will need to purchase them. Game Pass members will get a 20 percent discount.\n Read more",
+          "link": "https://www.eurogamer.net/heres-whats-leaving-xbox-game-pass-this-month?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-04T11:34:11.000Z",
+          "wordCount": 7476,
+          "title": "Here's what's leaving Xbox Game Pass this month",
+          "imageUrl": "https://assetsio.reedpopcdn.com/ss_927a350f64c6e2be8a35df3e64e2110a6d725be4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/octopath-traveler-delisted-from-nintendo-eshop?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Liv Ngan",
+          "description": "Square Enix's RPG Octopath Traveler has been delisted - temporarily, at least - from the Nintendo eShop.\nThe game's disappearance was noticed at the end of last week, though it's still available on Steam and the Microsoft Store.\nSome fans have linked Octopath Traveler's delisting due to an apparent change in publisher. Archived versions of the game's eShop product page show that its publisher was changed from Nintendo to Square Enix a some point between 11th February and 1st March.\n Read more",
+          "link": "https://www.eurogamer.net/octopath-traveler-delisted-from-nintendo-eshop?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-04T10:53:06.000Z",
+          "wordCount": 7152,
+          "title": "Octopath Traveler delisted from Nintendo eShop",
+          "imageUrl": "https://assetsio.reedpopcdn.com/octopath-traveler-ss.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "The Star Wars strategy game from Bit Reactor and EA is still in development, following the cancellation of a Star Wars shooter by Apex Legends studio Respawn last week.\r\n\n\r\nEA's latest round of layoffs will affect five percent of staff - around 670 employees. The publisher said it planned to move away from \"future licensed IP\" toward its \"owned IP, sports, and massive online communities\". EA said this decision would not impact every team at the company directly.\r\n\n\r\n Now, developer Bit Reactor has shared an update on X, confirming its Star Wars strategy game was \"unaffected\" by the changes at EA. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/eas-star-wars-strategy-game-still-in-development-following-layoffs?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-04T10:48:10.000Z",
+          "wordCount": 7363,
+          "title": "EA's Star Wars strategy game still in development, following layoffs",
+          "imageUrl": "https://assetsio.reedpopcdn.com/FJ86ctAVQAgrMOu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/steam-smashes-yet-another-concurrent-record-with-364m-simultaneous-players-recorded-earlier-today?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Vikki Blake",
           "description": "Steam's done it again: another weekend, another concurrent user record broken and a new one set.\nAccording to SteamDB, over 34.5 million of us were simultaneously online earlier today, setting an all-new concurrent user record of 34,649,583 players.\nAnd of those players, 11,146,564 users weren't just idling, but actively playing a game when the record was set.\n Read more",
@@ -7314,26 +7364,6 @@
           "wordCount": 7430,
           "title": "The Last of Us Part 2's Abby actor reveals online abuse didn't just threaten her life but her baby son, too",
           "imageUrl": "https://assetsio.reedpopcdn.com/abby-the-last-of-us.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-apologises-for-the-fc-24-sbc-issue-but-players-who-won-messi-will-keep-their-rewards?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Vikki Blake",
-          "description": "EA has apologised to FC 24 fans after a bugged challenge accidentally awarded thousands of players an incredibly expensive and hard-to-get TOTY player.\nAccording to a blog posted on the official website, it seems that for 24 minutes on 30th January, players partaking in the new Squad Builder Challenges (SBC) had a spectacularly high chance of securing the 86+ OVR untradeable Lionel Messi card worth hundreds of pounds.\nEA was notified of the issue and pulled the challenge within half an hour, but it was already too late; thousands of players had already snagged it, leading those  who had not been so lucky to call for EA to level the playing field – literally and metaphorically – and gift the card to all.\n Read more",
-          "link": "https://www.eurogamer.net/ea-apologises-for-the-fc-24-sbc-issue-but-players-who-won-messi-will-keep-their-rewards?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-03T21:24:56.000Z",
-          "wordCount": 7605,
-          "title": "EA apologises for the FC 24 SBC issue, but players who won Messi \"will keep their rewards\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/fc-24-messi-headline.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/konami-is-potentially-porting-the-silent-hill-series-to-current-gen-consoles?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Vikki Blake",
-          "description": "Konami is reportedly \"potentially porting\" the Silent Hill series to contemporary consoles.\nThat's according to one of five short documentaries Konami published on YouTube the night it shadow-dropped The Short Message.\nIn the fourth video, a level designer who worked on the highly-anticipated (and long rumoured) playable teaser revealed that Konami had originally reached out to the team at Hexadrive – a studio that had primarily worked on porting older games until it helped an internal Konami team develop The Short Message – \"about potentially porting the Silent Hill series\".\n Read more",
-          "link": "https://www.eurogamer.net/konami-is-potentially-porting-the-silent-hill-series-to-current-gen-consoles?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-03T19:47:14.000Z",
-          "wordCount": 8042,
-          "title": "Konami is \"potentially porting\" the Silent Hill series to current-gen consoles",
-          "imageUrl": "https://assetsio.reedpopcdn.com/heather-sh3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
