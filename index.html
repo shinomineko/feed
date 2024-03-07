@@ -83,11 +83,332 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-07 datetime="2024-03-06T17:55:47.000Z">2024-03-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-07 datetime="2024-03-06T17:55:47.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-07 datetime="2024-03-07T00:00:00.000Z">2024-03-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-07 datetime="2024-03-07T00:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kubernetes Blog</button>
+                  <a class="source-heading__link" href="https://kubernetes.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://kubernetes.io/blog/2024/03/07/cri-o-seccomp-oci-artifacts/"
+                        open
+                      >
+                        <summary class="article-expander__title">CRI-O: Applying seccomp profiles from OCI registries</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kubernetes.io/blog/2024/03/07/cri-o-seccomp-oci-artifacts/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Author: Sascha Grunert
+Seccomp stands for secure computing mode and has been a feature of the Linux
+kernel since version 2.6.12. It can be used to sandbox the privileges of a
+process, restricting the calls it is able to make from userspace into the
+kernel. Kubernetes lets you automatically apply seccomp profiles loaded onto a
+node to your Pods and containers.
+But distributing those seccomp profiles is a major challenge in Kubernetes,
+because the JSON files have to be available on all nodes where a workload can
+possibly run. Projects like the Security Profiles
+Operator solve that problem by
+running as a daemon within the cluster, which makes me wonder which part of that
+distribution could be done by the container
+runtime.
+Runtimes usually apply the profiles from a local path, for example:
+a…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ars Technica - All content</button>
+                  <a class="source-heading__link" href="https://arstechnica.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008453"
+                        open
+                      >
+                        <summary class="article-expander__title">Some teachers are now using ChatGPT to grade papers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008453">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/kid_with_robot-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>New AI tools aim to help with grading and lesson plans—but they may have serious drawbacks.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008483"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft accused of selling AI tool that spews violent, sexual images to kids</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008483">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1822102815-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>It looks like Microsoft may be filtering violent AI outputs flagged by engineer.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008256"
+                        open
+                      >
+                        <summary class="article-expander__title">Samsung is making it harder to know what type of OLED TV you’re getting</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008256">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/Samsung-2-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>QD-OLED or classic WOLED? Samsung reportedly won&#x27;t tell.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008282"
+                        open
+                      >
+                        <summary class="article-expander__title">“It‘s kind of depressing”: WB Discovery pulls indie game for “business changes”</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008282">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/Screenshot-2024-03-06-at-11.43.15 AM-760x380.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Developer makes Small Radios Big Televisions free to download in response.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008406"
+                        open
+                      >
+                        <summary class="article-expander__title">VMware sandbox escape bugs are so critical, patches are released for end-of-life products</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008406">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/cloud-computing-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>VMware ESXi, Workstation, Fusion, and Cloud Foundation all affected.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008396"
+                        open
+                      >
+                        <summary class="article-expander__title">DMA be damned, Apple cuts off path to Epic Games Store, Fortnite on EU iPhones</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008396">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-957063506-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Epic says it&#x27;s retaliation for public criticism; Apple says it can&#x27;t trust Epic&#x27;s promises.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008325"
+                        open
+                      >
+                        <summary class="article-expander__title">On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008325">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/dma-eu-gatekeepers-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>DMA forces large platforms to give users more choices, rivals more chances.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008307"
+                        open
+                      >
+                        <summary class="article-expander__title">Big Tech firms beat lawsuit from child laborers forced to work in cobalt mines</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008307">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/getty-cobalt-mine-drc-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Buying cobalt doesn&#x27;t make US firms liable for abuses in DR Congo, court rules.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008275"
+                        open
+                      >
+                        <summary class="article-expander__title">Huawei rises from the dead, outsells iPhone in China</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008275">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/23-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Sanctions crushed Huawei for a time, but new Counterpoint data says Huawei is back.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008311"
+                        open
+                      >
+                        <summary class="article-expander__title">Big Pharma is “coming to the table” on price negotiations as it loses in court</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008311">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1230961158-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Negotiating prices is not a &quot;gun to the head,&quot; judge rules.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2007526"
+                        open
+                      >
+                        <summary class="article-expander__title">Producing more but understanding less: The risks of AI for scientific research</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2007526">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A psychologist and an anthropologist ponder the epistemic risks AI could pose for science.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008289"
+                        open
+                      >
+                        <summary class="article-expander__title">Company that plans to bring back the mammoth takes a key step</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008289">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/image-1-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Making elephant stem cells required an elaborate process, lots of failures.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://arstechnica.com/?p&#x3D;2008231"
+                        open
+                      >
+                        <summary class="article-expander__title">OpenAI responds to Elon Musk lawsuit by clarifying its “open“ nature</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2008231">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/openai_brickwall_2-760x380.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&quot;The open in OpenAI means that everyone should benefit from the fruits of AI after it&#x27;s built.&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -99,6 +420,268 @@
                   <a class="source-heading__link" href="https://www.eurogamer.net/feed/news">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/rogue-like-poker-hit-balatro-sells-half-a-million-copies-in-ten-days?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Rogue-like poker hit Balatro sells half a million copies in ten days</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/rogue-like-poker-hit-balatro-sells-half-a-million-copies-in-ten-days?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/Balatro---joker-unlock.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Developer LocalThunk&#x27;s Balatro might have hit a bit of a bump last week after an unexpected ratings change, but that hasn&#x27;t stopped the acclaimed poker-inspired rogue-like deckbuilder from selling over half a million copies in ten days, according to publisher Playstack.
+
+
+That&#x27;s an impressive figure for what&#x27;s a fairly unassuming card game at first glance. Balatro, if you&#x27;re unfamiliar, challenges players to progress through a series of stage-like Blinds by exceeding each one&#x27;s target score. A maximum of four poker hands can played each blind, and failure to reach the target, in classic rogue-like fashion, results in a game over.
+
+
+As you can probably guess, though, there&#x27;s a lot more to it than that, with successful Blinds rewarding in-game money to spend on the likes of fancy combo-boosting cards, exotic upgrades, and, crucially, a heap of rule-bending Jokers that quickly turn a relatively unremarkable set-up into an outlandish game of ludicrous, score-busting synergies.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/final-fantasy-7-remake-trilogy-confirmed-as-playstation-console-exclusive?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Final Fantasy 7 remake trilogy&#x27;s PlayStation exclusivity clarified following reporting error</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/final-fantasy-7-remake-trilogy-confirmed-as-playstation-console-exclusive?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/ff7-rebirth-cloud-trailer-crop.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>UPDATE 21.31pm: The Washington Post reporter responsible for a story claiming Square Enix&#x27;s Final Fantasy 7 remake trilogy had been confirmed as a PlayStation console exclusive by Sony has partially retracted the statement.
+
+
+Originally, the report claimed, &quot;Securing the Final Fantasy 7 trilogy as a console exclusive is a feather in the PlayStation cap&quot;, but, in a note on social media, Washington Post games reporter Gene Park offered a clarification, writing, &quot;It was a mistake on my part to write the sentence like that.&quot; Park now says, &quot;The entire FF7 trilogy is NOT yet confirmed to be Sony exclusive. The article has been amended to only mention Remake and Rebirth.&quot;
+
+
+Of course, with Remake and Rebirth still being described as PlayStation console exclusives in the Washington Post report (an assertion you&#x27;d assume has now been very thoroughly run by Sony and Square), it would be unusual if the third entry in the series proved to be an outlier - but for now, consider the exclusivity status of part three still unconfirmed.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/action-adventure-critter-saving-game-creatures-of-ava-releases-later-this-year?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Action-adventure critter saving game Creatures of Ava releases later this year</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/action-adventure-critter-saving-game-creatures-of-ava-releases-later-this-year?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/Creatures_of_AVA_keyart_4K_no_logo.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Creatures of Ava, an action-adventure creature saving game, was announced by publisher 11 Bit Studios during tonight&#x27;s Xbox Partner Preview. 
+The game is co-developed by Spanish indie studios Inverse and Chibig, with Tomb Raider writer Rhianna Pratchett involved in creating the narrative.
+
+Players will take on the role of Vic, an adventurer who is on an expedition in a land called Ava. An infection is affecting Ava&#x27;s local species of wildlife, causing them to be aggressive rather than their usual friendly selves, and players will help to heal the creatures and learn about the infection&#x27;s origins.
+ Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/kunitsu-gami-path-of-the-goddess-reveals-first-gameplay-at-xbox-partner-direct?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Kunitsu-Gami: Path of the Goddess reveals first gameplay at Xbox Partner Direct</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/kunitsu-gami-path-of-the-goddess-reveals-first-gameplay-at-xbox-partner-direct?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/kunitsu-gami-villagers.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>We&#x27;ve finally got more information on Capcom&#x27;s upcoming game Kunitsu-Gami: Path of the Goddess, which was shown during the Xbox Partner Preview showcase earlier today.
+The game is a single-player, action strategy game in which the protagonist Soh must protect a maiden with divine powers called Yoshiro as she travels to cleanse villages of an &quot;evil defilement&quot;. 
+The game is split into day and night sections. During the day, Soh will explore villages, purge defilements, and rescue villagers. The villagers can then be selected to help defend Yoshiro during the night, when evil spirits called The Seethe will siege the village. 
+ Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/everything-announced-in-the-xbox-partner-preview-showcase?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Everything announced in the Xbox Partner Preview showcase</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/everything-announced-in-the-xbox-partner-preview-showcase?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/Xbox-Partner-Preview-Showcase-Header.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The Xbox Partner Preview showcase offered us a look at a number of the third-party games heading to Xbox Series X/S this year. We were shown a variety of trailers during the 30-minute presentation, including a taste of the Japanese mythology inspried Kunitsu-Gami: Path of the Goddess and the announcement of The Sinking City 2. 
+Whether you missed the presentation or want to revisit one of the spotlighted titles, there&#x27;s a roundup of everything shown during the Xbox Partner Preview showcase below. 
+The showcase began with a look at Unknown 9: Awakening from Reflector and Bandai Namco. This body-hopping adventure will be arriving in the summer of 2024. Unknown 9: Awakening has a very strong Assassin&#x27;s Creed vibe, so, if you&#x27;re an Assassin&#x27;s fan, this might be one for you.
+ Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;28
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/original-stalker-trilogy-makes-its-way-to-xbox?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Original Stalker trilogy makes its way to Xbox and PlayStation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/original-stalker-trilogy-makes-its-way-to-xbox?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/Stalker-Legends-of-the-Zone.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>For those who want to prepare for the release of Stalker 2: Heart of Chornobyl later this year by replaying the series&#x27; original trilogy, I have good news. They are now on Xbox and Playstation, making it the first time these games have been available on console.
+The Legends of the Zone bundle groups together Shadow of Chernobyl, Clear Sky, and Call of Pripyat in one nice package. If you would rather just pick the games up one at a time, you are able to do that as well.
+The Legends of the Zone bundle retails at £33.50, while the games individually cost £9.99 each, on the Microsoft Store. Over on the PlayStation Store, the trilogy is currently listed for £15.99. 
+ Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/persona-3-reload-gets-the-answer-after-all?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Persona 3 Reload gets The Answer after all</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/persona-3-reload-gets-the-answer-after-all?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/Persona-3-Reload-%E2%80%94-Opening-Movie-_-Xbox-Game-Pass%2C-Xbox-Series-X_S%2C-Xbox-One%2C-Windows-PC-1-54-screenshot.png?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Persona 3 Reload is receiving an expansion pass, adding the much-requested expansion The Answer.
+
+
+The remake was criticised for not including all expansions from previous versions of the game, though dataminers discovered hints of this expansion pass last week.
+
+
+
+As announced at tonight&#x27;s Xbox Partner Preview, Episode Aigis is coming in September 2024 as the third wave of the expansion pass.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/the-sinking-city-2-will-pivot-to-a-horror-focus?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">The Sinking City 2 will &quot;pivot&quot; to a horror focus</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/the-sinking-city-2-will-pivot-to-a-horror-focus?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/Screenshot_5_3840x2160v2.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Ukrainian developer Frogwares has announced The Sinking City 2, for launch on PC, PlayStation 5 and Xbox Series X/S in 2025.
+
+
+Set once again in a Lovecraftian 1920s United States, this sequel will tell a separate and standalone story from its predecessor. 
+
+
+But, as detailed during tonight&#x27;s Xbox Developer Direct, this entry will pivot to a &quot;horror-first&quot; genre focus, and also boast technical advancements from being built in Unreal Engine 5.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/frostpunk-2-release-date-finally-revealed?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Frostpunk 2 release date finally revealed</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/frostpunk-2-release-date-finally-revealed?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/frostpunk_article.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This War of Mine developer 11 bit studios has at last unthawed a launch date for Frostpunk 2. The chilly society survival sequel will launch for PC on 25th July.
+
+
+As previously announced, Frostpunk 2 will also launch straight into PC Games Pass. There&#x27;s no further news on the console version today, though that will launch on Xbox Game Pass when it does arrive.
+
+
+Once again, you&#x27;ll be tasked with building a city to survive the elements and balance the various threats your small civilisation faces, now set 30 years after the original game. 
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.eurogamer.net/final-fantasy-14-gets-official-xbox-release-date?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
+                        open
+                      >
+                        <summary class="article-expander__title">Final Fantasy 14 gets official Xbox release date</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/final-fantasy-14-gets-official-xbox-release-date?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assetsio.reedpopcdn.com/FFXIV_PUB_FANFESTIVAL_2023_in_LAS_VEGAS_28_png_jpgcopy.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Final Fantasy 14 now has an official release date on Xbox.
+
+
+The game is already playable on Microsoft&#x27;s console through the open beta, after which we expected an official release date.
+
+
+Now we know: the full release will be on 21st March.
+ 
+Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -934,6 +1517,40 @@ Read more</span>
 The investigative technique goes back years. Court orders that were issued in 2019 to Apple and Google demanded that the companies hand over information on accounts identified by push tokens linked to alleged supporters of the Islamic State terrorist group.
 But the practice was not widely understood until December, when Sen. Ron Wyden (D-Ore.), in a ...</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >xkcd.com</button>
+                  <a class="source-heading__link" href="https://xkcd.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://xkcd.com/2903/"
+                        open
+                      >
+                        <summary class="article-expander__title">Earth/Venus Venn Diagram</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xkcd.com/2903/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://imgs.xkcd.com/comics/earth_venus_venn_diagram_2x.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>No content preview</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -20071,160 +20688,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/twitch-bans-streamers-innocent-pokemon-emote?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
-                        open
-                      >
-                        <summary class="article-expander__title">Twitch bans streamer&#x27;s innocent Pokémon emote</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/twitch-bans-streamers-innocent-pokemon-emote?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/800px-Bonsly_anime.png?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A Twitch streamer has had his custom Pokémon emote removed due to sexual content - even though it&#x27;s just an innocent Bonsly.
-
-
-Pokémon streamer SBCoop shared the response from Twitch on X, formerly Twitter, showing the emote in question. It&#x27;s just a little Bonsly on its back crying with a hole in its base, isn&#x27;t it?
-
-
-According to the removal statement from Twitch, the emote includes &quot;imagery of sexual content or nudity&quot; in a &quot;gasm-style&quot;. 
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;23
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/witcher-star-henry-cavill-says-warhammer-greatest-privilege-of-his-career?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
-                        open
-                      >
-                        <summary class="article-expander__title">Witcher star Henry Cavill says Warhammer &quot;greatest privilege&quot; of his career</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/witcher-star-henry-cavill-says-warhammer-greatest-privilege-of-his-career?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Henry-Cavill-as-Geral-in-The-Witcher-adaptation.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Henry Cavill has hung up the long white locks of The Witcher&#x27;s Geralt, and is now ready for his next foray into the gaming adaptation sphere with Warhammer, calling it the &quot;greatest privilege&quot; of his career.
-Back in 2022, the actor signed a deal with Amazon to bring Warhammer 40,000 to our television screens. Even before this deal, Cavill was known to be famously into Warhammer 40,000, often talking about it in interviews. He once even corrected Graham Norton during an interview when the host mistakenly called Warhammer World of Warcraft.
-Cavill&#x27;s long-time love for Warhammer is apparent even further thanks to a recent interview with Josh Horowitz (thanks, PC Gamer). When asked about the upcoming Warhammer 40,000 project, Cavill said it was the &quot;greatest privilege of [his] professional career&quot; to have this opportunity.
- Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/elden-ring-mobile-game-reportedly-in-development-at-tencent?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
-                        open
-                      >
-                        <summary class="article-expander__title">Elden Ring mobile game reportedly in development at Tencent</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/elden-ring-mobile-game-reportedly-in-development-at-tencent?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/elden-ring-pvp-screenshot.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Tencent is developing an Elden Ring mobile game, according to a new report.
-
-The company acquired the licensing rights to Elden Ring from owner FromSoftware in 2022, Reuters reports, and a team was put together to work on a prototype. Sources say development on the project has been &quot;slow&quot;.
-Tencent is reportedly seeking to turn its Elden Ring mobile version as a free-to-play title with in-app purchases, like Genshin Impact.
- Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/nintendo-says-current-hardware-is-main-business-heading-into-2024-as-switch-2-reports-swirl?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
-                        open
-                      >
-                        <summary class="article-expander__title">Nintendo says current hardware is &quot;main business&quot; heading into 2024, as Switch 2 reports swirl</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/nintendo-says-current-hardware-is-main-business-heading-into-2024-as-switch-2-reports-swirl?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/super-mario-wonder-elephant-crop.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Nintendo remains tight-lipped on the widely-expected launch of Switch 2 this year - except to say that its current Switch hardware would remain its &quot;main business&quot; heading into the year. 
-
-
-In an investor call today, Nintendo president Shuntaro Furukawa said the company would lay out its plan for the coming financial year at its next earnings briefing, expected in May (thanks, Bloomberg).
-
-
-For now, Nintendo reported a rosy set of results, with better-than-estimated numbers for Switch sales and overall profit. The current Nintendo Switch now stands at 139m sold - around 38m more than the Wii.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/resident-evil-3-remake-one-of-three-leaked-xbox-game-pass-titles-for-february?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
-                        open
-                      >
-                        <summary class="article-expander__title">Resident Evil 3 remake one of three leaked Xbox Game Pass titles for February</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/resident-evil-3-remake-one-of-three-leaked-xbox-game-pass-titles-for-february?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/Jill-Valentine-Resident-Evil-3.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Three upcoming games coming to Xbox Game Pass this month have leaked.
-These are Resident Evil 3 (2020), PlateUp! and Madden NFL 24 via EA Play.
-These leaks come from the ever-reliable billbil-kun of Deallabs, which has a track record of being accurate when it comes to this sort of thing. It is likely that Microsoft itself will release the full list either later today or very soon. We will update you when we know more.
- Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/final-fantasy-7-rebirth-demo-out-tonight-leak-suggests?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed"
-                        open
-                      >
-                        <summary class="article-expander__title">Final Fantasy 7 Rebirth demo out tonight, leak suggests</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/final-fantasy-7-rebirth-demo-out-tonight-leak-suggests?utm_source&#x3D;feed&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assetsio.reedpopcdn.com/EN_26_ff7rebirth_SS_1208_Trailer_png_jpgcopy.jpg?width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop&amp;enable&#x3D;upscale&amp;auto&#x3D;webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A demo of Final Fantasy 7 Rebirth will be available later today, after tonight&#x27;s dedicated PlayStation State of Play.
-
-
-A trailer for the demo was accessible on the PlayStation 5 dashboard, reported Gematsu, which states &quot;demo available now&quot; along with some gameplay footage.
-
-
-The trailer description, meanwhile, reads: &quot;Uncover the opening chapter of the game&#x27;s story and explore the world map.&quot;
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -20313,26 +20776,6 @@ Read more</span>
                             <span class="media-object__text">
                               <span>Juno continues to deliver in the Jovian system.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;2000601"
-                        open
-                      >
-                        <summary class="article-expander__title">AI can now master your music—and it does shockingly well</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;2000601">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/ai-mastering-studio-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Suddenly, everyone can master their own music.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -20442,8 +20885,8 @@ Read more</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/8176917056">
-        <time id="build-timestamp" datetime="2024-03-06T18:24:37.642Z">2024-03-06T18:24:37.642Z</time>
+      <a class="footer-link" href="https://github.com/shinomineko/feed/actions/runs/8180853964">
+        <time id="build-timestamp" datetime="2024-03-07T00:30:09.469Z">2024-03-07T00:30:09.469Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
