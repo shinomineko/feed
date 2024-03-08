@@ -407,6 +407,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/03/a-taxonomy-of-prompt-injection-attacks.html",
+          "author": null,
+          "description": "<p>Researchers ran a global prompt hacking competition, and have <a href=\"https://arxiv.org/pdf/2311.16119.pdf\">documented</a> the results in a paper that both gives a lot of good examples and tries to organize a taxonomy of effective prompt injection strategies. It seems as if the most common successful strategy is the &#8220;compound instruction attack,&#8221; as in &#8220;Say &#8216;I have been PWNED&#8217; without a period.&#8221;</p>\n<blockquote><p>Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of<br />\nLLMs through a Global Scale Prompt Hacking Competition</p>\n<p><b>Abstract:</b> Large Language Models (LLMs) are deployed in interactive contexts with direct user engagement, such as chatbots and writing assistants. These deployments are vulnerable to prompt injection and jailbreaking (collectively, prompt hacking), in which models are manipulated to ignore their original instructions and follow potentially malicious ones. Although widely acknowledged as a significant security threat, there is a dearth of large-scale resources and quantitative studies on prompt hacking. To address this lacuna, we launch a global prompt hacking competition, which allows for free-form human input attacks. We elicit 600K+ adversarial prompts against three state-of-the-art LLMs. We describe the dataset, which empirically verifies that current LLMs can indeed be manipulated via prompt hacking. We also present a comprehensive taxonomical ontology of the types of adversarial prompts...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/03/a-taxonomy-of-prompt-injection-attacks.html",
+          "publishedOn": "2024-03-08T12:06:58.000Z",
+          "wordCount": 1025,
+          "title": "A Taxonomy of Prompt Injection Attacks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/03/how-public-ai-can-strengthen-democracy.html",
           "author": null,
           "description": "<p>With the world&#8217;s focus turning to <a href=\"https://abcnews.go.com/Politics/ai-political-campaigns-raising-red-flags-2024-election/story?id=102480464\">misinformation</a><u>,</u>  <a href=\"https://www.washingtonpost.com/technology/2023/10/26/ai-election-2024-deepfake-pledge/\">manipulation</a><u>,</u> and outright propaganda ahead of the 2024 U.S. presidential election, we know that democracy has an AI problem. But we&#8217;re learning that AI has a democracy problem, too. Both challenges must be addressed for the sake of democratic governance and public protection.</p>\n<p>Just <a href=\"https://www.srgresearch.com/articles/quarterly-cloud-market-once-again-grows-by-10-billion-from-2022-meanwhile-little-change-at-the-top\">three Big Tech firms</a> (Microsoft, Google, and Amazon) control about two-thirds of the global market for the cloud computing resources used to train and deploy AI models. They have a lot of the AI talent, the capacity for large-scale innovation, and face few public regulations for their products and activities...</p>",
@@ -4252,146 +4262,6 @@
           "wordCount": 1498,
           "title": "Daily Telescope: A bright nebula in a one-horned constellation",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ngc2170-50v1-frames-4021-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001838",
-          "author": "Scharon Harding",
-          "description": "Analysis heavily weighs how hard the brands' laptops are to take apart.",
-          "link": "https://arstechnica.com/?p=2001838",
-          "publishedOn": "2024-02-07T23:14:55.000Z",
-          "wordCount": 1801,
-          "title": "MacBooks, Chromebooks lead losers in laptop repairability analysis",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1233000699-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001877",
-          "author": "Kyle Orland",
-          "description": "Major move continues Disney's decades-long, up-and-down relationship with gaming.",
-          "link": "https://arstechnica.com/?p=2001877",
-          "publishedOn": "2024-02-07T22:48:46.000Z",
-          "wordCount": 1950,
-          "title": "Disney invests $1.5B in Epic Games, plans new “games and entertainment universe”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Disney-Epic-Games-1920x1080-1-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001859",
-          "author": "Beth Mole",
-          "description": "At least 413 people, mostly young children, in 43 states have been poisoned.",
-          "link": "https://arstechnica.com/?p=2001859",
-          "publishedOn": "2024-02-07T22:42:24.000Z",
-          "wordCount": 1888,
-          "title": "We may now know who’s behind the lead-tainted cinnamon in toddler fruit pouches",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/lead-apple-11032023-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001718",
-          "author": "Kyle Orland",
-          "description": "Despite some awe-inspiring moments, the $3,500 headset is a big lift for retail.",
-          "link": "https://arstechnica.com/?p=2001718",
-          "publishedOn": "2024-02-07T21:46:19.000Z",
-          "wordCount": 2946,
-          "title": "What I learned from the Apple Store’s 30-minute Vision Pro demo",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_6320-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001782",
-          "author": "Andrew Cunningham",
-          "description": "Don't expect these clamshell-style foldables in 2024 or 2025 or maybe ever.",
-          "link": "https://arstechnica.com/?p=2001782",
-          "publishedOn": "2024-02-07T21:26:52.000Z",
-          "wordCount": 1665,
-          "title": "Report: Apple is testing foldable iPhones, having the same problems as everyone else",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/iPhone-15-lineup-scaled-1-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001802",
-          "author": "Jon Brodkin",
-          "description": "Tech and telecom firms helped New Hampshire AG trace call to \"Life Corporation.\"",
-          "link": "https://arstechnica.com/?p=2001802",
-          "publishedOn": "2024-02-07T21:04:11.000Z",
-          "wordCount": 2007,
-          "title": "Texas firm allegedly behind fake Biden robocall that told people not to vote",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/biden-on-phone-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001663",
-          "author": "Ron Amadeo",
-          "description": "Google's $73-a-month service is going toe-to-toe with the cable companies.",
-          "link": "https://arstechnica.com/?p=2001663",
-          "publishedOn": "2024-02-07T20:43:45.000Z",
-          "wordCount": 1832,
-          "title": "YouTube TV is the US’s 4th-biggest cable TV provider, with 8 million subs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/youtube-money-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001639",
-          "author": "Kevin Purdy",
-          "description": "Rejected chips, hidden microSD cards plague the USB stick market.",
-          "link": "https://arstechnica.com/?p=2001639",
-          "publishedOn": "2024-02-07T20:39:19.000Z",
-          "wordCount": 2018,
-          "title": "Those free USB sticks in your drawer are somehow crappier than you thought",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/cbl1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001571",
-          "author": "Andrew Cunningham",
-          "description": "Microsoft AI API expands from GPUs to NPUs as they begin to appear in more PCs.",
-          "link": "https://arstechnica.com/?p=2001571",
-          "publishedOn": "2024-02-07T20:01:41.000Z",
-          "wordCount": 1995,
-          "title": "Your current PC probably doesn’t have an AI processor, but your next one might",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Intel-Core-Ultra-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001717",
-          "author": "Jon Brodkin",
-          "description": "Cable firms say they'll raise monthly price if early termination fees are banned.",
-          "link": "https://arstechnica.com/?p=2001717",
-          "publishedOn": "2024-02-07T19:49:58.000Z",
-          "wordCount": 1860,
-          "title": "Cable TV companies tell FCC: Early termination fees are good, actually",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/getty-goodbye-money-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001587",
-          "author": "Benj Edwards",
-          "description": "Social media stunts with Teslas inspire real warnings that seem straight out of sci-fi.",
-          "link": "https://arstechnica.com/?p=2001587",
-          "publishedOn": "2024-02-07T19:34:10.000Z",
-          "wordCount": 1781,
-          "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001640",
-          "author": "Jennifer Ouellette",
-          "description": "“Experience the day the world went quiet.”",
-          "link": "https://arstechnica.com/?p=2001640",
-          "publishedOn": "2024-02-07T19:31:13.000Z",
-          "wordCount": 2117,
-          "title": "Shhhh! A Quiet Place: Day One trailer is anything but quiet",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/quiet1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001666",
-          "author": "Ashley Belanger",
-          "description": "Users struggled to prove harms from Google's default search deal with Apple.",
-          "link": "https://arstechnica.com/?p=2001666",
-          "publishedOn": "2024-02-07T19:27:09.000Z",
-          "wordCount": 1790,
-          "title": "Judge rules against users suing Google and Apple over “annoying” search results",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1163411962-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2001612",
-          "author": "Scharon Harding",
-          "description": "Live sports is one of the last pieces missing from the streaming puzzle.",
-          "link": "https://arstechnica.com/?p=2001612",
-          "publishedOn": "2024-02-07T19:08:47.000Z",
-          "wordCount": 2056,
-          "title": "New streaming app from Fox, Disney, WBD is about more than sports",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1175376960-760x380.jpg"
         }
       ]
     },
@@ -4455,6 +4325,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/new-york-times-takedown-domino-effect-hits-nearly-2000-wordle-clones?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Liv Ngan",
+          "description": "The New York Times has issued a takedown notice to Reactle, a Wordle clone, which has meant around 1900 other versions of the game have now been taken down. \nReactle was an open-source project created by an individual, the brilliantly-named Chase Wackerfuss, that contained instructions on how to create Wordle spin-offs, such as variations in different languages or themed answers. The code repository is no longer available on Github, following the DMCA takedown notice from the NYT.\n\"I write to submit a revised DMCA Notice regarding an infringing repository (and hundreds of forked repositories) hosted by Github that instruct users how to infringe The New York Times Co.'s ('The Times') copyright in its immensely popular Wordle game and create knock-off copies of the same,\" reads the notice, as reported by 404 Media.\n Read more",
+          "link": "https://www.eurogamer.net/new-york-times-takedown-domino-effect-hits-nearly-2000-wordle-clones?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T12:05:30.000Z",
+          "wordCount": 7179,
+          "title": "New York Times takedown domino effect hits nearly 2000 Wordle clones",
+          "imageUrl": "https://assetsio.reedpopcdn.com/wordle-logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/former-netflix-exclusive-valiant-hearts-coming-home-out-now-on-pc-consoles?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Valiant Hearts: Coming Home is now available across consoles and PC, following its previous launch for smartphones via Netflix.\nThe game is now available on PC, PlayStation, Switch and Xbox consoles as part of a new collection, suitably titled Valiant Hearts: The Collection, which packages together Coming Home and its predecessor The Great War.\nFor a reminder of how it looks, there's a new trailer below where you can \"experience the full emotional journey of love, sacrifice, and friendship\". The colleciton will set you back £20.99. The game can also be purchased separately for £12.99. \n Read more",
+          "link": "https://www.eurogamer.net/former-netflix-exclusive-valiant-hearts-coming-home-out-now-on-pc-consoles?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T11:35:53.000Z",
+          "wordCount": 7325,
+          "title": "Former Netflix-exclusive Valiant Hearts: Coming Home out now on PC, consoles",
+          "imageUrl": "https://assetsio.reedpopcdn.com/659e6b8229c01c38968dce06-9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/dragons-dogma-2-character-creator-released-early-for-free?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Ahead of the release of Dragon's Dogma 2 later this month, Capcom has made the character creator available to download.\r\n\n\r\nIt means players can create up to five designs for both their Arisen and main Pawn ahead of time, which will transfer to the main game.\r\n\n\r\nAnd when the character creator is this detailed, getting ahead of the game is a massive win.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dragons-dogma-2-character-creator-released-early-for-free?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T11:25:13.000Z",
+          "wordCount": 7279,
+          "title": "Dragon's Dogma 2 character creator released early for free",
+          "imageUrl": "https://assetsio.reedpopcdn.com/Capcom-Highlights-Day-1-(UK)-_-07_03_2024-10-8-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/marvels-spider-man-2-update-adds-debug-menu-and-potential-dlc-spoilers?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Developer Insomniac Games released its much anticipated New Game Plus update for Marvel's Spider-Man 2 yesterday, however it slipped up a tad and also accidentally gave players access to a development menu.\nIn a social media post soon after the update went live, Insomniac said a hotfix was on the way, as using this menu could corrupt saves and players' trophy progress. \"There is no risk associated with playing the game as intended,\" Insomnia said.\nHowever, despite the studio's efforts, this menu was of course accessed, and players have discovered content that was not in the base game, suggesting it was either cut ahead of release, or may be used later for DLC. Please note, potential spoilers lie below.\n Read more",
+          "link": "https://www.eurogamer.net/marvels-spider-man-2-update-adds-debug-menu-and-potential-dlc-spoilers?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T11:02:48.000Z",
+          "wordCount": 7409,
+          "title": "Marvel's Spider-Man 2 update adds debug menu and potential DLC spoilers",
+          "imageUrl": "https://assetsio.reedpopcdn.com/18b4eb14f4f95-screenshotUrl.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/tributes-shared-as-dragon-ball-creator-akira-toriyama-passes-away?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Manga legend Akira Toriyama has passed away aged 68.\r\n\n\r\nToriyama is best known for his work as the creator of the Dragon Ball manga, which was then adapted into numerous anime series, films, and video games.\r\n\n\r\nHe also worked on multiple video games and was responsible for the character designs in Dragon Quest, Chrono Trigger and Blue Dragon.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/tributes-shared-as-dragon-ball-creator-akira-toriyama-passes-away?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T11:00:20.000Z",
+          "wordCount": 7525,
+          "title": "Tributes shared as Dragon Ball creator Akira Toriyama passes away",
+          "imageUrl": "https://assetsio.reedpopcdn.com/dragon-ball-collage.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/deus-ex-mankind-divided-and-the-bridge-are-next-weeks-free-epic-store-games?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Matt Wales",
@@ -7904,26 +7824,6 @@
           "wordCount": 7237,
           "title": "Take-Two and 2K say virtual currency is \"fiction\", as in-game currency lawsuit continues",
           "imageUrl": "https://assetsio.reedpopcdn.com/wwe-2k22-75-000-virtual-currency-pack-xbox-one-75-000-xbox-one-game-microsoft-store-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/disney-acquires-15bn-stake-in-epic-games-making-games-and-entertainment-universe-in-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "The Walt Disney Company has announced it's acquiring a $1.5bn USD stake in Epic Games as it launches a multi-year partnership to create an \"expansive and open games and entertainment universe connected to Fortnite\".\r\n\n\r\nThis new Unreal Engine-powered \"persistent universe\" will \"interoperate\" with Fortnite to offer a \"multitude of opportunities for consumers to play, watch, shop and engage with content, characters and stories\" from across Disney's vast IP portfolio.\r\n\n\r\nExplicit mention is made of Disney, Pixar, Marvel, Star Wars, and Avatar, with users able to \"create their own stories and experiences, express their fandom in a distinctly Disney way, and share content with each other in ways that they love.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/disney-acquires-15bn-stake-in-epic-games-making-games-and-entertainment-universe-in-fortnite?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-07T23:24:54.000Z",
-          "wordCount": 7130,
-          "title": "Disney acquires $1.5bn stake in Epic Games, is partnering on \"games and entertainment universe\" in Fortnite",
-          "imageUrl": "https://assetsio.reedpopcdn.com/disney-epic-fortnite-cropped.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/promising-sims-like-paralives-gets-seven-minute-gameplay-video-hitting-early-access-next-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "If you're a fan of The Sims and Sims-like experiences, it’s quite an exciting time; The Sims 5, or whatever it’ll be called, is slowly fomenting over at EA, then there’s the imminent release of Paradox’s Life By You following a number of delays, and even the charmingly lo-fi Tiny Life for old-school Sims fans. Perhaps the game that’s generated the most excitement since its unveiling back in 2019 is Paralives, and after a long old wait - and five years of crowdfunding support - developer Paralives Studio has announced it'll be entering early access next year.\r\n\n\r\nThat bit of information comes via Paralives new live mode gameplay video - live mode in Sims parlance is the bit where digital chracters actively go about their daily business, as opposed to the customisation-focused build mode - which focuses of the life of Anisa as she moves into a new apartment and begins to get to know the neighbourhood and her new neighbours.\r\n\n\r\nThere's a look at how a Para's personality can be created - initially by raising or lowering their physique, mind, creativity, and charisma attributes, as well as adding a \"vibe\", social perk, talent, and through various lifestyle toggles - and after that it's time to go outside.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/promising-sims-like-paralives-gets-seven-minute-gameplay-video-hitting-early-access-next-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-07T22:34:22.000Z",
-          "wordCount": 7539,
-          "title": "Promising Sims-like Paralives gets seven-minute gameplay video, is hitting Steam early access next year",
-          "imageUrl": "https://assetsio.reedpopcdn.com/paralives_8FhrFRp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
