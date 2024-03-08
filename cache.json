@@ -398,16 +398,6 @@
           "wordCount": 399,
           "title": "clojure challenge",
           "imageUrl": "http://turnoff.us/image/en/clojure-challenge.png"
-        },
-        {
-          "id": "http://turnoff.us/geek/jr-dev-vs-machine-learning/",
-          "author": null,
-          "description": "turnoff.us is a geek comic site. Comics about Programming Languages, Web, Cloud, Linux, etc.",
-          "link": "http://turnoff.us/geek/jr-dev-vs-machine-learning/",
-          "publishedOn": "2024-02-07T09:00:00.000Z",
-          "wordCount": 401,
-          "title": "jr developer vs machine learning",
-          "imageUrl": "http://turnoff.us/image/en/jr-dev-vs-machine-learning.jpeg"
         }
       ]
     },
@@ -675,16 +665,6 @@
           "wordCount": 1435,
           "title": "On Software Liabilities",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/02/teaching-llms-to-be-deceptive.html",
-          "author": null,
-          "description": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/html/2401.05566v3\">Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Humans are capable of strategically deceptive behavior: behaving helpfully in most situations, but then behaving very differently in order to pursue alternative objectives when given the opportunity. If an AI system learned such a deceptive strategy, could we detect it and remove it using current state-of-the-art safety training techniques? To study this question, we construct proof-of-concept examples of deceptive behavior in large language models (LLMs). For example, we train models that write secure code when the prompt states that the year is 2023, but insert exploitable code when the stated year is 2024. We find that such backdoor behavior can be made persistent, so that it is not removed by standard safety training techniques, including supervised fine-tuning, reinforcement learning, and adversarial training (eliciting unsafe behavior and then training to remove it). The backdoor behavior is most persistent in the largest models and in models trained to produce chain-of-thought reasoning about deceiving the training process, with the persistence remaining even when the chain-of-thought is distilled away. Furthermore, rather than removing backdoors, we find that adversarial training can teach models to better recognize their backdoor triggers, effectively hiding the unsafe behavior. Our results suggest that, once a model exhibits deceptive behavior, standard techniques could fail to remove such deception and create a false impression of safety...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2024/02/teaching-llms-to-be-deceptive.html",
-          "publishedOn": "2024-02-07T12:04:25.000Z",
-          "wordCount": 1200,
-          "title": "Teaching LLMs to Be Deceptive",
-          "imageUrl": null
         }
       ]
     },
@@ -693,6 +673,126 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2008809",
+          "author": "Jennifer Ouellette",
+          "description": "\"Everyone wants to save the world. They just disagree on how.\"",
+          "link": "https://arstechnica.com/?p=2008809",
+          "publishedOn": "2024-03-07T23:26:21.000Z",
+          "wordCount": 2135,
+          "title": "We’re here for Walton Goggins’ gunslinging ghoul in Fallout official trailer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/fallout9-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008833",
+          "author": "Andrew Cunningham",
+          "description": "Apple starts picking low-hanging fruit in visionOS; other OSes see minor improvements.",
+          "link": "https://arstechnica.com/?p=2008833",
+          "publishedOn": "2024-03-07T22:50:47.000Z",
+          "wordCount": 1790,
+          "title": "visionOS 1.1 tries to make Personas less unsettling, plus other Apple OS updates",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Vision-Pro-Persona-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008851",
+          "author": "Jon Brodkin",
+          "description": "Lawmaker: TikTok must \"sever relationship with the Chinese Communist Party.\"",
+          "link": "https://arstechnica.com/?p=2008851",
+          "publishedOn": "2024-03-07T22:34:39.000Z",
+          "wordCount": 1908,
+          "title": "US lawmakers vote 50-0 to force sale of TikTok despite angry calls from users",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-tiktok-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008817",
+          "author": "Dan Goodin",
+          "description": "Ongoing attack targeting thousands of sites, continues to grow.",
+          "link": "https://arstechnica.com/?p=2008817",
+          "publishedOn": "2024-03-07T22:29:46.000Z",
+          "wordCount": 2186,
+          "title": "Attack wrangles thousands of web users into a password-cracking botnet",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/password-cracking-attack-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008812",
+          "author": "Eric Berger",
+          "description": "First you burn the cash, then comes the crash.",
+          "link": "https://arstechnica.com/?p=2008812",
+          "publishedOn": "2024-03-07T22:15:52.000Z",
+          "wordCount": 1814,
+          "title": "After Astra loses 99 percent of its value, founders take rocket firm private",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/image-3-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008691",
+          "author": "Scharon Harding",
+          "description": "Users are opted in automatically unless they write a letter to Roku by March 21.",
+          "link": "https://arstechnica.com/?p=2008691",
+          "publishedOn": "2024-03-07T20:20:26.000Z",
+          "wordCount": 2132,
+          "title": "“Disgraceful”: Messy ToS update allegedly locks Roku devices until users give in",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Roku-TV-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008759",
+          "author": "Jonathan M. Gitlin",
+          "description": "The new EVs use Rivian's new midsize platform, and R2 deliveries begin in 2026.",
+          "link": "https://arstechnica.com/?p=2008759",
+          "publishedOn": "2024-03-07T19:44:36.000Z",
+          "wordCount": 2173,
+          "title": "Rivian reveals three new, smaller electric SUVs: The R2, R3, and R3X",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/02_Rivian-Family-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008729",
+          "author": "Jon Brodkin",
+          "description": "Despite US sanctions, Russia using Starlink \"to coordinate attacks\" in Ukraine.",
+          "link": "https://arstechnica.com/?p=2008729",
+          "publishedOn": "2024-03-07T19:29:56.000Z",
+          "wordCount": 2094,
+          "title": "Russia’s Starlink use sparks probe into SpaceX compliance with US sanctions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/starlink-ukraine-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008649",
+          "author": "Kevin Purdy",
+          "description": "150 employees will be laid off, while some shows and podcasts will be shopped.",
+          "link": "https://arstechnica.com/?p=2008649",
+          "publishedOn": "2024-03-07T19:12:34.000Z",
+          "wordCount": 1877,
+          "title": "Rooster Teeth, home of Red Vs. Blue and RWBY, shutting down after 21 years",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/rtx1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008730",
+          "author": "Beth Mole",
+          "description": "Republican lawmakers struggle to deal with their own incongruent legislation.",
+          "link": "https://arstechnica.com/?p=2008730",
+          "publishedOn": "2024-03-07T19:03:26.000Z",
+          "wordCount": 1855,
+          "title": "After ruling that embryos are children, Ala. hastily enacts IVF protections",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2038746272-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008717",
+          "author": "Diana Gitig",
+          "description": "Tracing an orange's flavor could help us get both disease resistance and taste.",
+          "link": "https://arstechnica.com/?p=2008717",
+          "publishedOn": "2024-03-07T18:42:09.000Z",
+          "wordCount": 1553,
+          "title": "What makes an orange? New study finds one gene, seven chemicals",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1460563019-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008699",
+          "author": "Ron Amadeo",
+          "description": "Nikon wants to \"accelerate expansion\" into the pro digital camera market.",
+          "link": "https://arstechnica.com/?p=2008699",
+          "publishedOn": "2024-03-07T18:19:05.000Z",
+          "wordCount": 1590,
+          "title": "Nikon buys Red Digital Cinema, will jump into the pro video space",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/24-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2008703",
           "author": "Jonathan M. Gitlin",
@@ -7924,46 +8024,6 @@
           "wordCount": 7282,
           "title": "Counter-Strike 2 major update sees return of Arms Race",
           "imageUrl": "https://assetsio.reedpopcdn.com/Counter-Stike-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Ed Nightingale",
-          "description": "Wo Long: Fallen Dynasty crossover DLC for Lies of P is on the way ready for Valentine's Day.\r\n\n\r\nA free update to Lies of P on 14th February will add the Azure Dragon Crescent Glaive weapon and Armor of the Honorable and Bandana of the Honorable costumes. It means you'll be able to dress up the puppet P in Three Kingdoms China gear.\r\n\n\r\nThis crossover follows the Lies of P collection made available in Wo Long last September - now that will be included in the newly announced Wo Long: Fallen Dynasty Complete Edition.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/lies-of-p-gets-free-wo-long-gear-dlc-on-valentines-day?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-07T11:38:02.000Z",
-          "wordCount": 7078,
-          "title": "Lies of P gets free Wo Long gear DLC on Valentine's Day",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Lies-of-P-x-Wo-Long_-Fallen-Dynasty-Collaboration-Trailer-0-43-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/palworld-patch-saves-breeding-pals-from-falling-asleep-and-never-waking-up?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "Palworld developer Pocketpair has detailed a patch that will ensure all those Pals sent to the breeding farm will no longer be so exhausted from reproducing they go to sleep and never wake up.\nIn addition to this life saving fix, the studio has also addressed game crashes that would corrupt save data when the number of Pals captured by the guild reached approximately 7000. It noted following its previous patch, \"save data that had already been in this state (for servers, the server's world data) remained in a broken state that made it impossible to load\". However, this latest Palworld patch will resolve that.\nPocketpair has also implemented a variety of countermeasures against some cheats and exploits, but it has not gone into specifics.\n Read more",
-          "link": "https://www.eurogamer.net/palworld-patch-saves-breeding-pals-from-falling-asleep-and-never-waking-up?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-07T11:20:58.000Z",
-          "wordCount": 7419,
-          "title": "Palworld patch saves breeding Pals from falling asleep and never waking up",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Palworld_tUdR3NY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "High-profile wrestler Brock Lesnar has been removed from WWE 2K24's special edition box art, following the publication of a lawsuit regarding disgraced former WWE boss Vince McMahon.\r\n\n\r\nThe lawsuit alleges McMahon sexually assaulted and sex trafficked an employee while running WWE, and claims an unnamed wrestler then requested an explicit video of the victim from McMahon during a contract renegotiation. \r\n\n\r\nThe Wall Street Journal has said that wrestler is Lesnar. McMahon has denied the allegations in the lawsuit. Lesnar has not responded to requests for comment.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/wwe-2k24-scrubs-brock-lesnar-from-special-edition-cover?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-07T11:07:38.000Z",
-          "wordCount": 7023,
-          "title": "WWE 2K24 scrubs Brock Lesnar from special edition cover",
-          "imageUrl": "https://assetsio.reedpopcdn.com/wwe-2k24-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Liv Ngan",
-          "description": "Modern Warfare 3 is offering a free multiplayer trial this weekend, during the launch of Season 2.\nModern Warfare Season 2 begins later today at 5pm GMT / 12pm ET, and will add three new 6v6 maps called Stash House, Vista, and Departures.\nBoth Vista and Departures are medium-sized maps, while Stash House is small-sized. Here's a quick look at them from Activision.\n Read more",
-          "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-3-gets-free-multiplayer-trial?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-07T11:05:45.000Z",
-          "wordCount": 7160,
-          "title": "Call of Duty: Modern Warfare 3 gets free multiplayer trial",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_7f4c9c08a0c89d53436370ef39957ba4e53e31e0.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
