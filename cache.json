@@ -6,6 +6,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2904/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/physics_vs_magic.png\" title=\"'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian.\" alt=\"'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian.\" />",
+          "link": "https://xkcd.com/2904/",
+          "publishedOn": "2024-03-08T00:00:00.000Z",
+          "wordCount": 221,
+          "title": "Physics vs. Magic",
+          "imageUrl": "https://imgs.xkcd.com/comics/physics_vs_magic_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2903/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png\" title=\"Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one.\" alt=\"Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one.\" />",
@@ -417,6 +427,26 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/03/friday-squid-blogging-new-plant-looks-like-a-squid.html",
+          "author": null,
+          "description": "<p>Newly discovered plant <a href=\"https://www.newscientist.com/article/2419483-squid-like-plant-that-lives-mostly-underground-is-new-to-science/\">looks like a squid</a>. And it&#8217;s super weird:</p>\n<blockquote><p>The plant, which grows to 3 centimetres tall and 2 centimetres wide, emerges to the surface for as little as a week each year. It belongs to a group of plants known as fairy lanterns and has been given the scientific name <i>Relictithismia kimotsukiensis</i>.</p>\n<p>Unlike most other plants, fairy lanterns don&#8217;t produce the green pigment chlorophyll, which is necessary for photosynthesis. Instead, they get their energy from fungi.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered...</p>",
+          "link": "https://www.schneier.com/blog/archives/2024/03/friday-squid-blogging-new-plant-looks-like-a-squid.html",
+          "publishedOn": "2024-03-08T22:11:17.000Z",
+          "wordCount": 1696,
+          "title": "Friday Squid Blogging: New Plant Looks Like a Squid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.schneier.com/blog/archives/2024/03/essays-from-the-second-iword.html",
+          "author": null,
+          "description": "<p>The Ash Center has <a href=\"https://ash.harvard.edu/additional-resources\">posted</a> a series of twelve essays stemming from the Second Interdisciplinary Workshop on Reimagining Democracy (<a href=\"https://www.schneier.com/blog/archives/2024/01/second-interdisciplinary-workshop-on-reimagining-democracy.html\">IWORD 2023</a>).</p>\n<ul>\n<li>Aviv Ovadya, <a href=\"https://ash.harvard.edu/publications/democracy-approximationa-primer-%E2%80%9Cai-fordemocracy%E2%80%9D-innovators\">Democracy as Approximation: A Primer for “AI for Democracy” Innovators</a></li>\n<li>Kathryn Peters, <a href=\"https://ash.harvard.edu/publications/permission-and-participation\" target=\"_top\" rel=\"bookmark noopener\">Permission and Participation</a></li>\n<li>Claudia Chwalisz, <a href=\"https://ash.harvard.edu/publications/moving-beyond-theparadigm-%E2%80%9Cdemocracy%E2%80%9D12-questions\" target=\"_top\" rel=\"bookmark noopener\">Moving Beyond the Paradigm of “Democracy”: 12 Questions</a></li>\n<li>Riley Wong, <a href=\"https://ash.harvard.edu/publications/privacy-preserving-data-governance\" target=\"_top\" rel=\"bookmark noopener\">Privacy-Preserving Data Governance</a></li>\n<li>Christine Tran, <a href=\"https://ash.harvard.edu/publications/recommendations-implementing-jail-voting-identifying-common-themes\" target=\"_top\" rel=\"bookmark noopener\">Recommendations for Implementing Jail Voting: Identifying Common Themes</a></li>\n<li>Niclas Boehmer, <a href=\"https://ash.harvard.edu/publications/double-edged-sword-algorithmic-governance-transparency-stake\" target=\"_top\" rel=\"bookmark noopener\">The Double-Edged Sword of Algorithmic Governance: Transparency at Stake...</a></li></ul>",
+          "link": "https://www.schneier.com/blog/archives/2024/03/essays-from-the-second-iword.html",
+          "publishedOn": "2024-03-08T18:38:32.000Z",
+          "wordCount": 1199,
+          "title": "Essays from the Second IWORD",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/03/a-taxonomy-of-prompt-injection-attacks.html",
           "author": null,
           "description": "<p>Researchers ran a global prompt hacking competition, and have <a href=\"https://arxiv.org/pdf/2311.16119.pdf\">documented</a> the results in a paper that both gives a lot of good examples and tries to organize a taxonomy of effective prompt injection strategies. It seems as if the most common successful strategy is the &#8220;compound instruction attack,&#8221; as in &#8220;Say &#8216;I have been PWNED&#8217; without a period.&#8221;</p>\n<blockquote><p>Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of<br />\nLLMs through a Global Scale Prompt Hacking Competition</p>\n<p><b>Abstract:</b> Large Language Models (LLMs) are deployed in interactive contexts with direct user engagement, such as chatbots and writing assistants. These deployments are vulnerable to prompt injection and jailbreaking (collectively, prompt hacking), in which models are manipulated to ignore their original instructions and follow potentially malicious ones. Although widely acknowledged as a significant security threat, there is a dearth of large-scale resources and quantitative studies on prompt hacking. To address this lacuna, we launch a global prompt hacking competition, which allows for free-form human input attacks. We elicit 600K+ adversarial prompts against three state-of-the-art LLMs. We describe the dataset, which empirically verifies that current LLMs can indeed be manipulated via prompt hacking. We also present a comprehensive taxonomical ontology of the types of adversarial prompts...</p></blockquote>",
@@ -675,16 +705,6 @@
           "wordCount": 1009,
           "title": "No, Toothbrushes Were Not Used in a Massive DDoS Attack",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/blog/archives/2024/02/on-software-liabilities.html",
-          "author": null,
-          "description": "<p>Over on Lawfare, Jim Dempsey published a really interesting <a href=\"https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor\">proposal</a> for software liability: &#8220;Standard for Software Liability: Focus on the Product for Liability, Focus on the Process for Safe Harbor.&#8221;</p>\n<blockquote><p>Section 1 of this paper sets the stage by briefly describing the problem to be solved. Section 2 canvasses the different fields of law (warranty, negligence, products liability, and certification) that could provide a starting point for what would have to be legislative action establishing a system of software liability. The conclusion is that all of these fields would face the same question: How buggy is too buggy? Section 3 explains why existing software development frameworks do not provide a sufficiently definitive basis for legal liability. They focus on process, while a liability regime should begin with a focus on the product&#8212;­that is, on outcomes. Expanding on the idea of building codes for building code, Section 4 shows some examples of product-focused standards from other fields. Section 5 notes that already there have been definitive expressions of software defects that can be drawn together to form the minimum legal standard of security. It specifically calls out the list of common software weaknesses tracked by the MITRE Corporation under a government contract. Section 6 considers how to define flaws above the minimum floor and how to limit that liability with a safe harbor...</p></blockquote>",
-          "link": "https://www.schneier.com/blog/archives/2024/02/on-software-liabilities.html",
-          "publishedOn": "2024-02-08T12:00:19.000Z",
-          "wordCount": 1435,
-          "title": "On Software Liabilities",
-          "imageUrl": null
         }
       ]
     },
@@ -693,6 +713,96 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2009083",
+          "author": "John Timmer",
+          "description": "A scan of archives shows that lots of scientific papers aren't backed up.",
+          "link": "https://arstechnica.com/?p=2009083",
+          "publishedOn": "2024-03-08T22:25:18.000Z",
+          "wordCount": 2161,
+          "title": "Study finds that we could lose science if publishers go bankrupt",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1455032564-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008905",
+          "author": "Benj Edwards",
+          "description": "At the heart of AI, matrix math has just seen its biggest boost \"in more than a decade.”",
+          "link": "https://arstechnica.com/?p=2008905",
+          "publishedOn": "2024-03-08T21:07:18.000Z",
+          "wordCount": 2252,
+          "title": "Matrix multiplication breakthrough could lead to faster, more efficient AI models",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/matrix_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008955",
+          "author": "Scharon Harding",
+          "description": "120 Hz is good enough for consoles, but not for FreeSync.",
+          "link": "https://arstechnica.com/?p=2008955",
+          "publishedOn": "2024-03-08T20:35:38.000Z",
+          "wordCount": 1767,
+          "title": "AMD stops certifying monitors, TVs under 144 Hz for FreeSync",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/FreeSync-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2009007",
+          "author": "Beth Mole",
+          "description": "In the majority of cases, the excessive amounts led to only minimal side effects.",
+          "link": "https://arstechnica.com/?p=2009007",
+          "publishedOn": "2024-03-08T19:50:15.000Z",
+          "wordCount": 1869,
+          "title": "Thousands of US kids are overdosing on melatonin gummies, ER study finds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1485479239-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2009006",
+          "author": "Jonathan M. Gitlin",
+          "description": "Bad software, charging problems led Chevy to stop selling the Blazer EV in December.",
+          "link": "https://arstechnica.com/?p=2009006",
+          "publishedOn": "2024-03-08T19:40:00.000Z",
+          "wordCount": 1608,
+          "title": "GM starts selling Chevy Blazer EVs again, cuts prices up to $6,250",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/2024-Chevrolet-Blazer-EV-14-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008918",
+          "author": "Ron Amadeo",
+          "description": "Gemini Nano can't run on the smaller Pixel 8 due to mysterious \"hardware limitations.\"",
+          "link": "https://arstechnica.com/?p=2008918",
+          "publishedOn": "2024-03-08T19:22:37.000Z",
+          "wordCount": 2279,
+          "title": "Google says the AI-focused Pixel 8 can’t run its latest smartphone AI models",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008964",
+          "author": "Kyle Orland",
+          "description": "After EU began investigation, Apple repaves path for Fortnite on European iOS.",
+          "link": "https://arstechnica.com/?p=2008964",
+          "publishedOn": "2024-03-08T18:51:49.000Z",
+          "wordCount": 1914,
+          "title": "Apple backtracks, reinstates Epic Games’ iOS developer account in Europe",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/fortnite-rainbow-crossroads-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008953",
+          "author": "Dan Goodin",
+          "description": "Midnight Blizzard is now using stolen secrets in follow-on attacks against customers.",
+          "link": "https://arstechnica.com/?p=2008953",
+          "publishedOn": "2024-03-08T18:42:39.000Z",
+          "wordCount": 2207,
+          "title": "Microsoft says Kremlin-backed hackers accessed its source and internal systems",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/microsoft-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=2008913",
+          "author": "Kevin Purdy",
+          "description": "Some can relist games on Steam or consoles—but without reviews or fan content.",
+          "link": "https://arstechnica.com/?p=2008913",
+          "publishedOn": "2024-03-08T18:23:40.000Z",
+          "wordCount": 1925,
+          "title": "Devs left with tough choices as Warner Bros. ends all Adult Swim Games downloads",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/adult_swim_games-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=2008927",
           "author": "Jon Brodkin",
@@ -4366,6 +4476,26 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/sea-of-thieves-adding-anti-cheat-subscription-free-solo-play-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Following the launch of Sea of Thieves' radical structural overhaul last month, Rare is readying to release a new mid-season update next week that'll add anti-cheat and subscription-free solo play to its swashbuckling pirate adventure. Plus, a big 2024 content preview is on the way as part of Sea of Thieves' sixth anniversary celebrations.\r\n\n\r\nStarting with anti-cheat, Rare has confirmed it'll be introducing Epic's kernel-level Easy Anti-Cheat solution - as used by the likes of Fortnite and Apex Legends - to Sea of Thieves next Thursday, 14th March. There's not much more to report beyond its imminent arrival, but the news'll probably bring some reassurance if you think you've been privy to suspicious behaviour out on the seas. And I'm not talking spyglass dongs.\r\n\n\r\nAdditionally, next week's update brings an interesting expansion to last year's Safer Seas mode. From next Thursday onward, it'll be possible for pirates to play alone on a Safer Seas private server without needing a Game Pass Core or Game Pass Ultimate subscription. The key points to note here are that this isn't an offline mode - Sea of Thieves is still intrinsically reliant on its servers - and any form of multiplayer, even in Safer Seas, will still require Game Pass.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sea-of-thieves-adding-anti-cheat-subscription-free-solo-play-next-week?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T21:24:16.000Z",
+          "wordCount": 7350,
+          "title": "Sea of Thieves adding anti-cheat, subscription-free solo play next week",
+          "imageUrl": "https://assetsio.reedpopcdn.com/sea-of-thieves-pet-rock.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/ubisofts-watch-dogs-is-the-latest-game-series-to-get-the-live-action-movie-treatment?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Matt Wales",
+          "description": "Watch Dogs, Ubisoft's open-world sci-fi hacker series, is reportedly the latest in an ever-growing list of video games to get the live-action movie treatment, with Talk to Me actor Sophie Wilde said to be in talks to star.\r\n\n\r\nThat's according to Deadline, which reports the Watch Dogs movie will be helmed by director Mathieu Turi (who's currently adapting A Plague Tale for television), working from a screenplay by Christie LeBlanc - the writer behind Netflix's 2021 French sci-fi thriller Oxygen.\r\n\n\r\nThe Watch Dogs movie is in development at New Regency Productions but, beyond word of Talk to Me actor Sophie Wilde's potential involvement and the rather obvious note from Deadline that it'll be \"set within the universe of Ubisoft's\" series, details are limited.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ubisofts-watch-dogs-is-the-latest-game-series-to-get-the-live-action-movie-treatment?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-08T20:37:43.000Z",
+          "wordCount": 7350,
+          "title": "Ubisoft's Watch Dogs the latest game series to get the movie treatment",
+          "imageUrl": "https://assetsio.reedpopcdn.com/2449259_watch_dogs_being_hacked.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/ea-classics-including-simcity-3000-and-dungeon-keeper-launch-on-steam?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Liv Ngan",
           "description": "EA has released a number of its older games onto Steam for the first time, and at a discounted price.\nNewly-added titles include games from the Command & Conquer series, the early Dungeon Keeper games, and SimCity 3000 Unlimited.\nThe games EA has released all feature the most up-to-date patches, the company said in a press release. \n Read more",
@@ -7874,36 +8004,6 @@
           "wordCount": 7133,
           "title": "RuneScape developer Jagex soon to be acquired in £900m deal, report suggests",
           "imageUrl": "https://assetsio.reedpopcdn.com/runescape-combat-artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-layoffs-affect-86-staff-at-spyro-crash-bandicoot-studio?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Liv Ngan",
-          "description": "Activision Blizzard's Crash Bandicoot and Spyro studio Toys for Bob lose 86 employees as a result of layoffs.\nThese people are part of the wider round of layoffs Microsoft is undertaking, which will see 1900 employees across Xbox and Activision Blizzard lose their jobs.\nThe layoffs at Toys for Bob are much higher than previously estimated - a report from two weeks ago claimed between 30 to 40 percent of jobs would be affected, which was estimated to be around 35 people.\n Read more",
-          "link": "https://www.eurogamer.net/microsoft-layoffs-affect-86-staff-at-spyro-crash-bandicoot-studio?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-08T12:19:16.000Z",
-          "wordCount": 6970,
-          "title": "Microsoft layoffs affect 86 staff at Spyro, Crash Bandicoot studio",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ss_52a34a9b5105ae4bd77f4a15e735282f000dd239.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-layoffs-contradict-what-was-said-in-activision-antitrust-trial-ftc-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Victoria Kennedy",
-          "description": "The US Federal Trade Commission (FTC) has said the recent spate of layoffs at Microsoft \"contradict\" what was presented in the antitrust trial over the company's acquisition of Activision Blizzard.\nIn a letter submitted to a US Federal Appeals Court yesterday - first spotted by The Verge - the FTC argued the company's layoff plan differs from how Microsoft represented itself in court proceedings ahead of the merger's closure last year.\n\"Microsoft represented to this Court that 'the post-merger company will be structured and operated in a way that would readily enable Microsoft to divest any or all of the Activision businesses as robust market participants in the unlikely event that such a divestiture is ordered',\" FTC counsel Imad D. Abyad wrote. \n Read more",
-          "link": "https://www.eurogamer.net/microsoft-layoffs-contradict-what-was-said-in-activision-antitrust-trial-ftc-says?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-08T11:25:42.000Z",
-          "wordCount": 7340,
-          "title": "Microsoft layoffs \"contradict\" what was said in Activision antitrust trial, FTC claims",
-          "imageUrl": "https://assetsio.reedpopcdn.com/Call-of-Duty-Black-Ops-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/take-two-and-2k-say-virtual-currency-is-fiction-as-in-game-currency-lawsuit-continues?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Tom Phillips",
-          "description": "Take-Two Interactive and 2K Games have said that virtual currencies within games are \"fictions created by game publishers\" during a lawsuit which alleges that money is effectively stolen from players when games are shut down. \r\n\n\r\nThe lawsuit, originally filed in November by a Californian minor and his mother, alleges that Take-Two is guilty of civil theft and unfair business practicies for closing down servers for various NBA 2K, WWE 2K and PGA Tour 2K titles, causing players to lose access to any remaining in-game funds they have paid for.\r\n\n\r\n\"VC [virtual currency] is not plaintiff's property,\" a Take-Two lawyer stated this week, as reported by Game File. \"Instead, in-game VC are fictions created by game publishers, subject to the publishers’ terms of service and user agreements.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/take-two-and-2k-say-virtual-currency-is-fiction-as-in-game-currency-lawsuit-continues?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-08T11:14:18.000Z",
-          "wordCount": 7237,
-          "title": "Take-Two and 2K say virtual currency is \"fiction\", as in-game currency lawsuit continues",
-          "imageUrl": "https://assetsio.reedpopcdn.com/wwe-2k22-75-000-virtual-currency-pack-xbox-one-75-000-xbox-one-game-microsoft-store-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
