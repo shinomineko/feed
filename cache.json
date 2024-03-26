@@ -124,16 +124,6 @@
           "wordCount": 221,
           "title": "Call My Cell",
           "imageUrl": "https://imgs.xkcd.com/comics/call_my_cell_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2899/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/goodharts_law.png\" title=\"[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.\" alt=\"[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.\" />",
-          "link": "https://xkcd.com/2899/",
-          "publishedOn": "2024-02-26T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Goodhart's Law",
-          "imageUrl": "https://imgs.xkcd.com/comics/goodharts_law_2x.png"
         }
       ]
     },
@@ -407,6 +397,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/03/on-secure-voting-systems.html",
+          "author": null,
+          "description": "<p>Andrew Appel shepherded a <a href=\"https://freedom-to-tinker.com/2024/03/18/suggested-principles-for-state-statutes-regarding-ballot-marking-and-vote-tabulation/\">public comment</a>&#8212;signed by twenty election cybersecurity experts, including myself&#8212;on best practices for ballot marking devices and vote tabulation. It was written for the Pennsylvania legislature, but it&#8217;s general in nature.</p>\n<p>From the executive summary:</p>\n<blockquote><p>We believe that no system is perfect, with each having trade-offs. Hand-marked and hand-counted ballots remove the uncertainty introduced by use of electronic machinery and the ability of bad actors to exploit electronic vulnerabilities to remotely alter the results. However, some portion of voters mistakenly mark paper ballots in a manner that will not be counted in the way the voter intended, or which even voids the ballot. Hand-counts delay timely reporting of results, and introduce the possibility for human error, bias, or misinterpretation...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/03/on-secure-voting-systems.html",
+          "publishedOn": "2024-03-26T11:08:16.000Z",
+          "wordCount": 1262,
+          "title": "On Secure Voting Systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/03/licensing-ai-engineers.html",
           "author": null,
           "description": "<p>The debate over professionalizing software engineers is decades old. (The basic idea is that, like lawyers and architects, there should be some professional licensing requirement for software engineers.) Here&#8217;s a <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759742\">law journal article</a> recommending the same idea for AI engineers.</p>\n<blockquote><p>This Article proposes another way: professionalizing AI engineering. Require AI engineers to obtain licenses to build commercial AI products, push them to collaborate on scientifically-supported, domain-specific technical standards, and charge them with policing themselves. This Article&#8217;s proposal addresses AI harms at their inception, influencing the very engineering decisions that give rise to them in the first place. By wresting control over information and system design away from companies and handing it to AI engineers, professionalization engenders trustworthy AI by design. Beyond recommending the specific policy solution of professionalization, this Article seeks to shift the discourse on AI away from an emphasis on light-touch, ex post solutions that address already-created products to a greater focus on ex ante controls that precede AI development. We&#8217;ve used this playbook before in fields requiring a high level of expertise where a duty to the public welfare must trump business motivations. What if, like doctors, AI engineers also vowed to do no harm?...</p></blockquote>",
@@ -673,6 +673,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2012413",
+          "author": "Kyle Orland",
+          "description": "\"Team 0%\" declares a bittersweet victory as Trimming the Herbs' creator comes clean.",
+          "link": "https://arstechnica.com/?p=2012413",
+          "publishedOn": "2024-03-26T11:00:25.000Z",
+          "wordCount": 1878,
+          "title": "Super Mario Maker’s “final boss” was a fraud all along",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/rob-tool-assisted-mario-maker-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2012455",
           "author": "Stephen Clark",
@@ -4416,6 +4426,36 @@
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/baldurs-gate-3-would-have-originally-let-you-recruit-a-major-villain?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "Baldur's Gate 3 boss Swen Vincke has revealed a number of ideas cut from  the game during its development - including the ability to recruit a major antagonist as a companion character.\r\n\n\r\nSpeaking to IGN, Vincke also mentioned plans to feature a wider range of locations in the game - including several that will be familiar to Dungeons and Dragons players. \r\n\n\r\nIf you're still playing (I'm only just on Act 3!), a final warning that Baldur's Gate 3 plot details follow.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/baldurs-gate-3-would-have-originally-let-you-recruit-a-major-villain?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-26T12:21:34.000Z",
+          "wordCount": 7564,
+          "title": "Baldur's Gate 3 would have originally let you recruit a major villain",
+          "imageUrl": "https://assetsio.gnwcdn.com/Gale-BG3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/majority-of-xbox-games-will-come-to-ps5-at-some-point-its-claimed?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "It is understood the \"majority\" of Xbox games will eventually be coming to PlayStation. \r\n\n\r\nThat's according to Chris Dring from Eurogamer's sister site GamesIndustry.biz. Speaking on the GI Microcast, Dring said his takeaway from GDC was that \"Xbox is in real trouble as a hardware manufacturer\". Sources who spoke to Dring during the conference last week said that \"Xbox's performance in Europe is just flatlining\", and some publishers were now expressing concerns about supporting the console. \r\n\n\r\n\"The phrase one major company who released a big game last year said [was], 'I don't know why we bothered supporting it',\" Dring shared. \"We mentioned on a previous podcast that we'd heard retailers in Europe are considering or had already been cutting back their Xbox stock on their shelves - hardware, games, that kind of thing - and now you've got third-party publishers going, 'we're putting in a lot of effort trying to create a Series S version and an X version of a game when, to be honest with you, for us the market is PC and PS5'.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/majority-of-xbox-games-will-come-to-ps5-at-some-point-its-claimed?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-26T11:37:10.000Z",
+          "wordCount": 7825,
+          "title": "\"Majority\" of Xbox games will come to PS5 at some point, it's claimed",
+          "imageUrl": "https://assetsio.gnwcdn.com/VASCO-in-Starfield.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/phil-spencer-discusses-potential-xbox-handheld-plans?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "Xbox gaming boss Phil Spencer has discussed the idea of a Microsoft handheld games device, and how Xbox games should play on third-party handheld hardware.\r\n\n\r\nSpencer, a keen handheld PC enthusiast, told Polygon that Microsoft was discussing \"different hardware form factors and things that [they] could go do\" to grow the Xbox audience further.\r\n\n\r\n\"What should we build that will find new players?\" Spencer mused. \"That will allow people to play at times when they couldn't go play [in the past]?\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/phil-spencer-discusses-potential-xbox-handheld-plans?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-26T11:16:41.000Z",
+          "wordCount": 7197,
+          "title": "Phil Spencer discusses potential Xbox handheld plans",
+          "imageUrl": "https://assetsio.gnwcdn.com/Steam-Deck_uSVvENJ.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
           "id": "https://www.eurogamer.net/dragons-dogma-2s-dragonsplague-pawn-affliction-can-wipe-out-an-entire-town?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Victoria Kennedy",
           "description": "Dragon's Dogma 2 is full of surprises, and players are still working to discover all of them. Chief of interest at the moment is the curious Dragonsplague affliction that can be acquired by Pawns - and cause the loss of an entire town in one evening.\nPlayers believe Dragonsplague can be contracted by Pawns after they fight against a dragon - but the condition can also be passed between Pawns, too.\nIf ignored, the consequences can be \"devastating\", Capcom warns. The official Dragon's Dogma 2 website describes Dragonsplague as a \"contagious disease-like condition that infects pawns as they travel between worlds\".\n Read more",
@@ -8024,16 +8064,6 @@
           "wordCount": 7491,
           "title": "Helldivers 2 UK boxed sales grow again week-on-week",
           "imageUrl": "https://assetsio.reedpopcdn.com/Helldivers2_zwZdhuV.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/bravely-default-fans-can-expect-new-developments-about-the-series-later-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Vikki Blake",
-          "description": "Tomorrow marks Bravely Default 2's third anniversary, and Tomoya Asano has the best gift of all for fans: a tease that the team will be able to tell us more about what's happening with the franchise \"later this year\".\nMarking the event with celebratory art posted to X/Twitter, producer Asano thanked fans for their support and teased that we should \"keep an eye out\" for more \"developments\" about the Bravely series.\n\"[Bravely] Default 2 3rd anniversary celebration!\" Asano wrote, as translated by Google. \"Many messages will be sent during the year-end and New Year project. Thank you!\n Read more",
-          "link": "https://www.eurogamer.net/bravely-default-fans-can-expect-new-developments-about-the-series-later-this-year?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-25T18:26:35.000Z",
-          "wordCount": 7240,
-          "title": "Bravely Default fans can expect new \"developments\" about the series \"later this year\"",
-          "imageUrl": "https://assetsio.reedpopcdn.com/bravely-default-2-heads-to-steam-in-september-1630016305981.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
