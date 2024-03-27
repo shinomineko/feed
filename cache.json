@@ -387,6 +387,16 @@
       "siteUrl": "https://www.schneier.com",
       "articles": [
         {
+          "id": "https://www.schneier.com/blog/archives/2024/03/security-vulnerability-in-safloks-rfid-based-keycard-locks.html",
+          "author": null,
+          "description": "<p>It&#8217;s <a href=\"https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/\">pretty devastating</a>:</p>\n<blockquote><p>Today, Ian Carroll, Lennert Wouters, and a team of other security researchers are revealing a hotel keycard hacking technique they call <a href=\"https://unsaflok.com/\">Unsaflok</a>. The technique is a collection of security vulnerabilities that would allow a hacker to almost instantly open several models of Saflok-brand RFID-based keycard locks sold by the Swiss lock maker Dormakaba. The Saflok systems are installed on 3 million doors worldwide, inside 13,000 properties in 131 countries. By exploiting weaknesses in both Dormakaba&#8217;s encryption and the underlying RFID system Dormakaba uses, known as MIFARE Classic, Carroll and Wouters have demonstrated just how easily they can open a Saflok keycard lock. Their technique starts with obtaining any keycard from a target hotel&#8212;say, by booking a room there or grabbing a keycard out of a box of used ones&#8212;then reading a certain code from that card with a $300 RFID read-write device, and finally writing two keycards of their own. When they merely tap those two cards on a lock, the first rewrites a certain piece of the lock&#8217;s data, and the second opens it...</p></blockquote>",
+          "link": "https://www.schneier.com/blog/archives/2024/03/security-vulnerability-in-safloks-rfid-based-keycard-locks.html",
+          "publishedOn": "2024-03-27T11:01:08.000Z",
+          "wordCount": 1162,
+          "title": "Security Vulnerability in Saflok’s RFID-Based Keycard Locks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.schneier.com/blog/archives/2024/03/on-secure-voting-systems.html",
           "author": null,
           "description": "<p>Andrew Appel shepherded a <a href=\"https://freedom-to-tinker.com/2024/03/18/suggested-principles-for-state-statutes-regarding-ballot-marking-and-vote-tabulation/\">public comment</a>&#8212;signed by twenty election cybersecurity experts, including myself&#8212;on best practices for ballot marking devices and vote tabulation. It was written for the Pennsylvania legislature, but it&#8217;s general in nature.</p>\n<p>From the executive summary:</p>\n<blockquote><p>We believe that no system is perfect, with each having trade-offs. Hand-marked and hand-counted ballots remove the uncertainty introduced by use of electronic machinery and the ability of bad actors to exploit electronic vulnerabilities to remotely alter the results. However, some portion of voters mistakenly mark paper ballots in a manner that will not be counted in the way the voter intended, or which even voids the ballot. Hand-counts delay timely reporting of results, and introduce the possibility for human error, bias, or misinterpretation...</p></blockquote>",
@@ -653,6 +663,16 @@
       "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=2007717",
+          "author": "Scharon Harding",
+          "description": "Explaining the mushy and the magnificent.",
+          "link": "https://arstechnica.com/?p=2007717",
+          "publishedOn": "2024-03-27T11:00:31.000Z",
+          "wordCount": 1919,
+          "title": "The Ars Technica guide to keyboards: Mechanical, membrane, and buckling springs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/keyboard-switch-styles-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=2012750",
           "author": "Beth Mole",
@@ -4282,86 +4302,6 @@
           "wordCount": 1962,
           "title": "New data shows which states were more deadly for pedestrians in 2023",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1411047342-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2006048",
-          "author": "Eric Berger",
-          "description": "\"Several engines began shutting down before one engine failed energetically.\"",
-          "link": "https://arstechnica.com/?p=2006048",
-          "publishedOn": "2024-02-26T23:53:00.000Z",
-          "wordCount": 2113,
-          "title": "SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/F_VbEJcbQAAv3Ak-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2006043",
-          "author": "Jon Brodkin",
-          "description": "In oral arguments, Justice Thomas asks who speaks when an algorithm moderates.",
-          "link": "https://arstechnica.com/?p=2006043",
-          "publishedOn": "2024-02-26T23:33:20.000Z",
-          "wordCount": 2226,
-          "title": "Kagan: Florida social media law seems like “classic First Amendment violation”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/supreme-court-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2006049",
-          "author": "Beth Mole",
-          "description": "Breakdown products of niacin, aka Vitamin B3, may spur vascular inflammation.",
-          "link": "https://arstechnica.com/?p=2006049",
-          "publishedOn": "2024-02-26T23:09:18.000Z",
-          "wordCount": 1909,
-          "title": "Surprising link found between niacin and risk of heart attack and stroke",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1404201133-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2005985",
-          "author": "Samuel Axon",
-          "description": "The OLED displays account for more than a third of the component costs.",
-          "link": "https://arstechnica.com/?p=2005985",
-          "publishedOn": "2024-02-26T21:15:03.000Z",
-          "wordCount": 1747,
-          "title": "Apple Vision Pro’s components cost $1,542—but that’s not the full story",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Vision-Pro-displays-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2005934",
-          "author": "Ron Amadeo",
-          "description": "Wear OS + Snapdragon uses too much power, so what if we just turned it off?",
-          "link": "https://arstechnica.com/?p=2005934",
-          "publishedOn": "2024-02-26T21:08:00.000Z",
-          "wordCount": 2399,
-          "title": "Wear OS “Hybrid” design has two OSes, two CPUs, “100 hour” battery life",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/images-pack-2193_3549-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2005876",
-          "author": "Scharon Harding",
-          "description": "Customers confused as Sony claims to work with affected users individually.",
-          "link": "https://arstechnica.com/?p=2005876",
-          "publishedOn": "2024-02-26T19:42:41.000Z",
-          "wordCount": 2220,
-          "title": "Sony claims to offer subs “appropriate value” for deleting digital libraries",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2005903",
-          "author": "Kevin Purdy",
-          "description": "The rest of 2024 promises a whole lot for Age of Empires fans across all titles.",
-          "link": "https://arstechnica.com/?p=2005903",
-          "publishedOn": "2024-02-26T19:07:28.000Z",
-          "wordCount": 1988,
-          "title": "Age of Empires 2 gets another expansion 25 years later, and deservedly so",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/aoevv3-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=2005870",
-          "author": "Eric Berger",
-          "description": "So what are we to make of this? Is Odysseus a success or a failure?",
-          "link": "https://arstechnica.com/?p=2005870",
-          "publishedOn": "2024-02-26T18:45:00.000Z",
-          "wordCount": 2200,
-          "title": "Odysseus has less than a day left on the Moon before it freezes to death",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/odie1-760x380.jpg"
         }
       ]
     },
@@ -4435,6 +4375,56 @@
       "feedUrl": "https://www.eurogamer.net/?format=rss&type=news",
       "siteUrl": "https://www.eurogamer.net/feed/news",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/cassette-beasts-gets-multiplayer-update-and-mobile-release?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Creature collecting RPG Cassette Beasts will receive a multiplayer update in May, plus it's heading to mobile devices this year.\r\n\n\r\nPublisher Raw Fury held a Cassette Beasts showcase (below) detailing a number of new features coming to the game.\r\n\n\r\nThe big addition is multiplayer, coming to all platforms on 20th May, which not only allows players to battle each other and trade monsters, but also explore cooperatively.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cassette-beasts-gets-multiplayer-update-and-mobile-release?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-27T12:27:57.000Z",
+          "wordCount": 7017,
+          "title": "Cassette Beasts gets multiplayer update and mobile release",
+          "imageUrl": "https://assetsio.gnwcdn.com/image001_WxKplcC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/another-f-zero-game-speeds-on-to-switch-this-week-at-maximum-velocity?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "Another F-Zero game is on the way to Switch.\r\n\n\r\nF-Zero: Maximum Velocity will join Nintendo Switch Online for Expansion Pack subscribers on 29th March.\r\n\n\r\nThe high speed racer was a launch game for the Game Boy Advance and took its cue from the SNES original with its flat, twisting tracks and pixel graphics. It was generally well regarded on release, alongside the likes of Castlevania: Circle of the Moon and Tony Hawk's Pro Skater 2.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/another-f-zero-game-speeds-on-to-switch-this-week-at-maximum-velocity?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-27T12:00:24.000Z",
+          "wordCount": 7068,
+          "title": "Another F-Zero game speeds on to Switch this week at maximum velocity",
+          "imageUrl": "https://assetsio.gnwcdn.com/Game-Boy-Advance-%E2%80%93-March-2024-Game-Updates-%E2%80%93-Nintendo-Switch-Online-0-3-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/phil-spencer-wants-more-digital-storefronts-on-xbox?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Victoria Kennedy",
+          "description": "Xbox head Phil Spencer wants to see more digital storefronts such as Epic and Itch.io on Microsoft's consoles. \r\n\n\r\nSpeaking with Polygon, Spencer said he would like to break down the 'walled gardens' that limit players to buying games on a particular platform's official digital store. \r\n\n\r\n\"[Consider] our history as the Windows company,\" he explained. \"Nobody would blink twice if I said 'hey, when you're using a PC, you get to decide the type of experience you have [by picking where to buy games]'. There's real value in that.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/phil-spencer-wants-more-digital-storefronts-on-xbox?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-27T11:40:47.000Z",
+          "wordCount": 7477,
+          "title": "Phil Spencer wants more digital storefronts on Xbox",
+          "imageUrl": "https://assetsio.gnwcdn.com/xbox-series-x-wrap-starfield.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/xbox-boss-phil-spencer-concerned-over-layoffs-due-to-lack-of-industry-growth?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Tom Phillips",
+          "description": "Phil Spencer has discussed the devastating wave of layoffs that has impacted the video games industry, and said he was \"most concerned\" about the overall \"lack of growth\". \r\n\n\r\nThe Xbox boss presided over the departure of 1900 people across Xbox and Activision Blizzard in January of this year, a decision he described at the time as being one aimed at achieving \"a sustainable cost structure that will support the whole of our growing business\". \r\n\n\r\nAcross the video games industry as a whole, more than 15,000 people are thought to have been let go over the past 18 months. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/xbox-boss-phil-spencer-concerned-over-layoffs-due-to-lack-of-industry-growth?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-27T11:38:57.000Z",
+          "wordCount": 7220,
+          "title": "Xbox boss Phil Spencer \"concerned\" over layoffs due to lack of industry growth",
+          "imageUrl": "https://assetsio.gnwcdn.com/layoffs_SwITSw8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-14-dawntrail-pre-orders-beset-with-issues?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "author": "Ed Nightingale",
+          "description": "The next expansion for MMORPG Final Fantasy 14, Dawntrail, is up for pre-order, but the process has been beset with issues.\r\n\n\r\nIt began with failed card payments when pre-ordering on the Square Enix Store, which Square Enix acknowledged. In a post on X, it suggested using PayPal instead and then stated transaction difficulties had been resolved, before admitting some issues persisted. Using the 'Guest Checkout' was recommended instead.\r\n\n\r\nAnd that was if users could even reach the store. The website was unable to cope with the amount of traffic, meaning fans were beset with error messages before even reaching card payments.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-14-dawntrail-pre-orders-beset-with-issues?utm_source=feed&utm_medium=rss&utm_campaign=feed",
+          "publishedOn": "2024-03-27T11:27:03.000Z",
+          "wordCount": 7383,
+          "title": "Final Fantasy 14 Dawntrail pre-orders beset with issues",
+          "imageUrl": "https://assetsio.gnwcdn.com/FFXIV_PUB_FANFESTIVAL_2024_in_TOKYO_03.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
         {
           "id": "https://www.eurogamer.net/bioshock-creator-ken-levine-finally-explains-judas-narrative-lego-concept?utm_source=feed&utm_medium=rss&utm_campaign=feed",
           "author": "Tom Phillips",
@@ -7994,36 +7984,6 @@
           "wordCount": 7025,
           "title": "Watch today's Pokémon Presents livestream here",
           "imageUrl": "https://assetsio.reedpopcdn.com/pokemon-brilliant-diamond-and-shining-pearl-review-gen-four-remade-in-the-wrong-places-1637330660838.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/ark-survival-ascendeds-the-center-map-remaster-delayed-indefinitely?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "Ark: Survival Ascended developer Studio Wildcard has announced it's indefinitely delaying the release of the dinosaur survival remaster's enhanced The Center expansion, just days before its planned 28th February release.\r\n\n\r\nArk: Survival Ascended - the controversial full-price Unreal Engine 5 remaster of 2015's Ark: Survival Evolved - has been plagued with delays since its announcement last year. First, the remaster's launch was shifted from August to October - a release it eventually managed to hit on PC, albeit with the Xbox Series X/S version getting a last-minute delay to mid-November and the PS5 release arriving later still - while Ascended's various expansion remasters, originally due to launch alongside the base game, have now slipped a number of times.\r\n\n\r\nIn January, Wildcard announced its Scorched Earth expansion remaster, initially delayed to December 2023 and then moved to March 2024, would now be releasing in April, while its Aberration and Ragnarok map remasters - previously delayed to \"Q1 2024\" - were now on track to arrive in July and September 2024 respectively. Amid all this furious roadmap revision, there was a bright spot in that the enhanced version of Ark's The Center map would now be coming to Ascended a couple of months earlier than listed in December. The Center's release was later pinned down to 28th February, but once again it's all change.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ark-survival-ascendeds-the-center-map-remaster-delayed-indefinitely?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-27T00:07:18.000Z",
-          "wordCount": 7393,
-          "title": "Ark: Survival Ascended's The Center map remaster delayed indefinitely",
-          "imageUrl": "https://assetsio.reedpopcdn.com/ark-survival-ascended-gigantoraptor.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/monsters-incs-sulley-and-mike-join-disney-dreamlight-valley-this-week?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "Disney Dreamlight Valley's first major content update of 2024 arrives this Wednesday, 28th February, introducing Monsters, Inc.'s Sully and Mike Wazowski to the village - and ahead of its arrival, developer Gameloft has detailed everything this week's free patch will bring.\r\n\n\r\nMike and Sulley arrive as part of what Gameloft is officially calling the Laugh Floor Update, and both make their Dreamlight Valley debut via a new playable Realm - giving players the chance to experience a day-in-the-life at Monsters, Inc. before the duo become available as villagers - each with their own friendship quests and associated rewards.\r\n\n\r\nOther features coming in this week's Laugh Floor Update, as detailed in Gameloft's newly shared patch notes, include more avatar customisation options - ranging from new skin tones and special eye contacts to new ear styles - plus an expansion to Scrooge McDuck's shop, meaning players will see more items to spend their in-game gold on each day.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/monsters-incs-sulley-and-mike-join-disney-dreamlight-valley-this-week?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-26T22:17:23.000Z",
-          "wordCount": 7235,
-          "title": "Monsters, Inc's Sulley and Mike join Disney Dreamlight Valley this week",
-          "imageUrl": "https://assetsio.reedpopcdn.com/dreamlight-valley-mike-sulley.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "id": "https://www.eurogamer.net/stardew-valleys-long-awaited-16-update-gets-march-release-date-on-pc?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "author": "Matt Wales",
-          "description": "Stardew Valley is celebrating its eighth anniversary today (yes, I couldn't believe it either) and developer Eric \"ConcernedApe\" Barone has marked the occasion by announcing a release date for his beloved farm-life sim's eagerly awaited 1.6 update - which is coming to PC on 19th March, with a console and mobile release to follow \"as soon as possible\".\r\n\n\r\nStardew Valley's 1.6 update was revealed to be in the works back in June 2022, when Barone warned it would be relatively modest in scope and 'mostly modding-focused'. Since then, however, it's ballooned substantially, with Barone so far confirming it'll bring one major new festival and two new mini festivals, new items and crafting recipes, new dialogue lines, a new farm type, new late-game content, winter outfits for villagers, a new larger chest, 8-player co-op on PC, plus - most importantly of all - hats for cats and dogs.\r\n\n\r\nIt was exactly one month ago today that Barone last shared a progress report on 1.6's development, revealing he was \"done adding major new content\" and that it would \"definitely\" release this year - and we now have an exact date to mark in our calendars.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/stardew-valleys-long-awaited-16-update-gets-march-release-date-on-pc?utm_source=feed&utm_medium=rss&utm_campaign=feed",
-          "publishedOn": "2024-02-26T20:16:02.000Z",
-          "wordCount": 7461,
-          "title": "Stardew Valley's long-awaited 1.6 update gets March release date on PC",
-          "imageUrl": "https://assetsio.reedpopcdn.com/stardew-valley-fishing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
